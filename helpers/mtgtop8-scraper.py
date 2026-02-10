@@ -4,13 +4,21 @@ from pathlib import Path
 from urllib.parse import parse_qs, urljoin, urlparse
 import re
 import time
+from datetime import datetime, timedelta
 
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+# --- CONFIGURATION ---
 BASE_URL = "https://www.mtgtop8.com"
 SEARCH_URL = "https://www.mtgtop8.com/search?current_page={page}"
+
+# Calculate "Last 12 Months" date string (DD/MM/YYYY)
+one_year_ago = datetime.now() - timedelta(days=365)
+DATE_START = one_year_ago.strftime("%d/%m/%Y")
+
+# We inject date_start={DATE_START} into the parameters
 SEARCH_PARAMS = (
     "&event_titre=&deck_titre=&player=&format=cEDH&archetype_sel%5BVI%5D="
     "&archetype_sel%5BLE%5D=&archetype_sel%5BMO%5D=&archetype_sel%5BPI%5D="
@@ -20,7 +28,7 @@ SEARCH_PARAMS = (
     "&archetype_sel%5BPEA%5D=&archetype_sel%5BEDHM%5D=&archetype_sel%5BALCH%5D="
     "&archetype_sel%5BcEDH%5D=&archetype_sel%5BEXP%5D=&archetype_sel%5BPREM%5D="
     "&compet_check%5BP%5D=1&compet_check%5BM%5D=1&compet_check%5BC%5D=1"
-    "&compet_check%5BR%5D=1&MD_check=1&cards=&date_start=&date_end="
+    f"&compet_check%5BR%5D=1&MD_check=1&cards=&date_start={DATE_START}&date_end="
 )
 
 DATASET_DIR = Path("../data/mtgtop8")
@@ -37,11 +45,14 @@ PLAYERS_RE = re.compile(r"(\d+)\s+players?\b", re.IGNORECASE)
 def fetch_soup(session: requests.Session, url: str) -> BeautifulSoup:
     response = session.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
+    # Fix encoding explicitly for MTGTop8
+    response.encoding = response.apparent_encoding
     return BeautifulSoup(response.text, "html.parser")
 
 
 def extract_deck_links(soup: BeautifulSoup) -> list[str]:
     links: list[str] = []
+    # The search page uses 'hover_tr' for rows
     for row in soup.select(".hover_tr"):
         cells = row.find_all("td")
         if len(cells) < 2:
@@ -94,66 +105,107 @@ def mtgo_export_url(deck_link: str) -> str:
     return urljoin(BASE_URL, f"/mtgo{deck_path}")
 
 
-def scrape_decklists(max_pages: int | None = 5, delay_s: float = 0.0) -> pd.DataFrame:
+def scrape_decklists(max_pages: int | None = None, delay_s: float = 0.2) -> pd.DataFrame:
     session = requests.Session()
     records: list[dict] = []
     seen_links: set[str] = set()
 
     page = 1
+    
+    print(f"Starting Search for cEDH decks since {DATE_START}...")
+
     while True:
         if max_pages is not None and page > max_pages:
             break
 
         search_url = f"{SEARCH_URL.format(page=page)}{SEARCH_PARAMS}"
+        print(f"Scraping Page {page}...")
+        
         soup = fetch_soup(session, search_url)
         page_links = extract_deck_links(soup)
 
+        if not page_links:
+            print("No decks found on this page. Stopping.")
+            break
+
+        new_on_page = 0
         for link in page_links:
             if link in seen_links:
                 continue
             seen_links.add(link)
+            new_on_page += 1
 
             deck_url = urljoin(BASE_URL, link)
             deck_id = parse_deck_id(deck_url) or f"page{page}_idx{len(records)}"
-            html_soup = fetch_soup(session, deck_url)
-            players = parse_players(html_soup)
-            placement = parse_placement_for_deck(html_soup, deck_id)
-
-            mtgo_url = mtgo_export_url(link)
-            mtgo_text = session.get(mtgo_url, headers=HEADERS, timeout=30).text
-
+            
+            # FILE CHECK: Skip if we already have it
             deck_path = DATASET_DIR / f"deck_{deck_id}.txt"
-            deck_path.write_text(mtgo_text, encoding="utf-8")
+            if deck_path.exists():
+                # print(f"Skipping {deck_id} (already downloaded)")
+                continue
 
-            records.append(
-                {
-                    "deck_id": deck_id,
-                    "deck_url": deck_url,
-                    "mtgo_url": mtgo_url,
-                    "placement": placement,
-                    "players": players,
-                    "placement_of": f"{placement}/{players}"
-                    if placement is not None and players is not None
-                    else None,
-                    "deck_file": str(deck_path),
-                }
-            )
+            try:
+                # 1. Fetch Deck HTML (for players/placement)
+                html_soup = fetch_soup(session, deck_url)
+                players = parse_players(html_soup)
+                placement = parse_placement_for_deck(html_soup, deck_id)
 
-            if delay_s:
-                time.sleep(delay_s)
+                # 2. Fetch MTGO Text File
+                mtgo_url = mtgo_export_url(link)
+                mtgo_resp = session.get(mtgo_url, headers=HEADERS, timeout=30)
+                mtgo_text = mtgo_resp.text.replace("\r\n", "\n") # Fix windows newlines
 
-        next_button = soup.select(".Nav_PN_no")
-        has_next = bool(next_button and next_button[0].get_text(strip=True) == "Next")
-        if not has_next:
-            break
+                deck_path.write_text(mtgo_text, encoding="utf-8")
+
+                records.append(
+                    {
+                        "deck_id": deck_id,
+                        "deck_url": deck_url,
+                        "mtgo_url": mtgo_url,
+                        "placement": placement,
+                        "players": players,
+                        "placement_of": f"{placement}/{players}"
+                        if placement is not None and players is not None
+                        else None,
+                        "deck_file": str(deck_path),
+                    }
+                )
+
+                if delay_s:
+                    time.sleep(delay_s)
+            except Exception as e:
+                print(f"Error processing {deck_id}: {e}")
+                continue
+
+        # If we saw links but they were all duplicates, we might want to stop
+        # But for safety in a search, we usually keep going unless the page was empty
+        
+        # Check for Next Button
+        next_button = soup.select(".Nav_PN_no, .Nav_norm")
+        has_next = False
+        # The search page pagination is tricky, simpler to check if we got links
+        if len(page_links) < 5: 
+             # Heuristic: Search pages are usually 25 or 30 items. If we got very few, it's the end.
+             has_next = False
+        else:
+             has_next = True
+
+        # Save progress every page
+        if records:
+            partial_df = pd.DataFrame.from_records(records)
+            output_path = DATASET_DIR / "mtgtop8_decks.csv"
+            # Append if file exists, else write
+            mode = 'a' if output_path.exists() and page > 1 else 'w'
+            header = not output_path.exists() or page == 1
+            partial_df.to_csv(output_path, mode=mode, header=header, index=False)
+            records = [] # Clear memory after writing
 
         page += 1
 
-    return pd.DataFrame.from_records(records)
+    return pd.DataFrame() # Return empty since we wrote to CSV incrementally
 
 
 if __name__ == "__main__":
-    df = scrape_decklists(max_pages=5, delay_s=0.0)
-    output_path = DATASET_DIR / "mtgtop8_decks.csv"
-    df.to_csv(output_path, index=False)
-    print(f"Wrote {len(df)} decks to {output_path}")
+    # max_pages=None to get everything
+    scrape_decklists(max_pages=None, delay_s=0.2)
+    print(f"Scraping complete. Check {DATASET_DIR}")

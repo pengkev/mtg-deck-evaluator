@@ -1,0 +1,77 @@
+1 Birds of Paradise
+1 Botanical Brawler
+1 Bristly Bill, Spine Sower
+1 Bulwark Ox
+1 Conclave Mentor
+1 District Mascot
+1 Duskshell Crawler
+1 Envoy of the Ancestors
+1 Evolution Sage
+1 Finneas, Ace Archer
+1 Gala Greeters
+1 Good-Fortune Unicorn
+1 Hamza, Guardian of Arashin
+1 Juniper Order Ranger
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Leinore, Autumn Sovereign
+1 Mikaeus, the Lunarch
+1 Ornery Tumblewagg
+1 Ouroboroid
+1 Patrolling Peacemaker
+1 Renata, Called to the Hunt
+1 Rishkar, Peema Renegade
+1 Shelinda, Yevon Acolyte
+1 Skyknight Squire
+1 Steel Overseer
+1 Teething Wurmlet
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Collector's Cage
+1 Ozolith, the Shattered Spire
+1 Selesnya Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Great Henge
+1 Thunderous Velocipede
+1 Dispatch
+1 Duty Beyond Death
+1 Get Lost
+1 Gift of the Viper
+1 Inspiring Call
+1 Path to Exile
+1 Pledge of Unity
+1 Return to Nature
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Austere Command
+1 Basri's Solidarity
+1 Collective Effort
+1 Damning Verdict
+1 Requisition Raid
+1 Triumph of the Hordes
+1 Unnatural Restoration
+1 Bioengineered Future
+1 Branching Evolution
+1 Felidar Retreat
+1 Hardened Scales
+1 Invasion of Gobakhan
+1 Loading Zone
+1 Sphere Grid
+1 Terrasymbiosis
+1 Canopy Vista
+1 Command Tower
+1 Drannith Ruins
+1 Evendo, Waking Haven
+14 Forest
+1 Fortified Village
+1 Nesting Grounds
+12 Plains
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Tyrite Sanctum
+1 Windbrisk Heights
+Sideboard
+1 Dyadrine, Synthesis Amalgam

@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Spellskite
+1 Notion Thief
+1 Opposition Agent
+1 Wandering Archaic
+1 Sakashima the Impostor
+1 Sheoldred, the Apocalypse
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Tishana's Tidebinder
+1 Volatile Stormdrake
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Mockingbird
+1 Wishclaw Talisman
+1 Grafdigger's Cage
+1 Mox Opal
+1 Mana Vault
+1 Mox Diamond
+1 Conqueror's Flail
+1 Weathered Runestone
+1 Arcane Signet
+1 Cursed Totem
+1 Talisman of Dominance
+1 Chrome Mox
+1 Mox Amber
+1 The One Ring
+1 Sol Ring
+1 Fellwar Stone
+1 Lotus Petal
+1 Miscast
+1 Dark Ritual
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Dispel
+1 Mental Misstep
+1 Demonic Consultation
+1 Trickbind
+1 Cyclonic Rift
+1 Pact of Negation
+1 Spell Pierce
+1 Swan Song
+1 Tainted Pact
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Sheoldred's Edict
+1 Borne Upon a Wind
+1 Mindbreak Trap
+1 Strix Serenade
+1 Chain of Vapor
+1 Drown in the Loch
+1 Flusterstorm
+1 Demonic Tutor
+1 Mnemonic Betrayal
+1 Gitaxian Probe
+1 Praetor's Grasp
+1 Sea Gate Restoration
+1 Imperial Seal
+1 Windfall
+1 Toxic Deluge
+1 Grim Tutor
+1 Rhystic Study
+1 Mystic Remora
+1 Urza's Saga
+1 Bloodchief Ascension
+1 Necropotence
+1 Counterbalance
+1 Dress Down
+1 Mirrormade
+1 Jace, Wielder of Mysteries
+1 Karn, the Great Creator
+1 Watery Grave
+1 Morphic Pool
+1 Ancient Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 City of Brass
+1 Mana Confluence
+1 Underground Sea
+1 Verdant Catacombs
+1 Clearwater Pathway
+1 Snow-Covered Island
+1 Gemstone Caverns
+1 Marsh Flats
+1 Otawara, Soaring City
+1 Underground River
+1 Exotic Orchard
+1 Cavern of Souls
+1 Command Tower
+1 Flooded Strand
+1 Polluted Delta
+1 Spire of Industry
+1 Bloodstained Mire
+1 Swamp
+1 Cephalid Coliseum
+Sideboard
+1 Talion, the Kindly Lord

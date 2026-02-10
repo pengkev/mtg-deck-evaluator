@@ -1,0 +1,83 @@
+1 Arasta of the Endless Web
+1 Bramble Familiar
+1 Destiny Spinner
+1 Dragonhawk, Fate's Tempest
+1 Eidolon of Blossoms
+1 Enduring Courage
+1 Goblin Anarchomancer
+1 Herald of the Pantheon
+1 Kazuul, Tyrant of the Cliffs
+1 Klothys, God of Destiny
+1 Muerra, Trash Tactician
+1 Overlord of the Boilerbilges
+1 Radha, Heir to Keld
+1 Rose, Cutthroat Raider
+1 Ruby, Daring Tracker
+1 Sanctum Weaver
+1 Saryth, the Viper's Fang
+1 Setessan Champion
+1 Spider Manifestation
+1 Sylvan Safekeeper
+1 Trailtracker Scout
+1 Verduran Enchantress
+1 Wandertale Mentor
+1 Weaver of Harmony
+1 Wildsear, Scouring Maw
+1 Zhur-Taa Druid
+1 Arcane Signet
+1 Esika's Chariot
+1 God-Pharaoh's Statue
+1 Archdruid's Charm
+1 Beast Within
+1 Chaos Warp
+1 Defend the Rider
+1 Tyvar's Stand
+1 Blasphemous Act
+1 Chain Reaction
+1 Decimate
+1 Farseek
+1 Nature's Lore
+1 Rampant Growth
+1 Stump Stomp
+1 Sundering Eruption
+1 Three Visits
+1 Abundance
+1 Asceticism
+1 Berserkers' Onslaught
+1 Case of the Locked Hothouse
+1 Cindervines
+1 Enchantress's Presence
+1 Encroaching Dragonstorm
+1 Fiery Emancipation
+1 Fires of Invention
+1 Frontier Siege
+1 Garruk's Uprising
+1 Glorious Sunrise
+1 Gratuitous Violence
+1 Gruul War Chant
+1 Nature's Will
+1 Rite of the Raging Storm
+1 Sandwurm Convergence
+1 Street Riot
+1 Sunbird's Invocation
+1 Unnatural Growth
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Fire-Lit Thicket
+12 Forest
+1 Game Trail
+1 Gruul Turf
+1 Karplusan Forest
+1 Kessig Wolf Run
+8 Mountain
+1 Mountain Valley
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Temple of Abandon
+1 Terramorphic Expanse
+Sideboard
+1 Bello, Bard of the Brambles

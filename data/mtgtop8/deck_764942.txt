@@ -1,0 +1,101 @@
+1 Ainok Survivalist
+1 Birds of Paradise
+1 Brine Elemental
+1 Chromeshell Crab
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Den Protector
+1 Echo Tracer
+1 Elvish Mystic
+1 Eternal Witness
+1 Exit Specialist
+1 Gilded Drake
+1 Grazilaxx, Illithid Scholar
+1 Hauntwoods Shrieker
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Icefeather Aven
+1 Kadena's Silencer
+1 Llanowar Elves
+1 Mischievous Quanar
+1 Mockingbird
+1 Nantuko Vigilante
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Overgrown Zealot
+1 Seedborn Muse
+1 Silumgar Assassin
+1 Stratus Dancer
+1 Teferi, Mage of Zhalfir
+1 Thassa's Oracle
+1 Three Tree Rootweaver
+1 Vesuvan Shapeshifter
+1 Voidmage Apprentice
+1 Willbender
+1 Arcane Signet
+1 Chrome Mox
+1 Crystal Shard
+1 Fellwar Stone
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Counterspell
+1 Cyclonic Rift
+1 Demonic Consultation
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Pact of Negation
+1 Stifle
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Demonic Tutor
+1 Diabolic Intent
+1 Imperial Seal
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Ancient Tomb
+1 Bayou
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forest
+1 Gloomlake Verge
+1 Island
+1 Mana Confluence
+1 Meteor Crater
+1 Misty Rainforest
+1 Morphic Pool
+1 Overgrown Tomb
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Swamp
+1 Tarnished Citadel
+1 Tropical Island
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Watery Grave
+1 Willowrush Verge
+1 Windswept Heath
+1 Yavimaya Coast
+1 Zagoth Triome
+Sideboard
+1 Kadena, Slinking Sorcerer

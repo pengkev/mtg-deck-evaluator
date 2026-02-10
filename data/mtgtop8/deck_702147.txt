@@ -1,0 +1,96 @@
+1 Sol Ring
+1 Arcane Signet
+1 Malakir Rebirth
+1 Return of the Wildspeaker
+1 Chaos Warp
+1 Worldly Tutor
+1 Vampiric Tutor
+1 Crop Rotation
+1 Revitalizing Repast
+1 Road of Return
+1 Demonic Tutor
+1 Bala Ged Recovery
+1 Decree of Pain
+1 Insurrection
+1 Faithless Looting
+1 Bloodsoaked Insight
+1 Dictate of Erebos
+1 Garruk's Uprising
+1 Up the Beanstalk
+1 Heartless Summoning
+1 Blasphemous Act
+1 Braids, Arisen Nightmare
+1 Vaevictis Asmadi, the Dire
+1 Wurmcoil Engine
+1 Birds of Paradise
+1 Ulamog, the Ceaseless Hunger
+1 Drivnod, Carnage Dominus
+1 Goreclaw, Terror of Qal Sisma
+1 Nyxbloom Ancient
+1 Delighted Halfling
+1 Anger
+1 Solemn Simulacrum
+1 Blossoming Tortoise
+1 Ojer Kaslem, Deepest Growth
+1 Roxanne, Starfall Savant
+1 Hollow Marauder
+1 Korvold, Fae-Cursed King
+1 Vorinclex, Voice of Hunger
+1 Disciple of Freyalise
+1 Overlord of the Hauntwoods
+1 Evercoat Ursine
+1 Druid of Purification
+1 Twinflame Tyrant
+1 Scourge of the Throne
+1 Savage Ventmaw
+1 Elves of Deep Shadow
+1 Seedguide Ash
+1 World Shaper
+1 Deathbringer Regent
+1 Underworld Cerberus
+1 Bane of Progress
+1 Moraug, Fury of Akoum
+1 Magus of the Order
+1 Kardur, Doomscourge
+1 Timeless Witness
+1 Bloom Tender
+1 Old Gnawbone
+1 Ilharg, the Raze-Boar
+1 Pathbreaker Ibex
+1 Atsushi, the Blazing Sky
+1 Junji, the Midnight Sky
+1 Heartless Hidetsugu
+1 Rampant Rejuvenator
+1 Jaxis, the Troublemaker
+1 Ziatora, the Incinerator
+1 Ancient Copper Dragon
+1 Urabrask the Hidden
+1 Ignoble Hierarch
+1 Bojuka Bog
+1 Blood Crypt
+1 Overgrown Tomb
+1 Stomping Ground
+1 Boseiju, Who Endures
+1 Ziatora's Proving Ground
+1 Swamp
+1 Savage Lands
+1 Wooded Ridgeline
+1 Ancient Ziggurat
+1 Ash Barrens
+1 Command Beacon
+1 Fabled Passage
+1 Strip Mine
+1 Command Tower
+1 Undergrowth Stadium
+1 Commercial District
+1 Underground Mortuary
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Plaza of Heroes
+1 Mortuary Mire
+1 Cinder Glade
+1 Exotic Orchard
+3 Mountain
+4 Forest
+Sideboard
+1 Henzie "Toolbox" Torre

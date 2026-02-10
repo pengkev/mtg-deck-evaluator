@@ -1,0 +1,91 @@
+1 Dragon Fodder
+1 Hour of Reckoning
+1 Krenko's Command
+1 Chandra, Acolyte of Flame
+1 Elspeth, Sun's Champion
+1 Tevesh Szat, Doom of Fools
+1 Burnt Offering
+1 Chaos Warp
+1 Fury Storm
+1 Mortify
+1 Plumb the Forbidden
+1 Raise the Alarm
+1 Rise of the Dread Marn
+1 Secure the Wastes
+1 Stroke of Midnight
+1 Bastion of Remembrance
+1 Double Vision
+1 Anax, Hardened in the Forge
+1 Anim Pakal, Thousandth Moon
+1 Bloodghast
+1 Chittering Witch
+1 Doomed Traveler
+1 Dualcaster Mage
+1 Flamekin Herald
+1 Grim Haruspex
+1 Hofri Ghostforge
+1 Hunted Witness
+1 Jadar, Ghoulcaller of Nephalia
+1 Keeper of the Accord
+1 Krenko, Tin Street Kingpin
+1 Lagomos, Hand of Hatred
+1 Marionette Apprentice
+1 Midnight Reaper
+1 Mirkwood Bats
+1 Mogg War Marshal
+1 Nesting Dovehawk
+1 Ogre Slumlord
+1 Pinnacle Monk
+1 Sedgemoor Witch
+1 Syr Konrad, the Grim
+1 Teysa Karlov
+1 Thalisse, Reverent Medium
+1 Viscera Seer
+1 Welcoming Vampire
+1 Wildfire Awakener
+1 Woe Strider
+1 Young Pyromancer
+1 Zahur, Glory's Past
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Boros Signet
+1 Orzhov Signet
+1 Pyromancer's Goggles
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Battlefield Forge
+1 Bloodfell Caves
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Beacon
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Fountainport
+1 Furycalm Snarl
+1 Isolated Chapel
+1 Kher Keep
+4 Mountain
+4 Plains
+1 Scoured Barrens
+1 Shattered Landscape
+5 Swamp
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Wind-Scarred Crag
+1 Austere Command
+1 Skyfire Phoenix
+1 Ornithopter
+1 Memnite
+1 Crawling Chorus
+1 Rumor Gatherer
+1 Goblin Instigator
+1 Assemble the Legion
+1 Wand of the Worldsoul
+Sideboard
+1 Extus, Oriq Overlord

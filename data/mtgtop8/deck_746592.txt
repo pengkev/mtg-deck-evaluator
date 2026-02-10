@@ -1,0 +1,78 @@
+1 Chrome Host Seedshark
+1 Drafna, Founder of Lat-Nam
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Moon-Blessed Cleric
+1 Mulldrifter
+1 Oreskos Explorer
+1 Zenith Chronicler
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Astral Cornucopia
+1 Azorius Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Coveted Jewel
+1 Decanter of Endless Water
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Gilded Lotus
+1 Skyclave Relic
+1 Sol Ring
+1 Spectral Searchlight
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Thought Vessel
+1 Arcane Denial
+1 Capsize
+1 Commit/Memory
+1 Drown in Dreams
+1 Emergency Powers
+1 Even the Score
+1 Frantic Search
+1 Generous Gift
+1 Heliod's Intervention
+1 Long-Term Plans
+1 Negate
+1 Oblation
+1 Sejiri Shelter
+1 Silundi Vision
+1 Spell Burst
+1 Unwind
+1 Vision Skeins
+1 Whirlwind Denial
+1 Words of Wisdom
+1 Your Temple Is Under Attack
+1 Day's Undoing
+1 Fascination
+1 Game Plan
+1 Ingenious Mastery
+1 Promise of Loyalty
+1 Prosperity
+1 Skyscribing
+1 Slaughter the Strong
+1 Solve the Equation
+1 Windfall
+1 Angelic Renewal
+1 Ghostly Prison
+1 Mystic Remora
+1 Seal of Removal
+1 Smothering Tithe
+1 Smuggler's Share
+1 Touch the Spirit Realm
+1 Adarkar Wastes
+1 Cephalid Coliseum
+1 Command Tower
+1 Geier Reach Sanitarium
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+13 Island
+1 Mikokoro, Center of the Sea
+1 Mystic Gate
+12 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Skycloud Expanse
+1 Spire of Industry
+Sideboard
+1 Heliod, the Radiant Dawn

@@ -1,0 +1,87 @@
+1 Thrashing Brontodon
+1 Apex Altisaur
+1 Ghalta, Primal Hunger
+1 Drover of the Mighty
+1 Keruga, the Macrosage
+1 Titanoth Rex
+1 Tetzimoc, Primal Death
+1 Wayward Swordtooth
+1 Ranging Raptors
+1 Ripjaw Raptor
+1 Topiary Stomper
+1 Venomthrope
+1 Scavenged Brawler
+1 Tranquil Frillback
+1 Regal Behemoth
+1 Stonehoof Chieftain
+1 Rampaging Spiketail
+1 Colossadactyl
+1 Spitting Dilophosaurus
+1 Cresting Mosasaurus
+1 Grim Giganotosaurus
+1 Hulking Raptor
+1 Curious Altisaur
+1 Dinosaur Egg
+1 Rampaging Brontodon
+1 Vaultborn Tyrant
+1 Regal Imperiosaur
+1 Qarsi Revenant
+1 Warden of the Grove
+1 Dragon Sniper
+1 Arcane Signet
+1 Commander's Sphere
+1 Sol Ring
+1 Lifecrafter's Bestiary
+1 Emerald Medallion
+1 Counterspell
+1 Sultai Charm
+1 Deathsprout
+1 Grave Endeavor
+1 Bite Down
+1 Auroral Procession
+1 Spectral Denial
+1 Cultivate
+1 Victimize
+1 Kodama's Reach
+1 Casualties of War
+1 Finale of Devastation
+1 Savage Stomp
+1 Three Visits
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Defossilize
+1 Savage Order
+1 Walk with the Ancestors
+1 Overwhelming Forces
+1 Lie in Wait
+1 Living Death
+1 Garruk's Uprising
+1 Bonds of Mortality
+1 Oversold Cemetery
+1 Welcome to . . .
+1 Colossal Majesty
+1 Unnatural Growth
+1 Invasion of Ixalan
+3 Island
+10 Forest
+4 Swamp
+1 Command Tower
+1 Rogue's Passage
+1 Temple of Malady
+1 Temple of Mystery
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Exotic Orchard
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Llanowar Reborn
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Mortuary Mire
+1 Drannith Ruins
+1 Hinterland Harbor
+1 Mistrise Village
+1 Opulent Palace
+1 Golgari Rot Farm
+Sideboard
+1 Indominus Rex, Alpha

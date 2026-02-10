@@ -1,0 +1,99 @@
+1 Birds of Paradise
+1 Delighted Halfling
+1 Dualcaster Mage
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Hellkite Courser
+1 Hulking Raptor
+1 Jaxis, the Troublemaker
+1 Llanowar Elves
+1 Orcish Lumberjack
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Rionya, Fire Dancer
+1 Roaming Throne
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Tinder Wall
+1 Treasonous Ogre
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Cloudstone Curio
+1 Cursed Mirror
+1 Fellwar Stone
+1 Grim Monolith
+1 Helm of the Host
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Ruby Medallion
+1 Sol Ring
+1 Talisman of Impulse
+1 The Endstone
+1 Abrade
+1 Beast Within
+1 Crop Rotation
+1 Desperate Ritual
+1 Legolas's Quick Reflexes
+1 Lightning Bolt
+1 Nature's Claim
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Untimely Malfunction
+1 Veil of Summer
+1 Worldly Tutor
+1 Devastating Onslaught
+1 Eldritch Evolution
+1 Electroduplicate
+1 Expand the Sphere
+1 Flare of Cultivation
+1 Gamble
+1 Jeska's Will
+1 Last March of the Ents
+1 Mana Geyser
+1 Mizzix's Mastery
+1 Molten Duplication
+1 Nature's Rhythm
+1 Rousing Refrain
+1 Twinflame
+1 Food Chain
+1 Rhythm of the Wild
+1 Shadow in the Warp
+1 Underworld Breach
+1 Utopia Sprawl
+1 Invasion of Ikoria
+1 Chandra, Flameshaper
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Command Tower
+1 Commercial District
+1 Copperline Gorge
+1 Deserted Temple
+1 Exotic Orchard
+2 Forest
+1 Gaea's Cradle
+1 Game Trail
+1 Gemstone Caverns
+1 Great Furnace
+1 Karplusan Forest
+1 Mana Confluence
+2 Mountain
+1 Ramunap Ruins
+1 Rockfall Vale
+1 Rootbound Crag
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Etali, Primal Conqueror

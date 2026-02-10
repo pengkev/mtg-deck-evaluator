@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Faeburrow Elder
+1 Noble Hierarch
+1 Olivia, Mobilized for War
+1 Hermit Druid
+1 Ranger-Captain of Eos
+1 Kinnan, Bonder Prodigy
+1 Opposition Agent
+1 Esper Sentinel
+1 Katilda, Dawnhart Prime
+1 Fallaji Wayfarer
+1 Delighted Halfling
+1 Ioreth of the Healing House
+1 Kutzil, Malamet Exemplar
+1 Basim Ibn Ishaq
+1 Arbaaz Mir
+1 Marvin, Murderous Mimic
+1 Enduring Vitality
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Bloom Tender
+1 Phyrexian Metamorph
+1 Selvala, Heart of the Wilds
+1 Chainer, Nightmare Adept
+1 Derevi, Empyrial Tactician
+1 Lavinia, Azorius Renegade
+1 Grand Abolisher
+1 Emiel the Blessed
+1 Ragavan, Nimble Pilferer
+1 Drana and Linvala
+1 Nissa, Resurgent Animist
+1 Arcane Signet
+1 Sol Ring
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Mox Amber
+1 Relic of Legends
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Aether Vial
+1 Red Elemental Blast
+1 Force of Will
+1 Vampiric Tutor
+1 Assassin's Trophy
+1 Chord of Calling
+1 Silence
+1 Force of Negation
+1 Deflecting Swat
+1 Mental Misstep
+1 Worldly Tutor
+1 Mindbreak Trap
+1 Tainted Pact
+1 Legolas's Quick Reflexes
+1 Crop Rotation
+1 Path to Exile
+1 Fierce Guardianship
+1 An Offer You Can't Refuse
+1 Green Sun's Zenith
+1 Demonic Tutor
+1 Rhystic Study
+1 Survival of the Fittest
+1 Smothering Tithe
+1 Copy Enchantment
+1 Oath of Teferi
+1 Deafening Silence
+1 Mystic Remora
+1 Aminatou, the Fateshifter
+1 Teferi, Time Raveler
+1 Nicol Bolas, Dragon-God
+1 Tyvar, Jubilant Brawler
+1 Dihada, Binder of Wills
+1 Command Tower
+1 Bayou
+1 Badlands
+1 Plateau
+1 Savannah
+1 Taiga
+1 Tropical Island
+1 City of Brass
+1 Flooded Strand
+1 Minamo, School at Water's Edge
+1 Ancient Tomb
+1 Temple Garden
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Wooded Foothills
+1 Gaea's Cradle
+1 Volcanic Island
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Mount Doom
+1 Shifting Woodland
+1 Gemstone Caverns
+Sideboard
+1 Sisay, Weatherlight Captain

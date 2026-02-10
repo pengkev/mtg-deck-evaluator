@@ -1,0 +1,101 @@
+1 Seedborn Muse
+1 Biomancer's Familiar
+1 Tidal Barracuda
+1 Consecrated Sphinx
+1 Opposition Agent
+1 Phantasmal Image
+1 Hullbreaker Horror
+1 Devoted Druid
+1 Displacer Kitten
+1 Bloom Tender
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Volatile Stormdrake
+1 Hazel's Brewmaster
+1 Spellseeker
+1 Kinnan, Bonder Prodigy
+1 Eternal Witness
+1 Orcish Bowmasters
+1 Deathrite Shaman
+1 Valley Floodcaller
+1 Birds of Paradise
+1 Enduring Vitality
+1 Phyrexian Metamorph
+1 Basalt Monolith
+1 Grim Monolith
+1 Mana Vault
+1 Chrome Mox
+1 Skullclamp
+1 Machine God's Effigy
+1 The One Ring
+1 Talisman of Curiosity
+1 Fellwar Stone
+1 Arcane Signet
+1 Sol Ring
+1 Lotus Petal
+1 Culling the Weak
+1 Lim-Dul's Vault
+1 Cyclonic Rift
+1 Mental Misstep
+1 Noxious Revival
+1 Mana Drain
+1 Swan Song
+1 Mindbreak Trap
+1 Delay
+1 Pact of Negation
+1 Force of Will
+1 Snap
+1 Vampiric Tutor
+1 Arcane Denial
+1 Fierce Guardianship
+1 Sink into Stupor
+1 Veil of Summer
+1 Tainted Pact
+1 Force of Negation
+1 Worldly Tutor
+1 Flusterstorm
+1 An Offer You Can't Refuse
+1 Dark Ritual
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Eldritch Evolution
+1 Demonic Tutor
+1 Culling Ritual
+1 Toxic Deluge
+1 Rhystic Study
+1 Earthcraft
+1 Urza's Saga
+1 Mystic Remora
+1 Training Grounds
+1 Utopia Sprawl
+1 Growing Rites of Itlimoc
+1 Wild Growth
+1 Karn, the Great Creator
+1 Breeding Pool
+1 Watery Grave
+1 Ancient Tomb
+1 Misty Rainforest
+1 City of Brass
+1 Gaea's Cradle
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Forbidden Orchard
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Island
+1 Boseiju, Who Shelters All
+1 Minamo, School at Water's Edge
+1 Command Tower
+1 Flooded Strand
+1 Polluted Delta
+1 Forest
+1 Shifting Woodland
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+Sideboard
+1 Tevesh Szat, Doom of Fools
+1 Thrasios, Triton Hero

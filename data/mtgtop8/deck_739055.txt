@@ -1,0 +1,75 @@
+1 Impact Tremors
+1 Disenchant
+1 Marble Diamond
+1 Temur Battle Rage
+1 Unsubstantiate
+1 Negate
+1 Mind Stone
+1 Rally at the Hornburg
+1 Rally the Ranks
+1 Raise the Alarm
+1 Quench
+1 Shelter
+1 Mandibular Kite
+1 Crash Through
+1 Sheltering Light
+1 Spell Pierce
+1 You're Not Alone
+1 Abrade
+1 Zephyr Boots
+1 Horn of Gondor
+1 Stuck in Summoner's Sanctum
+1 Vigilante Justice
+1 Increasing Devotion
+1 Visions of Glory
+1 Intangible Virtue
+1 Jeskai Charm
+1 Shared Animosity
+1 Mass Appeal
+1 Celestial Armor
+1 Rootborn Defenses
+1 Commander's Sphere
+1 Inspiring Leader
+1 Banishing Light
+1 Shocking Sharpshooter
+1 Cathar Commando
+1 Sunset Strikemaster
+1 Prince Imrahil the Fair
+1 Voltaic Servant
+1 Champion of the Parish
+1 Lunarch Veteran
+1 Tajic, Legion's Edge
+1 Thalia's Lieutenant
+1 Toby, Beastie Befriender
+1 Frontier Warmonger
+1 Beregond of the Guard
+1 Riders of Gavony
+1 Ellyn Harbreeze, Busybody
+1 Selfless Squire
+1 Odric, Lunarch Marshal
+1 Tori D'Avenant, Fury Rider
+1 Eowyn, Shieldmaiden
+1 Archetype of Imagination
+1 Erkenbrand, Lord of Westfold
+1 Swiftblade Vindicator
+1 Théoden, King of Rohan
+1 Fiend Hunter
+1 Devout Chaplain
+1 Crusader of Odric
+1 Abzan Falconer
+1 Mentor of the Meek
+1 Molten Gatekeeper
+1 Archetype of Aggression
+1 Tranquil Cove
+1 Path of Ancestry
+1 Swiftwater Cliffs
+1 Mystic Monastery
+1 Wind-Scarred Crag
+1 Temple of Enlightenment
+1 Temple of Triumph
+1 Evolving Wilds
+8 Island
+9 Mountain
+12 Plains
+Sideboard
+1 Eowyn, Shieldmaiden

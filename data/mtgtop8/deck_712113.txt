@@ -1,0 +1,101 @@
+1 Phyrexian Metamorph
+1 Spellseeker
+1 Biomancer's Familiar
+1 Hope Tender
+1 Dualcaster Mage
+1 Vizier of Tumbling Sands
+1 Peregrine Drake
+1 Kinnan, Bonder Prodigy
+1 Birds of Paradise
+1 Kiora's Follower
+1 Blossom Dryad
+1 Voyaging Satyr
+1 Eternal Witness
+1 Seedborn Muse
+1 Endurance
+1 Hullbreaker Horror
+1 Displacer Kitten
+1 Cloud of Faeries
+1 Krosan Restorer
+1 Etali, Primal Conqueror
+1 Delighted Halfling
+1 Sowing Mycospawn
+1 Springheart Nantuko
+1 Scute Swarm
+1 Lilysplash Mentor
+1 Valley Floodcaller
+1 Enduring Vitality
+1 Mana Vault
+1 Chrome Mox
+1 Grim Monolith
+1 Basalt Monolith
+1 Mox Diamond
+1 Mox Amber
+1 Springleaf Drum
+1 The One Ring
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Expedition Map
+1 Veil of Summer
+1 Snap
+1 Deflecting Swat
+1 Cyclonic Rift
+1 Mental Misstep
+1 Noxious Revival
+1 Crop Rotation
+1 Ghostly Flicker
+1 Pact of Negation
+1 Force of Will
+1 Worldly Tutor
+1 An Offer You Can't Refuse
+1 Archdruid's Charm
+1 Flusterstorm
+1 Flare of Duplication
+1 Strix Serenade
+1 Chord of Calling
+1 Lightning Bolt
+1 Fierce Guardianship
+1 Swan Song
+1 Sylvan Scrying
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Training Grounds
+1 Earthcraft
+1 Wild Growth
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Rhystic Study
+1 Utopia Sprawl
+1 Cryptolith Rite
+1 Invasion of Ikoria
+1 Forbidden Orchard
+1 Breeding Pool
+1 Ancient Tomb
+1 Emergence Zone
+1 Steam Vents
+1 Forest
+1 Island
+1 Mountain
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Stomping Ground
+1 Mana Confluence
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 City of Brass
+1 Exotic Orchard
+1 Deserted Temple
+1 Gemstone Caverns
+1 Flooded Strand
+1 Wooded Foothills
+1 Command Tower
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Thrasios, Triton Hero

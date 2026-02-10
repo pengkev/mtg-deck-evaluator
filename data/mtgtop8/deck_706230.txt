@@ -1,0 +1,101 @@
+1 Spectral Sailor
+1 Tandem Lookout
+1 Mayhem Devil
+1 Thassa's Oracle
+1 Imperial Recruiter
+1 Phyrexian Metamorph
+1 Spellskite
+1 Walking Ballista
+1 Opposition Agent
+1 Kediss, Emberclaw Familiar
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Professional Face-Breaker
+1 Glint-Horn Buccaneer
+1 Orcish Bowmasters
+1 Spellseeker
+1 Francisco, Fowl Marauder
+1 Reckless Fireweaver
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Sol Ring
+1 Mana Vault
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Dark Ritual
+1 Dismember
+1 Force of Will
+1 Mystical Tutor
+1 Brain Freeze
+1 Intuition
+1 Flusterstorm
+1 Force of Negation
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Mental Misstep
+1 Demonic Consultation
+1 Pyroblast
+1 Ad Nauseam
+1 Lim-Dul's Vault
+1 Artificial Evolution
+1 Chain of Vapor
+1 Trickery Charm
+1 Cyclonic Rift
+1 Pact of Negation
+1 Tainted Pact
+1 Alchemist's Retrieval
+1 An Offer You Can't Refuse
+1 Vampiric Tutor
+1 Snap
+1 Borne Upon a Wind
+1 Swan Song
+1 Resculpt
+1 Muddle the Mixture
+1 Mindbreak Trap
+1 Demonic Tutor
+1 Gamble
+1 Wheel of Fortune
+1 Imperial Seal
+1 Grim Tutor
+1 Diabolic Intent
+1 Windfall
+1 Reanimate
+1 Curiosity
+1 Animate Dead
+1 Underworld Breach
+1 Rhystic Study
+1 Necropotence
+1 Mystic Remora
+1 Command Tower
+1 Exotic Orchard
+1 Watery Grave
+1 Blood Crypt
+1 Steam Vents
+1 Marsh Flats
+1 Scalding Tarn
+1 Mana Confluence
+1 Badlands
+1 Underground Sea
+1 Volcanic Island
+1 Training Center
+1 Snow-Covered Island
+1 Gemstone Caverns
+1 Arid Mesa
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Luxury Suite
+1 Cavern of Souls
+1 City of Brass
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Vial Smasher the Fierce

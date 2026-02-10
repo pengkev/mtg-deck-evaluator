@@ -1,0 +1,97 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Electro, Assaulting Battery
+1 Hexing Squelcher
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Stormsplitter
+1 Treasonous Ogre
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Ruby Medallion
+1 Sol Ring
+1 Staff of Compleation
+1 Throne of Geth
+1 Vexing Bauble
+1 Active Volcano
+1 Crimson Wisps
+1 Deflecting Swat
+1 Demand Answers
+1 Desperate Ritual
+1 Expedite
+1 Final Fortune
+1 Fire Magic
+1 Flare of Duplication
+1 Fork
+1 Gut Shot
+1 Lava Dart
+1 Lightning Bolt
+1 March of Reckless Joy
+1 Might of the Meek
+1 Mogg Salvage
+1 Needle Drop
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Reiterate
+1 Reverberate
+1 Sazacap's Brew
+1 Seething Song
+1 Spikefield Hazard
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Virtue of Courage
+1 Vivi's Persistence
+1 Volt Charge
+1 Bonus Round
+1 Burning Inquiry
+1 Cave-In
+1 Crash Through
+1 Faithless Looting
+1 Gamble
+1 Grab the Prize
+1 Grapeshot
+1 Heroes' Hangout
+1 Highway Robbery
+1 Insult/Injury
+1 Jeska's Will
+1 Last Chance
+1 Light Up the Stage
+1 Overmaster
+1 Reckless Impulse
+1 Renegade Tactics
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Sundering Eruption
+1 Vandalblast
+1 Warlord's Fury
+1 Warrior's Oath
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Artist's Talent
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Crystal Vein
+1 Dwarven Ruins
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Mana Confluence
+5 Mountain
+1 Prismatic Vista
+1 Sandstone Needle
+1 Scalding Tarn
+1 Wooded Foothills
+Sideboard
+1 Urabrask

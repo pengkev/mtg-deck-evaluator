@@ -1,0 +1,96 @@
+1 Arbor Elf
+1 Arboreal Grazer
+1 Aven Courier
+1 Bonny Pall, Clearcutter
+1 Coiling Oracle
+1 Courser of Kruphix
+1 Elvish Rejuvenator
+1 Eternal Witness
+1 Ignis Scientia
+1 Kaslem's Stonetree
+1 Magus of the Candelabra
+1 PuPu UFO
+1 Rampant Frogantua
+1 Ramunap Excavator
+1 Sowing Mycospawn
+1 Ulvenwald Hydra
+1 Uro, Titan of Nature's Wrath
+1 Expedition Map
+1 Manascape Refractor
+1 Mirage Mirror
+1 Sol Ring
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Autumn's Veil
+1 Beast Within
+1 Brainstorm
+1 Commit/Memory
+1 Counterspell
+1 Crop Rotation
+1 Delay
+1 Dig Through Time
+1 Drown in Dreams
+1 Eureka Moment
+1 Evacuation
+1 Evasive Action
+1 Frantic Search
+1 Ghostly Flicker
+1 Gifts Ungiven
+1 Growth Spiral
+1 Memory Lapse
+1 Negate
+1 Planar Genesis
+1 Pongify
+1 Reality Shift
+1 Rewind
+1 Snap
+1 Turnabout
+1 Bring to Light
+1 Circuitous Route
+1 Disorienting Choice
+1 Explore
+1 Finale of Revelation
+1 Flood of Tears
+1 Hour of Promise
+1 Nylea's Intervention
+1 Replication Technique
+1 Reshape the Earth
+1 Summer Bloom
+1 Sylvan Scrying
+1 Tempt with Discovery
+1 Time Reversal
+1 Titania's Command
+1 Urban Evolution
+1 Windfall
+1 Copy Land
+1 Imprisoned in the Moon
+1 Mana Breach
+1 Spelunking
+1 Narset, Parter of Veils
+1 Baldur's Gate
+1 Basilisk Gate
+1 Cloudpost
+1 Command Tower
+1 Demolition Field
+1 Deserted Temple
+1 Flooded Grove
+3 Forest
+1 Glimmerpost
+1 Gond Gate
+1 Heap Gate
+1 Horizon of Progress
+4 Island
+1 Manor Gate
+1 Maze's End
+1 Overflowing Basin
+1 Sea Gate
+1 Thespian's Stage
+1 Trenchpost
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Vesuva
+1 Yavimaya Coast
+Sideboard
+1 Omo, Queen of Vesuva

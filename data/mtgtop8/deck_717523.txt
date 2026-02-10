@@ -1,0 +1,77 @@
+1 Electrostatic Field
+1 Chandra's Incinerator
+1 Guttersnipe
+1 Dualcaster Mage
+1 Young Pyromancer
+1 Zhur-Taa Druid
+1 Goblin Anarchomancer
+1 Vindictive Flamestoker
+1 Storm-Kiln Artist
+1 Zada, Hedron Grinder
+1 Coruscation Mage
+1 Harnesser of Storms
+1 Sakura-Tribe Elder
+1 Firebrand Archer
+1 Thermo-Alchemist
+1 Torbran, Thane of Red Fell
+1 Swiftfoot Boots
+1 Sol Ring
+1 Arcane Signet
+1 Cursed Recording
+1 Beast Within
+1 Accelerate
+1 Soul's Fire
+1 Aggressive Urge
+1 Blossoming Defense
+1 Verdant Rebirth
+1 Prey's Vengeance
+1 Viridescent Wisps
+1 Khalni Ambush
+1 Hunter's Insight
+1 Expedite
+1 Charge Through
+1 Prizefight
+1 Poison the Blade
+1 Blazing Crescendo
+1 Royal Treatment
+1 Collective Resistance
+1 Might of the Meek
+1 Crimson Wisps
+1 Bite Down
+1 Snakeskin Veil
+1 Fists of Flame
+1 Gift of the Viper
+1 Sazacap's Brew
+1 Mizzix's Mastery
+1 Crash Through
+1 Rampant Growth
+1 Renegade Tactics
+1 Irresistible Prey
+1 Rile
+1 Grapeshot
+1 Blasphemous Act
+1 Over the Edge
+1 Light Up the Stage
+1 Harmonize
+1 Ancestral Anger
+1 Shreds of Sanity
+1 Cultivate
+1 Double Vision
+1 Wild Growth
+1 Wilderness Reclamation
+1 Spider Umbra
+1 Elephant Grass
+1 Snake Umbra
+1 Furious Rise
+1 Season of Growth
+1 Spinerock Knoll
+1 Uncharted Haven
+1 Command Tower
+1 Exotic Orchard
+1 Path of Ancestry
+1 Rugged Highlands
+1 Mosswort Bridge
+13 Forest
+13 Mountain
+Sideboard
+1 The Howling Abomination

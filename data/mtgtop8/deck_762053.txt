@@ -1,0 +1,99 @@
+1 Asmodeus the Archfiend
+1 Basal Thrull
+1 Blood Artist
+1 Blood Pet
+1 Crashing Drawbridge
+1 Doom Whisperer
+1 Fleshwrither
+1 Forsaken Miner
+1 Gravecrawler
+1 Gray Merchant of Asphodel
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ornithopter
+1 Overeager Apprentice
+1 Phyrexian Walker
+1 Priest of Gix
+1 Razaketh, the Foulblooded
+1 Sheoldred, the Apocalypse
+1 Shield Sphere
+1 Soldevi Adnate
+1 Varragoth, Bloodsky Sire
+1 Vilis, Broker of Blood
+1 Warren Soultrader
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Black Mage's Rod
+1 Chrome Mox
+1 Claws of Gix
+1 Defense Grid
+1 Engineered Explosives
+1 Fellwar Stone
+1 Ghoulcaller's Bell
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Jeweled Amulet
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Lodestone Bauble
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 Voltaic Key
+1 Welding Jar
+1 Wishclaw Talisman
+1 Zuran Orb
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Eldritch Immunity
+1 Feign Death
+1 Insidious Dreams
+1 Not Dead After All
+1 Rain of Filth
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Bitter Ordeal
+1 Cruel Tutor
+1 Cruelclaw's Heist
+1 Dark Petition
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Diabolic Tutor
+1 Duress
+1 Grim Tutor
+1 Imperial Seal
+1 Praetor's Grasp
+1 Razaketh's Rite
+1 Scheming Symmetry
+1 Tendrils of Agony
+1 Yawgmoth's Will
+1 Mortuary
+1 The Meathook Massacre
+1 Ancient Tomb
+1 Bloodstained Mire
+1 City of Traitors
+1 Gemstone Caverns
+1 Marsh Flats
+1 Phyrexian Tower
+1 Polluted Delta
+1 Prismatic Vista
+3 Swamp
+1 Verdant Catacombs
+Sideboard
+1 Gwenom, Remorseless

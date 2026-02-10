@@ -1,0 +1,86 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Backdraft Hellkite
+1 Coruscation Mage
+1 Firespitter Whelp
+1 Harmonic Prodigy
+1 Hermes, Overseer of Elpis
+1 Hydroelectric Specimen
+1 Longshot, Rebel Bowman
+1 Murmuring Mystic
+1 Pinnacle Monk
+1 Professor Zei, Anthropologist
+1 Spider-Punk
+1 Storm-Kiln Artist
+1 The Emperor of Palamecia
+1 Third Path Iconoclast
+1 Arcane Signet
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Glittering Stockpile
+1 Hedron Archive
+1 Lightning Greaves
+1 Primal Amulet
+1 Skyclave Relic
+1 Sol Ring
+1 Stonespeaker Crystal
+1 Talisman of Creativity
+1 Thought Vessel
+1 Thran Dynamo
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Epiphany
+1 Bewildering Blizzard
+1 Big Score
+1 Comet Storm
+1 Commit/Memory
+1 Counterspell
+1 Electrodominance
+1 Fall of the Titans
+1 Lindblum, Industrial Regency
+1 Memory Deluge
+1 Negate
+1 Repeal
+1 Silundi Vision
+1 Volcanic Offering
+1 Wizard's Retort
+1 Banefire
+1 Baral's Expertise
+1 Calamity of Cinders
+1 Curse of the Swine
+1 Disrupt Decorum
+1 Ensnared by the Mara
+1 Fiery Confluence
+1 Finale of Revelation
+1 Jidoor, Aristocratic Capital
+1 Memories Returning
+1 Pirate's Prize
+1 Spirit Water Revival
+1 Sudden Demise
+1 Sundering Eruption
+1 Wash Out
+1 Circle of Flame
+1 Confounding Conundrum
+1 Double Vision
+1 Propaganda
+1 Swarm Intelligence
+1 Unstoppable Plan
+1 Agna Qel'a
+1 Airship Engine Room
+1 Command Tower
+1 Demolition Field
+1 Exotic Orchard
+1 Frostboil Snarl
+8 Island
+1 Izzet Boilerworks
+1 Mistrise Village
+9 Mountain
+1 Reliquary Tower
+1 Rivendell
+1 Riverpyre Verge
+1 Shivan Reef
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Tellah, Great Sage

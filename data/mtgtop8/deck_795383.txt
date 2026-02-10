@@ -1,0 +1,101 @@
+1 Talisman of Progress
+1 Talisman of Conviction
+1 Fellwar Stone
+1 Scroll Rack
+1 Lion's Eye Diamond
+1 Grim Monolith
+1 Talisman of Creativity
+1 Sol Ring
+1 Lotus Petal
+1 Chrome Mox
+1 Mox Diamond
+1 Arcane Signet
+1 Lavaspur Boots
+1 Mana Vault
+1 Mox Opal
+1 The One Ring
+1 Expedite
+1 Redirect Lightning
+1 Abrade
+1 Borne Upon a Wind
+1 Deflecting Swat
+1 Into the Flood Maw
+1 Long-Term Plans
+1 Sink into Stupor
+1 Flusterstorm
+1 Fierce Guardianship
+1 Intuition
+1 Cyclonic Rift
+1 Force of Negation
+1 Mana Drain
+1 Enlightened Tutor
+1 Brain Freeze
+1 Silence
+1 Pyroblast
+1 Force of Will
+1 Lightning Bolt
+1 Nexus of Fate
+1 Pact of Negation
+1 Mystical Tutor
+1 Brainstorm
+1 Dovin's Veto
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Gifts Ungiven
+1 Narset's Reversal
+1 Chain of Vapor
+1 Rite of Flame
+1 Temporal Trespass
+1 Temporal Mastery
+1 Gitaxian Probe
+1 Wheel of Fortune
+1 Sevinne's Reclamation
+1 Personal Tutor
+1 Expropriate
+1 Capture of Jingzhou
+1 Seize the Day
+1 Rise of the Eldrazi
+1 Supreme Verdict
+1 Avatar's Wrath
+1 Part the Waterveil
+1 Gamble
+1 Alrund's Epiphany
+1 Jeska's Will
+1 Temporal Manipulation
+1 Blind Obedience
+1 Underworld Breach
+1 Urza's Saga
+1 Smothering Tithe
+1 Rhystic Study
+1 Mystic Remora
+1 Teferi, Time Raveler
+1 Karn, the Great Creator
+1 Tezzeret, Cruel Captain
+1 Teferi, Who Slows the Sunset
+1 Chandra, the Firebrand
+1 Otawara, Soaring City
+1 Training Center
+1 Marsh Flats
+1 Flooded Strand
+1 Hallowed Fountain
+1 Command Tower
+1 Cavern of Souls
+1 City of Brass
+1 Spectator Seating
+1 Scalding Tarn
+1 Wooded Foothills
+1 Volcanic Island
+1 Tundra
+1 Arena of Glory
+1 Steam Vents
+1 Sacred Foundry
+1 Gemstone Caverns
+1 Polluted Delta
+1 Plateau
+1 Thundering Falls
+1 Ancient Tomb
+1 Mana Confluence
+1 Mistrise Village
+1 Bloodstained Mire
+Sideboard
+1 Narset, Enlightened Master

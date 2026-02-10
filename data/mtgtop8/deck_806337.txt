@@ -1,0 +1,81 @@
+1 Arbor Elf
+1 Beast Whisperer
+1 Belbe, Corrupted Observer
+1 Circle of Dreams Druid
+1 Craterhoof Behemoth
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Visionary
+1 Elvish Warmaster
+1 End-Raze Forerunners
+1 Fauna Shaman
+1 Fierce Empath
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Llanowar Visionary
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Paradise Druid
+1 Priest of Titania
+1 Reclamation Sage
+1 Rootweaver Druid
+1 Shaman of the Pack
+1 Skemfar Avenger
+1 Skemfar Shadowsage
+1 Springbloom Druid
+1 Wirewood Channeler
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bolas's Citadel
+1 Coat of Arms
+1 Helm of the Host
+1 Lightning Greaves
+1 Lotus Petal
+1 Mind Stone
+1 Sigil of Valor
+1 Sol Ring
+1 Staff of Domination
+1 Stoneforge Masterwork
+1 Swiftfoot Boots
+1 Talisman of Resilience
+1 Throne of the God-Pharaoh
+1 Elven Ambush
+1 Fog
+1 Hero's Downfall
+1 Heroic Intervention
+1 Putrefy
+1 Return of the Wildspeaker
+1 Slaughter Pact
+1 Wirewood Pride
+1 Animist's Awakening
+1 Casualties of War
+1 Dig Up
+1 Elvish Promenade
+1 Exsanguinate
+1 Harvest Season
+1 Pact of the Serpent
+1 Scheming Symmetry
+1 Three Visits
+1 Torment of Hailfire
+1 Beastmaster Ascension
+1 Crown of Skemfar
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Leyline of Abundance
+1 Prowess of the Fair
+1 Shapers' Sanctuary
+1 Zendikar Resurgent
+1 Nissa, Who Shakes the World
+1 Tyvar Kell
+1 Castle Locthwain
+1 Command Tower
+1 Darkbore Pathway
+1 Deathcap Glade
+12 Forest
+1 Golgari Rot Farm
+1 Llanowar Wastes
+1 Reliquary Tower
+10 Swamp
+1 Undergrowth Stadium
+Sideboard
+1 Lathril, Blade of the Elves

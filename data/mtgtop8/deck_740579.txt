@@ -1,0 +1,92 @@
+1 Archon of Sun's Grace
+1 Demon of Fate's Design
+1 Doomwake Giant
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Felothar, Dawn of the Abzan
+1 Greater Tanuki
+1 Narci, Fable Singer
+1 Nyx Weaver
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Shigeki, Jukai Visionary
+1 Summon: Fenrir
+1 Summon: Ixion
+1 Summon: Primal Odin
+1 Sythis, Harvest's Hand
+1 The Necrobloom
+1 Verduran Enchantress
+1 Weaver of Harmony
+1 Clever Concealment
+1 Harrow
+1 Lethal Scheme
+1 Pile On
+1 Revitalizing Repast
+1 Cultivate
+1 Extinguish All Hope
+1 Farseek
+1 Kodama's Reach
+1 Rampant Growth
+1 Asceticism
+1 Battle for Bretagard
+1 Binding the Old Gods
+1 Boon of the Spirit Realm
+1 Dredger's Insight
+1 Enchantress's Presence
+1 Felidar Retreat
+1 Flowering of the White Tree
+1 Font of Fertility
+1 Grasp of Fate
+1 Insidious Roots
+1 Journey to Nowhere
+1 Mirari's Wake
+1 On Wings of Gold
+1 Painful Quandary
+1 Path of Discovery
+1 Privileged Position
+1 Ripples of Undeath
+1 Seal of Cleansing
+1 Seal of Doom
+1 Seal of Primordium
+1 Song of the Worldsoul
+1 Soul Snare
+1 Strength of the Harvest
+1 Teval's Judgment
+1 The Binding of the Titans
+1 The Eldest Reborn
+1 Three Blind Mice
+1 Touch the Spirit Realm
+1 Tymaret Calls the Dead
+1 Valgavoth's Lair
+1 Vessel of Nascency
+1 War of the Last Alliance
+1 Wound Reflection
+1 Barren Moor
+1 Canopy Vista
+1 Caves of Koilos
+1 Command Tower
+1 Deceptive Landscape
+1 Exotic Orchard
+4 Forest
+1 Fortified Village
+1 Golgari Rot Farm
+1 Isolated Chapel
+1 Necroblossom Snarl
+1 Orzhov Basilica
+4 Plains
+1 Sandsteppe Citadel
+1 Scattered Groves
+1 Selesnya Sanctuary
+1 Shineshadow Snarl
+1 Sungrass Prairie
+1 Sunlit Marsh
+1 Sunpetal Grove
+4 Swamp
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+1 Tranquil Thicket
+1 Woodland Cemetery
+Sideboard
+1 Anikthea, Hand of Erebos

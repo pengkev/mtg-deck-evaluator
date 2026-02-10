@@ -1,0 +1,81 @@
+1 Wax/Wane
+1 Alseid of Life's Bounty
+1 Arbor Elf
+1 Arcane Signet
+1 Avacyn's Pilgrim
+1 Become Immense
+1 Birds of Paradise
+1 Blacksmith's Skill
+1 Blossoming Defense
+1 Boreal Druid
+1 Bounty of the Hunt
+1 Briar Shield
+1 Brushland
+1 Canopy Cover
+1 Command Tower
+1 Coppercoat Vanguard
+1 Crumb and Get It
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Embiggen
+1 Escape Tunnel
+1 Explosive Growth
+1 Fellwar Stone
+1 Flaming Fist
+1 Flare of Faith
+13 Forest
+1 Fyndhorn Elves
+1 Gaea's Gift
+1 Giant Growth
+1 Gilded Goose
+1 Groundswell
+1 Increasing Savagery
+1 Invigorate
+1 Kaya's Onslaught
+1 Key to the City
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Might of Old Krosa
+1 Mother of Runes
+1 Mutagenic Growth
+1 Nostalgic Dreams
+1 Overprotect
+1 Phytoburst
+9 Plains
+1 Plaza of Heroes
+1 Prey's Vengeance
+1 Primal Bellow
+1 Ranger's Guile
+1 Reliquary Tower
+1 Reprieve
+1 Rogue's Passage
+1 Royal Treatment
+1 Sakura-Tribe Scout
+1 Scale Up
+1 Scent of Ivy
+1 Sevinne's Reclamation
+1 Silverblade Paladin
+1 Skyshroud Ranger
+1 Snakeskin Veil
+1 Sol Ring
+1 Summer Bloom
+1 Sunpetal Grove
+1 Surge of Salvation
+1 Sword of War and Peace
+1 Swords to Plowshares
+1 Sylvan Safekeeper
+1 Tail Swipe
+1 Tamiyo's Safekeeping
+1 Temple Garden
+1 Thought Vessel
+1 Tifa's Limit Break
+1 Titanic Growth
+1 Tyvar's Stand
+1 Utopia Sprawl
+1 Vines of Vastwood
+1 Wild Defiance
+1 Wild Growth
+1 Windswept Heath
+1 Wing It
+Sideboard
+1 Sergeant John Benton

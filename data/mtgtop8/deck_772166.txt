@@ -1,0 +1,101 @@
+1 Archmage Emeritus
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Cloud of Faeries
+1 Delighted Halfling
+1 Displacer Kitten
+1 Dualcaster Mage
+1 Electro, Assaulting Battery
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Eternal Witness
+1 Flesh Duplicate
+1 Gene Pollinator
+1 Goblin Anarchomancer
+1 Harmonic Prodigy
+1 Imperial Recruiter
+1 Kinnan, Bonder Prodigy
+1 Molt Tender
+1 Pinnacle Monk
+1 Roaming Throne
+1 Spellseeker
+1 Stella Lee, Wild Card
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Timeless Witness
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Expedition Map
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Sol Ring
+1 Springleaf Drum
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Chord of Calling
+1 Crop Rotation
+1 Deflecting Swat
+1 Emerald Charm
+1 Essence Flux
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Flusterstorm
+1 Force of Will
+1 Gut Shot
+1 Manamorphose
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mogg Salvage
+1 Mystical Tutor
+1 Narset's Reversal
+1 Noxious Revival
+1 Pact of Negation
+1 Sink into Stupor
+1 Snap
+1 Submerge
+1 Summoner's Pact
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Gamble
+1 Gitaxian Probe
+1 Jeska's Will
+1 Land Grant
+1 Neoform
+1 Rite of Flame
+1 Twinflame
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Urza's Saga
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+1 Steam Vents
+1 Taiga
+1 Tropical Island
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Krark, the Thumbless
+1 Thrasios, Triton Hero

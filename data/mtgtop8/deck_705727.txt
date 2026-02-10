@@ -1,0 +1,101 @@
+1 Treasonous Ogre
+1 Orcish Lumberjack
+1 Tinder Wall
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Birgi, God of Storytelling
+1 Goblin Anarchomancer
+1 Birds of Paradise
+1 Eruth, Tormented Prophet
+1 Squee, the Immortal
+1 Reckless Barbarian
+1 "Name Sticker" Goblin
+1 Storm-Kiln Artist
+1 Niv-Mizzet, Parun
+1 Wild Cantor
+1 Terror of the Peaks
+1 Ral, Monsoon Mage
+1 Dragon's Rage Channeler
+1 Displacer Kitten
+1 Elvish Spirit Guide
+1 Niv-Mizzet, Visionary
+1 Lotus Petal
+1 Mana Vault
+1 Grim Monolith
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Chrome Mox
+1 Mox Diamond
+1 Mox Amber
+1 Arcane Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Ruby Medallion
+1 Sensei's Divining Top
+1 Snap
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Manamorphose
+1 Seething Song
+1 Mystical Tutor
+1 Worldly Tutor
+1 Valakut Awakening
+1 Lightning Bolt
+1 Frantic Search
+1 Chain of Vapor
+1 Pyroblast
+1 Brain Freeze
+1 Noxious Revival
+1 Timetwister
+1 Gamble
+1 Dragonstorm
+1 Wheel of Fortune
+1 Solve the Equation
+1 Strike It Rich
+1 Rob the Archives
+1 Personal Tutor
+1 Jeska's Will
+1 Embrace the Unknown
+1 Gitaxian Probe
+1 Rite of Flame
+1 Wrenn's Resolve
+1 Reckless Impulse
+1 Faithless Looting
+1 Rhystic Study
+1 Sylvan Library
+1 Food Chain
+1 Wild Growth
+1 Song of Creation
+1 Mystic Remora
+1 Exploration
+1 Underworld Breach
+1 Narset, Parter of Veils
+1 City of Brass
+1 City of Traitors
+1 Stomping Ground
+1 Mana Confluence
+1 Steam Vents
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Arid Mesa
+1 Verdant Catacombs
+1 Training Center
+1 Scalding Tarn
+1 Misty Rainforest
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Command Tower
+1 Fiery Islet
+1 Exotic Orchard
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Forbidden Orchard
+Sideboard
+1 Flubs, the Fool

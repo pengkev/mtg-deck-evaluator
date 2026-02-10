@@ -1,0 +1,69 @@
+33 Mountain
+1 Myriad Landscape
+1 Temple of the False God
+1 Dormant Volcano
+1 Beamtown Beatstick
+1 Zephyr Boots
+1 Boots of Speed
+1 Fervent Champion
+1 Heartfire Hero
+1 Prying Blade
+1 Barrow-Blade
+1 Colossus Hammer
+1 Blacksmith's Talent
+1 World Map
+1 Fiendlash
+1 Abrade
+1 Short Bow
+1 Hero's Heirloom
+1 Blackblade Reforged
+1 Bloodthirsty Blade
+1 Mask of Avacyn
+1 Cloak of the Bat
+1 Sunset Strikemaster
+1 Batterbone
+1 Goldvein Pick
+1 Self-Destruct
+1 Chainsaw
+1 Suplex
+1 Demonic Ruckus
+1 Angelic Armaments
+1 Ingenious Artillerist
+1 Chariot of Victory
+1 Blitzball
+1 Burnished Hart
+1 Kazuul's Toll Collector
+1 Butcher's Cleaver
+1 Inherited Envelope
+1 Brass Squire
+1 Sigiled Sword of Valeron
+1 Sword of Vengeance
+1 Trepanation Blade
+1 Heraldic Banner
+1 Inspiring Statuary
+1 Tuktuk Rubblefort
+1 Mana Geode
+1 Fireshrieker
+1 Kusari-Gama
+1 Darksteel Ingot
+1 Haunted Cloak
+1 Samurai's Katana
+1 Unexpected Request
+1 Bonehoard
+1 Frontier Warmonger
+1 Heartseeker
+1 Scampering Surveyor
+1 Moonsilver Spear
+1 Hedron Matrix
+1 Disrupt Decorum
+1 Brass Knuckles
+1 Assault Suit
+1 Alena, Kessig Trapper
+1 Scytheclaw
+1 Geode Golem
+1 Dragonwing Glider
+1 Argentum Armor
+1 Godo, Bandit Warlord
+1 Goldwardens' Gambit
+Sideboard
+1 Gilgamesh, Master-at-Arms

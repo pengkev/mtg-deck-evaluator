@@ -1,0 +1,72 @@
+1 Abrade
+1 Agate Instigator
+1 Bitter Reunion
+1 Chandra, Novice Pyromancer
+1 Coruscation Mage
+1 Descent into Avernus
+1 Dragon Fodder
+1 Emrakul's Hatcher
+1 Elixir of Immortality
+1 Everflowing Chalice
+1 Firecat Blitz
+1 Goblin Bombardment
+1 Goblin Instigator
+1 Goblin Negotiation
+1 Goblin Rabblemaster
+1 Goblin Surprise
+1 Grab the Prize
+1 Hordeling Outburst
+1 Howlsquad Heavy
+1 Impact Tremors
+1 Kickoff Celebrations
+1 Krenko's Command
+1 Legion Warboss
+1 Loyal Apprentice
+1 Manaform Hellkite
+1 Mind Stone
+1 Mishra's Onslaught
+1 Molten Gatekeeper
+1 Queen Brahne
+1 Raid Bombardment
+1 Redcap Gutter-Dweller
+1 Shared Animosity
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Skullclamp
+1 Sol Ring
+1 Song of Totentanz
+1 Spawn-Gang Commander
+1 Tempt with Vengeance
+1 Thermopod
+1 Tilonalli's Summoner
+1 Torbran, Thane of Red Fell
+1 Witty Roastmaster
+1 You See a Pair of Goblins
+1 Force of Rage
+1 Fellwar Stone
+1 Arcane Signet
+1 Mana Geyser
+1 Searslicer Goblin
+1 Simian Spirit Guide
+1 Scampering Scorcher
+1 Ogre Battledriver
+1 Enduring Courage
+1 Chaos Warp
+1 Mysidian Elder
+1 Blasphemous Act
+1 Faithless Looting
+1 Sunshot Militia
+1 Warstorm Surge
+1 Storm-Kiln Artist
+1 Beetleback Chief
+1 Jaya, Fiery Negotiator
+1 Outpost Siege
+1 Goblin Offensive
+30 Mountain
+1 Ashnod's Altar
+1 Castle Embereth
+1 Kher Keep
+1 Myriad Landscape
+1 Mines of Moria
+Sideboard
+1 Purphoros, God of the Forge

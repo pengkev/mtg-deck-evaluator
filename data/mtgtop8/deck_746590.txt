@@ -1,0 +1,79 @@
+1 Birds of Paradise
+1 Clever Impersonator
+1 Cogwork Assembler
+1 Colossal Skyturtle
+1 Delighted Halfling
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Enduring Vitality
+1 Fyndhorn Elves
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Koma, Cosmos Serpent
+1 Llanowar Elves
+1 Perplexing Chimera
+1 Prismite
+1 Sanctum Weaver
+1 Seedborn Muse
+1 Spectral Sailor
+1 Spellskite
+1 Stonework Packbeast
+1 Thorn Mammoth
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Apple of Eden, Isu Relic
+1 Arcane Signet
+1 Basalt Monolith
+1 Fellwar Stone
+1 Mind Stone
+1 Mirage Mirror
+1 Moonsilver Key
+1 Prismatic Lens
+1 Prophetic Prism
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 Thought Vessel
+1 Alchemist's Retrieval
+1 Autumn's Veil
+1 Blink of an Eye
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Commandeer
+1 Counterspell
+1 Delay
+1 Dispel
+1 Disrupting Shoal
+1 Geistwave
+1 Into the Roil
+1 Memory's Journey
+1 Miscast
+1 Misdirection
+1 Nature's Claim
+1 Negate
+1 Reality Shift
+1 Repeal
+1 Resculpt
+1 Spell Pierce
+1 Stroke of Genius
+1 Submerge
+1 Veil of Summer
+1 Wash Away
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Neoform
+1 Preordain
+1 Amphibian Downpour
+1 Wild Growth
+1 Command Tower
+12 Forest
+1 Hinterland Harbor
+12 Island
+1 Treasure Vault
+1 Waterlogged Grove
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

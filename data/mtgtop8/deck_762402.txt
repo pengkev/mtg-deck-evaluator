@@ -1,0 +1,101 @@
+1 Basking Broodscale
+1 Birds of Paradise
+1 Blightsteel Colossus
+1 Chancellor of the Annex
+1 Delighted Halfling
+1 Devoted Druid
+1 Elesh Norn, Grand Cenobite
+1 Elvish Spirit Guide
+1 Emrakul, the Promised End
+1 Esper Sentinel
+1 Ghalta, Stampede Tyrant
+1 Jin-Gitaxias, Core Augur
+1 Jin-Gitaxias, Progress Tyrant
+1 Kinnan, Bonder Prodigy
+1 Kozilek, Butcher of Truth
+1 Manglehorn
+1 Noble Hierarch
+1 Orcish Lumberjack
+1 Ranger-Captain of Eos
+1 Rosie Cotton of South Lane
+1 Scurry Oak
+1 Simian Spirit Guide
+1 Thassa's Oracle
+1 Tinder Wall
+1 Ulamog, the Infinite Gyre
+1 Vizier of Remedies
+1 Void Winnower
+1 Vorinclex, Voice of Hunger
+1 Walking Ballista
+1 Wandering Archaic
+1 Arcane Signet
+1 Basalt Monolith
+1 Fellwar Stone
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Talisman of Impulse
+1 Talisman of Unity
+1 The One Ring
+1 Deflecting Swat
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Vigor
+1 Heroic Intervention
+1 Mental Misstep
+1 Noxious Revival
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Green Sun's Zenith
+1 Natural Order
+1 Sylvan Tutor
+1 Yuna's Decision
+1 Lurking Predators
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Sneak Attack
+1 Survival of the Fittest
+1 Swift Reconfiguration
+1 Sylvan Library
+1 Urza's Saga
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Plateau
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Starting Town
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Bruse Tarl, Boorish Herder
+1 Thrasios, Triton Hero

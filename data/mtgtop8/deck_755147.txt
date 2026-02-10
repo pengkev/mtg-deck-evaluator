@@ -1,0 +1,92 @@
+1 Memnite
+1 Rograkh, Son of Rohgahh
+1 Ornithopter
+1 Phyrexian Walker
+1 Blazing Rootwalla
+1 Tinder Wall
+1 Basking Rootwalla
+1 Goblin Anarchomancer
+1 Ral, Monsoon Mage
+1 Goblin Electromancer
+1 Runaway Steam-Kin
+1 Vadrik, Astral Archmage
+1 Eruth, Tormented Prophet
+1 Elvish Spirit Guide
+1 Dualcaster Mage
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Peregrine Drake
+1 Pinnacle Monk
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Gruul Signet
+1 Izzet Signet
+1 Gut Shot
+1 Consider
+1 Otherworldly Gaze
+1 Nature's Claim
+1 Dispel
+1 Opt
+1 An Offer You Can't Refuse
+1 Lava Dart
+1 Essence Flux
+1 Obsessive Search
+1 Mutagenic Growth
+1 Prologue to Phyresis
+1 Auroral Procession
+1 Snap
+1 Manamorphose
+1 Memory's Journey
+1 Ancient Grudge
+1 Pyretic Ritual
+1 Mogg Salvage
+1 Ghostly Flicker
+1 Frantic Search
+1 Silundi Vision
+1 Seething Song
+1 Harrow
+1 Circular Logic
+1 Meeting of Minds
+1 Radstorm
+1 Gifts Ungiven
+1 Infernal Plunge
+1 Corrosive Gale
+1 Faithless Looting
+1 Gitaxian Probe
+1 Strike It Rich
+1 Rite of Flame
+1 Haze of Rage
+1 Rob the Archives
+1 Grapeshot
+1 Wrenn's Resolve
+1 Electroduplicate
+1 Bonus Round
+1 Glimpse the Impossible
+1 Past in Flames
+1 Deep Analysis
+1 Will of the Jeskai
+1 Mystic Retrieval
+1 Inspired Tinkering
+1 Mana Geyser
+1 Wild Growth
+1 Underworld Breach
+1 Song of Creation
+1 Shivan Reef
+1 Exotic Orchard
+4 Mountain
+1 Bountiful Landscape
+1 Izzet Boilerworks
+1 Frontier Bivouac
+1 Gruul Turf
+1 Hinterland Harbor
+4 Forest
+1 Command Tower
+4 Island
+1 Yavimaya Coast
+1 Sulfur Falls
+1 Rootbound Crag
+1 Simic Growth Chamber
+1 Cinder Glade
+Sideboard
+1 Flubs, the Fool

@@ -1,0 +1,99 @@
+1 Archivist of Oghma
+1 Aven Interrupter
+1 Cogwork Assembler
+1 Delivery Moogle
+1 Eldrazi Displacer
+1 Flamescroll Celebrant
+1 Goblin Engineer
+1 Goblin Welder
+1 Grand Abolisher
+1 Oswald Fiddlebender
+1 Pinnacle Monk
+1 Recruiter of the Guard
+1 Simian Spirit Guide
+1 Soulbright Flamekin
+1 Stoneforge Mystic
+1 Tataru Taru
+1 Thran Spider
+1 Treasonous Ogre
+1 Walking Ballista
+1 Wandering Archaic
+1 Weathered Wayfarer
+1 Witch Enchanter
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Avarice Totem
+1 Basalt Monolith
+1 Chromatic Orrery
+1 Commander's Plate
+1 Diviner's Wand
+1 Fountainport Bell
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Pearl Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Compleation
+1 Staff of Domination
+1 The One Ring
+1 Traveler's Amulet
+1 Umbral Mantle
+1 Wanderer's Twig
+1 Angel's Grace
+1 Comet Storm
+1 Disenchant
+1 Enlightened Tutor
+1 Flare of Duplication
+1 Flare of Fortitude
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Return the Favor
+1 Reverberate
+1 Silence
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Valakut Awakening
+1 Blasphemous Act
+1 Cleansing Meditation
+1 Earthquake
+1 Molten Disaster
+1 Path of the Pyromancer
+1 Sevinne's Reclamation
+1 Wheel of Fortune
+1 Smothering Tithe
+1 Underworld Breach
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Abstergo Entertainment
+1 Ancient Tomb
+1 Arid Mesa
+1 Boseiju, Who Shelters All
+1 Buried Ruin
+1 City of Brass
+1 Command Beacon
+1 Eiganjo, Seat of the Empire
+1 Horizon of Progress
+1 Inventors' Fair
+1 Mishra's Workshop
+2 Mountain
+2 Plains
+1 Plateau
+1 Rugged Prairie
+1 Sacred Foundry
+1 Starting Town
+1 Strip Mine
+1 Sunbillow Verge
+1 Wasteland
+Sideboard
+1 Zirda, the Dawnwaker

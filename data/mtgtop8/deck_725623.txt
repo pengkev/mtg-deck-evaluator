@@ -1,0 +1,89 @@
+1 Treasonous Ogre
+1 Immolating Souleater
+1 Priest of Urabrask
+1 Dualcaster Mage
+1 Wall of Blood
+1 Blood Pet
+1 Street Wraith
+1 Simian Spirit Guide
+1 Wandering Archaic
+1 Keen Duelist
+1 Lord of the Forsaken
+1 Reckless Barbarian
+1 Activated Sleeper
+1 "Name Sticker" Goblin
+1 K'rrik, Son of Yawgmoth
+1 Priest of Gix
+1 Gray Merchant of Asphodel
+1 Myr Convert
+1 Boggart Trawler
+1 Pinnacle Monk
+1 Darkstar Augur
+1 Storm-Kiln Artist
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Rakdos Signet
+1 Talisman of Indulgence
+1 Springleaf Drum
+1 Fellwar Stone
+1 Conqueror's Flail
+1 Magewright's Stone
+1 Bolas's Citadel
+1 Patriar's Seal
+1 Dismember
+1 Gut Shot
+1 Mages' Contest
+1 Plunge into Darkness
+1 Spoils of the Vault
+1 Dark Ritual
+1 Searing Touch
+1 Red Elemental Blast
+1 Bolt Bend
+1 Burnt Offering
+1 Erebos's Intervention
+1 Seething Song
+1 Reiterate
+1 Wild Magic Surge
+1 Imp's Mischief
+1 Flare of Duplication
+1 Fell the Profane
+1 Untimely Malfunction
+1 Withering Torment
+1 Big Score
+1 Peer into the Abyss
+1 Behold the Beyond
+1 Increasing Ambition
+1 Unearth
+1 Dark Petition
+1 Final Parting
+1 Coveted Prize
+1 Cut/Ribbons
+1 Seize the Spotlight
+1 Inspired Tinkering
+1 Pirate's Pillage
+1 Past in Flames
+1 No One Left Behind
+1 Exsanguinate
+1 Lively Dirge
+1 Mizzix's Mastery
+1 Sundering Eruption
+1 Electroduplicate
+1 Chthonian Nightmare
+1 Chandra, Hope's Beacon
+7 Swamp
+7 Mountain
+1 Command Tower
+1 Fabled Passage
+1 Ifnir Deadlands
+1 Tomb of Urami
+1 Spire of Industry
+1 Sulfurous Springs
+1 Dragonskull Summit
+1 Ramunap Ruins
+1 Tainted Peak
+1 Barbarian Ring
+1 Horizon of Progress
+1 Cabal Pit
+Sideboard
+1 Rowan, Scion of War

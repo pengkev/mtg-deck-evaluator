@@ -1,0 +1,101 @@
+1 Goblin Welder
+1 Cogwork Assembler
+1 Walking Ballista
+1 Goblin Engineer
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Treasonous Ogre
+1 Ethersworn Canonist
+1 Weathered Wayfarer
+1 Metalworker
+1 Birgi, God of Storytelling
+1 Wandering Archaic
+1 Imperial Recruiter
+1 Dragon's Rage Channeler
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Oswald Fiddlebender
+1 Archivist of Oghma
+1 Queen Kayla bin-Kroog
+1 Voice of Victory
+1 Simian Spirit Guide
+1 Lotus Petal
+1 Voltaic Key
+1 Grim Monolith
+1 Talisman of Conviction
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Mox Diamond
+1 Umbral Mantle
+1 Basalt Monolith
+1 Sol Ring
+1 Moonsilver Key
+1 Manifold Key
+1 Mana Vault
+1 Chrome Mox
+1 Arcane Signet
+1 Sculpting Steel
+1 Staff of Domination
+1 Staff of Compleation
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Dino DNA
+1 Vexing Bauble
+1 Grinding Station
+1 Portable Hole
+1 Lightning Greaves
+1 Red Elemental Blast
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Silence
+1 Pyroblast
+1 Seething Song
+1 Argivian Find
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Deflecting Swat
+1 Flare of Duplication
+1 Rite of Flame
+1 Burning Inquiry
+1 Infernal Plunge
+1 Jeska's Will
+1 Strike It Rich
+1 Gamble
+1 Sevinne's Reclamation
+1 Recommission
+1 Reckless Handling
+1 Jolted Awake
+1 Smothering Tithe
+1 Underworld Breach
+1 Goblin Festival
+1 Urza's Saga
+1 Trouble in Pairs
+1 Smuggler's Share
+1 Artist's Talent
+1 Command Tower
+1 Mishra's Workshop
+1 City of Traitors
+1 Marsh Flats
+1 Scalding Tarn
+1 Ancient Tomb
+1 City of Brass
+1 Emergence Zone
+1 Sunbaked Canyon
+1 Mana Confluence
+1 Battlefield Forge
+1 Gemstone Caverns
+1 Mountain
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Inventors' Fair
+1 Arid Mesa
+1 Spectator Seating
+1 Plateau
+1 Sacred Foundry
+1 Elegant Parlor
+1 Buried Ruin
+1 Fomori Vault
+1 Talon Gates of Madara
+1 Abstergo Entertainment
+Sideboard
+1 Zirda, the Dawnwaker

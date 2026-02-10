@@ -1,0 +1,101 @@
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Drannith Magistrate
+1 Kinnan, Bonder Prodigy
+1 Opposition Agent
+1 Esper Sentinel
+1 Phantasmal Image
+1 Hullbreaker Horror
+1 Birds of Paradise
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Kitesail Larcenist
+1 Kutzil, Malamet Exemplar
+1 Seedborn Muse
+1 Mockingbird
+1 Pollywog Prodigy
+1 Faeburrow Elder
+1 Valley Floodcaller
+1 Archivist of Oghma
+1 Bloom Tender
+1 Sol Ring
+1 Chrome Mox
+1 Talisman of Dominance
+1 Mox Amber
+1 Fellwar Stone
+1 Mana Vault
+1 Basalt Monolith
+1 Talisman of Progress
+1 Arcane Signet
+1 Lotus Petal
+1 Pact of Negation
+1 Force of Negation
+1 Cyclonic Rift
+1 Arcane Denial
+1 Silence
+1 Swan Song
+1 Dovin's Veto
+1 Tainted Pact
+1 Force of Will
+1 Swords to Plowshares
+1 Snap
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Angel's Grace
+1 Mana Drain
+1 Mindbreak Trap
+1 Path to Exile
+1 Strix Serenade
+1 Mental Misstep
+1 Veil of Summer
+1 Delay
+1 Fierce Guardianship
+1 An Offer You Can't Refuse
+1 Flusterstorm
+1 Demonic Tutor
+1 Toxic Deluge
+1 Finale of Devastation
+1 Smothering Tithe
+1 Earthcraft
+1 Rhystic Study
+1 Mystic Remora
+1 Wild Growth
+1 Blind Obedience
+1 Freed from the Real
+1 Training Grounds
+1 Ashiok, Dream Render
+1 Breeding Pool
+1 Godless Shrine
+1 Watery Grave
+1 Mana Confluence
+1 Overgrown Tomb
+1 Temple Garden
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Flooded Strand
+1 Windswept Heath
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Exotic Orchard
+1 Polluted Delta
+1 Shifting Woodland
+1 Command Tower
+1 Island
+1 Forest
+Sideboard
+1 Tymna the Weaver
+1 Thrasios, Triton Hero

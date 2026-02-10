@@ -1,0 +1,82 @@
+1 Tidespout Tyrant
+1 Hullbreaker Horror
+1 Clock of Omens
+1 Coldsteel Heart
+1 Azorius Signet
+1 Skullclamp
+1 Codex Shredder
+1 Soul-Guide Lantern
+1 Everflowing Chalice
+1 Welding Jar
+1 Voltaic Key
+1 Mind Stone
+1 Elixir of Immortality
+1 Isochron Scepter
+1 Proteus Staff
+1 Arcane Signet
+1 Sol Ring
+1 Cursed Totem
+1 Sky Diamond
+1 Manifold Key
+1 Unwinding Clock
+1 Fellwar Stone
+1 Talisman of Progress
+1 Tormod's Crypt
+1 Marble Diamond
+1 Misdirection
+1 Whir of Invention
+1 Delay
+1 Swords to Plowshares
+1 Brainstorm
+1 Muddle the Mixture
+1 Dispel
+1 Arcane Denial
+1 Dramatic Reversal
+1 Repeal
+1 Counterspell
+1 Jwari Disruption
+1 Silundi Vision
+1 Suspend
+1 Silence
+1 Spell Pierce
+1 Opt
+1 Path to Exile
+1 Resculpt
+1 Reality Shift
+1 Dig Through Time
+1 Unsubstantiate
+1 Dovin's Veto
+1 March of Otherworldly Light
+1 An Offer You Can't Refuse
+1 Generous Gift
+1 Preordain
+1 Reshape
+1 Supreme Verdict
+1 Gitaxian Probe
+1 Treasure Cruise
+1 Serum Visions
+1 Day of Judgment
+1 Polymorph
+1 Solve the Equation
+1 Ponder
+1 Sevinne's Reclamation
+1 Wrath of God
+1 Sublime Exhalation
+1 Darksteel Mutation
+1 Out of Time
+1 Dress Down
+1 Blind Obedience
+1 Ancient Den
+1 Command Tower
+1 Spire of Industry
+1 Exotic Orchard
+1 Skycloud Expanse
+1 Adarkar Wastes
+1 Seat of the Synod
+1 Razortide Bridge
+1 Port Town
+1 Prairie Stream
+10 Plains
+11 Island
+Sideboard
+1 Shorikai, Genesis Engine

@@ -1,0 +1,72 @@
+1 Astor, Bearer of Blades
+1 Baird, Argivian Recruiter
+1 Boon-Bringer Valkyrie
+1 Boros Challenger
+1 Danitha Capashen, Paragon
+1 Danitha, Benalia's Hope
+1 Eowyn, Fearless Knight
+1 General Ferrous Rokiric
+1 Light of the Legion
+1 Lightning, Army of One
+1 Lion Sash
+1 Lizard Blades
+1 Odric, Lunarch Marshal
+1 Rem Karolus, Stalwart Slayer
+1 Resolute Archangel
+1 Reyav, Master Smith
+1 Sephara, Sky's Blade
+1 Serra's Guardian
+1 Shrike Force
+1 Sunblast Angel
+1 Swiftblade Vindicator
+1 Tajic, Legion's Edge
+1 Taurean Mauler
+1 Terror of the Peaks
+1 The Wandering Rescuer
+1 Torbran, Thane of Red Fell
+1 Tori D'Avenant, Fury Rider
+1 Urabrask the Hidden
+1 Winota, Joiner of Forces
+1 Wojek Investigator
+1 Aettir and Priwen
+1 Andúril, Flame of the West
+1 Arcane Signet
+1 Basilisk Collar
+1 Boros Locket
+1 Buster Sword
+1 Commander's Sphere
+1 Forebear's Blade
+1 Genji Glove
+1 Glass of the Guildpact
+1 Glasses of Urza
+1 Inquisitor's Flail
+1 Leyline Axe
+1 Mithril Coat
+1 Pearl Medallion
+1 Sol Ring
+1 Sword of the Animist
+1 The Dominion Bracelet
+1 The Fire Crystal
+1 Faith's Reward
+1 Order/Chaos
+1 Silence
+1 Stroke of Midnight
+1 Brilliant Restoration
+1 Chain Reaction
+1 Day of Judgment
+1 Farewell
+1 Starfall Invocation
+1 Fiery Emancipation
+1 Forge Anew
+1 Gratuitous Violence
+1 Legion's Initiative
+1 Mass Hysteria
+1 The Wanderer
+1 The Wandering Emperor
+16 Mountain
+15 Plains
+1 Sacred Foundry
+1 Sunbillow Verge
+1 Wind-Scarred Crag
+Sideboard
+1 Aurelia, Exemplar of Justice

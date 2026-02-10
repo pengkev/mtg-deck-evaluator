@@ -1,0 +1,76 @@
+1 Abzan Falconer
+1 Ajani's Pridemate
+1 Angel of Destiny
+1 Archangel of Thune
+1 Auriok Champion
+1 Beloved Princess
+1 Boromir, Warden of the Tower
+1 Crested Sunmare
+1 Daxos, Blessed by the Sun
+1 Elenda's Hierophant
+1 Envoy of the Ancestors
+1 Exemplar of Light
+1 Giver of Runes
+1 Guardian Scalelord
+1 Hopeful Initiate
+1 Linden, the Steadfast Queen
+1 Luminous Broodmoth
+1 Mangara, the Diplomat
+1 Nykthos Paragon
+1 Ranger of Eos
+1 Rune-Tail, Kitsune Ascendant
+1 Selfless Spirit
+1 Serra Ascendant
+1 Serra Paragon
+1 Skyclave Apparition
+1 Soul Warden
+1 Soul's Attendant
+1 Speaker of the Heavens
+1 Sunscorch Regent
+1 Voice of the Blessed
+1 Weathered Wayfarer
+1 Aetherflux Reservoir
+1 Pearl Medallion
+1 Sol Ring
+1 The Book of Exalted Deeds
+1 The Wind Crystal
+1 Well of Lost Dreams
+1 Akroma's Will
+1 Brave the Elements
+1 Clever Concealment
+1 Flare of Fortitude
+1 Flawless Maneuver
+1 Heliod's Intervention
+1 Swords to Plowshares
+1 Ascend from Avernus
+1 Damning Verdict
+1 Devastating Mastery
+1 Fumigate
+1 Hour of Revelation
+1 Ondu Inversion
+1 Aura of Silence
+1 Blind Obedience
+1 Cleric Class
+1 Elspeth Conquers Death
+1 Gift of Immortality
+1 Indestructibility
+1 Land Tax
+1 Light of Promise
+1 Orim's Prayer
+1 Pariah
+1 Reconnaissance
+1 Shielded by Faith
+1 Smile at Death
+1 Sunbond
+1 Valkyrie's Call
+1 Ajani, Strength of the Pride
+1 Elspeth, Sun's Champion
+1 Castle Ardenvale
+1 Emeria, the Sky Ruin
+1 Hall of Heliod's Generosity
+1 Inkmoth Nexus
+1 Nykthos, Shrine to Nyx
+26 Plains
+1 Reliquary Tower
+Sideboard
+1 Heliod, Sun-Crowned

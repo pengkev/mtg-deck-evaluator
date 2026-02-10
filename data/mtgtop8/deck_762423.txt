@@ -1,0 +1,75 @@
+1 Aftermath Analyst
+1 Ancient Greenwarden
+1 Azusa, Lost but Seeking
+1 Bristly Bill, Spine Sower
+1 Courser of Kruphix
+1 Cultivator Colossus
+1 Evolution Sage
+1 Forgotten Ancient
+1 Ghalta, Primal Hunger
+1 Loot, Exuberant Explorer
+1 Mossborn Hydra
+1 Multani, Yavimaya's Avatar
+1 Oran-Rief Hydra
+1 Paladin of Predation
+1 Pathbreaker Ibex
+1 Primordial Hydra
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Sazh's Chocobo
+1 Scute Swarm
+1 Scythecat Cub
+1 Summon: Titan
+1 Sutina, Speaker of the Tajuru
+1 Sylvan Safekeeper
+1 Titania, Protector of Argoth
+1 Traveling Chocobo
+1 Vigor
+1 Blackblade Reforged
+1 Buster Sword
+1 Emerald Medallion
+1 Lightning Greaves
+1 Ozolith, the Shattered Spire
+1 Sculpting Steel
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Earth Crystal
+1 Entish Restoration
+1 Harrow
+1 Inspiring Call
+1 Ram Through
+1 Roiling Regrowth
+1 Tifa's Limit Break
+1 Worldly Tutor
+1 Circuitous Route
+1 Cultivate
+1 Explosive Vegetation
+1 Far Wanderings
+1 Grow from the Ashes
+1 Harmonize
+1 Nissa's Renewal
+1 Rampant Growth
+1 Skyshroud Claim
+1 Tempt with Discovery
+1 Traverse the Outlands
+1 Bear Umbra
+1 Blanchwood Armor
+1 Khalni Heart Expedition
+1 Retreat to Kazandu
+1 Ride the Shoopuf
+1 Snake Umbra
+1 Unnatural Growth
+1 Blighted Woodland
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Cryptic Caves
+1 Escape Tunnel
+1 Evolving Wilds
+27 Forest
+1 Myriad Landscape
+1 Naya Panorama
+1 Riveteers Overlook
+1 Terramorphic Expanse
+Sideboard
+1 Tifa Lockhart

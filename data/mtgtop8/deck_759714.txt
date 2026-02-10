@@ -1,0 +1,93 @@
+1 Chakram Retriever
+1 Displacer Kitten
+1 Etherium Sculptor
+1 Forensic Gadgeteer
+1 Glaring Fleshraker
+1 Harbinger of the Seas
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Mirran Spy
+1 Painter's Servant
+1 Shimmer Myr
+1 Thassa's Oracle
+1 The Reality Chip
+1 Trinket Mage
+1 Urza, Lord High Artificer
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Aether Spellbomb
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Basalt Monolith
+1 Chromatic Star
+1 Chrome Mox
+1 Conjurer's Bauble
+1 Forsaken Monument
+1 Grim Monolith
+1 Grindstone
+1 Isochron Scepter
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Repurposing Bay
+1 Retrofitter Foundry
+1 Sensei's Divining Top
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Staff of Domination
+1 The One Ring
+1 Urza's Bauble
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Brainstorm
+1 Counterspell
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flare of Denial
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Intuition
+1 Mana Drain
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Pact of Negation
+1 Reality Shift
+1 Resculpt
+1 Swan Song
+1 Echo of Eons
+1 Fabricate
+1 Windfall
+1 Back to Basics
+1 Mystic Remora
+1 Power Artifact
+1 Rhystic Study
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Ancient Tomb
+1 Castle Vantress
+1 Darksteel Citadel
+1 Fomori Vault
+1 Gemstone Caverns
+1 Hall of Storm Giants
+1 Inventors' Fair
+9 Island
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Reliquary Tower
+1 Scalding Tarn
+1 Seat of the Synod
+1 Tolaria West
+Sideboard
+1 Emry, Lurker of the Loch

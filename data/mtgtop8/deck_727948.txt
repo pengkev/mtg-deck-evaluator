@@ -1,0 +1,92 @@
+1 Adeline, Resplendent Cathar
+1 Agate Instigator
+1 Ainok Strike Leader
+1 Anim Pakal, Thousandth Moon
+1 Archivist of Oghma
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Charismatic Conqueror
+1 Combat Celebrant
+1 Containment Priest
+1 Dalkovan Packbeasts
+1 Deep Gnome Terramancer
+1 Delney, Streetwise Lookout
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eidolon of the Great Revel
+1 Enduring Innocence
+1 Esper Sentinel
+1 General Kreat, the Boltbringer
+1 Gold Myr
+1 Grand Abolisher
+1 Hushbringer
+1 Imperial Recruiter
+1 Iron Myr
+1 Loyal Apprentice
+1 Magus of the Moon
+1 Mentor of the Meek
+1 Mother of Runes
+1 Myrel, Shield of Argive
+1 Ocelot Pride
+1 Ornithopter of Paradise
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Razorkin Needlehead
+1 Recruiter of the Guard
+1 Roaming Throne
+1 Selfless Spirit
+1 Serra Ascendant
+1 Simian Spirit Guide
+1 Skrelv, Defector Mite
+1 Solphim, Mayhem Dominus
+1 Thalia, Guardian of Thraben
+1 The Jolly Balloon Man
+1 Village Bell-Ringer
+1 Voice of Victory
+1 Winota, Joiner of Forces
+1 Witch Enchanter
+1 Chrome Mox
+1 Dolmen Gate
+1 Lotus Petal
+1 Mox Amber
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Conviction
+1 The One Ring
+1 Angel's Grace
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Flare of Duplication
+1 Legion Leadership
+1 Price of Progress
+1 Pyroblast
+1 Razorgrass Ambush
+1 Red Elemental Blast
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Jeska's Will
+1 Last Chance
+1 Sundering Eruption
+1 Blood Moon
+1 Deafening Silence
+1 High Noon
+1 Reconnaissance
+1 Roiling Vortex
+1 Arena of Glory
+1 Arid Mesa
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Inventors' Fair
+1 Mana Confluence
+1 Maze of Ith
+4 Mountain
+7 Plains
+1 Sacred Foundry
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Arabella, Abandoned Doll

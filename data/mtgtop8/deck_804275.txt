@@ -1,0 +1,100 @@
+1 Generous Plunderer
+1 Harmonic Prodigy
+1 Hexing Squelcher
+1 Hydroelectric Specimen
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Scuzzback Scrounger
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Vivi Ornitier
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Bloom
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Pentad Prism
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Bolt Bend
+1 Borne Upon a Wind
+1 Commandeer
+1 Counterspell
+1 Daze
+1 Deflecting Swat
+1 Delay
+1 Dispel
+1 Disrupting Shoal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Miscast
+1 Misdirection
+1 Mystical Tutor
+1 Narset's Reversal
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Sink into Stupor
+1 Spell Pierce
+1 Spell Snare
+1 Stern Scolding
+1 Strix Serenade
+1 Stubborn Denial
+1 Submerge
+1 Swan Song
+1 Trickbind
+1 Valakut Awakening
+1 Whir of Invention
+1 Gamble
+1 Reshape
+1 Sea Gate Restoration
+1 Transmute Artifact
+1 Copy Enchantment
+1 Curiosity
+1 Curse of Opulence
+1 Mirrormade
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Steal Enchantment
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Horizon of Progress
+2 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plaza of Heroes
+1 Polluted Delta
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Niv-Mizzet, Parun

@@ -1,0 +1,74 @@
+1 Annoyed Altisaur
+1 Ashaya, Soul of the Wild
+1 Bloodbraid Challenger
+1 Captain Lannery Storm
+1 Destiny Spinner
+1 Doomskar Warrior
+1 Dragonmaster Outcast
+1 Emrakul, the World Anew
+1 Etali, Primal Storm
+1 Fanatic of Rhonas
+1 Fecund Greenshell
+1 Flametongue Kavu
+1 Fyndhorn Elves
+1 Generous Plunderer
+1 Goreclaw, Terror of Qal Sisma
+1 Greenweaver Druid
+1 Hauntwoods Shrieker
+1 Jaxis, the Troublemaker
+1 Kona, Rescue Beastie
+1 Kozilek, the Broken Reality
+1 Krosan Drover
+1 Laelia, the Blade Reforged
+1 Llanowar Elves
+1 Mirage Phalanx
+1 Multani, Yavimaya's Avatar
+1 Overlord of the Boilerbilges
+1 Plargg and Nassari
+1 Roxanne, Starfall Savant
+1 Somberwald Sage
+1 Tireless Tracker
+1 Wood Elves
+1 Worldspine Wurm
+1 Writhing Chrysalis
+1 Arcane Signet
+1 Emerald Medallion
+1 Goblin Charbelcher
+1 Gruul Signet
+1 Lotus Ring
+1 Panharmonicon
+1 Sensei's Divining Top
+1 Sol Ring
+1 Ancient Grudge
+1 Chaos Warp
+1 Entish Restoration
+1 Signal the Clans
+1 Cultivate
+1 Electroduplicate
+1 Farseek
+1 Molten Duplication
+1 Rampant Growth
+1 Echoing Assault
+1 Fertile Ground
+1 Fervor
+1 Overgrowth
+1 Powerbalance
+1 Utopia Sprawl
+1 Invasion of Ergamon
+1 Invasion of Ixalan
+1 Invasion of Zendikar
+1 Chandra, Hope's Beacon
+1 Chandra, Torch of Defiance
+1 Domri, Anarch of Bolas
+1 Xenagos, the Reveler
+1 Arena of Glory
+1 Argoth, Sanctum of Nature
+15 Forest
+1 Mosswort Bridge
+14 Mountain
+1 Restless Ridgeline
+1 Rugged Highlands
+1 Spinerock Knoll
+1 Stomping Ground
+Sideboard
+1 Etali, Primal Conqueror

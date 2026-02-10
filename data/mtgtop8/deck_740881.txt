@@ -1,0 +1,99 @@
+1 Archivist of Oghma
+1 Boromir, Warden of the Tower
+1 Clever Impersonator
+1 Displacer Kitten
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Hullbreaker Horror
+1 Mockingbird
+1 Phyrexian Metamorph
+1 Ranger-Captain of Eos
+1 Scrawling Crawler
+1 Spellskite
+1 Tataru Taru
+1 Voice of Victory
+1 Volatile Stormdrake
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Damping Sphere
+1 Fellwar Stone
+1 Imposter Mech
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Memory Jar
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Sonic Screwdriver
+1 Talisman of Progress
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Commandeer
+1 Cyclonic Rift
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Mental Misstep
+1 Mindbreak Trap
+1 Oblation
+1 Pact of Negation
+1 Paradoxical Outcome
+1 Silence
+1 Soul Partition
+1 Stroke of Genius
+1 Swan Song
+1 Swords to Plowshares
+1 Trickbind
+1 Vision Skeins
+1 Words of Wisdom
+1 Cut a Deal
+1 Day's Undoing
+1 Echo of Eons
+1 Fabricate
+1 Stock Up
+1 Timetwister
+1 Transmute Artifact
+1 Windfall
+1 Amphibian Downpour
+1 Aura of Silence
+1 Blind Obedience
+1 Copy Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Arid Mesa
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Flooded Strand
+1 Floodfarm Verge
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Hengegate Pathway
+2 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Otawara, Soaring City
+2 Plains
+1 Polluted Delta
+1 Scalding Tarn
+1 Sea of Clouds
+1 Talon Gates of Madara
+1 Tundra
+1 Windswept Heath
+Sideboard
+1 Heliod, the Radiant Dawn

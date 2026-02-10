@@ -1,0 +1,93 @@
+1 Goblin Welder
+1 Fury
+1 Soulless Jailer
+1 Goblin Engineer
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Professional Face-Breaker
+1 Party Thrasher
+1 Pinnacle Monk
+1 Arcane Signet
+1 Mask of Memory
+1 Sol Ring
+1 Whispersilk Cloak
+1 Sword of Fire and Ice
+1 Chrome Mox
+1 Mox Diamond
+1 Sword of Feast and Famine
+1 Torpor Orb
+1 Commander's Plate
+1 Sword of Hearth and Home
+1 Strength-Testing Hammer
+1 The One Ring
+1 Pip-Boy 3000
+1 Lost Jitte
+1 Vexing Bauble
+1 Mana Vault
+1 Grafdigger's Cage
+1 Infiltration Lens
+1 Mox Opal
+1 Umezawa's Jitte
+1 Welding Jar
+1 Grim Monolith
+1 O-Naginata
+1 Cursed Totem
+1 Jeweled Amulet
+1 Mox Amber
+1 Prying Blade
+1 Weathered Runestone
+1 Zephyr Boots
+1 Beamtown Beatstick
+1 Lotus Petal
+1 Sword of Truth and Justice
+1 Brotherhood Regalia
+1 Lightning Bolt
+1 Reverberate
+1 Valakut Awakening
+1 Wild Magic Surge
+1 Untimely Malfunction
+1 Chaos Warp
+1 Desperate Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Abrade
+1 Pyretic Ritual
+1 Deflecting Swat
+1 Ricochet Trap
+1 Tibalt's Trickery
+1 Monstrous Rage
+1 Mogg Salvage
+1 Anger of the Gods
+1 Vandalblast
+1 Ruination
+1 Jeska's Will
+1 Strike It Rich
+1 Reckless Handling
+1 Faithless Looting
+1 Gamble
+1 Rite of Flame
+1 Sundering Eruption
+1 Blood Moon
+1 Urza's Saga
+1 Jeska, Thrice Reborn
+1 Homeward Path
+1 Wasteland
+1 Cavern of Souls
+1 Ancient Tomb
+1 Inventors' Fair
+1 Gemstone Caverns
+1 War Room
+1 Fomori Vault
+1 Arena of Glory
+1 Strip Mine
+1 Buried Ruin
+1 Bloodstained Mire
+1 Command Beacon
+1 Crystal Vein
+1 Scavenger Grounds
+1 Scalding Tarn
+1 Wooded Foothills
+1 Prismatic Vista
+9 Snow-Covered Mountain
+Sideboard
+1 Slicer, Hired Muscle

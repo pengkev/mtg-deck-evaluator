@@ -1,0 +1,92 @@
+1 Glint-Horn Buccaneer
+1 Mask of Memory
+1 Springleaf Drum
+1 Prismatic Lens
+1 Lightning Greaves
+1 Sol Ring
+1 Talisman of Creativity
+1 Arcane Signet
+1 Mind Stone
+1 Proteus Staff
+1 Fellwar Stone
+1 Izzet Signet
+1 Miscast
+1 Unsubstantiate
+1 Flame Sweep
+1 Counterspell
+1 Remand
+1 Pyretic Ritual
+1 Peek
+1 Brain Freeze
+1 Red Elemental Blast
+1 Lightning Bolt
+1 Izzet Charm
+1 Mana Leak
+1 Stern Dismissal
+1 Read the Runes
+1 Brainstorm
+1 Ricochet Trap
+1 Misdirection
+1 Negate
+1 Blink of an Eye
+1 Into the Roil
+1 Fiery Cannonade
+1 Suspend
+1 You Find Some Prisoners
+1 Consider
+1 Chaos Mutation
+1 Snap
+1 Divergent Transformations
+1 Muddle the Mixture
+1 Thrill of Possibility
+1 Abrade
+1 Spell Pierce
+1 Big Score
+1 Narset's Reversal
+1 Frantic Search
+1 Delay
+1 Gamble
+1 Rite of Flame
+1 Transmogrify
+1 Gitaxian Probe
+1 Burning Inquiry
+1 Polymorph
+1 Windfall
+1 Blasphemous Act
+1 Grapeshot
+1 Solve the Equation
+1 Overmaster
+1 Cathartic Reunion
+1 Faithless Looting
+1 Mystic Remora
+1 Underworld Breach
+1 Ophidian Eye
+1 Shifting Shadow
+1 Curiosity
+1 Witness Protection
+1 Jace, Wielder of Mysteries
+1 Narset, Parter of Veils
+7 Island
+4 Mountain
+1 Dwarven Ruins
+1 Svyelunite Temple
+1 Archaeological Dig
+1 Vivid Crag
+1 Gemstone Mine
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Lonely Sandbar
+1 Forgotten Cave
+1 Shivan Reef
+1 Vivid Creek
+1 Crystal Vein
+1 Exotic Orchard
+1 Fiery Islet
+1 Command Tower
+1 Frostboil Snarl
+1 Escape Tunnel
+1 Temple of Epiphany
+1 Evolving Wilds
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Kediss, Emberclaw Familiar

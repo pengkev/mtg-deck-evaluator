@@ -1,0 +1,76 @@
+1 Aerial Extortionist
+1 Archon of Sun's Grace
+1 Beguiler of Wills
+1 Brago, King Eternal
+1 Charming Prince
+1 Claim Jumper
+1 Dour Port-Mage
+1 Dream Trawler
+1 Enduring Curiosity
+1 Entity Tracker
+1 Ethereal Valkyrie
+1 Felidar Guardian
+1 Flickerwisp
+1 Gremlin Tamer
+1 Lionheart Glimmer
+1 Mulldrifter
+1 Naban, Dean of Iteration
+1 Overlord of the Floodpits
+1 Phelia, Exuberant Shepherd
+1 Restoration Angel
+1 Silent Hallcreeper
+1 Silverwing Squadron
+1 Skyhunter Strike Force
+1 Solemn Simulacrum
+1 Soulherder
+1 Spirited Companion
+1 Sun Titan
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Panharmonicon
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Thought Vessel
+1 Blur
+1 Cloudshift
+1 Counterspell
+1 Eerie Interlude
+1 Ephemerate
+1 Essence Flux
+1 Flicker of Fate
+1 Generous Gift
+1 Ghostly Flicker
+1 Momentary Blink
+1 Parting Gust
+1 Path to Exile
+1 Pongify
+1 Rapid Hybridization
+1 Swan Song
+1 Swords to Plowshares
+1 Unwanted Remake
+1 Starfall Invocation
+1 Supreme Verdict
+1 Time Wipe
+1 Ghostly Prison
+1 Propaganda
+1 Skybind
+1 Sphere of Safety
+1 Teleportation Circle
+1 Niko Aris
+1 Adarkar Wastes
+1 Command Tower
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+14 Island
+13 Plains
+1 Port Town
+1 Prairie Stream
+1 Reliquary Tower
+1 Skycloud Expanse
+Sideboard
+1 Niko, Light of Hope

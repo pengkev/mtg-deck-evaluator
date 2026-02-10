@@ -1,0 +1,101 @@
+1 Children of Korlis
+1 Dimensional Infiltrator
+1 Forensic Gadgeteer
+1 Grand Abolisher
+1 Grand Architect
+1 Laboratory Maniac
+1 Lavinia, Azorius Renegade
+1 Pili-Pala
+1 Puresight Merrow
+1 Thassa's Oracle
+1 Triskaidekaphile
+1 Vnwxt, Verbose Host
+1 Voice of Victory
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Helm of Awakening
+1 Lotus Petal
+1 Mana Vault
+1 Mesmeric Orb
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Sensei's Divining Top
+1 Sol Ring
+1 Spellbook
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The One Ring
+1 Ad Nauseam
+1 Angel's Grace
+1 Borne Upon a Wind
+1 Brainstorm
+1 Consign to Memory
+1 Counterspell
+1 Dark Ritual
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Entomb
+1 Fierce Guardianship
+1 Force of Will
+1 Impulse
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Miscast
+1 Mystical Tutor
+1 Silence
+1 Strix Serenade
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Grim Tutor
+1 Helping Hand
+1 Imperial Seal
+1 Ponder
+1 Preordain
+1 Unearth
+1 Counterbalance
+1 Leyline of Anticipation
+1 Mystic Remora
+1 Necrodominance
+1 Necromancy
+1 Necropotence
+1 Rhystic Study
+1 Smothering Tithe
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Arid Mesa
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Glimmervoid
+1 Godless Shrine
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Polluted Delta
+1 Reliquary Tower
+1 Scrubland
+1 Sea of Clouds
+1 Silent Clearing
+1 Tundra
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+Sideboard
+1 Zur the Enchanter

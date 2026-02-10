@@ -1,0 +1,94 @@
+1 Akoum Warrior
+1 Akroma, Angel of Fury
+1 Armed/Dangerous
+1 Ash Barrens
+1 Avatar of Fury
+1 Avatar of Might
+1 Beanstalk Giant
+1 Beast Within
+1 Belt of Giant Strength
+1 Blasphemous Act
+1 Blazing Shoal
+1 Boom/Bust
+1 Chaos Warp
+1 Chaotic Transformation
+1 Cinder Glade
+1 City on Fire
+1 Command Tower
+1 Dead/Gone
+1 Decree of Savagery
+1 Disaster Radius
+1 Embercleave
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fast/Furious
+6 Forest
+1 Generous Ent
+1 Ghalta, Primal Hunger
+1 Greater Gargadon
+1 Healing Technique
+1 Herd Migration
+1 Insult/Injury
+1 Invigorate
+1 Karplusan Forest
+1 Kazuul's Fury
+1 Kogla and Yidaro
+1 Krosan Tusker
+1 Lavaball Trap
+1 Lukka, Coppercoat Outcast
+1 Molten Monstrosity
+1 Mossfire Valley
+3 Mountain
+1 Mouth/Feed
+1 Nurturing Bristleback
+1 Oliphaunt
+1 Orcish Librarian
+1 Primeval Protector
+1 Promising Vein
+1 Pyrokinesis
+1 Reality Scramble
+1 Restless Ridgeline
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Road/Ruin
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rough/Tumble
+1 Sanctuary Smasher
+1 Seismic Monstrosaur
+1 Shefet Monitor
+1 Shire Terrace
+1 Soulfire Eruption
+1 Stormkeld Vanguard
+1 Temple of Abandon
+1 Terramorphic Expanse
+1 Thrash/Threat
+1 Timesifter
+1 Titanoth Rex
+1 Tlincalli Hunter
+1 Traverse the Outlands
+1 Treacherous Terrain
+1 Turntimber Symbiosis
+1 Vengeful Rebirth
+1 Verdant Mastery
+1 Volcanic Salvo
+1 Zilortha, Strength Incarnate
+1 Song-Mad Treachery
+1 Sheltered Thicket
+1 Two-Headed Hunter
+1 Gamble
+1 Spinewoods Armadillo
+1 Jeska, Thrice Reborn
+1 Disciple of Freyalise
+1 Reshape the Earth
+1 Agonasaur Rex
+1 Doors of Durin
+1 Viewpoint Synchronization
+1 Triple Triad
+1 Rust Goliath
+1 Cait Sith, Fortune Teller
+1 Balamb T-Rexaur
+1 Seifer Almasy
+Sideboard
+1 Wilson, Refined Grizzly
+1 Tavern Brawler

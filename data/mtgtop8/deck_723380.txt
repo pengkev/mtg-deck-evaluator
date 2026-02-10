@@ -1,0 +1,99 @@
+1 Ajani, Nacatl Pariah
+1 Ancient Tomb
+1 Arcane Signet
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Arid Mesa
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Battlefield Forge
+1 Benevolent Bodyguard
+1 Blade Historian
+1 Blinkmoth Nexus
+1 Blood Moon
+1 Bloodstained Mire
+1 Boromir, Warden of the Tower
+1 Cathar Commando
+1 Cavern of Souls
+1 Chrome Mox
+1 City of Brass
+1 Clarion Conqueror
+1 Combat Celebrant
+1 Command Beacon
+1 Command Tower
+1 Dauntless Dismantler
+1 Deafening Silence
+1 Deflecting Swat
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eiganjo, Seat of the Empire
+1 Elegant Parlor
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Flamescroll Celebrant
+1 Flare of Fortitude
+1 Flooded Strand
+1 Gemstone Caverns
+1 Giver of Runes
+1 Gorilla Shaman
+1 Grand Abolisher
+1 Harsh Mentor
+1 High Noon
+1 Hope of Ghirapur
+1 Hushbringer
+1 Imperial Recruiter
+1 Legion Loyalist
+1 Legion Warboss
+1 Leonin Arbiter
+1 Linvala, Keeper of Silence
+1 Lotus Petal
+1 Loyal Apprentice
+1 Magus of the Moon
+1 Mana Vault
+1 Marsh Flats
+1 Mother of Runes
+1 Mountain
+1 Mox Diamond
+1 Myrel, Shield of Argive
+1 Null Rod
+1 Orim's Chant
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Path to Exile
+1 Phyrexian Revoker
+1 Phyrexian Walker
+3 Plains
+1 Plateau
+1 Prismatic Vista
+1 Pyroblast
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Razorgrass Ambush
+1 Recruiter of the Guard
+1 Rionya, Fire Dancer
+1 Sacred Foundry
+1 Sanctum Prelate
+1 Scalding Tarn
+1 Serra Ascendant
+1 Shatterskull Smashing
+1 Silence
+1 Simian Spirit Guide
+1 Skyclave Apparition
+1 Slicer, Hired Muscle
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Solitude
+1 Soulless Jailer
+1 Spectator Seating
+1 Spirit of the Labyrinth
+1 Sunbaked Canyon
+1 Sunbillow Verge
+1 Swords to Plowshares
+1 Thalia, Guardian of Thraben
+1 Thorn of Amethyst
+1 Vexing Bauble
+1 Windswept Heath
+1 Witch Enchanter
+Sideboard
+1 Winota, Joiner of Forces

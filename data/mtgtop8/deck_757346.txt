@@ -1,0 +1,95 @@
+1 Waterlogged Teachings
+1 Flusterstorm
+1 Spell Pierce
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Bleachbone Verge
+1 Caves of Koilos
+1 Cephalid Coliseum
+1 Choked Estuary
+1 Command Tower
+1 Drowned Catacomb
+1 Emergence Zone
+1 Exotic Orchard
+1 Fetid Pools
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+1 Ice Tunnel
+1 Irrigated Farmland
+5 Island
+1 Plains
+1 Prairie Stream
+1 Shattered Sanctum
+1 Sunken Hollow
+3 Swamp
+1 Tainted Isle
+1 Temple of Deceit
+1 Underground River
+1 Vault of Champions
+1 Valley Floodcaller
+1 Amphibian Downpour
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Damn
+1 Delay
+1 Dress Down
+1 Into the Flood Maw
+1 Long River's Pull
+1 Malevolent Hermit
+1 Out of Time
+1 Retraction Helix
+1 Saw in Half
+1 Sink into Stupor
+1 Static Prison
+1 Swords to Plowshares
+1 Toxic Deluge
+1 Unsubstantiate
+1 Abdel Adrian, Gorion's Ward
+1 Tinybones Joins Up
+1 Hedron Crab
+1 Ripples of Undeath
+1 Arcane Signet
+1 Charitable Levy
+1 Dark Ritual
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Lotho, Corrupt Shirriff
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Dauthi Voidwalker
+1 Phyrexian Metamorph
+1 Archivist of Oghma
+1 Borne Upon a Wind
+1 Insight Engine
+1 Ledger Shredder
+1 Mystic Remora
+1 Phyrexian Arena
+1 Raffine, Scheming Seer
+1 Rhystic Study
+1 Thassa's Oracle
+1 Grand Abolisher
+1 Silence
+1 Animate Dead
+1 Chthonian Nightmare
+1 Dance of the Dead
+1 Necromancy
+1 Reanimate
+1 Sevinne's Reclamation
+1 Demonic Consultation
+1 Demonic Counsel
+1 Entomb
+1 Gifts Ungiven
+1 Hoarding Broodlord
+1 Insatiable Avarice
+1 Lively Dirge
+1 Merchant Scroll
+1 Muddle the Mixture
+1 Mystical Teachings
+1 Unmarked Grave
+1 Wishclaw Talisman
+Sideboard
+1 The Master of Keys

@@ -1,0 +1,74 @@
+1 Ohran Frostfang
+1 Twinflame Tyrant
+1 Kediss, Emberclaw Familiar
+1 Vigor
+1 Kami of Whispered Hopes
+1 Forgotten Ancient
+1 Goblin Anarchomancer
+1 Ornery Tumblewagg
+1 Ilysian Caryatid
+1 Birds of Paradise
+1 Xenagos, God of Revels
+1 Tinder Wall
+1 Sawhorn Nemesis
+1 Bristly Bill, Spine Sower
+1 Lizard Blades
+1 Zopandrel, Hunger Dominus
+1 Elvish Mystic
+1 Sol Ring
+1 Herd Heirloom
+1 Bilbo's Ring
+1 Basilisk Collar
+1 The Reaver Cleaver
+1 Talisman of Impulse
+1 Mirran Banesplitter
+1 Fellwar Stone
+1 Hammer of Nazahn
+1 Mithril Coat
+1 Arcane Signet
+1 Brass Knuckles
+1 Blackblade Reforged
+1 Champion's Helm
+1 Leyline Axe
+1 Swiftfoot Boots
+1 Glamdring
+1 Trailblazer's Boots
+1 Cunning Maneuver
+1 Hunter's Insight
+1 Tyvar's Stand
+1 Bombadil's Song
+1 Untimely Malfunction
+1 Giant Growth
+1 Snakeskin Veil
+1 Return of the Wildspeaker
+1 Monstrous Rage
+1 Savage Beating
+1 Unleash Fury
+1 Temur Battle Rage
+1 Overprotect
+1 The Last Agni Kai
+1 Fists of Flame
+1 Berserk
+1 Rishkar's Expertise
+1 Horrific Assault
+1 Biogenic Upgrade
+1 Kodama's Reach
+1 Fangs of Kalonia
+1 Dragon Mantle
+1 Fiery Emancipation
+1 Unnatural Growth
+1 Granite Grip
+1 Claws of Valakut
+1 Branching Evolution
+1 Rite of Passage
+1 Rhythm of the Wild
+1 Garruk's Uprising
+1 Invasion of Ikoria
+1 Rogue's Passage
+16 Mountain
+1 Nesting Grounds
+13 Forest
+1 Command Tower
+1 Urza's Cave
+Sideboard
+1 Wolverine, Best There Is

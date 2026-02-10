@@ -1,0 +1,96 @@
+1 Adeline, Resplendent Cathar
+1 Agate Instigator
+1 Ainok Strike Leader
+1 Ajani, Nacatl Pariah
+1 Alexios, Deimos of Kosmos
+1 Angrath's Marauders
+1 Anim Pakal, Thousandth Moon
+1 Arabella, Abandoned Doll
+1 Archetype of Aggression
+1 Archon of Emeria
+1 Ardoz, Cobbler of War
+1 Aven Mindcensor
+1 Aya of Alexandria
+1 Beregond of the Guard
+1 Blade Historian
+1 Captain of the Watch
+1 Charismatic Conqueror
+1 Clarion Conqueror
+1 Defiler of Faith
+1 Delney, Streetwise Lookout
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eidolon of the Great Revel
+1 Erkenbrand, Lord of Westfold
+1 Ethersworn Canonist
+1 Evangel of Heliod
+1 Geist-Honored Monk
+1 General Kreat, the Boltbringer
+1 Goblin Instigator
+1 Goldnight Commander
+1 Greymond, Avacyn's Stalwart
+1 Howlsquad Heavy
+1 Jacked Rabbit
+1 Krenko, Tin Street Kingpin
+1 Legion Loyalist
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Lightning, Army of One
+1 Magebane Lizard
+1 Memnite
+1 Molten Gatekeeper
+1 Ocelot Pride
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Censor
+1 Phyrexian Walker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Reverent Hoplite
+1 Rograkh, Son of Rohgahh
+1 Rug of Smothering
+1 Ruin-Lurker Bat
+1 Sanguine Evangelist
+1 Serra Ascendant
+1 Skyclave Apparition
+1 The Wandering Rescuer
+1 Weftstalker Ardent
+1 Witch Enchanter
+1 Witty Roastmaster
+1 Arcane Signet
+1 Chrome Mox
+1 Cursed Totem
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Talisman of Conviction
+1 Sundering Eruption
+1 High Noon
+1 Impact Tremors
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Blinkmoth Nexus
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Mishra's Factory
+2 Mountain
+1 Needleverge Pathway
+5 Plains
+1 Prismatic Vista
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sokenzan, Crucible of Defiance
+1 Spectator Seating
+1 Sunbillow Verge
+1 Wooded Foothills
+Sideboard
+1 Winota, Joiner of Forces

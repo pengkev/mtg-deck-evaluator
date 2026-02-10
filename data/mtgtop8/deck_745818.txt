@@ -1,0 +1,95 @@
+1 Anim Pakal, Thousandth Moon
+1 Apothecary White
+1 Ashling the Pilgrim
+1 Banquet Guests
+1 Baylen, the Haymaker
+1 Boromir, Warden of the Tower
+1 Bulwark Ox
+1 Champion of Lambholt
+1 Crimson Caravaneer
+1 Dragonhawk, Fate's Tempest
+1 Dyadrine, Synthesis Amalgam
+1 Emberheart Challenger
+1 Feasting Hobbit
+1 Generous Pup
+1 Gilded Goose
+1 Graham O'Brien
+1 Gyre Sage
+1 Halana and Alena, Partners
+1 Haliya, Guided by Light
+1 Heartfire Hero
+1 Hopeful Initiate
+1 Hugs, Grisly Guardian
+1 Inti, Seneschal of the Sun
+1 Jaheira, Friend of the Forest
+1 Kami of Celebration
+1 Kami of Whispered Hopes
+1 Laelia, the Blade Reforged
+1 Party Thrasher
+1 Peregrin Took
+1 Pia Nalaar, Consul of Revival
+1 Rose, Cutthroat Raider
+1 Rosie Cotton of South Lane
+1 Runaway Steam-Kin
+1 Rust Harvester
+1 Samwise Gamgee
+1 Sentinel Sarah Lyons
+1 Shalai and Hallar
+1 Soulbright Flamekin
+1 Wakka, Devoted Guardian
+1 Weftstalker Ardent
+1 Witch Enchanter
+1 Yotian Dissident
+1 Dowsing Device
+1 Embercleave
+1 Inspiring Statuary
+1 Swiftfoot Boots
+1 Dispatch
+1 Path to Exile
+1 Bridgeworks Battle
+1 Embrace the Unknown
+1 Escape to the Wilds
+1 Farseek
+1 Nature's Lore
+1 Stump Stomp
+1 Sundering Eruption
+1 Three Visits
+1 Zenith Festival
+1 Annie Joins Up
+1 Hardened Scales
+1 Invasion of Gobakhan
+1 Invigorating Hot Spring
+1 Night of the Sweets' Revenge
+1 Rhythm of the Wild
+1 Showdown of the Skalds
+1 Uncivil Unrest
+1 Quintorius Kand
+1 Battlefield Forge
+1 Boros Garrison
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+3 Forest
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Gruul Turf
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+3 Mountain
+3 Plains
+1 Rugged Prairie
+1 Sacred Foundry
+1 Selesnya Sanctuary
+1 Sheltering Landscape
+1 Spinerock Knoll
+1 Stomping Ground
+1 Sungrass Prairie
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+Sideboard
+1 Rocco, Street Chef

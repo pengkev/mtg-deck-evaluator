@@ -1,0 +1,90 @@
+1 Aerith Gainsborough
+1 Angel of Vitality
+1 Drogskol Reaver
+1 Exemplar of Light
+1 Gold-Forged Thopteryx
+1 Guide of Souls
+1 Kwain, Itinerant Meddler
+1 Mangara, the Diplomat
+1 Martyr of Sands
+1 Nykthos Paragon
+1 Resplendent Angel
+1 Rhox Faithmender
+1 Soul Warden
+1 Soul's Attendant
+1 Sphinx of the Revelation
+1 The Gaffer
+1 Valkyrie Harbinger
+1 Will, Scion of Peace
+1 Arcane Signet
+1 Azorius Signet
+1 Excalibur II
+1 Fellwar Stone
+1 Lightning Greaves
+1 Midnight Clock
+1 Mind Stone
+1 Pristine Talisman
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 The Water Crystal
+1 The Wind Crystal
+1 Thought Vessel
+1 Well of Lost Dreams
+1 Aetherize
+1 Arcane Denial
+1 Azorius Charm
+1 Beacon of Immortality
+1 Congregate
+1 Counterspell
+1 Faithful Mending
+1 Generous Gift
+1 Heliod's Intervention
+1 Honor the Fallen
+1 Negate
+1 Path to Exile
+1 Restoration Magic
+1 Riot Control
+1 Sanguine Sacrament
+1 Sphinx's Revelation
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Union of the Third Path
+1 War Report
+1 Farewell
+1 Jidoor, Aristocratic Capital
+1 Ponder
+1 Sanctify
+1 Supreme Verdict
+1 Cleric Class
+1 Dawn of Hope
+1 Ghostly Prison
+1 Propaganda
+1 Smuggler's Share
+1 Steel of the Godhead
+1 Words of Worship
+1 Ajani, Strength of the Pride
+1 Adarkar Wastes
+1 Adventurer's Inn
+1 Blighted Steppe
+1 Brokers Hideout
+1 Command Tower
+1 Deserted Beach
+1 Exotic Orchard
+1 Glacial Fortress
+1 Hengegate Pathway
+1 Irrigated Farmland
+6 Island
+1 Kabira Crossroads
+1 Mystic Gate
+1 Nimbus Maze
+1 Obscura Storefront
+7 Plains
+1 Port Town
+1 Prairie Stream
+1 Radiant Fountain
+1 Sejiri Refuge
+1 Skycloud Expanse
+1 Tranquil Cove
+Sideboard
+1 Hope Estheim

@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Birgi, God of Storytelling
+1 Storm-Kiln Artist
+1 Veyran, Voice of Duality
+1 Dualcaster Mage
+1 Harmonic Prodigy
+1 Tavern Scoundrel
+1 Erebor Flamesmith
+1 Valley Floodcaller
+1 Mayhem Devil
+1 Spellseeker
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Bolas's Citadel
+1 Wishclaw Talisman
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Sol Ring
+1 Fellwar Stone
+1 Defense Grid
+1 Krark's Thumb
+1 Arcane Signet
+1 Talisman of Creativity
+1 Cabal Ritual
+1 Lightning Bolt
+1 Submerge
+1 Red Elemental Blast
+1 Deflecting Swat
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Mental Misstep
+1 Disrupt
+1 Demonic Consultation
+1 Pyroblast
+1 Force of Will
+1 Swan Song
+1 Flusterstorm
+1 Dark Ritual
+1 Brainstorm
+1 Tainted Pact
+1 Mogg Salvage
+1 Vampiric Tutor
+1 Snap
+1 Borne Upon a Wind
+1 Flare of Duplication
+1 Into the Flood Maw
+1 Pact of Negation
+1 Saw in Half
+1 Brain Freeze
+1 Peek
+1 Wheel of Fortune
+1 Rite of Flame
+1 Preordain
+1 Demonic Tutor
+1 Grapeshot
+1 Faithless Looting
+1 Gamble
+1 Praetor's Grasp
+1 Twinflame
+1 Molten Duplication
+1 Stock Up
+1 Gitaxian Probe
+1 Grim Tutor
+1 Jeska's Will
+1 Imperial Seal
+1 Ponder
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Necropotence
+1 City of Brass
+1 Watery Grave
+1 Verdant Catacombs
+1 Mana Confluence
+1 Steam Vents
+1 Badlands
+1 Underground Sea
+1 Volcanic Island
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Training Center
+1 Gemstone Caverns
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Ancient Tomb
+1 Blood Crypt
+1 Otawara, Soaring City
+1 Command Tower
+1 Island
+1 Mountain
+1 Luxury Suite
+1 Morphic Pool
+Sideboard
+1 Krark, the Thumbless
+1 Silas Renn, Seeker Adept

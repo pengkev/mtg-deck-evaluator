@@ -1,0 +1,92 @@
+1 Birds of Paradise
+1 Deadeye Navigator
+1 Delighted Halfling
+1 Eternal Witness
+1 Gogo, Master of Mimicry
+1 Kutzil, Malamet Exemplar
+1 Lotus Cobra
+1 Orcish Bowmasters
+1 Peregrine Drake
+1 Phyrexian Metamorph
+1 Roaming Throne
+1 Seedborn Muse
+1 Timeless Witness
+1 Tireless Provisioner
+1 Wood Elves
+1 Arcane Signet
+1 Conjurer's Closet
+1 Decanter of Endless Water
+1 Emerald Medallion
+1 Lotus Petal
+1 Panharmonicon
+1 Sol Ring
+1 Talisman of Progress
+1 Talisman of Resilience
+1 The One Ring
+1 Thought Vessel
+1 Arcane Denial
+1 Assassin's Trophy
+1 Auroral Procession
+1 Borne Upon a Wind
+1 Cyclonic Rift
+1 Dark Ritual
+1 Enlightened Tutor
+1 Ephemerate
+1 Essence Flux
+1 Fierce Guardianship
+1 Flare of Fortitude
+1 Flicker of Fate
+1 Force of Will
+1 Ghostly Flicker
+1 Growth Spiral
+1 Heroic Intervention
+1 Mana Drain
+1 Planar Incision
+1 Slip On the Ring
+1 Swan Song
+1 Cultivate
+1 Demonic Tutor
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Nature's Rhythm
+1 Personal Tutor
+1 Rampant Growth
+1 Skyshroud Claim
+1 Space-Time Anomaly
+1 Three Visits
+1 Time Warp
+1 Leyline of Anticipation
+1 Necropotence
+1 Rhystic Study
+1 Smothering Tithe
+1 Teleportation Circle
+1 Breeding Pool
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fabled Passage
+6 Forest
+1 Gemstone Caverns
+1 Glacial Fortress
+1 Godless Shrine
+1 Hinterland Harbor
+4 Island
+1 Isolated Chapel
+1 Misty Rainforest
+1 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Prismatic Vista
+1 Reliquary Tower
+1 Sunken Hollow
+1 Sunpetal Grove
+2 Swamp
+1 Temple Garden
+1 Waterlogged Grove
+1 Watery Grave
+1 Woodland Cemetery
+Sideboard
+1 Atraxa, Grand Unifier

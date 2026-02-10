@@ -1,0 +1,101 @@
+1 Oko, Thief of Crowns
+1 Survival of the Fittest
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Nature's Rhythm
+1 Life/Death
+1 Neoform
+1 Mnemonic Betrayal
+1 Culling Ritual
+1 Gamble
+1 Reanimate
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Force of Negation
+1 Borne Upon a Wind
+1 Mindbreak Trap
+1 Swan Song
+1 Mental Misstep
+1 Dark Ritual
+1 Intuition
+1 Brain Freeze
+1 Flusterstorm
+1 Abrupt Decay
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Mystical Tutor
+1 Worldly Tutor
+1 Force of Will
+1 Tainted Pact
+1 Pact of Negation
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Crop Rotation
+1 Entomb
+1 Lotus Petal
+1 Conqueror's Flail
+1 Lion's Eye Diamond
+1 Arcane Signet
+1 Sol Ring
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Mox Diamond
+1 Mana Vault
+1 Chrome Mox
+1 Wishclaw Talisman
+1 Dauthi Voidwalker
+1 Ignoble Hierarch
+1 Hazel's Brewmaster
+1 Pollywog Prodigy
+1 Valley Floodcaller
+1 Eternal Witness
+1 Opposition Agent
+1 Tinder Wall
+1 Gilded Drake
+1 Bloom Tender
+1 Six
+1 Psychic Frog
+1 Delighted Halfling
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Spellseeker
+1 Birds of Paradise
+1 Razaketh, the Foulblooded
+1 Thassa's Oracle
+1 Deathrite Shaman
+1 Phyrexian Metamorph
+1 City of Brass
+1 Scalding Tarn
+1 Marsh Flats
+1 Mistrise Village
+1 Undercity Sewers
+1 Gemstone Caverns
+1 Command Tower
+1 Tropical Island
+1 Badlands
+1 Volcanic Island
+1 Underground Sea
+1 Taiga
+1 Bayou
+1 Gaea's Cradle
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Watery Grave
+1 Breeding Pool
+1 Exotic Orchard
+1 Shifting Woodland
+1 Polluted Delta
+1 Wooded Foothills
+1 Flooded Strand
+1 Bloodstained Mire
+1 Overgrown Tomb
+1 Forbidden Orchard
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Misty Rainforest
+1 Mana Confluence
+Sideboard
+1 Reyhan, Last of the Abzan
+1 Kraum, Ludevic's Opus

@@ -1,0 +1,77 @@
+1 Evereth, Viceroy of Plunder
+1 Arcane Signet
+1 Burner Rocket
+1 Carrion Cruiser
+1 Clamorous Ironclad
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Golem Foundry
+1 Demonic Junker
+1 Molten Collapse
+1 Reckless Handling
+1 Ruthless Invasion
+1 Toxic Deluge
+1 Transmogrify
+1 Ghirapur Aether Grid
+1 Untimely Malfunction
+1 The Ruinous Powers
+1 Golem's Heart
+1 Inspiring Statuary
+1 Magmatic Galleon
+1 Mobile Homestead
+1 Oni-Cult Anvil
+1 Prototype Portal
+1 RMS Titanic
+1 Blasphemous Act
+1 Sol Ring
+1 Spire Mechcycle
+1 Talisman of Indulgence
+1 Tangle Tumbler
+1 Unwinding Clock
+1 Weatherlight
+1 Blood for the Blood God!
+1 Chaos Warp
+1 Costly Plunder
+1 Skybox Ferry
+1 Hellkite Igniter
+1 Kellogg, Dangerous Mind
+1 Lobelia, Defender of Bag End
+1 Mayhem Devil
+1 Memnite
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Rose, Cutthroat Raider
+1 Steel Overseer
+1 Tyrox, Saurid Tyrant
+1 Kazuul, Tyrant of the Cliffs
+1 Academy Manufactor
+1 Alesha, Who Laughs at Fate
+1 Anger
+1 Audacious Reshapers
+1 Blast-Furnace Hellkite
+1 Bloodcrusher of Khorne
+1 Bloodthirster
+1 Chaos Terminator Lord
+1 Clive, Ifrit's Dominant
+1 Cybermen Squadron
+1 Daretti, Rocketeer Engineer
+1 Deathless Pilot
+1 Dynamite Diver
+1 Fain, the Broker
+1 Gonti, Lord of Luxury
+1 Gonti, Night Minister
+1 Hedron Detonator
+1 Chief of the Foundry
+1 Al Bhed Salvagers
+1 Command Tower
+1 Conduit Pylons
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Foul Roads
+1 Temple of Malice
+1 Thriving Bluff
+1 Thriving Moor
+13 Mountain
+13 Swamp
+Sideboard
+1 Setzer, Wandering Gambler

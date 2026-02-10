@@ -1,0 +1,75 @@
+1 Arboreal Grazer
+1 Augur of Autumn
+1 Avenger of Zendikar
+1 Bonny Pall, Clearcutter
+1 Champion of Lambholt
+1 Coiling Oracle
+1 Farhaven Elf
+1 Fierce Empath
+1 Forgotten Ancient
+1 Herd Baloth
+1 Ivy Lane Denizen
+1 Kodama of the East Tree
+1 Koma, World-Eater
+1 Mightform Harmonizer
+1 Multani, Yavimaya's Avatar
+1 Psychosis Crawler
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Sakura-Tribe Elder
+1 Scurry Oak
+1 Scute Swarm
+1 Skyserpent Seeker
+1 Springbloom Druid
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Vnwxt, Verbose Host
+1 Wood Elves
+1 Zimone, Quandrix Prodigy
+1 Arcane Signet
+1 Sol Ring
+1 Aetherize
+1 Beast Within
+1 Counterspell
+1 Fog
+1 Growth Spiral
+1 Harrow
+1 Nature's Claim
+1 Pongify
+1 Reality Shift
+1 Return to Nature
+1 Snakeskin Veil
+1 Theoretical Duplication
+1 Broken Bond
+1 Cultivate
+1 Curse of the Swine
+1 Explore
+1 Explosive Vegetation
+1 Ezuri's Predation
+1 Flare of Cultivation
+1 Genesis Wave
+1 Kodama's Reach
+1 Rampant Growth
+1 Search for Tomorrow
+1 Skyshroud Claim
+1 Sylvan Scrying
+1 Abundance
+1 Beastmaster Ascension
+1 Leyline of Anticipation
+1 Primeval Bounty
+1 Retreat to Coralhelm
+1 Wilderness Reclamation
+1 Witness Protection
+1 Alchemist's Refuge
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Evolving Wilds
+16 Forest
+1 Guildless Commons
+12 Island
+1 Myriad Landscape
+1 Simic Growth Chamber
+1 Temple of the False God
+1 Terramorphic Expanse
+Sideboard
+1 Tatyova, Benthic Druid

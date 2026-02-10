@@ -1,0 +1,91 @@
+1 Abdel Adrian, Gorion's Ward
+1 Akroma, Vision of Ixidor
+1 Boromir, Warden of the Tower
+1 Deadpool, Trading Card
+1 Djeru and Hazoret
+1 Elas il-Kor, Sadistic Pilgrim
+1 Emrakul, the Promised End
+1 Florian, Voldaren Scion
+1 Gisela, Blade of Goldnight
+1 Gwenom, Remorseless
+1 Hidetsugu, Devouring Chaos
+1 Kambal, Consul of Allocation
+1 Knuckles the Echidna
+1 Kroxa and Kunoros
+1 Lotho, Corrupt Shirriff
+1 Lurrus of the Dream-Den
+1 Magda, Brazen Outlaw
+1 Malfegor
+1 Mangara, the Diplomat
+1 Massacre Girl
+1 Myrel, Shield of Argive
+1 Odric, Lunarch Marshal
+1 Orca, Siege Demon
+1 Piru, the Volatile
+1 Prosper, Tome-Bound
+1 Ragavan, Nimble Pilferer
+1 Rankle, Master of Pranks
+1 Ratadrabik of Urborg
+1 Rev, Tithe Extractor
+1 Sheoldred, Whispering One
+1 Sidisi, Undead Vizier
+1 Tinybones, the Pickpocket
+1 Vaan, Street Thief
+1 Valgavoth, Terror Eater
+1 Yahenni, Undying Partisan
+1 Yoshimaru, Ever Faithful
+1 Zetalpa, Primal Dawn
+1 Agatha's Soul Cauldron
+1 Apple of Eden, Isu Relic
+1 Bolas's Citadel
+1 Chimil, the Inner Sun
+1 Portal to Phyrexia
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Entomb
+1 Fire Covenant
+1 Lightning Bolt
+1 Valakut Awakening
+1 Blasphemous Act
+1 Burning Inquiry
+1 Damn
+1 Damnation
+1 Demonic Counsel
+1 Feed the Swarm
+1 Flicker
+1 Increasing Ambition
+1 Primevals' Glorious Rebirth
+1 Seize the Spotlight
+1 Sevinne's Reclamation
+1 Animate Dead
+1 Blind Obedience
+1 Rakdos Joins Up
+1 Revel in Riches
+1 Underworld Breach
+1 Nahiri, the Harbinger
+1 Arena of Glory
+1 Clifftop Retreat
+1 Command Tower
+1 Dragonskull Summit
+1 Elegant Parlor
+1 Foreboding Ruins
+1 Hall of Heliod's Generosity
+1 Isolated Chapel
+1 Mines of Moria
+4 Mountain
+5 Plains
+1 Plaza of Heroes
+1 Prismatic Vista
+1 Reflecting Pool
+1 Sacred Foundry
+1 Savai Triome
+1 Shadowy Backstreet
+1 Smoldering Marsh
+4 Swamp
+1 Temple of Silence
+1 Urborg
+1 Wasteland
+Sideboard
+1 Dihada, Binder of Wills

@@ -1,0 +1,81 @@
+1 Arcane Signet
+1 Your Temple Is Under Attack
+1 Swords to Plowshares
+1 Sejiri Shelter
+1 Rhox Faithmender
+1 Generous Gift
+1 Polluted Bonds
+1 Isolation Cell
+1 Debt to the Deathless
+1 Dawn Charm
+1 Valorous Stance
+1 Authority of the Consuls
+1 Phyrexian Arena
+1 Astarion, the Decadent
+1 Fellwar Stone
+1 Markov Purifier
+1 Exsanguinate
+1 Anguished Unmaking
+1 Soul's Attendant
+1 Sol Ring
+1 Single Combat
+1 Revenge of Ravens
+1 Blind Obedience
+1 Foreboding Fruit
+1 Amalia Benavides Aguirre
+1 Kunoros, Hound of Athreos
+1 Despark
+1 Diabolic Tutor
+1 Indulging Patrician
+1 Well of Lost Dreams
+1 God-Pharaoh's Statue
+1 Talisman of Hierarchy
+1 Ghostly Prison
+1 Elas il-Kor, Sadistic Pilgrim
+1 Thought Vessel
+1 Read the Bones
+1 Mortify
+1 Gray Merchant of Asphodel
+1 Austere Command
+1 Exquisite Blood
+1 Marauding Blight-Priest
+1 Mind Stone
+1 Orzhov Signet
+1 Dark Ritual
+1 Damnable Pact
+1 Kambal, Consul of Allocation
+1 Soul Warden
+1 Vampire Nighthawk
+1 Painful Quandary
+1 Revival/Revenge
+1 Vanishing Verse
+1 Vizkopa Guildmage
+1 Sanguine Bond
+1 Blood Artist
+1 Path to Exile
+1 Fracture
+1 Suture Priest
+1 Witch of the Moors
+1 Vindicate
+1 Kaya's Wrath
+1 Sign in Blood
+1 Night's Whisper
+1 Rug of Smothering
+1 Path of Ancestry
+1 Blighted Fen
+1 Sandstone Bridge
+1 Orzhov Guildgate
+1 Evolving Wilds
+1 Command Tower
+1 Barren Moor
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Ash Barrens
+1 Rogue's Passage
+1 Thriving Moor
+1 Scoured Barrens
+12 Plains
+10 Swamp
+1 Commander's Sphere
+Sideboard
+1 Liesa, Shroud of Dusk

@@ -1,0 +1,88 @@
+1 Aggravated Assault
+1 Ancient Tomb
+1 Anep, Vizier of Hazoret
+1 Arcane Signet
+1 Arena of Glory
+1 Arid Mesa
+1 Ashling, Flame Dancer
+1 Big Score
+1 Bloodstained Mire
+1 Boltwave
+1 Chrome Mox
+1 Commune with Lava
+1 Conqueror's Flail
+1 Crystal Vein
+1 Defense Grid
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Dragon's Rage Channeler
+1 Embrace the Unknown
+1 Faithless Looting
+1 Fear of Missing Out
+1 Fellwar Stone
+1 Final Fortune
+1 Flame Rift
+1 Flare of Duplication
+1 Fury of the Horde
+1 Gamble
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Generator Servant
+1 Ghostfire Slice
+1 Glimpse the Impossible
+1 Grim Monolith
+1 Grim Reaper's Sprint
+1 Hall of the Bandit Lord
+1 Ignite the Future
+1 Impending Flux
+1 Inspired Tinkering
+1 Jeska's Will
+1 Kellan, Planar Trailblazer
+1 Khorvath's Fury
+1 Laelia, the Blade Reforged
+1 Light Up the Stage
+1 Lightning Greaves
+1 Lotus Petal
+1 Loyal Apprentice
+1 Mana Vault
+1 March of Reckless Joy
+1 Mikokoro, Center of the Sea
+1 Mizzix's Mastery
+14 Mountain
+1 Overpowering Attack
+1 Past in Flames
+1 Prismatic Vista
+1 Pyretic Charge
+1 Pyroblast
+1 Pyrohemia
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Reckless Impulse
+1 Red Elemental Blast
+1 Reforge the Soul
+1 Relentless Assault
+1 Rending Volley
+1 Return the Past
+1 Rite of Flame
+1 Ruby Medallion
+1 Scalding Tarn
+1 Seething Song
+1 Seize the Day
+1 Seize the Spoils
+1 Shattering Spree
+1 Shreds of Sanity
+1 Simian Spirit Guide
+1 Sol Ring
+1 Strike It Rich
+1 Underworld Breach
+1 Unexpected Windfall
+1 Urza's Saga
+1 Valakut Awakening
+1 Vandalblast
+1 Vessel of Volatility
+1 Vexing Bauble
+1 Wheel of Misfortune
+1 Wooded Foothills
+1 Wrenn's Resolve
+Sideboard
+1 Neheb, the Eternal

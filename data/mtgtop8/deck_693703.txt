@@ -1,0 +1,95 @@
+1 Snapcaster Mage
+1 Vendilion Clique
+1 Venser, Shaper Savant
+1 Elixir of Immortality
+1 Sensei's Divining Top
+1 Rewind
+1 Blessed Alliance
+1 Jace's Ingenuity
+1 Beacon of Immortality
+1 Last Word
+1 Dovin's Veto
+1 Narset's Reversal
+1 Archmage's Charm
+1 Hallowed Moonlight
+1 Overwhelming Denial
+1 Swan Song
+1 Desertion
+1 Settle the Wreckage
+1 Cryptic Command
+1 Render Silent
+1 March of Otherworldly Light
+1 Reprieve
+1 Borne Upon a Wind
+1 Mystic Confluence
+1 Fact or Fiction
+1 Disdainful Stroke
+1 Get Lost
+1 Quicken
+1 Remand
+1 Three Steps Ahead
+1 Path to Exile
+1 Strix Serenade
+1 Swords to Plowshares
+1 Dig Through Time
+1 Brainstorm
+1 Counterspell
+1 Disenchant
+1 An Offer You Can't Refuse
+1 Sphinx's Revelation
+1 Think Twice
+1 Memory Deluge
+1 Summary Dismissal
+1 Permission Denied
+1 Hour of Revelation
+1 Wrath of God
+1 Austere Command
+1 Supreme Verdict
+1 Farewell
+1 Terminus
+1 Entreat the Angels
+1 Vanquish the Horde
+1 Temporal Mastery
+1 Counterbalance
+1 Search for Azcanta
+1 Shark Typhoon
+1 Teferi, Master of Time
+1 Jace, the Mind Sculptor
+1 Narset Transcendent
+1 Teferi, Hero of Dominaria
+1 The Wandering Emperor
+1 Jace, Architect of Thought
+1 Teferi, Time Raveler
+1 Elspeth, Sun's Champion
+1 Ghost Quarter
+1 Boseiju, Who Shelters All
+1 Minamo, School at Water's Edge
+1 Celestial Colonnade
+1 Kor Haven
+1 Riptide Laboratory
+1 Detection Tower
+1 Glacial Fortress
+1 Hengegate Pathway
+1 Hall of Storm Giants
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 Sea of Clouds
+1 Arcane Lighthouse
+1 Hallowed Fountain
+1 Sunken Citadel
+1 Restless Anchorage
+1 Meticulous Archive
+1 Prairie Stream
+1 Irrigated Farmland
+1 Mystic Gate
+1 Temple of Enlightenment
+1 Floodfarm Verge
+1 Command Tower
+1 Reliquary Tower
+1 Castle Vantress
+1 Demolition Field
+1 Deserted Beach
+4 Island
+4 Plains
+Sideboard
+1 Dragonlord Ojutai

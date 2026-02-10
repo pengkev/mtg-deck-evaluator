@@ -1,0 +1,70 @@
+1 Anafenza, Kin-Tree Spirit
+1 Baird, Steward of Argive
+1 Boromir, Warden of the Tower
+1 Daxos, Blessed by the Sun
+1 Eight-and-a-Half-Tails
+1 Eowyn, Lady of Rohan
+1 Gandalf the White
+1 Heliod, God of the Sun
+1 Isamaru, Hound of Konda
+1 Lae'zel, Vlaakith's Champion
+1 Mangara of Corondor
+1 Mangara, the Diplomat
+1 Mikaeus, the Lunarch
+1 Phelia, Exuberant Shepherd
+1 Reidane, God of the Worthy
+1 Rosie Cotton of South Lane
+1 Sierra, Nuka's Biggest Fan
+1 Skrelv, Defector Mite
+1 Taranika, Akroan Veteran
+1 Tegan Jovanka
+1 Teshar, Ancestor's Apostle
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 The Wandering Rescuer
+1 Tomik, Distinguished Advokist
+1 Venat, Heart of Hydaelyn
+1 Zack Fair
+1 Blackblade Reforged
+1 Conformer Shuriken
+1 Eye of Vecna
+1 Heroes' Podium
+1 Leyline Axe
+1 Oketra's Monument
+1 Sol Ring
+1 Spear of Heliod
+1 Swiftfoot Boots
+1 The Seriema
+1 Trailblazer's Boots
+1 Fleeting Flight
+1 Mana Tithe
+1 Rally the Monastery
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Ascend from Avernus
+1 Council's Judgment
+1 Farewell
+1 Urza's Ruinous Blast
+1 Day of Destiny
+1 Dazzling Theater/Prop Room
+1 Felidar Retreat
+1 Flaming Fist
+1 Flowering of the White Tree
+1 Honor of the Pure
+1 Sigarda's Summons
+1 Super State
+1 Ajani, Caller of the Pride
+1 Archangel Elspeth
+1 Basri Ket
+1 Elspeth, Sun's Nemesis
+1 The Eternal Wanderer
+1 The Wandering Emperor
+1 Abstergo Entertainment
+1 Eiganjo, Seat of the Empire
+1 Geier Reach Sanitarium
+1 Opal Palace
+32 Plains
+1 War Room
+Sideboard
+1 Keleth, Sunmane Familiar
+1 Yoshimaru, Ever Faithful

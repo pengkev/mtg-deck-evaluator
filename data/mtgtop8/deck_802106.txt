@@ -1,0 +1,101 @@
+1 Amped Raptor
+1 Angel of Invention
+1 Anticausal Vestige
+1 Archivist of Oghma
+1 Brotherhood Scribe
+1 Charming Scoundrel
+1 Enduring Curiosity
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Faerie Mastermind
+1 Felidar Guardian
+1 Fury
+1 Grand Abolisher
+1 Guide of Souls
+1 Imperial Recruiter
+1 Kiki-Jiki, Mirror Breaker
+1 Loran of the Third Path
+1 Mockingbird
+1 Mondrak, Glory Dominus
+1 Ocelot Pride
+1 Phyrexian Metamorph
+1 Pinnacle Monk
+1 Port Razer
+1 Professional Face-Breaker
+1 Pyrogoyf
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Roaming Throne
+1 Serra Ascendant
+1 Simian Spirit Guide
+1 Solitude
+1 Starfield Shepherd
+1 Starfield Vocalist
+1 Starwinder
+1 Tataru Taru
+1 Terror of the Peaks
+1 Twinflame Tyrant
+1 Voice of Victory
+1 Volatile Stormdrake
+1 Witch Enchanter
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mox Opal
+1 Sol Ring
+1 Solar Transformer
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Deflecting Swat
+1 Ephemerate
+1 Galvanic Discharge
+1 Mental Misstep
+1 Path to Exile
+1 Pyroblast
+1 Red Elemental Blast
+1 Silence
+1 Sink into Stupor
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Jolted Awake
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Mystic Remora
+1 Rhystic Study
+1 Elspeth, Storm Slayer
+1 Saheeli Rai
+1 Aether Hub
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Hallowed Fountain
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Needleverge Pathway
+1 Plains
+1 Polluted Delta
+1 Raugrin Triome
+1 Riverpyre Verge
+1 Sacred Foundry
+1 Scalding Tarn
+1 Seat of the Synod
+1 Spectator Seating
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Satya, Aetherflux Genius

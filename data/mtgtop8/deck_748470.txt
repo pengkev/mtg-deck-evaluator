@@ -1,0 +1,94 @@
+1 Cogwork Wrestler
+1 Combat Courier
+1 Crashing Drawbridge
+1 Displacer Kitten
+1 Filigree Sages
+1 Heap Doll
+1 Hope of Ghirapur
+1 Hydroelectric Specimen
+1 K-9, Mark I
+1 Marvin, Murderous Mimic
+1 Memnite
+1 Myr Moonvessel
+1 Myr Scrapling
+1 Ornithopter
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Shield Sphere
+1 Spellskite
+1 Steel Wall
+1 Stonecoil Serpent
+1 Subtlety
+1 Thassa's Oracle
+1 Arcane Signet
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Fellwar Stone
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Grinning Totem
+1 Lightning Greaves
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Moonsnare Prototype
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Planar Bridge
+1 Portal to Phyrexia
+1 Sculpting Steel
+1 Sol Ring
+1 Spine of Ish Sah
+1 Springleaf Drum
+1 The One Ring
+1 Thousand-Year Elixir
+1 Unwinding Clock
+1 Voltaic Key
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Commandeer
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Hydroblast
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Pact of Negation
+1 Resculpt
+1 Sink into Stupor
+1 Submerge
+1 Swan Song
+1 Trickbind
+1 Sea Gate Restoration
+1 Amphibian Downpour
+1 Mind Over Matter
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Steal Enchantment
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Blinkmoth Nexus
+1 Cephalid Coliseum
+1 City of Traitors
+1 Crystal Vein
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hall of the Bandit Lord
+1 Inkmoth Nexus
+8 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Factory
+1 Otawara, Soaring City
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Seat of the Synod
+1 Talon Gates of Madara
+Sideboard
+1 Arcum Dagsson

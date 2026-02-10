@@ -1,0 +1,92 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Argothian Elder
+1 Ashaya, Soul of the Wild
+1 Beast Whisperer
+1 Birds of Paradise
+1 Circle of Dreams Druid
+1 Collector Ouphe
+1 Delighted Halfling
+1 Destiny Spinner
+1 Disciple of Freyalise
+1 Duskwatch Recruiter
+1 Eladamri, Korvecdal
+1 Elvish Mystic
+1 Elvish Reclaimer
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fauna Shaman
+1 Fierce Empath
+1 Fyndhorn Elves
+1 Glademuse
+1 Heartwood Storyteller
+1 Hyrax Tower Scout
+1 Insidious Fungus
+1 Karametra's Acolyte
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Magus of the Candelabra
+1 Priest of Titania
+1 Quirion Ranger
+1 Reclamation Sage
+1 Regal Force
+1 Scryb Ranger
+1 Seedborn Muse
+1 Sowing Mycospawn
+1 Temur Sabertooth
+1 Wirewood Symbiote
+1 Woodcaller Automaton
+1 Woodland Bellower
+1 Yisan, the Wanderer Bard
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Archdruid's Charm
+1 Beast Within
+1 Chord of Calling
+1 Crop Rotation
+1 Force of Vigor
+1 Infectious Bite
+1 Legolas's Quick Reflexes
+1 Noxious Revival
+1 Shared Summons
+1 Summoner's Pact
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Natural Order
+1 Nature's Rhythm
+1 Concordant Crossroads
+1 Earthcraft
+1 Growing Rites of Itlimoc
+1 Survival of the Fittest
+1 Sylvan Library
+1 Utopia Sprawl
+1 Wild Growth
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Deserted Temple
+1 Dryad Arbor
+1 Emergence Zone
+10 Forest
+1 Gaea's Cradle
+1 Geier Reach Sanitarium
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Urza's Cave
+1 Verdant Catacombs
+1 War Room
+1 Windswept Heath
+1 Wirewood Lodge
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Yeva, Nature's Herald

@@ -1,0 +1,75 @@
+1 Akroan Horse
+1 Blood Seeker
+1 Vault Skirge
+1 Kalitas, Traitor of Ghet
+1 Deadeye Tracker
+1 Corrosive Mentor
+1 Skithiryx, the Blight Dragon
+1 Night Clubber
+1 Ob Nixilis, Unshackled
+1 Yahenni, Undying Partisan
+1 Whisper, Blood Liturgist
+1 Massacre Wurm
+1 Massacre Girl, Known Killer
+1 Maha, Its Feathers Night
+1 Plague Engineer
+1 Eternal Taskmaster
+1 Typhoid Rats
+1 Solemn Simulacrum
+1 Carnifex Demon
+1 Blood Scrivener
+1 Crypt Ghast
+1 Blood Artist
+1 Royal Assassin
+1 Conjurer's Closet
+1 Genesis Chamber
+1 Grafted Exoskeleton
+1 Skullclamp
+1 Lashwrithe
+1 Sword of the Animist
+1 Nuisance Engine
+1 Swiftfoot Boots
+1 Sisay's Ring
+1 Umezawa's Jitte
+1 Charcoal Diamond
+1 Nim Deathmantle
+1 Hedron Archive
+1 Glass-Cast Heart
+1 Blade of the Bloodchief
+1 Sensei's Divining Top
+1 Whip of Erebos
+1 Sol Ring
+1 Bolas's Citadel
+1 Voyager Staff
+1 Sol Talisman
+1 Cabal Ritual
+1 Tainted Strike
+1 Dark Ritual
+1 Postmortem Lunge
+1 Dark Petition
+1 Morbid Curiosity
+1 Languish
+1 Black Sun's Zenith
+1 Mutilate
+1 Diabolic Tutor
+1 Zombify
+1 Revel in Riches
+1 Eternal Thirst
+1 Sadistic Glee
+1 Glistening Oil
+1 Sanguine Bond
+1 Tainted Remedy
+1 Exquisite Blood
+1 Meathook Massacre II
+1 Phyrexian Arena
+1 Haunted Fengraf
+1 Mirrorpool
+1 Temple of the False God
+1 Myriad Landscape
+1 Rogue's Passage
+1 Evolving Wilds
+1 Bojuka Bog
+1 Terramorphic Expanse
+27 Swamp
+Sideboard
+1 Massacre Girl

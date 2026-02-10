@@ -1,0 +1,83 @@
+1 Blood Artist
+1 Bloodflow Connoisseur
+1 Boggart Harbinger
+1 Carrion Feeder
+1 Chainer, Nightmare Adept
+1 Dimir House Guard
+1 Fireglass Mentor
+1 Goblin Matron
+1 Hissing Iguanar
+1 Iridescent Vinelasher
+1 Lesser Masticore
+1 Lingering Tormentor
+1 Magebane Lizard
+1 Murderous Redcap
+1 Putrid Goblin
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Solemn Simulacrum
+1 Stormfist Crusader
+1 Sunset Strikemaster
+1 Umbral Collar Zealot
+1 Vengeful Bloodwitch
+1 Viscera Seer
+1 Witty Roastmaster
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Mind Stone
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Indulgence
+1 Burnt Offering
+1 Chaos Warp
+1 Corrupted Conviction
+1 Cut Down
+1 Deadly Dispute
+1 First Day of Class
+1 Hero's Downfall
+1 Infernal Grasp
+1 Kolaghan's Command
+1 Lightning Bolt
+1 Murder
+1 Scales of Shale
+1 Terminate
+1 Village Rites
+1 Cathartic Reunion
+1 Diabolic Tutor
+1 Disentomb
+1 Faithless Looting
+1 Feed the Swarm
+1 Glimpse the Impossible
+1 Grab the Prize
+1 Grapeshot
+1 Insatiable Avarice
+1 Light Up the Stage
+1 Playful Shove
+1 Raise Dead
+1 Sign in Blood
+1 Unearth
+1 Vandalblast
+1 Witch's Mark
+1 Bastion of Remembrance
+1 Theater of Horrors
+1 Thran Vigil
+1 Barren Moor
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Field of Ruin
+1 Foreboding Ruins
+1 Forgotten Cave
+1 Jagged Barrens
+1 Mortuary Mire
+10 Mountain
+1 Mudflat Village
+1 Myriad Landscape
+1 Rockface Village
+1 Shadowblood Ridge
+1 Smoldering Marsh
+10 Swamp
+1 Tainted Peak
+1 Terramorphic Expanse
+Sideboard
+1 Gev, Scaled Scorch

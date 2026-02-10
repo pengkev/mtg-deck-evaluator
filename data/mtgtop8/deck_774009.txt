@@ -1,0 +1,95 @@
+1 Aerial Extortionist
+1 Anim Pakal, Thousandth Moon
+1 Apothecary White
+1 Banquet Guests
+1 Baylen, the Haymaker
+1 Botanical Brawler
+1 Bulwark Ox
+1 Conclave Mentor
+1 Faldorn, Dread Wolf Herald
+1 Frontier Warmonger
+1 Generous Pup
+1 Gilded Goose
+1 Graham O'Brien
+1 Gyre Sage
+1 Haliya, Guided by Light
+1 Heartfire Hero
+1 Jaheira, Friend of the Forest
+1 Kami of Whispered Hopes
+1 Leonin Elder
+1 Merry, Warden of Isengard
+1 Ouroboroid
+1 Peregrin Took
+1 Phabine, Boss's Confidant
+1 Pia Nalaar, Consul of Revival
+1 Prosperous Innkeeper
+1 Rosie Cotton of South Lane
+1 Runaway Steam-Kin
+1 Samwise Gamgee
+1 Sentinel Sarah Lyons
+1 Shalai and Hallar
+1 Shalai, Voice of Plenty
+1 Stridehangar Automaton
+1 Teething Wurmlet
+1 Treebeard, Gracious Host
+1 Tyrant Guard
+1 Warden of the Grove
+1 Warden of the Inner Sky
+1 Witch Enchanter
+1 Yotian Dissident
+1 Arcane Signet
+1 Collector's Cage
+1 Embercleave
+1 Inspiring Statuary
+1 Uba Mask
+1 Dispatch
+1 Guff Rewrites History
+1 Path to Exile
+1 Bridgeworks Battle
+1 Embrace the Unknown
+1 Escape to the Wilds
+1 Farseek
+1 Nature's Lore
+1 Search for Tomorrow
+1 Stump Stomp
+1 Sundering Eruption
+1 A Realm Reborn
+1 All Will Be One
+1 Annie Joins Up
+1 Builder's Talent
+1 Communal Brewing
+1 Hardened Scales
+1 Invasion of Gobakhan
+1 Night of the Sweets' Revenge
+1 Share the Spoils
+1 Showdown of the Skalds
+1 Ajani, the Greathearted
+1 Quintorius Kand
+1 Battlefield Forge
+1 Boros Garrison
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+3 Forest
+1 Gruul Turf
+1 Jungle Shrine
+1 Mossfire Valley
+1 Mosswort Bridge
+3 Mountain
+3 Plains
+1 Rugged Prairie
+1 Sacred Foundry
+1 Selesnya Sanctuary
+1 Sheltering Landscape
+1 Stomping Ground
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Terramorphic Expanse
+Sideboard
+1 Rocco, Street Chef

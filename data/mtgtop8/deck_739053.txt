@@ -1,0 +1,79 @@
+1 Thriving Grove
+1 Thornwood Falls
+1 Thriving Moor
+1 Jungle Hollow
+8 Forest
+1 Blighted Woodland
+8 Island
+1 Unknown Shores
+8 Swamp
+1 Myriad Landscape
+1 Dimir Guildgate
+1 Golgari Guildgate
+1 Dismal Backwater
+1 Evolving Wilds
+1 Command Tower
+1 Terramorphic Expanse
+1 Renegade Map
+1 Cranial Archive
+1 Gaea's Blessing
+1 Rampant Growth
+1 Basking Broodscale
+1 Manic Scribe
+1 Smell Fear
+1 Oblivion's Hunger
+1 Repulsive Mutation
+1 Unnatural Restoration
+1 Cursed Wombat
+1 Replicating Ring
+1 Dreamtide Whale
+1 Flux Channeler
+1 Tuskguard Captain
+1 Inspiring Call
+1 Deep Freeze
+1 Carnivorous Canopy
+1 Commander's Sphere
+1 Sultai Banner
+1 Fertilid
+1 Glowing One
+1 Psychic Strike
+1 Crawling Infestation
+1 Infesting Radroach
+1 Invasion of Amonkhet
+1 Clear the Mind
+1 Soul Manipulation
+1 Simic Manipulator
+1 Didn't Say Please
+1 Tainted Observer
+1 Nissa's Pilgrimage
+1 Field Research
+1 Pilfered Plans
+1 Hero's Downfall
+1 Fraying Sanity
+1 Crawling Sensation
+1 Tato Farmer
+1 King Narfi's Betrayal
+1 Teferi's Tutelage
+1 Far Wanderings
+1 Urban Daggertooth
+1 Agent of Erebos
+1 Corpsejack Menace
+1 Herald of Secret Streams
+1 Bloatfly Swarm
+1 Longshot Squad
+1 Tezzeret's Gambit
+1 Expand the Sphere
+1 Fertilid's Favor
+1 Fathom Mage
+1 Price of Fame
+1 Astarion's Thirst
+1 Sidisi, Brood Tyrant
+1 The Mending of Dominaria
+1 Gulping Scraptrap
+1 Herd Baloth
+1 Extract from Darkness
+1 Loyal Guardian
+1 Mirelurk Queen
+1 Vivisurgeon's Insight
+Sideboard
+1 The Wise Mothman

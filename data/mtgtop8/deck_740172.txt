@@ -1,0 +1,82 @@
+1 Benevolent Bodyguard
+1 Canoptek Scarab Swarm
+1 Crashing Drawbridge
+1 Diamond Lion
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Giver of Runes
+1 Grand Abolisher
+1 Marvin, Murderous Mimic
+1 Metalworker
+1 Mother of Runes
+1 Palladium Myr
+1 Pili-Pala
+1 Skrelv, Defector Mite
+1 Voice of Victory
+1 Witch Enchanter
+1 Arcane Signet
+1 Arcum's Astrolabe
+1 Basalt Monolith
+1 Campfire
+1 Clock of Omens
+1 Codex Shredder
+1 Damping Sphere
+1 Disruptor Flute
+1 Dusk Rose Reliquary
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Fountainport Bell
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Immovable Rod
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Liquimetal Torque
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Opal
+1 Portable Hole
+1 Prized Statue
+1 Renegade Map
+1 Rings of Brighthearth
+1 Sol Ring
+1 Sorcerer's Wand
+1 Sphere of Resistance
+1 Staff of Domination
+1 Survivor's Med Kit
+1 Swiftfoot Boots
+1 The One Ring
+1 The Underworld Cookbook
+1 Thousand-Year Elixir
+1 Torpor Orb
+1 Vexing Bauble
+1 Voltaic Key
+1 Voyager Staff
+1 Wanderer's Twig
+1 Winter Moon
+1 Apostle's Blessing
+1 Dispatch
+1 Enlightened Tutor
+1 Galadriel's Dismissal
+1 Razorgrass Ambush
+1 Soul Partition
+1 Swords to Plowshares
+1 Unexpectedly Absent
+1 Unwanted Remake
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Ancient Den
+1 Ancient Tomb
+1 Cavern of Souls
+1 Command Beacon
+1 Darksteel Citadel
+1 Eiganjo, Seat of the Empire
+20 Snow-Covered Plains
+1 Talon Gates of Madara
+1 Treasure Vault
+Sideboard
+1 Oswald Fiddlebender

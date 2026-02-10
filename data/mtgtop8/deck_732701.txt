@@ -1,0 +1,92 @@
+1 Adaptive Automaton
+1 Axgard Cavalry
+1 Barkform Harvester
+1 Bloodfire Dwarf
+1 Dualcaster Mage
+1 Dwarven Armorer
+1 Dwarven Grunt
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Gloin, Dwarf Emissary
+1 Liberated Dwarf
+1 Magda, the Hoardmaster
+1 Magus of the Moon
+1 Metallic Mimic
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Roaming Throne
+1 Simian Spirit Guide
+1 Spark Mage
+1 Storm-Kiln Artist
+1 Three Tree Mascot
+1 Universal Automaton
+1 Vault Robber
+1 Wandering Archaic
+1 Xorn
+1 Arcane Signet
+1 Ashnod's Transmogrant
+1 Chrome Mox
+1 Clock of Omens
+1 Defense Grid
+1 Grafdigger's Cage
+1 Idol of Oblivion
+1 Liquimetal Torque
+1 Lotus Petal
+1 Maskwood Nexus
+1 Mirror of the Forebears
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Pyrite Spellbomb
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 Torpor Orb
+1 Vexing Bauble
+1 Winter Moon
+1 Abrade
+1 Chaos Warp
+1 Deflecting Swat
+1 Flare of Duplication
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Return the Favor
+1 Reverberate
+1 Ricochet Trap
+1 Untimely Malfunction
+1 Valakut Awakening
+1 Wild Magic Surge
+1 Wyll's Reversal
+1 Zoyowa's Justice
+1 Faithless Looting
+1 Gamble
+1 Jeska's Will
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Wheel of Fortune
+1 Blood Moon
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Bloodstained Mire
+1 Buried Ruin
+1 Dwarven Mine
+1 Gemstone Caverns
+1 Great Furnace
+1 Holdout Settlement
+1 Mines of Moria
+10 Mountain
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+1 Scalding Tarn
+1 Survivors' Encampment
+1 Treasure Vault
+1 War Room
+1 Wooded Foothills
+Sideboard
+1 Magda, Brazen Outlaw

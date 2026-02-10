@@ -1,0 +1,101 @@
+1 Trinket Mage
+1 Scrap Trawler
+1 Trophy Mage
+1 Chief Engineer
+1 Myr Retriever
+1 Grand Architect
+1 Tribute Mage
+1 Arcum Dagsson
+1 Kuldotha Forgemaster
+1 Foundry Inspector
+1 Workshop Assistant
+1 Etherium Sculptor
+1 Sai, Master Thopterist
+1 Esper Sentinel
+1 Thought Monitor
+1 Tameshi, Reality Architect
+1 Urza, Lord High Artificer
+1 Junk Diver
+1 Ethersworn Canonist
+1 Chromatic Star
+1 Mind Stone
+1 Skullclamp
+1 Thopter Foundry
+1 Time Sieve
+1 Manifold Key
+1 Mystic Forge
+1 Sol Ring
+1 Ashnod's Altar
+1 Basalt Monolith
+1 Voltaic Key
+1 Meekstone
+1 Talisman of Hierarchy
+1 Arcane Signet
+1 Orzhov Signet
+1 Elixir of Immortality
+1 Isochron Scepter
+1 Chromatic Sphere
+1 Altar of the Brood
+1 Thran Dynamo
+1 Ghoulcaller's Bell
+1 Codex Shredder
+1 Sensei's Divining Top
+1 Dimir Signet
+1 Planar Bridge
+1 Aetherflux Reservoir
+1 Semblance Anvil
+1 Azorius Signet
+1 Talisman of Progress
+1 Lantern of Insight
+1 Vat of Rebirth
+1 Talisman of Dominance
+1 Krark-Clan Ironworks
+1 Ensnaring Bridge
+1 Sword of the Meek
+1 Repurposing Bay
+1 Dramatic Reversal
+1 Whir of Invention
+1 Mystical Tutor
+1 Paradoxical Outcome
+1 Brainstorm
+1 Thoughtcast
+1 Reshape
+1 Ritual of Restoration
+1 Refurbish
+1 Fabricate
+1 Artificer's Intuition
+1 Urza's Saga
+1 Mirrodin Besieged
+1 Island
+1 Plains
+1 Swamp
+1 Command Tower
+1 Darksteel Citadel
+1 Morphic Pool
+1 Sea of Clouds
+1 Hallowed Fountain
+1 Urborg, Tomb of Yawgmoth
+1 Marsh Flats
+1 Polluted Delta
+1 Caves of Koilos
+1 Inventors' Fair
+1 Seat of the Synod
+1 Vault of Champions
+1 Razortide Bridge
+1 Goldmire Bridge
+1 Mistvault Bridge
+1 Ancient Den
+1 Treasure Vault
+1 Otawara, Soaring City
+1 Spire of Industry
+1 Raffine's Tower
+1 Adarkar Wastes
+1 The Mycosynth Gardens
+1 Flooded Strand
+1 Underground River
+1 Vault of Whispers
+1 Academy Ruins
+1 Watery Grave
+1 Godless Shrine
+Sideboard
+1 Alela, Artful Provocateur

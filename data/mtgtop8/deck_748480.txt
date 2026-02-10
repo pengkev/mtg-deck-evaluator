@@ -1,0 +1,90 @@
+1 Dauthi Voidwalker
+1 Displacer Kitten
+1 Dualcaster Mage
+1 Faerie Mastermind
+1 Generator Servant
+1 Harbinger of the Seas
+1 Hoarding Broodlord
+1 Magus of the Moon
+1 Malevolent Hermit
+1 Nightscape Familiar
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Snapcaster Mage
+1 Thassa's Oracle
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Burnt Offering
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Demonic Consultation
+1 Espers to Magicite
+1 Fierce Guardianship
+1 Fire Covenant
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Snuff Out
+1 Vampiric Tutor
+1 Volcanic Fallout
+1 Blasphemous Act
+1 Demonic Tutor
+1 From the Ashes
+1 Innocent Blood
+1 Molten Duplication
+1 Reanimate
+1 Toxic Deluge
+1 Vandalblast
+1 Wildfire
+1 Blood Moon
+1 Leyline of the Void
+1 Mystic Remora
+1 Necromancy
+1 Necropotence
+1 Rhystic Study
+1 Ancient Tomb
+1 Arena of Glory
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+5 Island
+1 Luxury Suite
+1 Mana Confluence
+1 Mistrise Village
+1 Morphic Pool
+4 Mountain
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+5 Swamp
+1 Training Center
+1 Underground Sea
+1 Volcanic Island
+1 Watery Grave
+Sideboard
+1 Kefka, Court Mage

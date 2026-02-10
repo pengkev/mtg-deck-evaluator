@@ -1,0 +1,80 @@
+1 Urza's Incubator
+1 Panharmonicon
+1 Orb of Dragonkind
+1 Jade Orb of Dragonkind
+1 Carnelian Orb of Dragonkind
+1 Arcane Signet
+1 Cursed Mirror
+1 Lightning Greaves
+1 Sol Ring
+1 Fellwar Stone
+1 Dragonstorm Globe
+1 Patchwork Banner
+1 Stubborn Denial
+1 Tyvar's Stand
+1 Worldly Tutor
+1 Frontier Siege
+1 Elemental Bond
+1 Temur Ascendancy
+1 Frostcliff Siege
+1 Sarkhan Unbroken
+1 Dragon Tempest
+1 Chaos Warp
+1 Return of the Wildspeaker
+1 Beast Within
+1 Harrow
+1 Mana Drain
+1 Genesis Ultimatum
+1 Raise the Palisade
+1 Irenicus's Vile Duplication
+1 Cultivate
+1 Will of the Temur
+1 Kodama's Reach
+1 Defense of the Heart
+1 Bower Passage
+1 Life Finds a Way
+1 Rhythm of the Wild
+1 Ghostly Flicker
+1 Garruk's Uprising
+1 Old Gnawbone
+1 Utvara Hellkite
+1 Twinflame Tyrant
+1 Ureni of the Unwritten
+1 Firkraag, Cunning Instigator
+1 Terror of the Peaks
+1 Scourge of Valkas
+1 Ganax, Astral Hunter
+1 Wrathful Red Dragon
+1 Earthquake Dragon
+1 Draconic Muralists
+1 Astral Dragon
+1 Rapacious Dragon
+1 Roaming Throne
+1 Drakuseth, Maw of Flames
+1 Balefire Dragon
+1 Deceptive Frostkite
+1 Broodcaller Scourge
+1 Lathliss, Dragon Queen
+1 Sarkhan, Soul Aflame
+1 Atarka, World Render
+1 Spark Double
+1 Iymrith, Desert Doom
+1 Goldspan Dragon
+1 Dragonspeaker Shaman
+1 Crucible of the Spirit Dragon
+1 Command Tower
+1 Cavern of Souls
+1 Path of Ancestry
+1 Temple of Mystery
+1 Maelstrom of the Spirit Dragon
+1 Temple of Epiphany
+1 Frontier Bivouac
+1 Haven of the Spirit Dragon
+1 Temple of Abandon
+1 Commercial District
+1 Mosswort Bridge
+8 Mountain
+8 Island
+8 Forest
+Sideboard
+1 Miirym, Sentinel Wyrm

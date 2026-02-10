@@ -1,0 +1,101 @@
+1 Armored Scrapgorger
+1 Birds of Paradise
+1 Bloom Tender
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Drift of Phantasms
+1 Enduring Vitality
+1 Faerie Mastermind
+1 Ghostly Pilferer
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Ilysian Caryatid
+1 Jin-Gitaxias, Progress Tyrant
+1 Laboratory Maniac
+1 Ledger Shredder
+1 Paradise Druid
+1 Prismite
+1 Seedborn Muse
+1 Soulless Jailer
+1 Spellskite
+1 Sylvan Caryatid
+1 Thrasios, Triton Hero
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Void Winnower
+1 Walking Ballista
+1 Wandering Archaic
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Repurposing Bay
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 The One Ring
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Autumn's Veil
+1 Chord of Calling
+1 Crop Rotation
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Force of Will
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Sink into Stupor
+1 Veil of Summer
+1 Whir of Invention
+1 Worldly Tutor
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Sea Gate Restoration
+1 Transmute Artifact
+1 Turntimber Symbiosis
+1 Cryptolith Rite
+1 Freed from the Real
+1 Mystic Remora
+1 Pemmin's Aura
+1 Rhystic Study
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plaza of Heroes
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Treasure Vault
+1 Tropical Island
+1 Waterlogged Grove
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

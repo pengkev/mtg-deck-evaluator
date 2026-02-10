@@ -1,0 +1,75 @@
+1 Anje's Ravager
+1 Archfiend of Spite
+1 Asylum Visitor
+1 Big Game Hunter
+1 Blazing Rootwalla
+1 Bloodhall Priest
+1 Bloodmad Vampire
+1 Brain Gorgers
+1 Corpse Connoisseur
+1 Gorgon Recluse
+1 Grave Scrabbler
+1 Grim Servant
+1 Hell Mongrel
+1 Incorrigible Youths
+1 Insatiable Gorgers
+1 Kitchen Imp
+1 Markov Baron
+1 Masked Meower
+1 Muck Drubb
+1 Necrogoyf
+1 Nightshade Assassin
+1 Ornithopter of Paradise
+1 Reckless Wurm
+1 Revolutionist
+1 Skophos Reaver
+1 Street Wraith
+1 Stromkirk Occultist
+1 Twins of Maurer Estate
+1 Vile Entomber
+1 Weirded Vampire
+1 Worldgorger Dragon
+1 Arcane Signet
+1 Bag of Holding
+1 Mind Stone
+1 Rakdos Signet
+1 Sol Ring
+1 Abandon Reason
+1 Dark Ritual
+1 Dark Withering
+1 Fiery Temper
+1 Psychotic Haze
+1 Shadow of the Grave
+1 Shred Memory
+1 Violent Eruption
+1 Alchemist's Greeting
+1 Avacyn's Judgment
+1 Biting Rain
+1 Call to the Netherworld
+1 Demonic Counsel
+1 Diabolic Tutor
+1 Distemper of the Blood
+1 Faithless Looting
+1 Final Parting
+1 Fireball
+1 From Under the Floorboards
+1 Gisa's Bidding
+1 Ichor Slick
+1 Lively Dirge
+1 Malevolent Whispers
+1 Murderous Compulsion
+1 Psychotic Episode
+1 Strike It Rich
+1 Terminal Agony
+1 Unmarked Grave
+1 Animate Dead
+1 Necromancy
+1 Senseless Rage
+1 Stensia Masquerade
+1 Strength of Lunacy
+1 Command Tower
+14 Mountain
+1 Smoldering Marsh
+14 Swamp
+Sideboard
+1 Anje Falkenrath

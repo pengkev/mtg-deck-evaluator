@@ -1,89 +1,89 @@
-1 Apex Altisaur
-1 Atzocan Seer
-1 Bellowing Aegisaur
-1 Bronzebeak Foragers
-1 Curious Altisaur
-1 Dinosaur Egg
-1 Drover of the Mighty
-1 Earthshaker Dreadmaw
-1 Elvish Piper
-1 Etali, Primal Storm
-1 Flaming Tyrannosaurus
-1 Gishath, Sun's Avatar
-1 Ixalli's Lorekeeper
-1 Kinjalli's Sunwing
-1 Loot, Exuberant Explorer
-1 Majestic Heliopterus
-1 Marauding Raptor
-1 Otepec Huntmaster
-1 Quartzwood Crasher
-1 Raging Regisaur
-1 Raging Swordtooth
-1 Rampaging Ceratops
-1 Ranging Raptors
-1 Regal Behemoth
-1 Regisaur Alpha
-1 Ripjaw Raptor
-1 Shifting Ceratops
-1 Silverclad Ferocidons
-1 Temple Altisaur
-1 Thrashing Brontodon
-1 Thundering Spineback
-1 Verdant Sun's Avatar
-1 Wakening Sun's Avatar
-1 Wayta, Trainer Prodigy
-1 Woodland Mystic
-1 Wrathful Raptors
-1 Xenagos, God of Revels
-1 Zacama, Primal Calamity
-1 Zetalpa, Primal Dawn
-1 Arcane Signet
-1 Conjurer's Closet
-1 Monster Manual
-1 Sol Ring
-1 Swiftfoot Boots
-1 Akroma's Will
-1 Generous Gift
-1 Path to Exile
-1 Redirect Lightning
-1 Cultivate
-1 Farseek
-1 Fiery Confluence
-1 Migration Path
-1 Rampant Growth
-1 Rishkar's Expertise
-1 Savage Stomp
-1 Thunderherd Migration
-1 Annie Joins Up
-1 Descendants' Path
-1 From the Rubble
-1 Lurking Predators
-1 Rhythm of the Wild
-1 Arch of Orazca
-1 Canopy Vista
-1 Cinder Glade
-1 Clifftop Retreat
-1 Command Tower
-1 Evolving Wilds
-1 Exotic Orchard
-7 Forest
-1 Fortified Village
-1 Furycalm Snarl
-1 Game Trail
-1 Jungle Shrine
-1 Kessig Wolf Run
-1 Mosswort Bridge
-4 Mountain
-1 Myriad Landscape
-1 Path of Ancestry
-4 Plains
-1 Rogue's Passage
-1 Secluded Courtyard
-1 Temple of the False God
-1 Terramorphic Expanse
-1 Thriving Bluff
-1 Thriving Grove
-1 Thriving Heath
-1 Unclaimed Territory
-Sideboard
-1 Pantlaza, Sun-Favored
+1 Apex Altisaur
+1 Atzocan Seer
+1 Bellowing Aegisaur
+1 Bronzebeak Foragers
+1 Curious Altisaur
+1 Dinosaur Egg
+1 Drover of the Mighty
+1 Earthshaker Dreadmaw
+1 Elvish Piper
+1 Etali, Primal Storm
+1 Flaming Tyrannosaurus
+1 Gishath, Sun's Avatar
+1 Ixalli's Lorekeeper
+1 Kinjalli's Sunwing
+1 Loot, Exuberant Explorer
+1 Majestic Heliopterus
+1 Marauding Raptor
+1 Otepec Huntmaster
+1 Quartzwood Crasher
+1 Raging Regisaur
+1 Raging Swordtooth
+1 Rampaging Ceratops
+1 Ranging Raptors
+1 Regal Behemoth
+1 Regisaur Alpha
+1 Ripjaw Raptor
+1 Shifting Ceratops
+1 Silverclad Ferocidons
+1 Temple Altisaur
+1 Thrashing Brontodon
+1 Thundering Spineback
+1 Verdant Sun's Avatar
+1 Wakening Sun's Avatar
+1 Wayta, Trainer Prodigy
+1 Woodland Mystic
+1 Wrathful Raptors
+1 Xenagos, God of Revels
+1 Zacama, Primal Calamity
+1 Zetalpa, Primal Dawn
+1 Arcane Signet
+1 Conjurer's Closet
+1 Monster Manual
+1 Sol Ring
+1 Swiftfoot Boots
+1 Akroma's Will
+1 Generous Gift
+1 Path to Exile
+1 Redirect Lightning
+1 Cultivate
+1 Farseek
+1 Fiery Confluence
+1 Migration Path
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Savage Stomp
+1 Thunderherd Migration
+1 Annie Joins Up
+1 Descendants' Path
+1 From the Rubble
+1 Lurking Predators
+1 Rhythm of the Wild
+1 Arch of Orazca
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+7 Forest
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Mosswort Bridge
+4 Mountain
+1 Myriad Landscape
+1 Path of Ancestry
+4 Plains
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Thriving Bluff
+1 Thriving Grove
+1 Thriving Heath
+1 Unclaimed Territory
+Sideboard
+1 Pantlaza, Sun-Favored

@@ -1,0 +1,92 @@
+1 Circle of the Land Druid
+1 Coiling Oracle
+1 Deathrite Shaman
+1 Deranged Assistant
+1 Diamond Weapon
+1 Dread Presence
+1 Dryad of the Ilysian Grove
+1 Essence Warden
+1 Glarb, Calamity's Augur
+1 Horrid Shadowspinner
+1 Kheru Goldkeeper
+1 Llanowar Elves
+1 Lotuslight Dancers
+1 Mindwrack Harpy
+1 Molt Tender
+1 Omega, Heartless Evolution
+1 Peregrin Took
+1 Prime Speaker Zegana
+1 Prosperous Innkeeper
+1 Rainveil Rejuvenator
+1 Reckless Scholar
+1 Shinra Reinforcements
+1 Taigam, Sidisi's Hand
+1 Tatyova, Benthic Druid
+1 Teval, Arbiter of Virtue
+1 The Mycotyrant
+1 The Wise Mothman
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Yarok, the Desecrated
+1 Adventuring Gear
+1 Arcane Signet
+1 Chocobo Racetrack
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Essence Anchor
+1 Heaped Harvest
+1 Lumbering Worldwagon
+1 Matzalantli, the Great Door
+1 Sol Ring
+1 Wand of Vertebrae
+1 Deathsprout
+1 Grapple with the Past
+1 Growth Spiral
+1 Reclaim
+1 Refute
+1 Tyvar's Stand
+1 Circuitous Route
+1 Compulsive Research
+1 Cultivate
+1 Expand the Sphere
+1 Farseek
+1 Genesis Wave
+1 Kodama's Reach
+1 Rampant Growth
+1 Sift
+1 Dredger's Insight
+1 Guardian Project
+1 Insidious Roots
+1 Khalni Heart Expedition
+1 Spelunking
+1 Thran Vigil
+1 Liliana, Death's Majesty
+1 Ash Barrens
+1 Barren Moor
+1 Black Dragon Gate
+1 Command Tower
+1 Conduit Pylons
+1 Dreamroot Cascade
+1 Exotic Orchard
+4 Forest
+1 Golgari Rot Farm
+1 Haunted Mire
+4 Island
+1 Manor Gate
+1 Myriad Landscape
+1 Necroblossom Snarl
+1 Opulent Palace
+1 Plaza of Heroes
+1 Simic Growth Chamber
+4 Swamp
+1 Tainted Wood
+1 Temple of Malady
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thriving Isle
+1 Underground Mortuary
+1 Vineglimmer Snarl
+1 Wastewood Verge
+1 Waterlogged Grove
+Sideboard
+1 Sin, Spira's Punishment

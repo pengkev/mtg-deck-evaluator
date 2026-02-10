@@ -1,0 +1,93 @@
+1 Atarka, World Render
+1 Atsushi, the Blazing Sky
+1 Broodcaller Scourge
+1 Deceptive Frostkite
+1 Dragonhawk, Fate's Tempest
+1 Dragonlord Atarka
+1 Fanatic of Rhonas
+1 Gadrak, the Crown-Scourge
+1 Ganax, Astral Hunter
+1 Glorybringer
+1 Goblin Anarchomancer
+1 Hammerhead Tyrant
+1 Hellkite Charger
+1 Hellkite Courser
+1 Keiga, the Tide Star
+1 Lathliss, Dragon Queen
+1 Miirym, Sentinel Wyrm
+1 Nogi, Draco-Zealot
+1 Nylea, Keen-Eyed
+1 Opportunistic Dragon
+1 Parapet Thrasher
+1 Roaming Throne
+1 Sarkhan, Dragon Ascendant
+1 Sarkhan, Soul Aflame
+1 Savage Ventmaw
+1 Scourge of the Throne
+1 Scourge of Valkas
+1 Selvala, Heart of the Wilds
+1 Steel Hellkite
+1 Taurean Mauler
+1 Temur Battlecrier
+1 Thunderbreak Regent
+1 Thundermane Dragon
+1 Utvara Hellkite
+1 Whirlwing Stormbrood
+1 Arcane Signet
+1 Carnelian Orb of Dragonkind
+1 Conjurer's Closet
+1 Dragon's Hoard
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Impulse
+1 Beast Within
+1 Chaos Warp
+1 Essence Flux
+1 Planar Genesis
+1 Rapid Hybridization
+1 Smuggler's Surprise
+1 Become the Avalanche
+1 Blasphemous Act
+1 Farseek
+1 Kodama's Reach
+1 Storm's Wrath
+1 Stump Stomp
+1 Dragon Tempest
+1 Elemental Bond
+1 Frontier Siege
+1 Kozilek's Unsealing
+1 Rhythm of the Wild
+1 Temur Ascendancy
+1 Kiora, Behemoth Beckoner
+1 Arena of Glory
+1 Botanical Sanctum
+1 Bountiful Landscape
+1 Breeding Pool
+1 Cinder Glade
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flooded Grove
+4 Forest
+1 Frontier Bivouac
+1 Haven of the Spirit Dragon
+1 Hinterland Harbor
+2 Island
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Misty Rainforest
+1 Mossfire Valley
+1 Mosswort Bridge
+5 Mountain
+1 Path of Ancestry
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Abandon
+1 Temple of the Dragon Queen
+1 Yavimaya Coast
+Sideboard
+1 Ureni of the Unwritten

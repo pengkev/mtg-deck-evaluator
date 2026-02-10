@@ -1,0 +1,85 @@
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Infinite Gyre
+1 Jin-Gitaxias, Core Augur
+1 Thassa's Oracle
+1 Jin-Gitaxias, Progress Tyrant
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the World Anew
+1 Ulamog, the Defiler
+1 Harbinger of the Seas
+1 Hydroelectric Specimen
+1 Dreamtide Whale
+1 Consecrated Sphinx
+1 Flux Channeler
+1 Teferi, Mage of Zhalfir
+1 Hullbreaker Horror
+1 Chrome Mox
+1 Isochron Scepter
+1 Everflowing Chalice
+1 The Ozolith
+1 Mox Amber
+1 Portal to Phyrexia
+1 Thran Dynamo
+1 Arcane Signet
+1 Winter Moon
+1 Sapphire Medallion
+1 Brotherhood Regalia
+1 Swiftfoot Boots
+1 Lotus Petal
+1 Static Orb
+1 Sol Ring
+1 Commander's Plate
+1 Staff of Compleation
+1 Mystical Dispute
+1 Miscast
+1 Force of Will
+1 Mystical Tutor
+1 Pact of Negation
+1 Fierce Guardianship
+1 Whirlwind Denial
+1 Cyclonic Rift
+1 Misdirection
+1 Force of Negation
+1 Counterspell
+1 Serum Snare
+1 Clockspinning
+1 Ripples of Potential
+1 Mission Briefing
+1 Mana Drain
+1 Mindbreak Trap
+1 Strix Serenade
+1 Ugin's Binding
+1 Into the Flood Maw
+1 Daze
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Submerge
+1 Spell Pierce
+1 Pongify
+1 Reality Shift
+1 Flusterstorm
+1 Expropriate
+1 Sea Gate Restoration
+1 Personal Tutor
+1 Rise of the Eldrazi
+1 Enter the Infinite
+1 Echo of Eons
+1 Gitaxian Probe
+1 Rhystic Study
+1 Mystic Remora
+1 Mind's Dilation
+1 Amphibian Downpour
+1 Omniscience
+1 One with the Multiverse
+1 Narset, Parter of Veils
+1 Karn, the Great Creator
+1 Mystic Sanctuary
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Karn's Bastion
+1 War Room
+1 Cephalid Coliseum
+1 Ugin's Labyrinth
+17 Island
+Sideboard
+1 Malcolm, Alluring Scoundrel

@@ -1,0 +1,81 @@
+1 Arasta of the Endless Web
+1 Champion of Lambholt
+1 Circle of Dreams Druid
+1 Craterhoof Behemoth
+1 Elvish Mystic
+1 Eternal Witness
+1 General Kreat, the Boltbringer
+1 Grand Warlord Radha
+1 Grumgully, the Generous
+1 Ivy Lane Denizen
+1 Jaheira, Friend of the Forest
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Legion Warboss
+1 Mycoloth
+1 Ohran Frostfang
+1 Purphoros, God of the Forge
+1 Quina, Qu Gourmet
+1 Ruby, Daring Tracker
+1 Shroofus Sproutsire
+1 Tendershoot Dryad
+1 Terror of the Peaks
+1 Thermopod
+1 Toski, Bearer of Secrets
+1 Utopia Mycon
+1 Vexing Shusher
+1 Zhur-Taa Druid
+1 Altar of the Brood
+1 Ashnod's Altar
+1 Basilisk Collar
+1 Blade of the Bloodchief
+1 Eldrazi Monument
+1 Skullclamp
+1 Sol Ring
+1 Strixhaven Stadium
+1 Throne of the God-Pharaoh
+1 Arachnogenesis
+1 Artifact Mutation
+1 Battle Hymn
+1 Beast Within
+1 Chaos Warp
+1 Chord of Calling
+1 Deflecting Swat
+1 Heroic Intervention
+1 Lightning Bolt
+1 Obscuring Haze
+1 Second Harvest
+1 Sprout Swarm
+1 Blasphemous Act
+1 Faithless Looting
+1 Fungal Sprouting
+1 Gamble
+1 Hull Breach
+1 Jeska's Will
+1 Nature's Rhythm
+1 Saproling Symbiosis
+1 Triumph of the Hordes
+1 Vandalblast
+1 Beastmaster Ascension
+1 Cryptolith Rite
+1 Doubling Season
+1 Goblin Bombardment
+1 Impact Tremors
+1 Mass Hysteria
+1 Rhythm of the Wild
+1 Xenagos, the Reveler
+1 Arena of Glory
+1 Command Tower
+1 Fire-Lit Thicket
+11 Forest
+1 Game Trail
+1 Karplusan Forest
+1 Kessig Wolf Run
+11 Mountain
+1 Rockfall Vale
+1 Rootbound Crag
+1 Stomping Ground
+1 War Room
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Ulasht, the Hate Seed

@@ -1,0 +1,88 @@
+1 Nyxbloom Ancient
+1 Selvala, Heart of the Wilds
+1 Wakeroot Elemental
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Infinite Gyre
+1 Void Winnower
+1 Boreal Druid
+1 Manglehorn
+1 Allosaurus Shepherd
+1 Llanowar Elves
+1 Arbor Elf
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Vorinclex, Monstrous Raider
+1 Circle of Dreams Druid
+1 Craterhoof Behemoth
+1 Titan of Industry
+1 Birds of Paradise
+1 Argothian Elder
+1 Collector Ouphe
+1 Cankerbloom
+1 Vorinclex, Voice of Hunger
+1 Surrak and Goreclaw
+1 Delighted Halfling
+1 Gilded Goose
+1 Elvish Mystic
+1 Apex Altisaur
+1 Evolution Sage
+1 Temur Sabertooth
+1 Vaultborn Tyrant
+1 Sylvan Safekeeper
+1 Disciple of Freyalise
+1 Endurance
+1 Fanatic of Rhonas
+1 Haywire Mite
+1 Thorn Mammoth
+1 Ashaya, Soul of the Wild
+1 Marvin, Murderous Mimic
+1 Loot, Exuberant Explorer
+1 Terastodon
+1 Mana Vault
+1 Pithing Needle
+1 Thorn of Amethyst
+1 Sol Ring
+1 Vexing Bauble
+1 Crop Rotation
+1 Veil of Summer
+1 Worldly Tutor
+1 Legolas's Quick Reflexes
+1 Heroic Intervention
+1 Chord of Calling
+1 Archdruid's Charm
+1 Beast Within
+1 Gaea's Blessing
+1 Green Sun's Zenith
+1 Turntimber Symbiosis
+1 Natural Order
+1 Finale of Devastation
+1 Sylvan Tutor
+1 Concordant Crossroads
+1 Root Maze
+1 Burgeoning
+1 Sylvan Library
+1 Exploration
+1 Wild Growth
+1 Utopia Sprawl
+1 Carpet of Flowers
+1 Urza's Saga
+1 Invasion of Ikoria
+1 Castle Garenbrig
+1 Gaea's Cradle
+1 Wirewood Lodge
+1 Nykthos, Shrine to Nyx
+1 Dryad Arbor
+1 Gemstone Caverns
+1 Mikokoro, Center of the Sea
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Geier Reach Sanitarium
+1 Karn's Bastion
+1 Urza's Cave
+1 Shifting Woodland
+1 Nesting Grounds
+1 Yavimaya, Cradle of Growth
+1 Homeward Path
+14 Forest
+Sideboard
+1 Vorinclex

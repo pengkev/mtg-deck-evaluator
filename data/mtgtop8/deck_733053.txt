@@ -1,0 +1,93 @@
+1 Cryptbreaker
+1 Putrid Imp
+1 Malcolm, Alluring Scoundrel
+1 Likeness Looter
+1 Vohar, Vodalian Desecrator
+1 Priest of Fell Rites
+1 Volatile Stormdrake
+1 Rhet-Tomb Mystic
+1 Diamond Lion
+1 Ghostly Pilferer
+1 Thassa's Oracle
+1 Lazav, the Multifarious
+1 Baleful Strix
+1 Laboratory Maniac
+1 Champion of Wits
+1 Notion Thief
+1 Necrotic Ooze
+1 Reveillark
+1 Karmic Guide
+1 Leveler
+1 Mirror-Mad Phantasm
+1 Skirge Familiar
+1 Peregrine Drake
+1 Asmodeus the Archfiend
+1 Springleaf Drum
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Wishclaw Talisman
+1 Orzhov Signet
+1 Dimir Signet
+1 Collector's Vault
+1 Blasting Station
+1 Shorikai, Genesis Engine
+1 Spell Snare
+1 Unwanted Remake
+1 Wash Away
+1 Consign to Memory
+1 Swords to Plowshares
+1 Path to Exile
+1 Run Away Together
+1 Remand
+1 Defabricate
+1 Lim-Dul's Vault
+1 Faithful Mending
+1 Infernal Grasp
+1 Negate
+1 Lose Focus
+1 Ghostly Flicker
+1 Frantic Search
+1 Void Rend
+1 Live or Die
+1 Unearth
+1 Bloodchief's Thirst
+1 Damn
+1 Sevinne's Reclamation
+1 Come Back Wrong
+1 Windfall
+1 Ringsight
+1 Buried Alive
+1 Painful Truths
+1 Yahenni's Expertise
+1 Dread Return
+1 Wrath of God
+1 Unburial Rites
+1 Tortured Existence
+1 Chthonian Nightmare
+1 Animate Dead
+1 Zombie Infestation
+1 Verity Circle
+1 Glacial Fortress
+1 Contaminated Landscape
+1 Glacial Floodplain
+1 Thriving Moor
+1 Cephalid Coliseum
+1 Tainted Field
+1 Gemstone Mine
+4 Island
+4 Swamp
+3 Plains
+1 Skycloud Expanse
+1 Dimir Aqueduct
+1 Port Town
+1 Arcane Sanctum
+1 Tendo Ice Bridge
+1 Command Tower
+1 Azorius Chancery
+1 Riptide Laboratory
+1 Temple of Silence
+1 Path of Ancestry
+1 Bojuka Bog
+1 Orzhov Basilica
+Sideboard
+1 Hashaton, Scarab's Fist

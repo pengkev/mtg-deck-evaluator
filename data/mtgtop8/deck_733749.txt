@@ -1,0 +1,92 @@
+1 Adelbert Steiner
+1 Aerith, Last Ancient
+1 Armory Automaton
+1 Barret Wallace
+1 Barret, Avalanche Leader
+1 Bastion Protector
+1 Bronze Guardian
+1 Bugenhagen, Wise Elder
+1 Cait Sith, Fortune Teller
+1 Cid, Freeflier Pilot
+1 Danitha Capashen, Paragon
+1 Elena, Turk Recruit
+1 Firion, Wild Rose Warrior
+1 Freya Crescent
+1 Gilgamesh, Master-at-Arms
+1 Helitrooper
+1 Professor Hojo
+1 Puresteel Paladin
+1 Red XIII, Proud Warrior
+1 Sephiroth, Fallen Hero
+1 Summon: Kujata
+1 Tifa, Martial Artist
+1 Vincent, Vengeful Atoner
+1 Yuffie, Materia Hunter
+1 Zack Fair
+1 Aettir and Priwen
+1 Arcane Signet
+1 Behemoth Sledge
+1 Buster Sword
+1 Champion's Helm
+1 Colossus Hammer
+1 Conformer Shuriken
+1 Conqueror's Flail
+1 Darksteel Plate
+1 Explorer's Scope
+1 Herd Heirloom
+1 Hero's Blade
+1 Hero's Heirloom
+1 Inspiring Statuary
+1 Kaldra Compleat
+1 Mask of Memory
+1 Nettlecyst
+1 Sol Ring
+1 Summoning Materia
+1 Sword of the Animist
+1 Wrecking Ball Arm
+1 Chaos Warp
+1 Clever Concealment
+1 Dispatch
+1 Judgment Bolt
+1 Lifestream's Blessing
+1 Restoration Magic
+1 Ultimate Magic: Holy
+1 Austere Command
+1 Cultivate
+1 Decimate
+1 Farseek
+1 Harmonize
+1 Nibelheim Aflame
+1 Rampant Growth
+1 Unfinished Business
+1 Vanquish the Horde
+1 Furious Rise
+1 SOLDIER Military Program
+1 Battlefield Forge
+1 Bonders' Enclave
+1 Boros Garrison
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+4 Forest
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Gruul Turf
+1 Jungle Shrine
+1 Mossfire Valley
+4 Mountain
+1 Path of Ancestry
+4 Plains
+1 Radiant Grove
+1 Sacred Peaks
+1 Scavenger Grounds
+1 Slayers' Stronghold
+1 Spire of Industry
+1 Sungrass Prairie
+1 Sunscorched Divide
+1 Wooded Ridgeline
+Sideboard
+1 Cloud, Ex-SOLDIER

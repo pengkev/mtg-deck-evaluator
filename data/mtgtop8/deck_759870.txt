@@ -1,0 +1,74 @@
+1 Aclazotz, Deepest Betrayal
+1 Basilica Screecher
+1 Bat Whisperer
+1 Blood Host
+1 Bloodthirsty Conqueror
+1 Bone Picker
+1 Cauldron Familiar
+1 Child of Night
+1 Death Cultist
+1 Deathgreeter
+1 Disciple of Griselbrand
+1 Doomed Dissenter
+1 Duskwielder
+1 Falkenrath Noble
+1 Gnawing Zombie
+1 Gravecrawler
+1 Gray Merchant of Asphodel
+1 Gutless Ghoul
+1 Hired Poisoner
+1 Indulgent Aristocrat
+1 Infectious Horror
+1 Lampad of Death's Vigil
+1 Liliana's Elite
+1 Marshmist Titan
+1 Mortician Beetle
+1 Night Market Lookout
+1 Nightsquad Commando
+1 Shard of the Nightbringer
+1 Skymarch Bloodletter
+1 Typhoid Rats
+1 Unstoppable Slasher
+1 Vampire Nighthawk
+1 Vermin Gorger
+1 Vicious Conquistador
+1 Arcane Signet
+1 Brainstone
+1 Coldsteel Heart
+1 Commander's Sphere
+1 Everflowing Chalice
+1 Heartstone
+1 Jet Medallion
+1 Phyrexian Altar
+1 Pristine Talisman
+1 Profane Memento
+1 Sol Ring
+1 The Darkness Crystal
+1 Witch's Cauldron
+1 Witch's Oven
+1 Drag to the Underworld
+1 Sephiroth's Intervention
+1 Blood Tithe
+1 Blood Tribute
+1 Exsanguinate
+1 Ghoulcaller's Chant
+1 Return from Extinction
+1 Sanguine Indulgence
+1 Dogged Pursuit
+1 Eternal Thirst
+1 Exquisite Blood
+1 Midnight Snack
+1 No Mercy
+1 Omen of the Dead
+1 Phyrexian Reclamation
+1 Barren Moor
+1 Blighted Fen
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Mortuary Mire
+1 Nykthos, Shrine to Nyx
+1 Opal Palace
+28 Swamp
+Sideboard
+1 Vito, Thorn of the Dusk Rose

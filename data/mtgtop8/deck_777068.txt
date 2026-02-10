@@ -1,0 +1,78 @@
+1 Archaeomancer
+1 Archmage Emeritus
+1 Baral, Chief of Compliance
+1 Chrome Host Seedshark
+1 Displacer Kitten
+1 Harbinger of the Seas
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Ledger Shredder
+1 Ojer Pakpatiq, Deepest Epoch
+1 Peregrine Drake
+1 Snapcaster Mage
+1 Stormtide Leviathan
+1 Talrand, Sky Summoner
+1 Thassa, Deep-Dwelling
+1 Thassa's Oracle
+1 The Flood of Mars
+1 Tishana's Tidebinder
+1 Wavebreak Hippocamp
+1 Arcane Signet
+1 Mindsplice Apparatus
+1 Misleading Signpost
+1 Nyx Lotus
+1 Sapphire Medallion
+1 Sol Ring
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Blue Sun's Zenith
+1 Blur
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Displace
+1 Fierce Guardianship
+1 Flow of Knowledge
+1 Ghostly Flicker
+1 High Tide
+1 Mana Drain
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Nexus of Fate
+1 Pull from Tomorrow
+1 Rapid Hybridization
+1 Snap
+1 Spell Swindle
+1 You Find the Villains' Lair
+1 Aquitect's Will
+1 Beacon of Tomorrows
+1 Capture of Jingzhou
+1 Enter the Infinite
+1 Expropriate
+1 Finale of Revelation
+1 Karn's Temporal Sundering
+1 Part the Waterveil
+1 Personal Tutor
+1 Solve the Equation
+1 Temporal Mastery
+1 Time Stretch
+1 Time Warp
+1 Fishliver Oil
+1 Leyline of Anticipation
+1 Rhystic Study
+1 Shark Typhoon
+1 Swarm Intelligence
+1 Narset, Parter of Veils
+1 Bonders' Enclave
+1 Boseiju, Who Shelters All
+1 Castle Vantress
+24 Island
+1 Mistrise Village
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Reliquary Tower
+1 Rivendell
+1 War Room
+Sideboard
+1 Eluge, the Shoreless Sea

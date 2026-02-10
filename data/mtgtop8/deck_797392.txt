@@ -1,0 +1,73 @@
+1 The Ancient One
+1 Mirelurk Queen
+1 Wall of Frost
+1 Hedron Crab
+1 Murderous Rider
+1 Silent Hallcreeper
+1 Necrogoyf
+1 Baral, Chief of Compliance
+1 Rankle, Master of Pranks
+1 Ghostly Pilferer
+1 Syr Konrad, the Grim
+1 Nighthowler
+1 Consuming Aberration
+1 Guard Gomazoa
+5 Persistent Petitioners
+1 Psychosis Crawler
+1 Grimdancer
+1 Grave Titan
+1 Abyssal Harvester
+1 Gonti, Lord of Luxury
+1 Ruin Crab
+1 Thassa's Oracle
+1 Mindslicer
+1 Umbris, Fear Manifest
+1 Mirko Vosk, Mind Drinker
+1 Nighthawk Scavenger
+1 Ambassador Laquatus
+1 Skullclamp
+1 Thought Vessel
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Jet Medallion
+1 Mind Stone
+1 Crawlspace
+1 Altar of the Brood
+1 Worn Powerstone
+1 Sapphire Medallion
+1 Sol Ring
+1 Arcane Signet
+1 Annul
+1 Drown in the Loch
+1 Demonic Consultation
+1 Dark Ritual
+1 Mystical Tutor
+1 Counterspell
+1 Fact or Fiction
+1 Hero's Downfall
+1 Rune Snag
+1 Ponder
+1 Rise of the Dark Realms
+1 Windfall
+1 Diabolic Tutor
+1 Mind Sculpt
+1 Beseech the Queen
+1 Reconnaissance Mission
+1 Mystic Remora
+1 Teferi's Tutelage
+1 Verity Circle
+1 Propaganda
+1 Jace Beleren
+1 Dismal Backwater
+1 Mistvault Bridge
+1 Myriad Landscape
+1 Field of Ruin
+1 Terramorphic Expanse
+1 Cryptic Spires
+13 Island
+1 Exotic Orchard
+1 Bojuka Bog
+1 Command Tower
+13 Swamp
+Sideboard
+1 Phenax, God of Deception

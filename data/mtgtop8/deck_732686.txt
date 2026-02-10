@@ -1,0 +1,86 @@
+1 Baleful Strix
+1 Displacer Kitten
+1 Ertai Resurrected
+1 Kambal, Consul of Allocation
+1 Malevolent Hermit
+1 Quistis Trepe
+1 Reflector Mage
+1 Tivit, Seller of Secrets
+1 Valley Floodcaller
+1 Vohar, Vodalian Desecrator
+1 Arcane Signet
+1 Azorius Signet
+1 Basalt Monolith
+1 Dimir Signet
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Midnight Clock
+1 Orzhov Signet
+1 Pithing Needle
+1 Scale of Chiss-Goria
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Time Sieve
+1 Wishclaw Talisman
+1 Anguished Unmaking
+1 Baleful Mastery
+1 Blink of an Eye
+1 Confounding Riddle
+1 Counterspell
+1 Dig Through Time
+1 Dispel
+1 Dissipate
+1 Echoing Truth
+1 Fact or Fiction
+1 Frantic Search
+1 Hostile Negotiations
+1 Infernal Grasp
+1 Lim-Dul's Vault
+1 Mystical Teachings
+1 Negate
+1 Reality Shift
+1 Retraction Helix
+1 Rewind
+1 Snapback
+1 Spell Pierce
+1 Swords to Plowshares
+1 Unwind
+1 Void Rend
+1 Waterlogged Teachings
+1 Demonic Counsel
+1 Diabolic Tutor
+1 Dimir Machinations
+1 Fabricate
+1 Feed the Swarm
+1 Ringsight
+1 Sevinne's Reclamation
+1 Windfall
+1 Yahenni's Expertise
+1 Grasp of Fate
+1 Mystic Remora
+1 Phyrexian Arena
+1 Touch the Spirit Realm
+1 Ashiok, Dream Render
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Command Tower
+1 Contaminated Landscape
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Glacial Fortress
+6 Island
+1 Isolated Chapel
+6 Plains
+1 Prairie Stream
+1 River of Tears
+1 Sunken Hollow
+6 Swamp
+1 Tainted Isle
+1 Temple of Deceit
+Sideboard
+1 Y'shtola, Night's Blessed

@@ -1,0 +1,97 @@
+1 Wandering Archaic
+1 Squee, the Immortal
+1 Ornithopter
+1 Kinnan, Bonder Prodigy
+1 Delighted Halfling
+1 Ioreth of the Healing House
+1 The Fourth Doctor
+1 Sarah Jane Smith
+1 Fblthp, the Lost
+1 K-9, Mark I
+1 Jamie McCrimmon
+1 The Eighth Doctor
+1 The Sixth Doctor
+1 The Third Doctor
+1 Astrid Peth
+1 Adric, Mathematical Genius
+1 Leela, Sevateem Warrior
+1 Nyssa of Traken
+1 Kutzil, Malamet Exemplar
+1 Rose Noble
+1 Walking Ballista
+1 Marketback Walker
+1 Aether Spellbomb
+1 Basalt Monolith
+1 TARDIS
+1 Sonic Screwdriver
+1 Talisman of Unity
+1 Talisman of Indulgence
+1 Heroes' Podium
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Sapphire Medallion
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Dominance
+1 Maskwood Nexus
+1 Repurposing Bay
+1 Miscast
+1 Heroic Intervention
+1 Pyretic Ritual
+1 Reverberate
+1 Dark Ritual
+1 Worldly Tutor
+1 Mana Tithe
+1 Path to Exile
+1 Counterspell
+1 Minor Misstep
+1 Borne Upon a Wind
+1 Learn from the Past
+1 Swan Song
+1 Time Lord Regeneration
+1 Commandeer
+1 Swords to Plowshares
+1 An Offer You Can't Refuse
+1 Noxious Revival
+1 Spell Pierce
+1 Unearth
+1 Croaking Counterpart
+1 Past in Flames
+1 Three Visits
+1 Sevinne's Reclamation
+1 Bridgeworks Battle
+1 Explore
+1 Eldritch Evolution
+1 Smothering Tithe
+1 Food Chain
+1 As Foretold
+1 Carpet of Flowers
+1 Growing Rites of Itlimoc
+1 Wild Growth
+1 Counterbalance
+1 Freed from the Real
+1 Valgavoth's Lair
+1 Cryptolith Rite
+1 Tamiyo, Field Researcher
+1 Exotic Orchard
+1 Command Tower
+1 Hengegate Pathway
+1 Brushland
+1 Gallifrey Council Chamber
+1 Trenzalore Clocktower
+1 Waterlogged Grove
+1 Horizon Canopy
+1 Lush Portico
+1 Botanical Sanctum
+1 Mountain
+1 Floodfarm Verge
+1 Willowrush Verge
+1 Path of Ancestry
+1 Yavimaya Coast
+2 Plains
+2 Forest
+2 Island
+2 Swamp
+Sideboard
+1 The Fourteenth Doctor
+1 Vislor Turlough

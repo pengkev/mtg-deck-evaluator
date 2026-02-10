@@ -1,0 +1,91 @@
+1 Mind Stone
+1 Sol Ring
+1 Fellwar Stone
+1 Thought Vessel
+1 Cursed Mirror
+1 Arcane Signet
+1 Springleaf Drum
+1 Gruul Signet
+1 Voyager Staff
+1 Talisman of Impulse
+1 Conjurer's Closet
+1 Beast Within
+1 Chaos Warp
+1 Pyroblast
+1 Krosan Grip
+1 Autumn's Veil
+1 Red Elemental Blast
+1 Bolt Bend
+1 Ricochet Trap
+1 Return the Favor
+1 Rending Volley
+1 Leyline of Abundance
+1 Rhythm of the Wild
+1 Powerbalance
+1 Chandra, Flameshaper
+1 Wild Growth
+1 Flare of Duplication
+1 Siege Smash
+1 Peerless Recycling
+1 Noxious Revival
+1 Shared Summons
+1 Vines of Vastwood
+1 Untimely Malfunction
+1 Heritage Reclamation
+1 Irencrag Feat
+1 Metamorphosis
+1 Insist
+1 Ground Seal
+1 Regrowth
+1 Twinflame
+1 Electroduplicate
+1 Eldritch Evolution
+1 Mana Geyser
+1 From Beyond
+1 Cream of the Crop
+1 Utopia Sprawl
+1 Food Chain
+1 Time of Need
+1 Ashling, Flame Dancer
+1 Simian Spirit Guide
+1 Eternal Witness
+1 Dualcaster Mage
+1 Eternal Scourge
+1 Manglehorn
+1 Orcish Lumberjack
+1 Tinder Wall
+1 Destiny Spinner
+1 Vexing Shusher
+1 Elvish Mystic
+1 Runic Armasaur
+1 Fyndhorn Elves
+1 Rionya, Fire Dancer
+1 Goblin Anarchomancer
+1 "Name Sticker" Goblin
+1 Goblin Matron
+1 Elvish Spirit Guide
+1 Combat Celebrant
+1 Treasure Nabber
+1 Priest of Titania
+1 Disciple of Freyalise
+1 Squee, the Immortal
+1 Llanowar Elves
+1 Temple of Abandon
+1 Command Tower
+1 Fabled Passage
+1 Cinder Glade
+1 Game Trail
+1 Havenwood Battleground
+1 Hickory Woodlot
+1 Sandstone Needle
+1 Emergence Zone
+1 High Market
+1 Dwarven Ruins
+1 Rockfall Vale
+1 Muraganda Raceway
+1 Rootbound Crag
+1 Geier Reach Sanitarium
+6 Mountain
+6 Forest
+Sideboard
+1 Etali, Primal Conqueror

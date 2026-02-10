@@ -1,0 +1,90 @@
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Arcane Signet
+1 Back to Basics
+1 Basalt Monolith
+1 Birds of Paradise
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Chain of Vapor
+1 Chrome Mox
+1 Colossal Skyturtle
+1 Command Tower
+1 Commandeer
+1 Consecrated Sphinx
+1 Counterspell
+1 Cyclonic Rift
+1 Delighted Halfling
+1 Dreamroot Cascade
+1 Elvish Mystic
+1 Endurance
+1 Enduring Vitality
+1 Energy Refractor
+1 Eternal Witness
+1 Faerie Mastermind
+1 Fierce Guardianship
+1 Finale of Devastation
+1 Flooded Grove
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+7 Forest
+1 Fyndhorn Elves
+1 Gemstone Caverns
+1 Green Sun's Zenith
+1 Grim Monolith
+1 Hedge Maze
+1 High Fae Trickster
+1 Hullbreaker Horror
+6 Island
+1 Isochron Scepter
+1 Jin-Gitaxias, Progress Tyrant
+1 Laboratory Maniac
+1 Lotus Petal
+1 Mana Drain
+1 Mana Vault
+1 Mirage Mirror
+1 Misty Rainforest
+1 Mockingbird
+1 Moonsilver Key
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Noxious Revival
+1 Nyxbloom Ancient
+1 Ornithopter of Paradise
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Phyrexian Metamorph
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Retraction Helix
+1 Rhystic Study
+1 Scavenger Grounds
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Simic Signet
+1 Sol Ring
+1 Spectral Sailor
+1 Staff of Domination
+1 Stasis
+1 Stifle
+1 Strix Serenade
+1 Subtlety
+1 Swan Song
+1 Thassa's Oracle
+1 Thought Vessel
+1 Thrasios, Triton Hero
+1 Timeless Witness
+1 Trophy Mage
+1 Urza's Saga
+1 Valley Floodcaller
+1 Void Winnower
+1 Vorinclex, Voice of Hunger
+1 Worldly Tutor
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Kinnan, Bonder Prodigy

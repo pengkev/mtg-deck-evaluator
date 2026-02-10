@@ -1,0 +1,78 @@
+1 Beast Whisperer
+1 Hope Tender
+1 Ezuri, Renegade Leader
+1 Voyaging Satyr
+1 Priest of Titania
+1 Llanowar Tribe
+1 Dionus, Elvish Archdruid
+1 Elvish Harbinger
+1 Devoted Druid
+1 Citanul Stalwart
+1 Regal Force
+1 Heritage Druid
+1 Realmwalker
+1 Arbor Elf
+1 Llanowar Visionary
+1 Voice of Many
+1 Krosan Wayfarer
+1 Karametra's Acolyte
+1 Fierce Empath
+1 Paradise Druid
+1 Fyndhorn Elves
+1 Leafkin Druid
+1 Elvish Archdruid
+1 Quirion Ranger
+1 Joraga Treespeaker
+1 Yavimaya Elder
+1 Wirewood Symbiote
+1 Stone-Seeder Hierophant
+1 Llanowar Elves
+1 Diligent Farmhand
+1 Copperhorn Scout
+1 Scryb Ranger
+1 Elvish Mystic
+1 Fauna Shaman
+1 Crashing Drawbridge
+1 Elvish Pioneer
+1 Primordial Sage
+1 Temur Sabertooth
+1 Augur of Autumn
+1 Krosan Restorer
+1 Great Oak Guardian
+1 Greenweaver Druid
+1 Kamahl, Fist of Krosa
+1 Eternal Witness
+1 Elvish Visionary
+1 Birchlore Rangers
+1 Duskwatch Recruiter
+1 Llanowar Druid
+1 Wirewood Channeler
+1 Umbral Mantle
+1 Staff of Domination
+1 Tangleroot
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Slate of Ancestry
+1 Malachite Talisman
+1 Vitalize
+1 Nature's Claim
+1 Kindred Summons
+1 Genesis Wave
+1 Collective Unconscious
+1 Recollect
+1 Regrowth
+1 Harmonize
+1 Mobilize
+1 Lead the Stampede
+1 Primal Surge
+1 Shamanic Revelation
+1 Leyline of Abundance
+1 Growing Rites of Itlimoc
+1 Wild Growth
+1 Season of Growth
+1 Elvish Guidance
+1 Utopia Sprawl
+1 Sylvan Anthem
+24 Forest
+Sideboard
+1 Seton, Krosan Protector

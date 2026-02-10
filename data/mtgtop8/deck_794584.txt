@@ -1,0 +1,79 @@
+1 Nezumi Informant
+1 Carrion Feeder
+1 Weaponcraft Enthusiast
+1 Gleaming Barrier
+1 Corpse Blockade
+1 Cadaver Imp
+1 Blood Artist
+1 Skullport Merchant
+1 Mindless Automaton
+1 Elderfang Disciple
+1 Gray Merchant of Asphodel
+1 Maggot Carrier
+1 Fume Spitter
+1 Dusk Legion Zealot
+1 Novice Occultist
+1 Morbid Opportunist
+1 Yarok's Fenlurker
+1 Elvish Doomsayer
+1 Shambling Ghast
+1 Bone Shredder
+1 Pitiless Plunderer
+1 Leaden Myr
+1 Virus Beetle
+1 Disciple of Perdition
+1 Searchlight Companion
+1 Sling-Gang Lieutenant
+1 Ornithopter of Paradise
+1 Tattered Mummy
+1 Apprentice Necromancer
+1 Syr Konrad, the Grim
+1 Zulaport Cutthroat
+1 Vengeful Bloodwitch
+1 Abyssal Gatekeeper
+1 Viscera Seer
+1 Dunland Crebain
+1 Serrated Scorpion
+1 Burglar Rat
+1 Marionette Apprentice
+1 Cauldron Familiar
+1 Blood Pet
+1 Doomed Dissenter
+1 Lightning Coils
+1 Meekstone
+1 Sol Ring
+1 Lightning Greaves
+1 Feign Death
+1 Body Count
+1 Malakir Rebirth
+1 Village Rites
+1 Mausoleum Secrets
+1 Eviscerator's Insight
+1 Corrupted Conviction
+1 Undying Malice
+1 Plumb the Forbidden
+1 Deadly Dispute
+1 Dark Ritual
+1 Victimize
+1 Eaten Alive
+1 Diabolic Intent
+1 Torment of Hailfire
+1 Dread Return
+1 Feed the Swarm
+1 Bone Shards
+1 Blight Mound
+1 Dictate of Erebos
+1 Dark Privilege
+1 Grave Pact
+1 Bojuka Bog
+1 Witch's Cottage
+1 Nykthos, Shrine to Nyx
+1 Crypt of Agadeem
+1 Myriad Landscape
+1 Barren Moor
+1 Castle Locthwain
+1 Mortuary Mire
+23 Swamp
+1 Phyrexian Tower
+Sideboard
+1 Shirei, Shizo's Caretaker

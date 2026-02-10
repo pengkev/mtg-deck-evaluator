@@ -1,0 +1,69 @@
+1 Black Cat, Cunning Thief
+1 Blightsteel Colossus
+1 Emrakul, the Promised End
+1 Sire of Insanity
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Defiler
+1 Valgavoth, Terror Eater
+1 Void Winnower
+1 Chimil, the Inner Sun
+1 Rise of the Eldrazi
+1 Worldfire
+1 Blood Moon
+1 Access Tunnel
+1 Arena of Glory
+1 Badlands
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Cavern of Souls
+1 City of Traitors
+1 Command Beacon
+1 Command Tower
+1 Crystal Vein
+1 Demolition Field
+1 Dwarven Ruins
+1 Ebon Stronghold
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Ghost Quarter
+1 Graven Cairns
+1 Hall of the Bandit Lord
+1 Hanweir Battlements
+1 Homeward Path
+1 Horizon of Progress
+1 Jagged Barrens
+1 Keldon Megaliths
+1 Lake of the Dead
+1 Lavaclaw Reaches
+1 Luxury Suite
+1 Mirrex
+1 Mortuary Mire
+1 Mount Doom
+17 Mountain
+1 Nephalia Academy
+1 Peat Bog
+1 Plaza of Heroes
+1 Reflecting Pool
+1 Restless Vents
+1 Rogue's Passage
+1 Sandstone Needle
+1 Shadowblood Ridge
+1 Shizo, Death's Storehouse
+1 Sokenzan, Crucible of Defiance
+1 Strip Mine
+1 Sunken Citadel
+1 Sunscorched Desert
+17 Swamp
+1 Takenuma, Abandoned Mire
+1 Talon Gates of Madara
+1 Terrain Generator
+1 The Tabernacle at Pendrell Vale
+1 Tyrite Sanctum
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Vesuva
+1 Volatile Fault
+1 Wasteland
+1 Witch's Cottage
+Sideboard
+1 The Infamous Cruelclaw

@@ -1,0 +1,100 @@
+1 Cavern-Hoard Dragon
+1 Dualcaster Mage
+1 Goldhound
+1 Goldspan Dragon
+1 Grim Servant
+1 Hoarding Broodlord
+1 K'rrik, Son of Yawgmoth
+1 Knollspine Dragon
+1 Lathliss, Dragon Queen
+1 Mirrorwing Dragon
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Ruthless Technomancer
+1 Shadow the Hedgehog
+1 Simian Spirit Guide
+1 Spider-Punk
+1 Street Wraith
+1 Terror of the Peaks
+1 Treasonous Ogre
+1 Vilis, Broker of Blood
+1 Lotus Petal
+1 Big Score
+1 Burnt Offering
+1 Cabal Ritual
+1 Commune with Lava
+1 Crimson Wisps
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Entomb
+1 Fell the Profane
+1 Flare of Duplication
+1 Malakir Rebirth
+1 Pyretic Ritual
+1 Pyroblast
+1 Rain of Filth
+1 Return the Favor
+1 Sacrifice
+1 Saw in Half
+1 Seething Song
+1 Snuff Out
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Vampiric Tutor
+1 Ambition's Cost
+1 Ancient Craving
+1 Beseech the Queen
+1 Circle of Power
+1 Claim the Firstborn
+1 Dark Petition
+1 Demonic Tutor
+1 Dragonstorm
+1 Final Parting
+1 Increasing Ambition
+1 Jeska's Will
+1 Lively Dirge
+1 Mizzix's Mastery
+1 Molten Duplication
+1 Night's Whisper
+1 Path of the Pyromancer
+1 Pirate's Pillage
+1 Reanimate
+1 Seize the Spotlight
+1 Shatterskull Smashing
+1 Shreds of Sanity
+1 Sorceress's Schemes
+1 Stargaze
+1 Strike It Rich
+1 Syphon Mind
+1 Traitorous Greed
+1 Wild Ride
+1 Zenith Festival
+1 Black Market Connections
+1 Ripples of Undeath
+1 Underworld Breach
+1 Arid Mesa
+1 Barbarian Ring
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cabal Pit
+1 City of Brass
+1 Graven Cairns
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mountain
+1 Peat Bog
+1 Polluted Delta
+1 Raucous Theater
+1 Sandstone Needle
+1 Starting Town
+1 Sulfurous Springs
+2 Swamp
+1 Tarnished Citadel
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Rowan, Scion of War

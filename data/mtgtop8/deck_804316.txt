@@ -1,0 +1,101 @@
+1 Acidic Slime
+1 Avenger of Zendikar
+1 Baleful Strix
+1 Birds of Paradise
+1 Cloud of Faeries
+1 Coiling Oracle
+1 Craterhoof Behemoth
+1 Deadeye Navigator
+1 Displacer Kitten
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Kodama of the East Tree
+1 Lotus Cobra
+1 Mulldrifter
+1 Ob Nixilis, the Fallen
+1 Peregrine Drake
+1 Shrieking Drake
+1 Soul of the Harvest
+1 Starfield Vocalist
+1 Tatyova, Benthic Druid
+1 Thassa's Oracle
+1 Tireless Provisioner
+1 Urborg Elf
+1 Uro, Titan of Nature's Wrath
+1 Venser, Shaper Savant
+1 Arcane Signet
+1 Mana Vault
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Resilience
+1 Assassin's Trophy
+1 Chord of Calling
+1 Dark Ritual
+1 Demonic Consultation
+1 Dismember
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Ghostly Flicker
+1 Krosan Grip
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Shared Summons
+1 Summoner's Pact
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Exsanguinate
+1 Farseek
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Neoform
+1 Tooth and Nail
+1 Mystic Remora
+1 Rhystic Study
+1 Wild Growth
+1 Agna Qel'a
+1 Barkchannel Pathway
+1 Blooming Marsh
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Breeding Pool
+1 Command Tower
+1 Darkslick Shores
+1 Drowned Catacomb
+1 Dryad Arbor
+1 Exotic Orchard
+1 Fetid Pools
+1 Flooded Grove
+1 Forest
+1 Golgari Rot Farm
+1 Island
+1 Llanowar Wastes
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Sunken Ruins
+1 Swamp
+1 Temple of Deceit
+1 Temple of Mystery
+1 Twilight Mire
+1 Underground River
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Watery Grave
+1 Woodland Cemetery
+1 Yavimaya Coast
+Sideboard
+1 Yarok, the Desecrated

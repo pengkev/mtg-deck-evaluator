@@ -1,0 +1,84 @@
+1 Alseid of Life's Bounty
+1 Goblin Chirurgeon
+1 Benevolent Bodyguard
+1 Impulsive Pilferer
+1 Selfless Savior
+1 Signal Pest
+1 Loyal Apprentice
+1 Goblin Instigator
+1 Goblin Cratermaker
+1 Iron Myr
+1 Ethersworn Canonist
+1 Ornithopter of Paradise
+1 Grand Abolisher
+1 Loyal Warhound
+1 Phyrexian Revoker
+1 Cathar Commando
+1 Gold Myr
+1 Oreskos Explorer
+1 Thalia, Guardian of Thraben
+1 Spirit of the Labyrinth
+1 Selfless Spirit
+1 Knight of the White Orchid
+1 Phyrexian Censor
+1 Combat Celebrant
+1 Aven Mindcensor
+1 Legion Warboss
+1 Howlsquad Heavy
+1 Skyclave Apparition
+1 Sanctum Prelate
+1 Archon of Emeria
+1 Simian Spirit Guide
+1 Eidolon of Rhetoric
+1 Mirror Entity
+1 Claim Jumper
+1 Thalia, Heretic Cathar
+1 Brutal Cathar
+1 Boromir, Warden of the Tower
+1 Goblin Rabblemaster
+1 Blade Historian
+1 Flamescroll Celebrant
+1 Alexios, Deimos of Kosmos
+1 Goldnight Commander
+1 Gerrard, Weatherlight Hero
+1 Pia and Kiran Nalaar
+1 Knight-Captain of Eos
+1 Rionya, Fire Dancer
+1 Geist-Honored Monk
+1 Lena, Selfless Champion
+1 Captain of the Watch
+1 Angrath's Marauders
+1 Sol Ring
+1 Lightning Greaves
+1 Swords to Plowshares
+1 Surge of Salvation
+1 Red Elemental Blast
+1 Silence
+1 Mana Tithe
+1 Angel's Grace
+1 Untimely Malfunction
+1 Frontline Rush
+1 Calamity's Wake
+1 Razorgrass Ambush
+1 Reprieve
+1 Raise the Alarm
+1 Boros Charm
+1 Flare of Fortitude
+1 Glimpse the Impossible
+1 Deafening Silence
+1 Rule of Law
+1 Touch the Spirit Realm
+1 Kher Keep
+1 Radiant Summit
+1 Sunscorched Divide
+1 Boros Garrison
+1 Blinkmoth Nexus
+9 Plains
+10 Mountain
+1 Mishra's Factory
+1 Clifftop Retreat
+1 Command Tower
+1 Path of Ancestry
+1 Battlefield Forge
+Sideboard
+2 Winota, Joiner of Forces

@@ -1,0 +1,75 @@
+1 Yorvo, Lord of Garenbrig
+1 Gargos, Vicious Watcher
+1 Hua Tuo, Honored Physician
+1 Renata, Called to the Hunt
+1 Kogla, the Titan Ape
+1 Nissa, Vastwood Seer
+1 Kolvori, God of Kinship
+1 Forgotten Ancient
+1 Rhonas the Indomitable
+1 Vorinclex
+1 Radagast the Brown
+1 Legolas Greenleaf
+1 Rishkar, Peema Renegade
+1 Loyal Guardian
+1 Susan Foreman
+1 Ojer Kaslem, Deepest Growth
+1 Ohran Frostfang
+1 Sakura-Tribe Elder
+1 Saryth, the Viper's Fang
+1 Toski, Bearer of Secrets
+1 Cazur, Ruthless Stalker
+1 Kodama of the East Tree
+1 Tyvar, the Pummeler
+1 Braulios of Pheres Band
+1 Sutina, Speaker of the Tajuru
+1 Loot, Exuberant Explorer
+1 Terrian, World Tyrant
+1 Oviya, Automech Artisan
+1 Timeless Witness
+1 Rampart Architect
+1 Arasta of the Endless Web
+1 Sol Ring
+1 Heroes' Podium
+1 Lifecrafter's Bestiary
+1 Tome of Legends
+1 Emerald Medallion
+1 Herd Heirloom
+1 Return of the Wildspeaker
+1 Beast Within
+1 Fog
+1 Heroic Intervention
+1 Khalni Ambush
+1 Hunter's Insight
+1 Collective Resistance
+1 Inspiring Call
+1 Heritage Reclamation
+1 Smuggler's Surprise
+1 Rampant Growth
+1 Kamahl's Druidic Vow
+1 Nature's Lore
+1 Bala Ged Recovery
+1 Shamanic Revelation
+1 Rishkar's Expertise
+1 The Ring Goes South
+1 Bridgeworks Battle
+1 Viewpoint Synchronization
+1 Ezuri's Predation
+1 Cultivate
+1 Rite of Passage
+1 Unnatural Growth
+1 Glorious Sunrise
+1 Family's Favor
+1 Colossal Majesty
+1 Garruk's Uprising
+1 Castle Garenbrig
+1 Reliquary Tower
+1 War Room
+1 Guildless Commons
+1 Scavenger Grounds
+1 Demolition Field
+1 Bonders' Enclave
+1 Ash Barrens
+27 Forest
+Sideboard
+1 Casal, Lurkwood Pathfinder

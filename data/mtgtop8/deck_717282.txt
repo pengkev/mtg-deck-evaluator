@@ -1,0 +1,90 @@
+1 Felidar Guardian
+1 Sun Titan
+1 Electrostatic Pummeler
+1 Goldspan Dragon
+1 Professional Face-Breaker
+1 Aragorn, King of Gondor
+1 Volatile Stormdrake
+1 Amped Raptor
+1 Roil Cartographer
+1 Guide of Souls
+1 Blaster Hulk
+1 Aurora Shifter
+1 Sphinx of the Revelation
+1 Aetherstorm Roc
+1 Skyclave Apparition
+1 Salvation Colossus
+1 Razorfield Ripper
+1 Burnished Hart
+1 Whirler Rogue
+1 Lightning Runner
+1 Aethersquall Ancient
+1 Whirler Virtuoso
+1 Combustible Gearhulk
+1 Solemn Simulacrum
+1 Reckless Fireweaver
+1 Grenzo, Havoc Raiser
+1 Dr. Madison Li
+1 Liberty Prime, Recharged
+1 Cayth, Famed Mechanist
+1 Talisman of Creativity
+1 Sol Ring
+1 Arcane Signet
+1 Aether Refinery
+1 Izzet Generatorium
+1 Unstable Amulet
+1 Solar Transformer
+1 Filigree Racer
+1 Conversion Apparatus
+1 Stone Idol Generator
+1 Gonti's Aether Heart
+1 Hourglass of the Lost
+1 Coalition Relic
+1 Coveted Jewel
+1 Decoction Module
+1 Panharmonicon
+1 Azorius Signet
+1 Talisman of Progress
+1 Talisman of Conviction
+1 Wayfarer's Bauble
+1 Bespoke Battlewagon
+1 Aetherworks Marvel
+1 Swords to Plowshares
+1 Tune the Narrative
+1 Akroma's Will
+1 Glimmer of Genius
+1 Electrosiphon
+1 Farewell
+1 Localized Destruction
+1 Jolted Awake
+1 Confiscation Coup
+1 Fabricate
+1 Aether Revolt
+1 Saheeli Rai
+1 Aether Hub
+1 Izzet Boilerworks
+1 Hallowed Fountain
+1 Bloodstained Mire
+1 Shivan Reef
+1 Steam Vents
+1 Port Town
+1 Command Tower
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Prairie Stream
+1 Demolition Field
+1 Castle Vantress
+1 Mystic Gate
+1 Spire of Industry
+1 Temple of Epiphany
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Battlefield Forge
+1 Temple of Triumph
+1 Mystic Monastery
+1 Temple of Enlightenment
+3 Island
+4 Mountain
+7 Plains
+Sideboard
+1 Satya, Aetherflux Genius

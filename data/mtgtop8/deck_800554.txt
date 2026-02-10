@@ -1,0 +1,75 @@
+1 Baleful Strix
+1 Changeling Outcast
+1 Cloud of Faeries
+1 Dimir Infiltrator
+1 Faerie Seer
+1 Fourth Bridge Prowler
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Hydroelectric Specimen
+1 Illvoi Galeblade
+1 Ingenious Infiltrator
+1 Ingenious Prodigy
+1 Inkrise Infiltrator
+1 Mirrorshell Crab
+1 Moon-Circuit Hacker
+1 Mothdust Changeling
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Prosperous Thief
+1 Saiba Cryptomancer
+1 Saprazzan Legate
+1 Shadow of Mortality
+1 Silver Raven
+1 Silver-Fur Master
+1 Siren Stormtamer
+1 Skullsnatcher
+1 Snarling Gorehound
+1 Spectral Sailor
+1 Street Wraith
+1 Tetsuko Umezawa, Fugitive
+1 Thassa's Oracle
+1 Thousand-Faced Shadow
+1 Universal Automaton
+1 Windcaller Aven
+1 Wingcrafter
+1 Arcane Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Commandeer
+1 Demonic Consultation
+1 Dig Through Time
+1 Dispel
+1 Filter Out
+1 Foil
+1 Lim-Dul's Vault
+1 Mausoleum Secrets
+1 Memory Lapse
+1 Miscast
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Negate
+1 Rapid Hybridization
+1 Submerge
+1 Wash Away
+1 Waterlogged Teachings
+1 Crippling Fear
+1 Eagle Vision
+1 Ringsight
+1 Scheming Symmetry
+1 Step Through
+1 Temporal Trespass
+1 Treasure Cruise
+1 Zof Consumption
+1 Mystic Remora
+1 Command Tower
+1 Drowned Catacomb
+16 Island
+1 Mystic Sanctuary
+1 Sunken Hollow
+12 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

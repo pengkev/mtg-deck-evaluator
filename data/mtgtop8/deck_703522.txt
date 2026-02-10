@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Mayhem Devil
+1 Orcish Lumberjack
+1 Tinder Wall
+1 Sylvan Safekeeper
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Krosan Wayfarer
+1 Endurance
+1 Elvish Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Nissa, Resurgent Animist
+1 Orcish Bowmasters
+1 Impulsive Pilferer
+1 Wild Cantor
+1 Aftermath Analyst
+1 Lumra, Bellow of the Woods
+1 Six
+1 Ignoble Hierarch
+1 Deathrite Shaman
+1 Alesha, Who Laughs at Fate
+1 Ruthless Technomancer
+1 Tireless Provisioner
+1 Spinner of Souls
+1 Chrome Mox
+1 Lotus Petal
+1 Grim Monolith
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Sol Ring
+1 Veil of Summer
+1 Dark Ritual
+1 Ad Nauseam
+1 Pyroblast
+1 Red Elemental Blast
+1 Vampiric Tutor
+1 Crop Rotation
+1 Worldly Tutor
+1 Deflecting Swat
+1 Chord of Calling
+1 Assassin's Trophy
+1 Abrupt Decay
+1 Ghostfire Slice
+1 Cabal Ritual
+1 Culling the Weak
+1 Summoner's Pact
+1 Rain of Filth
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Diabolic Intent
+1 Life from the Loam
+1 Lively Dirge
+1 Toxic Deluge
+1 Rite of Flame
+1 Reanimate
+1 Culling Ritual
+1 Animate Dead
+1 Squandered Resources
+1 Dance of the Dead
+1 Underworld Breach
+1 Sylvan Library
+1 Exploration
+1 Carpet of Flowers
+1 City of Brass
+1 City of Traitors
+1 Stomping Ground
+1 Misty Rainforest
+1 Scalding Tarn
+1 Urborg, Tomb of Yawgmoth
+1 Ancient Tomb
+1 Emergence Zone
+1 Command Tower
+1 Mana Confluence
+1 Blood Crypt
+1 Overgrown Tomb
+1 Gaea's Cradle
+1 Badlands
+1 Bayou
+1 Taiga
+1 Phyrexian Tower
+1 Lake of the Dead
+1 Forest
+1 Swamp
+1 Undergrowth Stadium
+1 Gemstone Caverns
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Luxury Suite
+1 Exotic Orchard
+1 Bloodstained Mire
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Dryad Arbor
+Sideboard
+1 Korvold, Fae-Cursed King

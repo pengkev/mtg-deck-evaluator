@@ -1,0 +1,86 @@
+1 Alania, Divergent Storm
+1 Ashling, Flame Dancer
+1 Baral and Kari Zev
+1 Beamsaw Prospector
+1 Brokers Veteran
+1 Cormela, Glamour Thief
+1 Dire Fleet Hoarder
+1 Dogged Detective
+1 Galazeth Prismari
+1 Goblin Electromancer
+1 Guildsworn Prowler
+1 Hexing Squelcher
+1 Lagomos, Hand of Hatred
+1 Lier, Disciple of the Drowned
+1 Mercurial Spelldancer
+1 Piggy Bank
+1 Riveteers Requisitioner
+1 Scalding Viper
+1 Sneaky Snacker
+1 Storm-Kiln Artist
+1 The Emperor of Palamecia
+1 Thunderclap Drake
+1 Timeline Culler
+1 Big Score
+1 Curtains' Call
+1 Demand Answers
+1 Display of Power
+1 Fell the Profane
+1 Fire Covenant
+1 Flare of Duplication
+1 Kill! Maim! Burn!
+1 Maestros Charm
+1 Pongify
+1 Rapid Hybridization
+1 Return the Favor
+1 Thrill of Possibility
+1 Tragic Slip
+1 Unexpected Windfall
+1 Vampires' Vengeance
+1 Waterlogged Teachings
+1 Baral's Expertise
+1 Blood Tithe
+1 Bribery
+1 Cathartic Reunion
+1 Cruel Ultimatum
+1 Dark Petition
+1 Dream Harvest
+1 Ensnared by the Mara
+1 Exsanguinate
+1 Fiery Confluence
+1 Gravedig
+1 Inspired Tinkering
+1 Mob Verdict
+1 New Blood
+1 Pirate's Pillage
+1 Pirate's Prize
+1 Prisoner's Dilemma
+1 Rush of Dread
+1 Seize the Spoils
+1 Seize the Spotlight
+1 Slave of Bolas
+1 Chandra, Hope's Beacon
+1 Professor Onyx
+1 Ral, Storm Conduit
+1 Command Tower
+1 Crumbling Necropolis
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Ferrous Lake
+6 Island
+1 Izzet Boilerworks
+7 Mountain
+1 Rakdos Carnarium
+1 Seething Landscape
+1 Shadowblood Ridge
+1 Shivan Reef
+1 Sulfur Falls
+1 Sulfurous Springs
+5 Swamp
+1 Underground River
+1 Watery Grave
+Sideboard
+1 Anhelo, the Painter

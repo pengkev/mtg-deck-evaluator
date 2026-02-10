@@ -1,0 +1,101 @@
+1 Pitiless Plunderer
+1 Blood Artist
+1 Zulaport Cutthroat
+1 Viscera Seer
+1 Grand Abolisher
+1 Leonin Relic-Warder
+1 Academy Rector
+1 Weathered Wayfarer
+1 Dark Confidant
+1 Carrion Feeder
+1 Recruiter of the Guard
+1 Ranger-Captain of Eos
+1 Vesperlark
+1 Lurrus of the Dream-Den
+1 Esper Sentinel
+1 Shambling Ghast
+1 Ao, the Dawn Sky
+1 Body Launderer
+1 Archivist of Oghma
+1 Ratadrabik of Urborg
+1 Activated Sleeper
+1 Boromir, Warden of the Tower
+1 Samwise the Stouthearted
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Greedy Freebooter
+1 Marionette Apprentice
+1 Stridehangar Automaton
+1 Mox Amber
+1 Springleaf Drum
+1 Skullclamp
+1 Spawning Pit
+1 Blasting Station
+1 Mana Vault
+1 Phyrexian Altar
+1 Sol Ring
+1 Altar of Dementia
+1 Chrome Mox
+1 Lotus Petal
+1 Talisman of Hierarchy
+1 Arcane Signet
+1 Weatherlight Compleated
+1 The One Ring
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Path to Exile
+1 Culling the Weak
+1 Dark Ritual
+1 Swords to Plowshares
+1 Silence
+1 Entomb
+1 Cabal Ritual
+1 Deadly Rollick
+1 Surge of Salvation
+1 Demonic Tutor
+1 Reanimate
+1 Diabolic Intent
+1 Open the Armory
+1 Toxic Deluge
+1 Sevinne's Reclamation
+1 Damn
+1 Animate Dead
+1 Necromancy
+1 Smothering Tithe
+1 Deafening Silence
+1 Urza's Saga
+1 The Meathook Massacre
+1 Life Insurance
+1 Black Market Connections
+1 Trouble in Pairs
+1 Plains
+1 Swamp
+1 Isolated Chapel
+1 Cavern of Souls
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Exotic Orchard
+1 Fetid Heath
+1 Godless Shrine
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Scrubland
+1 Urborg, Tomb of Yawgmoth
+1 Reflecting Pool
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Command Tower
+1 Silent Clearing
+1 Brightclimb Pathway
+1 Vault of Champions
+1 Takenuma, Abandoned Mire
+1 Shadowy Backstreet
+1 Lazotep Quarry
+1 Bleachbone Verge
+Sideboard
+1 Teysa Karlov

@@ -1,0 +1,88 @@
+1 Baral, Chief of Compliance
+1 Harbinger of the Seas
+1 Laboratory Maniac
+1 Malevolent Hermit
+1 Patron Wizard
+1 Silent Arbiter
+1 Snapcaster Mage
+1 Spellseeker
+1 Tribute Mage
+1 Trinket Mage
+1 Voidmage Prodigy
+1 Walking Ballista
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Gilded Lotus
+1 Grim Monolith
+1 Isochron Scepter
+1 Lithoform Engine
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Thran Dynamo
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Chain of Vapor
+1 Counterspell
+1 Cyclonic Rift
+1 Dig Through Time
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gush
+1 Long-Term Plans
+1 Mana Drain
+1 Mental Misstep
+1 Misdirection
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Rapid Hybridization
+1 Resculpt
+1 Stifle
+1 Swan Song
+1 Whir of Invention
+1 Curse of the Swine
+1 Fabricate
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Reshape
+1 Time Spiral
+1 Windfall
+1 Back to Basics
+1 Copy Artifact
+1 Mind Over Matter
+1 Mystic Remora
+1 Rhystic Study
+1 Teferi's Ageless Insight
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Tezzeret the Seeker
+1 Academy Ruins
+1 Ancient Tomb
+1 Buried Ruin
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Flooded Strand
+1 Inventors' Fair
+14 Island
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Seat of the Synod
+Sideboard
+1 Azami, Lady of Scrolls

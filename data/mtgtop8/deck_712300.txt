@@ -1,0 +1,101 @@
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Underground River
+1 Cavern of Souls
+1 Watery Grave
+1 Hallowed Fountain
+1 Godless Shrine
+1 Vault of Champions
+1 Morphic Pool
+1 Gemstone Caverns
+1 Cephalid Coliseum
+1 Windswept Heath
+1 Polluted Delta
+1 Bloodstained Mire
+1 Underground Sea
+1 Tundra
+1 Scrubland
+1 Mana Confluence
+1 Scalding Tarn
+1 Marsh Flats
+1 Misty Rainforest
+1 Bazaar of Baghdad
+1 Ancient Tomb
+1 Sea of Clouds
+1 Smothering Tithe
+1 Mystic Remora
+1 Urza's Saga
+1 Necropotence
+1 Tortured Existence
+1 Rhystic Study
+1 Steal Enchantment
+1 Reanimate
+1 Demonic Tutor
+1 Imperial Seal
+1 Transmute Artifact
+1 An Offer You Can't Refuse
+1 Swords to Plowshares
+1 Sink into Stupor
+1 Pact of Negation
+1 Frantic Search
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Commandeer
+1 Swan Song
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Dark Ritual
+1 Force of Will
+1 Force of Negation
+1 Silence
+1 Angel's Grace
+1 Tainted Pact
+1 Mindbreak Trap
+1 Flusterstorm
+1 Demonic Consultation
+1 Mental Misstep
+1 Cabal Ritual
+1 Wishclaw Talisman
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 The One Ring
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Time Sieve
+1 Mox Opal
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Paradise Mantle
+1 Pollywog Prodigy
+1 Kitsa, Otterball Elite
+1 Esper Sentinel
+1 Witch Enchanter
+1 Ghostly Pilferer
+1 Grand Abolisher
+1 Psychic Frog
+1 Talion, the Kindly Lord
+1 Razaketh, the Foulblooded
+1 Notion Thief
+1 Orcish Bowmasters
+1 Jin-Gitaxias, Core Augur
+1 Vohar, Vodalian Desecrator
+1 Consecrated Sphinx
+1 Archivist of Oghma
+1 Tivit, Seller of Secrets
+1 Ranger-Captain of Eos
+1 Wandering Archaic
+1 Leveler
+1 Opposition Agent
+1 Elesh Norn, Grand Cenobite
+1 Nezahal, Primal Tide
+1 Drannith Magistrate
+1 Thassa's Oracle
+1 Void Winnower
+Sideboard
+1 Hashaton, Scarab's Fist

@@ -1,0 +1,93 @@
+1 Niv-Mizzet, Parun
+1 Young Pyromancer
+1 Storm-Kiln Artist
+1 Archmage Emeritus
+1 Johann, Apprentice Sorcerer
+1 Stormcatch Mentor
+1 Shiko and Narset, Unified
+1 Caldera Pyremaw
+1 Monastery Mentor
+1 Runescale Stormbrood
+1 Veyran, Voice of Duality
+1 Velomachus Lorehold
+1 Lier, Disciple of the Drowned
+1 Baral and Kari Zev
+1 Manaform Hellkite
+1 Third Path Iconoclast
+1 Haughty Djinn
+1 Flamehold Grappler
+1 Bria, Riptide Rogue
+1 Izzet Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Boros Signet
+1 Arcane Signet
+1 Azorius Signet
+1 Unleash Fury
+1 Expansion/Explosion
+1 Narset's Reversal
+1 Brainstorm
+1 Swords to Plowshares
+1 Counterspell
+1 Pongify
+1 Big Score
+1 Frantic Search
+1 Rush of Inspiration
+1 Sink into Stupor
+1 Sazacap's Brew
+1 Abrade
+1 Transforming Flourish
+1 Sublime Epiphany
+1 Prismari Command
+1 Think Twice
+1 New Way Forward
+1 Narset's Rebuke
+1 Mana Geyser
+1 Lorien Revealed
+1 Preordain
+1 Sundering Eruption
+1 Faithless Looting
+1 Eagle Vision
+1 Time Wipe
+1 Ancestral Anger
+1 Seize the Storm
+1 Vanquish the Horde
+1 Dismantling Wave
+1 Baral's Expertise
+1 Ancestral Vision
+1 Ghostly Prison
+1 Combat Research
+1 Rediscover the Way
+1 Aligned Heart
+1 Tempest Technique
+1 Whirlwind of Thought
+1 Will Kenrith
+1 Chandra, Hope's Beacon
+1 Ral, Crackling Wit
+4 Mountain
+4 Plains
+1 Reliquary Tower
+1 Battlefield Forge
+1 Command Tower
+1 Temple of Epiphany
+1 Prairie Stream
+1 Exotic Orchard
+1 Ash Barrens
+1 Irrigated Farmland
+1 Perilous Landscape
+1 Clifftop Retreat
+1 Skycloud Expanse
+1 Temple of Triumph
+1 Terramorphic Expanse
+1 Temple of Enlightenment
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Cascade Bluffs
+1 Ferrous Lake
+1 Sulfur Falls
+1 Mystic Monastery
+1 Rugged Prairie
+1 Mistrise Village
+3 Island
+Sideboard
+1 Elsha, Threefold Master

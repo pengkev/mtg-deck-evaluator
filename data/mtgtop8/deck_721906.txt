@@ -1,0 +1,73 @@
+1 Capsize
+1 Comparative Analysis
+1 Counterspell
+1 Deprive
+1 Dispel
+1 Dizzy Spell
+1 Focus the Mind
+1 Ghostly Flicker
+1 Growth Spiral
+1 Gush
+1 Harrow
+1 Heritage Reclamation
+1 High Tide
+1 Into the Roil
+1 Mana Leak
+1 Frantic Search
+1 Brainstorm
+1 Expedition Map
+1 Prophetic Prism
+1 Relic of Progenitus
+1 Arcane Denial
+1 Blink of an Eye
+1 Memory Lapse
+1 Preordain
+1 Rampant Growth
+1 Stream of Thought
+1 Three Visits
+1 Treasure Cruise
+1 Deep Freeze
+1 Merchant Scroll
+1 Witness Protection
+1 Stasis Field
+1 Moment of Truth
+1 Moment's Peace
+1 Muddle the Mixture
+1 Negate
+1 Peek
+1 Repeal
+1 Ponder
+1 Whispers of the Muse
+1 Compulsive Research
+1 Cultivate
+1 Deep Analysis
+1 Explore
+1 Farseek
+1 Gitaxian Probe
+1 Kodama's Reach
+1 Lorien Revealed
+1 Tidal Bore
+1 Archaeomancer
+1 Drift of Phantasms
+1 Elfsworn Giant
+1 Llanowar Scout
+1 Marauding Brinefang
+1 Mnemonic Wall
+1 Peregrine Drake
+1 Sakura-Tribe Scout
+1 Scaled Herbalist
+1 Shoreline Ranger
+1 Skyshroud Ranger
+1 Walking Atlas
+1 Shipwreck Dowser
+1 Command Tower
+1 Escape Tunnel
+1 Evolving Wilds
+1 Mystic Sanctuary
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+1 Thornwood Falls
+12 Forest
+18 Island
+Sideboard
+1 Tatyova, Benthic Druid

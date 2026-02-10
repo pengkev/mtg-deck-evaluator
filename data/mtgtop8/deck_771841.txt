@@ -1,0 +1,92 @@
+1 Elvish Mystic
+1 Carrion Feeder
+1 Icatian Moneychanger
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Quirion Ranger
+1 Benevolent Bodyguard
+1 Avacyn's Pilgrim
+1 Young Wolf
+1 Elves of Deep Shadow
+1 Joraga Treespeaker
+1 Fauna Shaman
+1 Armored Scrapgorger
+1 Bartolomé del Presidio
+1 Devoted Druid
+1 Dauntless Dismantler
+1 Basking Broodscale
+1 Incubation Druid
+1 Wall of Roots
+1 Phyrexian Revoker
+1 Twitching Doll
+1 Priest of Titania
+1 Gaddock Teeg
+1 Scryb Ranger
+1 Marvin, Murderous Mimic
+1 Strangleroot Geist
+1 Phyrexian Censor
+1 Manglehorn
+1 Enduring Vitality
+1 Eidolon of Rhetoric
+1 White Plume Adventurer
+1 Warden of the Grove
+1 Breena, the Demagogue
+1 Archon of Emeria
+1 Skyclave Apparition
+1 Aven Interrupter
+1 Faeburrow Elder
+1 Village Bell-Ringer
+1 Rosie Cotton of South Lane
+1 Nullmage Advocate
+1 Pulsemage Advocate
+1 Yisan, the Wanderer Bard
+1 Aven Mindcensor
+1 Rishkar, Peema Renegade
+1 Patrolling Peacemaker
+1 Lotus Bloom
+1 Sol Ring
+1 Disruptor Flute
+1 Lightning Greaves
+1 Dubious Delicacy
+1 Ashnod's Altar
+1 Chord of Calling
+1 Lively Dirge
+1 Nature's Rhythm
+1 Utopia Sprawl
+1 Wild Growth
+1 Deafening Silence
+1 Nature's Chosen
+1 Static Prison
+1 Cryptolith Rite
+1 Seal of Primordium
+1 Touch the Spirit Realm
+1 Growing Rites of Itlimoc
+1 Rule of Law
+1 The Huntsman's Redemption
+1 Leyline of Abundance
+1 Tyvar, Jubilant Brawler
+1 Vernal Fen
+1 Woodland Cemetery
+1 Exotic Orchard
+1 Sunpetal Grove
+1 Gavony Township
+1 Blooming Marsh
+1 Canopy Vista
+1 Brushland
+1 Centaur Garden
+1 Concealed Courtyard
+4 Plains
+1 Swamp
+1 Fortified Village
+1 Command Tower
+1 Great Hall of the Citadel
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Thran Portal
+1 Murmuring Bosk
+1 Ash Barrens
+7 Forest
+1 Isolated Chapel
+1 Deceptive Landscape
+Sideboard
+1 Tayam, Luminous Enigma

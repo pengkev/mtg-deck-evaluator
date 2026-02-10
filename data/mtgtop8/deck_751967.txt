@@ -1,0 +1,101 @@
+1 Abstergo Entertainment
+1 Adarkar Wastes
+1 Amphibian Downpour
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Arcane Signet
+1 Archivist of Oghma
+1 Arid Mesa
+1 Azorius Signet
+1 Blatant Thievery
+1 Bleachbone Verge
+1 Blind Obedience
+1 Bloodstained Mire
+1 Caves of Koilos
+1 Command Tower
+1 Concealed Courtyard
+1 Containment Priest
+1 Cyclonic Rift
+1 Dark Ritual
+1 Darkslick Shores
+1 Dauthi Voidwalker
+1 Demonic Consultation
+1 Deserted Beach
+1 Diluvian Primordial
+1 Dimir Signet
+1 Dismember
+1 Dovin's Veto
+1 Drowned Catacomb
+1 Eiganjo, Seat of the Empire
+1 Esper Sentinel
+1 Exotic Orchard
+1 Faerie Mastermind
+1 Farewell
+1 Fellwar Stone
+1 Flooded Strand
+1 Force of Negation
+1 Glacial Fortress
+1 Godless Shrine
+1 Grand Abolisher
+1 Grim Tutor
+1 Hallowed Fountain
+1 Hullbreaker Horror
+1 Imposter Mech
+1 Into the Flood Maw
+1 Island
+1 Isolated Chapel
+1 Lotho, Corrupt Shirriff
+1 Lotus Petal
+1 Mana Drain
+1 Marsh Flats
+1 Meticulous Archive
+1 Mistrise Village
+1 Muddle the Mixture
+1 Mystic Gate
+1 Mystic Remora
+1 Orzhov Signet
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Phyrexian Metamorph
+1 Plains
+1 Polluted Delta
+1 Praetor's Grasp
+1 Preordain
+1 Profane Tutor
+1 Reflecting Pool
+1 Reliquary Tower
+1 Seachrome Coast
+1 Shadowy Backstreet
+1 Sheoldred, the Apocalypse
+1 Silence
+1 Sol Ring
+1 Solitude
+1 Spellskite
+1 Sudden Spoiling
+1 Sunken Ruins
+1 Supreme Verdict
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi, Time Raveler
+1 Telepathy
+1 Terminus
+1 Thassa's Oracle
+1 The One Ring
+1 Thought Vessel
+1 Time Sieve
+1 Toxic Deluge
+1 Undercity Sewers
+1 Underground River
+1 Urza's Saga
+1 Voice of Victory
+1 Wash Away
+1 Whir of Invention
+1 Windswept Heath
+1 Wishclaw Talisman
+Sideboard
+1 Tivit, Seller of Secrets

@@ -1,0 +1,85 @@
+1 One with the Multiverse
+1 Combat Research
+1 Rhystic Study
+1 Steal Enchantment
+1 Stock Up
+1 Expropriate
+1 Eagle Vision
+1 Tezzeret's Gambit
+1 Rise of the Eldrazi
+1 Personal Tutor
+1 Capture of Jingzhou
+1 Time Stretch
+1 Ponder
+1 Solve the Equation
+1 Time Warp
+1 Walk the Aeons
+1 Alrund's Epiphany
+1 Sea Gate Restoration
+1 Merchant Scroll
+1 Karn's Temporal Sundering
+1 Aminatou's Augury
+1 Temporal Trespass
+1 Contentious Plan
+1 Temporal Mastery
+1 Temporal Manipulation
+1 Enter the Infinite
+1 Pongify
+1 An Offer You Can't Refuse
+1 Experimental Augury
+1 Into the Flood Maw
+1 Sink into Stupor
+1 Strix Serenade
+1 Reenact the Crime
+1 Ripples of Potential
+1 Fierce Guardianship
+1 Commandeer
+1 Reject Imperfection
+1 Serum Snare
+1 Mystical Tutor
+1 Force of Will
+1 Mana Drain
+1 Delay
+1 Gush
+1 Mindbreak Trap
+1 Swan Song
+1 Pact of Negation
+1 Misdirection
+1 Mental Misstep
+1 Brainstorm
+1 Force of Negation
+1 Flusterstorm
+1 Spell Snare
+1 Foil
+1 Daze
+1 Swiftfoot Boots
+1 Leyline Axe
+1 Lightning Greaves
+1 Lavaspur Boots
+1 The One Ring
+1 Staff of Compleation
+1 Mana Vault
+1 Strionic Resonator
+1 Mox Diamond
+1 Throne of Geth
+1 Chrome Mox
+1 Sol Ring
+1 Lotus Petal
+1 Hydroelectric Specimen
+1 Roaming Throne
+1 Nezahal, Primal Tide
+1 Scholar of the Lost Trove
+1 Thassa's Oracle
+1 Emrakul, the Promised End
+1 Polluted Delta
+1 Flooded Strand
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Scalding Tarn
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Urza's Saga
+17 Snow-Covered Island
+Sideboard
+1 Malcolm, Alluring Scoundrel

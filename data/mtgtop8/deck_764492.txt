@@ -1,0 +1,97 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Calix, Guided by Fate
+1 Champion of Lambholt
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Containment Priest
+1 Delighted Halfling
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Fanatic of Rhonas
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Gilded Goose
+1 Halvar, God of Battle
+1 Kataki, War's Wage
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Ocelot Pride
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Censor
+1 Phyrexian Revoker
+1 Ranger-Captain of Eos
+1 Rug of Smothering
+1 Sanctum Prelate
+1 Sanctum Weaver
+1 Serra Ascendant
+1 Springheart Nantuko
+1 Sylvan Safekeeper
+1 Witch Enchanter
+1 Yasharn, Implacable Earth
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Lotus Petal
+1 Null Rod
+1 Sol Ring
+1 Crop Rotation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Galadriel's Dismissal
+1 Legolas's Quick Reflexes
+1 Path to Exile
+1 Reverent Mantra
+1 Silence
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Pick Your Poison
+1 Carpet of Flowers
+1 Deafening Silence
+1 Dollmaker's Shop/Porcelain Gallery
+1 Greater Auramancy
+1 Land Tax
+1 Meltstrider's Resolve
+1 Root Maze
+1 Stony Silence
+1 Suppression Field
+1 Survival of the Fittest
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Wild Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Brushland
+1 Cavern of Souls
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Exotic Orchard
+1 Flagstones of Trokair
+3 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Horizon Canopy
+1 Hushwood Verge
+1 Mana Confluence
+3 Plains
+1 Razorverge Thicket
+1 Serra's Sanctum
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Temple Garden
+1 Wooded Bastion
+Sideboard
+1 Ellivere of the Wild Court

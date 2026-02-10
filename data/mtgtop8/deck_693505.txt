@@ -1,0 +1,101 @@
+1 Teardrop Kami
+1 Spellseeker
+1 Ragavan, Nimble Pilferer
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Kitsa, Otterball Elite
+1 Simian Spirit Guide
+1 Faerie Mastermind
+1 Dragon's Rage Channeler
+1 Marvin, Murderous Mimic
+1 Sensei's Divining Top
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Mox Diamond
+1 Mana Vault
+1 Chrome Mox
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Creativity
+1 Izzet Signet
+1 Arcane Signet
+1 Mox Opal
+1 The One Ring
+1 Lotus Petal
+1 Brain Freeze
+1 Intuition
+1 Red Elemental Blast
+1 Refocus
+1 Pyroblast
+1 Twitch
+1 Expedite
+1 Dramatic Reversal
+1 Pact of Negation
+1 Borne Upon a Wind
+1 Swan Song
+1 Cyclonic Rift
+1 Lightning Bolt
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Shore Up
+1 Cerulean Wisps
+1 Brainstorm
+1 An Offer You Can't Refuse
+1 Crimson Wisps
+1 Gut Shot
+1 Tidal Bore
+1 Mindbreak Trap
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Commandeer
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Mental Misstep
+1 Submerge
+1 Mystical Tutor
+1 Flusterstorm
+1 Snap
+1 Hidden Strings
+1 Claim the Firstborn
+1 Strike It Rich
+1 Gamble
+1 Personal Tutor
+1 Twisted Fealty
+1 Jeska's Will
+1 Faithless Looting
+1 Merchant Scroll
+1 Rite of Flame
+1 Gitaxian Probe
+1 Wheel of Fortune
+1 Shatterskull Smashing
+1 Solve the Equation
+1 Rhystic Study
+1 Underworld Breach
+1 Urza's Saga
+1 Mystic Remora
+1 Island
+1 Mountain
+1 Steam Vents
+1 Scalding Tarn
+1 Volcanic Island
+1 Arid Mesa
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Fiery Islet
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Cephalid Coliseum
+1 Shivan Reef
+1 Command Tower
+1 Minamo, School at Water's Edge
+1 Mana Confluence
+1 Training Center
+1 Thundering Falls
+1 Arena of Glory
+1 Bloodstained Mire
+Sideboard
+1 Stella Lee, Wild Card

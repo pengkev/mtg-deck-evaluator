@@ -1,0 +1,96 @@
+1 An Offer You Can't Refuse
+1 Ancient Brass Dragon
+1 Ancient Bronze Dragon
+1 Ancient Copper Dragon
+1 Ancient Gold Dragon
+1 Ancient Silver Dragon
+1 Arcane Signet
+1 Arid Mesa
+1 Astral Dragon
+1 Atarka, World Render
+1 Atsushi, the Blazing Sky
+1 Balefire Dragon
+1 Birds of Paradise
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bloom Tender
+1 Breeding Pool
+1 Carnelian Orb of Dragonkind
+1 Cavern of Souls
+1 Command Tower
+1 Crux of Fate
+1 Defense of the Heart
+1 Delighted Halfling
+1 Dragon Tempest
+1 Dragonlord Dromoka
+1 Eerie Ultimatum
+1 Explore
+1 Fabled Passage
+1 Faeburrow Elder
+1 Fanatic of Rhonas
+1 Fellwar Stone
+1 Flooded Strand
+2 Forest
+1 Garruk's Uprising
+1 Godless Shrine
+1 Goldspan Dragon
+1 Gwenna, Eyes of Gaea
+1 Hallowed Fountain
+1 Haven of the Spirit Dragon
+1 Hellkite Tyrant
+1 Herd Heirloom
+1 Heroic Intervention
+2 Island
+1 Junji, the Midnight Sky
+1 Klauth, Unrivaled Ancient
+1 Kodama's Reach
+1 Korlessa, Scale Singer
+1 Kura, the Boundless Sky
+1 Lathliss, Dragon Queen
+1 Lightning Greaves
+1 Maelstrom of the Spirit Dragon
+1 Magmatic Hellkite
+1 Mana Drain
+1 Marsh Flats
+1 Miirym, Sentinel Wyrm
+1 Misty Rainforest
+1 Morophon, the Boundless
+2 Mountain
+1 Mox Jasper
+1 Mystic Remora
+1 Old Gnawbone
+1 Overgrown Tomb
+1 Patchwork Banner
+2 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Ramos, Dragon Engine
+1 Rhythm of the Wild
+1 Rivaz of the Claw
+1 Sacred Foundry
+1 Sarkhan, Soul Aflame
+1 Scalding Tarn
+1 Sol Ring
+1 Steam Vents
+1 Stomping Ground
+2 Swamp
+1 Sylvan Library
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Hierarchy
+1 Talisman of Resilience
+1 Temple Garden
+1 Temur Ascendancy
+1 Terror of the Peaks
+1 The Great Henge
+1 Tiamat
+1 Twinflame Tyrant
+1 Two-Headed Hellkite
+1 Utvara Hellkite
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Zurgo and Ojutai
+Sideboard
+1 The Ur-Dragon

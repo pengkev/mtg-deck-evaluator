@@ -1,0 +1,87 @@
+1 Aphetto Alchemist
+1 Archaeomancer
+1 Archmage Emeritus
+1 Archmage's Newt
+1 Boggart Trawler
+1 Cogwork Assembler
+1 Deadeye Navigator
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Laboratory Maniac
+1 Malevolent Hermit
+1 Naru Meha, Master Wizard
+1 Nimble Obstructionist
+1 Notion Thief
+1 Spellskite
+1 Valley Floodcaller
+1 Arcane Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Grindstone
+1 Mesmeric Orb
+1 Perpetual Timepiece
+1 Sapphire Medallion
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Dominance
+1 The Water Crystal
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Banishing Knack
+1 Blur
+1 Counterspell
+1 Dark Ritual
+1 Defabricate
+1 Delay
+1 Disallow
+1 Displace
+1 Dream Twist
+1 Drown in the Loch
+1 Essence Flux
+1 Evacuation
+1 Fact or Fiction
+1 Fell the Profane
+1 Forbidden Alchemy
+1 Frantic Search
+1 Ghostly Flicker
+1 Gifts Ungiven
+1 Hostile Negotiations
+1 Imp's Mischief
+1 Lim-Dul's Vault
+1 Long-Term Plans
+1 Miscast
+1 Mystical Dispute
+1 Narset's Reversal
+1 Otherworldly Gaze
+1 Remand
+1 Run Away Together
+1 Sink into Stupor
+1 Strix Serenade
+1 Tolarian Winds
+1 Unsubstantiate
+1 Waterlogged Teachings
+1 Withering Torment
+1 Dark Petition
+1 Demonic Counsel
+1 Glimpse the Unthinkable
+1 Lively Dirge
+1 Mnemonic Betrayal
+1 Walk the Aeons
+1 Yahenni's Expertise
+1 Case of the Shifting Visage
+1 Search for Azcanta
+1 Ashiok, Dream Render
+1 Jace, Wielder of Mysteries
+1 Ash Barrens
+1 Choked Estuary
+1 Command Tower
+1 Drowned Catacomb
+1 Fabled Passage
+1 Glimmervoid
+10 Island
+1 Spire of Industry
+1 Sunscorched Desert
+6 Swamp
+1 Tainted Isle
+Sideboard
+1 Emet-Selch, Unsundered

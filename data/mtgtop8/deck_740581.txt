@@ -1,0 +1,81 @@
+1 Aarakocra Sneak
+1 Brago, King Eternal
+1 Cloudblazer
+1 Displacer Beast
+1 Eccentric Apprentice
+1 Felidar Guardian
+1 Feywild Caretaker
+1 Flickerwisp
+1 Grazilaxx, Illithid Scholar
+1 Imoen, Mystic Trickster
+1 Midnight Pathlighter
+1 Mulldrifter
+1 Nadaar, Selfless Paladin
+1 Radiant Solar
+1 Rasaad yn Bashir
+1 Restoration Angel
+1 Seasoned Dungeoneer
+1 Soulherder
+1 Spirited Companion
+1 Tomb of Horrors Adventurer
+1 White Plume Adventurer
+1 Yorion, Sky Nomad
+1 Yuan-Ti Malison
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Conjurer's Closet
+1 Dungeon Map
+1 Dungeoneer's Pack
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Mind Stone
+1 Panharmonicon
+1 Sarevok's Tome
+1 Sol Ring
+1 Talisman of Progress
+1 Thought Vessel
+1 Trailblazer's Torch
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Bar the Gate
+1 Brainsurge
+1 Cosmic Intervention
+1 Counterspell
+1 Disorder in the Court
+1 Eerie Interlude
+1 Ephemerate
+1 Ghostly Flicker
+1 Lae'zel's Acrobatics
+1 Momentary Blink
+1 Parting Gust
+1 Path to Exile
+1 Semester's End
+1 Spoils of Adventure
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Time Twist
+1 Austere Command
+1 Candlekeep Sage
+1 Dungeon Delver
+1 Fly
+1 Teleportation Circle
+1 Undercellar Sweep
+1 Command Tower
+1 Dungeon Descent
+1 Exotic Orchard
+11 Island
+1 Mystic Gate
+1 Mystic Sanctuary
+1 Nimbus Maze
+1 Path of Ancestry
+11 Plains
+1 Port Town
+1 Prairie Stream
+1 Reliquary Tower
+1 Scavenger Grounds
+1 Seachrome Coast
+1 Skycloud Expanse
+1 Temple of Enlightenment
+Sideboard
+1 Hama Pashar, Ruin Seeker

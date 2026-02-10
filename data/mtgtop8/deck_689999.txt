@@ -1,0 +1,97 @@
+1 Metallic Mimic
+1 Solemn Simulacrum
+1 Imperial Recruiter
+1 Murderous Redcap
+1 Putrid Goblin
+1 Impulsive Pilferer
+1 Ragavan, Nimble Pilferer
+1 Academy Manufactor
+1 Shambling Ghast
+1 Prosper, Tome-Bound
+1 Grim Hireling
+1 Morbid Opportunist
+1 Professional Face-Breaker
+1 Slicer, Hired Muscle
+1 Charming Scoundrel
+1 Harried Spearguard
+1 Greedy Freebooter
+1 Alexios, Deimos of Kosmos
+1 Infestation Sage
+1 Stridehangar Automaton
+1 Sensei's Divining Top
+1 Defense Grid
+1 Ugin's Nexus
+1 Sol Ring
+1 Lightning Greaves
+1 Talisman of Indulgence
+1 Lotus Petal
+1 Ichor Wellspring
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Prized Statue
+1 The Reaver Cleaver
+1 Mephitic Draught
+1 Radiant Lotus
+1 Aetheric Amplifier
+1 Vampiric Tutor
+1 Culling the Weak
+1 Hatred
+1 Dark Ritual
+1 Snuff Out
+1 Dismember
+1 Imp's Mischief
+1 Tainted Strike
+1 Chaos Warp
+1 Baleful Mastery
+1 First Day of Class
+1 You Find Some Prisoners
+1 Bottle-Cap Blast
+1 Untimely Malfunction
+1 Diabolic Tutor
+1 Blasphemous Act
+1 Demonic Tutor
+1 Reanimate
+1 Vandalblast
+1 Damnation
+1 Diabolic Intent
+1 Grim Tutor
+1 Toxic Deluge
+1 Feed the Swarm
+1 Seize the Spotlight
+1 Mandate of Abaddon
+1 Beseech the Mirror
+1 Insatiable Avarice
+1 Revel in Riches
+1 Phyrexian Arena
+1 Necropotence
+1 Goblin Bombardment
+1 Black Market Connections
+3 Swamp
+3 Mountain
+1 City of Brass
+1 Temple of Malice
+1 Boseiju, Who Shelters All
+1 Forbidden Orchard
+1 Sulfurous Springs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Buried Ruin
+1 Urborg, Tomb of Yawgmoth
+1 Reflecting Pool
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Phyrexian Tower
+1 Luxury Suite
+1 Emergence Zone
+1 Fabled Passage
+1 War Room
+1 Blightstep Pathway
+1 Treasure Vault
+1 Raucous Theater
+1 Blazemire Verge
+Sideboard
+1 Evereth, Viceroy of Plunder

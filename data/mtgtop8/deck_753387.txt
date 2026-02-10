@@ -1,0 +1,97 @@
+1 Displacer Kitten
+1 Drannith Magistrate
+1 Emrakul, the Promised End
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Grand Abolisher
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Core Augur
+1 Laboratory Maniac
+1 Phyrexian Metamorph
+1 Ranger-Captain of Eos
+1 Spellseeker
+1 Spellskite
+1 Thassa's Oracle
+1 Arcane Signet
+1 Astral Cornucopia
+1 Azorius Signet
+1 Chrome Mox
+1 Coveted Jewel
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Moonsilver Key
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Progress
+1 The One Ring
+1 Blue Sun's Zenith
+1 Dramatic Reversal
+1 Drown in Dreams
+1 Enlightened Tutor
+1 Even the Score
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Silence
+1 Snap
+1 Stroke of Genius
+1 Swan Song
+1 Day's Undoing
+1 Echo of Eons
+1 Fabricate
+1 Finale of Revelation
+1 Game Plan
+1 Merchant Scroll
+1 Mind Spring
+1 Personal Tutor
+1 Prosperity
+1 Solve the Equation
+1 Time Reversal
+1 Timetwister
+1 Windfall
+1 Copy Artifact
+1 Counterbalance
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Unstoppable Plan
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Teferi, Time Raveler
+1 Tezzeret, Cruel Captain
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arid Mesa
+1 Cephalid Coliseum
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Flooded Strand
+1 Gemstone Caverns
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+3 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+3 Plains
+1 Prairie Stream
+1 Prismatic Vista
+1 Sea of Clouds
+1 Skycloud Expanse
+1 Tundra
+1 Windswept Heath
+Sideboard
+1 Heliod, the Radiant Dawn

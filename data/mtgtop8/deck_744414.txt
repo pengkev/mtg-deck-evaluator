@@ -1,0 +1,80 @@
+1 Hullbreaker Horror
+1 Tidespout Tyrant
+1 Basalt Monolith
+1 Chrome Mox
+1 Everflowing Chalice
+1 Forsaken Monument
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Mindlock Orb
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Rings of Brighthearth
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Smokestack
+1 Sol Ring
+1 Static Orb
+1 Tangle Wire
+1 Trinisphere
+1 Urza's Bauble
+1 Winter Moon
+1 Winter Orb
+1 Capsize
+1 Counterspell
+1 Cyclonic Rift
+1 Disrupting Shoal
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Lazotep Plating
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Muddle the Mixture
+1 Nexus of Fate
+1 Pact of Negation
+1 Stifle
+1 Strix Serenade
+1 Sunder
+1 Swan Song
+1 Trickbind
+1 Wash Away
+1 Whir of Invention
+1 Beacon of Tomorrows
+1 Expropriate
+1 Fabricate
+1 Karn's Temporal Sundering
+1 Part the Waterveil
+1 Polymorph
+1 Time Stretch
+1 Transmute Artifact
+1 Walk the Aeons
+1 Copy Artifact
+1 Leyline of Anticipation
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Teferi, Temporal Archmage
+1 Tezzeret the Seeker
+1 Academy Ruins
+1 Command Beacon
+1 Crystal Vein
+1 Darksteel Citadel
+1 Gemstone Caverns
+22 Island
+1 Reliquary Tower
+1 Rivendell
+1 Saprazzan Skerry
+1 Seat of the Synod
+1 Svyelunite Temple
+Sideboard
+1 Urza, Lord High Artificer

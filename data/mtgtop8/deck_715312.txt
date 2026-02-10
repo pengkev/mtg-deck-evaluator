@@ -1,0 +1,95 @@
+1 Accursed Marauder
+1 Act of Authority
+1 Altar of Dementia
+1 Angel's Grace
+1 Animate Dead
+1 Arcane Signet
+1 Arid Mesa
+1 Bastion of Remembrance
+1 Bloodstained Mire
+1 Brightclimb Pathway
+1 Case of the Stashed Skeleton
+1 Cauldron Familiar
+1 Caves of Koilos
+1 Cleansing Nova
+1 Command Beacon
+1 Command Tower
+1 Concealed Courtyard
+1 Corpse Knight
+1 Corroding Dragonstorm
+1 Damn
+1 Dance of the Dead
+1 Dark Petition
+1 Despark
+1 Diabolic Intent
+1 Drana and Linvala
+1 Elesh Norn, Grand Cenobite
+1 Expedition Map
+1 Farewell
+1 Flagstones of Trokair
+1 Flare of Malice
+1 Flooded Strand
+1 From the Catacombs
+1 Ghost Vacuum
+1 Ghostly Prison
+1 Godless Shrine
+1 Grand Abolisher
+1 Gray Merchant of Asphodel
+1 Hall of Heliod's Generosity
+1 Heliod's Pilgrim
+1 High Market
+1 Hopeless Nightmare
+1 Isolated Chapel
+1 Kambal, Consul of Allocation
+1 Kambal, Profiteering Mayor
+1 Karmic Guide
+1 Kaya the Inexorable
+1 Keeper of the Accord
+1 Lurrus of the Dream-Den
+1 Marsh Flats
+1 Massacre Wurm
+1 Mausoleum Secrets
+1 Mire in Misery
+1 Momentum Breaker
+1 Morbid Opportunist
+1 Mortuary Mire
+1 Necromancy
+1 Oath of Kaya
+1 Oath of Liliana
+1 Orim's Chant
+1 Orzhov Basilica
+4 Plains
+1 Polluted Delta
+1 Profane Tutor
+1 Reveillark
+1 Roadside Reliquary
+1 Scrubland
+1 Sevinne's Reclamation
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Sheoldred
+1 Sheoldred, the Apocalypse
+1 Silence
+1 Silent Clearing
+1 Sol Ring
+1 Solitude
+1 Stroke of Midnight
+1 Sun Titan
+1 Sunlit Marsh
+4 Swamp
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Temple of Silence
+1 The One Ring
+1 The Restoration of Eiganjo
+1 Tinybones Joins Up
+1 Verdant Catacombs
+1 Voice of Victory
+1 Windswept Heath
+1 Witch's Cottage
+1 Witch's Oven
+1 Wojek Investigator
+1 Wrath of God
+Sideboard
+1 Abdel Adrian, Gorion's Ward
+1 Agent of the Iron Throne

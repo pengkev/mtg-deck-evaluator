@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Simian Spirit Guide
+1 Sol Ring
+1 Defense Grid
+1 Grim Monolith
+1 Mana Vault
+1 Mox Opal
+1 Sword of Feast and Famine
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Diamond
+1 Scroll Rack
+1 Cursed Totem
+1 Talisman of Creativity
+1 The One Ring
+1 Arcane Signet
+1 Talisman of Conviction
+1 Lotus Petal
+1 Talisman of Progress
+1 Fellwar Stone
+1 Pact of Negation
+1 Silence
+1 Force of Negation
+1 Deflecting Swat
+1 Red Elemental Blast
+1 Mana Drain
+1 Force of Will
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Swan Song
+1 Fierce Guardianship
+1 Slip Out the Back
+1 Mindbreak Trap
+1 Flusterstorm
+1 Sink into Stupor
+1 Into the Flood Maw
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Nexus of Fate
+1 Echoing Truth
+1 Swords to Plowshares
+1 Expropriate
+1 Beacon of Tomorrows
+1 Enter the Infinite
+1 Seize the Day
+1 Relentless Assault
+1 Karn's Temporal Sundering
+1 Waves of Aggression
+1 Sea Gate Restoration
+1 Alrund's Epiphany
+1 Time Warp
+1 Time Stretch
+1 Gamble
+1 Personal Tutor
+1 Rise of the Eldrazi
+1 Jeska's Will
+1 Temporal Trespass
+1 Echo of Eons
+1 Rite of Flame
+1 Temporal Manipulation
+1 Cataclysm
+1 Temporal Mastery
+1 Full Throttle
+1 Smothering Tithe
+1 Swarm Intelligence
+1 Spirit Mantle
+1 Mystic Remora
+1 Aggravated Assault
+1 Aqueous Form
+1 Rhystic Study
+1 Omniscience
+1 Reconnaissance
+1 Steel of the Godhead
+1 Teferi, Time Raveler
+1 Hall of the Bandit Lord
+1 Sacred Foundry
+1 Hallowed Fountain
+1 Ancient Tomb
+1 Arid Mesa
+1 Misty Rainforest
+1 City of Brass
+1 Mana Confluence
+1 Steam Vents
+1 Plateau
+1 Tundra
+1 Volcanic Island
+1 Polluted Delta
+1 Windswept Heath
+1 Scalding Tarn
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Command Tower
+1 Cavern of Souls
+1 Flooded Strand
+1 Command Beacon
+1 Arena of Glory
+1 Tarnished Citadel
+1 Crystal Vein
+Sideboard
+1 Narset, Enlightened Master

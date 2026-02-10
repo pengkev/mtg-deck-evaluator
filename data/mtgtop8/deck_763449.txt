@@ -1,0 +1,86 @@
+1 Jin-Gitaxias, Progress Tyrant
+1 Abundance
+1 Ancestral Mask
+1 Arcane Signet
+1 Argothian Enchantress
+1 Authority of the Consuls
+1 Azorius Chancery
+1 Azorius Signet
+1 Beast Within
+1 Breeding Pool
+1 Command Tower
+1 Commander's Sphere
+1 Corrupted Conscience
+1 Defabricate
+1 Destiny Spinner
+1 Dovin, Hand of Control
+1 Eidolon of Blossoms
+1 Elesh Norn, Mother of Machines
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Evolving Wilds
+1 Exotic Orchard
+1 Farseek
+1 Fellwar Stone
+1 Fertile Ground
+6 Forest
+1 Fortified Village
+1 Frozen Aether
+1 Ghostly Prison
+1 Glacial Fortress
+1 Grand Arbiter Augustin IV
+1 Hallowed Fountain
+1 Hardened Scales
+1 Heroic Intervention
+1 Hinterland Harbor
+6 Island
+1 Kismet
+1 Kwain, Itinerant Meddler
+1 Land Tax
+1 Leyline of Anticipation
+1 Managorger Hydra
+1 Memory Lapse
+1 Mesa Enchantress
+1 Narset's Reversal
+1 Negate
+1 Path to Exile
+6 Plains
+1 Propaganda
+1 Rampant Growth
+1 Ranger's Guile
+1 Resculpt
+1 Rest in Peace
+1 Rhystic Study
+1 Rogue's Passage
+1 Root Maze
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Selesnya Sanctuary
+1 Selesnya Signet
+1 Setessan Champion
+1 Sigil of the Empty Throne
+1 Simic Growth Chamber
+1 Simic Signet
+1 Snakeskin Veil
+1 Sol Ring
+1 Spara's Headquarters
+1 Spell Pierce
+1 Spirit Mantle
+1 Sterling Grove
+1 Stubborn Denial
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 Temple Garden
+1 Temple of Enlightenment
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Unsubstantiate
+1 Utopia Sprawl
+1 Verduran Enchantress
+1 Vexing Bauble
+1 Vorinclex, Voice of Hunger
+1 Wild Growth
+1 Counterspell
+Sideboard
+1 Ms. Bumbleflower

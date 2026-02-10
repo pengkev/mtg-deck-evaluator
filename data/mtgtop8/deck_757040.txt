@@ -1,0 +1,92 @@
+1 Adeline, Resplendent Cathar
+1 Anim Pakal, Thousandth Moon
+1 Carmen, Cruel Skymarcher
+1 Dalkovan Packbeasts
+1 Elegy Acolyte
+1 Elenda, the Dusk Rose
+1 Enduring Courage
+1 Enduring Innocence
+1 Garna, Bloodfist of Keld
+1 Guardian of Faith
+1 Isshin, Two Heavens as One
+1 Jadar, Ghoulcaller of Nephalia
+1 Kambal, Profiteering Mayor
+1 Lord Skitter, Sewer King
+1 Loyal Apprentice
+1 Marionette Apprentice
+1 Mondrak, Glory Dominus
+1 Neyali, Suns' Vanguard
+1 Ojer Taq, Deepest Foundation
+1 Ophiomancer
+1 Shadrix Silverquill
+1 Sinkhole Surveyor
+1 Skyknight Vanguard
+1 Thalisse, Reverent Medium
+1 Toby, Beastie Befriender
+1 Voice of Victory
+1 Warren Warleader
+1 Witch Enchanter
+1 Arcane Signet
+1 Eldrazi Monument
+1 Oketra's Monument
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Staff of the Storyteller
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Anguished Unmaking
+1 Boros Charm
+1 Call the Coppercoats
+1 Grand Crescendo
+1 Path to Exile
+1 Secure the Wastes
+1 Swords to Plowshares
+1 V.A.T.S.
+1 Ruinous Ultimatum
+1 Song of Totentanz
+1 Tempt with Bunnies
+1 Tempt with Vengeance
+1 White Sun's Twilight
+1 Bastion of Remembrance
+1 Champions from Beyond
+1 Goblin Bombardment
+1 Impact Tremors
+1 Rabble Rousing
+1 Reconnaissance
+1 SOLDIER Military Program
+1 Windcrag Siege
+1 Dihada, Binder of Wills
+1 Elspeth Tirel
+1 Elspeth, Storm Slayer
+1 Elspeth, Sun's Champion
+1 Liliana, Dreadhorde General
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Dalkovan Encampment
+1 Desolate Mire
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Isolated Chapel
+1 Kher Keep
+1 Marsh Flats
+4 Mountain
+1 Nomad Outpost
+1 Path of Ancestry
+4 Plains
+1 Shadowblood Ridge
+1 Shattered Landscape
+1 Smoldering Marsh
+1 Spectator Seating
+4 Swamp
+1 Tainted Field
+1 Tainted Peak
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Three Tree City
+1 Vault of the Archangel
+Sideboard
+1 Caesar, Legion's Emperor

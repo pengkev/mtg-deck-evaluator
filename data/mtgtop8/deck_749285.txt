@@ -1,0 +1,101 @@
+1 Balustrade Spy
+1 Birds of Paradise
+1 Blackbloom Rogue
+1 Bloom Tender
+1 Boggart Trawler
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Disciple of Freyalise
+1 Drowner of Truth
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Fatestitcher
+1 Fyndhorn Elves
+1 Hazel's Brewmaster
+1 Hermit Druid
+1 Hydroelectric Specimen
+1 Narcomoeba
+1 Phantasmagorian
+1 Poxwalkers
+1 Spellseeker
+1 Tangled Florahedron
+1 Thassa's Oracle
+1 Undercity Informer
+1 Walking Ballista
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Jack-o'-Lantern
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Mox Amber
+1 Paradise Mantle
+1 Pentad Prism
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Resilience
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Autumn's Veil
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Dismember
+1 Entomb
+1 Fell the Profane
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Vigor
+1 Hagra Mauling
+1 Jwari Disruption
+1 Khalni Ambush
+1 Malakir Rebirth
+1 Memory's Journey
+1 Mystical Tutor
+1 Nature's Claim
+1 Noxious Revival
+1 Pact of Negation
+1 Rampage of the Clans
+1 Revitalizing Repast
+1 Silundi Vision
+1 Sink into Stupor
+1 Slaughter Pact
+1 Summoner's Pact
+1 Tainted Pact
+1 Turn the Earth
+1 Vampiric Tutor
+1 Veil of Summer
+1 Waterlogged Teachings
+1 Worldly Tutor
+1 Agadeem's Awakening
+1 Bala Ged Recovery
+1 Beseech the Mirror
+1 Bridgeworks Battle
+1 Cabal Therapy
+1 Culling Ritual
+1 Demonic Tutor
+1 Diregraf Rebirth
+1 Dread Return
+1 Eldritch Evolution
+1 Imperial Seal
+1 Lively Dirge
+1 Neoform
+1 Reanimate
+1 Sea Gate Restoration
+1 Turntimber Symbiosis
+1 Bridge from Below
+1 Carpet of Flowers
+1 Defense of the Heart
+1 Mystic Remora
+1 Wild Growth
+Sideboard
+1 Tevesh Szat, Doom of Fools
+1 Thrasios, Triton Hero

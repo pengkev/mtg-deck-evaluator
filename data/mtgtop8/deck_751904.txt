@@ -1,0 +1,78 @@
+1 Aclazotz, Deepest Betrayal
+1 Arbiter of Woe
+1 Archon of Cruelty
+1 Blood Artist
+1 Bloodthirsty Conqueror
+1 Boggart Trawler
+1 Braids, Arisen Nightmare
+1 Crypt Ghast
+1 Dauthi Voidwalker
+1 Doomsday Excruciator
+1 Enduring Tenacity
+1 Engine Rat
+1 Fear of the Dark
+1 Geode Golem
+1 Gonti, Night Minister
+1 K'rrik, Son of Yawgmoth
+1 Maha, Its Feathers Night
+1 Marauding Blight-Priest
+1 Nirkana Revenant
+1 Noxious Gearhulk
+1 Reaper of Sheoldred
+1 Rottenmouth Viper
+1 Rune-Scarred Demon
+1 Sanguine Syphoner
+1 Sheoldred
+1 Solemn Simulacrum
+1 Syr Konrad, the Grim
+1 Taborax, Hope's Demise
+1 The Speed Demon
+1 Tinybones, Bauble Burglar
+1 Unstoppable Slasher
+1 Valgavoth's Faithful
+1 Vampire Nighthawk
+1 Arcane Signet
+1 Conjurer's Closet
+1 Gauntlet of Power
+1 Jet Medallion
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Darkness Crystal
+1 Thought Vessel
+1 Thran Dynamo
+1 Consuming Corruption
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Doom Blade
+1 Fell the Profane
+1 Infernal Grasp
+1 Murder
+1 Wail of War
+1 Withering Torment
+1 Corrupt
+1 Demonic Counsel
+1 Dread Return
+1 Exsanguinate
+1 Feed the Swarm
+1 Persist
+1 Reanimate
+1 Sign in Blood
+1 Zombify
+1 Demonic Covenant
+1 Grievous Wound
+1 Leyline of the Void
+1 Phyrexian Arena
+1 The Meathook Massacre
+1 Liliana of the Dark Realms
+1 Cabal Pit
+1 Cabal Stronghold
+1 Command Tower
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+24 Swamp
+1 Urza's Cave
+Sideboard
+1 Valgavoth, Terror Eater

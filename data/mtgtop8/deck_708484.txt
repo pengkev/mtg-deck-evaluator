@@ -1,0 +1,99 @@
+1 Domri, Anarch of Bolas
+1 High Noon
+1 Wild Growth
+1 Rhythm of the Wild
+1 Flowering of the White Tree
+1 Sylvan Library
+1 Stony Silence
+1 Rest in Peace
+1 Deafening Silence
+1 Bridgeworks Battle
+1 Green Sun's Zenith
+1 Winds of Abandon
+1 Finale of Devastation
+1 Angel's Grace
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Silence
+1 Red Elemental Blast
+1 Eladamri's Call
+1 Chord of Calling
+1 Crop Rotation
+1 Vexing Bauble
+1 Sol Ring
+1 Null Rod
+1 Mana Vault
+1 Sanctum Prelate
+1 Captain Sisay
+1 Fanatic of Rhonas
+1 Witch Enchanter
+1 Aven Interrupter
+1 Jetmir, Nexus of Revels
+1 Doorkeeper Thrull
+1 Charismatic Conqueror
+1 Kutzil, Malamet Exemplar
+1 Delighted Halfling
+1 Sigarda, Font of Blessings
+1 Linvala, Keeper of Silence
+1 Phyrexian Censor
+1 Elesh Norn, Grand Cenobite
+1 Ragavan, Nimble Pilferer
+1 Elvish Spirit Guide
+1 Collector Ouphe
+1 Sardian Avenger
+1 Loran of the Third Path
+1 Mother of Runes
+1 Aven Mindcensor
+1 Archivist of Oghma
+1 Professional Face-Breaker
+1 Endurance
+1 Esper Sentinel
+1 Toski, Bearer of Secrets
+1 Skyclave Apparition
+1 Ashaya, Soul of the Wild
+1 Simian Spirit Guide
+1 Archon of Emeria
+1 Yasharn, Implacable Earth
+1 Serra Ascendant
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Kataki, War's Wage
+1 Ranger-Captain of Eos
+1 Giver of Runes
+1 Avacyn's Pilgrim
+1 Sylvan Safekeeper
+1 Ohran Frostfang
+1 Containment Priest
+1 Birds of Paradise
+1 Bountiful Promenade
+1 Shifting Woodland
+1 Minas Tirith
+1 Ancient Tomb
+1 Homeward Path
+1 Command Tower
+1 Kessig Wolf Run
+1 Reflecting Pool
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Marsh Flats
+1 Arid Mesa
+1 Gemstone Caverns
+1 Dryad Arbor
+1 Windswept Heath
+1 Wooded Foothills
+1 Flooded Strand
+1 Taiga
+1 Savannah
+1 Plateau
+1 Gaea's Cradle
+1 Temple Garden
+1 City of Brass
+1 Sacred Foundry
+2 Forest
+2 Plains
+Sideboard
+1 Kamahl, Heart of Krosa
+1 Bruse Tarl, Boorish Herder

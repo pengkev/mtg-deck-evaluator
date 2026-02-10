@@ -1,0 +1,101 @@
+1 Conduit of Ruin
+1 Ulamog, the Ceaseless Hunger
+1 Thought-Knot Seer
+1 Wandering Archaic
+1 Hullbreaker Horror
+1 Kozilek, the Great Distortion
+1 Ojer Taq, Deepest Foundation
+1 Roaming Throne
+1 Breaker of Creation
+1 Writhing Chrysalis
+1 Ulamog, the Defiler
+1 Hideous Taskmaster
+1 Sowing Mycospawn
+1 Glaring Fleshraker
+1 Eldrazi Linebreaker
+1 Spawnbed Protector
+1 Ulamog's Nullifier
+1 Sire of Seven Deaths
+1 Zhulodok, Void Gorger
+1 Crystal Barricade
+1 Chromatic Orrery
+1 Eldrazi Monument
+1 Vedalken Orrery
+1 Thran Temporal Gateway
+1 Moonsilver Key
+1 Sol Ring
+1 Monument to Perfection
+1 Darksteel Monolith
+1 Urza's Incubator
+1 Chimil, the Inner Sun
+1 Talisman of Creativity
+1 Mystic Forge
+1 Chromatic Lantern
+1 Forsaken Monument
+1 Thought Vessel
+1 Thran Dynamo
+1 Talisman of Curiosity
+1 Silence
+1 Failure/Comply
+1 Crib Swap
+1 Teferi's Protection
+1 Desecrate Reality
+1 Mana Drain
+1 Null Elemental Blast
+1 Kozilek's Command
+1 Ugin's Binding
+1 Eldritch Immunity
+1 Dawn's Truce
+1 Fierce Guardianship
+1 Flusterstorm
+1 Vandalblast
+1 Rise of the Eldrazi
+1 Selective Obliteration
+1 Skittering Invasion
+1 All Is Dust
+1 Temporal Manipulation
+1 Blasphemous Edict
+1 Open the Way
+1 Rhythm of the Wild
+1 Leyline of Anticipation
+1 Storm of Saruman
+1 Asceticism
+1 Kozilek's Unsealing
+1 Echoes of Eternity
+1 Shadow of the Second Sun
+1 Mana Reflection
+1 Extravagant Replication
+1 Karn Liberated
+1 Ugin, the Ineffable
+1 Karn, the Great Creator
+1 Ugin, Eye of the Storms
+1 Urza's Power Plant
+1 Eldrazi Temple
+1 Eye of Ugin
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Detection Tower
+1 Urza's Workshop
+1 Urza's Mine
+1 Urza's Tower
+1 Haven of the Spirit Dragon
+1 Boseiju, Who Shelters All
+1 Sulfurous Springs
+1 Battlefield Forge
+1 Cavern of Souls
+1 Slayers' Stronghold
+1 Command Tower
+1 Reliquary Tower
+1 Shrine of the Forsaken Gods
+1 Urza's Cave
+1 Planar Nexus
+1 Adarkar Wastes
+1 Cascading Cataracts
+1 Karplusan Forest
+1 Path of Ancestry
+1 Shivan Reef
+1 Yavimaya Coast
+1 Underground River
+1 Ugin's Labyrinth
+Sideboard
+1 Ulalek, Fused Atrocity

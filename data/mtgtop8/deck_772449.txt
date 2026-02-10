@@ -1,0 +1,74 @@
+1 Archon of Emeria
+1 Danitha Capashen, Paragon
+1 Eidolon of Rhetoric
+1 Hushbringer
+1 Kor Spiritdancer
+1 Mesa Enchantress
+1 Nomad Mythmaker
+1 Pearl-Ear, Imperial Advisor
+1 Sram, Senior Edificer
+1 Umbra Mystic
+1 Pearl Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Blacksmith's Skill
+1 Brave the Elements
+1 Dawn Charm
+1 Loran's Escape
+1 Path to Exile
+1 Razorgrass Ambush
+1 Rebuff the Wicked
+1 Reprieve
+1 Restoration Magic
+1 Swords to Plowshares
+1 Divine Reckoning
+1 Open the Armory
+1 Promise of Loyalty
+1 Ravnica at War
+1 Retether
+1 Sevinne's Reclamation
+1 Single Combat
+1 Slash the Ranks
+1 Three Dreams
+1 United Battlefront
+1 Winds of Rath
+1 All That Glitters
+1 Angelic Destiny
+1 Angelic Gift
+1 Armored Ascension
+1 Battle Mastery
+1 Bound in Gold
+1 Celestial Mantle
+1 Conviction
+1 Darksteel Mutation
+1 Daybreak Coronet
+1 Ethereal Armor
+1 Face of Divinity
+1 Faith's Fetters
+1 Felidar Umbra
+1 Ghostly Prison
+1 Hyena Umbra
+1 Idolized
+1 Light of Promise
+1 Mantle of the Ancients
+1 Mask of Law and Grace
+1 Nahiri's Binding
+1 On Serra's Wings
+1 Pariah
+1 Redemption Arc
+1 Sage's Reverie
+1 Sentinel's Eyes
+1 Shardmage's Rescue
+1 Shield of Duty and Reason
+1 Spectra Ward
+1 Spirit Link
+1 Temporal Isolation
+1 Twinblade Blessing
+1 Unquestioned Authority
+1 Hall of Heliod's Generosity
+1 Mistveil Plains
+28 Plains
+1 Rogue's Passage
+1 Secluded Steppe
+Sideboard
+1 Light-Paws, Emperor's Voice

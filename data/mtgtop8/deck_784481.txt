@@ -1,0 +1,89 @@
+1 Arbor Elf
+1 Archon of Sun's Grace
+1 Argothian Enchantress
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Collector Ouphe
+1 Courser of Kruphix
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Elvish Archivist
+1 Elvish Mystic
+1 Elvish Reclaimer
+1 Esper Sentinel
+1 Femeref Enchantress
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Mesa Enchantress
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Sythis, Harvest's Hand
+1 Verduran Enchantress
+1 Weathered Wayfarer
+1 Enlightened Tutor
+1 Austere Command
+1 Green Sun's Zenith
+1 Idyllic Tutor
+1 Plea for Guidance
+1 Replenish
+1 Winds of Abandon
+1 Abundant Growth
+1 Aura of Silence
+1 Aura Shards
+1 Authority of the Consuls
+1 Blind Obedience
+1 Burgeoning
+1 Buried in the Garden
+1 Carpet of Flowers
+1 Earthcraft
+1 Enchantress's Presence
+1 Exploration
+1 Fertile Ground
+1 Grasp of Fate
+1 Greater Auramancy
+1 Ground Seal
+1 Growing Rites of Itlimoc
+1 Journey to Nowhere
+1 Land Tax
+1 Luminarch Ascension
+1 Mirri's Guile
+1 Multani's Presence
+1 Oath of Nissa
+1 Oblivion Ring
+1 Opalescence
+1 Parallax Wave
+1 Root Maze
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Shapers' Sanctuary
+1 Sigil of the Empty Throne
+1 Solitary Confinement
+1 Starfield of Nyx
+1 Sterling Grove
+1 Stony Silence
+1 Sylvan Library
+1 Titania's Song
+1 Utopia Sprawl
+1 Wild Growth
+1 Wolfwillow Haven
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Command Tower
+1 Exotic Orchard
+10 Forest
+1 Horizon Canopy
+1 Hushwood Verge
+1 Mistveil Plains
+1 Nykthos, Shrine to Nyx
+4 Plains
+1 Prismatic Vista
+1 Savannah
+1 Serra's Sanctum
+1 Temple Garden
+1 Temple of Plenty
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Karametra, God of Harvests

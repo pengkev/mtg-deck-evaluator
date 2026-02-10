@@ -1,0 +1,101 @@
+1 Spellseeker
+1 Dualcaster Mage
+1 Imperial Recruiter
+1 Phyrexian Metamorph
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Tavern Scoundrel
+1 Goldhound
+1 "Name Sticker" Goblin
+1 Skirk Prospector
+1 Flesh Duplicate
+1 Mockingbird
+1 Basilisk Collar
+1 Lotus Petal
+1 Mox Diamond
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Shadowspear
+1 Chrome Mox
+1 Mox Opal
+1 Jeweled Amulet
+1 Imposter Mech
+1 Sol Ring
+1 Thought Vessel
+1 Krark's Thumb
+1 Pyroblast
+1 Dispel
+1 Long-Term Plans
+1 Flusterstorm
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Brain Freeze
+1 Mental Misstep
+1 Stern Dismissal
+1 Cyclonic Rift
+1 Pongify
+1 Chain of Vapor
+1 Swan Song
+1 Red Elemental Blast
+1 Mindbreak Trap
+1 Pact of Negation
+1 Rapid Hybridization
+1 Vampires' Vengeance
+1 March of Swirling Mist
+1 An Offer You Can't Refuse
+1 Lightning Bolt
+1 Force of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Muddle the Mixture
+1 Into the Flood Maw
+1 Rite of Flame
+1 Transmute Artifact
+1 Recall
+1 Merchant Scroll
+1 Solve the Equation
+1 Strike It Rich
+1 Jeska's Will
+1 Gamble
+1 Grapeshot
+1 Path of the Pyromancer
+1 Personal Tutor
+1 Molten Duplication
+1 Mirrormade
+1 Teferi's Ageless Insight
+1 Steal Enchantment
+1 Underworld Breach
+1 Dress Down
+1 Rhystic Study
+1 Mystic Remora
+1 Amphibian Downpour
+1 Steam Vents
+1 Volcanic Island
+1 Fiery Islet
+1 Prismatic Vista
+1 Ancient Tomb
+1 Mana Confluence
+1 Spirebluff Canal
+1 Training Center
+1 Riverglide Pathway
+1 Gemstone Caverns
+1 Shivan Reef
+1 Arid Mesa
+1 Scalding Tarn
+1 Misty Rainforest
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Otawara, Soaring City
+1 Command Tower
+1 Island
+1 Mountain
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Cephalid Coliseum
+1 Arena of Glory
+1 Riverpyre Verge
+Sideboard
+1 Yusri, Fortune's Flame

@@ -1,0 +1,101 @@
+1 Curiosity
+1 Rhystic Study
+1 Mystic Remora
+1 Copy Enchantment
+1 Spiteful Banditry
+1 Curse of Opulence
+1 Ophidian Eye
+1 Steal Enchantment
+1 Mirrormade
+1 Gamble
+1 Strike It Rich
+1 Sea Gate Restoration
+1 Reshape
+1 Transmute Artifact
+1 Timetwister
+1 Deflecting Swat
+1 Commandeer
+1 Mindbreak Trap
+1 Force of Negation
+1 Dispel
+1 Submerge
+1 Expansion/Explosion
+1 Into the Flood Maw
+1 Sink into Stupor
+1 Strix Serenade
+1 Flare of Duplication
+1 Return the Favor
+1 Swan Song
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Mental Misstep
+1 Force of Will
+1 Mana Drain
+1 An Offer You Can't Refuse
+1 Spell Pierce
+1 Snapback
+1 Delay
+1 Valakut Awakening
+1 Daze
+1 Pact of Negation
+1 Stubborn Denial
+1 Twincast
+1 Red Elemental Blast
+1 Pyroblast
+1 Misdirection
+1 Fierce Guardianship
+1 Flusterstorm
+1 Narset's Reversal
+1 Bolt Bend
+1 Whir of Invention
+1 Miscast
+1 Mox Opal
+1 Lotus Petal
+1 Lotus Bloom
+1 Mox Diamond
+1 Arcane Signet
+1 Talisman of Creativity
+1 Sol Ring
+1 The One Ring
+1 Lotus Blossom
+1 Chrome Mox
+1 Pentad Prism
+1 Jeweled Amulet
+1 Mana Vault
+1 Fellwar Stone
+1 Goblin Engineer
+1 Magda, Brazen Outlaw
+1 Mockingbird
+1 Hydroelectric Specimen
+1 Generous Plunderer
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Harmonic Prodigy
+1 Simian Spirit Guide
+1 Ancient Tomb
+1 Mountain
+1 Island
+1 City of Brass
+1 Training Center
+1 Cephalid Coliseum
+1 Volcanic Island
+1 Steam Vents
+1 Forbidden Orchard
+1 Seat of the Synod
+1 Horizon of Progress
+1 Exotic Orchard
+1 Fiery Islet
+1 Gemstone Caverns
+1 Shivan Reef
+1 Otawara, Soaring City
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Polluted Delta
+1 Flooded Strand
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Command Tower
+Sideboard
+1 Niv-Mizzet, Parun

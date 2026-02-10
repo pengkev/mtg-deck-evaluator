@@ -1,0 +1,100 @@
+1 Invasion of Ikoria
+1 Utopia Sprawl
+1 Mystic Remora
+1 Song of Creation
+1 Rhystic Study
+1 Wild Growth
+1 Earthcraft
+1 Survival of the Fittest
+1 Glimpse of Nature
+1 Eldritch Evolution
+1 Weird Harvest
+1 Gamble
+1 Neoform
+1 Finale of Devastation
+1 Noxious Revival
+1 Pact of Negation
+1 Flusterstorm
+1 Borne Upon a Wind
+1 Deflecting Swat
+1 Worldly Tutor
+1 Lightning Bolt
+1 An Offer You Can't Refuse
+1 Chord of Calling
+1 Mental Misstep
+1 Veil of Summer
+1 Chain of Vapor
+1 Into the Flood Maw
+1 Force of Will
+1 Fierce Guardianship
+1 Swan Song
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Arcane Signet
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Chrome Mox
+1 Mox Diamond
+1 Dour Port-Mage
+1 Shrieking Drake
+1 Sylvan Safekeeper
+1 Delighted Halfling
+1 Walking Ballista
+1 Faerie Mastermind
+1 Peregrine Drake
+1 Elvish Spirit Guide
+1 Sicarian Infiltrator
+1 Professional Face-Breaker
+1 Spellskite
+1 Endurance
+1 Ragavan, Nimble Pilferer
+1 Beast Whisperer
+1 Wild Cantor
+1 Simian Spirit Guide
+1 Devoted Druid
+1 Llanowar Elves
+1 Painter's Servant
+1 Ancestral Statue
+1 Imperial Recruiter
+1 Phyrexian Metamorph
+1 Kiri-Onna
+1 Haru-Onna
+1 Birds of Paradise
+1 Consecrated Sphinx
+1 Spellseeker
+1 Cloud of Faeries
+1 Dosan the Falling Leaf
+1 High Fae Trickster
+1 Enduring Vitality
+1 Phantasmal Image
+1 Birgi, God of Storytelling
+1 Sylvan Caryatid
+1 Slithermuse
+1 Tinder Wall
+1 Command Tower
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Verdant Catacombs
+1 Cavern of Souls
+1 Island
+1 Ancient Tomb
+1 Mana Confluence
+1 Wooded Foothills
+1 Windswept Heath
+1 Bloodstained Mire
+1 Breeding Pool
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+1 Stomping Ground
+1 Misty Rainforest
+1 City of Brass
+1 Volcanic Island
+1 Taiga
+1 Tropical Island
+1 Gaea's Cradle
+2 Forest
+Sideboard
+1 Animar, Soul of Elements

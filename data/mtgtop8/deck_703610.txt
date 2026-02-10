@@ -1,0 +1,101 @@
+1 Mystic Remora
+1 Deafening Silence
+1 Trouble in Pairs
+1 Utopia Sprawl
+1 Smothering Tithe
+1 Rhystic Study
+1 Instill Energy
+1 Finale of Devastation
+1 Flusterstorm
+1 Swan Song
+1 Noxious Revival
+1 Mental Misstep
+1 Chord of Calling
+1 Mindbreak Trap
+1 Legolas's Quick Reflexes
+1 Fierce Guardianship
+1 Borne Upon a Wind
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Force of Will
+1 Force of Negation
+1 Swords to Plowshares
+1 Pact of Negation
+1 Silence
+1 Eladamri's Call
+1 Invigorate
+1 Lotus Petal
+1 Sol Ring
+1 Mox Opal
+1 Chrome Mox
+1 The One Ring
+1 Mox Amber
+1 Cloudstone Curio
+1 Mox Diamond
+1 Mana Vault
+1 Drannith Magistrate
+1 Walking Ballista
+1 Brightglass Gearhulk
+1 Bloom Tender
+1 High Fae Trickster
+1 Clever Impersonator
+1 Archivist of Oghma
+1 Mockingbird
+1 Fanatic of Rhonas
+1 Sowing Mycospawn
+1 Witch Enchanter
+1 Ranger-Captain of Eos
+1 Chulane, Teller of Tales
+1 Sally Sparrow
+1 Delighted Halfling
+1 Elvish Spirit Guide
+1 Great Oak Guardian
+1 Myrel, Shield of Argive
+1 Overcharged Amalgam
+1 Solitude
+1 Esper Sentinel
+1 Wandering Archaic
+1 Venser, Shaper Savant
+1 Breaching Hippocamp
+1 Ancestral Statue
+1 Birds of Paradise
+1 Gemrazer
+1 Phyrexian Metamorph
+1 Thassa's Oracle
+1 Grand Abolisher
+1 Sawtusk Demolisher
+1 Spark Double
+1 Glen Elendra Archmage
+1 Avacyn's Pilgrim
+1 Chakram Retriever
+1 Blinking Spirit
+1 Seedborn Muse
+1 Heliod, Sun-Crowned
+1 Windswept Heath
+1 Wooded Foothills
+1 Flooded Strand
+1 Breeding Pool
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Misty Rainforest
+1 Marsh Flats
+1 Gemstone Caverns
+1 Rejuvenating Springs
+1 Tundra
+1 Tropical Island
+1 Savannah
+1 Gaea's Cradle
+1 Mana Confluence
+1 Emergence Zone
+1 City of Brass
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Arid Mesa
+1 Temple Garden
+1 Hallowed Fountain
+1 Exotic Orchard
+1 Command Tower
+1 Forest
+Sideboard
+1 Helga, Skittish Seer

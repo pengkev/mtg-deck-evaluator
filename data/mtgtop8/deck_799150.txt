@@ -1,0 +1,83 @@
+1 Adeline, Resplendent Cathar
+1 Anim Pakal, Thousandth Moon
+1 Arabella, Abandoned Doll
+1 Banon, the Returners' Leader
+1 Baylen, the Haymaker
+1 Charismatic Conqueror
+1 Darling of the Masses
+1 Dragonmaster Outcast
+1 Elder Gargaroth
+1 Emmara, Soul of the Accord
+1 Frenzied Baloth
+1 Ghired, Mirror of the Wilds
+1 Hanweir Garrison
+1 Howlsquad Heavy
+1 Imperious Perfect
+1 Jinnie Fay, Jetmir's Second
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Kutzil, Malamet Exemplar
+1 Leonin Warleader
+1 Maja, Bretagard Protector
+1 Ornithopter of Paradise
+1 Queen Allenal of Ruadach
+1 Quina, Qu Gourmet
+1 Rhys the Redeemed
+1 Scurry of Squirrels
+1 Selvala, Eager Trailblazer
+1 Skyknight Vanguard
+1 Torens, Fist of the Angels
+1 Voice of Victory
+1 Welcoming Vampire
+1 Arcane Signet
+1 Horn of Gondor
+1 Idol of Oblivion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Artifact Mutation
+1 Aura Mutation
+1 Call the Coppercoats
+1 Eladamri's Call
+1 Fog
+1 Moogles' Valor
+1 Restoration Magic
+1 Stroke of Midnight
+1 Sundering Growth
+1 Will of the Mardu
+1 Bushwhack
+1 Cultivate
+1 Earthbending Lesson
+1 Season of the Burrow
+1 Split Up
+1 Asceticism
+1 Caretaker's Talent
+1 Cryptolith Rite
+1 Deafening Silence
+1 Felidar Retreat
+1 Impact Tremors
+1 Outlaws' Merriment
+1 Smile at Death
+1 Wedding Announcement
+1 Windcrag Siege
+1 Elspeth, Storm Slayer
+1 Garruk, Primal Hunter
+1 Blossoming Sands
+1 Canopy Vista
+1 Clifftop Retreat
+1 Command Tower
+7 Forest
+1 Fortified Village
+1 Hanweir Battlements
+1 Inspiring Vantage
+1 Jungle Shrine
+1 Mirrex
+6 Mountain
+1 Myriad Landscape
+8 Plains
+1 Raging Ravine
+1 Rockfall Vale
+1 Sheltering Landscape
+1 Temple of Abandon
+1 Wind-Scarred Crag
+Sideboard
+1 Jetmir, Nexus of Revels

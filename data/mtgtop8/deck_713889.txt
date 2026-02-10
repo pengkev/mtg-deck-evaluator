@@ -1,0 +1,88 @@
+1 Elves of Deep Shadow
+1 Chatterfang, Squirrel General
+1 Samwise the Stouthearted
+1 Frodo Baggins
+1 Mirkwood Bats
+1 Samwise Gamgee
+1 Rosie Cotton of South Lane
+1 Meriadoc Brandybuck
+1 Peregrin Took
+1 Elanor Gardner
+1 Merry, Warden of Isengard
+1 Pippin, Warden of Isengard
+1 The Gaffer
+1 Feasting Hobbit
+1 Banquet Guests
+1 Lobelia, Defender of Bag End
+1 Prize Pig
+1 Gollum, Obsessed Stalker
+1 Treebeard, Gracious Host
+1 Essence Warden
+1 Shire Shirriff
+1 Academy Manufactor
+1 Kambal, Profiteering Mayor
+1 Witch Enchanter
+1 Sorin of House Markov
+1 Marionette Apprentice
+1 Starscape Cleric
+1 Gilded Goose
+1 Nadier's Nightblade
+1 Popular Egotist
+1 Braids, Arisen Nightmare
+1 Bloodthirsty Conqueror
+1 Tireless Provisioner
+1 Mentor of the Meek
+1 Gyome, Master Chef
+1 Vito, Thorn of the Dusk Rose
+1 Birds of Paradise
+1 Enduring Tenacity
+1 Idol of Oblivion
+1 Sol Ring
+1 Arcane Signet
+1 Bolas's Citadel
+1 Bombadil's Song
+1 Path to Exile
+1 Generous Gift
+1 Flare of Fortitude
+1 Fell the Profane
+1 Go for the Throat
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Winds of Abandon
+1 Many Partings
+1 Revive the Shire
+1 Toxic Deluge
+1 Nature's Lore
+1 Diabolic Tutor
+1 Night's Whisper
+1 Farseek
+1 Dig Up
+1 Of Herbs and Stewed Rabbit
+1 Sanguine Bond
+1 Call of the Ring
+4 Plains
+6 Forest
+5 Swamp
+1 Graypelt Refuge
+1 Murmuring Bosk
+1 Ghost Quarter
+1 Shineshadow Snarl
+1 Scattered Groves
+1 Necroblossom Snarl
+1 Rogue's Passage
+1 Brushland
+1 Command Tower
+1 Scoured Barrens
+1 Exotic Orchard
+1 Ash Barrens
+1 Path of Ancestry
+1 Isolated Chapel
+1 Woodland Cemetery
+1 Sunpetal Grove
+1 Canopy Vista
+1 Fortified Village
+1 Access Tunnel
+1 Sandsteppe Citadel
+Sideboard
+1 Frodo, Adventurous Hobbit
+1 Sam, Loyal Attendant

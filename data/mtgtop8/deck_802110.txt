@@ -1,0 +1,94 @@
+1 Archmage Emeritus
+1 Baral, Chief of Compliance
+1 Electrostatic Field
+1 Faerie Mastermind
+1 Goblin Electromancer
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Laboratory Maniac
+1 Niv-Mizzet, Visionary
+1 Ojer Pakpatiq, Deepest Epoch
+1 Psychosis Crawler
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Veyran, Voice of Duality
+1 Whirlpool Warrior
+1 Arcane Signet
+1 Commander's Sphere
+1 Decanter of Endless Water
+1 Fellwar Stone
+1 Fire Diamond
+1 Izzet Cluestone
+1 Izzet Keyrune
+1 Sky Diamond
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Big Score
+1 Brainstorm
+1 Brainsurge
+1 Consider
+1 Counterspell
+1 Defabricate
+1 Essence Scatter
+1 Expansion/Explosion
+1 Frantic Search
+1 Lightning Bolt
+1 Miscast
+1 Negate
+1 Opt
+1 Quicken
+1 Seething Song
+1 Spell Pierce
+1 Suspend
+1 Swan Song
+1 Tale's End
+1 Telling Time
+1 Thirst for Discovery
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Unwind
+1 Whirlwind Denial
+1 You See a Guard Approach
+1 Blasphemous Act
+1 Consuming Tide
+1 Faithless Looting
+1 Ponder
+1 Preordain
+1 Sleight of Hand
+1 Solve the Equation
+1 Strike It Rich
+1 Treasure Cruise
+1 Vandalblast
+1 Windfall
+1 Amphibian Downpour
+1 Arcane Bombardment
+1 Curiosity
+1 Ophidian Eye
+1 Rhystic Study
+1 Teferi's Ageless Insight
+1 Witness Protection
+1 Cascade Bluffs
+1 Command Tower
+1 Evolving Wilds
+1 Ferrous Lake
+1 Frostboil Snarl
+1 Great Hall of the Citadel
+4 Island
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Lonely Sandbar
+1 Molten Tributary
+5 Mountain
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Path of Ancestry
+1 Reliquary Tower
+1 Restless Spire
+1 Shivan Reef
+1 Spirebluff Canal
+1 Sulfur Falls
+1 Swiftwater Cliffs
+1 Temple of Epiphany
+Sideboard
+1 Niv-Mizzet, Parun

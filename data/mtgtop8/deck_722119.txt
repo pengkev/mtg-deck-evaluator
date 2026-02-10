@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Birgi, God of Storytelling
+1 Tavern Scoundrel
+1 Gale, Waterdeep Prodigy
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Archmage Emeritus
+1 Storm-Kiln Artist
+1 Veyran, Voice of Duality
+1 Ragavan, Nimble Pilferer
+1 Dragon's Rage Channeler
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Opal
+1 Springleaf Drum
+1 Mox Diamond
+1 Mox Amber
+1 Mana Vault
+1 Relic of Legends
+1 The One Ring
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Culling the Weak
+1 Cabal Ritual
+1 Brain Freeze
+1 Submerge
+1 Mental Misstep
+1 Demonic Consultation
+1 Pyroblast
+1 Ad Nauseam
+1 Swan Song
+1 Dramatic Reversal
+1 Dark Ritual
+1 Red Elemental Blast
+1 Flusterstorm
+1 Mindbreak Trap
+1 Tainted Pact
+1 Pact of Negation
+1 Extirpate
+1 Sudden Shock
+1 Mogg Salvage
+1 Force of Negation
+1 Surgical Extraction
+1 Force of Will
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Deflecting Swat
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Snap
+1 Lightning Bolt
+1 Flare of Duplication
+1 Sink into Stupor
+1 Into the Flood Maw
+1 An Offer You Can't Refuse
+1 Gitaxian Probe
+1 Praetor's Grasp
+1 Yawgmoth's Will
+1 Wheel of Fortune
+1 Imperial Seal
+1 Diabolic Intent
+1 Gamble
+1 Demonic Tutor
+1 Jeska's Will
+1 Rhystic Study
+1 Underworld Breach
+1 Necropotence
+1 Mystic Remora
+1 Ancient Tomb
+1 Emergence Zone
+1 Mana Confluence
+1 Badlands
+1 Underground Sea
+1 Volcanic Island
+1 Gemstone Caverns
+1 Marsh Flats
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Morphic Pool
+1 City of Brass
+1 Training Center
+1 Blood Crypt
+1 Steam Vents
+1 Watery Grave
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Island
+1 Command Tower
+1 Exotic Orchard
+Sideboard
+1 Krark, the Thumbless
+1 Silas Renn, Seeker Adept

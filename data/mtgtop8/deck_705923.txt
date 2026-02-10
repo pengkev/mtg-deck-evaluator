@@ -1,0 +1,101 @@
+1 Generator Servant
+1 Simian Spirit Guide
+1 Azorius Signet
+1 Defense Grid
+1 Fellwar Stone
+1 Mana Vault
+1 Izzet Signet
+1 Sol Ring
+1 Lion's Eye Diamond
+1 Lightning Greaves
+1 Talisman of Progress
+1 Lotus Petal
+1 Grim Monolith
+1 Boros Signet
+1 God-Pharaoh's Statue
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Disruptor Flute
+1 Desperate Ritual
+1 Mystical Tutor
+1 Path to Exile
+1 Savage Beating
+1 Swords to Plowshares
+1 Silence
+1 Pyretic Ritual
+1 Mindbreak Trap
+1 Intuition
+1 Mental Misstep
+1 Nexus of Fate
+1 Brain Freeze
+1 Trickbind
+1 Fierce Guardianship
+1 Open the Omenpaths
+1 Sink into Stupor
+1 Karn's Temporal Sundering
+1 Temporal Mastery
+1 Part the Waterveil
+1 Relentless Assault
+1 Fury of the Horde
+1 Rite of Flame
+1 Waves of Aggression
+1 Temporal Trespass
+1 Beacon of Tomorrows
+1 Enter the Infinite
+1 Time Warp
+1 Time Stretch
+1 Seize the Day
+1 Temporal Manipulation
+1 Capture of Jingzhou
+1 Walk the Aeons
+1 Expropriate
+1 Aminatou's Augury
+1 Sevinne's Reclamation
+1 Mnemonic Deluge
+1 Alrund's Epiphany
+1 Rise of the Eldrazi
+1 Overpowering Attack
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 One with the Multiverse
+1 Storm of Saruman
+1 Jace, the Mind Sculptor
+1 Jace, Wielder of Mysteries
+1 Teferi, Time Raveler
+1 Chandra, Hope's Beacon
+1 Battlefield Forge
+1 Shivan Reef
+1 City of Brass
+1 Cavern of Souls
+1 Adarkar Wastes
+1 Hallowed Fountain
+1 City of Traitors
+1 Sacred Foundry
+1 Steam Vents
+1 Mana Confluence
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Tundra
+1 Volcanic Island
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Ancient Tomb
+1 Skycloud Expanse
+1 Command Tower
+1 Sea of Clouds
+1 Spectator Seating
+1 Training Center
+1 Otawara, Soaring City
+1 Thundering Falls
+1 Arena of Glory
+Sideboard
+1 Narset, Enlightened Master

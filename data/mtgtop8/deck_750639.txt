@@ -1,0 +1,88 @@
+1 Bronze Guardian
+1 Chief of the Foundry
+1 Diversion Unit
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Jhoira's Familiar
+1 Kappa Cannoneer
+1 Master of Etherium
+1 Myr Enforcer
+1 Myr Retriever
+1 Network Disruptor
+1 Oaken Siren
+1 Oltec Matterweaver
+1 Ornithopter of Paradise
+1 Padeem, Consul of Innovation
+1 Patchwork Automaton
+1 Platoon Dispenser
+1 Research Thief
+1 Sai, Master Thopterist
+1 Scrap Trawler
+1 Shimmer Myr
+1 Solemn Simulacrum
+1 Steel Overseer
+1 Steelswarm Operator
+1 Thought Monitor
+1 Transit Mage
+1 Urza, Prince of Kroog
+1 Arcane Signet
+1 Bident of Thassa
+1 Cloud Key
+1 Crystal Skull, Isu Spyglass
+1 Nettlecyst
+1 Perilous Snare
+1 Salvation Engine
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Thopter Fabricator
+1 Thought Vessel
+1 Thousand Moons Smithy
+1 Weatherlight Compleated
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cryptic Command
+1 Dispatch
+1 Dovin's Veto
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Dance of the Manse
+1 March of Progress
+1 Organic Extinction
+1 Supreme Verdict
+1 Thoughtcast
+1 Voyage Home
+1 All That Glitters
+1 Efficient Construction
+1 Ghostly Prison
+1 Mechanized Production
+1 Tempered Steel
+1 Thopter Spy Network
+1 Tezzeret, Artifice Master
+1 Adarkar Wastes
+1 Amonkhet Raceway
+1 Ancient Den
+1 Archway of Innovation
+1 Buried Ruin
+1 Command Tower
+1 Darksteel Citadel
+1 Deserted Beach
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+1 Irrigated Farmland
+9 Island
+1 Lonely Arroyo
+1 Muraganda Raceway
+6 Plains
+1 Port Town
+1 Prairie Stream
+1 Razortide Bridge
+1 Rogue's Passage
+1 Seat of the Synod
+1 Sunscorched Desert
+1 Temple of Enlightenment
+Sideboard
+1 Mendicant Core, Guidelight

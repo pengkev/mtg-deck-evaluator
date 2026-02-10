@@ -1,0 +1,85 @@
+1 Aboleth Spawn
+1 Aerial Extortionist
+1 Azure Beastbinder
+1 Cephalid Facetaker
+1 Charming Prince
+1 Curiosity Crafter
+1 Dour Port-Mage
+1 Dream Trawler
+1 Emrakul's Messenger
+1 Enduring Curiosity
+1 Entity Tracker
+1 Exalted Sunborn
+1 Faerie Mastermind
+1 Fatestitcher
+1 Flesh Duplicate
+1 Ghostly Pilferer
+1 Gold Myr
+1 Gremlin Tamer
+1 Guardian Sunmare
+1 Hero of Bladehold
+1 Hydroelectric Specimen
+1 Moon-Blessed Cleric
+1 Nulldrifter
+1 Ornithopter of Paradise
+1 Reflector Mage
+1 Scrawling Crawler
+1 Shoreline Looter
+1 Silent Hallcreeper
+1 Silver Myr
+1 Silverwing Squadron
+1 Skyhunter Strike Force
+1 Slumbering Keepguard
+1 Soulherder
+1 Starwinder
+1 Twining Twins
+1 Vizier of Tumbling Sands
+1 Weathered Wayfarer
+1 White Plume Adventurer
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Progress
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Cloudshift
+1 Counterspell
+1 Eerie Interlude
+1 Ephemerate
+1 Essence Flux
+1 Getaway Glamer
+1 Ghostly Flicker
+1 Lae'zel's Acrobatics
+1 Momentary Blink
+1 Parting Gust
+1 Swords to Plowshares
+1 Teferi's Time Twist
+1 Splash Portal
+1 Candlekeep Sage
+1 Dazzling Theater/Prop Room
+1 Far Traveler
+1 Invasion of Theros
+1 Skybind
+1 Sphere of Safety
+1 Touch the Spirit Realm
+1 Adarkar Wastes
+1 Brokers Hideout
+1 Command Tower
+1 Exotic Orchard
+1 Glacial Fortress
+9 Island
+1 Mystic Gate
+1 Obscura Storefront
+9 Plains
+1 Port Town
+1 Prairie Stream
+1 Restless Anchorage
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Thriving Heath
+1 Thriving Isle
+Sideboard
+1 Niko, Light of Hope

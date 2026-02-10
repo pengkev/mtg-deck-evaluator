@@ -1,0 +1,86 @@
+1 Nimble Obstructionist
+1 Dualcaster Mage
+1 Tinder Wall
+1 Birds of Paradise
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Reclamation Sage
+1 Naru Meha, Master Wizard
+1 Eternal Witness
+1 Peregrine Drake
+1 Mulldrifter
+1 Displacer Kitten
+1 Llanowar Elves
+1 Lilysplash Mentor
+1 Coiling Oracle
+1 Sakura-Tribe Elder
+1 Wall of Roots
+1 Marvin, Murderous Mimic
+1 Deadeye Navigator
+1 Archmage of Runes
+1 High Fae Trickster
+1 Venser, Shaper Savant
+1 Sanctum Weaver
+1 Arcane Signet
+1 Talisman of Creativity
+1 Sol Ring
+1 Fellwar Stone
+1 Gruul Signet
+1 Izzet Signet
+1 Simic Signet
+1 Talisman of Curiosity
+1 Mystical Dispute
+1 Displace
+1 Twiddle
+1 Impulse
+1 Dispel
+1 Negate
+1 Opt
+1 Siren's Ruse
+1 Counterspell
+1 Memory Lapse
+1 Turn the Earth
+1 Blur
+1 Izzet Charm
+1 Emerald Charm
+1 Virtue of Knowledge
+1 An Offer You Can't Refuse
+1 Beast Within
+1 Ghostly Flicker
+1 Dig Through Time
+1 Run Away Together
+1 Essence Flux
+1 Arcane Denial
+1 Reality Shift
+1 Neoform
+1 Ponder
+1 Expressive Iteration
+1 Solve the Equation
+1 Step Through
+1 Electroduplicate
+1 Eldritch Evolution
+1 Wild Growth
+1 Mystic Remora
+1 Lignify
+1 Utopia Sprawl
+1 Impact Tremors
+1 Oko, Thief of Crowns
+1 Sunscorched Desert
+1 Command Tower
+8 Island
+1 Ash Barrens
+1 Exotic Orchard
+1 Bountiful Landscape
+1 Temple of Mystery
+1 Cinder Glade
+1 Hinterland Harbor
+1 Rootbound Crag
+1 Shivan Reef
+1 Temple of Epiphany
+6 Forest
+4 Mountain
+1 Karplusan Forest
+1 Sulfur Falls
+1 Yavimaya Coast
+Sideboard
+1 Loot, the Pathfinder

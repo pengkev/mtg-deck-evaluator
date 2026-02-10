@@ -1,0 +1,101 @@
+1 Stratus Dancer
+1 Spellseeker
+1 Walking Ballista
+1 Quickling
+1 Glen Elendra Archmage
+1 Trinket Mage
+1 Spellskite
+1 Peregrine Drake
+1 Thassa's Oracle
+1 Rattleclaw Mystic
+1 Ancestral Statue
+1 Imperial Recruiter
+1 Simian Spirit Guide
+1 Skyscanner
+1 Soul of the Harvest
+1 Clone
+1 Birgi, God of Storytelling
+1 Wandering Archaic
+1 Endurance
+1 Lotus Cobra
+1 Bloom Tender
+1 Sicarian Infiltrator
+1 Allosaurus Shepherd
+1 Cloud of Faeries
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Destiny Spinner
+1 Fierce Empath
+1 Birds of Paradise
+1 Thrasios, Triton Hero
+1 Tishana's Tidebinder
+1 Tishana, Voice of Thunder
+1 Ainok Survivalist
+1 Mulldrifter
+1 Phyrexian Metamorph
+1 Oblivion Sower
+1 Sowing Mycospawn
+1 Hydroelectric Specimen
+1 Shrieking Drake
+1 Pollywog Prodigy
+1 Aether Channeler
+1 Elvish Spirit Guide
+1 Haywire Mite
+1 Vizier of the Menagerie
+1 Hullbreaker Horror
+1 Kozilek, Butcher of Truth
+1 Beast Whisperer
+1 Lotus Petal
+1 Candelabra of Tawnos
+1 Chrome Mox
+1 Mox Diamond
+1 Cloudstone Curio
+1 Red Elemental Blast
+1 Swan Song
+1 Worldly Tutor
+1 Crop Rotation
+1 Force of Will
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flare of Denial
+1 Mindbreak Trap
+1 Flusterstorm
+1 Noxious Revival
+1 Veil of Summer
+1 Chord of Calling
+1 Glimpse of Nature
+1 Survival of the Fittest
+1 Food Chain
+1 Mystic Remora
+1 Rhystic Study
+1 Breeding Pool
+1 Stomping Ground
+1 Forest
+1 Island
+1 Mountain
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Tropical Island
+1 Taiga
+1 Mana Confluence
+1 Steam Vents
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Arid Mesa
+1 Misty Rainforest
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Spire Garden
+1 Volcanic Island
+1 Rejuvenating Springs
+1 Training Center
+1 Cavern of Souls
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Command Tower
+1 Gaea's Cradle
+Sideboard
+1 Animar, Soul of Elements

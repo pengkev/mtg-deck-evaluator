@@ -1,0 +1,68 @@
+1 Okaun, Eye of Chaos
+1 Niv-Mizzet, Parun
+1 Tribute Mage
+1 Frenetic Efreet
+1 Dualcaster Mage
+1 Simian Spirit Guide
+1 Tavern Scoundrel
+1 Goblin Electromancer
+1 Swiftfoot Boots
+1 Krark's Thumb
+1 Talisman of Creativity
+1 Sol Ring
+1 Arcane Signet
+1 Opt
+1 Desperate Ritual
+1 Expedite
+1 Red Elemental Blast
+1 Flusterstorm
+1 Lightning Bolt
+1 Gut Shot
+1 Negate
+1 Pongify
+1 Mogg Salvage
+1 Snap
+1 Borne Upon a Wind
+1 Muddle the Mixture
+1 Reasonable Doubt
+1 Fleeting Reflection
+1 Phantom Interference
+1 Galvanic Discharge
+1 Into the Flood Maw
+1 Dazzling Denial
+1 An Offer You Can't Refuse
+1 Chaos Warp
+1 Reality Shift
+1 Big Score
+1 Frantic Search
+1 Serum Visions
+1 Gamble
+1 Rite of Flame
+1 Twinflame
+1 Windfall
+1 Fiery Gambit
+1 Jeska's Will
+1 Grapeshot
+1 Faithless Looting
+1 Ponder
+1 Fabricate
+1 Chandra's Ignition
+1 Underworld Breach
+1 Footfall Crater
+1 Planar Chaos
+1 Chance Encounter
+1 Curiosity
+1 Propaganda
+1 Karn, the Great Creator
+1 Daretti, Scrap Savant
+1 Ral Zarek
+1 Buried Ruin
+1 Shivan Reef
+1 Stormcarved Coast
+1 Command Tower
+1 Sulfur Falls
+1 Cascade Bluffs
+17 Mountain
+16 Island
+Sideboard
+1 Yusri, Fortune's Flame

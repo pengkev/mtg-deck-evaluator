@@ -1,0 +1,101 @@
+1 Aang, Swift Savior
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Badgermole Cub
+1 Beast Whisperer
+1 Birds of Paradise
+1 Boreal Druid
+1 Brazen Borrower
+1 Charismatic Conqueror
+1 Cloud of Faeries
+1 Collector Ouphe
+1 Devoted Druid
+1 Drannith Magistrate
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Eternal Witness
+1 Faerie Mastermind
+1 Fyndhorn Elves
+1 High Fae Trickster
+1 Kinnan, Bonder Prodigy
+1 Kor Skyfisher
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Lotus Cobra
+1 Nissa, Resurgent Animist
+1 Noble Hierarch
+1 Quantum Riddler
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Shrieking Drake
+1 Spider-Woman, Stunning Savior
+1 Subtlety
+1 Sylvan Safekeeper
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 Thassa's Oracle
+1 The Cabbage Merchant
+1 Tireless Provisioner
+1 Voice of Victory
+1 Wan Shi Tong, Librarian
+1 White Orchid Phantom
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Sol Ring
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Crop Rotation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Paradoxical Outcome
+1 Silence
+1 Glimpse of Nature
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Aluren
+1 Amphibian Downpour
+1 Concordant Crossroads
+1 Deafening Silence
+1 Earthcraft
+1 Food Chain
+1 Intruder Alarm
+1 Leyline of Abundance
+1 Mystic Remora
+1 Rest in Peace
+1 Rhystic Study
+1 Smothering Tithe
+1 Ancient Tomb
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Dryad Arbor
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Polluted Delta
+1 Prismatic Vista
+1 Savannah
+1 Scalding Tarn
+1 Shifting Woodland
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Chulane, Teller of Tales

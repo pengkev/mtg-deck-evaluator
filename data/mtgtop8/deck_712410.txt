@@ -1,0 +1,83 @@
+1 Thassa's Oracle
+1 Phantasmal Image
+1 Sakashima the Impostor
+1 Sphinx of the Final Word
+1 Stunt Double
+1 Glasspool Mimic
+1 Enigma Thief
+1 Orvar, the All-Form
+1 Sakashima's Student
+1 Defiler of Dreams
+1 Roaming Throne
+1 Displacer Kitten
+1 Hydroelectric Specimen
+1 Barkform Harvester
+1 Three Tree Mascot
+1 Naga Fleshcrafter
+1 Phyrexian Metamorph
+1 Sphinx of Foresight
+1 Dream Eater
+1 Argent Sphinx
+1 Rescuer Sphinx
+1 Spark Double
+1 Chancellor of the Spires
+1 Cloudreader Sphinx
+1 Scholar of the Lost Trove
+1 Prognostic Sphinx
+1 Consecrated Sphinx
+1 Bloodline Pretender
+1 Ulamog, the Infinite Gyre
+1 Conspiracy Unraveler
+1 Sakashima of a Thousand Faces
+1 Universal Automaton
+1 Sapphire Medallion
+1 Mox Diamond
+1 Grim Monolith
+1 Sol Ring
+1 Mana Vault
+1 Lotus Bloom
+1 Chrome Mox
+1 Panharmonicon
+1 Urza's Incubator
+1 Arcane Signet
+1 Lotus Petal
+1 Intuition
+1 Snap
+1 Mental Misstep
+1 Trickbind
+1 Mindbreak Trap
+1 Resculpt
+1 Mana Drain
+1 Force of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Fierce Guardianship
+1 Pact of Negation
+1 Flare of Denial
+1 Hour of Need
+1 Cyclonic Rift
+1 Virtue of Knowledge
+1 Borne Upon a Wind
+1 Flusterstorm
+1 Sink into Stupor
+1 Irenicus's Vile Duplication
+1 Sea Gate Restoration
+1 Quantum Misalignment
+1 Dream Halls
+1 Mystic Remora
+1 Rhystic Study
+1 Leyline of Anticipation
+1 Amphibian Downpour
+1 Mirror Room/Fractured Realm
+1 Leyline of Transformation
+1 Minamo, School at Water's Edge
+1 Ancient Tomb
+1 City of Traitors
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Cavern of Souls
+1 Three Tree City
+19 Island
+Sideboard
+1 Unesh, Criosphinx Sovereign

@@ -1,0 +1,95 @@
+1 Astral Dragon
+1 Birds of Paradise
+1 Bloom Tender
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Deadeye Navigator
+1 Delighted Halfling
+1 Devoted Druid
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Endurance
+1 Enduring Vitality
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Gene Pollinator
+1 Glen Elendra Archmage
+1 Great Oak Guardian
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Llanowar Elves
+1 Nezahal, Primal Tide
+1 Nyxbloom Ancient
+1 Paradise Druid
+1 Peregrine Drake
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Stunt Double
+1 Sylvan Caryatid
+1 Thrasios, Triton Hero
+1 Tidespout Tyrant
+1 Triskelion
+1 Trophy Mage
+1 Valley Floodcaller
+1 Wandering Archaic
+1 Woodland Bellower
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Imposter Mech
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Mirage Mirror
+1 Monster Manual
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 The One Ring
+1 Archdruid's Charm
+1 Chord of Calling
+1 Crop Rotation
+1 Scour for Scrap
+1 Whir of Invention
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Fabricate
+1 Finale of Devastation
+1 Genesis Wave
+1 Last March of the Ents
+1 Nature's Rhythm
+1 Sylvan Scrying
+1 Freed from the Real
+1 Mirrormade
+1 Rhystic Study
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+6 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+2 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+1 Tarnished Citadel
+1 Treasure Vault
+1 Tropical Island
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windswept Heath
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

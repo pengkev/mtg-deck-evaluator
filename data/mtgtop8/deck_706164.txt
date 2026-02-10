@@ -1,0 +1,89 @@
+1 Grand Abolisher
+1 Gilded Drake
+1 Academy Rector
+1 Walking Ballista
+1 Faerie Mastermind
+1 Loran of the Third Path
+1 Hydroelectric Specimen
+1 Displacer Kitten
+1 Heliod, Sun-Crowned
+1 Skullclamp
+1 Unwinding Clock
+1 Fellwar Stone
+1 Manifold Key
+1 Mox Amber
+1 Talisman of Progress
+1 Sol Ring
+1 Arcane Signet
+1 Azorius Signet
+1 Thought Vessel
+1 Gilded Lotus
+1 Sensei's Divining Top
+1 Isochron Scepter
+1 Lotus Petal
+1 Silence
+1 Trickbind
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Fateful Absence
+1 Teferi's Protection
+1 Counterspell
+1 Reprieve
+1 Borne Upon a Wind
+1 Swan Song
+1 Generous Gift
+1 Permission Denied
+1 Muddle the Mixture
+1 Swords to Plowshares
+1 Comeuppance
+1 Angel's Grace
+1 Mana Drain
+1 Mindbreak Trap
+1 Strix Serenade
+1 Sink into Stupor
+1 Razorgrass Ambush
+1 Narset's Reversal
+1 Dovin's Veto
+1 Flusterstorm
+1 End Hostilities
+1 Replenish
+1 White Sun's Twilight
+1 Supreme Verdict
+1 Farewell
+1 Echo of Eons
+1 Vanquish the Horde
+1 Smothering Tithe
+1 Leyline of Anticipation
+1 Righteous Aura
+1 Luminarch Ascension
+1 Touch the Spirit Realm
+1 Public Enemy
+1 Rhystic Study
+1 Out of Time
+1 Blind Obedience
+1 Copy Enchantment
+1 Mechanized Production
+1 Ghostly Prison
+1 Urza's Saga
+1 Monologue Tax
+1 Teferi, Time Raveler
+7 Plains
+7 Island
+1 Sea of Clouds
+1 Hallowed Fountain
+1 Flooded Strand
+1 Hengegate Pathway
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
+1 Maze of Ith
+1 Minamo, School at Water's Edge
+1 Deserted Beach
+1 Command Tower
+1 Reliquary Tower
+1 Buried Ruin
+1 Glacial Fortress
+1 Castle Vantress
+1 Hall of Heliod's Generosity
+1 Floodfarm Verge
+Sideboard
+1 Shorikai, Genesis Engine

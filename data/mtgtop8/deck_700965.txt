@@ -1,0 +1,101 @@
+1 Hushbringer
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Felidar Guardian
+1 Recruiter of the Guard
+1 Gerrard, Weatherlight Hero
+1 Magus of the Moon
+1 Fyndhorn Elves
+1 Arena Rector
+1 Goblin Cratermaker
+1 Ethersworn Canonist
+1 Collector Ouphe
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Mistmoon Griffin
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Allosaurus Shepherd
+1 Elvish Spirit Guide
+1 Llanowar Elves
+1 Academy Rector
+1 Skyclave Apparition
+1 Archon of Emeria
+1 Simian Spirit Guide
+1 Saffi Eriksdotter
+1 Imperial Recruiter
+1 Esper Sentinel
+1 Endurance
+1 Aven Mindcensor
+1 Karmic Guide
+1 Protean Hulk
+1 Twinshot Sniper
+1 Greater Gargadon
+1 Ragavan, Nimble Pilferer
+1 Phyrexian Censor
+1 Delighted Halfling
+1 Elvish Mystic
+1 Doorkeeper Thrull
+1 Witch Enchanter
+1 Kiki-Jiki, Mirror Breaker
+1 Birthing Pod
+1 Chrome Mox
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Lotus Petal
+1 Veil of Summer
+1 Pyroblast
+1 Enlightened Tutor
+1 Silence
+1 Eladamri's Call
+1 Deflecting Swat
+1 Noxious Revival
+1 Worldly Tutor
+1 Chord of Calling
+1 Red Elemental Blast
+1 Lightning Bolt
+1 Swords to Plowshares
+1 Eldritch Evolution
+1 Natural Order
+1 Finale of Devastation
+1 Turntimber Symbiosis
+1 Claim the Firstborn
+1 Deafening Silence
+1 Survival of the Fittest
+1 Pattern of Rebirth
+1 Carpet of Flowers
+1 Sylvan Library
+1 Goblin Bombardment
+1 Songbirds' Blessing
+1 Vivien on the Hunt
+1 Command Tower
+1 Exotic Orchard
+1 Sacred Foundry
+1 Stomping Ground
+1 Bountiful Promenade
+1 Forest
+1 Plains
+1 Temple Garden
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Wooded Foothills
+1 Windswept Heath
+1 Mana Confluence
+1 Arid Mesa
+1 Flooded Strand
+1 Misty Rainforest
+1 Marsh Flats
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Spire Garden
+1 City of Brass
+1 Shifting Woodland
+Sideboard
+1 Minsc, Beloved Ranger

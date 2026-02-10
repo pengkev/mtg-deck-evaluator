@@ -1,0 +1,101 @@
+1 Lotus Petal
+1 Sol Ring
+1 Candelabra of Tawnos
+1 Chrome Mox
+1 Mana Vault
+1 Mox Opal
+1 Mox Diamond
+1 Relic of Legends
+1 Mox Amber
+1 Springleaf Drum
+1 Vexing Bauble
+1 Apple of Eden, Isu Relic
+1 Expedition Map
+1 Intuition
+1 Fierce Guardianship
+1 Crop Rotation
+1 Chain of Vapor
+1 Ghostly Flicker
+1 Dramatic Reversal
+1 Force of Will
+1 Snap
+1 Deflecting Swat
+1 Chord of Calling
+1 Mindbreak Trap
+1 Flare of Duplication
+1 Sink into Stupor
+1 Mental Misstep
+1 Veil of Summer
+1 Flusterstorm
+1 Timetwister
+1 Traverse the Ulvenwald
+1 Bring to Light
+1 Wheel of Fortune
+1 Jeska's Will
+1 Hidden Strings
+1 Empty the Warrens
+1 Capture of Jingzhou
+1 Finale of Devastation
+1 Sylvan Scrying
+1 Chatterstorm
+1 Windfall
+1 Experimental Frenzy
+1 Earthcraft
+1 Underworld Breach
+1 Song of Creation
+1 Rhystic Study
+1 Mystic Remora
+1 Carpet of Flowers
+1 Wild Growth
+1 Cryptolith Rite
+1 Seedborn Muse
+1 Dosan the Falling Leaf
+1 Spellseeker
+1 Tidal Barracuda
+1 Oboro Breezecaller
+1 Tinder Wall
+1 Vexing Shusher
+1 Birgi, God of Storytelling
+1 The Reality Chip
+1 Third Path Iconoclast
+1 Cloud of Faeries
+1 Peregrine Drake
+1 Delighted Halfling
+1 Phyrexian Metamorph
+1 Geralf, the Fleshwright
+1 Volatile Stormdrake
+1 Sowing Mycospawn
+1 Eternal Witness
+1 Lilysplash Mentor
+1 Mockingbird
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Hullbreaker Horror
+1 Island
+1 Forest
+1 Breeding Pool
+1 Scalding Tarn
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Polluted Delta
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Command Tower
+1 Wooded Foothills
+1 Deserted Temple
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Three Tree City
+1 Alchemist's Refuge
+Sideboard
+1 Thrasios, Triton Hero
+1 Rograkh, Son of Rohgahh

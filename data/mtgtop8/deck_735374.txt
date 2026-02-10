@@ -1,0 +1,101 @@
+1 Dovin's Veto
+1 Cyclonic Rift
+1 Counterspell
+1 Consign to Memory
+1 Boros Charm
+1 An Offer You Can't Refuse
+1 Weathered Runestone
+1 The One Ring
+1 Talisman of Progress
+1 Talisman of Creativity
+1 Talisman of Conviction
+1 Sword of Feast and Famine
+1 Swiftfoot Boots
+1 Sol Ring
+1 Mithril Coat
+1 Mana Vault
+1 Chrome Mox
+1 Azorius Signet
+1 Arcane Signet
+1 Witch Enchanter
+1 Tishana's Tidebinder
+1 Spellskite
+1 Skrelv, Defector Mite
+1 Ranger-Captain of Eos
+1 Mother of Runes
+1 Ledger Shredder
+1 Hydroelectric Specimen
+1 Hushbringer
+1 Grand Abolisher
+1 Giver of Runes
+1 Faerie Mastermind
+1 Esper Sentinel
+1 Drannith Magistrate
+1 Deep Gnome Terramancer
+1 Aven Mindcensor
+1 Archon of Emeria
+1 Archivist of Oghma
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Final Showdown
+1 Galadriel's Dismissal
+1 Legion Leadership
+1 Mana Drain
+1 Mystical Tutor
+1 Orim's Chant
+1 Permission Denied
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Silence
+1 Sink into Stupor
+1 Slip Out the Back
+1 Spell Pierce
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Blasphemous Act
+1 Dismantling Wave
+1 Fabricate
+1 Steelshaper's Gift
+1 Supreme Verdict
+1 Vandalblast
+1 Aggravated Assault
+1 Counterbalance
+1 Darksteel Mutation
+1 Mystic Remora
+1 Rest in Peace
+1 Rhystic Study
+1 Smothering Tithe
+1 Trouble in Pairs
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Command Tower
+1 Elegant Parlor
+1 Flooded Strand
+1 Hallowed Fountain
+1 Island
+1 Marsh Flats
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Raugrin Triome
+1 Rogue's Passage
+1 Sacred Foundry
+1 Scalding Tarn
+1 Steam Vents
+1 Sunhome, Fortress of the Legion
+1 Tundra
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Ishai, Ojutai Dragonspeaker
+1 Jeska, Thrice Reborn

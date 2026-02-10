@@ -1,0 +1,88 @@
+1 Kediss, Emberclaw Familiar
+1 Mask of Memory
+1 Pip-Boy 3000
+1 Rogue's Gloves
+1 Sensei's Divining Top
+1 Sword of Fire and Ice
+1 Grim Reaper's Sprint
+1 O-Naginata
+1 Alexios, Deimos of Kosmos
+1 Fury of the Horde
+1 Seize the Day
+1 Ancient Tomb
+1 Buried Ruin
+1 Cavern of Souls
+1 Command Beacon
+1 Crystal Vein
+1 Darksteel Citadel
+1 Dwarven Ruins
+1 Fomori Vault
+1 Gemstone Caverns
+1 Great Furnace
+1 Homeward Path
+1 Inventors' Fair
+1 Mikokoro, Center of the Sea
+13 Mountain
+1 Plaza of Heroes
+1 Sandstone Needle
+1 Sokenzan, Crucible of Defiance
+1 Talon Gates of Madara
+1 The Mycosynth Gardens
+1 Bolt Bend
+1 Chef's Kiss
+1 Commander's Plate
+1 Conqueror's Flail
+1 Mithril Coat
+1 Return the Favor
+1 Ricochet Trap
+1 Silver Shroud Costume
+1 Slobad, Goblin Tinkerer
+1 Swiftfoot Boots
+1 Thran Power Suit
+1 Welding Jar
+1 Wyll's Reversal
+1 Jeska, Thrice Reborn
+1 Arcane Signet
+1 Beamtown Beatstick
+1 Desperate Ritual
+1 Diamond Pick-Axe
+1 Gilded Pinions
+1 Goldvein Pick
+1 Jeska's Will
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mox Amber
+1 Prying Blade
+1 Pyretic Ritual
+1 Ragavan, Nimble Pilferer
+1 Rite of Flame
+1 Shiny Impetus
+1 Simian Spirit Guide
+1 Sol Ring
+1 Strike It Rich
+1 Treasonous Ogre
+1 Abrade
+1 Blasphemous Act
+1 Chaos Warp
+1 Destructive Urge
+1 Mine Collapse
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Thunderclap
+1 Tibalt's Trickery
+1 Umezawa's Jitte
+1 Wild Magic Surge
+1 Zoyowa's Justice
+1 Cursed Totem
+1 Damping Sphere
+1 Grafdigger's Cage
+1 Soulless Jailer
+1 Sphere of Resistance
+1 Stranglehold
+1 Tangle Wire
+1 Thorn of Amethyst
+1 Torpor Orb
+1 Trinisphere
+Sideboard
+1 Slicer, Hired Muscle

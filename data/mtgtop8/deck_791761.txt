@@ -1,0 +1,93 @@
+1 Etherium Sculptor
+1 Faerie Mastermind
+1 Forensic Gadgeteer
+1 Gilded Drake
+1 Hullbreaker Horror
+1 Mm'menon, the Right Hand
+1 Phyrexian Metamorph
+1 Spellskite
+1 The Reality Chip
+1 Walking Ballista
+1 Aether Spellbomb
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Codex Shredder
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Imposter Mech
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Static Orb
+1 The One Ring
+1 Tormod's Crypt
+1 Torpor Orb
+1 Trinisphere
+1 Unwinding Clock
+1 Voltaic Key
+1 Winter Orb
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Machine Over Matter
+1 Mana Drain
+1 March of Swirling Mist
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Narset's Reversal
+1 Resculpt
+1 Sink into Stupor
+1 Spider-Sense
+1 Strix Serenade
+1 Swan Song
+1 Trickbind
+1 Whir of Invention
+1 Fabricate
+1 Merchant Scroll
+1 Timetwister
+1 Transmute Artifact
+1 Copy Artifact
+1 Counterbalance
+1 Mystic Remora
+1 Power Artifact
+1 Rhystic Study
+1 Unstoppable Plan
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Gemstone Caverns
+1 Inventors' Fair
+9 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Workshop
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Uthros, Titanic Godcore
+1 War Room
+Sideboard
+1 Urza, Lord High Artificer

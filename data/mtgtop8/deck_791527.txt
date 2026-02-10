@@ -1,0 +1,80 @@
+1 Alexios, Deimos of Kosmos
+1 Baird, Steward of Argive
+1 Claim Jumper
+1 Humble Defector
+1 Khârn the Betrayer
+1 Loran of the Third Path
+1 Mentor of the Meek
+1 Scholar of New Horizons
+1 Sephiroth, Fallen Hero
+1 Serra's Emissary
+1 Stiltzkin, Moogle Merchant
+1 Sun Titan
+1 Tuktuk Scrapper
+1 Unstable Glyphbridge
+1 Welcoming Vampire
+1 Yes Man, Personal Securitron
+1 Zidane, Tantalus Thief
+1 Zuko, Exiled Prince
+1 Arcane Signet
+1 Bagel and Schmear
+1 Boros Signet
+1 Carrot Cake
+1 Contested Game Ball
+1 Dusk Rose Reliquary
+1 Eriette's Tempting Apple
+1 Fellwar Stone
+1 Golden Egg
+1 Hithlain Rope
+1 Howling Mine
+1 Ichor Wellspring
+1 Idol of Oblivion
+1 Instant Ramen
+1 Lembas
+1 Pendant of Prosperity
+1 Pentad Prism
+1 Peter Parker's Camera
+1 Sol Ring
+1 Strionic Resonator
+1 Survivor's Med Kit
+1 Talisman of Conviction
+1 Three Bowls of Porridge
+1 Akroma's Will
+1 Boros Charm
+1 Generous Gift
+1 Leave/Chance
+1 Path to Exile
+1 Swords to Plowshares
+1 Cut a Deal
+1 Disrupt Decorum
+1 Harmless Offering
+1 Secret Rendezvous
+1 Sundering Eruption
+1 Tempt with Bunnies
+1 Ancient Runes
+1 Court of Ardenvale
+1 Darksteel Mutation
+1 Ghostly Prison
+1 Grasp of Fate
+1 Path to Redemption
+1 Prison Sentence
+1 Seal from Existence
+1 Touch the Spirit Realm
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Elegant Parlor
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Inspiring Vantage
+1 Jasmine Dragon Tea Shop
+8 Mountain
+15 Plains
+1 Sacred Foundry
+1 Sacred Peaks
+1 Spectator Seating
+1 Sunscorched Divide
+1 Temple of Triumph
+1 Throne of the High City
+Sideboard
+1 Iroh, Tea Master

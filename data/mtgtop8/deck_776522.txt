@@ -1,0 +1,70 @@
+1 Bastion Protector
+1 Beatrix, Loyal General
+1 Cid, Freeflier Pilot
+1 Cloudsteel Kirin
+1 Codsworth, Handy Helper
+1 Danitha Capashen, Paragon
+1 Grand Abolisher
+1 Puresteel Paladin
+1 Sram, Senior Edificer
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Sun Titan
+1 Weapons Vendor
+1 Argentum Armor
+1 Basilisk Collar
+1 Blackblade Reforged
+1 Brotherhood Regalia
+1 Buster Sword
+1 Caduceus, Staff of Hermes
+1 Colossus Hammer
+1 Commander's Plate
+1 Excalibur, Sword of Eden
+1 Genji Glove
+1 Hammer of Nazahn
+1 Helm of the Host
+1 Mask of Memory
+1 Masterwork of Ingenuity
+1 Mithril Coat
+1 Pariah's Shield
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Forge and Frontier
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Thought Vessel
+1 Ultima Weapon
+1 Akroma's Will
+1 Clever Concealment
+1 Dispatch
+1 Rebuff the Wicked
+1 Reprieve
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Austere Command
+1 Farewell
+1 Fumigate
+1 Ishgard, the Holy See
+1 Open the Armory
+1 Single Combat
+1 Steelshaper's Gift
+1 Wrath of God
+1 Authority of the Consuls
+1 Entangler
+1 Forge Anew
+1 Ghostly Prison
+1 Mantle of the Ancients
+1 Sigarda's Aid
+1 Super State
+1 Trouble in Pairs
+1 Urza's Saga
+1 Buried Ruin
+1 Emeria, the Sky Ruin
+1 Inventors' Fair
+32 Plains
+1 Rogue's Passage
+Sideboard
+1 Cloud, Midgar Mercenary

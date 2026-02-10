@@ -1,0 +1,81 @@
+1 Thornwood Falls
+7 Swamp
+1 Simic Guildgate
+1 Shire Terrace
+1 Path of Ancestry
+1 Opulent Palace
+1 Jungle Hollow
+11 Island
+1 Golgari Guildgate
+5 Forest
+1 Exotic Orchard
+1 Evolving Wilds
+1 Dismal Backwater
+1 Command Tower
+1 Ash Barrens
+1 The Binding of the Titans
+1 Propaganda
+1 Forced Fruition
+1 Wear Down
+1 Singularity Rupture
+1 Nuclear Fallout
+1 Minds Aglow
+1 Gitaxian Probe
+1 Extract from Darkness
+1 Cultivate
+1 Breach the Multiverse
+1 Wheel and Deal
+1 Vision Skeins
+1 Mystic Repeal
+1 Go for the Throat
+1 Frost Breath
+1 Dream Fracture
+1 Arcane Denial
+1 Aetherize
+1 Zagoth Crystal
+1 Wayfarer's Bauble
+1 Traveler's Amulet
+1 The Water Crystal
+1 Temple Bell
+1 Soul-Guide Lantern
+1 Sol Ring
+1 Sentinel Totem
+1 Riverchurn Monument
+1 Mindcrank
+1 Fellwar Stone
+1 Commander's Sphere
+1 Arcane Signet
+1 Altar of the Brood
+1 Zenith Chronicler
+1 Wose Pathfinder
+1 Watchers of the Dead
+1 Storm Fleet Negotiator
+1 Solemn Simulacrum
+1 Soaring Show-Off
+1 Sidisi, Regent of the Mire
+1 Seizan, Perverter of Truth
+1 Screeching Scorchbeast
+1 Runed Servitor
+1 Raul, Trouble Shooter
+1 Pilgrim's Eye
+1 Palladium Myr
+1 Oildeep Gearhulk
+1 Nightkin Ambusher
+1 Naiad of Hidden Coves
+1 Mirelurk Queen
+1 Malanthrope
+1 Lorescale Coatl
+1 Kami of the Crescent Moon
+1 Infesting Radroach
+1 Glowing One
+1 Friendly Teddy
+1 Ertai Resurrected
+1 Dauntless Scrapbot
+1 Consuming Aberration
+1 Cirdan the Shipwright
+1 Chevill, Bane of Monsters
+1 Champion of Dusan
+1 Bloatfly Swarm
+1 Arboreal Grazer
+Sideboard
+1 The Wise Mothman

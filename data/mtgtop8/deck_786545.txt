@@ -1,0 +1,97 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Archon of the Wild Rose
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloom Tender
+1 Charismatic Conqueror
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Containment Priest
+1 Delighted Halfling
+1 Destiny Spinner
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Dryad Militant
+1 Eidolon of Astral Winds
+1 Eidolon of Rhetoric
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Gilded Goose
+1 Grand Abolisher
+1 Halvar, God of Battle
+1 Haywire Mite
+1 Hushbringer
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Leonin Arbiter
+1 Manglehorn
+1 Mirri, Weatherlight Duelist
+1 Ocelot Pride
+1 Rug of Smothering
+1 Serra Ascendant
+1 Setessan Champion
+1 Soulless Jailer
+1 Thalia, Heretic Cathar
+1 Voice of Victory
+1 Weathered Wayfarer
+1 Yasharn, Implacable Earth
+1 Damping Sphere
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Vexing Bauble
+1 Dawn's Truce
+1 Enlightened Tutor
+1 Legolas's Quick Reflexes
+1 Nature's Claim
+1 Orim's Chant
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Bridgeworks Battle
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Authority of the Consuls
+1 Blind Obedience
+1 Carpet of Flowers
+1 Darksteel Mutation
+1 Deafening Silence
+1 Greater Auramancy
+1 Land Tax
+1 Rest in Peace
+1 Rule of Law
+1 Sheltered by Ghosts
+1 Smothering Tithe
+1 Stony Silence
+1 Strength of the Harvest
+1 Sylvan Library
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Exotic Orchard
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Horizon Canopy
+1 Hushwood Verge
+4 Plains
+1 Razorverge Thicket
+1 Reliquary Tower
+1 Savannah
+1 Starting Town
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Ellivere of the Wild Court

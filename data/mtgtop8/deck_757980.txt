@@ -1,0 +1,83 @@
+1 Alseid of Life's Bounty
+1 Argothian Enchantress
+1 Avacyn's Pilgrim
+1 Azusa, Lost but Seeking
+1 Benevolent Bodyguard
+1 Calix, Guided by Fate
+1 Danitha, New Benalia's Light
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Ellivere of the Wild Court
+1 Enduring Innocence
+1 Enduring Vitality
+1 Femeref Enchantress
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Kodama of the West Tree
+1 Kor Spiritdancer
+1 Light-Paws, Emperor's Voice
+1 Mother of Runes
+1 Pearl-Ear, Imperial Advisor
+1 Sanctifier en-Vec
+1 Sanctum Weaver
+1 Setessan Champion
+1 Sigarda, Font of Blessings
+1 Sram, Senior Edificer
+1 Yasharn, Implacable Earth
+1 Cursed Totem
+1 Shadowspear
+1 Vexing Bauble
+1 Brought Back
+1 Dawn's Truce
+1 Reverent Mantra
+1 Tamiyo's Safekeeping
+1 Alpha Authority
+1 Ancestral Mask
+1 Burgeoning
+1 Darksteel Mutation
+1 Daybreak Coronet
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Flickering Ward
+1 Flowering of the White Tree
+1 Hallowed Haunting
+1 Hyena Umbra
+1 Journey to Nowhere
+1 Ossification
+1 Planar Disruption
+1 Rancor
+1 Rest in Peace
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Shield of the Oversoul
+1 Song of the Dryads
+1 Songbirds' Blessing
+1 Spider Umbra
+1 Spirit Mantle
+1 Static Prison
+1 Sterling Grove
+1 Stony Silence
+1 Strength of the Harvest
+1 Strong Back
+1 Swift Reconfiguration
+1 Touch the Spirit Realm
+1 Utopia Sprawl
+1 Wheel of Sun and Moon
+1 Wild Growth
+1 Canopy Vista
+1 Flooded Strand
+9 Forest
+1 Marsh Flats
+1 Overgrown Farmland
+11 Plains
+1 Shifting Woodland
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Sunpetal Grove
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Bastion
+Sideboard
+1 Sythis, Harvest's Hand

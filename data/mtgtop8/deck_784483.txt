@@ -1,0 +1,89 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Harmonic Prodigy
+1 Hullbreaker Horror
+1 Krark, the Thumbless
+1 Quicksilver Elemental
+1 Sakashima of a Thousand Faces
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mishra's Bauble
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Creativity
+1 Urza's Bauble
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Blazing Crescendo
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Brainstorm
+1 Cerulean Wisps
+1 Chaos Warp
+1 Consider
+1 Consult the Star Charts
+1 Counterspell
+1 Crimson Wisps
+1 Daze
+1 Deflecting Swat
+1 Desperate Ritual
+1 Frantic Search
+1 Long River's Pull
+1 Mental Misstep
+1 Opt
+1 Pact of Negation
+1 Peek
+1 Pyretic Ritual
+1 Reverberate
+1 Seething Song
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Virtue of Courage
+1 Bonus Round
+1 Chandra's Ignition
+1 Expressive Iteration
+1 Faithless Looting
+1 Gitaxian Probe
+1 Glimpse the Impossible
+1 Ignite Memories
+1 Irenicus's Vile Duplication
+1 Jeska's Will
+1 Light Up the Stage
+1 Ponder
+1 Preordain
+1 Reckless Impulse
+1 Rite of Flame
+1 Rousing Refrain
+1 Stock Up
+1 Strike It Rich
+1 Wild Ride
+1 Will of the Jeskai
+1 Windfall
+1 Wrenn's Resolve
+1 Curiosity
+1 Mystic Remora
+1 Ophidian Eye
+1 Underworld Breach
+1 Narset, Parter of Veils
+1 Ash Barrens
+1 Cascade Bluffs
+1 Command Tower
+1 Escape Tunnel
+1 Evolving Wilds
+1 Frostboil Snarl
+1 Gemstone Caverns
+7 Island
+1 Mistrise Village
+7 Mountain
+1 Shivan Reef
+1 Steam Vents
+1 Temple of Epiphany
+1 Terramorphic Expanse
+1 Thundering Falls
+1 Training Center
+Sideboard
+1 Vivi Ornitier

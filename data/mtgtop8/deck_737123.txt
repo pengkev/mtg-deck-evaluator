@@ -1,0 +1,90 @@
+1 Aradesh, the Founder
+1 Boomer Scrapper
+1 Captain of the Watch
+1 Colonel Autumn
+1 ED-E, Lonesome Eyebot
+1 Elder Arthur Maxson
+1 General's Enforcer
+1 Impassioned Orator
+1 Keeper of the Accord
+1 Kellogg, Dangerous Mind
+1 MacCready, Lamplight Mayor
+1 Mirkwood Bats
+1 Mondrak, Glory Dominus
+1 Morbid Opportunist
+1 Mysterious Stranger
+1 Overseer of Vault 76
+1 Pitiless Plunderer
+1 Powder Ganger
+1 Rose, Cutthroat Raider
+1 Securitron Squadron
+1 Vengeful Pharaoh
+1 Wasteland Raider
+1 White Glove Gourmand
+1 Yes Man, Personal Securitron
+1 Arcane Signet
+1 Idol of Oblivion
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Anguished Unmaking
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Entrapment Maneuver
+1 Lethal Scheme
+1 Path to Exile
+1 Secure the Wastes
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Terminate
+1 V.A.T.S.
+1 Wear/Tear
+1 Back for Seconds
+1 Demonic Tutor
+1 Hour of Reckoning
+1 Martial Coup
+1 Ruinous Ultimatum
+1 Assemble the Legion
+1 Bastion of Remembrance
+1 Black Market
+1 Fervent Charge
+1 Fervor
+1 Grave Pact
+1 Gravestorm
+1 Impact Tremors
+1 Intangible Virtue
+1 Stolen Strategy
+1 Vault 11: Voter's Dilemma
+1 Vault 75: Middle School
+1 Wild Wasteland
+1 Sorin Markov
+1 Canyon Slough
+1 Clifftop Retreat
+1 Command Tower
+1 Desolate Mire
+1 Diamond City
+1 Dragonskull Summit
+1 Fetid Heath
+1 Graven Cairns
+1 Isolated Chapel
+5 Mountain
+1 Nomad Outpost
+1 Path of Ancestry
+5 Plains
+1 Rugged Prairie
+1 Savai Triome
+1 Shadowblood Ridge
+1 Shattered Sanctum
+1 Smoldering Marsh
+4 Swamp
+1 Tainted Field
+1 Tainted Peak
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Windbrisk Heights
+Sideboard
+1 Caesar, Legion's Emperor

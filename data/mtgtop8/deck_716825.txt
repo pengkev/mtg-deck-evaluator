@@ -1,0 +1,101 @@
+1 Dualcaster Mage
+1 Auriok Salvagers
+1 Opposition Agent
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Esper Sentinel
+1 Ranger-Captain of Eos
+1 Dauthi Voidwalker
+1 Ragavan, Nimble Pilferer
+1 Orcish Bowmasters
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Stitcher's Supplier
+1 Dragon's Rage Channeler
+1 Voice of Victory
+1 Manifold Key
+1 Grim Monolith
+1 Mox Opal
+1 Voltaic Key
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Aetherflux Reservoir
+1 Bolas's Citadel
+1 Mana Vault
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Mox Amber
+1 Defense Grid
+1 Springleaf Drum
+1 Fellwar Stone
+1 Lotus Petal
+1 The One Ring
+1 Arcane Signet
+1 Sol Ring
+1 Vexing Bauble
+1 Grinding Station
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Silence
+1 Pyroblast
+1 Ad Nauseam
+1 Cabal Ritual
+1 Red Elemental Blast
+1 Vampiric Tutor
+1 Dark Ritual
+1 Tainted Pact
+1 Soul Partition
+1 Enlightened Tutor
+1 Deadly Rollick
+1 Deflecting Swat
+1 Angel's Grace
+1 Flare of Duplication
+1 Culling the Weak
+1 Final Fortune
+1 Rain of Filth
+1 Demonic Tutor
+1 Wheel of Fortune
+1 Rite of Flame
+1 Reanimate
+1 Imperial Seal
+1 Diabolic Intent
+1 Sevinne's Reclamation
+1 Gamble
+1 Faithless Looting
+1 Molten Duplication
+1 Jeska's Will
+1 Necropotence
+1 Touch the Spirit Realm
+1 Smothering Tithe
+1 Blind Obedience
+1 Underworld Breach
+1 Static Prison
+1 Urza's Saga
+1 Blood Crypt
+1 Godless Shrine
+1 Sacred Foundry
+1 Urborg, Tomb of Yawgmoth
+1 Badlands
+1 Plateau
+1 Scrubland
+1 Bloodstained Mire
+1 Luxury Suite
+1 Marsh Flats
+1 Arid Mesa
+1 Command Tower
+1 Mana Confluence
+1 City of Brass
+1 Exotic Orchard
+1 Mount Doom
+1 Cavern of Souls
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Spectator Seating
+1 Vault of Champions
+1 Spire of Industry
+1 Phyrexian Tower
+1 Sunbaked Canyon
+1 Silent Clearing
+Sideboard
+1 Tymna the Weaver
+1 Rograkh, Son of Rohgahh

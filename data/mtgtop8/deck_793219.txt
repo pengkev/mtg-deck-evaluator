@@ -1,0 +1,96 @@
+1 Altered Ego
+1 Canopy Vista
+1 Chameleon, Master of Disguise
+1 Clever Impersonator
+1 Clone
+1 Copycrook
+1 Farseek
+4 Forest
+1 Gigantoplasm
+1 Glacial Fortress
+1 Glasspool Mimic
+1 Icewind Stalwart
+2 Island
+1 Katara, the Fearless
+1 Mirror Image
+1 Mirrorhall Mimic
+1 Momentary Blink
+1 Mosswort Bridge
+1 Naga Fleshcrafter
+1 Nature's Lore
+1 Panharmonicon
+1 Path to Exile
+1 Phyrexian Metamorph
+2 Plains
+1 Restoration Angel
+1 Sakura-Tribe Elder
+1 Seachrome Coast
+1 Soulherder
+1 Spark Double
+1 Springbloom Druid
+1 Starfield Vocalist
+1 Stunt Double
+1 Swords to Plowshares
+1 Undercover Operative
+1 Visage Bandit
+1 Vizier of Many Faces
+1 Wall of Stolen Identity
+1 Waxen Shapethief
+1 Wood Elves
+1 Flesh Duplicate
+1 Virtue of Knowledge
+1 Seaside Citadel
+1 Wild Growth
+1 Tranquil Landscape
+1 Airbender Ascension
+1 Oji, the Exquisite Blade
+1 Aether Channeler
+1 Ash Barrens
+1 Yavimaya Coast
+1 Adarkar Wastes
+1 Brushland
+1 Sunpetal Grove
+1 Waterbender's Restoration
+1 Spirit Water Revival
+1 Farhaven Elf
+1 Cephalid Coliseum
+1 Eldrazi Displacer
+1 Coiling Oracle
+1 Eternal Witness
+1 Parting Gust
+1 Irrigated Farmland
+1 Alchemist's Refuge
+1 Felidar Guardian
+1 Port Town
+1 Prairie Stream
+1 Hinterland Harbor
+1 Essence Flux
+1 Cloudshift
+1 Loran of the Third Path
+1 Venser, Shaper Savant
+1 White Plume Adventurer
+1 Command Tower
+1 Overgrown Farmland
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Blighted Woodland
+1 Fortified Village
+1 Tangled Islet
+1 Growth Spiral
+1 Skyclave Apparition
+1 Planar Genesis
+1 Unwanted Remake
+1 Kutzil, Malamet Exemplar
+1 Utopia Sprawl
+1 Reclamation Sage
+1 Timeless Witness
+1 Llanowar Elves
+1 Mystic Snake
+1 Loaming Shaman
+1 Glen Elendra Archmage
+1 Radiant Grove
+1 Glacial Floodplain
+1 Charming Prince
+1 Frilled Mystic
+Sideboard
+1 Aang, at the Crossroads

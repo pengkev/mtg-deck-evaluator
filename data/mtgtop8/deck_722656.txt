@@ -1,0 +1,82 @@
+1 Electrostatic Infantry
+1 Murmuring Mystic
+1 Frolicking Familiar
+1 Third Path Iconoclast
+1 Stormcatch Mentor
+1 Coruscation Mage
+1 Harnesser of Storms
+1 Stormsplitter
+1 Kindlespark Duo
+1 Kitsa, Otterball Elite
+1 Thieving Otter
+1 Rapid Augmenter
+1 Valley Floodcaller
+1 Balmor, Battlemage Captain
+1 Storm-Kiln Artist
+1 Archmage Emeritus
+1 Veyran, Voice of Duality
+1 Young Pyromancer
+1 Spark Double
+1 Thundertrap Trainer
+1 Alania, Divergent Storm
+1 Thought Vessel
+1 Sol Ring
+1 Arcane Signet
+1 Izzet Signet
+1 Talisman of Creativity
+1 Lightning Bolt
+1 Izzet Charm
+1 High Tide
+1 Negate
+1 Consider
+1 Take the Fall
+1 Arcane Denial
+1 Into the Flood Maw
+1 Shore Up
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Counterspell
+1 Burst Lightning
+1 Shock
+1 Abrade
+1 Frantic Search
+1 Opt
+1 Chaos Warp
+1 Snap
+1 Galvanic Iteration
+1 Sleight of Hand
+1 Windfall
+1 Slip Through Space
+1 Serum Visions
+1 Lorien Revealed
+1 Quantum Misalignment
+1 Mizzix's Mastery
+1 Expressive Iteration
+1 Pearl of Wisdom
+1 Otterball Antics
+1 Irenicus's Vile Duplication
+1 Ponder
+1 Preordain
+1 Treasure Cruise
+1 Unending Whisper
+1 Vandalblast
+1 Stormchaser's Talent
+1 Sorcerer Class
+1 Ral, Crackling Wit
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Fiery Islet
+1 Stormcarved Coast
+1 Mystic Sanctuary
+1 Izzet Boilerworks
+1 Reliquary Tower
+1 Frostboil Snarl
+1 Sulfur Falls
+1 Command Tower
+1 Cascade Bluffs
+1 Shivan Reef
+1 Temple of Epiphany
+7 Mountain
+14 Island
+Sideboard
+1 Bria, Riptide Rogue

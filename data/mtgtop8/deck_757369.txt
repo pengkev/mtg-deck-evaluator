@@ -1,0 +1,75 @@
+1 Bloodgift Demon
+1 Crypt Ghast
+1 Geth, Lord of the Vault
+1 Graveborn Muse
+1 Massacre Girl
+1 Nirkana Revenant
+1 Sheoldred, the Apocalypse
+1 Solemn Simulacrum
+1 Arcane Signet
+1 Expedition Map
+1 Gauntlet of Power
+1 Jet Medallion
+1 Mind Stone
+1 Mindcrank
+1 Rings of Brighthearth
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Domination
+1 Thought Vessel
+1 Wishclaw Talisman
+1 Worn Powerstone
+1 Archenemy's Charm
+1 Baleful Mastery
+1 Bitter Triumph
+1 Dark Ritual
+1 Defile
+1 Fell the Profane
+1 Go for the Throat
+1 Imp's Mischief
+1 Infernal Grasp
+1 Snuff Out
+1 Withering Torment
+1 Ambition's Cost
+1 Ancient Craving
+1 Beseech the Queen
+1 Chain of Smog
+1 Damnation
+1 Diabolic Tutor
+1 Exsanguinate
+1 Feed the Swarm
+1 Grim Tutor
+1 Innocent Blood
+1 Insatiable Avarice
+1 Mutilate
+1 Night's Whisper
+1 Peer into the Abyss
+1 Read the Bones
+1 Sign in Blood
+1 Strategic Betrayal
+1 Syphon Mind
+1 Torment of Hailfire
+1 Yawgmoth's Will
+1 Bitterblossom
+1 Black Market Connections
+1 Bloodchief Ascension
+1 No Mercy
+1 Painful Quandary
+1 Phyrexian Arena
+1 The Cruelty of Gix
+1 Liliana, Dreadhorde General
+1 Professor Onyx
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Cabal Coffers
+1 Deserted Temple
+1 Reliquary Tower
+1 Shizo, Death's Storehouse
+1 Strip Mine
+27 Swamp
+1 Temple of the False God
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+Sideboard
+1 Kagemaro, First to Suffer

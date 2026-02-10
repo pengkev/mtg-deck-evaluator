@@ -1,0 +1,101 @@
+1 Time Sieve
+1 Lotus Petal
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Imposter Mech
+1 Chrome Mox
+1 The One Ring
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Talisman of Progress
+1 Fellwar Stone
+1 Sol Ring
+1 Mox Opal
+1 Mana Drain
+1 Fierce Guardianship
+1 Mental Misstep
+1 Enlightened Tutor
+1 Demonic Consultation
+1 Force of Will
+1 Mindbreak Trap
+1 Pact of Negation
+1 Thraben Charm
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Mystical Tutor
+1 Cyclonic Rift
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Dark Ritual
+1 Tainted Pact
+1 Vanishing Verse
+1 Force of Negation
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Flusterstorm
+1 Beseech the Mirror
+1 Sevinne's Reclamation
+1 Lively Dirge
+1 Imperial Seal
+1 Diabolic Intent
+1 Demonic Tutor
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 Monologue Tax
+1 Mirrormade
+1 Mystic Remora
+1 Smothering Tithe
+1 Rhystic Study
+1 Amphibian Downpour
+1 Ranger-Captain of Eos
+1 Opposition Agent
+1 Grim Hireling
+1 Hullbreaker Horror
+1 Tivit, Seller of Secrets
+1 Monastery Mentor
+1 Faerie Artisans
+1 Charismatic Conqueror
+1 Kambal, Profiteering Mayor
+1 Ocelot Pride
+1 Mockingbird
+1 Rev, Tithe Extractor
+1 Stridehangar Automaton
+1 Thassa's Oracle
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Warren Soultrader
+1 Grand Abolisher
+1 Urza's Saga
+1 Urborg, Tomb of Yawgmoth
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Arid Mesa
+1 Cavern of Souls
+1 Meticulous Archive
+1 Bloodstained Mire
+1 Gloomlake Verge
+1 Exotic Orchard
+1 Ancient Tomb
+1 Misty Rainforest
+1 Marsh Flats
+1 Scalding Tarn
+1 Hallowed Fountain
+1 Mana Confluence
+1 Polluted Delta
+1 Godless Shrine
+1 Watery Grave
+1 Flooded Strand
+1 Command Tower
+1 City of Brass
+1 Sea of Clouds
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Raffine's Tower
+1 Gemstone Caverns
+Sideboard
+1 Marneus Calgar

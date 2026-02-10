@@ -1,0 +1,87 @@
+1 Boseiju Reaches Skyward
+1 Brightcap Badger
+1 Destiny Spinner
+1 Eidolon of Blossoms
+1 Fanatic of Rhonas
+1 Garruk's Packleader
+1 Ghalta, Primal Hunger
+1 Goblin Anarchomancer
+1 Grothama, All-Devouring
+1 Grumgully, the Generous
+1 Jhoira's Familiar
+1 Kodama of the East Tree
+1 Llanowar Elves
+1 Oviya, Automech Artisan
+1 Pyrewood Gearhulk
+1 Rampaging Baloths
+1 Ruby, Daring Tracker
+1 Sakura-Tribe Elder
+1 Saryth, the Viper's Fang
+1 Skitterbeam Battalion
+1 Tendershoot Dryad
+1 Trailtracker Scout
+1 Verduran Enchantress
+1 Wandertale Mentor
+1 Wildsear, Scouring Maw
+1 Arcane Signet
+1 Bootleggers' Stash
+1 Chimil, the Inner Sun
+1 Doors of Durin
+1 Esika's Chariot
+1 Gilded Lotus
+1 Hedron Archive
+1 Rolling Hamsphere
+1 Sol Ring
+1 Spine of Ish Sah
+1 Thought Vessel
+1 Thran Dynamo
+1 Beast Within
+1 Big Score
+1 Defend the Rider
+1 Smuggler's Surprise
+1 Starstorm
+1 Tamiyo's Safekeeping
+1 Blasphemous Act
+1 Cultivate
+1 Farseek
+1 Full Throttle
+1 Harmonize
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Abundance
+1 Asceticism
+1 Berserkers' Onslaught
+1 Elven Chorus
+1 Garruk's Uprising
+1 Glorious Sunrise
+1 Gratuitous Violence
+1 Greater Good
+1 March of the World Ooze
+1 Path of Discovery
+1 Primeval Bounty
+1 Rain of Riches
+1 Sunbird's Invocation
+1 Thickest in the Thicket
+1 Unnatural Growth
+1 Warstorm Surge
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Evendo, Waking Haven
+1 Fabled Passage
+9 Forest
+1 Forgotten Cave
+1 Game Trail
+1 Gruul Turf
+1 Karplusan Forest
+1 Mosswort Bridge
+7 Mountain
+1 Raging Ravine
+1 Reliquary Tower
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Temple of Abandon
+1 Tranquil Thicket
+1 Wooded Ridgeline
+Sideboard
+1 Bello, Bard of the Brambles

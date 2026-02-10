@@ -1,0 +1,79 @@
+1 Akki Battle Squad
+1 Ascendant Acolyte
+1 Champion of Lambholt
+1 End-Raze Forerunners
+1 Forgotten Ancient
+1 Godo, Bandit Warlord
+1 Grumgully, the Generous
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Krenko, Tin Street Kingpin
+1 Loyal Guardian
+1 Metallic Mimic
+1 Orochi Merge-Keeper
+1 Red XIII, Proud Warrior
+1 Rishkar, Peema Renegade
+1 Taurean Mauler
+1 Toggo, Goblin Weaponsmith
+1 Arcane Signet
+1 Basilisk Collar
+1 Bloodforged Battle-Axe
+1 Buster Sword
+1 Darksteel Plate
+1 Embercleave
+1 Hunter's Bow
+1 Lightning Greaves
+1 Mage Slayer
+1 Masterwork of Ingenuity
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Reaver Cleaver
+1 Beast Within
+1 Chaos Warp
+1 Inspiring Call
+1 Silkguard
+1 Chain Reaction
+1 Decimate
+1 Kodama's Reach
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Shamanic Revelation
+1 Time of Need
+1 All Will Be One
+1 Bear Umbra
+1 Colossal Majesty
+1 Concord with the Kami
+1 Draconic Destiny
+1 Frog Tongue
+1 Hydra's Growth
+1 Kenrith's Transformation
+1 Lignify
+1 Lion Umbra
+1 New Horizons
+1 Ordeal of Nylea
+1 Rancor
+1 Rhythm of the Wild
+1 Rune of Might
+1 Snake Umbra
+1 Spider Umbra
+1 Tribute to the World Tree
+1 Unquenchable Fury
+1 Whip Silk
+1 Wild Growth
+1 Wolfwillow Haven
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+15 Forest
+1 Game Trail
+1 Gruul Turf
+1 Mossfire Valley
+9 Mountain
+1 Opal Palace
+1 Oran-Rief, the Vastwood
+1 Sheltered Thicket
+1 Temple of Abandon
+Sideboard
+1 Chishiro, the Shattered Blade

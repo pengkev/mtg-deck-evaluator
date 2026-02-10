@@ -1,0 +1,99 @@
+1 Dauntless Dismantler
+1 Delney, Streetwise Lookout
+1 Displacer Kitten
+1 Dour Port-Mage
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Felidar Guardian
+1 Flesh Duplicate
+1 Giver of Runes
+1 Grand Abolisher
+1 Hullbreaker Horror
+1 Lady Octopus, Inspired Inventor
+1 Naru Meha, Master Wizard
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Preston, the Vanisher
+1 Ranger-Captain of Eos
+1 Restoration Angel
+1 Scheming Fence
+1 Shield Sphere
+1 Soulless Jailer
+1 Spellskite
+1 Starfield Vocalist
+1 Tataru Taru
+1 Urza, Lord High Artificer
+1 Valley Floodcaller
+1 Voice of Victory
+1 Altar of the Brood
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Relic of Legends
+1 Sol Ring
+1 Talisman of Progress
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Blur
+1 Borne Upon a Wind
+1 Cloudshift
+1 Enlightened Tutor
+1 Ephemerate
+1 Essence Flux
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Ghostly Flicker
+1 Mental Misstep
+1 Mindbreak Trap
+1 Miscast
+1 Misdirection
+1 Momentary Blink
+1 Path to Exile
+1 Silence
+1 Submerge
+1 Swan Song
+1 Blind Obedience
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arid Mesa
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Hengegate Pathway
+2 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+2 Plains
+1 Polluted Delta
+1 Scalding Tarn
+1 Sea of Clouds
+1 Tundra
+1 Windswept Heath
+Sideboard
+1 Plagon, Lord of the Beach

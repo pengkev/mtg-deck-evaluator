@@ -1,0 +1,83 @@
+1 Cold-Eyed Selkie
+1 Deeproot Elite
+1 Deeproot Historian
+1 Emperor Mihail II
+1 Evolution Sage
+1 Herald of Secret Streams
+1 Kiora's Follower
+1 Kopala, Warden of Waves
+1 Kumena, Tyrant of Orazca
+1 Master of the Pearl Trident
+1 Merfolk Cave-Diver
+1 Merfolk Mistbinder
+1 Merfolk Skydiver
+1 Merfolk Sovereign
+1 Merrow Reejerey
+1 Mist Dancer
+1 Nicanzil, Current Conductor
+1 Prime Speaker Zegana
+1 Realmwalker
+1 Sage of Fables
+1 Seafloor Oracle
+1 Singer of Swift Rivers
+1 Stonybrook Banneret
+1 Surgespanner
+1 Svyelun of Sea and Sky
+1 Tatyova, Benthic Druid
+1 Thassa, God of the Sea
+1 Thieving Skydiver
+1 Topography Tracker
+1 Tributary Instructor
+1 Zegana, Utopian Speaker
+1 Akroma's Memorial
+1 Arcane Signet
+1 Simic Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Aetherize
+1 Arcane Denial
+1 Beast Within
+1 Growth Spiral
+1 Inspiring Call
+1 Nexus of Fate
+1 Quandrix Command
+1 Rapid Hybridization
+1 Ruinous Intrusion
+1 Curse of the Swine
+1 Explore
+1 Grow from the Ashes
+1 Kodama's Reach
+1 Ravenform
+1 Replication Technique
+1 Wave Goodbye
+1 Branching Evolution
+1 Deeproot Waters
+1 Hardened Scales
+1 Kindred Discovery
+1 Mana Reflection
+1 Primal Vigor
+1 Primeval Bounty
+1 Propaganda
+1 Reflections of Littjara
+1 Simic Ascendancy
+1 Unnatural Growth
+1 Alchemist's Refuge
+1 Command Tower
+7 Forest
+1 Hinterland Harbor
+13 Island
+1 Karn's Bastion
+1 Llanowar Reborn
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Temple of the False God
+1 Unclaimed Territory
+1 Vineglimmer Snarl
+Sideboard
+1 Hakbal of the Surging Soul

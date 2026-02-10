@@ -1,0 +1,97 @@
+1 Hydroelectric Specimen
+1 Sea Gate Restoration
+1 Sink into Stupor
+1 Aether Spellbomb
+1 Ancient Tomb
+1 Arcane Signet
+1 Banishing Knack
+1 Basalt Monolith
+1 Battered Golem
+1 Borne Upon a Wind
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Traitors
+1 Clever Impersonator
+1 Codex Shredder
+1 Commandeer
+1 Copy Artifact
+1 Copy Enchantment
+1 Crystal Vein
+1 Dispel
+1 Disrupting Shoal
+1 Dramatic Reversal
+1 Emergence Zone
+1 Everflowing Chalice
+1 Fabricate
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Fomori Vault
+1 Force of Negation
+1 Force of Will
+1 Forensic Gadgeteer
+1 Gemstone Caverns
+1 Gilded Drake
+1 Grafdigger's Cage
+1 Grim Monolith
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Imposter Mech
+1 Inventors' Fair
+5 Island
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Ledger Shredder
+1 Lotus Petal
+1 Mana Drain
+1 Mana Vault
+1 Manifold Key
+1 Mental Misstep
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap
+1 Mirrormade
+1 Misdirection
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Mockingbird
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Oboro, Palace in the Clouds
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Pollywog Prodigy
+1 Pongify
+1 Power Artifact
+1 Prismatic Vista
+1 Rapid Hybridization
+1 Repurposing Bay
+1 Reshape
+1 Retraction Helix
+1 Rhystic Study
+1 Sapphire Medallion
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Sol Ring
+1 Spellskite
+1 Swan Song
+1 Talon Gates of Madara
+1 Tezzeret the Seeker
+1 The One Ring
+1 Tormod's Crypt
+1 Transmute Artifact
+1 Urza's Bauble
+1 Urza's Saga
+1 Valley Floodcaller
+1 Voltaic Key
+1 Whir of Invention
+Sideboard
+1 Urza, Lord High Artificer

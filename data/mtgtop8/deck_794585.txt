@@ -1,0 +1,79 @@
+1 Witty Roastmaster
+1 Hobgoblin Bandit Lord
+1 Dark-Dweller Oracle
+1 Stadium Headliner
+1 Skirk Prospector
+1 Graaz, Unstoppable Juggernaut
+1 Goblin Instigator
+1 Molten Gatekeeper
+1 Devilish Valet
+1 Grenzo, Havoc Raiser
+1 Battle Cry Goblin
+1 Treasure Nabber
+1 Goblin Recruiter
+1 Ogre Battledriver
+1 Krenko, Tin Street Kingpin
+1 Goblin Matron
+1 Goblin Piledriver
+1 Siege-Gang Commander
+1 Marvin, Murderous Mimic
+1 Goblin Sledder
+1 Combat Celebrant
+1 Rundvelt Hordemaster
+1 Mogg War Marshal
+1 Searslicer Goblin
+1 Bloodline Pretender
+1 Draconautics Engineer
+1 Goblin Lookout
+1 Magewright's Stone
+1 Patchwork Banner
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Thornbite Staff
+1 Coat of Arms
+1 Heirloom Blade
+1 Sting, the Glinting Dagger
+1 Skullclamp
+1 Sol Ring
+1 Heraldic Banner
+1 Outnumber
+1 Return the Favor
+1 Battle Hymn
+1 Untimely Malfunction
+1 Chaos Warp
+1 Burning Sun's Fury
+1 Goblin Rally
+1 Jaya's Immolating Inferno
+1 Chain Reaction
+1 Hordeling Outburst
+1 Mizzium Mortars
+1 Calamity of Cinders
+1 Goblin War Party
+1 Blasphemous Act
+1 Reckless Impulse
+1 Shared Animosity
+1 Goblin Bombardment
+1 Count on Luck
+1 Boggart Shenanigans
+1 Roar of Resistance
+1 Frenzied Fugue
+1 Bitter Reunion
+1 Impact Tremors
+1 Case of the Crimson Pulse
+1 Path of Ancestry
+1 Castle Embereth
+1 Hidden Grotto
+23 Mountain
+1 Blast Zone
+1 Conduit Pylons
+1 Quicksand
+1 Ominous Cemetery
+1 Fountainport
+1 Spinerock Knoll
+1 Command Beacon
+1 Amonkhet Raceway
+1 Underdark Rift
+1 Rogue's Passage
+1 Mines of Moria
+Sideboard
+1 Krenko, Mob Boss

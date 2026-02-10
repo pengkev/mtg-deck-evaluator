@@ -1,0 +1,101 @@
+1 Chancellor of the Annex
+1 Elesh Norn, Grand Cenobite
+1 Phyrexian Metamorph
+1 Recruiter of the Guard
+1 Sakashima the Impostor
+1 Ghostly Pilferer
+1 Clever Impersonator
+1 Putrid Imp
+1 Sharuum the Hegemon
+1 Peregrine Drake
+1 Void Winnower
+1 Stern Constable
+1 Nimble Obstructionist
+1 Razaketh, the Foulblooded
+1 Phantasmal Image
+1 Grand Arbiter Augustin IV
+1 Trickster Mage
+1 Palinchron
+1 Spark Double
+1 Ranger-Captain of Eos
+1 Vizier of Many Faces
+1 Disciple of Deceit
+1 Great Whale
+1 Gigantoplasm
+1 Drannith Magistrate
+1 Gyruda, Doom of Depths
+1 Tireless Tribe
+1 Sakashima of a Thousand Faces
+1 Angel of the Ruins
+1 Esper Sentinel
+1 Archivist of Oghma
+1 Ratadrabik of Urborg
+1 Ertai Resurrected
+1 Callidus Assassin
+1 Elesh Norn, Mother of Machines
+1 Mondrak, Glory Dominus
+1 Faerie Mastermind
+1 Titan of Littjara
+1 Flesh Duplicate
+1 Auton Soldier
+1 Ojer Taq, Deepest Foundation
+1 Roaming Throne
+1 Tishana's Tidebinder
+1 Psychic Frog
+1 Angel of Indemnity
+1 Pollywog Prodigy
+1 Valgavoth, Terror Eater
+1 Metamorphosis Fanatic
+1 Marneus Calgar
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Talisman of Progress
+1 Talisman of Dominance
+1 The Underworld Cookbook
+1 Bloodthorn Flail
+1 Frantic Search
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Angel's Grace
+1 Mindbreak Trap
+1 Demonic Tutor
+1 Rhystic Study
+1 Land Tax
+1 Tortured Existence
+1 Tinybones Joins Up
+1 Island
+1 Plains
+1 Command Tower
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Snow-Covered Plains
+1 Exotic Orchard
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Geier Reach Sanitarium
+1 Bloodstained Mire
+1 Flooded Strand
+1 Godless Shrine
+1 Watery Grave
+1 Ancient Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Hallowed Fountain
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Windswept Heath
+1 Reflecting Pool
+1 Bazaar of Baghdad
+1 Hall of Heliod's Generosity
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Spymaster's Vault
+1 Talon Gates of Madara
+1 Three Tree City
+Sideboard
+1 Hashaton, Scarab's Fist

@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Coruscation Mage
+1 Dragon's Rage Channeler
+1 Firebrand Archer
+1 Glaring Fleshraker
+1 Goblin Engineer
+1 Imperial Recruiter
+1 Kederekt Parasite
+1 Kessig Flamebreather
+1 Orcish Bowmasters
+1 Prosper, Tome-Bound
+1 Razorkin Needlehead
+1 Reckless Fireweaver
+1 Walking Ballista
+1 Weftstalker Ardent
+1 Aetherflux Reservoir
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Black Mage's Rod
+1 Bolas's Citadel
+1 Chrome Mox
+1 Conqueror's Flail
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Grim Monolith
+1 Grinding Station
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Rakdos Signet
+1 Ruby Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Indulgence
+1 Unstable Amulet
+1 Wishclaw Talisman
+1 Abrade
+1 Active Volcano
+1 Bolt Bend
+1 Cabal Ritual
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Final Fortune
+1 Flare of Duplication
+1 Gut Shot
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Ricochet Trap
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Feed the Swarm
+1 Gamble
+1 Grapeshot
+1 Imperial Seal
+1 Jeska's Will
+1 Praetor's Grasp
+1 Rite of Flame
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Kaya's Ghostform
+1 Necropotence
+1 Powerbalance
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Graven Cairns
+1 Great Furnace
+1 Homeward Path
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Plaza of Heroes
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Sulfurous Springs
+1 Vault of Whispers
+1 Verdant Catacombs
+Sideboard
+1 Ob Nixilis, Captive Kingpin

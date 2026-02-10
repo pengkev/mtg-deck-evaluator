@@ -1,0 +1,101 @@
+1 Ranger-Captain of Eos
+1 Thassa's Oracle
+1 Nomads en-Kor
+1 Nezahal, Primal Tide
+1 Notion Thief
+1 Tireless Tribe
+1 Esper Sentinel
+1 Jin-Gitaxias, Core Augur
+1 Ledger Shredder
+1 Abdel Adrian, Gorion's Ward
+1 Sheoldred, the Apocalypse
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Grand Abolisher
+1 Psychic Frog
+1 Kitsa, Otterball Elite
+1 Cephalid Illusionist
+1 Valgavoth, Terror Eater
+1 Consecrated Sphinx
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Chrome Mox
+1 Grim Monolith
+1 Mana Vault
+1 Talisman of Hierarchy
+1 Mox Opal
+1 Mox Diamond
+1 Talisman of Dominance
+1 Mox Amber
+1 Talisman of Progress
+1 The One Ring
+1 Fellwar Stone
+1 Entomb
+1 Cyclonic Rift
+1 Pact of Negation
+1 Dark Ritual
+1 Intuition
+1 Flusterstorm
+1 Force of Negation
+1 Fierce Guardianship
+1 Force of Will
+1 Silence
+1 Mana Drain
+1 Angel's Grace
+1 Tainted Pact
+1 Saw in Half
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Frantic Search
+1 Mindbreak Trap
+1 Flare of Denial
+1 Sink into Stupor
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Cabal Ritual
+1 Demonic Tutor
+1 Windfall
+1 Reanimate
+1 Sevinne's Reclamation
+1 Dread Return
+1 Careful Study
+1 Demonic Counsel
+1 Rhystic Study
+1 Steal Enchantment
+1 Dance of the Dead
+1 Tortured Existence
+1 Mystic Remora
+1 Necropotence
+1 Smothering Tithe
+1 Animate Dead
+1 Necromancy
+1 Teferi, Master of Time
+1 Mystic Sanctuary
+1 Command Tower
+1 Minamo, School at Water's Edge
+1 Hallowed Fountain
+1 Watery Grave
+1 Marsh Flats
+1 Mana Confluence
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Island
+1 Plains
+1 Swamp
+1 Arid Mesa
+1 Scalding Tarn
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 Meticulous Archive
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 City of Brass
+1 Cephalid Coliseum
+Sideboard
+1 Hashaton, Scarab's Fist

@@ -1,0 +1,82 @@
+1 Aclazotz, Deepest Betrayal
+1 Alpharael, Stonechosen
+1 Blood Artist
+1 Bloodthirsty Conqueror
+1 Caustic Bronco
+1 Child of Night
+1 Cynical Loner
+1 Deathgreeter
+1 Desperate Bloodseeker
+1 Dread Presence
+1 Falkenrath Noble
+1 Gravecrawler
+1 Gray Merchant of Asphodel
+1 Hired Poisoner
+1 Indulgent Aristocrat
+1 K'rrik, Son of Yawgmoth
+1 Liliana's Elite
+1 Magus of the Coffers
+1 Midnight Reaper
+1 Millikin
+1 Mire Triton
+1 Night Market Lookout
+1 Razaketh, the Foulblooded
+1 Sedgemoor Witch
+1 Servant of the Stinger
+1 Shard of the Nightbringer
+1 Stinkweed Imp
+1 Syr Konrad, the Grim
+1 Szarekh, the Silent King
+1 Torgaar, Famine Incarnate
+1 Typhoid Rats
+1 Unstoppable Slasher
+1 Vampire Nighthawk
+1 Vile Entomber
+1 Arcane Signet
+1 Bolas's Citadel
+1 Commander's Sphere
+1 Everflowing Chalice
+1 Jet Medallion
+1 Palantir of Orthanc
+1 Phyrexian Altar
+1 Pristine Talisman
+1 Profane Memento
+1 Sol Ring
+1 The Darkness Crystal
+1 Transmutation Font
+1 Corpse Churn
+1 Gravepurge
+1 Malakir Rebirth
+1 Mausoleum Secrets
+1 Songs of the Damned
+1 Vampiric Tutor
+1 Beseech the Queen
+1 Blood Tribute
+1 Damnation
+1 Demonic Tutor
+1 Mourner's Surprise
+1 Profane Tutor
+1 Dogged Pursuit
+1 Exquisite Blood
+1 Heartless Summoning
+1 No Mercy
+1 Phyrexian Reclamation
+1 Liliana of the Dark Realms
+1 Sorin Markov
+1 Blighted Fen
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Conduit Pylons
+1 Crypt of Agadeem
+1 Fomori Vault
+1 Hidden Necropolis
+1 Mortuary Mire
+1 Nykthos, Shrine to Nyx
+1 Opal Palace
+1 Radiant Fountain
+20 Swamp
+1 Unknown Shores
+1 Witch's Cottage
+Sideboard
+1 Vito, Thorn of the Dusk Rose

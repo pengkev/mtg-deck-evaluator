@@ -1,0 +1,77 @@
+1 Liliana's Standard Bearer
+1 Epicure of Blood
+1 Ichorid
+1 Sengir Autocrat
+1 Smothering Abomination
+1 Lampad of Death's Vigil
+1 Weaponcraft Enthusiast
+1 Reassembling Skeleton
+1 Gray Merchant of Asphodel
+1 Defiant Bloodlord
+1 Ogre Slumlord
+1 Dire Fleet Ravager
+1 Viscera Seer
+1 Cartel Aristocrat
+1 Dimir House Guard
+1 Thieving Amalgam
+1 Nine-Lives Familiar
+1 Woe Strider
+1 Zulaport Cutthroat
+1 Vindictive Vampire
+1 Falkenrath Noble
+1 Harvester of Souls
+1 Marauding Blight-Priest
+1 Fleshtaker
+1 Cathar Commando
+1 Bloodghast
+1 Midnight Reaper
+1 Gravecrawler
+1 Fellwar Stone
+1 Liquimetal Torque
+1 Charcoal Diamond
+1 Marble Diamond
+1 Wayfarer's Bauble
+1 Prismatic Lens
+1 Mind Stone
+1 Arcane Signet
+1 Sol Ring
+1 Orzhov Signet
+1 Talisman of Hierarchy
+1 Call the Coppercoats
+1 Rise of the Dread Marn
+1 Oblation
+1 Utter End
+1 Fracture
+1 Despark
+1 Kaya's Wrath
+1 Read the Bones
+1 Blot Out the Sky
+1 Martial Coup
+1 Ascend from Avernus
+1 Austere Command
+1 Victimize
+1 Dusk/Dawn
+1 Hidden Stockpile
+1 Blight Mound
+1 Warlock Class
+1 Field of Souls
+1 Agent of the Iron Throne
+1 Vampiric Rites
+1 Fanatical Devotion
+1 Ghoulish Procession
+1 Dreadhorde Invasion
+1 Caves of Koilos
+1 Exotic Orchard
+1 Command Tower
+1 Myriad Landscape
+1 Tainted Field
+1 Temple of Silence
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Obscura Storefront
+1 Orzhov Basilica
+1 Ash Barrens
+8 Plains
+18 Swamp
+Sideboard
+1 Elas il-Kor, Sadistic Pilgrim

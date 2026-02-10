@@ -1,0 +1,101 @@
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Izzet Signet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Ancestors' Aid
+1 Big Score
+1 Blazing Crescendo
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Desperate Ritual
+1 Energybending
+1 Epiphany at the Drownyard
+1 Exclude
+1 Fierce Guardianship
+1 Firemind's Foresight
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Intuition
+1 Invert/Invent
+1 Louisoix's Sacrifice
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Pyretic Ritual
+1 Reckless Ransacking
+1 Reiterate
+1 Resculpt
+1 Seething Song
+1 Sink into Stupor
+1 Snap
+1 Storm King's Thunder
+1 Sudden Breakthrough
+1 Unwind
+1 Water Wings
+1 Whirlwind Denial
+1 Aminatou's Augury
+1 Bonus Round
+1 Covenant of Minds
+1 Crackle with Power
+1 Fear, Fire, Foes!
+1 Gamble
+1 Glimpse the Impossible
+1 Hidden Strings
+1 Inspired Tinkering
+1 Introduction to Prophecy
+1 Jeska's Will
+1 Merchant Scroll
+1 Mystic Retrieval
+1 Past in Flames
+1 Pirate's Pillage
+1 Pirate's Prize
+1 Rite of Flame
+1 Seize the Spoils
+1 Shatterskull Smashing
+1 Solve the Equation
+1 Sorceress's Schemes
+1 Stock Up
+1 Tezzeret's Gambit
+1 Zenith Festival
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Tarnished Citadel
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Vadrik, Astral Archmage

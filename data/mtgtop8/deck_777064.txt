@@ -1,0 +1,85 @@
+1 Amoeboid Changeling
+1 Dire Fleet Daredevil
+1 Drift of Phantasms
+1 Dualcaster Mage
+1 Glint-Horn Buccaneer
+1 Imperial Recruiter
+1 Ingenious Artillerist
+1 Magda, Brazen Outlaw
+1 Malcolm, Alluring Scoundrel
+1 Niv-Mizzet, Parun
+1 Oaken Siren
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+1 Shao Jun
+1 Simian Spirit Guide
+1 Siren Stormtamer
+1 Sunshot Militia
+1 Tandem Lookout
+1 Warkite Marauder
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Izzet Signet
+1 Mana Vault
+1 Maskwood Nexus
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Pyre of Heroes
+1 Sol Ring
+1 Talisman of Creativity
+1 Alchemist's Retrieval
+1 An Offer You Can't Refuse
+1 Artificial Evolution
+1 Commander's Insight
+1 Counterspell
+1 Daze
+1 Delay
+1 Dispel
+1 Flare of Duplication
+1 Force of Negation
+1 Izzet Charm
+1 Lofty Denial
+1 March of Swirling Mist
+1 Miscast
+1 Muddle the Mixture
+1 Negate
+1 Null Elemental Blast
+1 Red Elemental Blast
+1 Sink into Stupor
+1 Slip Out the Back
+1 Snapback
+1 Spell Pierce
+1 Trickbind
+1 Trickery Charm
+1 Unsubstantiate
+1 Wings of Velis Vel
+1 Claim the Firstborn
+1 Gamble
+1 Last Chance
+1 Merchant Scroll
+1 Step Through
+1 Strategic Planning
+1 Twinflame
+1 Windfall
+1 Curiosity
+1 Dress Down
+1 Ophidian Eye
+1 Powerbalance
+1 Sigil of Sleep
+1 Urza's Saga
+1 Cephalid Coliseum
+1 Command Tower
+1 Dwarven Ruins
+1 Fiery Islet
+10 Island
+8 Mountain
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Shivan Reef
+1 Svyelunite Temple
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

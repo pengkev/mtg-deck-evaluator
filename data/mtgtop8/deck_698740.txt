@@ -1,0 +1,101 @@
+1 Misdirection
+1 Mystic Remora
+1 Unstoppable Plan
+1 Mirrormade
+1 Rhystic Study
+1 Steal Enchantment
+1 Animate Dead
+1 Sea Gate Restoration
+1 Reanimate
+1 Imperial Seal
+1 Demonic Tutor
+1 Agadeem's Awakening
+1 Tainted Pact
+1 Demonic Consultation
+1 Sink into Stupor
+1 Commandeer
+1 Deadly Rollick
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Mana Drain
+1 Vampiric Tutor
+1 Banishing Knack
+1 Mindbreak Trap
+1 Swan Song
+1 Flusterstorm
+1 Retraction Helix
+1 Dramatic Reversal
+1 Chain of Vapor
+1 Lim-Dul's Vault
+1 Force of Will
+1 Dark Ritual
+1 Mental Misstep
+1 Fierce Guardianship
+1 Force of Negation
+1 Cabal Ritual
+1 The One Ring
+1 Sol Ring
+1 Wishclaw Talisman
+1 Isochron Scepter
+1 Dimir Signet
+1 Mox Amber
+1 Arcane Signet
+1 Machine God's Effigy
+1 Fellwar Stone
+1 Chrome Mox
+1 Talisman of Dominance
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Grim Monolith
+1 Lotus Petal
+1 Inventive Iteration
+1 Dauthi Voidwalker
+1 Phyrexian Metamorph
+1 Clever Impersonator
+1 Aphetto Alchemist
+1 Kitsa, Otterball Elite
+1 Mockingbird
+1 Consecrated Sphinx
+1 Pollywog Prodigy
+1 Valley Floodcaller
+1 Hydroelectric Specimen
+1 Boggart Trawler
+1 Volatile Stormdrake
+1 Flesh Duplicate
+1 Hullbreaker Horror
+1 Notion Thief
+1 Orcish Bowmasters
+1 Faerie Mastermind
+1 Rona, Herald of Invasion
+1 Unctus, Grand Metatect
+1 Malevolent Hermit
+1 Opposition Agent
+1 Thassa's Oracle
+1 Gilded Drake
+1 Mirran Spy
+1 Minamo, School at Water's Edge
+1 Morphic Pool
+1 Takenuma, Abandoned Mire
+1 Command Tower
+1 Undercity Sewers
+1 Exotic Orchard
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Scalding Tarn
+1 Snow-Covered Swamp
+1 Ancient Tomb
+1 Polluted Delta
+1 Flooded Strand
+1 Cephalid Coliseum
+1 Gemstone Caverns
+1 Underground River
+1 Snow-Covered Island
+1 Underground Sea
+1 Watery Grave
+1 City of Brass
+1 Urza's Saga
+Sideboard
+1 Agent of the Iron Throne
+1 Volo, Itinerant Scholar

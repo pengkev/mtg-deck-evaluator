@@ -1,0 +1,96 @@
+1 Adarkar Wastes
+1 Aether Gale
+1 An Offer You Can't Refuse
+1 Arcane Signet
+1 Archmage Emeritus
+1 Aurelia's Fury
+1 Azorius Signet
+1 Baral's Expertise
+1 Battlefield Forge
+1 Battlefield Thaumaturge
+1 Blasphemous Act
+1 Bloodstained Mire
+1 Boros Signet
+1 Brain Freeze
+1 Brainsurge
+1 By Force
+1 Cascade Bluffs
+1 Clifftop Retreat
+1 Command Tower
+1 Consider
+1 Counterspell
+1 Curse of the Swine
+1 Deflecting Swat
+1 Distorting Wake
+1 Dualcaster Mage
+1 Brainstorm
+1 Exotic Orchard
+1 Fellwar Stone
+1 Ferrous Lake
+1 Fierce Guardianship
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Gamble
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Heliod's Intervention
+1 Hengegate Pathway
+1 Cyclonic Rift
+1 Icy Blast
+2 Island
+1 Izzet Signet
+1 Jeska's Will
+1 Lier, Disciple of the Drowned
+1 Lightning Greaves
+1 Lotus Petal
+1 Mental Misstep
+1 Mindbreak Trap
+1 Molten Duplication
+4 Mountain
+1 Multiversal Passage
+1 Mystic Confluence
+1 Mystic Remora
+1 Needleverge Pathway
+1 Overmaster
+1 Pact of Negation
+2 Plains
+1 Ponder
+1 Pongify
+1 Prairie Stream
+1 Rapid Hybridization
+1 Reconstruct History
+1 Red Elemental Blast
+1 Red Sun's Twilight
+1 Redirect Lightning
+1 Reliquary Tower
+1 Rhystic Study
+1 Rugged Prairie
+1 Scalding Tarn
+1 Seachrome Coast
+1 Sejiri Shelter
+1 Sevinne's Reclamation
+1 Shivan Reef
+1 Simian Spirit Guide
+1 Skycloud Expanse
+1 Smothering Tithe
+1 Sol Ring
+1 Soulfire Eruption
+1 Spellseeker
+1 Starting Town
+1 Steam Vents
+1 Sublime Epiphany
+1 Sulfur Falls
+1 Swan Song
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Teferi, Time Raveler
+1 Twinflame
+1 Underworld Breach
+1 Whirlwind of Thought
+1 Windfall
+Sideboard
+1 Hinata, Dawn-Crowned

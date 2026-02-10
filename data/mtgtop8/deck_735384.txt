@@ -1,0 +1,93 @@
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Chimil, the Inner Sun
+1 Chrome Mox
+1 Fellwar Stone
+1 Goblin Charbelcher
+1 Izzet Signet
+1 Lotus Petal
+1 Mana Vault
+1 Mind Stone
+1 Mithril Coat
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Strionic Resonator
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 An Offer You Can't Refuse
+1 Boros Charm
+1 Brainstorm
+1 Cyclonic Rift
+1 Dawn's Truce
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Will
+1 Long-Term Plans
+1 Mana Drain
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Armageddon
+1 Austere Command
+1 Capture of Jingzhou
+1 Cataclysm
+1 Expel the Interlopers
+1 Expropriate
+1 Fabricate
+1 Farewell
+1 Full Throttle
+1 Mana Severance
+1 Personal Tutor
+1 Ravages of War
+1 Relentless Assault
+1 Righteous Confluence
+1 Rise of the Eldrazi
+1 Seize the Day
+1 Storm Herd
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Time Stretch
+1 Time Warp
+1 Fervor
+1 Rhystic Study
+1 Shark Typhoon
+1 Smothering Tithe
+1 Thousand-Year Storm
+1 Urza's Saga
+1 Academy Ruins
+1 Ancient Tomb
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Hallowed Fountain
+1 Hengegate Pathway
+4 Island
+3 Mountain
+1 Mystic Gate
+4 Plains
+1 Riverglide Pathway
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Seachrome Coast
+1 Skycloud Expanse
+1 Spectator Seating
+1 Starting Town
+1 Sulfur Falls
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Narset, Enlightened Master

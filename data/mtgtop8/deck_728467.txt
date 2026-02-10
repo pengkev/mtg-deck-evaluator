@@ -1,0 +1,86 @@
+1 Ancient Den
+1 Ancient Tomb
+1 Angel's Grace
+1 Arcane Signet
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Basalt Monolith
+1 Chromatic Star
+1 Chrome Mox
+1 Clock of Omens
+1 Damping Sphere
+1 Darksteel Citadel
+1 Deafening Silence
+1 Deep Gnome Terramancer
+1 Dispatch
+1 Drannith Magistrate
+1 Dusk Rose Reliquary
+1 Eidolon of Rhetoric
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Enlightened Tutor
+1 Ensnaring Bridge
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Fellwar Stone
+1 Flare of Fortitude
+1 Galadriel's Dismissal
+1 Gemstone Caverns
+1 Generous Gift
+1 Giver of Runes
+1 Goblin Cannon
+1 Grafdigger's Cage
+1 Grand Abolisher
+1 Grim Monolith
+1 Hourglass of the Lost
+1 Illusionist's Bracers
+1 Jeweled Amulet
+1 Karn, the Great Creator
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 March of Otherworldly Light
+1 Marvin, Murderous Mimic
+1 Mother of Runes
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Myr Welder
+1 Palladium Myr
+1 Path to Exile
+1 Phyrexian Censor
+1 Pili-Pala
+1 Pithing Needle
+16 Plains
+1 Portable Hole
+1 Ranger-Captain of Eos
+1 Razorgrass Ambush
+1 Rings of Brighthearth
+1 Rule of Law
+1 Sevinne's Reclamation
+1 Silence
+1 Skrelv, Defector Mite
+1 Smothering Tithe
+1 Sol Ring
+1 Soul Partition
+1 Soul-Guide Lantern
+1 Spirit of the Labyrinth
+1 Springleaf Drum
+1 Staff of Domination
+1 Surge of Salvation
+1 The Mycosynth Gardens
+1 Thousand-Year Elixir
+1 Thraben Charm
+1 Tooth of Ramos
+1 Torpor Orb
+1 Treasure Vault
+1 Trinisphere
+1 Urza's Saga
+1 Vexing Bauble
+1 Voltaic Key
+1 Walking Ballista
+1 Winds of Abandon
+Sideboard
+1 Oswald Fiddlebender

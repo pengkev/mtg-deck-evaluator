@@ -1,0 +1,101 @@
+1 Harmonic Prodigy
+1 Roaming Throne
+1 Orcish Bowmasters
+1 Voice of Victory
+1 Delney, Streetwise Lookout
+1 Gogo, Mysterious Mime
+1 Birgi, God of Storytelling
+1 Archivist of Oghma
+1 Goblin Welder
+1 Magda, Brazen Outlaw
+1 Esper Sentinel
+1 Knuckles the Echidna
+1 Simian Spirit Guide
+1 Tavern Scoundrel
+1 Storm-Kiln Artist
+1 Ragavan, Nimble Pilferer
+1 Lotho, Corrupt Shirriff
+1 Hope of Ghirapur
+1 Dualcaster Mage
+1 Professional Face-Breaker
+1 Mox Opal
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Mox Diamond
+1 Lotus Petal
+1 Krark's Thumb
+1 Aetherflux Reservoir
+1 Springleaf Drum
+1 Fellwar Stone
+1 The One Ring
+1 Mox Amber
+1 Sensei's Divining Top
+1 Arcane Signet
+1 Bolas's Citadel
+1 Sol Ring
+1 Mana Vault
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lightning Bolt
+1 Entomb
+1 Silence
+1 Reverberate
+1 Deadly Rollick
+1 Deflecting Swat
+1 Culling the Weak
+1 Flare of Duplication
+1 Soul Partition
+1 Dark Ritual
+1 Tainted Pact
+1 Final Fortune
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Orim's Chant
+1 Cabal Ritual
+1 Surgical Extraction
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Molten Duplication
+1 Grim Tutor
+1 Demonic Tutor
+1 Twinflame
+1 Wheel of Fortune
+1 Imperial Seal
+1 Jeska's Will
+1 Gamble
+1 Strike It Rich
+1 Praetor's Grasp
+1 Rite of Flame
+1 Necropotence
+1 Urza's Saga
+1 Smothering Tithe
+1 Underworld Breach
+1 Static Prison
+1 Tezzeret, Cruel Captain
+1 Polluted Delta
+1 Mana Confluence
+1 Command Tower
+1 Badlands
+1 Blood Crypt
+1 Godless Shrine
+1 Ancient Tomb
+1 Arid Mesa
+1 Plateau
+1 Spire of Industry
+1 City of Brass
+1 Gemstone Caverns
+1 Mountain
+1 Flooded Strand
+1 Scrubland
+1 Cavern of Souls
+1 Gemstone Mine
+1 Starting Town
+1 Bloodstained Mire
+1 Sacred Foundry
+1 Mount Doom
+1 Marsh Flats
+1 Exotic Orchard
+1 Scalding Tarn
+Sideboard
+1 Krark, the Thumbless
+1 Tymna the Weaver

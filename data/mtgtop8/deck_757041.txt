@@ -1,0 +1,85 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Ancient Greenwarden
+1 Arcanis the Omnipotent
+1 Archetype of Imagination
+1 Ashaya, Soul of the Wild
+1 Augur of Autumn
+1 Azusa, Lost but Seeking
+1 Bonny Pall, Clearcutter
+1 Experiment Twelve
+1 Glen Elendra Archmage
+1 Horizon Explorer
+1 Hydra Omnivore
+1 Ixidron
+1 Jin-Gitaxias, Core Augur
+1 Kamahl, Heart of Krosa
+1 Kheru Spellsnatcher
+1 Koma, Cosmos Serpent
+1 Llanowar Scout
+1 Multani, Yavimaya's Avatar
+1 Nyxbloom Ancient
+1 Overlord of the Hauntwoods
+1 Paranormal Analyst
+1 Pathrazer of Ulamog
+1 Rampaging Baloths
+1 Roil Elemental
+1 Sakura-Tribe Elder
+1 Sakura-Tribe Scout
+1 Scute Swarm
+1 Seedborn Muse
+1 Shriekwood Devourer
+1 Springheart Nantuko
+1 Stratus Dancer
+1 Surrak and Goreclaw
+1 Tatyova, Benthic Druid
+1 Temur War Shaman
+1 Thunderfoot Baloth
+1 Uro, Titan of Nature's Wrath
+1 Vesuvan Shapeshifter
+1 Voidmage Apprentice
+1 Voidmage Prodigy
+1 Vorinclex, Voice of Hunger
+1 Whisperwood Elemental
+1 Wonder
+1 Worldspine Wurm
+1 Yedora, Grave Gardener
+1 Zopandrel, Hunger Dominus
+1 Arcane Signet
+1 Simic Signet
+1 Sol Ring
+1 Ghostly Flicker
+1 Awaken the Woods
+1 Life from the Loam
+1 Overwhelming Stampede
+1 Virtue of Strength
+1 Greater Good
+1 Invasion of Shandalar
+1 Levitation
+1 Mana Reflection
+1 One with the Multiverse
+1 Sandwurm Convergence
+1 They Came from the Pipes
+1 Threats Around Every Corner
+1 Trail of Mystery
+1 Zendikar Resurgent
+1 Castle Vantress
+1 Command Tower
+1 Drownyard Temple
+1 Evolving Wilds
+1 Flooded Grove
+9 Forest
+1 Hinterland Harbor
+9 Island
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Overflowing Basin
+1 Quandrix Campus
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+Sideboard
+1 Zimone, Mystery Unraveler

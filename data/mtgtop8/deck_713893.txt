@@ -1,0 +1,76 @@
+14 Island
+13 Plains
+1 Tyrite Sanctum
+1 Seachrome Coast
+1 Temple of Enlightenment
+1 Port Town
+1 Prairie Stream
+1 Geier Reach Sanitarium
+1 Glacial Fortress
+1 Command Tower
+1 Supreme Will
+1 No More Lies
+1 Thassa's Intervention
+1 Memory Lapse
+1 Rewind
+1 Confounding Riddle
+1 Whirlwind Denial
+1 Unwind
+1 Wash Away
+1 Foil
+1 Oblation
+1 Jace's Archivist
+1 Minds Aglow
+1 Your Temple Is Under Attack
+1 Step Between Worlds
+1 Stroke of Genius
+1 Vision Skeins
+1 Emergency Powers
+1 Windfall
+1 Zenith Chronicler
+1 Commit/Memory
+1 Pull from Tomorrow
+1 Tolarian Winds
+1 Prosperity
+1 Temple Bell
+1 Mind Spring
+1 Howling Golem
+1 Game Plan
+1 Kwain, Itinerant Meddler
+1 Cut a Deal
+1 Skyscribing
+1 Day's Undoing
+1 Thought Vessel
+1 Sunbird Standard
+1 Fellwar Stone
+1 Decanter of Endless Water
+1 Chromatic Lantern
+1 Myr Convert
+1 Arcane Signet
+1 Sol Ring
+1 Ornithopter of Paradise
+1 Phyrexian Atlas
+1 Commander's Sphere
+1 Path to Exile
+1 Promise of Loyalty
+1 Leadership Vacuum
+1 Sudden Substitution
+1 Stroke of Midnight
+1 Filter Out
+1 Generous Gift
+1 Psychosis Crawler
+1 Psychic Corrosion
+1 Hullbreaker Horror
+1 White Sun's Twilight
+1 Approach of the Second Sun
+1 Time Stretch
+1 Shorikai, Genesis Engine
+1 Crawlspace
+1 Ghostly Prison
+1 Propaganda
+1 Mystical Tutor
+1 Swords to Plowshares
+1 Arcane Denial
+1 Invasion of New Phyrexia
+Sideboard
+1 Heliod, the Radiant Dawn

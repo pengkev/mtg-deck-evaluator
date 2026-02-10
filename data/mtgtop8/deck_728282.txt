@@ -1,0 +1,84 @@
+1 Crashing Drawbridge
+1 Thorn Mammoth
+1 Coiling Oracle
+1 Elvish Visionary
+1 Llanowar Elves
+1 Sakura-Tribe Elder
+1 Tatyova, Benthic Druid
+1 Llanowar Visionary
+1 Sun Titan
+1 Sylvok Explorer
+1 Frilled Mystic
+1 Tithe Taker
+1 Avacyn's Pilgrim
+1 Beastcaller Savant
+1 Elvish Mystic
+1 Shrieking Drake
+1 Mulldrifter
+1 Whisperer of the Wilds
+1 Humble Naturalist
+1 Kogla, the Titan Ape
+1 Mystic Snake
+1 Llanowar Scout
+1 Rampaging Baloths
+1 Ruin Crab
+1 End-Raze Forerunners
+1 Aven Mindcensor
+1 Moon-Blessed Cleric
+1 Thalia, Guardian of Thraben
+1 Hullbreaker Horror
+1 Devoted Druid
+1 Birds of Paradise
+1 Fauna Shaman
+1 Cankerbloom
+1 Tidespout Tyrant
+1 Grand Abolisher
+1 Skyclave Apparition
+1 Helpful Hunter
+1 Mischievous Mystic
+1 Vizier of the Menagerie
+1 Faeburrow Elder
+1 Craterhoof Behemoth
+1 Hedron Crab
+1 Sol Ring
+1 Run Away Together
+1 Beast Within
+1 Counterspell
+1 Swords to Plowshares
+1 Brainstorm
+1 Growth Spiral
+1 Condemn
+1 Dovin's Veto
+1 Abjure
+1 Path to Exile
+1 Render Silent
+1 An Offer You Can't Refuse
+1 Idyllic Tutor
+1 Ponder
+1 Retreat to Coralhelm
+1 Freed from the Real
+1 Mana Breach
+1 Felidar Retreat
+1 Intruder Alarm
+1 Equilibrium
+6 Island
+5 Plains
+1 Temple of Plenty
+1 Temple of Enlightenment
+1 Azorius Chancery
+1 Reliquary Tower
+1 Selesnya Sanctuary
+1 Yavimaya Coast
+1 Prairie Stream
+1 Flooded Grove
+1 Port Town
+1 Overgrown Farmland
+1 Fabled Passage
+1 Seachrome Coast
+1 Razorverge Thicket
+1 Amonkhet Raceway
+1 Brushland
+1 Command Tower
+9 Forest
+Sideboard
+1 Chulane, Teller of Tales

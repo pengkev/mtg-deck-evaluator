@@ -1,0 +1,73 @@
+1 Akroma, Vision of Ixidor
+1 Angel of Serenity
+1 Blood Baron of Vizkopa
+1 Chancellor of the Annex
+1 Chancellor of the Spires
+1 Consuming Aberration
+1 Defiler of Dreams
+1 Divinity of Pride
+1 Emeria Shepherd
+1 Errant and Giada
+1 Esior, Wardwing Familiar
+1 Illithid Harvester
+1 Loyal Drake
+1 Mnemonic Wall
+1 Myr Battlesphere
+1 Nulldrifter
+1 Overlord of the Floodpits
+1 Prognostic Sphinx
+1 Realm-Cloaked Giant
+1 Sphinx of the Revelation
+1 Teysa, Envoy of Ghosts
+1 Tymna the Weaver
+1 Azorius Locket
+1 Commander's Sphere
+1 Darksteel Ingot
+1 Dragonfire Blade
+1 Letter of Acceptance
+1 Lightning Greaves
+1 Meteorite
+1 Mind Stone
+1 Ojutai Monument
+1 Replicating Ring
+1 Seer's Lantern
+1 Sol Ring
+1 Swiftfoot Boots
+1 Wayfarer's Bauble
+1 Aetherize
+1 Arcane Denial
+1 Brainstorm
+1 Countersquall
+1 Focus the Mind
+1 Keep Watch
+1 Leadership Vacuum
+1 Mortify
+1 Reality Shift
+1 Slip Out the Back
+1 Swords to Plowshares
+1 Whirlwind Denial
+1 Blatant Thievery
+1 Fell the Mighty
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Slash the Ranks
+1 Subjugate the Hobbits
+1 Time Wipe
+1 Amphibian Downpour
+1 Coastal Piracy
+1 Eel Umbra
+1 Octopus Umbra
+1 Witness Protection
+1 Caves of Koilos
+1 Evolving Wilds
+11 Island
+1 Mystic Sanctuary
+11 Plains
+1 Rivendell
+9 Swamp
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Underground River
+Sideboard
+1 Yennett, Cryptic Sovereign

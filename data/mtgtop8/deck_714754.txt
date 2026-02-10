@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Llanowar Elves
+1 Elvish Mystic
+1 Cloud of Faeries
+1 Collector Ouphe
+1 Man-o'-War
+1 Manglehorn
+1 Spellskite
+1 Imperial Recruiter
+1 Allosaurus Shepherd
+1 Archaeomancer
+1 Kozilek, the Great Distortion
+1 Simian Spirit Guide
+1 Ruric Thar, the Unbowed
+1 Reclamation Sage
+1 Mnemonic Wall
+1 Purphoros, God of the Forge
+1 Painter's Servant
+1 Wandering Archaic
+1 Yusri, Fortune's Flame
+1 Myr Scrapling
+1 Goro-Goro, Disciple of Ryusei
+1 Professional Face-Breaker
+1 Hullbreaker Horror
+1 Eternal Witness
+1 Peregrine Drake
+1 Solphim, Mayhem Dominus
+1 Faerie Mastermind
+1 Radagast the Brown
+1 Treasure Nabber
+1 Ulamog, the Ceaseless Hunger
+1 Regal Behemoth
+1 Etali, Primal Storm
+1 Beast Whisperer
+1 Mulldrifter
+1 Ulamog, the Defiler
+1 Six
+1 Hydroelectric Specimen
+1 Fanatic of Rhonas
+1 Mockingbird
+1 Azure Beastbinder
+1 Agate Instigator
+1 Pollywog Prodigy
+1 Clever Impersonator
+1 High Fae Trickster
+1 Koma, World-Eater
+1 Lifecrafter's Bestiary
+1 Bident of Thassa
+1 Sol Ring
+1 Veil of Summer
+1 Pact of Negation
+1 Force of Vigor
+1 Ghostly Flicker
+1 Flusterstorm
+1 Snap
+1 Heroic Intervention
+1 Flare of Denial
+1 Strix Serenade
+1 Sink into Stupor
+1 Pyrokinesis
+1 Reality Shift
+1 Increasing Savagery
+1 Neoform
+1 Vandalblast
+1 Blasphemous Act
+1 Bridgeworks Battle
+1 Rishkar's Expertise
+1 Finale of Devastation
+1 Guardian Project
+1 Rhythm of the Wild
+1 Energy Flux
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Ever-Watching Threshold
+1 Leyline of Anticipation
+1 City of Brass
+1 Breeding Pool
+1 Stomping Ground
+1 Waterlogged Grove
+1 Mana Confluence
+1 Cavern of Souls
+1 Yavimaya Coast
+1 Training Center
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Spire Garden
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Command Tower
+1 Shivan Reef
+1 Cephalid Coliseum
+1 Hinterland Harbor
+1 Rootbound Crag
+1 Steam Vents
+Sideboard
+1 Animar, Soul of Elements

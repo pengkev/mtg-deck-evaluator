@@ -1,0 +1,91 @@
+1 Aerial Extortionist
+1 Ambrosia Whiteheart
+1 Archetype of Imagination
+1 Augury Owl
+1 Aven Interrupter
+1 Birds of Paradise
+1 Cartographer's Hawk
+1 Cloudchaser Kestrel
+1 Derevi, Empyrial Tactician
+1 Emeria Angel
+1 Esior, Wardwing Familiar
+1 Healer's Hawk
+1 Judge's Familiar
+1 Kangee, Sky Warden
+1 Kastral, the Windcrested
+1 Keeper of the Nine Gales
+1 Lifecreed Duo
+1 Mercurial Kite
+1 Mockingbird
+1 Nimble Obstructionist
+1 Plumecreed Escort
+1 River Hoopoe
+1 Roc Charger
+1 Senu, Keen-Eyed Protector
+1 Sidequest: Raise a Chocobo
+1 Skymark Roc
+1 Strix Lookout
+1 Valley Questcaller
+1 Watcher of the Spheres
+1 Azorius Keyrune
+1 Chocobo Racetrack
+1 Patchwork Banner
+1 Sol Ring
+1 Entish Restoration
+1 Flare of Fortitude
+1 Flurry of Wings
+1 Generous Gift
+1 Harrow
+1 Path to Exile
+1 Prishe's Wanderings
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Wrap in Vigor
+1 Airborne Aid
+1 Ascend from Avernus
+1 Austere Command
+1 Distant Melody
+1 Farseek
+1 Nature's Lore
+1 Rampant Growth
+1 Split Up
+1 Winged Words
+1 Beastmaster Ascension
+1 Felidar Retreat
+1 Flowering of the White Tree
+1 Kindred Discovery
+1 Murmuration
+1 Soulcatchers' Aerie
+1 Sphere Grid
+1 Adarkar Wastes
+1 Brokers Hideout
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Demolition Field
+1 Deserted Beach
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Floodfarm Verge
+4 Forest
+1 Glacial Fortress
+1 Irrigated Farmland
+3 Island
+1 Obscura Storefront
+1 Overgrown Farmland
+1 Path of Ancestry
+6 Plains
+1 Prairie Stream
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Restless Anchorage
+1 Rogue's Passage
+1 Scattered Groves
+1 Seaside Citadel
+1 Seaside Haven
+1 Shire Terrace
+1 Sunpetal Grove
+1 Tangled Islet
+1 Tranquil Landscape
+Sideboard
+1 Choco, Seeker of Paradise

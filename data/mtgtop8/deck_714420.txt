@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Eternal Witness
+1 Spellseeker
+1 Deathrite Shaman
+1 Seedborn Muse
+1 Thassa's Oracle
+1 Kinnan, Bonder Prodigy
+1 Elvish Mystic
+1 Bloom Tender
+1 Devoted Druid
+1 Llanowar Elves
+1 Hullbreaker Horror
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Sowing Mycospawn
+1 Hazel's Brewmaster
+1 Enduring Vitality
+1 Lotuslight Dancers
+1 Wishclaw Talisman
+1 Mox Opal
+1 Lotus Petal
+1 Grim Monolith
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Mox Diamond
+1 Mox Amber
+1 Basalt Monolith
+1 Chrome Mox
+1 Mana Vault
+1 Machine God's Effigy
+1 The One Ring
+1 Veil of Summer
+1 Culling the Weak
+1 Gifts Ungiven
+1 Assassin's Trophy
+1 Crop Rotation
+1 Vampiric Tutor
+1 Fierce Guardianship
+1 Abrupt Decay
+1 Cyclonic Rift
+1 Mental Misstep
+1 Noxious Revival
+1 Worldly Tutor
+1 Demonic Consultation
+1 Force of Will
+1 Chord of Calling
+1 Swan Song
+1 Flusterstorm
+1 Mindbreak Trap
+1 Tainted Pact
+1 Dark Ritual
+1 Borne Upon a Wind
+1 Flare of Denial
+1 Into the Flood Maw
+1 An Offer You Can't Refuse
+1 Eldritch Evolution
+1 Reanimate
+1 Demonic Tutor
+1 Finale of Devastation
+1 Neoform
+1 Green Sun's Zenith
+1 Dread Return
+1 Imperial Seal
+1 Culling Ritual
+1 Nature's Rhythm
+1 Survival of the Fittest
+1 Rhystic Study
+1 Mystic Remora
+1 Minamo, School at Water's Edge
+1 Morphic Pool
+1 Breeding Pool
+1 Ancient Tomb
+1 City of Brass
+1 Waterlogged Grove
+1 Mana Confluence
+1 Gaea's Cradle
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Overgrown Tomb
+1 Watery Grave
+1 Bloodstained Mire
+1 Polluted Delta
+1 Windswept Heath
+1 Gemstone Caverns
+1 Flooded Strand
+1 Wooded Foothills
+1 Command Tower
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Talon Gates of Madara
+1 Mistrise Village
+1 Emergence Zone
+1 Boseiju, Who Endures
+Sideboard
+1 Thrasios, Triton Hero
+1 Tevesh Szat, Doom of Fools

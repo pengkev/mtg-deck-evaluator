@@ -1,0 +1,99 @@
+1 Hushbringer
+1 Bloom Tender
+1 Linvala, Keeper of Silence
+1 Ethersworn Canonist
+1 Birds of Paradise
+1 Mother of Runes
+1 Krenko, Tin Street Kingpin
+1 Containment Priest
+1 Collector Ouphe
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Fyndhorn Elves
+1 Winota, Joiner of Forces
+1 Drannith Magistrate
+1 Elvish Spirit Guide
+1 Sylvan Safekeeper
+1 Simian Spirit Guide
+1 Yasharn, Implacable Earth
+1 Toski, Bearer of Secrets
+1 Magus of the Moon
+1 Esper Sentinel
+1 Zurzoth, Chaos Rider
+1 Battle Angels of Tyr
+1 Archivist of Oghma
+1 Rug of Smothering
+1 Sanctum Weaver
+1 Myrel, Shield of Argive
+1 Llanowar Elves
+1 Armored Scrapgorger
+1 Delighted Halfling
+1 Anim Pakal, Thousandth Moon
+1 Aven Interrupter
+1 Magebane Lizard
+1 Chittering Dispatcher
+1 Jacked Rabbit
+1 Scurry of Squirrels
+1 Avacyn's Pilgrim
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Outland Liberator
+1 Adeline, Resplendent Cathar
+1 Serra Ascendant
+1 Boromir, Warden of the Tower
+1 Delney, Streetwise Lookout
+1 Doorkeeper Thrull
+1 Null Rod
+1 Weathered Runestone
+1 Grafdigger's Cage
+1 Damping Sphere
+1 Veil of Summer
+1 Silence
+1 Red Elemental Blast
+1 Worldly Tutor
+1 Pyroblast
+1 Angel's Grace
+1 Eladamri's Call
+1 Guttural Response
+1 Tibalt's Trickery
+1 Swords to Plowshares
+1 Surge of Salvation
+1 Legolas's Quick Reflexes
+1 Everybody Lives!
+1 Path to Exile
+1 Finale of Devastation
+1 Deafening Silence
+1 Suppression Field
+1 Stony Silence
+1 Sylvan Library
+1 Invasion of Gobakhan
+1 Wild Growth
+1 Blood Moon
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Mana Confluence
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Flooded Strand
+1 Wooded Foothills
+1 Windswept Heath
+1 Sacred Foundry
+1 Temple Garden
+1 Command Tower
+1 Arid Mesa
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Forest
+1 Sokenzan, Crucible of Defiance
+1 Boseiju, Who Endures
+1 Exotic Orchard
+1 Cavern of Souls
+1 City of Brass
+1 Shifting Woodland
+3 Plains
+Sideboard
+1 Jetmir, Nexus of Revels

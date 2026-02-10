@@ -1,0 +1,69 @@
+1 Eddytrail Hawk
+1 Fiend Hunter
+1 Ornithopter
+1 Vryn Wingmare
+1 Scampering Scorcher
+1 Adriana, Captain of the Guard
+1 Loyal Apprentice
+1 Cliffside Rescuer
+1 Aven Mindcensor
+1 Magus of the Moon
+1 Banisher Priest
+1 Pia and Kiran Nalaar
+1 Topplegeist
+1 Mausoleum Guard
+1 Niblis of the Urn
+1 Cavalry Pegasus
+1 Grand Abolisher
+1 Anax, Hardened in the Forge
+1 Thopter Engineer
+1 Lena, Selfless Champion
+1 Angrath's Marauders
+1 Evangel of Heliod
+1 Rage Thrower
+1 Kitesail Cleric
+1 Rograkh, Son of Rohgahh
+1 Clarion Spirit
+1 Battlefield Raptor
+1 Captain of the Watch
+1 Goldnight Commander
+1 Geist-Honored Monk
+1 Blade Historian
+1 Hall Monitor
+1 Ornithopter of Paradise
+1 Dawnbringer Cleric
+1 Priest of the Blessed Graf
+1 Mothrider Patrol
+1 Devilish Valet
+1 Mage's Attendant
+1 Sizzling Soloist
+1 Mayhem Patrol
+1 Myr Convert
+1 Swooping Lookout
+1 Eomer, King of Rohan
+1 Armored Armadillo
+1 Molten Gatekeeper
+1 Alexios, Deimos of Kosmos
+1 The Wandering Rescuer
+1 Crawling Chorus
+1 Arabella, Abandoned Doll
+1 Arcane Signet
+1 Sol Ring
+1 Citizen's Crowbar
+1 Disenchant
+1 Teferi's Protection
+1 Raise the Alarm
+1 Silence
+1 Bovine Intervention
+1 Dragon Fodder
+1 Armageddon
+1 Clowning Around
+1 Ral's Reinforcements
+1 No Witnesses
+1 Glimpse the Impossible
+1 Blood Moon
+1 Command Tower
+16 Mountain
+18 Plains
+Sideboard
+1 Winota, Joiner of Forces

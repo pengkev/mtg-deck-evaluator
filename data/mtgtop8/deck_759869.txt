@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Arcbound Ravager
+1 Bartolomé del Presidio
+1 Celestine, the Living Saint
+1 Chrome Host Seedshark
+1 Court Street Denizen
+1 Crypt Ghast
+1 Enduring Tenacity
+1 Esper Sentinel
+1 Exalted Sunborn
+1 G'raha Tia, Scion Reborn
+1 Laboratory Maniac
+1 Lavinia, Azorius Renegade
+1 Leveler
+1 Lotho, Corrupt Shirriff
+1 Mockingbird
+1 Nadir Kraken
+1 Ocelot Pride
+1 Pitiless Plunderer
+1 Razaketh, the Foulblooded
+1 Resplendent Angel
+1 Soul Warden
+1 Susurian Voidborn
+1 Tataru Taru
+1 Thassa's Oracle
+1 Vnwxt, Verbose Host
+1 Voice of Victory
+1 Arcane Signet
+1 Ashnod's Altar
+1 Jet Medallion
+1 Lightning Greaves
+1 Nuka-Cola Vending Machine
+1 Pearl Medallion
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The Water Crystal
+1 Thought Vessel
+1 Anguished Unmaking
+1 Brainstorm
+1 Counterspell
+1 Dark Ritual
+1 Path to Exile
+1 Strix Serenade
+1 Tainted Pact
+1 Unwanted Remake
+1 Capture of Jingzhou
+1 Demonic Tutor
+1 Enter the Infinite
+1 Sickening Dreams
+1 Time Warp
+1 Authority of the Consuls
+1 Black Market
+1 Dictate of Erebos
+1 Exquisite Blood
+1 Omniscience
+1 Propaganda
+1 Psychic Corrosion
+1 Smothering Tithe
+1 Thought Reflection
+1 Wizard Class
+1 Adarkar Wastes
+1 Ancient Den
+1 Ancient Tomb
+1 Brightclimb Pathway
+1 Cabal Coffers
+1 Caves of Koilos
+1 Choked Estuary
+1 City of Brass
+1 Command Tower
+1 Dark Depths
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Gloomlake Verge
+1 Godless Shrine
+1 Irrigated Farmland
+1 Isolated Chapel
+1 Marsh Flats
+1 Meteor Crater
+1 Path of Ancestry
+1 Phyrexian Tower
+1 Port Town
+1 Reliquary Tower
+1 Seat of the Synod
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Spire of Industry
+1 Susur Secundi, Void Altar
+1 Tainted Field
+1 Temple of the False God
+1 Thespian's Stage
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Vault of Whispers
+1 Watery Grave
+Sideboard
+1 Marneus Calgar

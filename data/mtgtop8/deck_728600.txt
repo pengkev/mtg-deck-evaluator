@@ -1,0 +1,101 @@
+1 Metalworker
+1 Ethersworn Canonist
+1 Cogwork Assembler
+1 Treasonous Ogre
+1 Goblin Welder
+1 Wandering Archaic
+1 Imperial Recruiter
+1 Oswald Fiddlebender
+1 Weathered Wayfarer
+1 Thran Spider
+1 Ragavan, Nimble Pilferer
+1 Walking Ballista
+1 Grand Abolisher
+1 Simian Spirit Guide
+1 Esper Sentinel
+1 Archivist of Oghma
+1 Voice of Victory
+1 Ranger-Captain of Eos
+1 Goblin Engineer
+1 Grim Monolith
+1 Voltaic Key
+1 Lion's Eye Diamond
+1 Lightning Greaves
+1 Mox Diamond
+1 Scroll Rack
+1 Manifold Key
+1 Agatha's Soul Cauldron
+1 Umbral Mantle
+1 Mox Opal
+1 Sculpting Steel
+1 Planar Bridge
+1 Staff of Domination
+1 Portable Hole
+1 Moonsilver Key
+1 Mana Vault
+1 Sensei's Divining Top
+1 The Mana Rig
+1 Chrome Mox
+1 Staff of Compleation
+1 The One Ring
+1 Vexing Bauble
+1 Basalt Monolith
+1 Arcane Signet
+1 Talisman of Conviction
+1 Lotus Petal
+1 Sol Ring
+1 Swords to Plowshares
+1 Fork
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Silence
+1 Path to Exile
+1 Tibalt's Trickery
+1 Enlightened Tutor
+1 Reprieve
+1 Orim's Chant
+1 Pyroblast
+1 Untimely Malfunction
+1 Lightning Bolt
+1 Deflecting Swat
+1 Jeska's Will
+1 Rite of Flame
+1 Recommission
+1 Sevinne's Reclamation
+1 Gamble
+1 Reckless Handling
+1 Sundering Eruption
+1 Jolted Awake
+1 United Battlefront
+1 Urza's Saga
+1 Smothering Tithe
+1 Underworld Breach
+1 Powerbalance
+1 Mishra's Workshop
+1 City of Traitors
+1 Emergence Zone
+1 Plateau
+1 Inventors' Fair
+1 Scalding Tarn
+1 Marsh Flats
+1 Arid Mesa
+1 Flooded Strand
+1 Bloodstained Mire
+1 Ancient Tomb
+1 Wooded Foothills
+1 Mana Confluence
+1 Cavern of Souls
+1 City of Brass
+1 Sacred Foundry
+1 Battlefield Forge
+1 Gemstone Caverns
+1 Spectator Seating
+1 Mountain
+1 Plains
+1 Sunbaked Canyon
+1 Elegant Parlor
+1 Fomori Vault
+1 Talon Gates of Madara
+1 Command Tower
+Sideboard
+1 Zirda, the Dawnwaker

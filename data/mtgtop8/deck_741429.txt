@@ -1,0 +1,85 @@
+1 Access Tunnel
+1 Aegis Turtle
+1 Aqueous Form
+1 Arcane Signet
+1 Assault Formation
+1 Beast Within
+1 Bedrock Tortoise
+1 Charix, the Raging Isle
+1 Command Tower
+1 Counterspell
+1 Crashing Drawbridge
+1 Decanter of Endless Water
+1 Escape Tunnel
+1 Esior, Wardwing Familiar
+1 Fae Flight
+1 Farseek
+1 Final-Word Phantom
+9 Forest
+1 Gilded Goose
+1 Glacial Wall
+1 Hard Evidence
+1 Heroic Intervention
+1 Hover Barrier
+9 Island
+1 Jace, Wielder of Mysteries
+1 Laboratory Maniac
+1 Nature's Lore
+1 Ornithopter of Paradise
+1 Overgrown Battlement
+1 Proft's Eidetic Memory
+1 Psychosis Crawler
+1 Rampant Growth
+1 Reliquary Tower
+1 Riptide Turtle
+1 Rogue's Passage
+1 Simic Signet
+1 Sol Ring
+1 Suspicious Bookcase
+1 Swiftfoot Boots
+1 Tetsuko Umezawa, Fugitive
+1 Thought Vessel
+1 Tower Defense
+1 Training Grounds
+1 Vine Trellis
+1 Vineglimmer Snarl
+1 Walking Bulwark
+1 Wall of Blossoms
+1 Wall of Frost
+1 Wall of Junk
+1 Wall of Roots
+1 Wall of Runes
+1 Wall of Tanglecord
+1 Wizard Class
+1 Yavimaya Coast
+1 Key to the City
+1 Promising Vein
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Temple of Mystery
+1 Exotic Orchard
+1 Winged Boots
+1 Axebane Guardian
+1 Biomancer's Familiar
+1 Talisman of Curiosity
+1 Towering Titan
+1 Arcane Denial
+1 Spellskite
+1 Meekstone
+1 Botanical Sanctum
+1 Flooded Grove
+1 Hinterland Harbor
+1 Thornwood Falls
+1 Arboreal Grazer
+1 Foil
+1 Kozilek, the Great Distortion
+1 Obscuring Haze
+1 Body of Knowledge
+1 Towering Viewpoint
+1 Triskaidekaphile
+1 Aftermath Analyst
+1 Professor Hojo
+1 Vnwxt, Verbose Host
+1 Dreamroot Cascade
+Sideboard
+1 The Pride of Hull Clade

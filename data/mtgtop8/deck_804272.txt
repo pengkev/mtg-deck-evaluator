@@ -1,0 +1,100 @@
+1 Animar, Soul of Elements
+1 Avatar of Growth
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Brighthearth Banneret
+1 Catalyst Elemental
+1 Cavalier of Dawn
+1 Cavalier of Thorns
+1 Delighted Halfling
+1 Flamebraider
+1 Flamekin Harbinger
+1 Generator Servant
+1 Greenwarden of Murasa
+1 Hexing Squelcher
+1 Interdisciplinary Mascot
+1 Lumra, Bellow of the Woods
+1 Maelstrom Wanderer
+1 Mulldrifter
+1 Nissa, Resurgent Animist
+1 Nyxbloom Ancient
+1 Omnath, Locus of Creation
+1 Omni-Changeling
+1 Regal Force
+1 Risen Reef
+1 Shinestriker
+1 Slithermuse
+1 Temur Battlecrier
+1 Tiller Engine
+1 Treasonous Ogre
+1 Twinflame Travelers
+1 Voice of Victory
+1 Yarok, the Desecrated
+1 Amulet of Vigor
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Phyrexian Altar
+1 Sol Ring
+1 Urza's Incubator
+1 Zuran Orb
+1 Culling the Weak
+1 Dark Ritual
+1 Enlightened Tutor
+1 Rain of Filth
+1 Silence
+1 Summoner's Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Culling Ritual
+1 Demonic Tutor
+1 Imperial Seal
+1 Jeska's Will
+1 Neoform
+1 Rite of Flame
+1 Earthcraft
+1 Food Chain
+1 Mystic Remora
+1 Squandered Resources
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Command Tower
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Mirrorpool
+1 Misty Rainforest
+1 Mountain
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Port of Karfell
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Shifting Woodland
+1 Sunscorched Desert
+1 Swamp
+1 Taiga
+1 Tropical Island
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Ashling, the Limitless

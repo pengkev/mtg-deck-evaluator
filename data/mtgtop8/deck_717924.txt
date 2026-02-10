@@ -1,0 +1,95 @@
+1 Benevolent Bodyguard
+1 Guide of Souls
+1 Mother of Runes
+1 Floodpits Drowner
+1 Bounty Agent
+1 Dawnbringer Cleric
+1 Cathar Commando
+1 Sinister Concierge
+1 Selfless Spirit
+1 Silent Hallcreeper
+1 Meddling Mage
+1 Unsettled Mariner
+1 Pippin, Guard of the Citadel
+1 Charming Prince
+1 Amped Raptor
+1 Sanctifier en-Vec
+1 Senu, Keen-Eyed Protector
+1 Coppercoat Vanguard
+1 Watcher for Tomorrow
+1 Skyclave Apparition
+1 Brazen Borrower
+1 Aether Channeler
+1 Extraction Specialist
+1 Kutzil's Flanker
+1 Bonecrusher Giant
+1 Goldbug, Humanity's Ally
+1 Laelia, the Blade Reforged
+1 Reflector Mage
+1 True-Name Nemesis
+1 Professional Face-Breaker
+1 Synth Eradicator
+1 Toby, Beastie Befriender
+1 Aragorn, King of Gondor
+1 Palace Jailer
+1 Seasoned Dungeoneer
+1 Flametongue Kavu
+1 Fury
+1 Pinnacle Monk
+1 Arcane Signet
+1 Solar Transformer
+1 Force Spike
+1 Galvanic Discharge
+1 Swords to Plowshares
+1 Wash Away
+1 Lightning Bolt
+1 Stern Scolding
+1 Aether Spike
+1 Izzet Charm
+1 Razorgrass Ambush
+1 Mana Leak
+1 Lightning Helix
+1 Legion Leadership
+1 Lose Focus
+1 Prohibit
+1 Ghostfire Slice
+1 Invert Polarity
+1 Leadership Vacuum
+1 Oust
+1 Flame Slash
+1 Wrath of the Skies
+1 Council's Judgment
+1 Split Up
+1 Static Prison
+1 Amphibian Downpour
+1 Fall from Favor
+1 Path of Ancestry
+1 Spirebluff Canal
+1 Sulfur Falls
+1 Port Town
+1 Ferrous Lake
+1 Battlefield Forge
+1 Glacial Fortress
+4 Island
+1 Furycalm Snarl
+1 Frostboil Snarl
+1 Mystic Monastery
+2 Mountain
+1 Aether Hub
+1 Perilous Landscape
+1 Fabled Passage
+3 Plains
+1 Mystic Gate
+1 Rugged Prairie
+1 Shivan Reef
+1 Clifftop Retreat
+1 Prairie Stream
+1 Cascade Bluffs
+1 Sunscorched Divide
+1 Temple of Epiphany
+1 Temple of Enlightenment
+1 Command Tower
+1 Inspiring Vantage
+1 Skycloud Expanse
+Sideboard
+1 Satya, Aetherflux Genius

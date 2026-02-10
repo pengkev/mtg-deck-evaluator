@@ -1,0 +1,80 @@
+1 Gisa, Glorious Resurrector
+1 Etali, Primal Storm
+1 Kaervek the Merciless
+1 Olivia, Crimson Bride
+1 Djeru and Hazoret
+1 Syr Konrad, the Grim
+1 Zagras, Thief of Heartbeats
+1 Nykthos Paragon
+1 Kambal, Consul of Allocation
+1 Liesa, Shroud of Dusk
+1 Gerrard, Weatherlight Hero
+1 Boromir, Warden of the Tower
+1 Massacre Girl, Known Killer
+1 Michiko Konda, Truth Seeker
+1 Tomik, Wielder of Law
+1 Skrelv, Defector Mite
+1 The Lord of Pain
+1 Gisela, Blade of Goldnight
+1 Queen Marchesa
+1 Maha, Its Feathers Night
+1 Drakuseth, Maw of Flames
+1 Rakdos, Patron of Chaos
+1 Aclazotz, Deepest Betrayal
+1 Odric, Lunarch Marshal
+1 Kamahl, Pit Fighter
+1 Heartless Hidetsugu
+1 Eowyn, Fearless Knight
+1 Witch-king, Bringer of Ruin
+1 Junji, the Midnight Sky
+1 Aurelia, the Warleader
+1 Witch-King of Angmar
+1 Sheoldred, Whispering One
+1 Adeline, Resplendent Cathar
+1 Talisman of Conviction
+1 Boros Signet
+1 Fellwar Stone
+1 Talisman of Indulgence
+1 Rakdos Signet
+1 Relic of Legends
+1 Talisman of Hierarchy
+1 Chromatic Lantern
+1 Arcane Signet
+1 Orzhov Signet
+1 Patriar's Seal
+1 Sol Ring
+1 Imp's Mischief
+1 Crackling Doom
+1 Swords to Plowshares
+1 Rabid Gnaw
+1 Wear/Tear
+1 Self-Destruct
+1 Faith's Shield
+1 Path to Exile
+1 Dawn's Truce
+1 Requisition Raid
+1 Nibelheim Aflame
+1 Yawgmoth's Vile Offering
+1 Mutinous Massacre
+1 Primevals' Glorious Rebirth
+1 Blasphemous Act
+1 Ruinous Ultimatum
+1 Pain for All
+1 Kaya the Inexorable
+1 Terramorphic Expanse
+1 Caves of Koilos
+1 Fetid Heath
+8 Swamp
+1 Command Tower
+1 Battlefield Forge
+8 Plains
+1 Sulfurous Springs
+1 Rugged Prairie
+1 Graven Cairns
+1 Great Hall of the Citadel
+8 Mountain
+1 Evolving Wilds
+1 Exotic Orchard
+1 Nomad Outpost
+Sideboard
+1 Dihada, Binder of Wills

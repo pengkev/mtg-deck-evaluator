@@ -1,0 +1,84 @@
+1 Tyvar Kell
+1 Vivien, Champion of the Wilds
+1 Vivien Reid
+1 Abomination of Llanowar
+1 Beast Whisperer
+1 Copperhorn Scout
+1 Dwynen, Gilt-Leaf Daen
+1 Dwynen's Elite
+1 Elves of Deep Shadow
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Visionary
+1 Elvish Warmaster
+1 Ezuri, Renegade Leader
+1 Farhaven Elf
+1 Fyndhorn Elves
+1 Harald, King of Skemfar
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Joraga Warcaller
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Miara, Thorn of the Glade
+1 Nullmage Shepherd
+1 Paradise Druid
+1 Poison-Tip Archer
+1 Priest of Titania
+1 Reclamation Sage
+1 Shaman of the Pack
+1 Skemfar Avenger
+1 Skemfar Shadowsage
+1 Sylvan Messenger
+1 Timberwatch Elf
+1 Wellwisher
+1 Wirewood Symbiote
+1 Wood Elves
+1 Bounty of Skemfar
+1 Cultivate
+1 Diabolic Tutor
+1 Exsanguinate
+1 Genesis Wave
+1 In Garruk's Wake
+1 Overwhelming Stampede
+1 Pact of the Serpent
+1 Shamanic Revelation
+1 Deadly Dispute
+1 Fog
+1 Galadhrim Ambush
+1 Golgari Charm
+1 Heritage Reclamation
+1 Putrefy
+1 Revitalizing Repast
+1 Wrap in Vigor
+1 Arcane Signet
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Guardian Project
+1 Moldervine Reclamation
+1 Prowess of the Fair
+1 Sylvan Anthem
+1 Amonkhet Raceway
+1 Ash Barrens
+1 Bojuka Bog
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Necroblossom Snarl
+1 Path of Ancestry
+1 Rogue's Passage
+1 Tainted Wood
+1 Temple of Malady
+1 Terramorphic Expanse
+1 Tranquil Thicket
+1 Twilight Mire
+1 Viridescent Bog
+1 Woodland Cemetery
+11 Forest
+8 Swamp
+Sideboard
+1 Lathril, Blade of the Elves

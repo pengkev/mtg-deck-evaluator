@@ -1,0 +1,73 @@
+1 Runaway Steam-Kin
+1 Plague Myr
+1 Imperial Recruiter
+1 Goblin Instigator
+1 Manakin
+1 Mogg War Marshal
+1 Fable of the Mirror-Breaker
+1 Storm-Kiln Artist
+1 Roaming Throne
+1 Emberheart Challenger
+1 Giggling Skitterspike
+1 Krenko, Tin Street Kingpin
+1 Young Pyromancer
+1 Birgi, God of Storytelling
+1 Sol Ring
+1 Ruby Medallion
+1 The One Ring
+1 Thought Vessel
+1 Lotus Petal
+1 Arcane Signet
+1 Lightning Greaves
+1 Stun
+1 Expedite
+1 Samut's Sprint
+1 Boiling Blood
+1 Run Amok
+1 Sudden Breakthrough
+1 Blazing Crescendo
+1 Monstrous Rage
+1 Flick a Coin
+1 Dreadmaw's Ire
+1 Might of the Meek
+1 Final Fortune
+1 Crimson Wisps
+1 Fists of Flame
+1 Chaos Warp
+1 Tibalt's Trickery
+1 Ancestors' Aid
+1 Traitorous Greed
+1 Kari Zev's Expertise
+1 Twinflame
+1 Forbidden Friendship
+1 Renegade Tactics
+1 Empty the Warrens
+1 Kick in the Door
+1 Jeska's Will
+1 Spark of Creativity
+1 Last Chance
+1 Hordeling Outburst
+1 Quarrel's End
+1 Dragon Fodder
+1 Song of Totentanz
+1 Witch's Mark
+1 Chandra's Ignition
+1 Daring Discovery
+1 Mizzix's Mastery
+1 Spectacular Showdown
+1 Rite of Flame
+1 Krenko's Command
+1 Faithless Looting
+1 Ancestral Anger
+1 Heat Shimmer
+1 Involuntary Employment
+1 Leyline of Resonance
+1 Dwarven Mine
+1 Kher Keep
+1 War Room
+1 Crystal Vein
+1 Reliquary Tower
+29 Mountain
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Zada, Hedron Grinder

@@ -1,0 +1,101 @@
+1 Bloom Tender
+1 Elves of Deep Shadow
+1 Eternal Witness
+1 Llanowar Elves
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Ghostly Pilferer
+1 Fyndhorn Elves
+1 Elvish Mystic
+1 Arbor Elf
+1 Birds of Paradise
+1 Spellseeker
+1 Deathrite Shaman
+1 Boreal Druid
+1 Collector Ouphe
+1 Consecrated Sphinx
+1 Notion Thief
+1 Runic Armasaur
+1 Opposition Agent
+1 Witherbloom Apprentice
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Six
+1 Mockingbird
+1 Pollywog Prodigy
+1 Enduring Vitality
+1 Kotis, the Fangkeeper
+1 Sol Ring
+1 Winter Orb
+1 Paradise Mantle
+1 Honor-Worn Shaku
+1 Chrome Mox
+1 Mox Diamond
+1 Springleaf Drum
+1 Relic of Legends
+1 The One Ring
+1 Veil of Summer
+1 Intuition
+1 Mystical Tutor
+1 Flusterstorm
+1 Demonic Consultation
+1 Muddle the Mixture
+1 Fierce Guardianship
+1 Vampiric Tutor
+1 Mindbreak Trap
+1 Tainted Pact
+1 Sink into Stupor
+1 Force of Will
+1 Demonic Tutor
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Merchant Scroll
+1 Chain of Smog
+1 Finale of Devastation
+1 Arterial Flow
+1 Culling Ritual
+1 Nature's Rhythm
+1 Carpet of Flowers
+1 Rhystic Study
+1 Sylvan Library
+1 Survival of the Fittest
+1 Opposition
+1 Mystic Remora
+1 Verity Circle
+1 Counterbalance
+1 Copy Enchantment
+1 Narset, Parter of Veils
+1 Forest
+1 Command Tower
+1 Mystic Sanctuary
+1 Lotus Field
+1 Dimir Aqueduct
+1 Exotic Orchard
+1 Golgari Rot Farm
+1 Simic Growth Chamber
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 City of Brass
+1 Bloodstained Mire
+1 Flooded Strand
+1 Breeding Pool
+1 Morphic Pool
+1 Ancient Tomb
+1 Overgrown Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Rejuvenating Springs
+1 Undergrowth Stadium
+1 Mistrise Village
+1 Mana Confluence
+Sideboard
+1 Archelos, Lagoon Mystic

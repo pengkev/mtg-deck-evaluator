@@ -1,0 +1,94 @@
+1 Mangara, the Diplomat
+1 Spore Frog
+1 Forgotten Ancient
+1 Sunscorch Regent
+1 Triskaidekaphile
+1 Disciplined Duelist
+1 Selvala, Explorer Returned
+1 Managorger Hydra
+1 Loran of the Third Path
+1 Jolrael, Mwonvuli Recluse
+1 Chasm Skulker
+1 Baird, Steward of Argive
+1 Coiling Oracle
+1 Steelburr Champion
+1 Twenty-Toed Toad
+1 Kalonian Hydra
+1 Kwain, Itinerant Meddler
+1 Realm-Cloaked Giant
+1 Kianne, Corrupted Memory
+1 Body of Knowledge
+1 Sphinx of Enlightenment
+1 Wall of Reverence
+1 Freestrider Lookout
+1 Mr. Foxglove
+1 Coveted Jewel
+1 Sol Ring
+1 Sensei's Divining Top
+1 Chromatic Lantern
+1 Swiftfoot Boots
+1 Isochron Scepter
+1 Thought Vessel
+1 Fellwar Stone
+1 Arcane Signet
+1 Ghirapur Orrery
+1 Path to Exile
+1 Swords to Plowshares
+1 Riot Control
+1 Perplexing Test
+1 Long River's Pull
+1 Perch Protection
+1 Illusionist's Gambit
+1 Intellectual Offering
+1 An Offer You Can't Refuse
+1 Aetherize
+1 Generous Gift
+1 Broken Wings
+1 Seek the Horizon
+1 Animist's Awakening
+1 Farseek
+1 Wear Down
+1 Promise of Loyalty
+1 Secret Rendezvous
+1 Grow from the Ashes
+1 Cultivate
+1 Brave the Sands
+1 Rites of Flourishing
+1 Authority of the Consuls
+1 Wizard Class
+1 Propaganda
+1 Communal Brewing
+1 Simic Ascendancy
+1 Doubling Season
+1 Tamiyo, Field Researcher
+1 Reliquary Tower
+1 Sunpetal Grove
+1 Command Tower
+1 Evolving Wilds
+1 Brushland
+1 Prairie Stream
+1 Seaside Citadel
+1 Thriving Grove
+1 Simic Growth Chamber
+1 Sungrass Prairie
+1 Canopy Vista
+1 Tranquil Landscape
+1 Yavimaya Coast
+1 Flooded Grove
+1 Razorverge Thicket
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Temple of Plenty
+1 Terramorphic Expanse
+1 Temple of Mystery
+1 Thriving Heath
+1 Thriving Isle
+1 Overflowing Basin
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Hinterland Harbor
+3 Forest
+3 Plains
+4 Island
+Sideboard
+1 Ms. Bumbleflower

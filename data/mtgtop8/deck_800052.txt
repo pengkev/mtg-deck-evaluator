@@ -1,0 +1,73 @@
+1 Alexios, Deimos of Kosmos
+1 Archetype of Aggression
+1 Brash Taunter
+1 Clive, Ifrit's Dominant
+1 Combustion Man
+1 Elturel Survivors
+1 Etali, Primal Storm
+1 Fiendish Duo
+1 Frontier Warmonger
+1 Goma Fada Vanguard
+1 Gornog, the Red Reaper
+1 Grenzo, Havoc Raiser
+1 Headliner Scarlett
+1 Kargan Intimidator
+1 Kazuul, Tyrant of the Cliffs
+1 Loyal Apprentice
+1 Neheb, Dreadhorde Champion
+1 Parapet Thrasher
+1 Professional Face-Breaker
+1 Rose, Cutthroat Raider
+1 Star Athlete
+1 Torbran, Thane of Red Fell
+1 Urabrask the Hidden
+1 Vengeful Ancestor
+1 Arcane Signet
+1 Basilisk Collar
+1 Crawlspace
+1 Heraldic Banner
+1 Horn of the Mark
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Mjölnir, Storm Hammer
+1 Ruby Medallion
+1 Sol Ring
+1 The Fire Crystal
+1 Tome of Legends
+1 Arcbond
+1 Big Score
+1 Chaos Warp
+1 Demand Answers
+1 Electric Revelation
+1 Laughing Mad
+1 Outmaneuver
+1 Sazacap's Brew
+1 Unexpected Windfall
+1 Barrage of Boulders
+1 Disrupt Decorum
+1 Embrace the Unknown
+1 Grab the Prize
+1 Highway Robbery
+1 Romantic Rendezvous
+1 Spectacular Showdown
+1 Sundering Eruption
+1 Brazen Cannonade
+1 Circle of Flame
+1 Connecting the Dots
+1 Curse of Opulence
+1 Guild Artisan
+1 Maximum Carnage
+1 Pyrohemia
+1 Uphill Battle
+1 War Cadence
+1 Wild Wasteland
+1 Castle Embereth
+1 Demolition Field
+1 Forgotten Cave
+29 Mountain
+1 Myriad Landscape
+1 Secret Tunnel
+1 Shire Terrace
+1 Spinerock Knoll
+Sideboard
+1 Kratos, God of War

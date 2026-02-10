@@ -1,0 +1,89 @@
+1 Aragorn and Arwen, Wed
+1 Aragorn, Hornburg Hero
+1 Aragorn, King of Gondor
+1 Arwen, Mortal Queen
+1 Beregond of the Guard
+1 Boromir, Warden of the Tower
+1 Chulane, Teller of Tales
+1 Cirdan the Shipwright
+1 Elrond of the White Council
+1 Eomer, King of Rohan
+1 Eowyn, Fearless Knight
+1 Eowyn, Shieldmaiden
+1 Faramir, Prince of Ithilien
+1 Faramir, Steward of Gondor
+1 Galadriel, Light of Valinor
+1 General Ferrous Rokiric
+1 Ghalta and Mavren
+1 Gilraen, Dúnedain Protector
+1 Gimli of the Glittering Caves
+1 Goldbug, Humanity's Ally
+1 Hajar, Loyal Bodyguard
+1 Inga and Esika
+1 Jolene, Plundering Pugilist
+1 Kyler, Sigardian Emissary
+1 Legolas Greenleaf
+1 Loran of the Third Path
+1 Mangara, the Diplomat
+1 Professional Face-Breaker
+1 Reclamation Sage
+1 Riders of Rohan
+1 Sergeant John Benton
+1 Shabraz, the Skyshark
+1 Shanna, Purifying Blade
+1 Théoden, King of Rohan
+1 Witch Enchanter
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Horn of Gondor
+1 Patchwork Banner
+1 Sol Ring
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Akroma's Will
+1 Entish Restoration
+1 Inscription of Abundance
+1 Master Warcraft
+1 Path to Exile
+1 Swords to Plowshares
+1 Cultivate
+1 Distant Melody
+1 Farseek
+1 Forth Eorlingas!
+1 Mass Appeal
+1 Rampant Growth
+1 Taunt from the Rampart
+1 Titanic Ultimatum
+1 Annie Joins Up
+1 Fealty to the Realm
+1 Kindred Discovery
+1 Monologue Tax
+1 Shared Animosity
+1 Smuggler's Share
+1 Ash Barrens
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+4 Forest
+1 Frontier Bivouac
+1 Glacial Fortress
+1 Great Hall of the Citadel
+1 Hinterland Harbor
+4 Island
+1 Jungle Shrine
+4 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+4 Plains
+1 Reliquary Tower
+1 Rootbound Crag
+1 Seaside Citadel
+1 Secluded Courtyard
+1 Shire Terrace
+1 Sulfur Falls
+1 Sunpetal Grove
+1 Terramorphic Expanse
+Sideboard
+1 Aragorn, the Uniter

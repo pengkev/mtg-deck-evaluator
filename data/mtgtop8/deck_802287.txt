@@ -1,0 +1,88 @@
+1 Alphinaud Leveilleur
+1 Beast Whisperer
+1 Brazen Borrower
+1 Changeling Outcast
+1 Edric, Spymaster of Trest
+1 Elves of Deep Shadow
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Emrakul's Messenger
+1 Faerie Artisans
+1 Faerie Bladecrafter
+1 Faerie Dreamthief
+1 Faerie Harbinger
+1 Faerie Mastermind
+1 Faerie Vandal
+1 Frilled Mystic
+1 Glissa Sunslayer
+1 Halo Forager
+1 High Fae Trickster
+1 Hypnotic Sprite
+1 Imperious Perfect
+1 Kellan, Inquisitive Prodigy
+1 Lathril, Blade of the Elves
+1 Llanowar Elves
+1 Lonis, Cryptozoologist
+1 Maraleaf Pixie
+1 Mischievous Mystic
+1 Nymris, Oona's Trickster
+1 Obyra, Dreaming Duelist
+1 Oona's Blackguard
+1 Pestermite
+1 Priest of Titania
+1 Quickling
+1 Rankle, Master of Pranks
+1 Reclamation Sage
+1 Scion of Oona
+1 Scryb Ranger
+1 Sower of Temptation
+1 Spellstutter Sprite
+1 Stingblade Assassin
+1 Sutina, Speaker of the Tajuru
+1 Talion, the Kindly Lord
+1 Tegwyll, Duke of Splendor
+1 Urborg Elf
+1 Vendilion Clique
+1 Wydwen, the Biting Gale
+1 Bident of Thassa
+1 Sol Ring
+1 Vedalken Orrery
+1 Beast Within
+1 Faebloom Trick
+1 Malakir Rebirth
+1 Pongify
+1 Sultai Charm
+1 Withering Torment
+1 Crippling Fear
+1 Distant Melody
+1 Faerie Slumber Party
+1 Stolen by the Fae
+1 Coastal Piracy
+1 Feywild Visitor
+1 Kindred Discovery
+1 Leyline of Anticipation
+1 Command Tower
+1 Darkwater Catacombs
+1 Dreamroot Cascade
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flooded Grove
+1 Foreboding Landscape
+5 Forest
+1 Hinterland Harbor
+5 Island
+1 Llanowar Wastes
+1 Opulent Palace
+1 Overflowing Basin
+1 Path of Ancestry
+6 Swamp
+1 Temple of Malady
+1 Terramorphic Expanse
+1 Twilight Mire
+1 Underground River
+1 Viridescent Bog
+1 Woodland Cemetery
+1 Yavimaya Coast
+Sideboard
+1 Maralen, Fae Ascendant

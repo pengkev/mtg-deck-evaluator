@@ -1,0 +1,101 @@
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Marsh Flats
+1 Arid Mesa
+1 Bloodstained Mire
+1 Command Tower
+1 Training Center
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Exotic Orchard
+1 Watery Grave
+1 Steam Vents
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Morphic Pool
+1 Polluted Delta
+1 Forbidden Orchard
+1 Cephalid Coliseum
+1 Barbarian Ring
+1 Undercity Sewers
+1 City of Brass
+1 Flooded Strand
+1 Volcanic Island
+1 Underground Sea
+1 Badlands
+1 Blood Crypt
+1 Underworld Breach
+1 Rhystic Study
+1 Necropotence
+1 Mystic Remora
+1 Animate Dead
+1 Jeska's Will
+1 Strike It Rich
+1 Beseech the Mirror
+1 Windfall
+1 Demonic Tutor
+1 Toxic Deluge
+1 Imperial Seal
+1 Gamble
+1 Chain of Smog
+1 Rite of Flame
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Praetor's Grasp
+1 Force of Will
+1 Force of Negation
+1 Daze
+1 Chain of Vapor
+1 Dismember
+1 Mindbreak Trap
+1 Borne Upon a Wind
+1 Pact of Negation
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Mental Misstep
+1 Dark Ritual
+1 Brain Freeze
+1 Tainted Pact
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Flusterstorm
+1 Cabal Ritual
+1 Sink into Stupor
+1 Pyroblast
+1 Deflecting Swat
+1 An Offer You Can't Refuse
+1 Snap
+1 Surgical Extraction
+1 Trickbind
+1 Demonic Consultation
+1 Final Fortune
+1 Swan Song
+1 Fellwar Stone
+1 Talisman of Dominance
+1 Talisman of Creativity
+1 Mishra's Bauble
+1 Mana Vault
+1 Arcane Signet
+1 Sol Ring
+1 The One Ring
+1 Mox Opal
+1 Lotus Petal
+1 Defense Grid
+1 Chrome Mox
+1 Mox Diamond
+1 Lion's Eye Diamond
+1 Grim Monolith
+1 Grinding Station
+1 Wishclaw Talisman
+1 Valley Floodcaller
+1 Storm-Kiln Artist
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Ragavan, Nimble Pilferer
+1 Wandering Archaic
+1 Hex Parasite
+1 Simian Spirit Guide
+1 Birgi, God of Storytelling
+Sideboard
+1 Marchesa, Dealer of Death

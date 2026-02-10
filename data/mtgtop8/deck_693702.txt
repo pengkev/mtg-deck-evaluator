@@ -1,0 +1,101 @@
+1 Gilded Drake
+1 Opposition Agent
+1 Vorinclex, Monstrous Raider
+1 Carth the Lion
+1 Bloom Tender
+1 Orcish Bowmasters
+1 Deepglow Skate
+1 Grim Monolith
+1 Mana Vault
+1 Sensei's Divining Top
+1 The One Ring
+1 Talisman of Progress
+1 Talisman of Dominance
+1 Talisman of Curiosity
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Talisman of Resilience
+1 Talisman of Hierarchy
+1 Swan Song
+1 Nature's Claim
+1 Vampiric Tutor
+1 Pact of Negation
+1 Force of Negation
+1 Mana Drain
+1 Force of Will
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Frantic Search
+1 Cyclonic Rift
+1 Strix Serenade
+1 Swords to Plowshares
+1 Brainstorm
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Time Warp
+1 Imperial Seal
+1 Damnation
+1 Demonic Tutor
+1 Supreme Verdict
+1 Farewell
+1 Toxic Deluge
+1 Temporal Manipulation
+1 Terminus
+1 Temporal Mastery
+1 Sylvan Library
+1 Rhystic Study
+1 Mystic Remora
+1 Oath of Teferi
+1 Doubling Season
+1 Teferi, Master of Time
+1 Ugin, the Spirit Dragon
+1 Ashiok, Dream Render
+1 Sorin Markov
+1 Jace, the Mind Sculptor
+1 Narset Transcendent
+1 Teferi, Hero of Dominaria
+1 Teferi, Temporal Archmage
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Tamiyo, Field Researcher
+1 Jace, Unraveler of Secrets
+1 Aminatou, the Fateshifter
+1 Ancient Tomb
+1 Bayou
+1 Savannah
+1 Scrubland
+1 Tropical Island
+1 Underground Sea
+1 Mana Confluence
+1 Tundra
+1 Zagoth Triome
+1 Verdant Catacombs
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Raffine's Tower
+1 Morphic Pool
+1 Reflecting Pool
+1 City of Brass
+1 Rejuvenating Springs
+1 Breeding Pool
+1 Godless Shrine
+1 Hallowed Fountain
+1 Overgrown Tomb
+1 Temple Garden
+1 Watery Grave
+1 Meticulous Archive
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Command Tower
+1 Sea of Clouds
+1 Flooded Strand
+Sideboard
+1 Atraxa, Praetors' Voice

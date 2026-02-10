@@ -1,0 +1,74 @@
+1 Archaeomancer
+1 Felidar Guardian
+1 Deadeye Navigator
+1 Sakashima of a Thousand Faces
+1 Kor Cartographer
+1 Sea Gate Oracle
+1 Soulherder
+1 Priest of Ancient Lore
+1 Venser, Shaper Savant
+1 Fiend Hunter
+1 Mulldrifter
+1 Tax Collector
+1 Loyal Warhound
+1 Spirited Companion
+1 Restoration Angel
+1 Skyclave Apparition
+1 Inspiring Overseer
+1 Champion of Wits
+1 Ichor Wellspring
+1 Liquimetal Torque
+1 Decanter of Endless Water
+1 Skullclamp
+1 Sol Ring
+1 Arcane Signet
+1 Mind Stone
+1 Azorius Signet
+1 Fellwar Stone
+1 Thought Vessel
+1 Mana Drain
+1 Negate
+1 Justiciar's Portal
+1 Ephemerate
+1 Arcane Denial
+1 Cloudshift
+1 Planar Incision
+1 Blur
+1 Force of Will
+1 Flicker of Fate
+1 Momentary Blink
+1 Reality Shift
+1 Fierce Guardianship
+1 Frantic Search
+1 Counterspell
+1 Swords to Plowshares
+1 Generous Gift
+1 Cyclonic Rift
+1 Pongify
+1 Brainstorm
+1 An Offer You Can't Refuse
+1 Essence Flux
+1 By Invitation Only
+1 Hour of Reckoning
+1 Supreme Verdict
+1 Oblivion Ring
+1 Omen of the Sea
+1 Teleportation Circle
+1 Mystic Remora
+1 Darksteel Mutation
+1 Land Tax
+1 Blind Obedience
+1 Intangible Virtue
+12 Island
+17 Plains
+1 Prismatic Vista
+1 Mystic Sanctuary
+1 Exotic Orchard
+1 Command Tower
+1 Port Town
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Prairie Stream
+Sideboard
+1 Abdel Adrian, Gorion's Ward
+1 Candlekeep Sage

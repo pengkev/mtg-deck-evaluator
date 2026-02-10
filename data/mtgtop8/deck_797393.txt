@@ -1,0 +1,70 @@
+1 Goblin Taskmaster
+1 Foundry Street Denizen
+1 Mogg Fanatic
+1 Redcap Thief
+1 Enterprising Scallywag
+1 Goblin Picker
+1 Squee, Goblin Nabob
+1 Goblin Warchief
+1 Purphoros, God of the Forge
+1 Goblin Fireleaper
+1 Goblin Sky Raider
+1 Frenzied Goblin
+1 Spikeshot Goblin
+1 Grenzo, Havoc Raiser
+1 Krenko, Tin Street Kingpin
+1 Skirk Prospector
+1 Goblin Glider
+1 Goblin Sledder
+1 Ember Hauler
+1 Goblin Arsonist
+1 Raging Goblin
+1 Mogg War Marshal
+1 Goblin Chariot
+1 Devilish Valet
+1 Imperial Recruiter
+1 Siege-Gang Commander
+1 Goblin Balloon Brigade
+1 Beetleback Chief
+1 Underfoot Underdogs
+1 Sarpadian Simulacrum
+1 Fanatical Firebrand
+1 Gempalm Incinerator
+1 Goblin Javelineer
+1 Ogre Battledriver
+1 Marvin, Murderous Mimic
+1 Banner of Kinship
+1 Heraldic Banner
+1 Sol Ring
+1 Lightning Greaves
+1 Vanquisher's Banner
+1 Sting, the Glinting Dagger
+1 Swiftfoot Boots
+1 Thornbite Staff
+1 Coat of Arms
+1 Mind Stone
+1 Thousand-Year Elixir
+1 Skullclamp
+1 Arcane Signet
+1 Umbral Mantle
+1 Lightning Bolt
+1 Chaos Warp
+1 Pyretic Ritual
+1 Abrade
+1 Seething Song
+1 Brightstone Ritual
+1 Red Elemental Blast
+1 Dragon Fodder
+1 Krenko's Command
+1 Full Throttle
+1 Goblin War Strike
+1 Faithless Looting
+1 Gleeful Demolition
+1 Goblin Bombardment
+1 Shared Animosity
+1 Rising of the Day
+1 Makeshift Munitions
+1 Impact Tremors
+32 Mountain
+Sideboard
+1 Krenko, Mob Boss

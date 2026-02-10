@@ -1,0 +1,84 @@
+1 Setessan Champion
+1 Verduran Enchantress
+1 Mindleecher
+1 Sawtusk Demolisher
+1 Grim Guardian
+1 Riptide Chimera
+1 Destiny Spinner
+1 Protean Thaumaturge
+1 Brokkos, Apex of Forever
+1 Chittering Harvester
+1 Cavern Whisperer
+1 Dirge Bat
+1 Dreamtail Heron
+1 Gemrazer
+1 Insatiable Hemophage
+1 Migratory Greathorn
+1 Pouncing Shoreshark
+1 Parcelbeast
+1 Courser of Kruphix
+1 Herald of the Pantheon
+1 Marauding Blight-Priest
+1 Dina, Soul Steeper
+1 Gloomshrieker
+1 Ivy, Gleeful Spellthief
+1 Eidolon of Blossoms
+1 Entity Tracker
+1 Sanctum Weaver
+1 Otrimi, the Ever-Playful
+1 Sea-Dasher Octopus
+1 Doomwake Giant
+1 Sol Ring
+1 Arcane Signet
+1 Beast Within
+1 Frogify
+1 Crab Umbra
+1 Shimmering Wings
+1 Font of Fertility
+1 Enchantress's Presence
+1 Rancor
+1 Curiosity
+1 Gift of Paradise
+1 Seal of Primordium
+1 Seal of Removal
+1 Shielding Plax
+1 Combat Research
+1 Vesuvan Duplimancy
+1 Utopia Sprawl
+1 Season of Growth
+1 Wild Growth
+1 Fertile Ground
+1 Amphibian Downpour
+1 Propaganda
+1 Wizard Class
+1 Wolfwillow Haven
+1 Ancestral Mask
+1 Kaya's Ghostform
+1 Kenrith's Transformation
+1 Whip Silk
+1 Witness Protection
+1 Imprisoned in the Moon
+1 Abundant Growth
+1 Phyrexian Arena
+1 Exotic Orchard
+1 Opulent Palace
+1 Command Tower
+1 Woodland Cemetery
+1 Sunken Hollow
+1 Myriad Landscape
+1 Rogue's Passage
+1 Hinterland Harbor
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Golgari Rot Farm
+1 Temple of Malady
+1 Llanowar Wastes
+1 Yavimaya Coast
+1 Drowned Catacomb
+1 Temple of Deceit
+7 Swamp
+7 Forest
+1 Dimir Aqueduct
+6 Island
+Sideboard
+1 Tatsunari, Toad Rider

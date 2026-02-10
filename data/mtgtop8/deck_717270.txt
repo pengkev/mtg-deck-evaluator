@@ -1,0 +1,95 @@
+1 Spellskite
+1 Auriok Salvagers
+1 Walking Atlas
+1 Esper Sentinel
+1 Urza, Lord High Artificer
+1 Tidespout Tyrant
+1 Phyrexian Metamorph
+1 Displacer Kitten
+1 Ethersworn Canonist
+1 Hullbreaker Horror
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Mesmeric Orb
+1 Storm Cauldron
+1 Codex Shredder
+1 Lotus Bloom
+1 Archaeomancer's Map
+1 Moonsilver Key
+1 Ninja's Kunai
+1 Imposter Mech
+1 Aether Spellbomb
+1 Encroaching Mycosynth
+1 The One Ring
+1 Basalt Monolith
+1 Arcane Signet
+1 Vexing Bauble
+1 Lotus Petal
+1 Bear Trap
+1 Sol Ring
+1 Repurposing Bay
+1 Fellwar Stone
+1 Talisman of Progress
+1 Expedition Map
+1 Force of Will
+1 Foil
+1 Intuition
+1 Fierce Guardianship
+1 Winds of Rebuke
+1 Enlightened Tutor
+1 Gifts Ungiven
+1 Muddle the Mixture
+1 Mana Drain
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Reshape
+1 Supreme Verdict
+1 Wrath of God
+1 Sevinne's Reclamation
+1 Rule of Law
+1 Power Artifact
+1 Mind Over Matter
+1 Artificer's Intuition
+1 Overburden
+1 Rhystic Study
+1 Mystic Remora
+1 Copy Artifact
+1 Frozen Aether
+1 Confounding Conundrum
+1 Seal of Cleansing
+1 Training Grounds
+1 Charitable Levy
+1 Static Prison
+1 Urza's Saga
+1 Mana Breach
+1 Seal of Removal
+1 Retreat to Coralhelm
+1 Teferi, Time Raveler
+1 Hallowed Fountain
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Tundra
+1 Flooded Strand
+1 Polluted Delta
+1 Darksteel Citadel
+1 Inventors' Fair
+1 Misty Rainforest
+1 Ancient Den
+1 Razortide Bridge
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 The Mycosynth Gardens
+1 Oboro, Palace in the Clouds
+1 Meticulous Archive
+1 Talon Gates of Madara
+1 Ghost Town
+1 Tolaria West
+1 Seat of the Synod
+1 Treasure Vault
+1 Sea of Clouds
+5 Plains
+3 Island
+Sideboard
+1 Tameshi, Reality Architect

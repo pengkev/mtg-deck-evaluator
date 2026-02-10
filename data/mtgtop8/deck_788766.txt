@@ -1,0 +1,65 @@
+1 Ayara, First of Locthwain
+1 Blood Artist
+1 Bloodthrone Vampire
+1 Bottle Gnomes
+1 Burglar Rat
+1 Death Cultist
+1 Drivnod, Carnage Dominus
+1 Elderfang Disciple
+1 Elvish Doomsayer
+1 Fell Specter
+1 Fume Spitter
+1 Gleaming Barrier
+1 Greedy Freebooter
+1 Hecteyes
+1 Marionette Apprentice
+1 Morbid Opportunist
+1 Pawn of Ulamog
+1 Pilgrim's Eye
+1 Rotting Rats
+1 Shambling Ghast
+1 Skirsdag High Priest
+1 Skullport Merchant
+1 Syr Konrad, the Grim
+1 Thorn of the Black Rose
+1 Vengeful Bloodwitch
+1 Virus Beetle
+1 Viscera Seer
+1 Zulaport Cutthroat
+1 Ashnod's Altar
+1 Crowded Crypt
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Altar's Reap
+1 Armor of Shadows
+1 Corrupted Conviction
+1 Costly Plunder
+1 Deadly Dispute
+1 Eviscerator's Insight
+1 Fake Your Own Death
+1 Fanatical Offering
+1 Not Dead After All
+1 Offer Immortality
+1 Reckoner's Bargain
+1 Return to Action
+1 Succumb to Temptation
+1 Undying Malice
+1 Withering Torment
+1 Bone Splinters
+1 Pitiless Carnage
+1 Agent of the Iron Throne
+1 Bastion of Remembrance
+1 Black Market
+1 Blessing of Leeches
+1 Death Match
+1 Death Pits of Rath
+1 Funeral Room/Awakening Hall
+1 Fungal Fortitude
+1 Necrogen Communion
+1 Open the Graves
+37 Swamp
+Sideboard
+1 Shirei, Shizo's Caretaker

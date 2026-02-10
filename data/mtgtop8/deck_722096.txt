@@ -1,0 +1,79 @@
+1 Kalonian Hydra
+1 Eternal Witness
+1 Vigor
+1 Oran-Rief Hydra
+1 Beast Whisperer
+1 Sakura-Tribe Elder
+1 Yavimaya Dryad
+1 Honored Hydra
+1 Primordial Hydra
+1 Destiny Spinner
+1 Lifeblood Hydra
+1 Managorger Hydra
+1 Hydra Omnivore
+1 Whiptongue Hydra
+1 Mistcutter Hydra
+1 Nylea, God of the Hunt
+1 Hydra Broodmaster
+1 Evolution Sage
+1 Steelbane Hydra
+1 Domesticated Hydra
+1 Wood Elves
+1 Champion of Lambholt
+1 Loyal Guardian
+1 Courser of Kruphix
+1 Genesis Hydra
+1 Victory's Herald
+1 Polukranos, World Eater
+1 Augur of Autumn
+1 Polukranos Reborn
+1 Phytohydra
+1 Azusa, Lost but Seeking
+1 Elvish Mystic
+1 Ghirapur Orrery
+1 Sol Ring
+1 Beast Within
+1 Flawless Maneuver
+1 Krosan Grip
+1 Inspiring Call
+1 Return of the Wildspeaker
+1 Swords to Plowshares
+1 Generous Gift
+1 Path to Exile
+1 Shelter
+1 Overwhelming Stampede
+1 Primal Command
+1 Rampant Growth
+1 Damning Verdict
+1 Rishkar's Expertise
+1 Kodama's Reach
+1 Winds of Abandon
+1 Cultivate
+1 Harmonize
+1 Kenrith's Transformation
+1 Garruk's Uprising
+1 Darksteel Mutation
+1 True Conviction
+1 Citadel Siege
+1 Mirari's Wake
+1 Hardened Scales
+1 Zendikar Resurgent
+1 Colossal Majesty
+1 Nature's Will
+1 Ajani, Mentor of Heroes
+1 Ajani Unyielding
+1 Command Tower
+1 Blighted Woodland
+1 Gavony Township
+1 Exotic Orchard
+1 Myriad Landscape
+1 Temple of the False God
+1 Karn's Bastion
+1 Canopy Vista
+1 Fortified Village
+1 Krosan Verge
+1 Temple of Plenty
+12 Plains
+12 Forest
+Sideboard
+1 Karametra, God of Harvests

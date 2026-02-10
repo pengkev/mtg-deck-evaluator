@@ -1,0 +1,89 @@
+1 Displacer Kitten
+1 Etherium Sculptor
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Glaring Fleshraker
+1 Junk Diver
+1 Liberator, Urza's Battlethopter
+1 Myr Retriever
+1 Phyrexian Metamorph
+1 Scrap Trawler
+1 Shimmer Myr
+1 Transit Mage
+1 Urza, Lord High Artificer
+1 Valley Floodcaller
+1 Walking Ballista
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Clock of Omens
+1 Cloud Key
+1 Fellwar Stone
+1 Grim Monolith
+1 Imposter Mech
+1 Isochron Scepter
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Repurposing Bay
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Sword of the Meek
+1 The One Ring
+1 Tormod's Crypt
+1 Unwinding Clock
+1 Voltaic Key
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 High Tide
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Pongify
+1 Resculpt
+1 Sink into Stupor
+1 Swan Song
+1 Whir of Invention
+1 Fabricate
+1 Reshape
+1 Stock Up
+1 Transmute Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Narset, Parter of Veils
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Ancient Tomb
+1 City of Traitors
+1 Crystal Vein
+1 Emergence Zone
+1 Gemstone Caverns
+1 Inventors' Fair
+13 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Workshop
+1 Otawara, Soaring City
+1 Seat of the Synod
+Sideboard
+1 Sai, Master Thopterist

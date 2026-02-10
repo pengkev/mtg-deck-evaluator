@@ -1,0 +1,101 @@
+1 Counterbalance
+1 Necropotence
+1 Exploration
+1 Sylvan Library
+1 Mystic Remora
+1 Rhystic Study
+1 Mirrormade
+1 Massacre
+1 Finale of Devastation
+1 Imperial Seal
+1 Culling Ritual
+1 Demonic Tutor
+1 Force of Vigor
+1 Force of Negation
+1 Deadly Rollick
+1 Mindbreak Trap
+1 Fierce Guardianship
+1 Force of Will
+1 Submerge
+1 Snuff Out
+1 Cabal Ritual
+1 Legolas's Quick Reflexes
+1 Borne Upon a Wind
+1 Lim-Dul's Vault
+1 Retraction Helix
+1 Mystical Tutor
+1 Swan Song
+1 Noxious Revival
+1 Dark Ritual
+1 Flusterstorm
+1 Demonic Consultation
+1 Strix Serenade
+1 Cyclonic Rift
+1 Pact of Negation
+1 Mental Misstep
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Chord of Calling
+1 Gifts Ungiven
+1 Baleful Mastery
+1 Tainted Pact
+1 Crop Rotation
+1 Brainstorm
+1 The One Ring
+1 Mox Diamond
+1 Mana Vault
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Aetherflux Reservoir
+1 Sensei's Divining Top
+1 Bolas's Citadel
+1 Chrome Mox
+1 Deathrite Shaman
+1 Seedborn Muse
+1 Elves of Deep Shadow
+1 Clever Impersonator
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Mockingbird
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Sheoldred, the Apocalypse
+1 Birds of Paradise
+1 Phyrexian Metamorph
+1 Wandering Archaic
+1 Opposition Agent
+1 Mistrise Village
+1 Underground Sea
+1 Tropical Island
+1 Bayou
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Misty Rainforest
+1 Marsh Flats
+1 Command Tower
+1 Talon Gates of Madara
+1 Shifting Woodland
+1 Wooded Foothills
+1 Windswept Heath
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Breeding Pool
+1 Watery Grave
+1 Overgrown Tomb
+1 Undercity Sewers
+1 Gemstone Caverns
+1 Yavimaya, Cradle of Growth
+1 Exotic Orchard
+1 Island
+1 City of Brass
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Morphic Pool
+1 Gaea's Cradle
+1 Mana Confluence
+1 Ancient Tomb
+Sideboard
+1 Glarb, Calamity's Augur

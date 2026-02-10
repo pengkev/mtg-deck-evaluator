@@ -1,0 +1,78 @@
+1 Sensei's Divining Top
+1 Sol Ring
+1 Chrome Mox
+1 Riverchurn Monument
+1 Dramatic Reversal
+1 Jwari Disruption
+1 Counterspell
+1 Mystical Tutor
+1 Toils of Night and Day
+1 Thirst for Discovery
+1 Wash Away
+1 Alchemist's Retrieval
+1 Force of Will
+1 Ertai's Scorn
+1 Defabricate
+1 Fact or Fiction
+1 Impulse
+1 Minor Misstep
+1 Mox Amber
+1 Obsessive Search
+1 Mox Diamond
+1 Isochron Scepter
+1 Scroll Rack
+1 Codex Shredder
+1 Time Stretch
+1 Distorted Curiosity
+1 Aether Gale
+1 Seize the Secrets
+1 Expropriate
+1 Stock Up
+1 Compulsive Research
+1 Preordain
+1 Silver Scrutiny
+1 Omniscience
+1 One with the Multiverse
+1 Unstoppable Plan
+1 Mystic Remora
+1 Moment of Truth
+1 Meeting of Minds
+1 Mystic Confluence
+1 Fierce Guardianship
+1 Quick Study
+1 Consider
+1 Fleeting Reflection
+1 Nexus of Fate
+1 Geistlight Snare
+1 Spell Pierce
+1 Syncopate
+1 Essence Scatter
+1 Negate
+1 Frantic Search
+1 Enter the Infinite
+1 Consuming Tide
+1 Bring the Ending
+1 Witness the Future
+1 Void Winnower
+1 Kozilek, the Great Distortion
+1 Malevolent Hermit
+1 Hullbreaker Horror
+1 Jin-Gitaxias
+1 Faerie Mastermind
+1 Thassa's Oracle
+1 Haughty Djinn
+1 Cephalid Broker
+1 Fear of Impostors
+1 Laboratory Maniac
+1 Waxen Shapethief
+1 Vnwxt, Verbose Host
+1 Ulamog, the Defiler
+1 Phyrexian Walker
+1 Polluted Delta
+1 Command Tower
+1 Flooded Strand
+1 Terrain Generator
+1 Scalding Tarn
+24 Island
+Sideboard
+1 Jacob Hauken, Inspector

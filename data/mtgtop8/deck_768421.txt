@@ -1,0 +1,81 @@
+1 Anticausal Vestige
+1 Beast Whisperer
+1 Bramble Sovereign
+1 Captivating Crew
+1 Combustible Gearhulk
+1 Dawnglade Regent
+1 Delina, Wild Mage
+1 Flamerush Rider
+1 Garruk's Packleader
+1 Goblin Anarchomancer
+1 Goldspan Dragon
+1 Goreclaw, Terror of Qal Sisma
+1 Jaxis, the Troublemaker
+1 Jolene, Plundering Pugilist
+1 Jolene, the Plunder Queen
+1 Karlach, Fury of Avernus
+1 Kogla and Yidaro
+1 Kogla, the Titan Ape
+1 Mirage Phalanx
+1 Nylea, Keen-Eyed
+1 Outcaster Trailblazer
+1 Overlord of the Boilerbilges
+1 Pinnacle Monk
+1 Primeval Herald
+1 Professional Face-Breaker
+1 Prosperous Innkeeper
+1 Rionya, Fire Dancer
+1 Sakura-Tribe Elder
+1 Solemn Simulacrum
+1 Soul of the Harvest
+1 Svella, Ice Shaper
+1 Temur Sabertooth
+1 Terastodon
+1 Thorn Mammoth
+1 Tireless Provisioner
+1 Weftstalker Ardent
+1 Woodfall Primus
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Blade of Selves
+1 Cursed Mirror
+1 Esika's Chariot
+1 Helm of the Host
+1 Lithoform Engine
+1 Panharmonicon
+1 Sol Ring
+1 Beast Within
+1 Chaos Warp
+1 Return of the Wildspeaker
+1 Second Harvest
+1 Tibalt's Trickery
+1 Blasphemous Act
+1 Chain Reaction
+1 For the Common Good
+1 Rishkar's Expertise
+1 Rootcast Apprenticeship
+1 Asceticism
+1 Echoing Assault
+1 Elemental Bond
+1 Garruk's Uprising
+1 Rhythm of the Wild
+1 Up the Beanstalk
+1 Chandra, Flameshaper
+1 Minsc & Boo, Timeless Heroes
+1 Cinder Glade
+1 Command Tower
+12 Forest
+1 Game Trail
+1 Gruul Turf
+1 Kessig Wolf Run
+1 Mossfire Valley
+10 Mountain
+1 Muraganda Raceway
+1 Myriad Landscape
+1 Rockfall Vale
+1 Rugged Highlands
+1 Scavenger Grounds
+1 Temple of Abandon
+1 Wooded Ridgeline
+Sideboard
+1 Roxanne, Starfall Savant

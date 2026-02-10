@@ -1,0 +1,92 @@
+1 Marionette Master
+1 Teysa, Orzhov Scion
+1 Teysa Karlov
+1 Corpse Knight
+1 Mangara, the Diplomat
+1 Thalisse, Reverent Medium
+1 Academy Manufactor
+1 Welcoming Vampire
+1 Wernog, Rider's Chaplain
+1 Bennie Bracks, Zoologist
+1 Braids, Arisen Nightmare
+1 Gixian Puppeteer
+1 Creeping Bloodsucker
+1 Mondrak, Glory Dominus
+1 Mirkwood Bats
+1 Lobelia, Defender of Bag End
+1 Moonshaker Cavalry
+1 Bartolomé del Presidio
+1 Roaming Throne
+1 Carmen, Cruel Skymarcher
+1 Delney, Streetwise Lookout
+1 Wojek Investigator
+1 Persuasive Interrogators
+1 Merchant of Truth
+1 Marionette Apprentice
+1 Witch Enchanter
+1 Stridehangar Automaton
+1 Hardened Tactician
+1 Inspiring Statuary
+1 Ashnod's Altar
+1 Hedron Archive
+1 Springleaf Drum
+1 Fellwar Stone
+1 Orzhov Signet
+1 Sol Ring
+1 Thran Dynamo
+1 Tamiyo's Journal
+1 Thought Vessel
+1 Talisman of Hierarchy
+1 Idol of Oblivion
+1 Arcane Signet
+1 Invasion of New Capenna
+1 Thousand Moons Smithy
+1 Tarrian's Journal
+1 Path to Exile
+1 Dark Ritual
+1 Swords to Plowshares
+1 Dispatch
+1 Anguished Unmaking
+1 Teferi's Protection
+1 Heliod's Intervention
+1 Akroma's Will
+1 Deadly Dispute
+1 Clever Concealment
+1 Fanatical Offering
+1 Eviscerator's Insight
+1 Toxic Deluge
+1 Damn
+1 Back for Seconds
+1 Insatiable Avarice
+1 Will of the Abzan
+1 Anointed Procession
+1 Phyrexian Arena
+1 Divine Visitation
+1 Agent of the Iron Throne
+1 Caretaker's Talent
+1 Dollmaker's Shop/Porcelain Gallery
+1 Into the Pit
+1 Kaya, Spirits' Justice
+6 Plains
+5 Swamp
+1 Isolated Chapel
+1 Caves of Koilos
+1 Exotic Orchard
+1 Fetid Heath
+1 Temple of Silence
+1 Command Tower
+1 Castle Locthwain
+1 Fabled Passage
+1 Brightclimb Pathway
+1 Shattered Sanctum
+1 Havengul Laboratory
+1 Minas Tirith
+1 Desolate Mire
+1 Conduit Pylons
+1 Spymaster's Vault
+1 Hidden Grotto
+1 Amonkhet Raceway
+1 Bleachbone Verge
+1 Muraganda Raceway
+Sideboard
+1 Teysa, Opulent Oligarch

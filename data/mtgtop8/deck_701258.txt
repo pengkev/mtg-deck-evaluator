@@ -1,0 +1,101 @@
+1 Borne Upon a Wind
+1 Brainstorm
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Get Lost
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mystic Confluence
+1 Mystical Tutor
+1 Nexus of Fate
+1 Permission Denied
+1 Pyroblast
+1 Sink into Stupor
+1 Swan Song
+1 Swords to Plowshares
+1 Alrund's Epiphany
+1 Beacon of Tomorrows
+1 Capture of Jingzhou
+1 Mindbreak Trap
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Hidden Footblade
+1 An Offer You Can't Refuse
+1 Lavaspur Boots
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Scroll Rack
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The One Ring
+1 Izzet Signet
+1 Enter the Infinite
+1 Expropriate
+1 Faithless Looting
+1 Full Throttle
+1 Fury of the Horde
+1 Gamble
+1 Gitaxian Probe
+1 Jeska's Will
+1 Karn's Temporal Sundering
+1 Rise of the Eldrazi
+1 Seize the Day
+1 Temporal Manipulation
+1 Teferi, Time Raveler
+1 Temporal Trespass
+1 Time Stretch
+1 Time Warp
+1 Transmute Artifact
+1 Walk the Aeons
+1 Waves of Aggression
+1 Mass Hysteria
+1 Mind Over Matter
+1 Need for Speed
+1 Rhystic Study
+1 Jace, Wielder of Mysteries
+1 Temporal Mastery
+1 Diamond Lion
+1 Esper Sentinel
+1 Generator Servant
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Plateau
+1 Polluted Delta
+1 Sacred Foundry
+1 Scalding Tarn
+1 Seat of the Synod
+1 Steam Vents
+1 The Mycosynth Gardens
+1 Tundra
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+1 Misty Rainforest
+1 Urza's Saga
+Sideboard
+1 Narset, Enlightened Master

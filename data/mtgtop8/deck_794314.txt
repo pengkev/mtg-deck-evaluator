@@ -1,0 +1,78 @@
+1 Shoreline Looter
+1 Invisible Stalker
+1 Escape Artist
+1 Talrand, Sky Summoner
+1 Kiora, the Rising Tide
+1 Triton Shorestalker
+1 Murmuring Mystic
+1 Aether Figment
+1 Hydro-Man, Fluid Felon
+1 Looter il-Kor
+1 River Sneak
+1 Silent Hallcreeper
+1 Mist-Cloaked Herald
+1 Slither Blade
+1 Haughty Djinn
+1 Gudul Lurker
+1 Mercurial Spelldancer
+1 Archmage Emeritus
+1 Bident of Thassa
+1 The Magic Mirror
+1 Sol Ring
+1 Bender's Waterskin
+1 Waterbending Scroll
+1 Negate
+1 Octopus Form
+1 Daze
+1 Visions of Beyond
+1 Brainstorm
+1 Reality Shift
+1 Unsubstantiate
+1 Otherworldly Gaze
+1 Frantic Search
+1 You See a Guard Approach
+1 Consider
+1 Rapid Hybridization
+1 Narset's Reversal
+1 Spell Pierce
+1 Arcane Denial
+1 Mission Briefing
+1 Filter Out
+1 Whispers of the Muse
+1 Twisted Image
+1 Think Twice
+1 Refocus
+1 Clairvoyance
+1 Counterspell
+1 Stubborn Denial
+1 Obsessive Search
+1 Curate
+1 Gigadrowse
+1 Moment of Truth
+1 An Offer You Can't Refuse
+1 Aetherize
+1 Pongify
+1 Opt
+1 Dream Twist
+1 Dreams of Laguna
+1 Leap
+1 Slip Through Space
+1 Candlekeep Inspiration
+1 Quiet Speculation
+1 Contingency Plan
+1 Taigam's Scheming
+1 Enter the Enigma
+1 Boomerang Basics
+1 Compelling Argument
+1 Call to Mind
+1 Insight
+1 Coastal Piracy
+1 Curiosity
+1 Reliquary Tower
+1 Agna Qel'a
+1 Rogue's Passage
+1 Cephalid Coliseum
+24 Island
+1 Mystic Sanctuary
+Sideboard
+1 Octavia, Living Thesis

@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Esper Sentinel
+1 Flamescroll Celebrant
+1 Generator Servant
+1 Grand Abolisher
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Simian Spirit Guide
+1 Tataru Taru
+1 Voice of Victory
+1 Weathered Wayfarer
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Chrome Mox
+1 Conqueror's Flail
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Izzet Signet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The One Ring
+1 Brain Freeze
+1 Commandeer
+1 Enlightened Tutor
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Into the Flood Maw
+1 Intuition
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Nexus of Fate
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Silence
+1 Sink into Stupor
+1 Swan Song
+1 Alrund's Epiphany
+1 Aminatou's Augury
+1 Beacon of Tomorrows
+1 Capture of Jingzhou
+1 Expropriate
+1 Gamble
+1 Karn's Temporal Sundering
+1 Mind's Desire
+1 Part the Waterveil
+1 Rise of the Eldrazi
+1 Seize the Day
+1 Sevinne's Reclamation
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Temporal Trespass
+1 Time Stretch
+1 Time Warp
+1 Walk the Aeons
+1 Waves of Aggression
+1 Mind Over Matter
+1 Mystic Remora
+1 One with the Multiverse
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Urza's Saga
+1 Jace, Wielder of Mysteries
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Cascade Bluffs
+1 Cavern of Souls
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hall of the Bandit Lord
+1 Hallowed Fountain
+1 Mistrise Village
+1 Mystic Gate
+1 Otawara, Soaring City
+1 Plateau
+1 Sacred Foundry
+1 Scalding Tarn
+1 Steam Vents
+1 Talon Gates of Madara
+1 The Mycosynth Gardens
+1 Tundra
+1 Volcanic Island
+Sideboard
+1 Narset, Enlightened Master

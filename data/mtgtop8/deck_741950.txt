@@ -1,0 +1,72 @@
+1 Avenger of the Fallen
+1 Billowing Shriekmass
+1 Chitin Gravestalker
+1 Cynical Loner
+1 Demon Wall
+1 Doomsday Excruciator
+1 Faerie Dreamthief
+1 Fang, Fearless l'Cie
+1 Gas Guzzler
+1 Jecht, Reluctant Guardian
+1 Kain, Traitorous Dragoon
+1 Malboro
+1 Osseous Sticktwister
+1 Osteomancer Adept
+1 Overlord of the Balemurk
+1 Qarsi Revenant
+1 Rot-Curse Rakshasa
+1 Shefet Archfiend
+1 Sidequest: Hunt the Mark
+1 Sidisi, Regent of the Mire
+1 Solemn Simulacrum
+1 Spectral Snatcher
+1 Starving Revenant
+1 Summon: Anima
+1 Summon: Primal Odin
+1 Syr Konrad, the Grim
+1 Thornplate Intimidator
+1 Unstoppable Slasher
+1 Valgavoth's Faithful
+1 Vile Mutilator
+1 Wreckage Wickerfolk
+1 Arcane Signet
+1 Bandit's Haul
+1 Buster Sword
+1 Phantom Train
+1 Sol Ring
+1 Starting Column
+1 The Darkness Crystal
+1 The Regalia
+1 Anoint with Affliction
+1 Bitter Triumph
+1 Corrupted Conviction
+1 Cut Down
+1 Deadly Dispute
+1 Hero's Downfall
+1 Live or Die
+1 Overkill
+1 Spin Out
+1 Vayne's Treachery
+1 Coiling Rebirth
+1 Come Back Wrong
+1 Commune with Evil
+1 Demonic Counsel
+1 Dread Summons
+1 Final Vengeance
+1 Quag Feast
+1 Resentful Revelation
+1 Strategic Betrayal
+1 Zombify
+1 Bandit's Talent
+1 Derelict Attic/Widow's Walk
+1 Momentum Breaker
+1 Unholy Annex/Ritual Chamber
+1 Adventurer's Inn
+1 Amonkhet Raceway
+1 Avishkar Raceway
+1 Muraganda Raceway
+1 Soulstone Sanctuary
+30 Swamp
+1 Terramorphic Expanse
+Sideboard
+1 Ardyn, the Usurper

@@ -1,0 +1,92 @@
+1 Queen Brahne
+1 Electro, Assaulting Battery
+1 Black Waltz No. 3
+1 Mysidian Elder
+1 Dualcaster Mage
+1 Chandra's Incinerator
+1 Strago and Relm
+1 Coruscation Mage
+1 Birgi, God of Storytelling
+1 Pinnacle Monk
+1 Kefka, Dancing Mad
+1 Guttersnipe
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Caldera Pyremaw
+1 Leyline Tyrant
+1 Fandaniel, Telophoroi Ascian
+1 Krark, the Thumbless
+1 Gwenom, Remorseless
+1 Black Mage's Rod
+1 Arcane Signet
+1 Grafted Exoskeleton
+1 Fellwar Stone
+1 Talisman of Indulgence
+1 Rakdos Signet
+1 Sol Ring
+1 Ghostfire Slice
+1 Lightning Bolt
+1 Baleful Mastery
+1 Imp's Mischief
+1 Opera Love Song
+1 Overkill
+1 Chaos Warp
+1 Dark Ritual
+1 Terminate
+1 Battle Hymn
+1 Lindblum, Industrial Regency
+1 Spikefield Hazard
+1 Demand Answers
+1 Go for the Throat
+1 Seething Song
+1 Infernal Grasp
+1 Cremate
+1 Espers to Magicite
+1 Deadly Dispute
+1 Transpose
+1 Rakdos Charm
+1 Abrade
+1 Fatal Push
+1 Midgar, City of Mako
+1 Faithless Looting
+1 Mizzix's Mastery
+1 Sign in Blood
+1 Circle of Power
+1 Mana Geyser
+1 Strike It Rich
+1 Blasphemous Act
+1 Night's Whisper
+1 Light Up the Stage
+1 Cornered by Black Mages
+1 Beseech the Mirror
+1 Overmaster
+1 Diabolic Tutor
+1 Bloodsoaked Insight
+1 Arcane Bombardment
+1 Fiery Inscription
+1 Powerbalance
+1 Kaya's Ghostform
+1 Painful Quandary
+1 Phyrexian Arena
+1 Professor Onyx
+1 Canyon Slough
+1 Shadowblood Ridge
+5 Mountain
+1 Exotic Orchard
+1 Bloodfell Caves
+1 Dragonskull Summit
+1 Temple of Malice
+1 Bojuka Bog
+1 Vector, Imperial Capital
+1 Temple of the False God
+1 Sulfurous Springs
+1 Command Tower
+6 Swamp
+1 Smoldering Marsh
+1 Tainted Peak
+1 Geothermal Bog
+1 Foreboding Ruins
+1 Graven Cairns
+1 Crossroads Village
+Sideboard
+1 Kuja, Genome Sorcerer

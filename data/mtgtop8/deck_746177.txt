@@ -1,0 +1,89 @@
+1 Azure Fleet Admiral
+1 Breeches, Eager Pillager
+1 Captain Storm, Cosmium Raider
+1 Captain Vargus Wrath
+1 Cloud Pirates
+1 Departed Deckhand
+1 Dire Fleet Daredevil
+1 Drift of Phantasms
+1 Fanatical Firebrand
+1 Glint-Horn Buccaneer
+1 Goblin Tomb Raider
+1 Hedron Detonator
+1 Impulsive Pilferer
+1 Kitesail Larcenist
+1 Lightning-Rig Crew
+1 Magda, Brazen Outlaw
+1 Malcolm, Alluring Scoundrel
+1 Malcolm, the Eyes
+1 Mary Read and Anne Bonny
+1 Merchant Raiders
+1 Niv-Mizzet, Parun
+1 Ornithopter of Paradise
+1 Phantasmal Image
+1 Reckless Fireweaver
+1 Reckless Lackey
+1 Siren Stormtamer
+1 Spectral Sailor
+1 Spyglass Siren
+1 Staunch Crewmate
+1 Storm Fleet Sprinter
+1 Tandem Lookout
+1 Warkite Marauder
+1 Weftstalker Ardent
+1 Arcane Signet
+1 Captain's Hook
+1 Fellwar Stone
+1 Izzet Signet
+1 Maskwood Nexus
+1 Mind Stone
+1 Runed Stalactite
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 The Indomitable
+1 Wayfarer's Bauble
+1 Abrade
+1 Chaos Warp
+1 Counterspell
+1 Dispel
+1 Invert Polarity
+1 Lightning Bolt
+1 March of Swirling Mist
+1 Memory Lapse
+1 Muddle the Mixture
+1 Negate
+1 Resculpt
+1 Synchronized Eviction
+1 Chart a Course
+1 Eagle Vision
+1 Expressive Iteration
+1 Lorien Revealed
+1 Sundering Eruption
+1 Curiosity
+1 Fresh Start
+1 Leyline of Transformation
+1 Ash Barrens
+1 Cascade Bluffs
+1 Command Tower
+1 Escape Tunnel
+1 Exotic Orchard
+1 Ferrous Lake
+1 Fiery Islet
+1 Frostboil Snarl
+9 Island
+1 Izzet Boilerworks
+1 Maestros Theater
+1 Molten Tributary
+5 Mountain
+1 Path of Ancestry
+1 Secluded Courtyard
+1 Shivan Reef
+1 Spire of Industry
+1 Spirebluff Canal
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Breeches, Brazen Plunderer
+1 Malcolm, Keen-Eyed Navigator

@@ -1,0 +1,101 @@
+1 Boromir, Warden of the Tower
+1 Dualcaster Mage
+1 Esper Sentinel
+1 Felidar Guardian
+1 Flamescroll Celebrant
+1 Goldhound
+1 Grand Abolisher
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 Kiki-Jiki, Mirror Breaker
+1 Lotho, Corrupt Shirriff
+1 Lurrus of the Dream-Den
+1 Magda, Brazen Outlaw
+1 Mayhem Devil
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Simian Spirit Guide
+1 Tataru Taru
+1 Tinybones, the Pickpocket
+1 Valki, God of Lies
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Heart of Kiran
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Staff of Compleation
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 The Celestus
+1 Wishclaw Talisman
+1 Abeyance
+1 Burnt Offering
+1 Dark Ritual
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Entomb
+1 Invoke Calamity
+1 Orim's Chant
+1 Pull from Eternity
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Shred Memory
+1 Silence
+1 Soul Partition
+1 Swords to Plowshares
+1 Tainted Pact
+1 Tibalt's Trickery
+1 Tithe
+1 Untimely Malfunction
+1 Vampiric Tutor
+1 Whisper of the Dross
+1 You Find Some Prisoners
+1 Beseech the Mirror
+1 Demonic Bargain
+1 Demonic Tutor
+1 Faithless Looting
+1 Flicker
+1 Gamble
+1 Imperial Seal
+1 Molten Duplication
+1 Reanimate
+1 Rite of Flame
+1 Scheming Symmetry
+1 Sevinne's Reclamation
+1 Unmarked Grave
+1 Wheel of Fortune
+1 Animate Dead
+1 Necromancy
+1 Touch the Spirit Realm
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Fomori Vault
+1 Gemstone Caverns
+1 Godless Shrine
+1 Great Furnace
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Plateau
+1 Raucous Theater
+1 Sacred Foundry
+1 Scrubland
+1 Vault of Whispers
+Sideboard
+1 Dihada, Binder of Wills

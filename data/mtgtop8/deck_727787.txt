@@ -1,0 +1,101 @@
+1 Walking Ballista
+1 Grand Abolisher
+1 Stitcher's Supplier
+1 Recruiter of the Guard
+1 Ranger-Captain of Eos
+1 Vesperlark
+1 Lurrus of the Dream-Den
+1 Opposition Agent
+1 Breena, the Demagogue
+1 Esper Sentinel
+1 Abdel Adrian, Gorion's Ward
+1 Archivist of Oghma
+1 Deep Gnome Terramancer
+1 Activated Sleeper
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Doorkeeper Thrull
+1 Aven Interrupter
+1 Angel of Indemnity
+1 Darkstar Augur
+1 Voice of Victory
+1 Mox Amber
+1 Springleaf Drum
+1 Fellwar Stone
+1 Mana Vault
+1 Sol Ring
+1 Altar of Dementia
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Arcane Signet
+1 Staff of Compleation
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Disruptor Flute
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Culling the Weak
+1 Dark Ritual
+1 Swords to Plowshares
+1 Silence
+1 Abeyance
+1 Entomb
+1 Tainted Pact
+1 Imp's Mischief
+1 Orim's Chant
+1 Shred Memory
+1 Cabal Ritual
+1 Mausoleum Secrets
+1 Deadly Rollick
+1 Blacksmith's Skill
+1 Saw in Half
+1 Reprieve
+1 Flare of Fortitude
+1 Thraben Charm
+1 Cabal Therapy
+1 Demonic Tutor
+1 Reanimate
+1 Imperial Seal
+1 Scheming Symmetry
+1 Sevinne's Reclamation
+1 Animate Dead
+1 Dance of the Dead
+1 Necromancy
+1 Smothering Tithe
+1 Black Market Connections
+1 Trouble in Pairs
+1 Ripples of Undeath
+1 Unholy Annex/Ritual Chamber
+1 Plains
+1 Swamp
+1 City of Brass
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Exotic Orchard
+1 Godless Shrine
+1 Mana Confluence
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Scrubland
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Cabal Pit
+1 Gemstone Caverns
+1 Command Tower
+1 Silent Clearing
+1 Vault of Champions
+1 Eiganjo, Seat of the Empire
+1 Takenuma, Abandoned Mire
+1 Shadowy Backstreet
+1 Lazotep Quarry
+1 Bleachbone Verge
+Sideboard
+1 Keleth, Sunmane Familiar
+1 Francisco, Fowl Marauder

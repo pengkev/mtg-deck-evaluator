@@ -1,0 +1,72 @@
+1 Aetherspouts
+1 Arcane Signet
+1 Archmage Emeritus
+1 Auroral Procession
+1 Blatant Thievery
+1 Chasm Skulker
+1 Command Tower
+1 Control Magic
+1 Counterspell
+1 Cyclone Summoner
+1 Dig Through Time
+1 Diluvian Primordial
+1 Dispel
+1 Echoing Truth
+1 Elvish Mystic
+1 Everflowing Chalice
+1 Explore
+1 Fact or Fiction
+1 Flooded Grove
+1 Flusterstorm
+1 Forbid
+15 Forest
+1 Gift of Paradise
+1 Growth Spiral
+1 Harrow
+1 Hydra Broodmaster
+1 Impulse
+16 Island
+1 Koma, World-Eater
+1 Llanowar Elves
+1 Logic Knot
+1 Mana Leak
+1 Market Festival
+1 Memory Deluge
+1 Mind Control
+1 Mind's Dilation
+1 Nature's Claim
+1 Negate
+1 Nexus of Fate
+1 Nissa's Pilgrimage
+1 Opt
+1 Ornithopter of Paradise
+1 Paradise Druid
+1 Pick Your Poison
+1 Planar Genesis
+1 Prismatic Lens
+1 Pull from Tomorrow
+1 Reclaim
+1 Reliquary Tower
+1 Sanctum Weaver
+1 Seasons Past
+1 Sensei's Divining Top
+1 Simic Signet
+1 Sol Ring
+1 Steel Hellkite
+1 Subjugate the Hobbits
+1 Tempted by the Oriq
+1 Thassa's Intervention
+1 Thought Scour
+1 Time Stretch
+1 Treasure Cruise
+1 Urban Burgeoning
+1 Vineglimmer Snarl
+1 Volatile Stormdrake
+1 Wavebreak Hippocamp
+1 Whelming Wave
+1 Wild Growth
+1 Wizard's Retort
+1 Worn Powerstone
+1 Yavimaya Coast
+Sideboard
+1 Rashmi, Eternities Crafter

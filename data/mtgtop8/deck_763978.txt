@@ -1,0 +1,93 @@
+1 Aftermath Analyst
+1 Augur of Autumn
+1 Baloth Prime
+1 Braids, Arisen Nightmare
+1 Evendo Brushrazer
+1 God-Eternal Bontu
+1 Horizon Explorer
+1 Icetill Explorer
+1 Ignoble Hierarch
+1 Iridescent Vinelasher
+1 Korvold, Fae-Cursed King
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Mayhem Devil
+1 Mazirek, Kraul Death Priest
+1 Mightform Harmonizer
+1 Moraug, Fury of Akoum
+1 Oracle of Mul Daya
+1 Rampaging Baloths
+1 Sabotender
+1 Scouring Swarm
+1 Six
+1 Springbloom Druid
+1 Sylvan Safekeeper
+1 Szarel, Genesis Shepherd
+1 Tannuk, Memorial Ensign
+1 The Gitrog Monster
+1 Tireless Provisioner
+1 Titania, Protector of Argoth
+1 Traveling Chocobo
+1 Wayward Swordtooth
+1 Arcane Signet
+1 Exploration Broodship
+1 Lumbering Worldwagon
+1 Sol Ring
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Zuran Orb
+1 Abrupt Decay
+1 Beast Within
+1 Deadly Rollick
+1 Harrow
+1 Infernal Grasp
+1 Rakdos Charm
+1 Roiling Regrowth
+1 Blasphemous Act
+1 Cultivate
+1 Demonic Tutor
+1 Escape to the Wilds
+1 Explore
+1 Farseek
+1 Nahiri's Lithoforming
+1 Nature's Lore
+1 Planetary Annihilation
+1 Reanimate
+1 Splendid Reclamation
+1 Worldsoul's Rage
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Blooming Marsh
+1 Bojuka Bog
+1 Cabaretti Courtyard
+1 Canyon Slough
+1 Cinder Glade
+1 Command Tower
+1 Dragonskull Summit
+1 Escape Tunnel
+1 Eumidian Hatchery
+1 Evolving Wilds
+1 Fabled Passage
+1 Field of the Dead
+7 Forest
+1 Haunted Ridge
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Lotus Field
+1 Maestros Theater
+2 Mountain
+1 Overgrown Tomb
+1 Raucous Theater
+1 Riveteers Overlook
+1 Smoldering Marsh
+1 Stomping Ground
+1 Sulfurous Springs
+2 Swamp
+1 Terramorphic Expanse
+1 Twilight Mire
+1 Vernal Fen
+1 Wastewood Verge
+1 Woodland Cemetery
+Sideboard
+1 Hearthhull, the Worldseed

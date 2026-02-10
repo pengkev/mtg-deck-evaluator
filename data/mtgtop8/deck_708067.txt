@@ -1,0 +1,101 @@
+1 Bloom Tender
+1 Kutzil, Malamet Exemplar
+1 Warren Soultrader
+1 Faeburrow Elder
+1 Birds of Paradise
+1 Champion of Lambholt
+1 Bramblewood Paragon
+1 Derevi, Empyrial Tactician
+1 Noble Hierarch
+1 Deathrite Shaman
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Simian Spirit Guide
+1 Chatterfang, Squirrel General
+1 Ignoble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Grim Hireling
+1 Devilish Valet
+1 Professional Face-Breaker
+1 Samut, Vizier of Naktamun
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Delney, Streetwise Lookout
+1 Gornog, the Red Reaper
+1 Tinder Wall
+1 Emiel the Blessed
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Curiosity
+1 Wishclaw Talisman
+1 Agatha's Soul Cauldron
+1 Fellwar Stone
+1 Talisman of Progress
+1 Mox Opal
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Mox Amber
+1 Swords to Plowshares
+1 Crop Rotation
+1 Dark Ritual
+1 Snap
+1 Deflecting Swat
+1 Flusterstorm
+1 Swan Song
+1 Veil of Summer
+1 Pyroblast
+1 Pact of Negation
+1 Fire Covenant
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Silence
+1 Eladamri's Call
+1 Force of Negation
+1 Deadly Rollick
+1 Mental Misstep
+1 Noxious Revival
+1 Worldly Tutor
+1 Mindbreak Trap
+1 Gamble
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Sevinne's Reclamation
+1 Diabolic Intent
+1 Rite of Flame
+1 Neoform
+1 Telepathy
+1 Rhystic Study
+1 Druids' Repository
+1 Command Tower
+1 City of Brass
+1 Flooded Strand
+1 Boseiju, Who Endures
+1 Exotic Orchard
+1 Bayou
+1 Badlands
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Taiga
+1 Tundra
+1 Tropical Island
+1 Underground Sea
+1 Bloodstained Mire
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Gaea's Cradle
+1 Volcanic Island
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Talon Gates of Madara
+Sideboard
+1 Najeela, the Blade-Blossom

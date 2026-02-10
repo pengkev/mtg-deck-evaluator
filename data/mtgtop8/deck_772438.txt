@@ -1,0 +1,86 @@
+1 Consecrated Sphinx
+1 Emry, Lurker of the Loch
+1 Faerie Mastermind
+1 Forensic Gadgeteer
+1 Hullbreaker Horror
+1 Ledger Shredder
+1 Metalworker
+1 Mockingbird
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Pollywog Prodigy
+1 Spellskite
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Basalt Monolith
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Imposter Mech
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Pithing Needle
+1 Rings of Brighthearth
+1 Sapphire Medallion
+1 Sol Ring
+1 Static Orb
+1 The One Ring
+1 Trinisphere
+1 Winter Orb
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Narset's Reversal
+1 Pact of Negation
+1 Rapid Hybridization
+1 Sink into Stupor
+1 Stifle
+1 Swan Song
+1 Solve the Equation
+1 Timetwister
+1 Transmute Artifact
+1 Back to Basics
+1 Leyline of Anticipation
+1 Mirrormade
+1 Mystic Remora
+1 Power Artifact
+1 Rhystic Study
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Emergence Zone
+1 Gemstone Caverns
+1 Inventors' Fair
+16 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Workshop
+1 Otawara, Soaring City
+1 Saprazzan Skerry
+1 Seat of the Synod
+1 Snow-Covered Island
+1 The Tabernacle at Pendrell Vale
+Sideboard
+1 Urza, Lord High Artificer

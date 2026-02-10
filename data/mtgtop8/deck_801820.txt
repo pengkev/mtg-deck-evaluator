@@ -1,0 +1,101 @@
+1 Agate Instigator
+1 Ancestral Statue
+1 Arbor Elf
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloom Tender
+1 Champions of the Perfect
+1 Cloud of Faeries
+1 Collector Ouphe
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Destiny Spinner
+1 Dosan the Falling Leaf
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Faerie Mastermind
+1 Formidable Speaker
+1 Hexing Squelcher
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Imperial Recruiter
+1 Kiri-Onna
+1 Knuckles the Echidna
+1 Llanowar Elves
+1 Mockingbird
+1 Peregrine Drake
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Phyrexian Revoker
+1 Pollywog Prodigy
+1 Professional Face-Breaker
+1 Radagast the Brown
+1 Ragavan, Nimble Pilferer
+1 Runic Armasaur
+1 Simian Spirit Guide
+1 Slithermuse
+1 Sowing Mycospawn
+1 Spellskite
+1 Starwinder
+1 The Unagi of Kyoshi Island
+1 Tidal Barracuda
+1 Tishana's Tidebinder
+1 Transit Mage
+1 Vizier of the Menagerie
+1 Walking Ballista
+1 Wan Shi Tong, Librarian
+1 Wandering Archaic
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Mox Diamond
+1 Archdruid's Charm
+1 Chord of Calling
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flare of Denial
+1 Force of Will
+1 Pact of Negation
+1 Redirect Lightning
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Neoform
+1 Survival of the Fittest
+1 Utopia Sprawl
+1 Wild Growth
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Evendo, Waking Haven
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Shifting Woodland
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Talon Gates of Madara
+1 Tropical Island
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Animar, Soul of Elements

@@ -1,0 +1,101 @@
+1 Etali, Primal Conqueror
+1 Displacer Kitten
+1 Lion's Eye Diamond
+1 Urza's Bauble
+1 Mox Opal
+1 Imposter Mech
+1 Mana Vault
+1 Mox Amber
+1 The One Ring
+1 Fellwar Stone
+1 Talisman of Curiosity
+1 Talisman of Creativity
+1 Springleaf Drum
+1 Arcane Signet
+1 Talisman of Impulse
+1 Mox Diamond
+1 Chrome Mox
+1 Lotus Petal
+1 Isochron Scepter
+1 Mishra's Bauble
+1 Sol Ring
+1 Swan Song
+1 Flusterstorm
+1 Force of Vigor
+1 Mental Misstep
+1 Red Elemental Blast
+1 Chain of Vapor
+1 Memory's Journey
+1 Delay
+1 Theoretical Duplication
+1 Mystical Tutor
+1 Brain Freeze
+1 Veil of Summer
+1 Mana Drain
+1 Force of Negation
+1 Chaos Mutation
+1 Dramatic Reversal
+1 An Offer You Can't Refuse
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Pyroblast
+1 Flare of Duplication
+1 Strix Serenade
+1 Noxious Revival
+1 Force of Will
+1 Retraction Helix
+1 Brainstorm
+1 Misdirection
+1 Divergent Transformations
+1 Mindbreak Trap
+1 Gamble
+1 Merchant Scroll
+1 Rite of Flame
+1 Timetwister
+1 Nature's Lore
+1 Solve the Equation
+1 Ponder
+1 Jeska's Will
+1 Three Visits
+1 Gitaxian Probe
+1 Mirrormade
+1 Mystic Remora
+1 Urza's Saga
+1 Sylvan Library
+1 Defense of the Heart
+1 Underworld Breach
+1 Copy Enchantment
+1 Training Grounds
+1 Utopia Sprawl
+1 Rhystic Study
+1 Narset, Parter of Veils
+1 Great Furnace
+1 The Tabernacle at Pendrell Vale
+1 Breeding Pool
+1 Arid Mesa
+1 City of Brass
+1 Mana Confluence
+1 Steam Vents
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Seat of the Synod
+1 Stomping Ground
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Command Tower
+1 Willowrush Verge
+1 Riverpyre Verge
+1 Mistrise Village
+1 Emergence Zone
+1 Scalding Tarn
+1 Misty Rainforest
+1 Flooded Strand
+1 Thornspire Verge
+Sideboard
+1 Thrasios, Triton Hero
+1 Rograkh, Son of Rohgahh

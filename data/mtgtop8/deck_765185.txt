@@ -1,0 +1,81 @@
+1 Blasphemous Act
+1 Aetherize
+1 Arcane Denial
+1 Change of Plans
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Counterspell
+1 March of Swirling Mist
+1 Pongify
+1 Reverse the Polarity
+1 Thought Vessel
+1 Arcane Signet
+1 Champion's Helm
+1 Izzet Signet
+1 Fellwar Stone
+1 Vandalblast
+1 Untimely Malfunction
+1 Lightning Greaves
+1 Mind Stone
+1 Chaos Warp
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 The Indomitable
+1 The Regalia
+1 Chain Reaction
+1 Disallow
+1 Malcolm, Alluring Scoundrel
+1 Pol Jamaar, Illusionist
+1 Quistis Trepe
+1 Saheeli, the Sun's Brilliance
+1 Spider-Byte, Web Warden
+1 Sun Quan, Lord of Wu
+1 Surtr, Fiery Jötun
+1 The Peregrine Dynamo
+1 Traxos, Scourge of Kroog
+1 Ultimecia, Temporal Threat
+1 Unctus, Grand Metatect
+1 Venser, Shaper Savant
+1 Rose, Cutthroat Raider
+1 Grazilaxx, Illithid Scholar
+1 Kraum, Violent Cacophony
+1 Zurzoth, Chaos Rider
+1 Kiora, the Rising Tide
+1 K-9, Mark I
+1 Kraum, Ludevic's Opus
+1 Vincent, Vengeful Atoner
+1 Malcolm, Keen-Eyed Navigator
+1 Adric, Mathematical Genius
+1 Clive, Ifrit's Dominant
+1 Eomer, Marshal of Rohan
+1 Esior, Wardwing Familiar
+1 Feldon of the Third Path
+1 Ganax, Astral Hunter
+1 Gimli of the Glittering Caves
+1 Gloin, Dwarf Emissary
+1 Gogo, Master of Mimicry
+1 Headliner Scarlett
+1 Iymrith, Desert Doom
+1 J. Jonah Jameson
+1 Jill, Shiva's Dominant
+1 Akal Pakal, First Among Equals
+1 Jori En, Ruin Diver
+1 Abstergo Entertainment
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Ferrous Lake
+1 Great Hall of the Citadel
+1 Shivan Reef
+1 Spire of Industry
+1 Spirebluff Canal
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Fiery Islet
+1 Frostboil Snarl
+1 Reliquary Tower
+9 Mountain
+13 Island
+Sideboard
+1 Shaun, Father of Synths

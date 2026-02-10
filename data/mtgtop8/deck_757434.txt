@@ -1,0 +1,84 @@
+1 Alexios, Deimos of Kosmos
+1 Brash Taunter
+1 Cemetery Gatekeeper
+1 Chandra's Incinerator
+1 Eidolon of the Great Revel
+1 Gleeful Arsonist
+1 Goblin Chainwhirler
+1 Goblin Sharpshooter
+1 Harsh Mentor
+1 Imperial Recruiter
+1 Magebane Lizard
+1 Ojer Axonil, Deepest Might
+1 Rampaging Ferocidon
+1 Razorkin Needlehead
+1 Scab-Clan Berserker
+1 Solphim, Mayhem Dominus
+1 Star Athlete
+1 Toralf, God of Fury
+1 Zo-Zu the Punisher
+1 Arcane Signet
+1 Coldsteel Heart
+1 Commander's Sphere
+1 Endless Atlas
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Fire Diamond
+1 Moonsilver Key
+1 Palantir of Orthanc
+1 Ruby Medallion
+1 Shadowspear
+1 Sol Ring
+1 Star Compass
+1 Throne of Eldraine
+1 Chaos Warp
+1 Cinderclasm
+1 Delayed Blast Fireball
+1 Fault Line
+1 Flame Sweep
+1 Fuel the Flames
+1 Impact Resonance
+1 Magmaquake
+1 Starstorm
+1 Volcanic Fallout
+1 Acidic Soil
+1 Blasphemous Act
+1 Chain Reaction
+1 Faithless Looting
+1 Fiery Confluence
+1 Flamebreak
+1 Gamble
+1 Jeska's Will
+1 Reckless Handling
+1 Spiteful Repossession
+1 Star of Extinction
+1 Volcanic Spray
+1 Aether Flash
+1 Artist's Talent
+1 Maddening Hex
+1 Manabarbs
+1 Pain for All
+1 Pyrohemia
+1 Pyrostatic Pillar
+1 Repercussion
+1 Roiling Vortex
+1 Smoke
+1 Spellshock
+1 Spiked Corridor/Torture Pit
+1 Spiteful Banditry
+1 Sulfuric Vortex
+1 Invasion of Karsus
+1 Den of the Bugbear
+1 Desert of the Fervent
+1 Dormant Volcano
+1 Forgotten Cave
+1 Guildless Commons
+18 Mountain
+1 Myriad Landscape
+1 Roadside Reliquary
+1 Smoldering Crater
+1 The Autonomous Furnace
+1 The Mycosynth Gardens
+1 War Room
+Sideboard
+1 Torbran, Thane of Red Fell

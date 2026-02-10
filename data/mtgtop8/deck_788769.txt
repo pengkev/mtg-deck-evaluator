@@ -1,0 +1,86 @@
+1 Boggart Trawler
+1 Enduring Tenacity
+1 Killian, Ink Duelist
+1 Lotho, Corrupt Shirriff
+1 Ondu Spiritdancer
+1 Sram, Senior Edificer
+1 Witch Enchanter
+1 Arcane Signet
+1 Cloud Key
+1 Gilded Lotus
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Well of Lost Dreams
+1 Generous Gift
+1 Sejiri Shelter
+1 Killing Wave
+1 Open the Vaults
+1 Read the Bones
+1 Retether
+1 Three Dreams
+1 United Battlefront
+1 Vindicate
+1 Winds of Rath
+1 Aurification
+1 Benevolent Blessing
+1 Black Market Connections
+1 Clawing Torment
+1 Contaminated Ground
+1 Court of Ardenvale
+1 Darksteel Mutation
+1 Detainment Spell
+1 Endless Horizons
+1 Festering Wound
+1 Ghostly Prison
+1 Ghoulish Impetus
+1 Gift of Immortality
+1 Glasswing Grace
+1 Greater Auramancy
+1 Greed
+1 Insubordination
+1 Martial Impetus
+1 Monologue Tax
+1 Nowhere to Run
+1 Ossification
+1 Overwhelming Splendor
+1 Paralyze
+1 Parasitic Impetus
+1 Pariah
+1 Phyrexian Arena
+1 Radiant Grace
+1 Ragged Veins
+1 Redemption Arc
+1 Sanguine Bond
+1 Seizures
+1 Sigarda's Aid
+1 Sinister Possession
+1 Smuggler's Share
+1 Sphere of Safety
+1 Spirit Link
+1 Tenuous Truce
+1 Trespasser's Curse
+1 Underworld Connections
+1 Vampiric Link
+1 Vow of Duty
+1 Vow of Malice
+1 Vow of Torment
+1 Wound Reflection
+1 Arcane Lighthouse
+1 Bojuka Bog
+1 Caves of Koilos
+1 Command Tower
+1 Concealed Courtyard
+1 Emergence Zone
+1 Evolving Wilds
+1 Exotic Orchard
+1 Hall of Heliod's Generosity
+1 Isolated Chapel
+1 Orzhov Basilica
+1 Path of Ancestry
+9 Plains
+1 Reliquary Tower
+1 Shineshadow Snarl
+8 Swamp
+1 Tainted Field
+Sideboard
+1 Eriette of the Charmed Apple

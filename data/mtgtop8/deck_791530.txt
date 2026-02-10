@@ -1,0 +1,80 @@
+1 Admiral Beckett Brass
+1 Agent of Treachery
+1 Breeches, Brazen Plunderer
+1 Breeches, Eager Pillager
+1 Broadside Bombardiers
+1 Captain Lannery Storm
+1 Captain N'ghathrod
+1 Captain Storm, Cosmium Raider
+1 Captivating Crew
+1 Coercive Recruiter
+1 Dargo, the Shipwrecker
+1 Dauthi Voidwalker
+1 Decadent Dragon
+1 Dire Fleet Daredevil
+1 Enterprising Scallywag
+1 Etali, Primal Storm
+1 Grima, Saruman's Footman
+1 Hostage Taker
+1 Laughing Jasper Flint
+1 Locke, Treasure Hunter
+1 Malcolm, Keen-Eyed Navigator
+1 Nightveil Specter
+1 Pitiless Plunderer
+1 Plargg and Nassari
+1 Ramirez DePietro, Pillager
+1 Siren Stormtamer
+1 Spectral Sailor
+1 The Beast, Deathless Prince
+1 Thief of Sanity
+1 Tinybones, the Pickpocket
+1 Vaan, Street Thief
+1 Volatile Stormdrake
+1 Zara, Renegade Recruiter
+1 Arcane Signet
+1 Fellwar Stone
+1 Herald's Horn
+1 Izzet Signet
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 The Indomitable
+1 Vanquisher's Banner
+1 Wand of Wonder
+1 An Offer You Can't Refuse
+1 Deadly Dispute
+1 Drown in the Loch
+1 Pongify
+1 Prismari Command
+1 Rakdos Charm
+1 Rapid Hybridization
+1 Siphon Insight
+1 Spell Swindle
+1 Terminate
+1 Blasphemous Act
+1 Blood Money
+1 Bribery
+1 Seize the Spotlight
+1 Walk the Plank
+1 Cunning Rhetoric
+1 Dead Man's Chest
+1 Phyrexian Arena
+1 Revel in Riches
+1 Shared Animosity
+1 Verity Circle
+1 Ash Barrens
+1 Command Tower
+1 Crumbling Necropolis
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fiery Islet
+8 Island
+8 Mountain
+1 Path of Ancestry
+1 Secluded Courtyard
+8 Swamp
+1 Terramorphic Expanse
+1 Unclaimed Territory
+Sideboard
+1 Don Andres, the Renegade

@@ -1,0 +1,101 @@
+1 Aftermath Analyst
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Icetill Explorer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Six
+1 Sylvan Safekeeper
+1 Thassa's Oracle
+1 Voice of Victory
+1 Arcane Signet
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Wishclaw Talisman
+1 Zuran Orb
+1 Ad Nauseam
+1 Angel's Grace
+1 Brain Freeze
+1 Chain of Vapor
+1 Crop Rotation
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Into the Flood Maw
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Silence
+1 Summoner's Pact
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Imperial Seal
+1 Life from the Loam
+1 Scapeshift
+1 Sevinne's Reclamation
+1 Splendid Reclamation
+1 Exploration
+1 Mystic Remora
+1 Rhystic Study
+1 Squandered Resources
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Bayou
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Echoing Deeps
+1 Emergence Zone
+1 Flooded Strand
+1 Gemstone Caverns
+1 Golgari Rot Farm
+1 Hedge Maze
+1 Lotus Field
+1 Lush Oasis
+1 Mana Confluence
+1 Marsh Flats
+1 Mirrorpool
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Nurturing Peatland
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Shifting Woodland
+1 Starting Town
+1 Strip Mine
+1 Tranquil Thicket
+1 Tropical Island
+1 Tundra
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 The Wandering Minstrel

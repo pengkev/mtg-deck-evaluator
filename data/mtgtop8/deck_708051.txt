@@ -1,0 +1,101 @@
+1 Vedalken Aethermage
+1 Bloodline Necromancer
+1 Spellseeker
+1 Thassa's Oracle
+1 Scholar of the Ages
+1 Simian Spirit Guide
+1 Ruthless Technomancer
+1 Arcane Signet
+1 Talisman of Dominance
+1 Grim Monolith
+1 Talisman of Indulgence
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Chrome Mox
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Sol Ring
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Defense Grid
+1 Talisman of Creativity
+1 Springleaf Drum
+1 Lim-Dul's Vault
+1 Swan Song
+1 Miscast
+1 Final Fortune
+1 Mental Misstep
+1 Shallow Grave
+1 Demonic Consultation
+1 Chain of Vapor
+1 Tainted Pact
+1 Burnt Offering
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Into the Flood Maw
+1 Pyroblast
+1 Culling the Weak
+1 Intuition
+1 Cabal Ritual
+1 Entomb
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Essence Flux
+1 Dark Ritual
+1 Daze
+1 Dispel
+1 Snap
+1 Spell Pierce
+1 Red Elemental Blast
+1 Flusterstorm
+1 Brain Freeze
+1 Ad Nauseam
+1 Unmarked Grave
+1 Wheel of Fortune
+1 Reanimate
+1 Last Chance
+1 Imperial Seal
+1 Gamble
+1 Demonic Tutor
+1 Buried Alive
+1 Gitaxian Probe
+1 Rite of Flame
+1 Unearth
+1 Finale of Promise
+1 Step Through
+1 Persist
+1 Windfall
+1 Necropotence
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Badlands
+1 Underground Sea
+1 City of Traitors
+1 Watery Grave
+1 Blood Crypt
+1 Steam Vents
+1 Marsh Flats
+1 Scalding Tarn
+1 Volcanic Island
+1 Tarnished Citadel
+1 City of Brass
+1 Bloodstained Mire
+1 Flooded Strand
+1 Morphic Pool
+1 Crystal Vein
+1 Ancient Tomb
+1 Command Tower
+1 Arid Mesa
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Wooded Foothills
+1 Gemstone Caverns
+1 Otawara, Soaring City
+Sideboard
+1 Inalla, Archmage Ritualist

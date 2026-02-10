@@ -1,0 +1,81 @@
+1 Alexios, Deimos of Kosmos
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Benevolent Bodyguard
+1 Blade Historian
+1 Boromir, Warden of the Tower
+1 Combat Celebrant
+1 Dauntless Dismantler
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 Hope of Ghirapur
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phyrexian Walker
+1 Signal Pest
+1 Simian Spirit Guide
+1 Soulless Jailer
+1 Path to Exile
+1 Razorgrass Ambush
+1 Swords to Plowshares
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Conviction
+1 Deafening Silence
+1 High Noon
+1 Blinkmoth Nexus
+1 Command Tower
+10 Mountain
+12 Plains
+1 Alseid of Life's Bounty
+1 Guardian of Faith
+1 Spirit of the Labyrinth
+1 The Jolly Balloon Man
+1 The Wandering Rescuer
+1 Windcrag Siege
+1 Glittering Massif
+1 Radiant Summit
+1 Erkenbrand, Lord of Westfold
+1 Glorious Protector
+1 Banisher Priest
+1 Clifftop Retreat
+1 Gallifrey Falls/No More
+1 Rugged Prairie
+1 Stadium Headliner
+1 Phoenix Chick
+1 Beregond of the Guard
+1 Selfless Spirit
+1 Battlefield Forge
+1 Glowrider
+1 Loyal Apprentice
+1 Captain of the Watch
+1 Castle Ardenvale
+1 Goldnight Commander
+1 Geist-Honored Monk
+1 Keldon Firebombers
+1 Jor Kadeen, the Prevailer
+1 Goblin Rabblemaster
+1 Needle Spires
+1 Faith's Reward
+1 Thalia, Guardian of Thraben
+1 Clarion Conqueror
+1 Sacred Peaks
+1 Village Bell-Ringer
+1 Boros Charm
+1 Sokenzan, Crucible of Defiance
+1 Temple of Triumph
+1 Coppercoat Vanguard
+1 Semester's End
+1 Goldhound
+1 Selfless Savior
+1 Fiend Hunter
+1 Gold Myr
+1 Senu, Keen-Eyed Protector
+1 Inspiring Vantage
+1 Gingerbrute
+1 Kiki-Jiki, Mirror Breaker
+Sideboard
+1 Winota, Joiner of Forces

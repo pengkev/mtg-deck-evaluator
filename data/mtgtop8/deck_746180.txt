@@ -1,0 +1,81 @@
+1 Aftermath Analyst
+1 Baleful Strix
+1 Braids, Arisen Nightmare
+1 Butcher of Malakir
+1 Cankerbloom
+1 Colossal Skyturtle
+1 Consuming Aberration
+1 Deeproot Wayfinder
+1 Demon's Disciple
+1 Disciple of Bolas
+1 Erinis, Gloom Stalker
+1 Eternal Witness
+1 Fauna Shaman
+1 Fleshbag Marauder
+1 Gravebreaker Lamia
+1 Grim Giganotosaurus
+1 Jarad, Golgari Lich Lord
+1 Kodama of the East Tree
+1 Likeness Looter
+1 Lord of Extinction
+1 Massacre Girl
+1 Massacre Wurm
+1 Meloku the Clouded Mirror
+1 Merciless Executioner
+1 Mulldrifter
+1 Outland Liberator
+1 Plaguecrafter
+1 Puppeteer Clique
+1 River Kelpie
+1 Rona, Herald of Invasion
+1 Ruthless Technomancer
+1 Shigeki, Jukai Visionary
+1 Sire of Stagnation
+1 Solemn Simulacrum
+1 Spore Frog
+1 Tatyova, Benthic Druid
+1 The Ancient One
+1 The Mimeoplasm
+1 Thrashing Brontodon
+1 Timeless Witness
+1 Underrealm Lich
+1 Urborg Lhurgoyf
+1 Vohar, Vodalian Desecrator
+1 Zimone and Dina
+1 Arcane Signet
+1 Dimir Signet
+1 Golgari Signet
+1 Mind Stone
+1 Nihil Spellbomb
+1 Simic Signet
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Blink of an Eye
+1 Frantic Search
+1 Growth Spiral
+1 Joint Exploration
+1 Thirst for Discovery
+1 Thirst for Knowledge
+1 Compulsive Research
+1 Deep Analysis
+1 Jarad's Orders
+1 Make Your Own Luck
+1 Rise of the Witch-King
+1 Oversold Cemetery
+1 Phyrexian Reclamation
+1 Brokers Hideout
+1 Evolving Wilds
+7 Forest
+1 Golgari Rot Farm
+8 Island
+1 Maestros Theater
+1 Obscura Storefront
+1 Riveteers Overlook
+1 Simic Growth Chamber
+8 Swamp
+1 Temple of Deceit
+1 Temple of Malady
+1 Temple of Mystery
+1 Terramorphic Expanse
+Sideboard
+1 Muldrotha, the Gravetide

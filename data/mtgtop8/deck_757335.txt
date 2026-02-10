@@ -1,0 +1,85 @@
+1 Amaranthine Wall
+1 Angelic Wall
+1 Axebane Guardian
+1 Charix, the Raging Isle
+1 Crashing Drawbridge
+1 Crystal Barricade
+1 Drift of Phantasms
+1 Flumph
+1 Fog Bank
+1 Fortified Rampart
+1 Hover Barrier
+1 Jeskai Barricade
+1 Orator of Ojutai
+1 Overgrown Battlement
+1 Perimeter Captain
+1 Riptide Turtle
+1 Shield Sphere
+1 Shield-Wall Sentinel
+1 Stalwart Shield-Bearers
+1 Steel Wall
+1 Sunscape Familiar
+1 Sylvan Caryatid
+1 Tetsuko Umezawa, Fugitive
+1 The Pride of Hull Clade
+1 Tree of Redemption
+1 Vine Trellis
+1 Walking Bulwark
+1 Wall of Blossoms
+1 Wall of Denial
+1 Wall of Frost
+1 Wall of Junk
+1 Wall of Mist
+1 Wall of Nets
+1 Wall of Omens
+1 Wall of Shards
+1 Wall of Tanglecord
+1 Wall of Tears
+1 Weathered Sentinels
+1 Wingmantle Chaplain
+1 Arcane Signet
+1 Azorius Signet
+1 Lightning Greaves
+1 Meekstone
+1 Rammas Echor, Ancient Shield
+1 Selesnya Signet
+1 Simic Signet
+1 Skeleton Key
+1 Slagwurm Armor
+1 Sol Ring
+1 Bar the Door
+1 Beast Within
+1 Collective Resistance
+1 Eerie Interlude
+1 Solidarity
+1 Tower Defense
+1 Broken Bond
+1 Cultivate
+1 Dusk/Dawn
+1 Farseek
+1 Fell the Mighty
+1 Nature's Lore
+1 Rampant Growth
+1 Slaughter the Strong
+1 The Battle of Bywater
+1 High Alert
+1 Teyo, Geometric Tactician
+1 Access Tunnel
+1 Ancient Ziggurat
+1 Azorius Chancery
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+6 Forest
+1 Fortified Village
+7 Island
+1 Myriad Landscape
+6 Plains
+1 Radiant Grove
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Temple of Enlightenment
+1 Yavimaya Coast
+Sideboard
+1 Arcades, the Strategist

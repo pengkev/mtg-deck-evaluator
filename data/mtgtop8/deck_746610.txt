@@ -1,0 +1,99 @@
+1 Ajani, Nacatl Pariah
+1 Alexios, Deimos of Kosmos
+1 Alseid of Life's Bounty
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Blade Historian
+1 Boromir, Warden of the Tower
+1 Cathar Commando
+1 Clarion Conqueror
+1 Combat Celebrant
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Fear of Missing Out
+1 Gingerbrute
+1 Giver of Runes
+1 Goblin Rabblemaster
+1 Gogo, Mysterious Mime
+1 Goldhound
+1 Goldnight Commander
+1 Grand Abolisher
+1 Greymond, Avacyn's Stalwart
+1 Hope of Ghirapur
+1 Imperial Recruiter
+1 Joshua, Phoenix's Dominant
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Lightning, Army of One
+1 Loran of the Third Path
+1 Loyal Apprentice
+1 Magus of the Moon
+1 Mother of Runes
+1 Myrel, Shield of Argive
+1 Ocelot Pride
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phelia, Exuberant Shepherd
+1 Phoenix Chick
+1 Phyrexian Censor
+1 Phyrexian Revoker
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Rionya, Fire Dancer
+1 Sanctum Prelate
+1 Serra Ascendant
+1 Simian Spirit Guide
+1 Solitude
+1 Spirit of the Labyrinth
+1 Voice of Victory
+1 Chrome Mox
+1 Cursed Totem
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Relic of Legends
+1 Sol Ring
+1 Deflecting Swat
+1 Path to Exile
+1 Silence
+1 Soul Partition
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Song of Totentanz
+1 Deafening Silence
+1 Flowering of the White Tree
+1 High Noon
+1 Touch the Spirit Realm
+1 Windcrag Siege
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Battlefield Forge
+1 Blinkmoth Nexus
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Beacon
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Homeward Path
+1 Mana Confluence
+1 Marsh Flats
+1 Mountain
+3 Plains
+1 Plateau
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sokenzan, Crucible of Defiance
+1 Spectator Seating
+1 Sunbaked Canyon
+1 Windswept Heath
+Sideboard
+1 Winota, Joiner of Forces

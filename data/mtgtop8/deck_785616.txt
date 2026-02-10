@@ -1,0 +1,101 @@
+1 Ghostly Pilferer
+1 Malevolent Hermit
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Psychic Frog
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Spider-Punk
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Beseech the Mirror
+1 Breakthrough
+1 Cabal Ritual
+1 Demonic Counsel
+1 Demonic Tutor
+1 Faithless Looting
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 See the Truth
+1 Diabolic Intent
+1 Solve the Equation
+1 Strike It Rich
+1 Wheel of Fortune
+1 Windfall
+1 Yawgmoth's Will
+1 Abrade
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Demonic Consultation
+1 Fierce Guardianship
+1 Final Fortune
+1 Flusterstorm
+1 Force of Will
+1 Frantic Search
+1 Intuition
+1 Lim-Dul's Vault
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Red Elemental Blast
+1 Spell Pierce
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Arcane Signet
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+1 Spire of Industry
+1 Steam Vents
+1 Sulfurous Springs
+1 Underground River
+1 Urza's Saga
+1 Watery Grave
+Sideboard
+1 Norman Osborn

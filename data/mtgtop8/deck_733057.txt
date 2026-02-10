@@ -1,0 +1,74 @@
+1 Skirk Prospector
+1 Goblin Bushwhacker
+1 Impulsive Pilferer
+1 Norin the Wary
+1 Iron Myr
+1 Goblin Instigator
+1 Mogg War Marshal
+1 Dualcaster Mage
+1 Goblin Matron
+1 Goblin Rabblemaster
+1 Goblin Warchief
+1 Hanweir Garrison
+1 Goblin Chieftain
+1 Pashalik Mons
+1 Legion Warboss
+1 Krenko, Tin Street Kingpin
+1 Torbran, Thane of Red Fell
+1 Pia and Kiran Nalaar
+1 Goblin Trashmaster
+1 Ib Halfheart, Goblin Tactician
+1 Siege-Gang Commander
+1 Emrakul's Hatcher
+1 Kiki-Jiki, Mirror Breaker
+1 Zealous Conscripts
+1 Wayfarer's Bauble
+1 Skullclamp
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Star Compass
+1 Fire Diamond
+1 Commander's Sphere
+1 Lightning Bolt
+1 Brightstone Ritual
+1 Price of Progress
+1 Thrill of Possibility
+1 Battle Hymn
+1 Chaos Warp
+1 Seething Song
+1 Valakut Awakening
+1 Dead/Gone
+1 Faithless Looting
+1 Tempt with Vengeance
+1 Kuldotha Rebirth
+1 Dragon Fodder
+1 Krenko's Command
+1 Tormenting Voice
+1 Heat Shimmer
+1 Thatcher Revolt
+1 Hordeling Outburst
+1 Light Up the Stage
+1 Empty the Warrens
+1 Goblin War Party
+1 Mana Geyser
+1 Goblin Rally
+1 Reforge the Soul
+1 Devils' Playground
+1 Skittering Invasion
+1 Blasphemous Act
+1 Impact Tremors
+1 Goblin Bombardment
+1 Goblin Warrens
+1 Boggart Shenanigans
+1 Chandra, Acolyte of Flame
+1 Desert of the Fervent
+1 Hanweir Battlements
+1 Geier Reach Sanitarium
+1 War Room
+28 Mountain
+1 Command Beacon
+1 Sandstone Needle
+1 Forgotten Cave
+Sideboard
+1 Purphoros, Bronze-Blooded

@@ -1,0 +1,67 @@
+1 Beetleback Chief
+1 Brash Taunter
+1 Conspicuous Snoop
+1 Feldon of the Third Path
+1 Frenzied Goblin
+1 Gempalm Incinerator
+1 Goblin Arsonist
+1 Goblin Berserker
+1 Goblin Chainwhirler
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+1 Goblin Guide
+1 Goblin Instigator
+1 Goblin King
+1 Goblin Lookout
+1 Goblin Matron
+1 Goblin Recruiter
+1 Goblin Ringleader
+1 Goro-Goro, Disciple of Ryusei
+1 Grenzo, Havoc Raiser
+1 Grenzo's Cutthroat
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Tin Street Kingpin
+1 Lightning Crafter
+1 Mogg War Marshal
+1 Siege-Gang Commander
+1 Skinbrand Goblin
+1 Skirk Commando
+1 Skirk Fire Marshal
+1 Skirk Prospector
+1 Squee, Dubious Monarch
+1 Squee, Goblin Nabob
+1 Tuktuk Scrapper
+1 Zo-Zu the Punisher
+1 Hammer of Purphoros
+1 Mind Stone
+1 Sol Ring
+1 Abrade
+1 Accelerate
+1 Brightstone Ritual
+1 Brute Strength
+1 Expedite
+1 Lightning Bolt
+1 Outnumber
+1 Wild Ricochet
+1 Disrupt Decorum
+1 Dragon Fodder
+1 Goblin Grenade
+1 Goblin Rally
+1 Goblin War Strike
+1 Hordeling Outburst
+1 Krenko's Command
+1 Mob Justice
+1 Mogg Alarm
+1 Shattering Spree
+1 Boggart Shenanigans
+1 Fervor
+1 Goblin Bombardment
+1 Goblin War Drums
+1 Goblin War Paint
+1 Impact Tremors
+1 Mass Hysteria
+1 Quest for the Goblin Lord
+35 Mountain
+1 Myriad Landscape
+Sideboard
+1 Krenko, Mob Boss

@@ -1,0 +1,95 @@
+1 Apex Altisaur
+1 Polyraptor
+1 Rootpath Purifier
+1 Tyrranax Rex
+1 Etali, Primal Conqueror
+1 Wakening Sun's Avatar
+1 Rampaging Brontodon
+1 Ghalta, Stampede Tyrant
+1 Gishath, Sun's Avatar
+1 Ravenous Tyrannosaurus
+1 Roaming Throne
+1 Palani's Hatcher
+1 Earthshaker Dreadmaw
+1 Hulking Raptor
+1 Scion of Calamity
+1 Sunfrill Imitator
+1 Bronzebeak Foragers
+1 Kinjalli's Sunwing
+1 Temple Altisaur
+1 Wrathful Raptors
+1 Xenagos, God of Revels
+1 Regal Behemoth
+1 Topiary Stomper
+1 Zacama, Primal Calamity
+1 Shifting Ceratops
+1 Pugnacious Hammerskull
+1 Trumpeting Carnosaur
+1 Etali, Primal Storm
+1 Apex Devastator
+1 Nyxborn Hydra
+1 Annoyed Altisaur
+1 Mossborn Hydra
+1 Crystal Barricade
+1 Agonasaur Rex
+1 Ghalta and Mavren
+1 Vedalken Orrery
+1 Panharmonicon
+1 The Immortal Sun
+1 Brass's Tunnel-Grinder
+1 Relic of Legends
+1 Sol Ring
+1 Banner of Kinship
+1 Conjurer's Closet
+1 Amulet of Vigor
+1 Dawn Charm
+1 Boil
+1 Wyll's Reversal
+1 Reprieve
+1 Archdruid's Charm
+1 Akroma's Will
+1 Path to Exile
+1 Swords to Plowshares
+1 Idyllic Tutor
+1 Skyshroud Claim
+1 Chandra's Ignition
+1 Walk with the Ancestors
+1 Cultivate
+1 Preposterous Proportions
+1 Farseek
+1 Overwhelming Splendor
+1 Tribute to the World Tree
+1 Fiery Emancipation
+1 Welcome to . . .
+1 Growing Rites of Itlimoc
+1 Spelunking
+1 Rhythm of the Wild
+1 Buried in the Garden
+1 Omenpath Journey
+1 Mana Reflection
+1 Warstorm Surge
+1 Valkyrie's Call
+1 Gaea's Cradle
+1 Opal Palace
+1 Oran-Rief, the Vastwood
+1 Blighted Woodland
+1 Path of Ancestry
+1 Sunken Citadel
+1 Echoing Deeps
+1 Command Tower
+1 Commercial District
+1 Krosan Verge
+1 Mosswort Bridge
+1 Cinder Glade
+1 Canopy Vista
+1 Jetmir's Garden
+1 Myriad Landscape
+1 Fabled Passage
+1 Terramorphic Expanse
+1 Temple of the False God
+1 Evolving Wilds
+3 Forest
+3 Plains
+3 Mountain
+Sideboard
+1 Pantlaza, Sun-Favored

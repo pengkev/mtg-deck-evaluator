@@ -1,0 +1,85 @@
+1 Thought Vessel
+1 Mana Vault
+1 Mindcrank
+1 Lightning Greaves
+1 Mind Stone
+1 Dimir Signet
+1 Sol Ring
+1 Arcane Signet
+1 Everflowing Chalice
+1 Talisman of Dominance
+1 Drown in the Loch
+1 Memory Plunder
+1 Counterspell
+1 Fact or Fiction
+1 Curtains' Call
+1 Pull from Tomorrow
+1 Extract from Darkness
+1 Fractured Sanity
+1 Hex
+1 From the Catacombs
+1 Syphon Mind
+1 Psionic Ritual
+1 Crippling Fear
+1 Feed the Swarm
+1 In Garruk's Wake
+1 Leyline of Anticipation
+1 Black Market
+1 Endless Evil
+1 Reflections of Littjara
+1 Haunted One
+1 Essence Capture
+1 Jace, the Perfected Mind
+1 Brainstealer Dragon
+1 The Mindskinner
+1 Overcharged Amalgam
+1 Forgotten Creation
+1 Consuming Aberration
+1 Mind Flayer
+1 Zellix, Sanity Flayer
+1 Horrid Shadowspinner
+1 Nemesis of Reason
+1 Ravenous Chupacabra
+1 Phyrexian Rager
+1 Ruin Crab
+1 Syr Konrad, the Grim
+1 Nighthowler
+1 Grazilaxx, Illithid Scholar
+1 Sludge Monster
+1 Elder Brain
+1 Aboleth Spawn
+1 Grell Philosopher
+1 Guiltfeeder
+1 Sewer Nemesis
+1 Chasm Skulker
+1 Hunted Horror
+1 Dark Hatchling
+1 Phyrexian Revoker
+1 Wharf Infiltrator
+1 Hullbreaker Horror
+1 Dusk Mangler
+1 Spellskite
+1 Rogue's Passage
+1 Polluted Delta
+1 Port of Karfell
+1 Exotic Orchard
+1 Morphic Pool
+1 Choked Estuary
+1 Command Tower
+1 River of Tears
+1 Creeping Tar Pit
+1 Bojuka Bog
+1 Nephalia Drownyard
+1 Undercity Sewers
+1 Dimir Aqueduct
+1 Darkwater Catacombs
+1 Tainted Isle
+1 Drowned Catacomb
+1 Temple of Deceit
+1 Myriad Landscape
+1 Sunken Hollow
+1 Path of Ancestry
+9 Swamp
+9 Island
+Sideboard
+1 Captain N'ghathrod

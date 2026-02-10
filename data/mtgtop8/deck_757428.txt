@@ -1,0 +1,83 @@
+1 Blood Artist
+1 Bloodghast
+1 Braids, Arisen Nightmare
+1 Butcher of Malakir
+1 Charismatic Conqueror
+1 Cordial Vampire
+1 Crossway Troublemakers
+1 Cruel Celebrant
+1 Drana and Linvala
+1 Elenda's Hierophant
+1 Enduring Tenacity
+1 Exemplar of Light
+1 Forerunner of the Legion
+1 High-Society Hunter
+1 Indulgent Aristocrat
+1 Marauding Blight-Priest
+1 Master of Dark Rites
+1 Orcish Bowmasters
+1 Qarsi Revenant
+1 Rodolf Duskbringer
+1 Ruthless Lawbringer
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Warren Soultrader
+1 Welcoming Vampire
+1 Arcane Signet
+1 Blade of the Bloodchief
+1 Bolas's Citadel
+1 Fellwar Stone
+1 Mithril Coat
+1 Orzhov Signet
+1 Patchwork Banner
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The Wind Crystal
+1 Urza's Incubator
+1 Whip of Erebos
+1 Anguished Unmaking
+1 Beacon of Immortality
+1 Dawn's Truce
+1 Fell the Profane
+1 Flare of Fortitude
+1 Path to Exile
+1 Swords to Plowshares
+1 Vona's Hunger
+1 Blasphemous Edict
+1 Buried Alive
+1 Insatiable Avarice
+1 Killing Wave
+1 Mire in Misery
+1 New Blood
+1 Revival/Revenge
+1 Scheming Symmetry
+1 Unearth
+1 Victimize
+1 Will of the Abzan
+1 Authority of the Consuls
+1 Black Market Connections
+1 Blind Obedience
+1 Cleric Class
+1 Sorin, Imperious Bloodlord
+1 Sorin, Lord of Innistrad
+1 Bojuka Bog
+1 Command Tower
+1 Escape Tunnel
+1 Esper Panorama
+1 Exotic Orchard
+1 Godless Shrine
+1 Isolated Chapel
+1 Obscura Storefront
+1 Path of Ancestry
+7 Plains
+1 Promising Vein
+1 Reliquary Tower
+1 Secluded Courtyard
+12 Swamp
+1 Tainted Field
+1 Terramorphic Expanse
+1 Three Tree City
+1 Unclaimed Territory
+1 Vault of the Archangel
+Sideboard
+1 Carmen, Cruel Skymarcher

@@ -1,0 +1,90 @@
+1 Archon of Sun's Grace
+1 Setessan Champion
+1 Destiny Spinner
+1 Herald of the Pantheon
+1 Sanctum Weaver
+1 The Kami War
+1 Satsuki, the Living Lore
+1 Inventive Iteration
+1 The Long Reach of Night
+1 Scholar of New Horizons
+1 Zur the Enchanter
+1 Glissa Sunslayer
+1 Goldberry, River-Daughter
+1 Dryad of the Ilysian Grove
+1 Sythis, Harvest's Hand
+1 Barbara Wright
+1 Sigurd, Jarl of Ravensthorpe
+1 Ondu Spiritdancer
+1 Anikthea, Hand of Erebos
+1 Narci, Fable Singer
+1 Sol Ring
+1 Chromatic Lantern
+1 Strionic Resonator
+1 Power Conduit
+1 Lightning Greaves
+1 Arcane Signet
+1 Path to Exile
+1 Swords to Plowshares
+1 Clockspinning
+1 Dance of the Manse
+1 Rampant Growth
+1 Resurgent Belief
+1 The Akroan War
+1 Fertile Ground
+1 Elspeth Conquers Death
+1 Kiora Bests the Sea God
+1 Starfield of Nyx
+1 The Eldest Reborn
+1 The Trickster-God's Heist
+1 Enchantress's Presence
+1 Firja's Retribution
+1 The World Spell
+1 The Phasing of Zhalfir
+1 The Weatherseed Treaty
+1 The Elder Dragon War
+1 The Cruelty of Gix
+1 Historian's Boon
+1 The Horus Heresy
+1 Long List of the Ents
+1 One Ring to Rule Them All
+1 War of the Last Alliance
+1 There and Back Again
+1 Scroll of Isildur
+1 In the Darkness Bind Them
+1 The Flux
+1 Three Blind Mice
+1 The Apprentice's Folly
+1 Wild Growth
+1 Calix, Destiny's Hand
+1 Fabled Passage
+1 Rocky Tar Pit
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Reliquary Tower
+1 Command Tower
+1 Evolving Wilds
+1 The World Tree
+1 Plaza of Heroes
+1 Exotic Orchard
+1 Canopy Vista
+1 Seaside Citadel
+1 Prairie Stream
+1 Shattered Landscape
+1 Foreboding Landscape
+1 Twisted Landscape
+1 Shivan Reef
+1 Nesting Grounds
+1 Yavimaya Coast
+1 Terramorphic Expanse
+1 Frontier Bivouac
+1 Sandsteppe Citadel
+1 Smoldering Marsh
+1 Sunken Hollow
+3 Forest
+3 Mountain
+4 Plains
+4 Swamp
+2 Island
+Sideboard
+1 Tom Bombadil

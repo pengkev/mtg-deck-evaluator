@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Boromir, Warden of the Tower
+1 Containment Priest
+1 Dauthi Voidwalker
+1 Displacer Kitten
+1 Esper Sentinel
+1 Ghostly Pilferer
+1 Grand Abolisher
+1 Hullbreaker Horror
+1 Ocelot Pride
+1 Opposition Agent
+1 Ornithopter of Paradise
+1 Phyrexian Metamorph
+1 Ranger-Captain of Eos
+1 Thassa's Oracle
+1 Arcane Signet
+1 Chrome Mox
+1 Mana Vault
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The One Ring
+1 Time Sieve
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Delay
+1 Demonic Consultation
+1 Dismember
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flawless Maneuver
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Generous Gift
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Narset's Reversal
+1 Saw in Half
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Tale's End
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Whir of Invention
+1 Demonic Tutor
+1 Imperial Seal
+1 Languish
+1 Mnemonic Betrayal
+1 Praetor's Grasp
+1 Terminus
+1 Toxic Deluge
+1 Blind Obedience
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Cavern of Souls
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Inventors' Fair
+1 Marsh Flats
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Reflecting Pool
+1 Sea of Clouds
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Swamp
+1 Underground River
+1 Vault of Champions
+1 Watery Grave
+Sideboard
+1 Tivit, Seller of Secrets

@@ -1,0 +1,97 @@
+1 Venser, Shaper Savant
+1 Kiki-Jiki, Mirror Breaker
+1 Lotus Cobra
+1 Palinchron
+1 Sakura-Tribe Elder
+1 Kinnan, Bonder Prodigy
+1 Deadeye Navigator
+1 Zealous Conscripts
+1 Surrak Dragonclaw
+1 Bounding Krasis
+1 Shaman of Forgotten Ways
+1 Momir Vig, Simic Visionary
+1 Timestream Navigator
+1 Squee, the Immortal
+1 Teferi, Mage of Zhalfir
+1 Eternal Witness
+1 Consecrated Sphinx
+1 Wandering Archaic
+1 Bloom Tender
+1 Dryad of the Ilysian Grove
+1 Old Gnawbone
+1 Temur Sabertooth
+1 Phyrexian Metamorph
+1 Gwenna, Eyes of Gaea
+1 Etali, Primal Conqueror
+1 Nyxbloom Ancient
+1 Nezahal, Primal Tide
+1 Thrasios, Triton Hero
+1 Lier, Disciple of the Drowned
+1 Peregrine Drake
+1 Birds of Paradise
+1 Sol Ring
+1 Scroll Rack
+1 Basalt Monolith
+1 Crystal Shard
+1 Gilded Lotus
+1 Sensei's Divining Top
+1 The One Ring
+1 Sublime Epiphany
+1 Mystic Confluence
+1 Cryptic Command
+1 Nexus of Fate
+1 Entish Restoration
+1 Sink into Stupor
+1 Cultivate
+1 Skyshroud Claim
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Farseek
+1 Selvala's Stampede
+1 Genesis Storm
+1 Kodama's Reach
+1 Alrund's Epiphany
+1 Creative Technique
+1 Majestic Genesis
+1 Three Visits
+1 Nature's Lore
+1 Mirri's Guile
+1 Food Chain
+1 Possibility Storm
+1 Sylvan Library
+1 Urza's Saga
+1 Stranglehold
+1 Carpet of Flowers
+1 Oko, Thief of Crowns
+1 Garruk Wildspeaker
+1 Jace, the Mind Sculptor
+1 Castle Garenbrig
+1 Sanctum of Eternity
+1 Ancient Tomb
+1 Cinder Glade
+1 Wooded Foothills
+1 Minamo, School at Water's Edge
+1 Cascade Bluffs
+1 Ketria Triome
+1 Rejuvenating Springs
+1 Training Center
+3 Forest
+3 Island
+1 Mountain
+1 Arid Mesa
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Breeding Pool
+1 Stomping Ground
+1 Steam Vents
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Spire Garden
+1 Mana Confluence
+1 Gemstone Caverns
+1 Command Tower
+1 Commercial District
+1 Hedge Maze
+1 Thundering Falls
+Sideboard
+1 Maelstrom Wanderer

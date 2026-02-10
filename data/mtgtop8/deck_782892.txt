@@ -1,0 +1,82 @@
+1 Ancient Tomb
+1 Archdruid's Charm
+1 Bloated Contaminator
+1 Bloodroot Apothecary
+1 Blooming Stinger
+1 Boseiju, Who Endures
+1 Cankerbloom
+1 Carpet of Flowers
+1 Concordant Crossroads
+1 Contaminant Grafter
+1 Cosmic Hunger
+1 Defend the Rider
+1 Defense of the Heart
+1 Dolmen Gate
+1 Dragon Sniper
+1 Dryad Arbor
+1 Eldritch Evolution
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Finale of Devastation
+1 Flare of Cultivation
+1 Flesh Burrower
+1 Force of Vigor
+20 Forest
+1 Frenzied Baloth
+1 Glistening Sphere
+1 Gnarlwood Dryad
+1 Green Sun's Zenith
+1 Hard-Hitting Question
+1 Heroic Intervention
+1 Infectious Bite
+1 Inkmoth Nexus
+1 Karn, the Great Creator
+1 Karn's Bastion
+1 Krosan Grip
+1 Leyline Axe
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Vault
+1 Master's Rebuke
+1 Mirrex
+1 Mox Amber
+1 Myr Convert
+1 Narnam Renegade
+1 Natural Order
+1 Nature's Claim
+1 Nightshade Dryad
+1 Noxious Revival
+1 Obscuring Haze
+1 Ohran Frostfang
+1 Once Upon a Time
+1 Park Heights Maverick
+1 Pithing Needle
+1 Plague Myr
+1 Questing Beast
+1 Ram Through
+1 Rogue's Passage
+1 Saryth, the Viper's Fang
+1 Seedborn Muse
+1 Shifting Woodland
+1 Sol Ring
+1 Staff of Compleation
+1 Summoner's Pact
+1 Sword of Truth and Justice
+1 Sylvan Library
+1 Sylvan Scrying
+1 Tamiyo's Safekeeping
+1 The One Ring
+1 Triskelion
+1 Tyrranax Rex
+1 Tyvar's Stand
+1 Urban Daggertooth
+1 Veil of Summer
+1 Venerated Rotpriest
+1 Vorinclex, Monstrous Raider
+1 Walking Ballista
+1 Wasteland Viper
+1 Wild Growth
+1 Winter Moon
+1 Worldly Tutor
+Sideboard
+1 Fynn, the Fangbearer

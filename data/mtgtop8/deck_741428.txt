@@ -1,0 +1,77 @@
+1 Collector Ouphe
+1 Aven Mindcensor
+1 Deafening Silence
+1 Archon of Emeria
+1 Dauntless Dismantler
+1 Hushbringer
+1 Stony Silence
+1 Kenrith's Transformation
+1 Leonin Arbiter
+1 Blind Obedience
+1 Tanglespan Lookout
+1 Eidolon of Blossoms
+1 Grasp of Fate
+1 Winds of Rath
+1 Reprieve
+1 Vryn Wingmare
+1 Sigarda, Font of Blessings
+1 Containment Priest
+1 Thalia, Guardian of Thraben
+1 Kutzil, Malamet Exemplar
+1 Boromir, Warden of the Tower
+1 Wild Growth
+1 Avacyn's Pilgrim
+1 Sanctum Weaver
+1 Utopia Sprawl
+1 Soulless Jailer
+1 Destiny Spinner
+1 Swords to Plowshares
+1 Grafdigger's Cage
+1 Rest in Peace
+1 Setessan Champion
+1 Path to Exile
+1 Archon of the Wild Rose
+1 Touch the Spirit Realm
+1 Generous Gift
+1 Shalai, Voice of Plenty
+1 Alseid of Life's Bounty
+1 Eidolon of Rhetoric
+1 Elvish Mystic
+1 Llanowar Elves
+1 Suppression Field
+1 Phyrexian Censor
+1 Rule of Law
+1 Command Tower
+1 Canopy Vista
+1 Temple of Plenty
+1 Fortified Village
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Brushland
+1 Castle Ardenvale
+13 Plains
+13 Forest
+1 Ethereal Armor
+1 Greater Auramancy
+1 Nevermore
+1 Gaddock Teeg
+1 Prowling Serpopard
+1 Imposing Sovereign
+1 Thalia, Heretic Cathar
+1 Selfless Spirit
+1 Reclamation Sage
+1 Paladin Class
+1 Archon of Valor's Reach
+1 Aura of Silence
+1 Yasharn, Implacable Earth
+1 Birds of Paradise
+1 Carpet of Flowers
+1 Hokori, Dust Drinker
+1 Doorkeeper Thrull
+1 Surge of Salvation
+1 Sheltered by Ghosts
+1 Aven Interrupter
+1 Champion of Lambholt
+1 Clarion Conqueror
+Sideboard
+1 Ellivere of the Wild Court

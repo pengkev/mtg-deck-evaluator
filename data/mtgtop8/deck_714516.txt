@@ -1,0 +1,101 @@
+1 Wall of Stolen Identity
+1 Sire of Stagnation
+1 Clone
+1 Vizier of Many Faces
+1 Gilded Drake
+1 Phyrexian Metamorph
+1 Sakashima's Student
+1 Clever Impersonator
+1 Stunt Double
+1 Evil Twin
+1 Snapcaster Mage
+1 Dauthi Voidwalker
+1 Mirrorhall Mimic
+1 Ruthless Technomancer
+1 Undercover Operative
+1 Displacer Kitten
+1 Consecrated Sphinx
+1 Sheoldred, the Apocalypse
+1 Sakashima the Impostor
+1 Hoarding Broodlord
+1 Thassa's Oracle
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Flesh Duplicate
+1 Roaming Throne
+1 Spark Double
+1 Gigantoplasm
+1 Notion Thief
+1 Visage Bandit
+1 Volatile Stormdrake
+1 Copycrook
+1 Phantasmal Image
+1 Metamorphosis Fanatic
+1 High Fae Trickster
+1 Waxen Shapethief
+1 Naga Fleshcrafter
+1 Deceptive Frostkite
+1 Sakashima of a Thousand Faces
+1 Grim Monolith
+1 Chrome Mox
+1 Mox Diamond
+1 Arcane Signet
+1 Sol Ring
+1 Dimir Signet
+1 Talisman of Dominance
+1 The One Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Lotus Petal
+1 Gifts Ungiven
+1 Cyclonic Rift
+1 Force of Will
+1 Swan Song
+1 Vampiric Tutor
+1 Mana Drain
+1 Tainted Pact
+1 Force of Negation
+1 Dark Ritual
+1 Demonic Consultation
+1 Pact of Negation
+1 Flusterstorm
+1 Misdirection
+1 Mindbreak Trap
+1 Mental Misstep
+1 Snuff Out
+1 Demonic Tutor
+1 Dread Return
+1 Reanimate
+1 Mystic Remora
+1 Rhystic Study
+1 Heartless Summoning
+1 City of Traitors
+1 Ancient Tomb
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Underground Sea
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Mana Confluence
+1 Cavern of Souls
+1 City of Brass
+1 Underground River
+1 Watery Grave
+1 Exotic Orchard
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Prismatic Vista
+1 Gloomlake Verge
+1 Island
+1 Swamp
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Cephalid Coliseum
+1 Command Tower
+1 Gemstone Caverns
+Sideboard
+1 Gyruda, Doom of Depths

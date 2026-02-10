@@ -1,0 +1,98 @@
+1 Bloom Tender
+1 Terror of the Peaks
+1 Drakuseth, Maw of Flames
+1 Llanowar Elves
+1 Balefire Dragon
+1 Spark Double
+1 Utvara Hellkite
+1 Rattleclaw Mystic
+1 Scourge of Valkas
+1 Goldspan Dragon
+1 Goblin Anarchomancer
+1 Old Gnawbone
+1 Wrathful Red Dragon
+1 Earthquake Dragon
+1 Ancient Silver Dragon
+1 Birds of Paradise
+1 Dragonspeaker Shaman
+1 Blast-Furnace Hellkite
+1 Gwenna, Eyes of Gaea
+1 Delighted Halfling
+1 Auton Soldier
+1 Bonehoard Dracosaur
+1 Roaming Throne
+1 Fanatic of Rhonas
+1 Fyndhorn Elves
+1 Klauth, Unrivaled Ancient
+1 Twinflame Tyrant
+1 Hellkite Tyrant
+1 Ureni of the Unwritten
+1 Deceptive Frostkite
+1 Nogi, Draco-Zealot
+1 Lathliss, Dragon Queen
+1 Sarkhan, Soul Aflame
+1 Atarka, World Render
+1 Arcane Signet
+1 Sol Ring
+1 Urza's Incubator
+1 Chimil, the Inner Sun
+1 Beast Within
+1 Counterspell
+1 Miscast
+1 Bolt Bend
+1 Arcane Denial
+1 Swan Song
+1 Heroic Intervention
+1 Mana Drain
+1 An Offer You Can't Refuse
+1 Cultivate
+1 Farseek
+1 Nature's Lore
+1 Raise the Palisade
+1 Tooth and Nail
+1 Three Visits
+1 Eldritch Evolution
+1 Blasphemous Act
+1 Selvala's Stampede
+1 Sneak Attack
+1 Defense of the Heart
+1 Growing Rites of Itlimoc
+1 Rhythm of the Wild
+1 Dracogenesis
+1 Dragon Tempest
+1 Frontier Siege
+1 Elemental Bond
+1 Temur Ascendancy
+2 Island
+2 Mountain
+2 Forest
+1 Command Tower
+1 Unclaimed Territory
+1 Fabled Passage
+1 Exotic Orchard
+1 Yavimaya Coast
+1 City of Brass
+1 Mosswort Bridge
+1 Stomping Ground
+1 Steam Vents
+1 Ketria Triome
+1 Rejuvenating Springs
+1 Riverglide Pathway
+1 Misty Rainforest
+1 Secluded Courtyard
+1 Spire Garden
+1 Training Center
+1 Breeding Pool
+1 Stormcarved Coast
+1 Dreamroot Cascade
+1 Hinterland Harbor
+1 Sulfur Falls
+1 Shivan Reef
+1 Reflecting Pool
+1 Cascade Bluffs
+1 Rootbound Crag
+1 Haven of the Spirit Dragon
+1 Karplusan Forest
+1 Rockfall Vale
+Sideboard
+1 Miirym, Sentinel Wyrm

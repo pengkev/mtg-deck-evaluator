@@ -1,0 +1,98 @@
+1 Prismite
+1 Glen Elendra Archmage
+1 Walking Ballista
+1 Trophy Mage
+1 Phantasmal Image
+1 Void Winnower
+1 Elvish Mystic
+1 Tidespout Tyrant
+1 Manglehorn
+1 Nyxbloom Ancient
+1 Elvish Spirit Guide
+1 Nezahal, Primal Tide
+1 Fyndhorn Elves
+1 Wandering Archaic
+1 Colossal Skyturtle
+1 Delighted Halfling
+1 Craterhoof Behemoth
+1 Thrasios, Triton Hero
+1 Phyrexian Metamorph
+1 Endurance
+1 Hydroelectric Specimen
+1 Consecrated Sphinx
+1 Enduring Vitality
+1 Bloom Tender
+1 Seedborn Muse
+1 Hullbreaker Horror
+1 Llanowar Elves
+1 Birds of Paradise
+1 High Fae Trickster
+1 Fellwar Stone
+1 Mana Vault
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Moonsilver Key
+1 The One Ring
+1 Arcane Signet
+1 Trinisphere
+1 Basalt Monolith
+1 Chrome Mox
+1 Simic Signet
+1 Agatha's Soul Cauldron
+1 Talisman of Curiosity
+1 Sol Ring
+1 Lotus Petal
+1 Veil of Summer
+1 Pact of Negation
+1 Crop Rotation
+1 Force of Will
+1 Swan Song
+1 Worldly Tutor
+1 Fierce Guardianship
+1 Beast Within
+1 Cyclonic Rift
+1 Mana Drain
+1 Mindbreak Trap
+1 Flare of Denial
+1 Strix Serenade
+1 Sink into Stupor
+1 Chain of Vapor
+1 Flusterstorm
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Fabricate
+1 Urza's Saga
+1 Mystic Remora
+1 Rhystic Study
+1 Pemmin's Aura
+1 Freed from the Real
+1 Mirrormade
+1 Sylvan Library
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Breeding Pool
+1 Ancient Tomb
+1 Misty Rainforest
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tropical Island
+1 Pendelhaven
+1 Barkchannel Pathway
+1 Treasure Vault
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Rejuvenating Springs
+1 Windswept Heath
+1 Cephalid Coliseum
+1 Command Tower
+1 Tree of Tales
+1 Seat of the Synod
+1 Willowrush Verge
+1 Yavimaya Coast
+3 Island
+2 Forest
+Sideboard
+1 Kinnan, Bonder Prodigy

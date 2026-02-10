@@ -1,0 +1,96 @@
+1 Abstruse Archaic
+1 Artisan of Kozilek
+1 Bane of Bala Ged
+1 Breaker of Creation
+1 Burnished Hart
+1 Crashing Drawbridge
+1 Endbringer
+1 Flayer of Loyalties
+1 Geode Golem
+1 Glaring Fleshraker
+1 It That Betrays
+1 It That Heralds the End
+1 Kozilek, Butcher of Truth
+1 Metalwork Colossus
+1 Meteor Golem
+1 Oblivion Sower
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Roaming Throne
+1 Sire of Seven Deaths
+1 Skittering Cicada
+1 Solemn Simulacrum
+1 Soul of New Phyrexia
+1 Spawnbed Protector
+1 Ulamog, the Infinite Gyre
+1 Void Winnower
+1 Wandering Archaic
+1 Chimil, the Inner Sun
+1 Darksteel Monolith
+1 Doubling Cube
+1 Dreamstone Hedron
+1 Everflowing Chalice
+1 Forsaken Monument
+1 Gilded Lotus
+1 Hedron Archive
+1 Kaldra Compleat
+1 Lightning Greaves
+1 Lithoform Engine
+1 Mazemind Tome
+1 Mind Stone
+1 Mirage Mirror
+1 Mystic Forge
+1 Perilous Vault
+1 Portal to Phyrexia
+1 Sensei's Divining Top
+1 Sol Ring
+1 Strionic Resonator
+1 The One Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Unstable Obelisk
+1 Worn Powerstone
+1 Desecrate Reality
+1 Eldrazi Confluence
+1 Eldritch Immunity
+1 Not of This World
+1 Scour from Existence
+1 Spatial Contortion
+1 Titan's Presence
+1 All Is Dust
+1 Calamity of the Titans
+1 Rise of the Eldrazi
+1 Eldrazi Conscription
+1 Urza's Saga
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Ancient Tomb
+1 Arcane Lighthouse
+1 Arch of Orazca
+1 Blast Zone
+1 Bonders' Enclave
+1 Eldrazi Temple
+1 Forge of Heroes
+1 Geier Reach Sanitarium
+1 Guildless Commons
+1 Homeward Path
+1 Mage-Ring Network
+1 Mirrorpool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Ruins of Oran-Rief
+1 Sanctum of Ugin
+1 Scavenger Grounds
+1 Sea Gate Wreckage
+1 Shrine of the Forsaken Gods
+1 Spawning Bed
+1 Temple of the False God
+1 Tomb of the Spirit Dragon
+1 Tyrite Sanctum
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 War Room
+6 Wastes
+Sideboard
+1 Zhulodok, Void Gorger

@@ -1,0 +1,87 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Argothian Elder
+1 Ashaya, Soul of the Wild
+1 Badgermole Cub
+1 Birds of Paradise
+1 Boreal Druid
+1 Circle of Dreams Druid
+1 Collector Ouphe
+1 Delighted Halfling
+1 Destiny Spinner
+1 Dosan the Falling Leaf
+1 Duskwatch Recruiter
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fierce Empath
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Haywire Mite
+1 Hope Tender
+1 Hyrax Tower Scout
+1 Ley Weaver
+1 Llanowar Elves
+1 Magus of the Candelabra
+1 Marvin, Murderous Mimic
+1 Phyrexian Revoker
+1 Protean Hulk
+1 Quirion Ranger
+1 Scryb Ranger
+1 Seedborn Muse
+1 Slippery Bogbonder
+1 Soulless Jailer
+1 Sowing Mycospawn
+1 Starved Rusalka
+1 Sylvan Safekeeper
+1 Temur Sabertooth
+1 Thought-Knot Seer
+1 Ulvenwald Tracker
+1 Voltaic Construct
+1 Woodland Bellower
+1 Yeva, Nature's Herald
+1 Chrome Mox
+1 Expedition Map
+1 Lotus Petal
+1 Sol Ring
+1 Archdruid's Charm
+1 Autumn's Veil
+1 Bouncer's Beatdown
+1 Chord of Calling
+1 Crop Rotation
+1 Force of Vigor
+1 Infectious Bite
+1 Legolas's Quick Reflexes
+1 Summoner's Pact
+1 Tail Swipe
+1 Veil of Summer
+1 Worldly Tutor
+1 Bridgeworks Battle
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Natural Order
+1 Nature's Rhythm
+1 Sylvan Scrying
+1 Growing Rites of Itlimoc
+1 Root Maze
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Deserted Temple
+1 Dryad Arbor
+1 Emergence Zone
+15 Forest
+1 Gaea's Cradle
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Homeward Path
+1 Ominous Cemetery
+1 Talon Gates of Madara
+1 Urza's Cave
+1 Wirewood Lodge
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Yisan, the Wanderer Bard

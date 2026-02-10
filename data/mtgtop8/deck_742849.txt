@@ -1,0 +1,86 @@
+1 Argothian Enchantress
+1 Aven Mindcensor
+1 Azusa, Lost but Seeking
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Esper Sentinel
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Herald of the Pantheon
+1 Hushbringer
+1 Jukai Naturalist
+1 Katilda, Dawnhart Martyr
+1 Kutzil, Malamet Exemplar
+1 Mesa Enchantress
+1 Pearl-Ear, Imperial Advisor
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Sram, Senior Edificer
+1 Trickster's Elk
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Angel's Grace
+1 Beast Within
+1 Chord of Calling
+1 Enlightened Tutor
+1 Get Lost
+1 Legolas's Quick Reflexes
+1 Orim's Chant
+1 Path to Exile
+1 Silence
+1 Soul Partition
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Worldly Tutor
+1 Idyllic Tutor
+1 Wrath of God
+1 All That Glitters
+1 Alpha Authority
+1 Ancestral Mask
+1 Authority of the Consuls
+1 Blind Obedience
+1 Darksteel Mutation
+1 Dog Umbra
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Exploration
+1 Feather of Flight
+1 Felidar Umbra
+1 Hallowed Haunting
+1 Kenrith's Transformation
+1 Land Tax
+1 Lifelink
+1 Lignify
+1 Ossification
+1 Petrify
+1 Planar Disruption
+1 Rancor
+1 Realmbreaker's Grasp
+1 Rest in Peace
+1 Sage's Reverie
+1 Sentinel's Eyes
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Spider Umbra
+1 Spirit Link
+1 Spirit Mantle
+1 Stony Silence
+1 Strength of the Harvest
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Unquestioned Authority
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+5 Forest
+1 Overgrown Farmland
+12 Plains
+1 Reliquary Tower
+1 Sunpetal Grove
+1 Temple Garden
+1 Windswept Heath
+Sideboard
+1 Sythis, Harvest's Hand

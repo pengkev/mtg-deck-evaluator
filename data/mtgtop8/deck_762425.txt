@@ -1,0 +1,91 @@
+1 Abzan Beastmaster
+1 Anger
+1 Anzrag, the Quake-Mole
+1 Arwen, Weaver of Hope
+1 Beast Whisperer
+1 Bugenhagen, Wise Elder
+1 Drakuseth, Maw of Flames
+1 Etali, Primal Conqueror
+1 Etched Oracle
+1 Forgotten Ancient
+1 Ghalta, Primal Hunger
+1 Goblin Anarchomancer
+1 Heronblade Elite
+1 Incubation Druid
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Kogla and Yidaro
+1 Legolas Greenleaf
+1 Maester Seymour
+1 Oviya, Automech Artisan
+1 Primeval Herald
+1 Reckless Stormseeker
+1 Red XIII, Proud Warrior
+1 Ruby, Daring Tracker
+1 Summon: Fenrir
+1 Vizier of the Menagerie
+1 Warden of the Grove
+1 Commander's Plate
+1 Herd Heirloom
+1 Swiftfoot Boots
+1 The Earth Crystal
+1 Back to Nature
+1 Beast Within
+1 Big Score
+1 Chaos Warp
+1 Collective Resistance
+1 Defend the Rider
+1 Deflecting Swat
+1 Heroic Intervention
+1 Inspiring Call
+1 Opera Love Song
+1 Smuggler's Surprise
+1 Tamiyo's Safekeeping
+1 Tyvar's Stand
+1 Untimely Malfunction
+1 Blasphemous Act
+1 Decimate
+1 Farseek
+1 Harmonize
+1 Jeska's Will
+1 Mob Verdict
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Savage Twister
+1 Stump Stomp
+1 Three Visits
+1 Vandalblast
+1 Colossal Majesty
+1 Guardian Project
+1 Rhythm of the Wild
+1 Sphere Grid
+1 Terrasymbiosis
+1 Uncivil Unrest
+1 Arena of Glory
+1 Bloodstained Mire
+1 Bonders' Enclave
+1 Boseiju, Who Endures
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Cragcrown Pathway
+1 Fire-Lit Thicket
+7 Forest
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Mossfire Valley
+5 Mountain
+1 Nesting Grounds
+1 Prismatic Vista
+1 Rockfall Vale
+1 Rootbound Crag
+1 Scalding Tarn
+1 Sheltered Thicket
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Wooded Foothills
+1 Wooded Ridgeline
+Sideboard
+1 Halana and Alena, Partners

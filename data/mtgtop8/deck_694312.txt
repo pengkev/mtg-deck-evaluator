@@ -1,0 +1,101 @@
+1 Gilded Drake
+1 Imperial Recruiter
+1 Kinnan, Bonder Prodigy
+1 Endurance
+1 Devoted Druid
+1 Consecrated Sphinx
+1 Birds of Paradise
+1 Eternal Witness
+1 Etali, Primal Conqueror
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Spellseeker
+1 Ragavan, Nimble Pilferer
+1 Llanowar Elves
+1 Valley Floodcaller
+1 Displacer Kitten
+1 Enduring Vitality
+1 Bloom Tender
+1 Seedborn Muse
+1 Hullbreaker Horror
+1 Fellwar Stone
+1 Basalt Monolith
+1 Grim Monolith
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Relic of Legends
+1 Machine God's Effigy
+1 Mox Amber
+1 Springleaf Drum
+1 The One Ring
+1 Lotus Petal
+1 Sol Ring
+1 Paradise Mantle
+1 Arcane Signet
+1 Deflecting Swat
+1 Cyclonic Rift
+1 Pyroblast
+1 Swan Song
+1 Retraction Helix
+1 Lightning Bolt
+1 Force of Negation
+1 Force of Will
+1 Crop Rotation
+1 Worldly Tutor
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Chain of Vapor
+1 Pact of Negation
+1 Mindbreak Trap
+1 Flusterstorm
+1 Brain Freeze
+1 Mental Misstep
+1 Veil of Summer
+1 Snap
+1 An Offer You Can't Refuse
+1 Eldritch Evolution
+1 Jeska's Will
+1 Green Sun's Zenith
+1 Gamble
+1 Finale of Devastation
+1 Song of Totentanz
+1 Sylvan Library
+1 Underworld Breach
+1 Rhystic Study
+1 Urza's Saga
+1 Mystic Remora
+1 Training Grounds
+1 Cryptolith Rite
+1 Tezzeret the Seeker
+1 Breeding Pool
+1 Misty Rainforest
+1 Emergence Zone
+1 Mana Confluence
+1 Steam Vents
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Windswept Heath
+1 Island
+1 Forest
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Shifting Woodland
+1 Command Tower
+1 City of Brass
+1 Tarnished Citadel
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Thrasios, Triton Hero

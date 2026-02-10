@@ -1,0 +1,96 @@
+1 Adarkar Wastes
+1 An Offer You Can't Refuse
+1 Ancient Den
+1 Arcane Signet
+1 Arid Mesa
+1 Austere Command
+1 Azorius Signet
+1 Basalt Monolith
+1 Blind Obedience
+1 Chain of Vapor
+1 Command Tower
+1 Confounding Conundrum
+1 Counterspell
+1 Cryptic Command
+1 Cursed Totem
+1 Disallow
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Everflowing Chalice
+1 Fabricate
+1 Farewell
+1 Fellwar Stone
+1 Flooded Strand
+1 Floodfarm Verge
+1 Flusterstorm
+1 Force of Negation
+1 Generous Gift
+1 Get Lost
+1 Gilded Lotus
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Hullbreaker Horror
+1 Idyllic Tutor
+1 Insight Engine
+1 Inventors' Fair
+4 Island
+1 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Karn, the Great Creator
+1 Lotus Petal
+1 Mana Drain
+1 Manifold Key
+1 Marsh Flats
+1 Merchant Scroll
+1 Meticulous Archive
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Gate
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Out of Time
+1 Pact of Negation
+1 Personal Tutor
+3 Plains
+1 Polluted Delta
+1 Polymorph
+1 Proteus Staff
+1 Reflecting Pool
+1 Reliquary Tower
+1 Resculpt
+1 Rest in Peace
+1 Rhystic Study
+1 Scalding Tarn
+1 Scavenger Grounds
+1 Scour for Scrap
+1 Sea of Clouds
+1 Seat of the Synod
+1 Silence
+1 Sink into Stupor
+1 Skullclamp
+1 Sol Ring
+1 Solve the Equation
+1 Strip Mine
+1 Strix Serenade
+1 Stroke of Midnight
+1 Supreme Verdict
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Terminus
+1 Tezzeret the Seeker
+1 The Mycosynth Gardens
+1 The One Ring
+1 Thran Dynamo
+1 Torpor Orb
+1 Unwinding Clock
+1 Urza's Saga
+1 Vanquish the Horde
+1 Whir of Invention
+1 Windfall
+1 Windswept Heath
+Sideboard
+1 Shorikai, Genesis Engine

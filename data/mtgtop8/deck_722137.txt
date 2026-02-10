@@ -1,0 +1,84 @@
+1 Wizards of Thay
+1 Urabrask
+1 Coruscation Mage
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Archmage Emeritus
+1 Birgi, God of Storytelling
+1 The Celestus
+1 Hero's Blade
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Izzet Signet
+1 Talisman of Creativity
+1 Miscast
+1 Epiphany at the Drownyard
+1 Rewind
+1 Capsize
+1 Searing Touch
+1 Whispers of the Muse
+1 Red Elemental Blast
+1 Thassa's Intervention
+1 Firemind's Foresight
+1 Silundi Vision
+1 Spell Burst
+1 Reiterate
+1 Seething Song
+1 Mystical Tutor
+1 Spell Swindle
+1 Flame of Anor
+1 Frantic Search
+1 Resculpt
+1 Return the Favor
+1 Mindbreak Trap
+1 Commandeer
+1 Unexpected Windfall
+1 Lazotep Plating
+1 Experimental Augury
+1 Expansion/Explosion
+1 Otherworldly Gaze
+1 Bolt Bend
+1 Supreme Will
+1 Disallow
+1 Big Score
+1 Narset's Reversal
+1 Sublime Epiphany
+1 Electrodominance
+1 Confounding Riddle
+1 Brainsurge
+1 Haze of Rage
+1 Visions of Ruin
+1 Into the Night
+1 Drawn from Dreams
+1 Mana Geyser
+1 Grapeshot
+1 Rousing Refrain
+1 Seething Anger
+1 Tezzeret's Gambit
+1 Solve the Equation
+1 Mystic Retrieval
+1 Will of the Jeskai
+1 Expressive Iteration
+1 Wild Ride
+1 Pirate's Pillage
+1 Past in Flames
+1 Inspiring Refrain
+1 Underworld Breach
+1 Clout of the Dominus
+10 Island
+9 Mountain
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Maestros Theater
+1 Sulfur Falls
+1 Reliquary Tower
+1 Frostboil Snarl
+1 Shivan Reef
+1 Command Tower
+1 Exotic Orchard
+1 Cascade Bluffs
+1 Temple of Epiphany
+1 Cephalid Coliseum
+Sideboard
+1 Vadrik, Astral Archmage

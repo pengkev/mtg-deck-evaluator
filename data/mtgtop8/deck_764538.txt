@@ -1,0 +1,76 @@
+1 Baleful Strix
+1 Butcher of Malakir
+1 Chancellor of the Spires
+1 Changeling Outcast
+1 Cloud of Faeries
+1 Darksteel Colossus
+1 Duplicant
+1 Faerie Dreamthief
+1 Fallen Shinobi
+1 Foul Watcher
+1 Gyruda, Doom of Depths
+1 Hypnotic Siren
+1 Hypnotic Sprite
+1 Illvoi Galeblade
+1 Mindleech Mass
+1 Nightveil Sprite
+1 Noxious Gearhulk
+1 Ornithopter
+1 Overseer of the Damned
+1 Owl Familiar
+1 Peregrine Drake
+1 Rune-Scarred Demon
+1 Scion of Darkness
+1 Signal Pest
+1 Silent-Blade Oni
+1 Silver Raven
+1 Silver-Fur Master
+1 Solemn Simulacrum
+1 Spectral Sailor
+1 Sphinx of Enlightenment
+1 Star Whale
+1 Starwinder
+1 Steel Hellkite
+1 Thieving Amalgam
+1 Thousand-Faced Shadow
+1 Tormented Soul
+1 Ulamog's Dreadsire
+1 Warkite Marauder
+1 Wrexial, the Risen Deep
+1 Arcane Signet
+1 Bident of Thassa
+1 Charcoal Diamond
+1 Mind Stone
+1 Neurok Stealthsuit
+1 Prismatic Lens
+1 Sky Diamond
+1 Sol Ring
+1 Sonic Screwdriver
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Wayfarer's Bauble
+1 Aetherize
+1 Dig Through Time
+1 Get Out
+1 Infernal Grasp
+1 Keep Safe
+1 Metamorphic Blast
+1 Release to the Wind
+1 Return to Action
+1 Night's Whisper
+1 Read the Bones
+1 Treasure Cruise
+1 Military Intelligence
+1 Choked Estuary
+1 Command Tower
+1 Creeping Tar Pit
+1 Dimir Aqueduct
+1 Drowned Catacomb
+17 Island
+1 Restless Reef
+1 Sunken Hollow
+10 Swamp
+1 Tainted Isle
+1 Underground River
+Sideboard
+1 Satoru Umezawa

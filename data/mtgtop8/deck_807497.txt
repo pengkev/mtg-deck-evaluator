@@ -1,0 +1,95 @@
+1 Aerith Gainsborough
+1 Amy Rose
+1 Armory Automaton
+1 Bloom Tender
+1 Cid, Freeflier Pilot
+1 Cloud, Midgar Mercenary
+1 Cloud, Planet's Champion
+1 Delivery Moogle
+1 Godo, Bandit Warlord
+1 Grand Abolisher
+1 Hexing Squelcher
+1 Kassandra, Eagle Bearer
+1 Luminous Broodmoth
+1 Marisi, Breaker of the Coil
+1 Professor Hojo
+1 Puresteel Paladin
+1 Red XIII, Proud Warrior
+1 Rinoa, Angel Wing
+1 Seifer Almasy
+1 Serah Farron
+1 Spinerock Tyrant
+1 Thalia's Lancers
+1 Tifa Lockhart
+1 Tifa, Martial Artist
+1 Tireless Provisioner
+1 Traveling Chocobo
+1 Wanderbrine Trapper
+1 Yuffie, Materia Hunter
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Buster Sword
+1 Champion's Helm
+1 Colossus Hammer
+1 Conqueror's Flail
+1 Darksteel Plate
+1 Excalibur, Sword of Eden
+1 Fishing Gear
+1 Genji Glove
+1 Helm of the Host
+1 Hero's Blade
+1 Inspiring Statuary
+1 Lightning Greaves
+1 Lotus Petal
+1 Power Fist
+1 Sidequest: Play Blitzball
+1 Sol Ring
+1 Sword of Feast and Famine
+1 Sword of the Animist
+1 The Spear of Leonidas
+1 Thought Vessel
+1 Trailblazer's Boots
+1 Ultima Weapon
+1 Wrecking Ball Arm
+1 Chaos Warp
+1 Dispatch
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Path to Exile
+1 Restoration Magic
+1 Swords to Plowshares
+1 Tifa's Limit Break
+1 Altar of Bone
+1 Cultivate
+1 Decimate
+1 Farewell
+1 Nibelheim Aflame
+1 Vanquish the Horde
+1 Campsite Cuisine
+1 Flowering of the White Tree
+1 Forge Anew
+1 Parallel Lives
+1 SOLDIER Military Program
+1 Sphere Grid
+1 Super State
+1 Adventurer's Inn
+1 Brushland
+1 Canopy Vista
+1 Capital City
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+1 Fire-Lit Thicket
+4 Forest
+1 Furycalm Snarl
+1 Mossfire Valley
+2 Mountain
+3 Plains
+1 Rugged Prairie
+1 Scavenger Grounds
+1 Spire of Industry
+1 Starting Town
+1 Sungrass Prairie
+1 Sunscorched Divide
+Sideboard
+1 Cloud, Ex-SOLDIER

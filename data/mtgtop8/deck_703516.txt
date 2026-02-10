@@ -1,0 +1,97 @@
+1 Setessan Champion
+1 Argothian Enchantress
+1 Birds of Paradise
+1 Grand Abolisher
+1 Llanowar Elves
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Drannith Magistrate
+1 Arbor Elf
+1 Satyr Enchanter
+1 Avacyn's Pilgrim
+1 Endurance
+1 Walking Ballista
+1 Mesa Enchantress
+1 Delighted Halfling
+1 Eidolon of Blossoms
+1 Jukai Naturalist
+1 Ranger-Captain of Eos
+1 Delney, Streetwise Lookout
+1 Fyndhorn Elves
+1 Alseid of Life's Bounty
+1 Devoted Druid
+1 Moon-Blessed Cleric
+1 Brightglass Gearhulk
+1 Heliod, Sun-Crowned
+1 Sanctum Weaver
+1 Chrome Mox
+1 Helm of Obedience
+1 Mox Diamond
+1 Aetherflux Reservoir
+1 Mox Amber
+1 Agatha's Soul Cauldron
+1 Sol Ring
+1 Crop Rotation
+1 Silence
+1 Force of Vigor
+1 Worldly Tutor
+1 Rite of Harmony
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Path to Exile
+1 Angel's Grace
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Idyllic Tutor
+1 Dawn's Reflection
+1 Sylvan Library
+1 Survival of the Fittest
+1 Fertile Ground
+1 Smothering Tithe
+1 Earthcraft
+1 City of Solitude
+1 Market Festival
+1 Wild Growth
+1 Nature's Chosen
+1 Blind Obedience
+1 Sterling Grove
+1 Aura Shards
+1 Swift Reconfiguration
+1 Exploration
+1 Enchantress's Presence
+1 Utopia Sprawl
+1 Carpet of Flowers
+1 Trouble in Pairs
+1 Rest in Peace
+1 Flickering Ward
+1 Stony Silence
+1 Compost
+1 Kenrith's Transformation
+1 Overgrowth
+1 Walk-In Closet/Forgotten Cellar
+1 Cryptolith Rite
+1 Marsh Flats
+1 Mana Confluence
+1 Temple Garden
+1 Gaea's Cradle
+1 Serra's Sanctum
+1 Savannah
+1 Nykthos, Shrine to Nyx
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Command Tower
+1 Windswept Heath
+1 Wooded Foothills
+1 Deserted Temple
+1 Shifting Woodland
+1 Horizon of Progress
+1 Bountiful Promenade
+3 Plains
+3 Forest
+1 Flooded Strand
+Sideboard
+1 Sythis, Harvest's Hand

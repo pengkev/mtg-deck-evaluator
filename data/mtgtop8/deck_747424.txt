@@ -1,0 +1,89 @@
+1 Drift of Phantasms
+1 Dualcaster Mage
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Gilded Goose
+1 Grimoire Thief
+1 Llanowar Elves
+1 Sanctum Weaver
+1 Temur Battlecrier
+1 Arcane Signet
+1 Honor-Worn Shaku
+1 Lightning Greaves
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Twinning Staff
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Auroral Procession
+1 Beast Within
+1 Borne Upon a Wind
+1 Chaos Warp
+1 Consider
+1 Curate
+1 Dispel
+1 Electric Revelation
+1 Fury Storm
+1 Harrow
+1 Heritage Reclamation
+1 Impulse
+1 Increasing Vengeance
+1 Laughing Mad
+1 Long-Term Plans
+1 Memory Deluge
+1 Moment of Truth
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Opt
+1 Peek
+1 Planar Genesis
+1 Quicken
+1 Reality Shift
+1 Reiterate
+1 Reverberate
+1 Roiling Regrowth
+1 Silundi Vision
+1 Thrill of Possibility
+1 Tribute to the Wild
+1 Unsubstantiate
+1 Whirlwind Denial
+1 Chandra's Ignition
+1 Deep Analysis
+1 Edge of Autumn
+1 Electroduplicate
+1 Farseek
+1 Fireball
+1 Kodama's Reach
+1 Mana Geyser
+1 Nature's Lore
+1 Nature's Rhythm
+1 Overmaster
+1 Rampant Growth
+1 Solve the Equation
+1 Stump Stomp
+1 Carpet of Flowers
+1 Freed from the Real
+1 Underworld Breach
+1 Utopia Sprawl
+1 Utopia Vow
+1 Wild Growth
+1 Ral, Storm Conduit
+1 Ash Barrens
+1 Bountiful Landscape
+1 Cinder Glade
+1 Command Tower
+8 Forest
+1 Hinterland Harbor
+1 Holdout Settlement
+4 Island
+1 Mossfire Valley
+3 Mountain
+1 Rimewood Falls
+1 Scene of the Crime
+1 Sulfur Falls
+1 Tangled Islet
+1 Vineglimmer Snarl
+1 Wooded Ridgeline
+Sideboard
+1 Kalamax, the Stormsire

@@ -1,0 +1,101 @@
+1 Automated Artificer
+1 Canoptek Spyder
+1 Foundry Inspector
+1 Glaring Fleshraker
+1 Hangarback Walker
+1 Iron Spider, Stark Upgrade
+1 Jhoira's Familiar
+1 Junk Diver
+1 Marketback Walker
+1 Memnite
+1 Metalwork Colossus
+1 Metalworker
+1 Mycosynth Golem
+1 Myr Retriever
+1 Ornithopter
+1 Patchwork Automaton
+1 Phyrexian Marauder
+1 Phyrexian Revoker
+1 Phyrexian Walker
+1 Scrap Trawler
+1 Scrapyard Recombiner
+1 Shield Sphere
+1 Shifting Wall
+1 Sojourner's Companion
+1 Steel Overseer
+1 Stonecoil Serpent
+1 Surge Conductor
+1 Syr Ginger, the Meal Ender
+1 Voltaic Construct
+1 Walking Ballista
+1 Workshop Assistant
+1 Agatha's Soul Cauldron
+1 Animation Module
+1 Ashnod's Altar
+1 Basalt Monolith
+1 Candy Trail
+1 Citanul Flute
+1 Clock of Omens
+1 Cloud Key
+1 Clown Car
+1 Everflowing Chalice
+1 Excalibur, Sword of Eden
+1 Expedition Map
+1 Forsaken Monument
+1 Gerrard's Hourglass Pendant
+1 Grim Monolith
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mind Stone
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Opal
+1 Mystic Forge
+1 Rings of Brighthearth
+1 Sculpting Steel
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Staff of Compleation
+1 Staff of Domination
+1 The One Ring
+1 Triangle of War
+1 Unwinding Clock
+1 Voltaic Key
+1 Kozilek's Command
+1 Null Elemental Blast
+1 Spatial Contortion
+1 Echoes of Eternity
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Ancient Tomb
+1 Buried Ruin
+1 City of Traitors
+1 Crystal Vein
+1 Darksteel Citadel
+1 Echoing Deeps
+1 Eldrazi Temple
+1 Fomori Vault
+1 Fountainport
+1 Inventors' Fair
+1 Lazotep Quarry
+1 Mishra's Workshop
+1 Planar Nexus
+1 Sanctum of Ugin
+1 Scene of the Crime
+1 Talon Gates of Madara
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Ugin's Labyrinth
+1 Urza's Cave
+1 Urza's Factory
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+Sideboard
+1 Liberator, Urza's Battlethopter

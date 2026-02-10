@@ -1,0 +1,83 @@
+1 Six
+1 Obsessive Skinner
+1 Manglehorn
+1 Incubation Druid
+1 Surrak, Elusive Hunter
+1 Nyx Weaver
+1 Elvish Mystic
+1 Fathom Mage
+1 Ornithopter of Paradise
+1 Colossal Skyturtle
+1 Rampant Frogantua
+1 Mirelurk Queen
+1 Fetid Gargantua
+1 Basking Broodscale
+1 Eternal Scourge
+1 Fauna Shaman
+1 Herd Baloth
+1 Elves of Deep Shadow
+1 Benthic Biomancer
+1 Gyre Sage
+1 Drift of Phantasms
+1 Evolution Witness
+1 Llanowar Elves
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Talisman of Curiosity
+1 Commander's Sphere
+1 Prismatic Lens
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Repulsive Mutation
+1 Perplex
+1 Mystical Dispute
+1 Infernal Grasp
+1 Defend the Rider
+1 Assassin's Trophy
+1 Inspiring Call
+1 Autumn's Veil
+1 Louisoix's Sacrifice
+1 Auroral Procession
+1 Tear Asunder
+1 Lim-Dul's Vault
+1 Mana Leak
+1 Extract
+1 Ringsight
+1 Traverse the Ulvenwald
+1 Nuclear Fallout
+1 Malevolent Rumble
+1 Overwhelming Stampede
+1 Demonic Counsel
+1 Deluge of Doom
+1 Squirming Emergence
+1 Eldritch Evolution
+1 Dig Up
+1 Neoform
+1 Hollowmurk Siege
+1 Ripples of Undeath
+1 Struggle for Project Purity
+1 Terrasymbiosis
+1 Food Chain
+1 Thickest in the Thicket
+1 Grist, the Hunger Tide
+1 Temple of Malady
+1 Terramorphic Expanse
+1 Temple of Mystery
+7 Swamp
+1 Command Tower
+6 Island
+1 Hinterland Harbor
+1 Exotic Orchard
+1 Path of Ancestry
+1 Viridescent Bog
+8 Forest
+1 Temple of Deceit
+1 Choked Estuary
+1 Overflowing Basin
+1 Evolving Wilds
+1 Necroblossom Snarl
+1 Opulent Palace
+1 Ash Barrens
+Sideboard
+1 The Wise Mothman

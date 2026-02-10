@@ -1,0 +1,98 @@
+1 Mayhem Devil
+1 Dualcaster Mage
+1 Walking Ballista
+1 Imperial Recruiter
+1 Opposition Agent
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Kessig Flamebreather
+1 Orcish Bowmasters
+1 Party Thrasher
+1 Pinnacle Monk
+1 Coruscation Mage
+1 Razorkin Needlehead
+1 Kederekt Parasite
+1 Firebrand Archer
+1 Prosper, Tome-Bound
+1 Sol Ring
+1 Mana Vault
+1 Rakdos Signet
+1 Lotus Petal
+1 Grim Monolith
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Fellwar Stone
+1 Chrome Mox
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Unstable Amulet
+1 Wishclaw Talisman
+1 Séance Board
+1 Dark Ritual
+1 Culling the Weak
+1 Cabal Ritual
+1 Desperate Ritual
+1 Slaughter Pact
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Vampiric Tutor
+1 Deflecting Swat
+1 Deadly Rollick
+1 Fire Covenant
+1 Red Elemental Blast
+1 Rakdos Charm
+1 Delayed Blast Fireball
+1 Snuff Out
+1 Flare of Duplication
+1 Fell the Profane
+1 Saw in Half
+1 Pyroblast
+1 Final Fortune
+1 Scheming Symmetry
+1 Demonic Tutor
+1 Wheel of Fortune
+1 Unearth
+1 Twinflame
+1 Heat Shimmer
+1 Winds of Change
+1 Grapeshot
+1 Jeska's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Gamble
+1 Beseech the Mirror
+1 Molten Duplication
+1 Sundering Eruption
+1 Rite of Flame
+1 Underworld Dreams
+1 Underworld Breach
+1 Manabarbs
+1 Urza's Saga
+1 All Will Be One
+1 City of Brass
+1 Ancient Tomb
+1 Badlands
+1 Emergence Zone
+1 Blood Crypt
+1 Sulfurous Springs
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Bloodstained Mire
+1 Marsh Flats
+1 Verdant Catacombs
+1 Great Furnace
+1 Vault of Whispers
+1 Arid Mesa
+1 Drossforge Bridge
+1 Luxury Suite
+1 Mount Doom
+1 Command Tower
+2 Mountain
+3 Swamp
+Sideboard
+1 Ob Nixilis, Captive Kingpin

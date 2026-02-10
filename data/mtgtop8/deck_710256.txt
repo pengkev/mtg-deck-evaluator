@@ -1,0 +1,99 @@
+1 Mana Vault
+1 Maskwood Nexus
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Artificial Evolution
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Dizzy Spell
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Deflecting Swat
+1 Lotus Petal
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Imposter Mech
+1 Misdirection
+1 Tezzeret the Seeker
+1 Rhystic Study
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Pongify
+1 Red Elemental Blast
+1 Sink into Stupor
+1 Spikefield Hazard
+1 Standardize
+1 Strix Serenade
+1 Swan Song
+1 Trickery Charm
+1 Blasphemous Act
+1 Gamble
+1 Jeska's Will
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Wheel of Fortune
+1 Combat Research
+1 Copy Artifact
+1 Copy Enchantment
+1 Curiosity
+1 Mystic Remora
+1 Underworld Breach
+1 Ophidian Eye
+1 Consecrated Sphinx
+1 Drift of Phantasms
+1 Flesh Duplicate
+1 Glint-Horn Buccaneer
+1 Imperial Recruiter
+1 Ingenious Artillerist
+1 Magda, Brazen Outlaw
+1 Nezahal, Primal Tide
+1 Niv-Mizzet, Parun
+1 Phantasmal Image
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Reckless Fireweaver
+1 Simian Spirit Guide
+1 Spellseeker
+1 Spellskite
+1 Tandem Lookout
+1 Volatile Stormdrake
+1 Phyrexian Metamorph
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Wooded Foothills
+1 Gemstone Caverns
+2 Island
+2 Mountain
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

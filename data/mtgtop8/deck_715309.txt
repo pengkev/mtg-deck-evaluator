@@ -1,0 +1,101 @@
+1 Treasonous Ogre
+1 Gilded Drake
+1 Enthusiastic Mechanaut
+1 Etherium Sculptor
+1 Thassa's Oracle
+1 Godo, Bandit Warlord
+1 Goblin Welder
+1 Volatile Stormdrake
+1 Fear of Missing Out
+1 Spellskite
+1 Dualcaster Mage
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 The Reality Chip
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Magda, Brazen Outlaw
+1 Universal Automaton
+1 Goblin Engineer
+1 Grim Monolith
+1 Null Rod
+1 Cursed Totem
+1 Lion's Eye Diamond
+1 Ugin's Nexus
+1 Clock of Omens
+1 The One Ring
+1 Vexing Bauble
+1 Sol Ring
+1 Tangle Wire
+1 Mox Diamond
+1 Chrome Mox
+1 Defense Grid
+1 Lotus Petal
+1 Mana Vault
+1 Mox Opal
+1 Trinisphere
+1 Amulet of Vigor
+1 Grafdigger's Cage
+1 Sensei's Divining Top
+1 Pyrite Spellbomb
+1 Helm of the Host
+1 Damping Sphere
+1 Cursed Mirror
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Arcane Signet
+1 Repurposing Bay
+1 Hammer of Nazahn
+1 Crystal Skull, Isu Spyglass
+1 Brain Freeze
+1 Mental Misstep
+1 Deflecting Swat
+1 Cyclonic Rift
+1 Into the Flood Maw
+1 Fierce Guardianship
+1 Force of Will
+1 Pact of Negation
+1 Mindbreak Trap
+1 Flusterstorm
+1 Swan Song
+1 Transmute Artifact
+1 Timetwister
+1 Gamble
+1 Molten Duplication
+1 Jeska's Will
+1 Wheel of Fortune
+1 Heat Shimmer
+1 Underworld Breach
+1 Blood Moon
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Mishra's Workshop
+1 Volcanic Island
+1 Prismatic Vista
+1 Great Furnace
+1 Seat of the Synod
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Gemstone Caverns
+1 Academy Ruins
+1 Thundering Falls
+1 Ancient Tomb
+1 Misty Rainforest
+1 Steam Vents
+1 Scalding Tarn
+1 Arid Mesa
+1 Polluted Delta
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Flooded Strand
+1 City of Brass
+1 Mountain
+1 Snow-Covered Island
+1 Archway of Innovation
+1 Command Tower
+1 Island
+1 Mistrise Village
+Sideboard
+1 Iron Man, Titan of Innovation

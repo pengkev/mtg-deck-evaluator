@@ -1,0 +1,71 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Haughty Djinn
+1 Homunculus Horde
+1 Micromancer
+1 Mischievous Mystic
+1 PuPu UFO
+1 Scourge of Fleets
+1 Sentinel of the Pearl Trident
+1 Stinging Lionfish
+1 Arcane Signet
+1 Blue Mage's Cane
+1 Commander's Sphere
+1 Fellwar Stone
+1 Mind Stone
+1 Runechanter's Pike
+1 Sapphire Medallion
+1 Sol Ring
+1 Thought Vessel
+1 Throne of Eldraine
+1 Wayfarer's Bauble
+1 Aetherize
+1 Arcane Denial
+1 Archmage's Charm
+1 Blur
+1 Dig Through Time
+1 Dream Fracture
+1 Drown in Dreams
+1 Essence Flux
+1 Evacuation
+1 Exclude
+1 Flow of Knowledge
+1 Frantic Search
+1 Gale's Redirection
+1 Ghostly Flicker
+1 High Tide
+1 Leap
+1 Mystic Confluence
+1 Nexus of Fate
+1 Planar Incision
+1 Reality Shift
+1 Remand
+1 School Daze
+1 Shadow Rift
+1 Slip Out the Back
+1 Sublime Epiphany
+1 Teferi's Time Twist
+1 Think Twice
+1 Zimone's Hypothesis
+1 Blatant Thievery
+1 Blue Sun's Twilight
+1 Distortion Strike
+1 Enter the Enigma
+1 Flood of Recollection
+1 Preordain
+1 Psionic Ritual
+1 Replication Technique
+1 Treason of Isengard
+1 Treasure Cruise
+1 Wash Out
+1 Copy Land
+1 Forced Fruition
+1 Ominous Seas
+1 Propaganda
+1 Shark Typhoon
+1 Ash Barrens
+1 Horizon of Progress
+31 Island
+1 Maze of Ith
+Sideboard
+1 Eluge, the Shoreless Sea

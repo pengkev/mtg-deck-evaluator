@@ -1,0 +1,82 @@
+1 Garruk Wildspeaker
+1 Garruk, Cursed Huntsman
+1 Xenagos, the Reveler
+1 Nissa, Ascended Animist
+1 Arlinn Kord
+1 Gev, Scaled Scorch
+1 Murderous Redcap
+1 Inquisition of Kozilek
+1 Duress
+1 Pilfer
+1 Check for Traps
+1 Return to Nature
+1 Assassin's Trophy
+1 Hit/Run
+1 Abrupt Decay
+1 Putrefy
+1 Maelstrom Pulse
+1 Nightmare Unmaking
+1 Culling Ritual
+1 Gaze of Granite
+1 Blasphemous Act
+1 Search for Tomorrow
+1 Harrow
+1 Cultivate
+1 Kodama's Reach
+1 Rampant Growth
+1 Emergent Sequence
+1 Growth Spasm
+1 Dig Up
+1 Increasing Ambition
+1 Razaketh's Rite
+1 Diabolic Tutor
+1 Divergent Transformations
+1 Return of the Wildspeaker
+1 Night's Whisper
+1 Read the Bones
+1 Painful Truths
+1 Regrowth
+1 Overwhelming Stampede
+1 Tainted Strike
+1 Wild Growth
+1 Utopia Sprawl
+1 Insidious Roots
+1 Shared Animosity
+1 Beastmaster Ascension
+1 Domri, Anarch of Bolas
+1 Impact Tremors
+1 Fecundity
+1 Bitter Reunion
+1 Goblin Bombardment
+1 Food Chain
+1 Sol Ring
+1 Golgari Signet
+1 Gruul Signet
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Everflowing Chalice
+1 Rakdos Signet
+1 Fellwar Stone
+1 Arcane Signet
+1 Worn Powerstone
+1 Command Tower
+1 Ash Barrens
+1 Castle Embereth
+1 Exotic Orchard
+1 Peat Bog
+7 Swamp
+10 Forest
+5 Mountain
+1 Cinder Glade
+1 Kher Keep
+1 Smoldering Marsh
+1 Sandstone Needle
+1 Hickory Woodlot
+1 Zariel, Archduke of Avernus
+1 Sarkhan Vol
+1 Sundering Eruption
+1 Pitiless Carnage
+1 Virtue of Strength
+Sideboard
+1 Prossh, Skyraider of Kher

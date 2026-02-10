@@ -1,0 +1,93 @@
+1 Balthor the Defiled
+1 Birgi, God of Storytelling
+1 Braids, Arisen Nightmare
+1 Charming Scoundrel
+1 Dauthi Voidwalker
+1 Delina, Wild Mage
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Gwenom, Remorseless
+1 Hoarding Broodlord
+1 Mayhem Devil
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Purphoros, God of the Forge
+1 Sheoldred, the Apocalypse
+1 Simian Spirit Guide
+1 Spider-Punk
+1 Stitcher's Supplier
+1 Worldgorger Dragon
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Conjurer's Closet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Helm of the Host
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Mirror Box
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Burnt Offering
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Dismember
+1 Eldrazi Confluence
+1 Entomb
+1 Flare of Duplication
+1 Pyroblast
+1 Return the Favor
+1 Sacrifice
+1 Saw in Half
+1 Untimely Malfunction
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Blasphemous Act
+1 Demonic Tutor
+1 Electroduplicate
+1 Faithless Looting
+1 Grim Tutor
+1 Imperial Seal
+1 Insatiable Avarice
+1 Jeska's Will
+1 Molten Duplication
+1 Reanimate
+1 Rite of Flame
+1 Twinflame
+1 Unmarked Grave
+1 Vandalblast
+1 Animate Dead
+1 Dance of the Dead
+1 Heartless Summoning
+1 Necromancy
+1 Necropotence
+1 Underworld Breach
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Emergence Zone
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Haunted Ridge
+1 Lake of the Dead
+1 Luxury Suite
+1 Mana Confluence
+1 Mishra's Factory
+1 Mount Doom
+5 Mountain
+1 Phyrexian Tower
+1 Raucous Theater
+1 Reliquary Tower
+1 Smoldering Marsh
+5 Swamp
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Deadpool, Trading Card

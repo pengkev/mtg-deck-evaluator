@@ -1,0 +1,88 @@
+1 Talisman of Resilience
+1 Arcane Signet
+1 Fellwar Stone
+1 Talisman of Indulgence
+1 Talisman of Impulse
+1 Sol Ring
+1 Price of Progress
+1 Atarka's Command
+1 Mirrodin Avenged
+1 Rolling Earthquake
+1 Farseek
+1 Volcanic Spray
+1 Kodama's Reach
+1 Rile
+1 Nature's Lore
+1 Chandra's Ignition
+1 Earthquake
+1 Rishkar's Expertise
+1 Rampant Growth
+1 Three Visits
+1 Explore
+1 Grab the Prize
+1 Boltwave
+1 Cultivate
+1 Pestilence
+1 Garruk's Uprising
+1 Cindervines
+1 Noxious Field
+1 Descent into Avernus
+1 Black Market Connections
+1 Pyrohemia
+1 Rite of Passage
+1 Domri, Anarch of Bolas
+1 Chandra, Torch of Defiance
+1 Fiery Confluence
+1 Chandra, Flame's Catalyst
+1 Ghalta, Primal Hunger
+1 Creeping Bloodsucker
+1 Rakdos, Lord of Riots
+1 Valgavoth, Harrower of Souls
+1 The Lord of Pain
+1 Chandra's Incinerator
+1 Zhur-Taa Druid
+1 Goreclaw, Terror of Qal Sisma
+1 Hungering Hydra
+1 Silverclad Ferocidons
+1 Quakebringer
+1 Urban Daggertooth
+1 Goblin Anarchomancer
+1 Vrondiss, Rage of Ancients
+1 Defiler of Instinct
+1 Topiary Stomper
+1 Ranging Raptors
+1 Ripjaw Raptor
+1 Spawn of Mayhem
+1 Brash Taunter
+1 Neheb, the Eternal
+1 Ignoble Hierarch
+1 Maha, Its Feathers Night
+1 Sunspine Lynx
+1 Klothys, God of Destiny
+1 Marauding Raptor
+1 Plague Spitter
+1 Blood Crypt
+1 Overgrown Tomb
+1 Karplusan Forest
+1 Undergrowth Stadium
+1 Stomping Ground
+1 Rockfall Vale
+1 Ziatora's Proving Ground
+1 Luxury Suite
+1 Spire Garden
+1 Fabled Passage
+1 Dragonskull Summit
+1 Haunted Ridge
+1 Rootbound Crag
+1 Exotic Orchard
+1 Savage Lands
+1 Thornspire Verge
+1 Graven Cairns
+1 Woodland Cemetery
+1 Blazemire Verge
+1 Command Tower
+2 Swamp
+6 Forest
+8 Mountain
+Sideboard
+1 Indoraptor, the Perfect Hybrid

@@ -1,0 +1,84 @@
+1 Korvold, Fae-Cursed King
+1 Skithiryx, the Blight Dragon
+1 Gadrak, the Crown-Scourge
+1 Dragonspeaker Shaman
+1 Scourge of Valkas
+1 Boneyard Scourge
+1 Magda, Brazen Outlaw
+1 Kalain, Reclusive Painter
+1 Xorn
+1 Ognis, the Dragon's Lash
+1 Mr. Orfeo, the Boulder
+1 Ganax, Astral Hunter
+1 Ancient Copper Dragon
+1 Swashbuckler Extraordinaire
+1 Patron of the Arts
+1 Hellkite Overlord
+1 Mirkwood Bats
+1 Decadent Dragon
+1 Kellogg, Dangerous Mind
+1 Professional Face-Breaker
+1 Goldspan Dragon
+1 Lathliss, Dragon Queen
+1 Sarkhan, Dragon Ascendant
+1 Scavenger Regent
+1 Parapet Thrasher
+1 Atsushi, the Blazing Sky
+1 Old Gnawbone
+1 Wrathful Red Dragon
+1 Twinflame Tyrant
+1 Jade Orb of Dragonkind
+1 Carnelian Orb of Dragonkind
+1 Sol Ring
+1 Dragon's Hoard
+1 Lightning Greaves
+1 Arcane Signet
+1 Chromatic Lantern
+1 Bootleggers' Stash
+1 Mox Jasper
+1 Orb of Dragonkind
+1 Tainted Strike
+1 Fog
+1 Beast Within
+1 Heroic Intervention
+1 Fake Your Own Death
+1 Triumph of the Hordes
+1 Demonic Tutor
+1 Crux of Fate
+1 Vandalblast
+1 Furnace Reins
+1 Seize the Spotlight
+1 Come Back Wrong
+1 Blasphemous Act
+1 Involuntary Employment
+1 Phyresis
+1 Revel in Riches
+1 Crucible of Fire
+1 Stimulus Package
+1 Riveteers Ascendancy
+1 There and Back Again
+1 Rain of Riches
+1 Dracogenesis
+1 Dragon Tempest
+3 Forest
+1 Spire Garden
+1 Ziatora's Proving Ground
+1 Savage Lands
+1 Cavern of Souls
+1 Bristling Backwoods
+1 Jagged Barrens
+1 Festering Gulch
+1 Command Tower
+1 Cinder Glade
+1 Rootbound Crag
+1 Treasure Vault
+1 Path of Ancestry
+1 Maelstrom of the Spirit Dragon
+1 Dragonskull Summit
+12 Mountain
+5 Swamp
+1 Undergrowth Stadium
+1 Luxury Suite
+1 Commercial District
+Sideboard
+1 Ziatora, the Incinerator

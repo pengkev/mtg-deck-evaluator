@@ -1,0 +1,99 @@
+1 Altered Ego
+1 Arbor Elf
+1 Avatar of Growth
+1 Badgermole Cub
+1 Birds of Paradise
+1 Clever Impersonator
+1 Cloud of Faeries
+1 Colossal Grave-Reaver
+1 Deadeye Navigator
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enduring Vitality
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fierce Empath
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Ghalta, Stampede Tyrant
+1 Great Whale
+1 Gyruda, Doom of Depths
+1 Hoarding Broodlord
+1 Hyrax Tower Scout
+1 Kinnan, Bonder Prodigy
+1 Kiora's Follower
+1 Lilysplash Mentor
+1 Llanowar Elves
+1 Mockingbird
+1 Nyxbloom Ancient
+1 Palinchron
+1 Peregrine Drake
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Prime Speaker Zegana
+1 Ruthless Technomancer
+1 Scholar of the Lost Trove
+1 Sowing Mycospawn
+1 Spellseeker
+1 Starfield Vocalist
+1 Woodland Bellower
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Crop Rotation
+1 Dark Ritual
+1 Mystical Tutor
+1 Snap
+1 Vampiric Tutor
+1 Culling Ritual
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Eureka
+1 Finale of Devastation
+1 Incarnation Technique
+1 Last March of the Ents
+1 Natural Order
+1 Nature's Rhythm
+1 Neoform
+1 Praetor's Grasp
+1 Show and Tell
+1 Tempt with Discovery
+1 Earthcraft
+1 Lurking Predators
+1 Overgrowth
+1 Utopia Sprawl
+1 Wild Growth
+1 Kiora, Behemoth Beckoner
+1 Ancient Tomb
+1 Bayou
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Deserted Temple
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+2 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Scalding Tarn
+1 Tropical Island
+1 Underground Sea
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Tasigur, the Golden Fang

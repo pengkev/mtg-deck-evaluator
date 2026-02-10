@@ -1,0 +1,101 @@
+1 Alesha, Who Laughs at Fate
+1 Atraxa, Grand Unifier
+1 Basim Ibn Ishaq
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Derevi, Empyrial Tactician
+1 Esper Sentinel
+1 Jin Sakai, Ghost of Tsushima
+1 Kutzil, Malamet Exemplar
+1 Lara Croft, Tomb Raider
+1 Lavinia, Azorius Renegade
+1 Lightning, Army of One
+1 Lotho, Corrupt Shirriff
+1 Myrel, Shield of Argive
+1 Narset, Jeskai Waymaster
+1 Noble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Sakashima of a Thousand Faces
+1 Sisay, Weatherlight Captain
+1 Surrak Dragonclaw
+1 Tamiyo, Inquisitive Student
+1 Tataru Taru
+1 Thassa's Oracle
+1 The Blue Spirit
+1 Tifa, Martial Artist
+1 Tymna the Weaver
+1 Vivi Ornitier
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Chromatic Lantern
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Relic of Legends
+1 Sol Ring
+1 The One Ring
+1 Abrupt Decay
+1 Anguished Unmaking
+1 Assassin's Trophy
+1 Borne Upon a Wind
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Deflecting Swat
+1 Dovin's Veto
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 Path to Exile
+1 Permission Denied
+1 Tainted Pact
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Demonic Tutor
+1 Imperial Seal
+1 Triumph of the Hordes
+1 Annie Joins Up
+1 Rhystic Study
+1 Smothering Tithe
+1 Sphere Grid
+1 Survival of the Fittest
+1 Temur Ascendancy
+1 Minsc & Boo, Timeless Heroes
+1 Oko, Thief of Crowns
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Command Tower
+1 Flooded Strand
+1 Godless Shrine
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Plateau
+1 Polluted Delta
+1 Sacred Foundry
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Jodah, the Unifier

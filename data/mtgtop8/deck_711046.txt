@@ -1,0 +1,94 @@
+1 Ancient Tomb
+1 Angel's Grace
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Arid Mesa
+1 Aven Mindcensor
+1 Battlefield Forge
+1 Blade Historian
+1 Blood Moon
+1 Bloodstained Mire
+1 Boromir, Warden of the Tower
+1 Boros Signet
+1 Cavern of Souls
+1 Chrome Mox
+1 City of Brass
+1 Clarion Conqueror
+1 Combat Celebrant
+1 Command Tower
+1 Cursed Totem
+1 Deafening Silence
+1 Deflecting Swat
+1 Drannith Magistrate
+1 Dualcaster Mage
+1 Eidolon of Rhetoric
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Final Fortune
+1 Flooded Strand
+1 Gamble
+1 Gemstone Caverns
+1 Giver of Runes
+1 Goblin Rabblemaster
+1 Goldnight Commander
+1 Grand Abolisher
+1 Greymond, Avacyn's Stalwart
+1 Hero of Bladehold
+1 Howlsquad Heavy
+1 Imperial Recruiter
+1 Legion Loyalist
+1 Lightning Bolt
+1 Linvala, Keeper of Silence
+1 Magus of the Moon
+1 Mana Vault
+1 Márton Stromgald
+1 Molten Duplication
+1 Mother of Runes
+3 Mountain
+1 Mox Diamond
+1 Myrel, Shield of Argive
+1 Needleverge Pathway
+1 Ocelot Pride
+1 Orim's Chant
+1 Ornithopter
+1 Path to Exile
+1 Phyrexian Walker
+6 Plains
+1 Plateau
+1 Prismatic Vista
+1 Professional Face-Breaker
+1 Pyroblast
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Rest in Peace
+1 Rionya, Fire Dancer
+1 Rograkh, Son of Rohgahh
+1 Sacred Foundry
+1 Samurai of the Pale Curtain
+1 Sanctum Prelate
+1 Scavenger Grounds
+1 Serra Ascendant
+1 Silence
+1 Simian Spirit Guide
+1 Skrelv, Defector Mite
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Solitude
+1 Soulless Jailer
+1 Spectator Seating
+1 Swords to Plowshares
+1 Talon Gates of Madara
+1 The One Ring
+1 Three Tree City
+1 Tibalt's Trickery
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Voice of Victory
+1 Wheel of Fortune
+1 Winds of Change
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Winota, Joiner of Forces

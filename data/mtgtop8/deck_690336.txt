@@ -1,0 +1,84 @@
+1 Young Pyromancer
+1 Dualcaster Mage
+1 Guttersnipe
+1 Electrostatic Field
+1 Niv-Mizzet, Parun
+1 Firebrand Archer
+1 Archmage Emeritus
+1 Storm-Kiln Artist
+1 Harmonic Prodigy
+1 Kessig Flamebreather
+1 Baral, Chief of Compliance
+1 Haughty Djinn
+1 Talrand, Sky Summoner
+1 Ojer Pakpatiq, Deepest Epoch
+1 Stella Lee, Wild Card
+1 Stormcatch Mentor
+1 Arcane Signet
+1 Thought Vessel
+1 Sol Ring
+1 Izzet Signet
+1 Talisman of Creativity
+1 Primal Amulet
+1 Decanter of Endless Water
+1 Isochron Scepter
+1 Opt
+1 Unsubstantiate
+1 Increasing Vengeance
+1 Counterspell
+1 Dig Through Time
+1 Expansion/Explosion
+1 Reverberate
+1 Shadow Rift
+1 Narset's Reversal
+1 Vapor Snag
+1 Whirlwind Denial
+1 Seething Song
+1 Dramatic Reversal
+1 Silundi Vision
+1 Pongify
+1 Brainstorm
+1 Consider
+1 Bane's Contingency
+1 Big Score
+1 Snap
+1 Display of Power
+1 Galvanic Iteration
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Chaos Warp
+1 Reality Shift
+1 Preordain
+1 Mana Geyser
+1 Grapeshot
+1 Expressive Iteration
+1 Ponder
+1 Into the Fire
+1 Fiery Confluence
+1 Windfall
+1 Crackle with Power
+1 Mizzix's Mastery
+1 Chandra's Ignition
+1 Faithless Looting
+1 Aria of Flame
+1 Curiosity
+1 Fiery Inscription
+1 Thousand-Year Storm
+1 Ral, Storm Conduit
+10 Island
+1 Command Tower
+1 Mystic Sanctuary
+1 Swiftwater Cliffs
+1 Temple of Epiphany
+1 Path of Ancestry
+1 Reliquary Tower
+1 Training Center
+1 Frostboil Snarl
+1 Cascade Bluffs
+1 Molten Tributary
+1 Restless Spire
+1 Shivan Reef
+1 Sulfur Falls
+9 Mountain
+Sideboard
+1 Veyran, Voice of Duality

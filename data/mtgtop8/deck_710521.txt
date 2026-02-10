@@ -1,0 +1,99 @@
+1 Black Market Connections
+1 Necromancy
+1 Dance of the Dead
+1 Animate Dead
+1 Faith of the Devoted
+1 Imperial Seal
+1 Agadeem's Awakening
+1 Living Death
+1 Incarnation Technique
+1 Yawgmoth's Will
+1 Demonic Counsel
+1 Beseech the Mirror
+1 Unmarked Grave
+1 Toxic Deluge
+1 Buried Alive
+1 Reanimate
+1 Demonic Tutor
+1 Scheming Symmetry
+1 Peer into the Abyss
+1 Tainted Pact
+1 Fell the Profane
+1 Flare of Malice
+1 Sickening Shoal
+1 Snuff Out
+1 Deadly Rollick
+1 Dismember
+1 Imp's Mischief
+1 Sacrifice
+1 Shallow Grave
+1 Rain of Filth
+1 Corpse Dance
+1 Culling the Weak
+1 Bitter Triumph
+1 Saw in Half
+1 Dark Ritual
+1 Vampiric Tutor
+1 Mausoleum Secrets
+1 Cabal Ritual
+1 Songs of the Damned
+1 Entomb
+1 Goryo's Vengeance
+1 Insidious Dreams
+1 Lotus Petal
+1 Mana Vault
+1 Gerrard's Hourglass Pendant
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Grim Monolith
+1 Mox Diamond
+1 Vexing Bauble
+1 The One Ring
+1 Defense Grid
+1 Bolas's Citadel
+1 Sol Ring
+1 Mox Amber
+1 Mox Opal
+1 Chrome Mox
+1 Tormod's Crypt
+1 Wishclaw Talisman
+1 Boggart Trawler
+1 Grief
+1 Bloodghast
+1 Faerie Macabre
+1 Cynical Loner
+1 Priest of Gix
+1 Phyrexian Devourer
+1 Walking Ballista
+1 Orcish Bowmasters
+1 Hoarding Broodlord
+1 Disciples of Gix
+1 Trazyn the Infinite
+1 Razaketh, the Foulblooded
+1 Skirge Familiar
+1 Opposition Agent
+1 Vilis, Broker of Blood
+1 Urza's Cave
+1 Lake of the Dead
+1 City of Traitors
+1 Talon Gates of Madara
+1 Polluted Delta
+1 Bloodstained Mire
+1 Takenuma, Abandoned Mire
+1 Verdant Catacombs
+1 Marsh Flats
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Prismatic Vista
+1 Cabal Pit
+1 Vault of Whispers
+1 Boseiju, Who Shelters All
+1 Peat Bog
+1 Urborg, Tomb of Yawgmoth
+1 Phyrexian Tower
+1 Cavern of Souls
+1 Urza's Saga
+2 Swamp
+2 Snow-Covered Swamp
+Sideboard
+1 Braids, Arisen Nightmare

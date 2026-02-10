@@ -1,0 +1,97 @@
+1 Archon of Cruelty
+1 Astral Dragon
+1 Auton Soldier
+1 Body Double
+1 Boggart Trawler
+1 Braids, Arisen Nightmare
+1 Clever Impersonator
+1 Copycrook
+1 Doom Whisperer
+1 Fain, the Broker
+1 Glasspool Mimic
+1 Gray Merchant of Asphodel
+1 Gyruda, Doom of Depths
+1 Hexavus
+1 Massacre Wurm
+1 Matoya, Archon Elder
+1 Mocking Doppelganger
+1 Naga Fleshcrafter
+1 Noxious Gearhulk
+1 O'aka, Traveling Merchant
+1 Overlord of the Floodpits
+1 Phyrexian Metamorph
+1 Psychic Frog
+1 Rottenmouth Viper
+1 Sheoldred, Whispering One
+1 Snarling Gorehound
+1 Soul Diviner
+1 Spark Double
+1 Spellskite
+1 Thassa, Deep-Dwelling
+1 Thrull Parasite
+1 Valgavoth, Terror Eater
+1 Vile Entomber
+1 Y'shtola Rhul
+1 Arcane Signet
+1 Essence Anchor
+1 Lightning Greaves
+1 Power Conduit
+1 Sol Ring
+1 Sword of Once and Future
+1 Talisman of Dominance
+1 Consider
+1 Counterspell
+1 Curate
+1 Entomb
+1 Flare of Malice
+1 Jwari Disruption
+1 Malakir Rebirth
+1 Otherworldly Gaze
+1 Pile On
+1 Pongify
+1 Price of Fame
+1 Saw in Half
+1 See Double
+1 Sink into Stupor
+1 V.A.T.S.
+1 Breach the Multiverse
+1 Buried Alive
+1 Exhume
+1 Living Death
+1 Nuclear Fallout
+1 Reanimate
+1 Stitch Together
+1 Toxic Deluge
+1 Unmarked Grave
+1 Animate Dead
+1 Case of the Shifting Visage
+1 Gossip's Talent
+1 Necromancy
+1 Ripples of Undeath
+1 Search for Azcanta
+1 Castle Locthwain
+1 Cephalid Coliseum
+1 Choked Estuary
+1 Clearwater Pathway
+1 Command Tower
+1 Drowned Catacomb
+1 Drownyard Temple
+1 Fabled Passage
+1 Hidden Grotto
+2 Island
+1 Nesting Grounds
+1 Otawara, Soaring City
+1 Plaza of Heroes
+1 Shipwreck Marsh
+1 Sunken Hollow
+1 Sunken Palace
+4 Swamp
+1 Tainted Isle
+1 Talon Gates of Madara
+1 Temple of Deceit
+1 The Black Gate
+1 The Grey Havens
+1 Tocasia's Dig Site
+1 Underground River
+Sideboard
+1 Mirko, Obsessive Theorist

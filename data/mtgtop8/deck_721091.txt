@@ -1,0 +1,85 @@
+1 Ichor Rats
+1 Blighted Agent
+1 Whispering Specter
+1 Viral Drake
+1 Flesh-Eater Imp
+1 Plague Myr
+1 Skithiryx, the Blight Dragon
+1 Notion Thief
+1 Sludge Monster
+1 Plague Stinger
+1 Tekuthal, Inquiry Dominus
+1 Thrummingbird
+1 Voidwing Hybrid
+1 Faerie Mastermind
+1 Sheoldred
+1 Hydroelectric Specimen
+1 Dreamtide Whale
+1 Flux Channeler
+1 Neurok Stealthsuit
+1 Contagion Engine
+1 Everflowing Chalice
+1 Lightning Greaves
+1 Sol Ring
+1 Replicating Ring
+1 Astral Cornucopia
+1 Glistening Sphere
+1 Throne of Eldraine
+1 Arcane Signet
+1 Jet Medallion
+1 Coalition Relic
+1 Talisman of Dominance
+1 Staff of Compleation
+1 Tainted Strike
+1 Cyclonic Rift
+1 Dark Ritual
+1 Polymorphist's Jest
+1 Negate
+1 Counterspell
+1 Sudden Spoiling
+1 Feign Death
+1 Experimental Augury
+1 Vraska's Fall
+1 Prologue to Phyresis
+1 Not Dead After All
+1 Waterlogged Teachings
+1 Strix Serenade
+1 Sink into Stupor
+1 Fell the Profane
+1 Withering Torment
+1 Toxic Deluge
+1 Profane Tutor
+1 Phyresis Outbreak
+1 Geth's Summons
+1 Caress of Phyrexia
+1 Drown in Ichor
+1 Infectious Inquiry
+1 Diplomatic Immunity
+1 No Mercy
+1 Kaya's Ghostform
+1 Corrupted Conscience
+1 Rhystic Study
+1 Mystic Remora
+1 Black Market
+1 Propaganda
+1 Black Market Connections
+1 Phyrexian Arena
+1 Rogue's Passage
+1 Scavenger Grounds
+1 Karn's Bastion
+1 Dreadship Reef
+1 Reliquary Tower
+1 Command Tower
+1 War Room
+1 Exotic Orchard
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Tainted Isle
+1 Drowned Catacomb
+1 Sunken Hollow
+1 Command Beacon
+7 Island
+11 Swamp
+1 Shipwreck Marsh
+Sideboard
+1 Toxrill, the Corrosive

@@ -1,0 +1,101 @@
+1 Snapcaster Mage
+1 Bloom Tender
+1 Eternal Witness
+1 Birds of Paradise
+1 Thassa's Oracle
+1 Noble Hierarch
+1 Phantasmal Image
+1 Nimble Obstructionist
+1 Orcish Bowmasters
+1 Ignoble Hierarch
+1 Selvala, Heart of the Wilds
+1 Spellseeker
+1 Atraxa, Grand Unifier
+1 Lion's Eye Diamond
+1 Fellwar Stone
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Sol Ring
+1 Mox Diamond
+1 Pull from Eternity
+1 Entomb
+1 Trickbind
+1 Mental Misstep
+1 Lightning Bolt
+1 Mana Drain
+1 Noxious Revival
+1 Force of Negation
+1 Mindbreak Trap
+1 Pact of Negation
+1 Swan Song
+1 Stifle
+1 Essence Flux
+1 Vampiric Tutor
+1 Shallow Grave
+1 Gut Shot
+1 Force of Will
+1 Brainstorm
+1 Daze
+1 Veil of Summer
+1 Swords to Plowshares
+1 Brain Freeze
+1 Demonic Consultation
+1 Consider
+1 Intuition
+1 Cyclonic Rift
+1 Enlightened Tutor
+1 Worldly Tutor
+1 Fierce Guardianship
+1 Dark Ritual
+1 Force Spike
+1 Chain of Vapor
+1 Borne Upon a Wind
+1 Tainted Pact
+1 Mystical Tutor
+1 Silence
+1 Gush
+1 Abrupt Decay
+1 Sevinne's Reclamation
+1 Demonic Tutor
+1 Imperial Seal
+1 Reanimate
+1 Ponder
+1 Deep Analysis
+1 Gitaxian Probe
+1 Doomsday
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Tropical Island
+1 Mana Confluence
+1 Steam Vents
+1 Watery Grave
+1 Bloodstained Mire
+1 Scrubland
+1 Command Tower
+1 Bayou
+1 Underground Sea
+1 Tundra
+1 Badlands
+1 Polluted Delta
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Exotic Orchard
+1 Cavern of Souls
+1 City of Brass
+1 Flooded Strand
+1 Marsh Flats
+1 Taiga
+1 Savannah
+1 Volcanic Island
+1 Plateau
+1 Blood Crypt
+1 Boseiju, Who Endures
+1 Undercity Sewers
+1 Ancient Tomb
+Sideboard
+1 Omnath, Locus of All

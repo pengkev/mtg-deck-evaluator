@@ -1,0 +1,72 @@
+1 Ancient Imperiosaur
+1 Arbor Elf
+1 Beanstalk Giant
+1 Beast Whisperer
+1 Champion of Lambholt
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Eternal Witness
+1 Farhaven Elf
+1 Forgotten Ancient
+1 Fyndhorn Elves
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Goreclaw, Terror of Qal Sisma
+1 Hulking Raptor
+1 Llanowar Elves
+1 Mirror Entity
+1 Old One Eye
+1 Priest of Titania
+1 Prosperous Innkeeper
+1 Rosie Cotton of South Lane
+1 Rumor Gatherer
+1 Sakura-Tribe Elder
+1 Scurry Oak
+1 Somberwald Sage
+1 Springbloom Druid
+1 Terastodon
+1 Toski, Bearer of Secrets
+1 Verdant Sun's Avatar
+1 Wood Elves
+1 Zetalpa, Primal Dawn
+1 Lifecrafter's Bestiary
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Ancient Animus
+1 Beast Within
+1 Chord of Calling
+1 Cycle of Renewal
+1 Generous Gift
+1 Harrow
+1 Make a Stand
+1 Nature's Chant
+1 Path to Exile
+1 Return to Nature
+1 Rootborn Defenses
+1 Selesnya Charm
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Tyvar's Stand
+1 Austere Command
+1 Cultivate
+1 Kodama's Reach
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Savage Stomp
+1 Search for Tomorrow
+1 Vanquish the Horde
+1 Colossal Majesty
+1 Garruk's Uprising
+1 Wild Growth
+1 Garruk, Primal Hunter
+1 Ash Barrens
+1 Canopy Vista
+1 Command Tower
+18 Forest
+1 Krosan Verge
+1 Mosswort Bridge
+13 Plains
+1 Rogue's Passage
+Sideboard
+1 Ghalta and Mavren

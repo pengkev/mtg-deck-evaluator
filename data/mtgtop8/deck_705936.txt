@@ -1,0 +1,101 @@
+1 Goblin Engineer
+1 Imperial Recruiter
+1 Blood Pet
+1 Magda, Brazen Outlaw
+1 Birgi, God of Storytelling
+1 Ruthless Technomancer
+1 Orcish Bowmasters
+1 Altar of the Wretched
+1 Phyrexian Metamorph
+1 Ragavan, Nimble Pilferer
+1 Thassa's Oracle
+1 Goblin Welder
+1 Wishclaw Talisman
+1 Mana Vault
+1 Chrome Mox
+1 Mox Opal
+1 Grim Monolith
+1 Altar of Dementia
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Sol Ring
+1 Manifold Key
+1 Relic of Legends
+1 The One Ring
+1 Talisman of Dominance
+1 Fellwar Stone
+1 Arcane Signet
+1 Cursed Mirror
+1 Sensei's Divining Top
+1 Bolas's Citadel
+1 Repurposing Bay
+1 Lotus Petal
+1 Culling the Weak
+1 Cabal Ritual
+1 Pact of Negation
+1 Brain Freeze
+1 Dark Ritual
+1 Mental Misstep
+1 Burnt Offering
+1 Demonic Consultation
+1 Red Elemental Blast
+1 Sacrifice
+1 Spell Pierce
+1 Swan Song
+1 Mindbreak Trap
+1 Tainted Pact
+1 Force of Negation
+1 Force of Will
+1 Entomb
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Flusterstorm
+1 Borne Upon a Wind
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Saw in Half
+1 Fire Covenant
+1 An Offer You Can't Refuse
+1 Demonic Tutor
+1 Transmute Artifact
+1 Yawgmoth's Will
+1 Wheel of Fortune
+1 Trash for Treasure
+1 Infernal Plunge
+1 Strike It Rich
+1 Imperial Seal
+1 Gamble
+1 Beseech the Mirror
+1 Jeska's Will
+1 Reanimate
+1 Necropotence
+1 Underworld Breach
+1 Rhystic Study
+1 Mystic Remora
+1 Dress Down
+1 City of Traitors
+1 Ancient Tomb
+1 Steam Vents
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 City of Brass
+1 Mana Confluence
+1 Blood Crypt
+1 Badlands
+1 Underground Sea
+1 Volcanic Island
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Forbidden Orchard
+1 Watery Grave
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Command Tower
+1 Luxury Suite
+Sideboard
+1 Dargo, the Shipwrecker
+1 Silas Renn, Seeker Adept

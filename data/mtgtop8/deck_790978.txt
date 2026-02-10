@@ -1,0 +1,91 @@
+1 Chakram Retriever
+1 Forensic Gadgeteer
+1 Glaring Fleshraker
+1 Hangarback Walker
+1 Hullbreaker Horror
+1 Memnite
+1 Mirran Spy
+1 Ornithopter
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Riddlesmith
+1 Sai, Master Thopterist
+1 Spellskite
+1 Thassa's Oracle
+1 Tribute Mage
+1 Trinket Mage
+1 Trophy Mage
+1 Urza, Lord High Artificer
+1 Valley Floodcaller
+1 Walking Ballista
+1 Aetherflux Reservoir
+1 Altar of the Brood
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blasting Station
+1 Chrome Mox
+1 Codex Shredder
+1 Grinding Station
+1 Isochron Scepter
+1 Krark-Clan Ironworks
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Urza's Bauble
+1 Uthros Research Craft
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Into the Flood Maw
+1 Louisoix's Sacrifice
+1 Mana Drain
+1 Miscast
+1 Mystical Tutor
+1 Pact of Negation
+1 Sink into Stupor
+1 Swan Song
+1 Winds of Rebuke
+1 Fabricate
+1 Reshape
+1 Intruder Alarm
+1 Mirrodin Besieged
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Ancient Tomb
+1 Darksteel Citadel
+1 Flooded Strand
+1 Fomori Vault
+1 Gemstone Caverns
+1 Inventors' Fair
+11 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Riptide Laboratory
+1 Scalding Tarn
+1 Seat of the Synod
+1 Treasure Vault
+1 Uthros, Titanic Godcore
+Sideboard
+1 Emry, Lurker of the Loch

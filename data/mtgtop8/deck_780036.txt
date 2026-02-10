@@ -1,0 +1,101 @@
+1 Ancestral Statue
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Goblin Engineer
+1 Goblin Welder
+1 Heliod, Sun-Crowned
+1 Liberator, Urza's Battlethopter
+1 Metalworker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Sandstone Oracle
+1 Skittering Cicada
+1 Walking Ballista
+1 Wandering Archaic
+1 Weftstalker Ardent
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Boros Signet
+1 Chimil, the Inner Sun
+1 Chromatic Star
+1 Chrome Mox
+1 Commander's Sphere
+1 Coveted Jewel
+1 Cursed Mirror
+1 Decanter of Endless Water
+1 Energy Refractor
+1 Fellwar Stone
+1 Grim Monolith
+1 Grinding Station
+1 Instant Ramen
+1 Lembas
+1 Lion's Eye Diamond
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mana Vault
+1 Memorial Vault
+1 Memory Jar
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Prophetic Prism
+1 Relic of Legends
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Domination
+1 Talisman of Conviction
+1 The Endstone
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 Vexing Bauble
+1 Abrade
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Oblation
+1 Pyroblast
+1 Silence
+1 Swords to Plowshares
+1 Tibalt's Trickery
+1 Faithless Looting
+1 Gamble
+1 Jeska's Will
+1 Reckless Handling
+1 Snort
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Buried Ruin
+1 Cavern of Souls
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Darksteel Citadel
+1 Emergence Zone
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Mishra's Workshop
+1 Mountain
+1 Plateau
+1 Sacred Foundry
+1 Scalding Tarn
+1 Scavenger Grounds
+1 Ugin's Labyrinth
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Sami, Wildcat Captain

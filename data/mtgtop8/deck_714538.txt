@@ -1,0 +1,101 @@
+1 Razaketh, the Foulblooded
+1 Dark Confidant
+1 Gilded Drake
+1 Vilis, Broker of Blood
+1 Thassa's Oracle
+1 Cursecatcher
+1 Laboratory Maniac
+1 Mirror-Mad Phantasm
+1 Opposition Agent
+1 Malevolent Hermit
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Kitesail Larcenist
+1 Phyrexian Metamorph
+1 Psychic Frog
+1 Warren Soultrader
+1 Consecrated Sphinx
+1 Mana Vault
+1 Grafdigger's Cage
+1 Mox Opal
+1 Lotus Petal
+1 Grim Monolith
+1 Mox Diamond
+1 Mox Amber
+1 Talisman of Dominance
+1 The One Ring
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Sol Ring
+1 Arcane Signet
+1 Drown in the Loch
+1 Cabal Ritual
+1 Vampiric Tutor
+1 Dispel
+1 Pact of Negation
+1 Intuition
+1 Flusterstorm
+1 Fierce Guardianship
+1 Winds of Rebuke
+1 Cyclonic Rift
+1 Mental Misstep
+1 Demonic Consultation
+1 Lim-Dul's Vault
+1 Chain of Vapor
+1 Stubborn Denial
+1 Dark Ritual
+1 Swan Song
+1 Tainted Pact
+1 Force of Negation
+1 Entomb
+1 Mindbreak Trap
+1 Imp's Mischief
+1 Strix Serenade
+1 Force of Will
+1 Saw in Half
+1 Mystical Tutor
+1 Muddle the Mixture
+1 Mana Drain
+1 An Offer You Can't Refuse
+1 Mnemonic Betrayal
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Reanimate
+1 Imperial Seal
+1 Buried Alive
+1 Toxic Deluge
+1 Animate Dead
+1 Rhystic Study
+1 Urza's Saga
+1 Mystic Remora
+1 Training Grounds
+1 Underground River
+1 Verdant Catacombs
+1 Prismatic Vista
+1 Mana Confluence
+1 Sunken Ruins
+1 Underground Sea
+1 Gemstone Caverns
+1 Flooded Strand
+1 Darkslick Shores
+1 Scalding Tarn
+1 Misty Rainforest
+1 Shipwreck Marsh
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Morphic Pool
+1 Spire of Industry
+1 Undercity Sewers
+1 Island
+1 Swamp
+1 Cephalid Coliseum
+1 Command Tower
+1 Watery Grave
+1 City of Brass
+1 Ancient Tomb
+1 Polluted Delta
+1 Gloomlake Verge
+1 Marsh Flats
+Sideboard
+1 The Scarab God

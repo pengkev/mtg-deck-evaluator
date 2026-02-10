@@ -1,0 +1,98 @@
+1 G'raha Tia
+1 Alisaie Leveilleur
+1 Tomik, Wielder of Law
+1 Rograkh, Son of Rohgahh
+1 Banon, the Returners' Leader
+1 Prompto Argentum
+1 Jaya's Phoenix
+1 Crime Novelist
+1 Cadric, Soul Kindler
+1 Kellan, Planar Trailblazer
+1 Pinnacle Monk
+1 Onakke Oathkeeper
+1 Momo, Friendly Flier
+1 Party Thrasher
+1 Taii Wakeen, Perfect Shot
+1 Zoraline, Cosmos Caller
+1 Lae'zel, Vlaakith's Champion
+1 Witch Enchanter
+1 Momo, Playful Pet
+1 Staff of Compleation
+1 Arcane Signet
+1 Talisman of Conviction
+1 Rakdos Signet
+1 Wayfarer's Bauble
+1 Semblance Anvil
+1 Talisman of Indulgence
+1 Skullclamp
+1 Fellwar Stone
+1 Sol Ring
+1 Honor-Worn Shaku
+1 Sheoldred's Edict
+1 Legion Leadership
+1 Razorgrass Ambush
+1 Lindblum, Industrial Regency
+1 Baleful Mastery
+1 Dark Ritual
+1 Ultima
+1 Glimpse the Impossible
+1 Legions to Ashes
+1 Ondu Inversion
+1 Gleeful Demolition
+1 Sevinne's Reclamation
+1 Split Up
+1 Resourceful Defense
+1 Rent Is Due
+1 Liliana's Talent
+1 The Eternal Wanderer
+1 Kaya, Intangible Slayer
+1 Chandra, Flameshaper
+1 Ajani, Strength of the Pride
+1 Liliana, Dreadhorde General
+1 Chandra, Pyromaster
+1 Chandra, Fire Artisan
+1 Ob Nixilis Reignited
+1 Kaya, Geist Hunter
+1 Jaya, Fiery Negotiator
+1 Elspeth, Storm Slayer
+1 Liliana, Death's Majesty
+1 Quintorius Kand
+1 Chandra, Legacy of Fire
+1 Chandra, Awakened Inferno
+1 Karn, Living Legacy
+1 Chandra, Spark Hunter
+1 Chandra, Torch of Defiance
+1 Nahiri, the Harbinger
+1 Elspeth, Sun's Champion
+1 Chandra, Dressed to Kill
+1 Jeska, Thrice Reborn
+1 Caves of Koilos
+2 Swamp
+1 Sunlit Marsh
+1 Command Tower
+1 Interplanar Beacon
+1 Desolate Mire
+1 Smoldering Marsh
+1 Sulfurous Springs
+2 Mountain
+1 Dragonskull Summit
+1 Battlefield Forge
+1 Isolated Chapel
+1 Sunscorched Divide
+1 Clifftop Retreat
+1 Sacred Peaks
+1 Exotic Orchard
+1 Fetid Heath
+1 Drownyard Temple
+1 Boros Garrison
+1 Nomad Outpost
+1 Myriad Landscape
+1 Graven Cairns
+1 Echoing Deeps
+2 Plains
+1 Geothermal Bog
+1 Spire of Industry
+1 Shadowblood Ridge
+1 Rugged Prairie
+Sideboard
+1 Dihada, Binder of Wills

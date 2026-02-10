@@ -1,0 +1,101 @@
+1 Barbed Shocker
+1 Dauthi Voidwalker
+1 Dragon Mage
+1 Duskmantle Guildmage
+1 Fate Unraveler
+1 Ghyrson Starn, Kelermorph
+1 Jace's Archivist
+1 Kederekt Parasite
+1 Kefka, Court Mage
+1 Kess, Dissident Mage
+1 Magus of the Wheel
+1 Ojer Axonil, Deepest Might
+1 Orcish Bowmasters
+1 Razorkin Needlehead
+1 Runehorn Hellkite
+1 Scrawling Crawler
+1 Shocker
+1 Snapcaster Mage
+1 Sycorax Commander
+1 Syr Konrad, the Grim
+1 Tergrid, God of Fright
+1 Whirlpool Warrior
+1 Arcane Signet
+1 Howling Mine
+1 Lion's Eye Diamond
+1 Mindcrank
+1 Sol Ring
+1 Thought Vessel
+1 Brain Freeze
+1 Deadly Rollick
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Wheel and Deal
+1 Dark Deal
+1 Echo of Eons
+1 Game Plan
+1 Jeska's Will
+1 Khorvath's Fury
+1 Mizzix's Mastery
+1 Molten Psyche
+1 Past in Flames
+1 Reforge the Soul
+1 Sway of the Stars
+1 Temporal Cascade
+1 Time Reversal
+1 Time Spiral
+1 Timetwister
+1 Wheel of Fortune
+1 Whispering Madness
+1 Windfall
+1 Winds of Change
+1 Animate Dead
+1 Arcane Laboratory
+1 Bloodchief Ascension
+1 Curiosity
+1 Helm of the Ghastlord
+1 Leyline of the Void
+1 Liliana's Caress
+1 Megrim
+1 Sigil of Sleep
+1 Spiteful Visions
+1 Underworld Breach
+1 Underworld Dreams
+1 Waste Not
+1 Ob Nixilis, the Hate-Twisted
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Graven Cairns
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mikokoro, Center of the Sea
+1 Mistrise Village
+1 Morphic Pool
+1 Mount Doom
+1 Nykthos, Shrine to Nyx
+1 Oscorp Industries
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Reliquary Tower
+1 Scalding Tarn
+1 Spire of Industry
+1 Steam Vents
+1 Training Center
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Volcanic Island
+1 Volrath's Stronghold
+1 Watery Grave
+Sideboard
+1 Nekusar, the Mindrazer

@@ -1,0 +1,73 @@
+1 Abyssal Gatekeeper
+1 Agent Venom
+1 Ayara, First of Locthwain
+1 Big Game Hunter
+1 Blood Artist
+1 Blood Pet
+1 Bone Shredder
+1 Burglar Rat
+1 Cadaver Imp
+1 Carrion Feeder
+1 Disciple of Perdition
+1 Dusk Legion Zealot
+1 Elderfang Disciple
+1 Elvish Doomsayer
+1 Greedy Freebooter
+1 Grim Haruspex
+1 Krav, the Unredeemed
+1 Marionette Apprentice
+1 Mindless Automaton
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Nezumi Informant
+1 Novice Occultist
+1 Pitiless Plunderer
+1 Priest of Forgotten Gods
+1 Shambling Ghast
+1 Skullport Merchant
+1 Skyscanner
+1 Smothering Abomination
+1 Virus Beetle
+1 Viscera Seer
+1 Woe Strider
+1 Yarok's Fenlurker
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Crowded Crypt
+1 Lightning Coils
+1 Sol Ring
+1 Spawning Pit
+1 Corrupted Conviction
+1 Dark Ritual
+1 Deadly Dispute
+1 Go for the Throat
+1 Imp's Mischief
+1 Mausoleum Secrets
+1 Not Dead After All
+1 Plumb the Forbidden
+1 Supernatural Stamina
+1 Tragic Slip
+1 Village Rites
+1 Withering Torment
+1 Deadly Tempest
+1 Exsanguinate
+1 Lively Dirge
+1 Night's Whisper
+1 Victimize
+1 Bastion of Remembrance
+1 Dark Privilege
+1 Fallen Ideal
+1 Funeral Room/Awakening Hall
+1 Open the Graves
+1 Vampiric Rites
+1 Crypt of Agadeem
+1 High Market
+1 Myriad Landscape
+1 Reliquary Tower
+1 Spymaster's Vault
+29 Swamp
+1 Westvale Abbey
+1 Witch's Cottage
+Sideboard
+1 Shirei, Shizo's Caretaker

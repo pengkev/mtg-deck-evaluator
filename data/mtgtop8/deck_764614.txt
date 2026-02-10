@@ -1,0 +1,101 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet
+1 Armored Scrapgorger
+1 Banishing Knack
+1 Basalt Monolith
+1 Birds of Paradise
+1 Bloom Tender
+1 Borne Upon a Wind
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cephalid Coliseum
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Clever Impersonator
+1 Colossal Skyturtle
+1 Command Tower
+1 Consecrated Sphinx
+1 Crop Rotation
+1 Cyclonic Rift
+1 Minamo, School at Water's Edge
+1 Elvish Mystic
+1 Endurance
+1 Enduring Curiosity
+1 Enduring Vitality
+1 Fabricate
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Finale of Devastation
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Green Sun's Zenith
+1 Grim Monolith
+1 High Fae Trickster
+1 Hinterland Harbor
+1 Hullbreaker Horror
+1 Invasion of Ikoria
+1 Inventors' Fair
+1 Island
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Drain
+1 Mana Vault
+1 Manglehorn
+1 Marang River Regent
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mirage Mirror
+1 Mistrise Village
+1 Misty Rainforest
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Nezahal, Primal Tide
+1 Nyxbloom Ancient
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Phyrexian Metamorph
+1 Pollywog Prodigy
+1 Resculpt
+1 Rhystic Study
+1 Scalding Tarn
+1 Seedborn Muse
+1 Simic Signet
+1 Sink into Stupor
+1 Sol Ring
+1 Spellskite
+1 Springleaf Drum
+1 Swan Song
+1 Sylvan Library
+1 Talisman of Curiosity
+1 Talon Gates of Madara
+1 Tezzeret the Seeker
+1 The One Ring
+1 Tidespout Tyrant
+1 Thrasios, Triton Hero
+1 Transmute Artifact
+1 Treasure Vault
+1 Trinisphere
+1 Trophy Mage
+1 Tropical Island
+1 Valley Floodcaller
+1 Void Winnower
+1 Walking Ballista
+1 Waterlogged Grove
+1 Whir of Invention
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

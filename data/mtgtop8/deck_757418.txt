@@ -1,0 +1,84 @@
+1 Adrix and Nev, Twincasters
+1 Altered Ego
+1 Corpsejack Menace
+1 Gargos, Vicious Watcher
+1 Goldvein Hydra
+1 Herald of Secret Streams
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hydroid Krasis
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Lifeblood Hydra
+1 Neverwinter Hydra
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Steelbane Hydra
+1 Stonecoil Serpent
+1 The Goose Mother
+1 Vastwood Hydra
+1 Voracious Hydra
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
+1 Beast Within
+1 Biomass Mutation
+1 Black Sun's Twilight
+1 Blue Sun's Zenith
+1 Heroic Intervention
+1 Icy Blast
+1 Inspiring Call
+1 Krosan Grip
+1 March of Swirling Mist
+1 Pull from Tomorrow
+1 Spell Burst
+1 Syncopate
+1 Thassa's Intervention
+1 Tyvar's Stand
+1 Animist's Awakening
+1 Blue Sun's Twilight
+1 Curse of the Swine
+1 Exsanguinate
+1 Extract Brain
+1 Finale of Devastation
+1 Green Sun's Twilight
+1 Green Sun's Zenith
+1 Mind Grind
+1 Mind Spring
+1 Overwhelming Stampede
+1 Profane Command
+1 Silver Scrutiny
+1 Torment of Hailfire
+1 Wurmcalling
+1 Branching Evolution
+1 Carpet of Flowers
+1 Doubling Season
+1 Elemental Bond
+1 Freed from the Real
+1 Garruk's Uprising
+1 Levitation
+1 Mana Bloom
+1 Parallel Lives
+1 Pemmin's Aura
+1 Simic Ascendancy
+1 Terrasymbiosis
+1 Unbound Flourishing
+1 Kiora, Behemoth Beckoner
+1 Nissa, Steward of Elements
+1 Barkchannel Pathway
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+9 Forest
+6 Island
+1 Llanowar Wastes
+1 Opulent Palace
+1 Reliquary Tower
+5 Swamp
+1 Undergrowth Stadium
+1 Yavimaya Coast
+Sideboard
+1 Zaxara, the Exemplary

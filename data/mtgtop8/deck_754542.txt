@@ -1,0 +1,85 @@
+1 Academy Manufactor
+1 Astrid Peth
+1 Chandra's Incinerator
+1 Drumbellower
+1 Edgar, Master Machinist
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Illustrious Wanderglyph
+1 Leonin Elder
+1 Loyal Apprentice
+1 Marvin, Murderous Mimic
+1 Osgir, the Reconstructor
+1 Oswald Fiddlebender
+1 Reckless Fireweaver
+1 Sami, Wildcat Captain
+1 Solemn Simulacrum
+1 Stridehangar Automaton
+1 The Gaffer
+1 Torbran, Thane of Red Fell
+1 Treasure Nabber
+1 Unstable Glyphbridge
+1 Weftstalker Ardent
+1 Witch Enchanter
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Basilisk Collar
+1 Boros Signet
+1 Fellwar Stone
+1 Ichor Wellspring
+1 Illusionist's Bracers
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Mystic Forge
+1 Nimblewright Schematic
+1 Nuka-Cola Vending Machine
+1 Patriar's Seal
+1 Prized Statue
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 Talisman of Conviction
+1 Thopter Shop
+1 Big Score
+1 Boros Charm
+1 Enlightened Tutor
+1 Path to Exile
+1 Razorgrass Ambush
+1 Rebuff the Wicked
+1 Restoration Magic
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Sevinne's Reclamation
+1 Single Combat
+1 The Battle of Bywater
+1 Authority of the Consuls
+1 Caretaker's Talent
+1 Curse of Opulence
+1 Darksteel Mutation
+1 Felidar Umbra
+1 Land Tax
+1 Lifelink
+1 Monologue Tax
+1 Sheltered by Ghosts
+1 Smothering Tithe
+1 Spirit Loop
+1 Weapons Manufacturing
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Darksteel Citadel
+1 Exotic Orchard
+1 Fountainport
+1 Furycalm Snarl
+1 Inventors' Fair
+9 Mountain
+9 Plains
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scavenger Grounds
+1 Sunscorched Divide
+1 War Room
+Sideboard
+1 Ragost, Deft Gastronaut

@@ -1,0 +1,101 @@
+1 Abdel Adrian, Gorion's Ward
+1 Archivist of Oghma
+1 Birgi, God of Storytelling
+1 Blood Artist
+1 Boromir, Warden of the Tower
+1 Dauthi Voidwalker
+1 Drannith Magistrate
+1 Dualcaster Mage
+1 Elas il-Kor, Sadistic Pilgrim
+1 Esper Sentinel
+1 Felidar Guardian
+1 Grand Abolisher
+1 Gravecrawler
+1 Lotho, Corrupt Shirriff
+1 Magda, Brazen Outlaw
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Professional Face-Breaker
+1 Prosper, Tome-Bound
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Rograkh, Son of Rohgahh
+1 Serra Ascendant
+1 Sheoldred, the Apocalypse
+1 Simian Spirit Guide
+1 Standard Bearer
+1 Storm-Kiln Artist
+1 Thalia, Heretic Cathar
+1 Tinybones, Bauble Burglar
+1 Voice of Victory
+1 Warren Soultrader
+1 Worldgorger Dragon
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Cursed Mirror
+1 Defense Grid
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Portal to Phyrexia
+1 Relic of Legends
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Angel's Grace
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Entomb
+1 Path to Exile
+1 Reprieve
+1 Saw in Half
+1 Silence
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Armageddon
+1 Chain of Smog
+1 Demonic Tutor
+1 Diabolic Intent
+1 Faithless Looting
+1 Grim Tutor
+1 Imperial Seal
+1 Jeska's Will
+1 Last Chance
+1 Molten Duplication
+1 Reanimate
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Strike It Rich
+1 Wheel of Fortune
+1 Animate Dead
+1 Dance of the Dead
+1 Smothering Tithe
+1 Underworld Breach
+1 Ancient Tomb
+1 Badlands
+1 Blood Crypt
+1 City of Brass
+1 Command Tower
+1 Concealed Courtyard
+1 Emergence Zone
+1 Gemstone Caverns
+1 Godless Shrine
+1 Mount Doom
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Sacred Foundry
+1 Scalding Tarn
+1 Scrubland
+1 Swamp
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Dihada, Binder of Wills

@@ -1,0 +1,101 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Esper Sentinel
+1 Hexing Squelcher
+1 Liberator, Urza's Battlethopter
+1 Myrel, Shield of Argive
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Tataru Taru
+1 Treasonous Ogre
+1 Voice of Victory
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Basalt Monolith
+1 Boros Signet
+1 Brass's Tunnel-Grinder
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Defense Grid
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Interdimensional Web Watch
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Memory Jar
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Relic of Legends
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Conviction
+1 The Endstone
+1 The Mightstone and Weakstone
+1 Big Score
+1 Commune with Lava
+1 Deflecting Swat
+1 Desperate Ritual
+1 Enlightened Tutor
+1 Leave/Chance
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Searing Touch
+1 Seething Song
+1 Silence
+1 Soul Partition
+1 Untimely Malfunction
+1 Devastating Onslaught
+1 Gamble
+1 Ignite the Future
+1 Imposing Grandeur
+1 Inspired Tinkering
+1 Jeska's Will
+1 Past in Flames
+1 Pirate's Pillage
+1 Rite of Flame
+1 Search for Glory
+1 Sevinne's Reclamation
+1 Snort
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Zenith Festival
+1 Smothering Tithe
+1 Underworld Breach
+1 Tezzeret, Cruel Captain
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Traitors
+1 Command Tower
+1 Elegant Parlor
+1 Gemstone Caverns
+1 Great Furnace
+1 Marsh Flats
+1 Mishra's Workshop
+1 Plateau
+1 Sacred Foundry
+1 Scalding Tarn
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Spectator Seating
+1 Spire of Industry
+1 Starting Town
+1 Sunbaked Canyon
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Sami, Wildcat Captain

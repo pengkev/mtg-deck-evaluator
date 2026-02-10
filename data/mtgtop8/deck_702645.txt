@@ -1,0 +1,85 @@
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Birds of Paradise
+1 Ranger-Captain of Eos
+1 Gilded Drake
+1 Thassa's Oracle
+1 Drannith Magistrate
+1 Snapcaster Mage
+1 Elvish Mystic
+1 Opposition Agent
+1 Esper Sentinel
+1 Solitude
+1 Aven Mindcensor
+1 Drumbellower
+1 Ledger Shredder
+1 Devoted Druid
+1 Kinnan, Bonder Prodigy
+1 Orcish Bowmasters
+1 Forensic Gadgeteer
+1 Volatile Stormdrake
+1 Valley Floodcaller
+1 Hazel's Brewmaster
+1 Mockingbird
+1 Walking Ballista
+1 Noble Hierarch
+1 Enduring Vitality
+1 Bloom Tender
+1 Hullbreaker Horror
+1 Arcane Signet
+1 Basalt Monolith
+1 Mox Diamond
+1 Imposter Mech
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Sol Ring
+1 Fellwar Stone
+1 Lightning Greaves
+1 Path to Exile
+1 Swords to Plowshares
+1 Fierce Guardianship
+1 Force of Will
+1 Abeyance
+1 Demonic Consultation
+1 Worldly Tutor
+1 Vampiric Tutor
+1 Angel's Grace
+1 An Offer You Can't Refuse
+1 Enlightened Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Mindbreak Trap
+1 Flusterstorm
+1 Imperial Seal
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Rhystic Study
+1 Smothering Tithe
+1 Pemmin's Aura
+1 Mystic Remora
+1 Swift Reconfiguration
+1 Copy Artifact
+1 Urza's Saga
+1 Deafening Silence
+1 Mirrormade
+1 Oko, Thief of Crowns
+6 Island
+6 Plains
+5 Swamp
+1 Command Tower
+1 Windswept Heath
+1 Flooded Strand
+1 Tropical Island
+1 Underground Sea
+1 Tundra
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Bayou
+1 Misty Rainforest
+1 Scalding Tarn
+1 Boseiju, Who Endures
+1 City of Brass
+3 Forest
+Sideboard
+1 Tymna the Weaver
+1 Thrasios, Triton Hero

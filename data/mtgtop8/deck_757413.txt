@@ -1,0 +1,100 @@
+1 Anticausal Vestige
+1 Artisan of Kozilek
+1 Blight Herder
+1 Breaker of Creation
+1 Conduit of Ruin
+1 Devourer of Destiny
+1 Duplicant
+1 Emrakul, the World Anew
+1 Endbringer
+1 Glaring Fleshraker
+1 It That Heralds the End
+1 Kozilek, Butcher of Truth
+1 Kozilek, the Great Distortion
+1 Myr Battlesphere
+1 Oblivion Sower
+1 Pathrazer of Ulamog
+1 Scrawling Crawler
+1 Sire of Seven Deaths
+1 Skittering Cicada
+1 Solemn Simulacrum
+1 Spawnbed Protector
+1 Stonecoil Serpent
+1 Summon: Bahamut
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Defiler
+1 Ulamog, the Infinite Gyre
+1 Ultima, Origin of Oblivion
+1 Zenith Chronicler
+1 Forsaken Monument
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Mind Stone
+1 Mirage Mirror
+1 Mystic Forge
+1 Planar Bridge
+1 Planar Portal
+1 Ring of the Lucii
+1 Ring of Three Wishes
+1 Sculpting Steel
+1 Sisay's Ring
+1 Sol Ring
+1 Stonespeaker Crystal
+1 The Dominion Bracelet
+1 The Eternity Elevator
+1 Thran Dynamo
+1 Urza's Incubator
+1 Wayfarer's Bauble
+1 World Map
+1 Desecrate Reality
+1 Eldrazi Confluence
+1 Eldritch Immunity
+1 Kozilek's Command
+1 Not of This World
+1 Null Elemental Blast
+1 Titan's Presence
+1 Warping Wail
+1 All Is Dust
+1 Calamity of the Titans
+1 Rise of the Eldrazi
+1 Selective Obliteration
+1 Echoes of Eternity
+1 Ugin's Mastery
+1 Karn, Living Legacy
+1 Ugin, the Ineffable
+1 Adventurer's Inn
+1 Arcane Lighthouse
+1 Arid Archway
+1 Ash Barrens
+1 Blast Zone
+1 Bonders' Enclave
+1 Buried Ruin
+1 Capital City
+1 Desert
+1 Deserted Temple
+1 Echoing Deeps
+1 Eden, Seat of the Sanctum
+1 Eldrazi Temple
+1 Gallifrey Council Chamber
+1 Geier Reach Sanitarium
+1 Guildless Commons
+1 Mishra's Foundry
+1 Planar Nexus
+1 Reliquary Tower
+1 Sanctum of Ugin
+1 Shrine of the Forsaken Gods
+1 Snow-Covered Wastes
+1 The Biblioplex
+1 The Gold Saucer
+1 The Mycosynth Gardens
+1 Thespian's Stage
+1 Tocasia's Dig Site
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Vesuva
+1 War Room
+2 Wastes
+Sideboard
+1 Kozilek, the Broken Reality

@@ -1,0 +1,97 @@
+1 Ancestral Statue
+1 Archivist of Oghma
+1 Aven Mindcensor
+1 Clever Impersonator
+1 Drafna, Founder of Lat-Nam
+1 Drannith Magistrate
+1 Elesh Norn, Mother of Machines
+1 Emrakul, the Promised End
+1 Ethersworn Canonist
+1 Faerie Mastermind
+1 Grand Abolisher
+1 Linvala, Keeper of Silence
+1 Malevolent Hermit
+1 Phyrexian Metamorph
+1 Spellseeker
+1 Spider-Woman, Stunning Savior
+1 Surge Conductor
+1 The Reality Chip
+1 Ulamog, the Infinite Gyre
+1 Voice of Victory
+1 Wandering Archaic
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Damping Sphere
+1 Fellwar Stone
+1 Gilded Lotus
+1 Grim Monolith
+1 Isochron Scepter
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Sensei's Divining Top
+1 Sol Ring
+1 Sonic Screwdriver
+1 Talisman of Progress
+1 Teferi's Puzzle Box
+1 The One Ring
+1 Unwinding Clock
+1 Voltaic Key
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 March of Swirling Mist
+1 Mindbreak Trap
+1 Path to Exile
+1 Prologue to Phyresis
+1 Silence
+1 Strix Serenade
+1 Vision Skeins
+1 Whir of Invention
+1 Day's Undoing
+1 Echo of Eons
+1 Fabricate
+1 Prosperity
+1 Sea Gate Restoration
+1 Timetwister
+1 Transmute Artifact
+1 Windfall
+1 Blind Obedience
+1 Mirrormade
+1 Rhystic Study
+1 Smothering Tithe
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Inventors' Fair
+3 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+3 Plains
+1 Polluted Delta
+1 Scalding Tarn
+1 Tundra
+1 Windswept Heath
+Sideboard
+1 Heliod, the Radiant Dawn

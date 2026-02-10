@@ -1,0 +1,88 @@
+1 Arcane Signet
+1 Avacyn's Pilgrim
+1 Command Tower
+1 Elvish Mystic
+1 Essence Warden
+9 Forest
+1 Fortified Village
+1 Llanowar Elves
+1 Nature's Claim
+1 Nature's Lore
+1 Path to Exile
+6 Plains
+1 Prize Pig
+1 Radiant Fountain
+1 Sam, Loyal Attendant
+1 Sol Ring
+1 Soul Warden
+1 Soul's Attendant
+1 Swords to Plowshares
+1 Tireless Provisioner
+1 Gilded Goose
+1 Prosperous Innkeeper
+1 Sakura-Tribe Elder
+1 Respite
+1 Riot Control
+1 Authority of the Consuls
+1 Canopy Vista
+1 Exotic Orchard
+1 Predator's Rapport
+1 Hunter's Insight
+1 Beast Within
+1 Generous Gift
+1 Stroke of Midnight
+1 Suture Priest
+1 Temple of Plenty
+1 Regrowth
+1 Kutzil, Malamet Exemplar
+1 Inscription of Abundance
+1 Congregate
+1 Revitalize
+1 Sheltering Word
+1 War Report
+1 The Shire
+1 Cabaretti Courtyard
+1 Ranger of Eos
+1 Awe Strike
+1 Branching Evolution
+1 Ilysian Caryatid
+1 Blossoming Sands
+1 Brokers Hideout
+1 Heroic Intervention
+1 Oblation
+1 Benevolent Offering
+1 Tajuru Preserver
+1 Talisman of Unity
+1 Scattered Groves
+1 Trash the Town
+1 Urdnan, Dromoka Warrior
+1 Brushland
+1 Overgrown Farmland
+1 Guide of Souls
+1 Exemplar of Light
+1 Well Rested
+1 Defend the Rider
+1 Heliod's Intervention
+1 Dazzling Reflection
+1 Radiant Grove
+1 Sunpetal Grove
+1 Feed the Clan
+1 Collective Resistance
+1 Sheltered by Ghosts
+1 Blacksmith's Skill
+1 Loran's Escape
+1 Haliya, Guided by Light
+1 Loading Zone
+1 Starfield Shepherd
+1 Wild Growth
+1 Shapers' Sanctuary
+1 Graypelt Refuge
+1 Restoration Magic
+1 Ash Barrens
+1 Tyvar's Stand
+1 Unlucky Cabbage Merchant
+1 Bugenhagen, Wise Elder
+1 Surrak, Elusive Hunter
+1 Utopia Sprawl
+Sideboard
+1 Treebeard, Gracious Host

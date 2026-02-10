@@ -1,0 +1,87 @@
+1 Elvish Reclaimer
+1 Dosan the Falling Leaf
+1 Heap Doll
+1 Ulvenwald Tracker
+1 Collector Ouphe
+1 Slippery Bogbonder
+1 Manglehorn
+1 Karametra's Acolyte
+1 Argothian Elder
+1 Llanowar Elves
+1 Destiny Spinner
+1 Hyrax Tower Scout
+1 Craterhoof Behemoth
+1 Kogla, the Titan Ape
+1 Woodland Bellower
+1 Temur Sabertooth
+1 Yeva, Nature's Herald
+1 Pili-Pala
+1 Ashaya, Soul of the Wild
+1 Scryb Ranger
+1 Quirion Ranger
+1 Circle of Dreams Druid
+1 Allosaurus Shepherd
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Phyrexian Revoker
+1 Birds of Paradise
+1 Haywire Mite
+1 Soulless Jailer
+1 Cankerbloom
+1 Delighted Halfling
+1 Seedborn Muse
+1 Sylvan Safekeeper
+1 Endurance
+1 Magus of the Candelabra
+1 Insidious Fungus
+1 Marvin, Murderous Mimic
+1 Beastrider Vanguard
+1 Sphere of Resistance
+1 Chrome Mox
+1 Trinisphere
+1 Chalice of the Void
+1 Sol Ring
+1 Thorn of Amethyst
+1 Agatha's Soul Cauldron
+1 Veil of Summer
+1 Autumn's Veil
+1 Chord of Calling
+1 Beast Within
+1 Summoner's Pact
+1 Bouncer's Beatdown
+1 Tail Swipe
+1 Worldly Tutor
+1 Crop Rotation
+1 Infectious Bite
+1 Legolas's Quick Reflexes
+1 Archdruid's Charm
+1 Force of Vigor
+1 Sylvan Scrying
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nylea's Intervention
+1 Natural Order
+1 Nature's Rhythm
+1 Root Maze
+1 Survival of the Fittest
+1 Concordant Crossroads
+1 Wild Growth
+1 Utopia Sprawl
+15 Snow-Covered Forest
+1 Castle Garenbrig
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Homeward Path
+1 Dryad Arbor
+1 Nykthos, Shrine to Nyx
+1 War Room
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Geier Reach Sanitarium
+1 Deserted Temple
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Talon Gates of Madara
+Sideboard
+1 Yisan, the Wanderer Bard

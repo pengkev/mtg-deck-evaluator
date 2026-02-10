@@ -1,0 +1,97 @@
+1 Birds of Paradise
+1 Noble Hierarch
+1 Bloom Tender
+1 Doomwake Giant
+1 Herald of the Pantheon
+1 Dryad of the Ilysian Grove
+1 Sanctum Weaver
+1 Weaver of Harmony
+1 Colossal Skyturtle
+1 Jukai Naturalist
+1 Delighted Halfling
+1 Ondu Spiritdancer
+1 Bello, Bard of the Brambles
+1 Ghostly Dancers
+1 Overlord of the Hauntwoods
+1 Inquisitive Glimmer
+1 Marvin, Murderous Mimic
+1 Staff of Domination
+1 Fellwar Stone
+1 Sol Ring
+1 Thousand-Year Elixir
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Chromatic Lantern
+1 Mox Diamond
+1 Arcane Signet
+1 Keys to the House
+1 Heroic Intervention
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Fierce Guardianship
+1 Demonic Tutor
+1 Replenish
+1 Nature's Chosen
+1 Wild Research
+1 Sigil of the Empty Throne
+1 Instill Energy
+1 Blind Obedience
+1 Sterling Grove
+1 Sphere of Safety
+1 Freed from the Real
+1 Pemmin's Aura
+1 Hallowed Haunting
+1 Case of the Shattered Pact
+1 Dollmaker's Shop/Porcelain Gallery
+1 Bottomless Pool/Locker Room
+1 Central Elevator/Promising Stairs
+1 Meat Locker/Drowned Diner
+1 Mirror Room/Fractured Realm
+1 Funeral Room/Awakening Hall
+1 Unholy Annex/Ritual Chamber
+1 Charred Foyer/Warped Space
+1 Glassworks/Shattered Yard
+1 Greenhouse/Rickety Gazebo
+1 Moldering Gym/Weight Room
+1 Walk-In Closet/Forgotten Cellar
+1 Restricted Office/Lecture Hall
+1 Roaring Furnace/Steaming Sauna
+1 Smoky Lounge/Misty Salon
+1 Valgavoth's Lair
+1 Secret Arcade/Dusty Parlor
+1 Cramped Vents/Access Maze
+1 Cascading Cataracts
+3 Plains
+1 Island
+1 Swamp
+1 Mountain
+3 Forest
+1 City of Brass
+1 Mana Confluence
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Bayou
+1 Savannah
+1 Scrubland
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Serra's Sanctum
+1 Gemstone Caverns
+1 Command Tower
+1 Indatha Triome
+1 Zagoth Triome
+1 Rejuvenating Springs
+1 The World Tree
+1 Yavimaya, Cradle of Growth
+1 Jetmir's Garden
+1 Raffine's Tower
+1 Spara's Headquarters
+Sideboard
+1 Marina Vendrell

@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Eternal Witness
+1 Simian Spirit Guide
+1 Archmage Emeritus
+1 Veyran, Voice of Duality
+1 Delighted Halfling
+1 Valley Floodcaller
+1 Enduring Vitality
+1 Dualcaster Mage
+1 Spellseeker
+1 Kinnan, Bonder Prodigy
+1 Imperial Recruiter
+1 Elvish Spirit Guide
+1 Birgi, God of Storytelling
+1 Storm-Kiln Artist
+1 Harmonic Prodigy
+1 Tavern Scoundrel
+1 Displacer Kitten
+1 Roaming Throne
+1 Ashling, Flame Dancer
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Lion's Eye Diamond
+1 Mox Amber
+1 Lotus Petal
+1 Swan Song
+1 Manamorphose
+1 Snap
+1 Veil of Summer
+1 Pact of Negation
+1 Force of Will
+1 Chord of Calling
+1 Flusterstorm
+1 Deflecting Swat
+1 Mindbreak Trap
+1 Borne Upon a Wind
+1 Gut Shot
+1 Lightning Bolt
+1 Crop Rotation
+1 Red Elemental Blast
+1 Summoner's Pact
+1 Essence Flux
+1 Mogg Salvage
+1 Submerge
+1 Brain Freeze
+1 Emerald Charm
+1 Narset's Reversal
+1 Fierce Guardianship
+1 Mental Misstep
+1 Noxious Revival
+1 Worldly Tutor
+1 Chain of Vapor
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Gamble
+1 Gitaxian Probe
+1 Grapeshot
+1 Rite of Flame
+1 Neoform
+1 Strike It Rich
+1 Jeska's Will
+1 Molten Duplication
+1 Twinflame
+1 Underworld Breach
+1 Rhystic Study
+1 Mystic Remora
+1 Glacierwood Siege
+1 Command Tower
+1 Forbidden Orchard
+1 City of Brass
+1 Arid Mesa
+1 Gemstone Caverns
+1 Taiga
+1 Tropical Island
+1 Bloodstained Mire
+1 Flooded Strand
+1 Breeding Pool
+1 Stomping Ground
+1 Ancient Tomb
+1 Steam Vents
+1 Mana Confluence
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Misty Rainforest
+1 Scalding Tarn
+1 Gaea's Cradle
+1 Volcanic Island
+1 Emergence Zone
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Shifting Woodland
+1 Talon Gates of Madara
+Sideboard
+1 Krark, the Thumbless
+1 Thrasios, Triton Hero

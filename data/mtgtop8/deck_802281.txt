@@ -1,0 +1,81 @@
+1 "Lifetime" Pass Holder
+1 Acidic Slime
+1 Agent Frank Horrigan
+1 Champion of Lambholt
+1 Darksteel Juggernaut
+1 Deadbeat Attendant
+1 Discourtesy Clerk
+1 Draconian Gate-Bot
+1 Eternal Witness
+1 Forgotten Ancient
+1 Gastal Raider
+1 Herald of Anguish
+1 Line Cutter
+1 Lodestone Myr
+1 Pactdoll Terror
+1 Petting Zookeeper
+1 Quick Fixer
+1 Sakura-Tribe Elder
+1 Sarinth Steelseeker
+1 Solemn Simulacrum
+1 Soul Swindler
+1 Spinnerette, Arachnobat
+1 Squirrel Squatters
+1 Teething Wurmlet
+1 Tireless Tracker
+1 Winding Constrictor
+1 Blackblade Reforged
+1 Chariot of Victory
+1 Demonic Junker
+1 Fireshrieker
+1 Golgari Signet
+1 Heaped Harvest
+1 Jester's Cap
+1 Lumbering Worldwagon
+1 Mirrorworks
+1 Nettlecyst
+1 Sculpting Steel
+1 Sinister Monolith
+1 Sol Ring
+1 Sonic Screwdriver
+1 Sword of Vengeance
+1 Talisman of Resilience
+1 Depressurize
+1 Fake Your Own Death
+1 Gaea's Gift
+1 Origin of Metalbending
+1 Saw in Half
+1 Black Hole
+1 Casualties of War
+1 Clash of the Eikons
+1 Coming Attraction
+1 Explore
+1 Farseek
+1 Grim Bounty
+1 Harmonize
+1 Read the Bones
+1 Sign in Blood
+1 Step Right Up
+1 Yahenni's Expertise
+1 Elven Chorus
+1 Night Shift of the Living Dead
+1 Thickest in the Thicket
+1 Unnatural Growth
+1 Command Tower
+1 Cryptic Caves
+1 Darkmoss Bridge
+1 Darksteel Citadel
+11 Forest
+1 Golgari Guildgate
+1 Jungle Hollow
+1 Roadside Reliquary
+1 Rogue's Passage
+1 Strangled Cemetery
+11 Swamp
+1 Temple of Malady
+1 Temple of the False God
+1 The Dross Pits
+1 The Hunter Maze
+1 Tyrite Sanctum
+Sideboard
+1 The Most Dangerous Gamer

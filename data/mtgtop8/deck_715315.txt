@@ -1,0 +1,85 @@
+1 Fell the Profane
+1 Hagra Mauling
+1 Aetherflux Reservoir
+1 Anguished Unmaking
+1 Arcane Signet
+1 Archon of Emeria
+1 Austere Command
+1 Authority of the Consuls
+1 Aven Mindcensor
+1 Smothering Tithe
+1 Beacon of Immortality
+1 Blood Artist
+1 Blood Seeker
+1 Bloodchief Ascension
+1 Bolas's Citadel
+1 Buried Ruin
+1 Command Tower
+1 Concealed Courtyard
+1 Containment Priest
+1 Cosmos Elixir
+1 Crested Sunmare
+1 Dark Petition
+1 Dark Ritual
+1 Deafening Silence
+1 Diabolic Tutor
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Elixir of Immortality
+1 Enduring Tenacity
+1 Evolving Wilds
+1 Exotic Orchard
+1 Exquisite Blood
+1 Felidar Sovereign
+1 Fellwar Stone
+1 Field of Ruin
+1 Force of Despair
+1 Godless Shrine
+1 Grasp of Fate
+1 Heliod, Sun-Crowned
+1 Hour of Revelation
+1 Hushbringer
+1 Rule of Law
+1 Keeper of the Accord
+1 Knowledge Pool
+1 Kunoros, Hound of Athreos
+1 Loyal Subordinate
+1 Marble Diamond
+1 Mind Stone
+1 Mindcrank
+1 Night's Whisper
+1 Nyx Lotus
+1 Obzedat, Ghost Council
+1 Orzhov Signet
+1 Path of Ancestry
+1 Path to Exile
+1 Phyrexian Arena
+9 Plains
+1 Reliquary Tower
+1 Revel in Riches
+1 Revival/Revenge
+1 Sanguine Bond
+1 Scoured Barrens
+1 Shineshadow Snarl
+1 Snowfield Sinkhole
+1 Sol Ring
+1 Soul Warden
+1 Sudden Spoiling
+9 Swamp
+1 Swords to Plowshares
+1 Tainted Remedy
+1 Talisman of Hierarchy
+1 Tectonic Edge
+1 Temple of Silence
+1 Test of Endurance
+1 Triskelion
+1 Underdark Rift
+1 Underworld Dreams
+1 Vito, Thorn of the Dusk Rose
+1 Vona, Butcher of Magan
+1 Walking Ballista
+1 Wandering Archaic
+1 Wishclaw Talisman
+1 Wound Reflection
+Sideboard
+1 Kambal, Consul of Allocation

@@ -1,0 +1,89 @@
+1 Apex Altisaur
+1 Atla Palani, Nest Tender
+1 Atzocan Seer
+1 Belligerent Yearling
+1 Bellowing Aegisaur
+1 Cacophodon
+1 Curious Altisaur
+1 Drover of the Mighty
+1 Frilled Deathspitter
+1 Gishath, Sun's Avatar
+1 Imperial Ceratops
+1 Intrepid Paleontologist
+1 Kinjalli's Caller
+1 Marauding Raptor
+1 Needletooth Raptor
+1 Otepec Huntmaster
+1 Overgrown Armasaur
+1 Palani's Hatcher
+1 Pantlaza, Sun-Favored
+1 Ranging Raptors
+1 Raptor Hatchling
+1 Ravenous Daggertooth
+1 Regisaur Alpha
+1 Ripjaw Raptor
+1 Runic Armasaur
+1 Siegehorn Ceratops
+1 Silverclad Ferocidons
+1 Snapping Sailback
+1 Sun-Crowned Hunters
+1 Sunfrill Imitator
+1 Temple Altisaur
+1 Trapjaw Tyrant
+1 Urban Daggertooth
+1 Verdant Sun's Avatar
+1 Wrathful Raptors
+1 Arcane Signet
+1 Boxing Ring
+1 Pillar of Origins
+1 Sol Ring
+1 Boros Charm
+1 Cinderclasm
+1 Dual Shot
+1 For the Ancestors
+1 Naya Charm
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Shake the Foundations
+1 Swords to Plowshares
+1 Tail Swipe
+1 Tamiyo's Safekeeping
+1 Blasphemous Act
+1 Bushwhack
+1 Commune with Dinosaurs
+1 Cultivate
+1 Farseek
+1 Rampant Growth
+1 Rile
+1 Roamer's Routine
+1 Star of Extinction
+1 Thunderherd Migration
+1 Descendants' Path
+1 Elemental Bond
+1 Garruk's Uprising
+1 Rhythm of the Wild
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Copperline Gorge
+1 Exotic Orchard
+9 Forest
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Inspiring Vantage
+1 Jungle Shrine
+3 Mountain
+1 Overgrown Farmland
+3 Plains
+1 Radiant Summit
+1 Razorverge Thicket
+1 Rockfall Vale
+1 Rootbound Crag
+1 Secluded Courtyard
+1 Sundown Pass
+1 Sunpetal Grove
+1 Unclaimed Territory
+Sideboard
+1 Wayta, Trainer Prodigy

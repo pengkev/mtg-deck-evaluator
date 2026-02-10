@@ -1,0 +1,74 @@
+1 Academy Manufactor
+1 Broodstar
+1 Cyberdrive Awakener
+1 Danny Pink
+1 Daring Sleuth
+1 Detective of the Month
+1 Erdwal Illuminator
+1 Ethereal Investigator
+1 Extruder
+1 Forensic Gadgeteer
+1 Herald of Secret Streams
+1 James, Wandering Dad
+1 Junk Winder
+1 K-9, Mark I
+1 Kappa Cannoneer
+1 Kuldotha Forgemaster
+1 Martha Jones
+1 Nyssa of Traken
+1 Senator Peacock
+1 Shimmer Dragon
+1 Solemn Simulacrum
+1 Synth Infiltrator
+1 Tangletrove Kelp
+1 Thassa, God of the Sea
+1 Thrummingbird
+1 Triskaidekaphile
+1 Whirler Rogue
+1 Basilisk Collar
+1 Five Hundred Year Diary
+1 Inspiring Statuary
+1 Pip-Boy 3000
+1 Silver Shroud Costume
+1 Sol Ring
+1 Tamiyo's Journal
+1 Tarrian's Soulcleaver
+1 Thran Turbine
+1 Throne of Geth
+1 Vedalken Shackles
+1 Winged Boots
+1 Aetherize
+1 Blue Sun's Zenith
+1 Counterspell
+1 Ice Out
+1 Masterful Replication
+1 Negate
+1 Out Cold
+1 Pongify
+1 Reality Shift
+1 Slip Out the Back
+1 Spell Swindle
+1 Wipe Away
+1 Beacon of Tomorrows
+1 Follow the Bodies
+1 Rise and Shine
+1 Slip Through Space
+1 Time Stretch
+1 Curious Inquiry
+1 Mechanized Production
+1 Nerd Rage
+1 Propaganda
+1 Sword Coast Sailor
+1 Tezzeret the Seeker
+1 Academy Ruins
+1 Archway of Innovation
+1 Buried Ruin
+1 Darksteel Citadel
+28 Island
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Tectonic Edge
+1 Treasure Vault
+1 War Room
+Sideboard
+1 Piper Wright, Publick Reporter

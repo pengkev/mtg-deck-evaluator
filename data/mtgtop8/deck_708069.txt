@@ -1,0 +1,88 @@
+1 Reverberate
+1 Twincast
+1 Early Harvest
+1 Roiling Regrowth
+1 Mystical Tutor
+1 Turnabout
+1 Cyclonic Rift
+1 Harrow
+1 Peer into the Abyss
+1 Conflux
+1 Unexpected Results
+1 Seasons Past
+1 Bring to Light
+1 Rude Awakening
+1 Approach of the Second Sun
+1 Mind's Desire
+1 All Is Dust
+1 Mythos of Illuna
+1 Curse of the Cabal
+1 Praetor's Counsel
+1 Rite of Replication
+1 Cruel Entertainment
+1 Spelltwine
+1 Brass's Bounty
+1 Grow from the Ashes
+1 Boundless Realms
+1 Insurrection
+1 Ancestral Vision
+1 Mnemonic Deluge
+1 Soulfire Eruption
+1 Reshape the Earth
+1 Volcanic Torrent
+1 Creative Technique
+1 Volcanic Vision
+1 Tragic Arrogance
+1 Nissa's Renewal
+1 Inevitable Betrayal
+1 Cartographer's Survey
+1 In Garruk's Wake
+1 Cosmic Epiphany
+1 Merciless Eviction
+1 Duneblast
+1 Time Stretch
+1 Urza's Ruinous Blast
+1 Storm Herd
+1 The Great Aurora
+1 Taunt from the Rampart
+1 Farseek
+1 Farewell
+1 Call Forth the Tempest
+1 Fractured Identity
+1 Mizzix's Mastery
+1 Rise of the Dark Realms
+1 Promise of Loyalty
+1 Windfall
+1 Escape to the Wilds
+1 Culling Ritual
+1 Casualties of War
+1 Worst Fears
+1 Rampant Growth
+1 Past in Flames
+1 Hit the Mother Lode
+1 Fabled Passage
+1 Field of the Dead
+1 Boseiju, Who Shelters All
+1 Ancient Tomb
+1 Emergence Zone
+1 Prismatic Vista
+1 Gemstone Caverns
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 The World Tree
+1 Geier Reach Sanitarium
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Alchemist's Refuge
+1 Command Tower
+1 Bojuka Bog
+4 Mountain
+4 Island
+4 Forest
+3 Plains
+3 Swamp
+Sideboard
+1 Codie, Vociferous Codex

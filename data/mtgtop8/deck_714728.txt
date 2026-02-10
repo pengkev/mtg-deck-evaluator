@@ -1,0 +1,101 @@
+1 Ranger-Captain of Eos
+1 Gilded Drake
+1 Grand Abolisher
+1 Changeling Outcast
+1 Faerie Mastermind
+1 Lotho, Corrupt Shirriff
+1 Kitesail Larcenist
+1 Esper Sentinel
+1 Delney, Streetwise Lookout
+1 Mockingbird
+1 Valley Floodcaller
+1 Archivist of Oghma
+1 Dauthi Voidwalker
+1 Thassa's Oracle
+1 Siren Stormtamer
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Displacer Kitten
+1 Spectral Sailor
+1 Lotus Petal
+1 Mox Diamond
+1 Cursed Totem
+1 Imposter Mech
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Mox Opal
+1 Mox Amber
+1 Mana Vault
+1 Talisman of Dominance
+1 Fellwar Stone
+1 The One Ring
+1 Sol Ring
+1 Arcane Signet
+1 Dispel
+1 Angel's Grace
+1 Spell Snare
+1 Flusterstorm
+1 Ad Nauseam
+1 Demonic Consultation
+1 Borne Upon a Wind
+1 Cyclonic Rift
+1 Sink into Stupor
+1 Swords to Plowshares
+1 Mana Drain
+1 Force of Will
+1 Silence
+1 Vampiric Tutor
+1 Swan Song
+1 Mindbreak Trap
+1 Enlightened Tutor
+1 Tainted Pact
+1 Force of Negation
+1 Dark Ritual
+1 Mental Misstep
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Pact of Negation
+1 Flare of Denial
+1 An Offer You Can't Refuse
+1 Imperial Seal
+1 Diabolic Intent
+1 Demonic Tutor
+1 Sevinne's Reclamation
+1 Blind Obedience
+1 Urza's Saga
+1 Necropotence
+1 Bloodchief Ascension
+1 Mystic Remora
+1 Smothering Tithe
+1 Rhystic Study
+1 Teferi, Time Raveler
+1 City of Traitors
+1 Minamo, School at Water's Edge
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Otawara, Soaring City
+1 Godless Shrine
+1 Hallowed Fountain
+1 Watery Grave
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Sea of Clouds
+1 Misty Rainforest
+1 Marsh Flats
+1 Arid Mesa
+1 Flooded Strand
+1 Polluted Delta
+1 Bloodstained Mire
+1 Morphic Pool
+1 Verdant Catacombs
+1 City of Brass
+1 Exotic Orchard
+1 Cavern of Souls
+1 Command Tower
+1 Snow-Covered Island
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Tymna the Weaver

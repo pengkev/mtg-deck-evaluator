@@ -1,0 +1,99 @@
+1 Phyrexian Metamorph
+1 Prismite
+1 Seedborn Muse
+1 Void Winnower
+1 Manglehorn
+1 Spellskite
+1 Nyxbloom Ancient
+1 Allosaurus Shepherd
+1 Birds of Paradise
+1 Perplexing Chimera
+1 Nezahal, Primal Tide
+1 Fyndhorn Elves
+1 Wandering Archaic
+1 Gwenna, Eyes of Gaea
+1 Delighted Halfling
+1 Thrasios, Triton Hero
+1 Drift of Phantasms
+1 Tidespout Tyrant
+1 Koma, Cosmos Serpent
+1 Volatile Stormdrake
+1 Endurance
+1 Hydroelectric Specimen
+1 Llanowar Elves
+1 Pollywog Prodigy
+1 Llanowar Loamspeaker
+1 Consecrated Sphinx
+1 Thassa's Oracle
+1 Clever Impersonator
+1 Enduring Vitality
+1 Marvin, Murderous Mimic
+1 Bloom Tender
+1 Hullbreaker Horror
+1 Sylvan Caryatid
+1 Chrome Mox
+1 Mana Vault
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Imposter Mech
+1 Springleaf Drum
+1 The One Ring
+1 Basalt Monolith
+1 Simic Signet
+1 Sol Ring
+1 Lotus Petal
+1 Arcane Signet
+1 Talisman of Curiosity
+1 Flusterstorm
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Worldly Tutor
+1 Force of Negation
+1 Swan Song
+1 Chord of Calling
+1 Mana Drain
+1 Force of Vigor
+1 Sink into Stupor
+1 Pact of Negation
+1 Mindbreak Trap
+1 Mental Misstep
+1 Noxious Revival
+1 Veil of Summer
+1 Force of Will
+1 Fabricate
+1 Finale of Devastation
+1 Rhystic Study
+1 Mystic Remora
+1 Copy Artifact
+1 Court of Vantress
+1 Copy Enchantment
+1 Urza's Saga
+1 Freed from the Real
+1 Tezzeret the Seeker
+1 Karn, the Great Creator
+1 Exotic Orchard
+1 City of Brass
+1 Breeding Pool
+1 Misty Rainforest
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tropical Island
+1 Gemstone Caverns
+1 Polluted Delta
+1 Command Tower
+1 Scalding Tarn
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Homeward Path
+1 Cavern of Souls
+1 Flooded Strand
+1 Shifting Woodland
+1 Seat of the Synod
+1 Treasure Vault
+1 Yavimaya Coast
+2 Snow-Covered Island
+2 Snow-Covered Forest
+Sideboard
+1 Kinnan, Bonder Prodigy

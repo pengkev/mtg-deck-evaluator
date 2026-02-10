@@ -1,0 +1,101 @@
+1 Abdel Adrian, Gorion's Ward
+1 Agatha's Soul Cauldron
+1 Altar of the Brood
+1 Ancient Tomb
+1 Angel's Grace
+1 Animate Dead
+1 Arcane Signet
+1 Arid Mesa
+1 Beseech the Mirror
+1 Bleachbone Verge
+1 Blind Obedience
+1 Bloodstained Mire
+1 Boromir, Warden of the Tower
+1 Brightclimb Pathway
+1 Cabal Ritual
+1 Caves of Koilos
+1 Chrome Mox
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Corpse Knight
+1 Culling the Weak
+1 Damn
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Tutor
+1 Drana and Linvala
+1 Drannith Magistrate
+1 Emergence Zone
+1 Enlightened Tutor
+1 Entomb
+1 Ephemerate
+1 Erase
+1 Esper Sentinel
+1 Felidar Guardian
+1 Fell the Profane
+1 Fellwar Stone
+1 Fetid Heath
+1 Flare of Fortitude
+1 Flooded Strand
+1 Gemstone Caverns
+1 Ghost Vacuum
+1 Godless Shrine
+1 Grand Abolisher
+1 Grim Monolith
+1 Heliod, Sun-Crowned
+1 Imperial Seal
+1 Leonin Relic-Warder
+1 Lotho, Corrupt Shirriff
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Merrow Bonegnawer
+1 Mox Diamond
+1 Mox Opal
+1 Necromancy
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Parallax Wave
+1 Path to Exile
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Furnace
+1 Plains
+1 Planar Void
+1 Polluted Delta
+1 Ranger-Captain of Eos
+1 Relic of Progenitus
+1 Reliquary Tower
+1 Restoration Angel
+1 Scrabbling Claws
+1 Scrubland
+1 Senu, Keen-Eyed Protector
+1 Serra Ascendant
+1 Shadowy Backstreet
+1 Sheoldred, the Apocalypse
+1 Silence
+1 Silent Clearing
+1 Skyclave Apparition
+1 Smothering Tithe
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Static Prison
+1 Swords to Plowshares
+1 Tainted Pact
+1 Talisman of Hierarchy
+1 The Meathook Massacre
+1 The One Ring
+1 Thought Vessel
+1 Touch the Spirit Realm
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Vampiric Tutor
+1 Vault of Champions
+1 Verdant Catacombs
+1 Vexing Bauble
+1 Walking Ballista
+1 Windswept Heath
+1 Wishclaw Talisman
+Sideboard
+1 Ketramose, the New Dawn

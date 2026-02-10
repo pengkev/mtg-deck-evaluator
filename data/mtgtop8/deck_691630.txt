@@ -1,0 +1,90 @@
+1 Corpsejack Menace
+1 Thrummingbird
+1 Winding Constrictor
+1 Walking Ballista
+1 Orcish Bowmasters
+1 Danny Pink
+1 Watchful Radstag
+1 Vexing Radgull
+1 Lily Bowen, Raging Grandma
+1 Cathedral Acolyte
+1 Glowing One
+1 Marcus, Mutant Mayor
+1 Infesting Radroach
+1 Nightkin Ambusher
+1 Mirelurk Queen
+1 Screeching Scorchbeast
+1 Strong, the Brutish Thespian
+1 Agent Frank Horrigan
+1 Hancock, Ghoulish Mayor
+1 Feral Ghoul
+1 Alpha Deathclaw
+1 Evolution Witness
+1 Vigor
+1 The Master, Transcendent
+1 Shadowspear
+1 Arcane Signet
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Talisman of Curiosity
+1 The One Ring
+1 Power Fist
+1 Silver Shroud Costume
+1 Sol Ring
+1 Arcane Denial
+1 Beast Within
+1 Counterspell
+1 Heroic Intervention
+1 Spell Pierce
+1 Cyclonic Rift
+1 An Offer You Can't Refuse
+1 Tyvar's Stand
+1 Mutational Advantage
+1 Atomize
+1 Long River's Pull
+1 Inspiring Call
+1 Cultivate
+1 Demonic Tutor
+1 Farseek
+1 Rampant Growth
+1 Toxic Deluge
+1 Find/Finality
+1 Casualties of War
+1 Nuclear Fallout
+1 Inexorable Tide
+1 Fertile Ground
+1 Hardened Scales
+1 Branching Evolution
+1 Struggle for Project Purity
+1 Vault 87: Forced Evolution
+1 Vault 12: The Necropolis
+1 Propaganda
+1 Imprisoned in the Moon
+6 Island
+6 Forest
+2 Swamp
+1 Temple of Deceit
+1 Command Tower
+1 Temple of Malady
+1 Temple of Mystery
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Opulent Palace
+1 Sunken Hollow
+1 Tainted Isle
+1 Tainted Wood
+1 Wasteland
+1 Overgrown Tomb
+1 Drowned Catacomb
+1 Nesting Grounds
+1 Fetid Pools
+1 Zagoth Triome
+1 Hinterland Harbor
+1 Overflowing Basin
+1 Viridescent Bog
+1 Bojuka Bog
+1 Path of Ancestry
+1 Reflecting Pool
+1 Woodland Cemetery
+Sideboard
+1 The Wise Mothman

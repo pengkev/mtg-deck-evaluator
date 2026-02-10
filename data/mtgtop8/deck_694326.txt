@@ -1,0 +1,84 @@
+1 Archon of Absolution
+1 Deepglow Skate
+1 Thrummingbird
+1 Mangara, the Diplomat
+1 Silent Arbiter
+1 Flux Channeler
+1 Grateful Apparition
+1 Spark Double
+1 Kazuul, Tyrant of the Cliffs
+1 Baird, Steward of Argive
+1 Lae'zel, Vlaakith's Champion
+1 Jaya's Phoenix
+1 Onakke Oathkeeper
+1 Leori, Sparktouched Hunter
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Boros Signet
+1 Wayfarer's Bauble
+1 Honor-Worn Shaku
+1 Izzet Signet
+1 Azorius Signet
+1 The Chain Veil
+1 Talisman of Progress
+1 Talisman of Creativity
+1 Talisman of Conviction
+1 Ichormoon Gauntlet
+1 Gatewatch Beacon
+1 Path to Exile
+1 Swords to Plowshares
+1 Semester's End
+1 Guff Rewrites History
+1 Blasphemous Act
+1 Oath of Gideon
+1 Oath of Teferi
+1 Rowan's Talent
+1 Teferi's Talent
+1 Gideon Jura
+1 Teferi, Temporal Archmage
+1 Teferi, Master of Time
+1 Ajani Steadfast
+1 Chandra, Acolyte of Flame
+1 Ral Zarek
+1 Jace Beleren
+1 Rowan Kenrith
+1 Will Kenrith
+1 Jace, Architect of Thought
+1 Chandra, Torch of Defiance
+1 Dovin Baan
+1 Narset, Parter of Veils
+1 Saheeli, Sublime Artificer
+1 Sarkhan the Masterless
+1 Teferi, Time Raveler
+1 The Wanderer
+1 Narset of the Ancient Way
+1 Elspeth, Sun's Champion
+1 Teferi, Who Slows the Sunset
+1 Teferi, Temporal Pilgrim
+1 The Eternal Wanderer
+1 Chandra, Legacy of Fire
+1 Teyo, Geometric Tactician
+1 Vronos, Masked Inquisitor
+7 Island
+7 Plains
+6 Mountain
+1 Temple of Enlightenment
+1 Command Tower
+1 Reliquary Tower
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Exotic Orchard
+1 Mystic Monastery
+1 Prairie Stream
+1 Skycloud Expanse
+1 Port Town
+1 Rugged Prairie
+1 Mystic Gate
+1 Interplanar Beacon
+1 Karn's Bastion
+1 Nesting Grounds
+1 Frostboil Snarl
+1 Furycalm Snarl
+Sideboard
+1 Commodore Guff

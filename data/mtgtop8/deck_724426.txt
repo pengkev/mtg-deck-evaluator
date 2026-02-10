@@ -1,0 +1,101 @@
+1 Hope of Ghirapur
+1 Aven Mindcensor
+1 Leonin Relic-Warder
+1 Lurrus of the Dream-Den
+1 Tymna the Weaver
+1 Overeager Apprentice
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Archivist of Oghma
+1 Ratadrabik of Urborg
+1 Lotho, Corrupt Shirriff
+1 Cathar Commando
+1 Drannith Magistrate
+1 Grand Abolisher
+1 Tireless Tribe
+1 Blood Pet
+1 Opposition Agent
+1 Esper Sentinel
+1 Abdel Adrian, Gorion's Ward
+1 Boromir, Warden of the Tower
+1 Orcish Bowmasters
+1 Cynical Loner
+1 Voice of Victory
+1 Dauthi Voidwalker
+1 Lotus Petal
+1 Chrome Mox
+1 Portable Hole
+1 Springleaf Drum
+1 Aether Vial
+1 Arcane Signet
+1 Vexing Bauble
+1 Mana Vault
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Sol Ring
+1 The One Ring
+1 Wishclaw Talisman
+1 Talisman of Hierarchy
+1 Cabal Ritual
+1 Enlightened Tutor
+1 Flare of Fortitude
+1 Deadly Rollick
+1 Scout's Warning
+1 Mausoleum Secrets
+1 Abeyance
+1 Rain of Filth
+1 Swords to Plowshares
+1 Ad Nauseam
+1 Silence
+1 Dark Ritual
+1 Tainted Pact
+1 Vampiric Tutor
+1 Entomb
+1 Orim's Chant
+1 Culling the Weak
+1 Demonic Tutor
+1 Diabolic Intent
+1 Sevinne's Reclamation
+1 Buried Alive
+1 Imperial Seal
+1 Thoughtseize
+1 Final Parting
+1 Lively Dirge
+1 Animate Dead
+1 Dance of the Dead
+1 Necromancy
+1 Smuggler's Share
+1 Touch the Spirit Realm
+1 Necropotence
+1 The Meathook Massacre
+1 Trouble in Pairs
+1 Urza's Saga
+1 Snow-Covered Swamp
+1 Snow-Covered Plains
+1 Ancient Tomb
+1 Hall of Heliod's Generosity
+1 Godless Shrine
+1 Gemstone Caverns
+1 Bleachbone Verge
+1 Emergence Zone
+1 Silent Clearing
+1 Verdant Catacombs
+1 Marsh Flats
+1 City of Brass
+1 Scrubland
+1 Concealed Courtyard
+1 Ancient Den
+1 Arid Mesa
+1 Phyrexian Tower
+1 Takenuma, Abandoned Mire
+1 Caves of Koilos
+1 Vault of Whispers
+1 Shadowy Backstreet
+1 Command Tower
+1 Flooded Strand
+1 Polluted Delta
+1 Spymaster's Vault
+1 Vault of Champions
+Sideboard
+1 Elas il-Kor, Sadistic Pilgrim

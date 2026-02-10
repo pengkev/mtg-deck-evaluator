@@ -1,0 +1,92 @@
+1 Conspicuous Snoop
+1 Torch Courier
+1 Goblin Warchief
+1 Moggcatcher
+1 Pashalik Mons
+1 Treasonous Ogre
+1 Goblin Sharpshooter
+1 Skirk Prospector
+1 Lightning Crafter
+1 Goblin Chieftain
+1 Simian Spirit Guide
+1 Goblin Engineer
+1 Kiki-Jiki, Mirror Breaker
+1 Zealous Conscripts
+1 Imperial Recruiter
+1 Goblin Matron
+1 Moria Marauder
+1 Treasure Nabber
+1 Grenzo, Havoc Raiser
+1 Goblin Recruiter
+1 Marvin, Murderous Mimic
+1 Howlsquad Heavy
+1 Goblin Chirurgeon
+1 General Kreat, the Boltbringer
+1 Phyrexian Altar
+1 Mox Opal
+1 Mox Diamond
+1 Magewright's Stone
+1 Skullclamp
+1 Swiftfoot Boots
+1 Springleaf Drum
+1 Thousand-Year Elixir
+1 Thornbite Staff
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Lightning Greaves
+1 Sol Ring
+1 Staff of Domination
+1 Umbral Mantle
+1 Pyre of Heroes
+1 Ashnod's Altar
+1 Defense Grid
+1 The One Ring
+1 Sting, the Glinting Dagger
+1 Cursed Mirror
+1 Arcane Signet
+1 Ruby Medallion
+1 Abrade
+1 Mogg Salvage
+1 Lightning Bolt
+1 Pyroblast
+1 Brightstone Ritual
+1 Battle Hymn
+1 Red Elemental Blast
+1 Chaos Warp
+1 Final Fortune
+1 Deflecting Swat
+1 Flare of Duplication
+1 Wheel of Fortune
+1 Shatterskull Smashing
+1 Jeska's Will
+1 Gamble
+1 Wheel of Misfortune
+1 Underworld Breach
+1 Goblin Bombardment
+1 Ashling's Prerogative
+1 Mana Echoes
+1 Impact Tremors
+1 Mass Hysteria
+1 Urza's Saga
+1 Blood Moon
+1 Powerbalance
+1 Ancient Tomb
+1 Sandstone Needle
+1 Prismatic Vista
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Inventors' Fair
+1 Nykthos, Shrine to Nyx
+1 Arid Mesa
+1 Scalding Tarn
+1 Great Furnace
+1 Barbarian Ring
+1 Arena of Glory
+1 Three Tree City
+1 City of Traitors
+10 Mountain
+Sideboard
+1 Krenko, Mob Boss

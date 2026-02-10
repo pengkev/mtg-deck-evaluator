@@ -1,0 +1,85 @@
+1 Biowaste Blob
+1 Zimone, Quandrix Prodigy
+1 Crafty Cutpurse
+1 Kazandu Tuskcaller
+1 Rampaging Baloths
+1 Deekah, Fractal Theorist
+1 Tireless Provisioner
+1 Undercellar Myconid
+1 Birds of Paradise
+1 Esix, Fractal Bloom
+1 Reef Worm
+1 Chittering Dispatcher
+1 Octomancer
+1 Curiosity Crafter
+1 Coiling Oracle
+1 Junk Winder
+1 Tendershoot Dryad
+1 Jade Mage
+1 Hornet Queen
+1 Koma, World-Eater
+1 Myr Battlesphere
+1 Amphin Mutineer
+1 Sakura-Tribe Elder
+1 Arasta of the Endless Web
+1 Springheart Nantuko
+1 Hydra Broodmaster
+1 Terastodon
+1 Tender Wildguide
+1 Idol of Oblivion
+1 Combine Chrysalis
+1 Esika's Chariot
+1 Sol Ring
+1 Simic Signet
+1 Arcane Signet
+1 Krosan Grip
+1 Vapor Snag
+1 Theoretical Duplication
+1 Mana Leak
+1 Resculpt
+1 Return of the Wildspeaker
+1 Perplexing Test
+1 Rapid Hybridization
+1 Beast Within
+1 Growth Spasm
+1 Quasiduplicate
+1 Fungal Sprouting
+1 Spitting Image
+1 Shamanic Revelation
+1 Saheeli's Artistry
+1 Kodama's Reach
+1 Pest Infestation
+1 Replication Technique
+1 For the Common Good
+1 Farseek
+1 Ezuri's Predation
+1 Saproling Migration
+1 Ponder
+1 Curse of the Swine
+1 Rite of Replication
+1 Cultivate
+1 Rampant Growth
+1 Paradox Zone
+1 Doubling Season
+1 Garruk, Primal Hunter
+10 Forest
+1 Study Hall
+1 Novijen, Heart of Progress
+1 Oran-Rief, the Vastwood
+1 Blighted Woodland
+1 Myriad Landscape
+1 Botanical Sanctum
+1 Opal Palace
+1 Quandrix Campus
+1 Simic Growth Chamber
+1 Mosswort Bridge
+1 Yavimaya Coast
+1 Exotic Orchard
+1 Rogue's Passage
+1 Temple of the False God
+1 Temple of Mystery
+1 Command Tower
+8 Island
+1 Lumbering Falls
+Sideboard
+1 Adrix and Nev, Twincasters

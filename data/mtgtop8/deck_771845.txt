@@ -1,0 +1,93 @@
+1 Ingenious Prodigy
+1 Venerated Rotpriest
+1 Nightshade Dryad
+1 Grateful Apparition
+1 Sakura-Tribe Elder
+1 Hushbringer
+1 Cankerbloom
+1 Armored Scrapgorger
+1 Metastatic Evangel
+1 Scheming Aspirant
+1 Blighted Agent
+1 Flux Channeler
+1 Kutzil, Malamet Exemplar
+1 Evolution Sage
+1 Dreamtide Whale
+1 Ichor Rats
+1 Tromell, Seymour's Butler
+1 Bloated Contaminator
+1 Naru Meha, Master Wizard
+1 Viral Drake
+1 Tekuthal, Inquiry Dominus
+1 Crystalline Crawler
+1 Ezuri, Stalker of Spheres
+1 Contaminant Grafter
+1 Skithiryx, the Blight Dragon
+1 Everflowing Chalice
+1 Sol Ring
+1 Arcane Signet
+1 Pentad Prism
+1 Swiftfoot Boots
+1 Magistrate's Scepter
+1 Staff of Compleation
+1 Restoration Magic
+1 Dispel
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Wash Away
+1 Negate
+1 Reality Shift
+1 Arcane Denial
+1 Bovine Intervention
+1 Experimental Augury
+1 Dovin's Veto
+1 Prologue to Phyresis
+1 Infectious Bite
+1 Drown in the Loch
+1 Defabricate
+1 Reject Imperfection
+1 Ghostly Flicker
+1 Vraska's Fall
+1 Sudden Death
+1 Silundi Vision
+1 Radstorm
+1 Waterlogged Teachings
+1 Brokers Confluence
+1 Dig Through Time
+1 Thirsting Roots
+1 Ponder
+1 Dig Up
+1 Black Sun's Zenith
+1 White Sun's Twilight
+1 Infectious Inquiry
+1 Phyresis Outbreak
+1 Bridgeworks Battle
+1 Tezzeret's Gambit
+1 Planewide Celebration
+1 Phyrexian Arena
+1 Inexorable Tide
+1 Ashiok, Dream Render
+1 Caves of Koilos
+4 Forest
+2 Swamp
+1 Vivid Creek
+1 Plains
+5 Island
+1 Thriving Grove
+1 Vivid Marsh
+1 Exotic Orchard
+1 Krosan Verge
+1 Gemstone Mine
+1 Command Tower
+1 Yavimaya Coast
+1 Path of Ancestry
+1 Karn's Bastion
+1 Murmuring Bosk
+1 Tranquil Landscape
+1 Peat Bog
+1 Dromar's Cavern
+1 Llanowar Wastes
+1 Vivid Grove
+1 Prairie Stream
+Sideboard
+1 Atraxa, Praetors' Voice

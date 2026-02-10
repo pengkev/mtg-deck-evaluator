@@ -1,0 +1,101 @@
+1 Ardyn, the Usurper
+1 Auton Soldier
+1 Chameleon, Master of Disguise
+1 Clever Impersonator
+1 Clone
+1 Consecrated Sphinx
+1 Copycrook
+1 Deadeye Navigator
+1 Flesh Duplicate
+1 Gilded Drake
+1 Jin-Gitaxias, Core Augur
+1 Kozilek, Butcher of Truth
+1 Mirrorhall Mimic
+1 Nightmare Shepherd
+1 Orcish Bowmasters
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Roaming Throne
+1 Ruthless Technomancer
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Spark Double
+1 Sphinx of the Second Sun
+1 Starfield Vocalist
+1 Stunt Double
+1 Summon: Leviathan
+1 Superior Spider-Man
+1 Vizier of Many Faces
+1 Waxen Shapethief
+1 Y'shtola Rhul
+1 Arcane Signet
+1 Chrome Mox
+1 Dimir Signet
+1 Fellwar Stone
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sapphire Medallion
+1 Sol Ring
+1 Talisman of Dominance
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Cabal Ritual
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Essence Flux
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Lim-Dul's Vault
+1 Malakir Rebirth
+1 Mindbreak Trap
+1 Pact of Negation
+1 Sacrifice
+1 Saw in Half
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Imperial Seal
+1 Reanimate
+1 Splash Portal
+1 Toxic Deluge
+1 Animate Dead
+1 Dance of the Dead
+1 Heartless Summoning
+1 Mystic Remora
+1 Necromancy
+1 Rhystic Study
+1 Urza's Saga
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Mistrise Village
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Starting Town
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Gyruda, Doom of Depths

@@ -1,0 +1,93 @@
+1 Fate Unraveler
+1 Fog Bank
+1 Gomazoa
+1 Guard Gomazoa
+1 Hostage Taker
+1 Psychosis Crawler
+1 Red Death, Shipwrecker
+1 Scrawling Crawler
+1 Seizan, Perverter of Truth
+1 Silent Arbiter
+1 Sygg, River Cutthroat
+1 Tidehollow Strix
+1 Arcane Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Crawlspace
+1 Fellwar Stone
+1 Horn of Greed
+1 Howling Mine
+1 Isolation Cell
+1 Meekstone
+1 Mindslaver
+1 Obelisk of Grixis
+1 Otherworld Atlas
+1 Portcullis
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Venser's Journal
+1 Arcane Denial
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Countersquall
+1 Dark Ritual
+1 Dream Fracture
+1 Perplex
+1 Pongify
+1 Vision Skeins
+1 Blasphemous Act
+1 Curse of the Swine
+1 Minds Aglow
+1 Pact of the Serpent
+1 Skyscribing
+1 Sleep
+1 Time Reversal
+1 Windfall
+1 Archmage Ascension
+1 Descent into Avernus
+1 Dictate of Kruphix
+1 Dissipation Field
+1 Fevered Visions
+1 Forced Fruition
+1 Frozen Aether
+1 Improbable Alliance
+1 Leyline of the Void
+1 Meishin, the Mind Cage
+1 Phyresis
+1 Phyrexian Tyranny
+1 Planar Void
+1 Price of Knowledge
+1 Propaganda
+1 Spiteful Visions
+1 Tainted Remedy
+1 Web of Inertia
+1 Ob Nixilis, the Hate-Twisted
+1 Bloodfell Caves
+1 Command Tower
+1 Contaminated Aquifer
+1 Crumbling Necropolis
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Dreadship Reef
+1 Exotic Orchard
+1 Frost Marsh
+1 Grixis Panorama
+5 Island
+1 Izzet Boilerworks
+2 Mountain
+1 Nephalia Academy
+1 Reliquary Tower
+1 Riveteers Overlook
+1 Sea Gate
+1 Seething Landscape
+1 Smoldering Marsh
+4 Swamp
+1 Swiftwater Cliffs
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 Wandering Fumarole
+Sideboard
+1 Nekusar, the Mindrazer

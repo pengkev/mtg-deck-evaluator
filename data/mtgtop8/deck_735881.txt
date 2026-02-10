@@ -1,0 +1,86 @@
+1 Basilica Guards
+1 Blood Artist
+1 Cat Collector
+1 Elas il-Kor, Sadistic Pilgrim
+1 Impassioned Orator
+1 Locke Cole
+1 Mentor of the Meek
+1 Murderous Rider
+1 Nykthos Paragon
+1 Papalymo Totolymo
+1 Regna, the Redeemer
+1 Rumor Gatherer
+1 Soul Warden
+1 Starry-Eyed Skyrider
+1 Stormscape Familiar
+1 Talrand, Sky Summoner
+1 Vito, Thorn of the Dusk Rose
+1 Welcoming Vampire
+1 Arcane Signet
+1 Azorius Signet
+1 Black Mage's Rod
+1 Dimir Signet
+1 Fellwar Stone
+1 Giant's Amulet
+1 Idol of Oblivion
+1 Neurok Stealthsuit
+1 Orzhov Signet
+1 Sol Ring
+1 Talisman of Progress
+1 The Wind Crystal
+1 Well of Lost Dreams
+1 An Offer You Can't Refuse
+1 Azorius Charm
+1 Counterspell
+1 Despark
+1 Dig Through Time
+1 Esper Charm
+1 Fracture
+1 Frantic Search
+1 Impulse
+1 Lethal Scheme
+1 Mortify
+1 Negate
+1 Reality Shift
+1 Restoration Magic
+1 Revitalize
+1 Transpose
+1 Unwind
+1 Void Rend
+1 Circle of Power
+1 Cornered by Black Mages
+1 Ajani's Welcome
+1 Ashes of the Abhorrent
+1 Blind Obedience
+1 Divine Visitation
+1 Griffin Aerie
+1 Intangible Virtue
+1 Leyline of Anticipation
+1 Phyrexian Arena
+1 Polluted Bonds
+1 Reconnaissance
+1 Shark Typhoon
+1 Tocasia's Welcome
+1 Adventurer's Inn
+1 Arcane Sanctum
+1 Command Tower
+1 Contaminated Landscape
+1 Crossroads Village
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Evolving Wilds
+1 Exotic Orchard
+1 Forlorn Flats
+1 Gloomlake Verge
+1 Halimar Depths
+6 Island
+1 Obscura Storefront
+1 Orzhov Basilica
+1 Path of Ancestry
+8 Plains
+1 Radiant Fountain
+4 Swamp
+1 Tainted Field
+1 Thriving Moor
+Sideboard
+1 G'raha Tia, Scion Reborn

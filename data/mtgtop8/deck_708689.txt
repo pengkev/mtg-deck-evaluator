@@ -1,0 +1,84 @@
+1 Torbran, Thane of Red Fell
+1 Essence Warden
+1 Sakura-Tribe Elder
+1 Soul Warden
+1 Wall of Omens
+1 Champion of Lambholt
+1 Saltskitter
+1 Wall of Blossoms
+1 Soul of the Harvest
+1 Skullwinder
+1 End-Raze Forerunners
+1 Giver of Runes
+1 Mentor of the Meek
+1 Kodama of the East Tree
+1 Heronblade Elite
+1 Rumor Gatherer
+1 Witty Roastmaster
+1 Gandalf the White
+1 Samwise Gamgee
+1 Saradoc, Master of Buckland
+1 Legolas Greenleaf
+1 Gimli of the Glittering Caves
+1 Boss's Chauffeur
+1 Rose Room Treasurer
+1 Angelic Sell-Sword
+1 Molten Gatekeeper
+1 Arbaaz Mir
+1 Enduring Innocence
+1 General Kreat, the Boltbringer
+1 Norin the Wary
+1 Welcoming Vampire
+1 Gala Greeters
+1 Irreverent Gremlin
+1 Arcane Signet
+1 Genesis Chamber
+1 Panharmonicon
+1 Talisman of Conviction
+1 Talisman of Impulse
+1 Talisman of Unity
+1 Beast Within
+1 Chaos Warp
+1 Path to Exile
+1 Swords to Plowshares
+1 Generous Gift
+1 Reprieve
+1 Stroke of Midnight
+1 Farseek
+1 Rampant Growth
+1 Blasphemous Act
+1 Dusk/Dawn
+1 Kodama's Reach
+1 Austere Command
+1 Cultivate
+1 Impact Tremors
+1 Warstorm Surge
+1 Outpost Siege
+1 Blessed Sanctuary
+1 Path of Discovery
+1 Confusion in the Ranks
+1 Tocasia's Welcome
+1 Warleader's Call
+6 Mountain
+7 Plains
+7 Forest
+1 Temple of Plenty
+1 Temple of Abandon
+1 Command Tower
+1 Jungle Shrine
+1 Temple of Triumph
+1 Exotic Orchard
+1 Cinder Glade
+1 Brushland
+1 Karplusan Forest
+1 Canopy Vista
+1 Game Trail
+1 Fortified Village
+1 Battlefield Forge
+1 Rootbound Crag
+1 Sunpetal Grove
+1 Clifftop Retreat
+1 Furycalm Snarl
+1 Rockfall Vale
+Sideboard
+1 Rocco, Cabaretti Caterer

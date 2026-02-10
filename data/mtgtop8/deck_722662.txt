@@ -1,0 +1,92 @@
+1 Puresteel Paladin
+1 Commander Sofia Daguerre
+1 Three Dog, Galaxy News DJ
+1 Cass, Hand of Vengeance
+1 Mister Gutsy
+1 Cait, Cage Brawler
+1 Armory Paladin
+1 Bighorner Rancher
+1 Crimson Caravaneer
+1 Super Mutant Scavenger
+1 Brotherhood Outcast
+1 Codsworth, Handy Helper
+1 Gunner Conscript
+1 Paladin Danse, Steel Maverick
+1 Sentinel Sarah Lyons
+1 Solemn Simulacrum
+1 Preston Garvey, Minuteman
+1 Kusari-Gama
+1 Sensei's Divining Top
+1 Basilisk Collar
+1 Whispersilk Cloak
+1 Behemoth Sledge
+1 Mirrorworks
+1 Swiftfoot Boots
+1 Sol Ring
+1 Colossus Hammer
+1 Brass Knuckles
+1 Intelligence Bobblehead
+1 Perception Bobblehead
+1 Silver Shroud Costume
+1 Pre-War Formalwear
+1 Bloodforged Battle-Axe
+1 Junk Jet
+1 Agility Bobblehead
+1 Endurance Bobblehead
+1 Mystic Forge
+1 Fireshrieker
+1 Masterwork of Ingenuity
+1 Champion's Helm
+1 Path to Exile
+1 Heroic Intervention
+1 Swords to Plowshares
+1 Inventory Management
+1 Single Combat
+1 Blasphemous Act
+1 Divine Reckoning
+1 Austere Command
+1 Wake the Past
+1 All That Glitters
+1 Wild Growth
+1 Sigarda's Aid
+1 Rancor
+1 Fertile Ground
+1 Minimus Containment
+1 Fighter Class
+1 Sticky Fingers
+1 Vault 101: Birthday Party
+1 Idolized
+1 Almost Perfect
+1 Mantle of the Ancients
+1 Animal Friend
+1 Grim Reaper's Sprint
+1 Strong Back
+4 Plains
+4 Forest
+4 Mountain
+1 Jungle Shrine
+1 Buried Ruin
+1 Needle Spires
+1 Boros Garrison
+1 Slayers' Stronghold
+1 Sungrass Prairie
+1 Rogue's Passage
+1 Command Tower
+1 Temple of the False God
+1 Junktown
+1 Roadside Reliquary
+1 Scattered Groves
+1 Treasure Vault
+1 Rootbound Crag
+1 Clifftop Retreat
+1 Temple of Triumph
+1 Evolving Wilds
+1 Sunpetal Grove
+1 Cinder Glade
+1 Canopy Vista
+1 Temple of Plenty
+1 Mossfire Valley
+1 Sheltered Thicket
+1 Temple of Abandon
+Sideboard
+1 Dogmeat, Ever Loyal

@@ -1,0 +1,97 @@
+1 Verge Rangers
+1 Brightling
+1 Wilt-Leaf Liege
+1 Mockingbird
+1 Thalia, Guardian of Thraben
+1 Haliya, Ascendant Cadet
+1 Spore Frog
+1 Aerith Gainsborough
+1 Sunstar Chaplain
+1 Pathbreaker Ibex
+1 Sita Varma, Masked Racer
+1 Enduring Vitality
+1 Thalia, Heretic Cathar
+1 Enduring Innocence
+1 Gala Greeters
+1 Silverback Elder
+1 Silent Hallcreeper
+1 Bulwark Ox
+1 Bounty Agent
+1 Aegis of the Gods
+1 Benevolent Bodyguard
+1 The Reality Chip
+1 Absolute Virtue
+1 Mausoleum Wanderer
+1 Knight of Autumn
+1 Llanowar Elves
+1 Captain Sisay
+1 Chameleon, Master of Disguise
+1 Fyndhorn Elves
+1 Dauntless Escort
+1 Koma, World-Eater
+1 Incubation Druid
+1 Phyrexian Walker
+1 Frontline Medic
+1 Finneas, Ace Archer
+1 Sol Ring
+1 Relic of Legends
+1 Arcane Signet
+1 Conjurer's Closet
+1 Eerie Interlude
+1 Spider-Sense
+1 Worldly Tutor
+1 Rapid Hybridization
+1 Heroic Intervention
+1 Snakeskin Veil
+1 Miscast
+1 Flawless Maneuver
+1 Path to Exile
+1 Brainstorm
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Nature's Claim
+1 Airbender Ascension
+1 Monologue Tax
+1 Impostor Syndrome
+1 Promise of Tomorrow
+1 Growing Rites of Itlimoc
+1 Brave the Sands
+1 Friendly Neighborhood
+1 Gift of Immortality
+1 Wedding Announcement
+1 Mystic Remora
+1 Origin of Spider-Man
+1 Unquestioned Authority
+1 Ghostly Prison
+1 Teleportation Circle
+1 Dollmaker's Shop/Porcelain Gallery
+1 Seaside Citadel
+1 Grasslands
+2 Forest
+1 Selesnya Sanctuary
+1 Command Tower
+1 Lonely Sandbar
+1 Breeding Pool
+1 Exotic Orchard
+1 Vivid Creek
+1 Floodfarm Verge
+1 Blossoming Sands
+1 Flooded Grove
+1 Urban Retreat
+3 Plains
+1 Vivid Meadow
+1 Multiversal Passage
+1 Simic Guildgate
+1 Overgrown Farmland
+1 Deserted Beach
+2 Island
+1 Rogue's Passage
+1 Coral Atoll
+1 Uncharted Haven
+1 Prairie Stream
+1 Dreamroot Cascade
+1 Sandstone Bridge
+1 Jungle Basin
+1 Path of Ancestry
+Sideboard
+1 Galadriel, Light of Valinor

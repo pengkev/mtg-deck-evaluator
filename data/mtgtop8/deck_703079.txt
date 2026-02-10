@@ -1,0 +1,73 @@
+1 Abzan Falconer
+1 Adeline, Resplendent Cathar
+1 Ancient Gold Dragon
+1 Ashaya, Soul of the Wild
+1 Avacyn's Pilgrim
+1 Basking Broodscale
+1 Birds of Paradise
+1 Bristly Bill, Spine Sower
+1 Champion of Lambholt
+1 Delighted Halfling
+1 Drannith Magistrate
+1 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Mother of Machines
+1 Elvish Mystic
+1 Enduring Vitality
+1 Esper Sentinel
+1 Fyndhorn Elves
+1 Jacked Rabbit
+1 Jaheira, Friend of the Forest
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Llanowar Elves
+1 Llanowar Loamspeaker
+1 Mondrak, Glory Dominus
+1 Myrel, Shield of Argive
+1 Ocelot Pride
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Roaming Throne
+1 Scute Swarm
+1 Scythecat Cub
+1 Walking Ballista
+1 Arcane Signet
+1 Mox Amber
+1 Sol Ring
+1 Sword of Feast and Famine
+1 The Great Henge
+1 The One Ring
+1 The Ozolith
+1 Akroma's Will
+1 Enlightened Tutor
+1 Grand Crescendo
+1 Heroic Intervention
+1 Krosan Grip
+1 Legolas's Quick Reflexes
+1 Rebuff the Wicked
+1 Secure the Wastes
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Awaken the Woods
+1 Cultivate
+1 Damning Verdict
+1 Green Sun's Zenith
+1 Natural Order
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Three Visits
+1 Traverse the Outlands
+1 Anointed Procession
+1 Doubling Season
+1 Parallel Lives
+1 Resourceful Defense
+15 Forest
+15 Plains
+1 Bountiful Promenade
+1 Command Tower
+1 Restless Prairie
+1 Temple Garden
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Black Panther, Wakandan King

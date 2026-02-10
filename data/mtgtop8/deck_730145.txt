@@ -1,0 +1,85 @@
+1 Vizier of Tumbling Sands
+1 Traxos, Scourge of Kroog
+1 Battered Golem
+1 Phyrexian Metamorph
+1 Malevolent Hermit
+1 Hullbreaker Horror
+1 Displacer Kitten
+1 Unctus, Grand Metatect
+1 Faerie Mastermind
+1 Tishana's Tidebinder
+1 Forensic Gadgeteer
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Sensei's Divining Top
+1 Grafdigger's Cage
+1 Grinding Station
+1 Fellwar Stone
+1 Mana Vault
+1 Jeweled Amulet
+1 Basalt Monolith
+1 Sol Ring
+1 Rings of Brighthearth
+1 Voltaic Key
+1 Expedition Map
+1 Everflowing Chalice
+1 Aether Spellbomb
+1 Chrome Mox
+1 Lightning Greaves
+1 Lotus Petal
+1 Grim Monolith
+1 Torpor Orb
+1 Mox Opal
+1 Arcum's Astrolabe
+1 Manifold Key
+1 Arcane Signet
+1 Eye of Vecna
+1 Moonsnare Prototype
+1 Imposter Mech
+1 Gerrard's Hourglass Pendant
+1 Staff of Compleation
+1 The One Ring
+1 The Enigma Jewel
+1 Disruptor Flute
+1 Dramatic Reversal
+1 Paradoxical Outcome
+1 Force of Will
+1 Retraction Helix
+1 Mystical Tutor
+1 Banishing Knack
+1 Mana Drain
+1 Mindbreak Trap
+1 Turnabout
+1 Submerge
+1 Mental Misstep
+1 Cyclonic Rift
+1 Swan Song
+1 Muddle the Mixture
+1 Flusterstorm
+1 Force of Negation
+1 Fierce Guardianship
+1 Strix Serenade
+1 Sink into Stupor
+1 Delightful Discovery
+1 Transmute Artifact
+1 Of One Mind
+1 Sea Gate Restoration
+1 Lorien Revealed
+1 Power Artifact
+1 Mystic Remora
+1 Copy Artifact
+1 Rhystic Study
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Narset, Parter of Veils
+1 Inventors' Fair
+1 Minamo, School at Water's Edge
+17 Snow-Covered Island
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Homeward Path
+1 Emergence Zone
+1 Otawara, Soaring City
+1 Talon Gates of Madara
+Sideboard
+1 Urza, Lord High Artificer

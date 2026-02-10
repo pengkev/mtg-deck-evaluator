@@ -1,0 +1,101 @@
+1 Ardyn, the Usurper
+1 Auton Soldier
+1 Blood Pet
+1 Callidus Assassin
+1 Chameleon, Master of Disguise
+1 Clever Impersonator
+1 Clone
+1 Copycrook
+1 Deadeye Navigator
+1 Deceptive Frostkite
+1 Demon of Dark Schemes
+1 Diamond Lion
+1 Evil Twin
+1 Flesh Duplicate
+1 Gigantoplasm
+1 Hoarding Broodlord
+1 Hydroelectric Specimen
+1 Metamorphosis Fanatic
+1 Mirrorhall Mimic
+1 Naga Fleshcrafter
+1 Overeager Apprentice
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Roaming Throne
+1 Ruthless Technomancer
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Sakashima's Protege
+1 Sakashima's Student
+1 Soldevi Adnate
+1 Spark Double
+1 Starfield Vocalist
+1 Stunt Double
+1 Superior Spider-Man
+1 Thassa, Deep-Dwelling
+1 Undercover Operative
+1 Visage Bandit
+1 Vizier of Many Faces
+1 Wall of Stolen Identity
+1 Waxen Shapethief
+1 Y'shtola Rhul
+1 Arcane Signet
+1 Chrome Mox
+1 Dimir Signet
+1 Fellwar Stone
+1 Grim Monolith
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Dominance
+1 Voltaic Key
+1 Cabal Ritual
+1 Commandeer
+1 Dark Ritual
+1 Daze
+1 Fell the Profane
+1 Force of Will
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Sink into Stupor
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Imperial Seal
+1 Copy Artifact
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Flooded Strand
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Starting Town
+1 Swamp
+1 Undercity Sewers
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Gyruda, Doom of Depths

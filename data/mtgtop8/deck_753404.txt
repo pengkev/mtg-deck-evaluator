@@ -1,0 +1,101 @@
+1 Talon Gates of Madara
+1 Takenuma, Abandoned Mire
+1 Swamp
+1 Shifting Woodland
+1 Polluted Delta
+1 Phyrexian Tower
+1 Overgrown Tomb
+1 Marsh Flats
+1 Mana Confluence
+1 Llanowar Wastes
+1 High Market
+1 Gemstone Caverns
+1 Gaea's Cradle
+1 Forest
+1 Emergence Zone
+1 Command Tower
+1 City of Brass
+1 Boseiju, Who Endures
+1 Bloodstained Mire
+1 Bayou
+1 Ancient Tomb
+1 Wild Growth
+1 Urza's Saga
+1 Sylvan Library
+1 Survival of the Fittest
+1 Pattern of Rebirth
+1 Necropotence
+1 Necromancy
+1 Exquisite Blood
+1 Reanimate
+1 Nature's Rhythm
+1 Natural Order
+1 Imperial Seal
+1 Eldritch Evolution
+1 Diabolic Intent
+1 Demonic Tutor
+1 Culling Ritual
+1 Beseech the Mirror
+1 Worldly Tutor
+1 Veil of Summer
+1 Vampiric Tutor
+1 Summoner's Pact
+1 Savage Summoning
+1 Force of Vigor
+1 Entomb
+1 Dismember
+1 Dark Ritual
+1 Crop Rotation
+1 Chord of Calling
+1 Assassin's Trophy
+1 Abrupt Decay
+1 The One Ring
+1 Springleaf Drum
+1 Sol Ring
+1 Mox Diamond
+1 Mox Amber
+1 Mana Vault
+1 Lotus Petal
+1 Chrome Mox
+1 Bolas's Citadel
+1 Birthing Pod
+1 Arcane Signet
+1 Yawgmoth, Thran Physician
+1 Warren Soultrader
+1 Sylvan Safekeeper
+1 Protean Hulk
+1 Prosperous Innkeeper
+1 Orcish Bowmasters
+1 Opposition Agent
+1 Llanowar Elves
+1 Kona, Rescue Beastie
+1 Haywire Mite
+1 Hapatra, Vizier of Poisons
+1 Forsaken Miner
+1 Essence Warden
+1 Enduring Vitality
+1 Endurance
+1 Elvish Spirit Guide
+1 Elves of Deep Shadow
+1 Eladamri, Korvecdal
+1 Dosan the Falling Leaf
+1 Destiny Spinner
+1 Delighted Halfling
+1 Deathrite Shaman
+1 Dauthi Voidwalker
+1 Dark Confidant
+1 Chatterfang, Squirrel General
+1 Carrion Feeder
+1 Body Snatcher
+1 Bloodthirsty Conqueror
+1 Blood Artist
+1 Birds of Paradise
+1 Allosaurus Shepherd
+1 Activated Sleeper
+1 Wooded Foothills
+1 Windswept Heath
+1 Verdant Catacombs
+1 Undergrowth Stadium
+1 Underground Mortuary
+Sideboard
+1 Dina, Soul Steeper

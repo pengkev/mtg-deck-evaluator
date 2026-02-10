@@ -1,0 +1,93 @@
+1 Windswept Heath
+1 Treasure Vault
+1 The Mycosynth Gardens
+9 Snow-Covered Plains
+1 Prismatic Vista
+1 Plaza of Heroes
+1 Marsh Flats
+1 Inventors' Fair
+1 Gemstone Caverns
+1 Fomori Vault
+1 Flooded Strand
+1 Eiganjo, Seat of the Empire
+1 Eiganjo Castle
+1 Darksteel Citadel
+1 Buried Ruin
+1 Arid Mesa
+1 Ancient Tomb
+1 Ancient Den
+1 Tezzeret, Cruel Captain
+1 Urza's Saga
+1 Touch the Spirit Realm
+1 Smothering Tithe
+1 Blind Obedience
+1 Sevinne's Reclamation
+1 Swords to Plowshares
+1 Silence
+1 Razorgrass Ambush
+1 Path to Exile
+1 March of Otherworldly Light
+1 Get Lost
+1 Galadriel's Dismissal
+1 Flare of Fortitude
+1 Enlightened Tutor
+1 Dispatch
+1 Dawn's Truce
+1 Angel's Grace
+1 Winter Orb
+1 Voltaic Key
+1 Vexing Bauble
+1 Trinisphere
+1 Torpor Orb
+1 Thousand-Year Elixir
+1 The One Ring
+1 Tangle Wire
+1 Staff of Domination
+1 Sphere of Resistance
+1 Sol Ring
+1 Sensei's Divining Top
+1 Sculpting Steel
+1 Rings of Brighthearth
+1 Prized Statue
+1 Portable Hole
+1 Pithing Needle
+1 Peter Parker's Camera
+1 Mystic Forge
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Manifold Key
+1 Mana Vault
+1 Magewright's Stone
+1 Lotus Petal
+1 Jeweled Amulet
+1 Grim Monolith
+1 Grafdigger's Cage
+1 Everflowing Chalice
+1 Ensnaring Bridge
+1 Dusk Rose Reliquary
+1 Damping Sphere
+1 Conjurer's Bauble
+1 Codex Shredder
+1 Clock of Omens
+1 Chrome Mox
+1 Basalt Monolith
+1 Arcane Signet
+1 Witch Enchanter
+1 Voice of Victory
+1 Soulless Jailer
+1 Skrelv, Defector Mite
+1 Ranger-Captain of Eos
+1 Mother of Runes
+1 Marvin, Murderous Mimic
+1 Liberator, Urza's Battlethopter
+1 Hushbringer
+1 Grand Abolisher
+1 Giver of Runes
+1 Ethersworn Canonist
+1 Esper Sentinel
+1 Drannith Magistrate
+1 Boromir, Warden of the Tower
+1 Archivist of Oghma
+Sideboard
+1 Oswald Fiddlebender

@@ -1,0 +1,78 @@
+1 Brokkos, Apex of Forever
+1 Gemrazer
+1 Llanowar Elves
+1 Forgotten Ancient
+1 Cold-Eyed Selkie
+1 Cleopatra, Exiled Pharaoh
+1 Birds of Paradise
+1 Gonti, Night Minister
+1 Felix Five-Boots
+1 Basilisk Collar
+1 Swiftfoot Boots
+1 Loxodon Warhammer
+1 Sword of the Animist
+1 Conqueror's Flail
+1 Sol Ring
+1 Inquisitor's Flail
+1 Lightning Greaves
+1 Sword of Vengeance
+1 Winged Boots
+1 Blackblade Reforged
+1 Sword of Forge and Frontier
+1 Arcane Signet
+1 Sword of Once and Future
+1 Champion's Helm
+1 Power Fist
+1 Trailblazer's Boots
+1 Talisman of Resilience
+1 Brotherhood Regalia
+1 Excalibur, Sword of Eden
+1 Leyline Axe
+1 Fireshrieker
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Dragonfire Blade
+1 Beast Within
+1 Dark Ritual
+1 Blossoming Defense
+1 Negate
+1 Counterspell
+1 Infernal Grasp
+1 Arcane Denial
+1 Pongify
+1 Snakeskin Veil
+1 An Offer You Can't Refuse
+1 Nature's Lore
+1 Rampant Growth
+1 Farseek
+1 Villainous Wealth
+1 Three Visits
+1 Enter the Enigma
+1 Cloak of Mists
+1 Rancor
+1 Shielding Plax
+1 Aether Tunnel
+1 Arcane Flight
+1 Aqueous Form
+1 Favor of the Overbeing
+1 Vesuvan Duplimancy
+1 Giant Inheritance
+1 Indomitable Might
+1 Strong Back
+1 Propaganda
+1 Phyrexian Arena
+1 Tasha, the Witch Queen
+1 Llanowar Wastes
+1 Woodland Cemetery
+1 Exotic Orchard
+1 Command Tower
+1 Hinterland Harbor
+1 Yavimaya Coast
+1 Drowned Catacomb
+1 Underground River
+1 Opulent Palace
+10 Forest
+9 Island
+7 Swamp
+Sideboard
+1 Kotis, the Fangkeeper

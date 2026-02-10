@@ -1,0 +1,87 @@
+1 Lightning Bolt
+1 Tibalt's Trickery
+1 Unlicensed Hearse
+1 Untimely Malfunction
+1 Vandalblast
+1 Zoyowa's Justice
+1 Lotus Petal
+1 Mana Vault
+1 Maskwood Nexus
+1 Mirror of the Forebears
+1 Molten Duplication
+1 Mox Opal
+1 Portal to Phyrexia
+1 Pyre of Heroes
+1 Pyroblast
+1 Pyrokinesis
+1 Sculpting Steel
+1 Siege Smash
+1 Dwarven Armorer
+1 Dwarven Scorcher
+1 Goblin Engineer
+1 Goblin Welder
+1 Knuckles the Echidna
+1 Liberated Dwarf
+1 Dwarven Grunt
+1 Adaptive Automaton
+1 Barkform Harvester
+1 Battered Golem
+1 Bloodfire Dwarf
+1 Dualcaster Mage
+1 Bloodline Pretender
+1 Spark Mage
+1 Twinshot Sniper
+1 Universal Automaton
+1 Xorn
+1 Three Tree Mascot
+1 Magda, the Hoardmaster
+1 Metallic Mimic
+1 Simian Spirit Guide
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Realm-Scorcher Hellkite
+1 Roaming Throne
+1 Shatterskull Smashing
+1 Fountainport
+1 Holdout Settlement
+1 Kavaron, Memorial World
+1 Ancient Tomb
+1 Arena of Glory
+1 Cavern of Souls
+1 Command Beacon
+1 Survivors' Encampment
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Urza's Saga
+1 Mutavault
+1 Plaza of Heroes
+15 Mountain
+1 The One Ring
+1 Stoke the Flames
+1 Springleaf Drum
+1 Spine of Ish Sah
+1 Sol Ring
+1 Smuggler's Copter
+1 Deflecting Swat
+1 Dead/Gone
+1 Cursed Mirror
+1 Clown Car
+1 Clock of Omens
+1 Chrome Mox
+1 Bottle-Cap Blast
+1 Lifecraft Engine
+1 Blasphemous Act
+1 Abrade
+1 Sundering Eruption
+1 Jeska's Will
+1 High-Speed Hoverbike
+1 Heat Shimmer
+1 Guild Artisan
+1 God-Pharaoh's Statue
+1 Ghostfire Slice
+1 Galvanic Blast
+1 Flywheel Racer
+1 Flare of Duplication
+1 Eriette's Tempting Apple
+Sideboard
+1 Magda, Brazen Outlaw

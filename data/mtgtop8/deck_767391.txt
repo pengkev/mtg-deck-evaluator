@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Electro, Assaulting Battery
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Ral, Monsoon Mage
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Arcane Signet
+1 Chrome Mox
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Ruby Medallion
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Creativity
+1 The One Ring
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Daze
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dizzy Spell
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Final Fortune
+1 Flusterstorm
+1 Force of Will
+1 Intuition
+1 Lightning Bolt
+1 Mental Misstep
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Secret Identity
+1 Seething Song
+1 Snap
+1 Virtue of Courage
+1 Displacement Wave
+1 Embrace the Unknown
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Jeska's Will
+1 Light Up the Stage
+1 Past in Flames
+1 Ponder
+1 Preordain
+1 Rite of Flame
+1 Solve the Equation
+1 Stock Up
+1 Strike It Rich
+1 Timetwister
+1 Wheel of Fortune
+1 Will of the Jeskai
+1 Curiosity
+1 Mirrormade
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Vivi Ornitier

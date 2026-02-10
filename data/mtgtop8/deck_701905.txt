@@ -1,0 +1,72 @@
+1 Dungrove Elder
+1 Great Oak Guardian
+1 Rampaging Baloths
+1 Ulvenwald Observer
+1 Cloudthresher
+1 Garruk's Packleader
+1 Ancient Ooze
+1 Prowling Serpopard
+1 Blightsteel Colossus
+1 Llanowar Elves
+1 Deceiver of Form
+1 Thought-Knot Seer
+1 Metalwork Colossus
+1 Gigantosaurus
+1 Thorn Elemental
+1 Soul of the Harvest
+1 Verdant Force
+1 Symbiotic Wurm
+1 Mossbridge Troll
+1 Fyndhorn Elves
+1 End-Raze Forerunners
+1 Terastodon
+1 Deathcoil Wurm
+1 Spearbreaker Behemoth
+1 Spring-Leaf Avenger
+1 Woodfall Primus
+1 Earthquake Dragon
+1 Gate Colossus
+1 Old One Eye
+1 Surrak and Goreclaw
+1 Elvish Mystic
+1 Molimo, Maro-Sorcerer
+1 Saryth, the Viper's Fang
+1 Toski, Bearer of Secrets
+1 Rumbleweed
+1 Thief of Existence
+1 Fanatic of Rhonas
+1 Kodama of the East Tree
+1 Seeker of Skybreak
+1 Altanak, the Thrice-Called
+1 Worldspine Wurm
+1 Moldgraf Monstrosity
+1 Ghalta, Primal Hunger
+1 Cultivator Colossus
+1 Agonasaur Rex
+1 Impervious Greatwurm
+1 Sol Ring
+1 Whispersilk Cloak
+1 Puppet Strings
+1 Swiftfoot Boots
+1 Lavaspur Boots
+1 Fog
+1 Vitalize
+1 Smuggler's Surprise
+1 Snakeskin Veil
+1 Restock
+1 Regrowth
+1 Explore
+1 Harmonize
+1 Rishkar's Expertise
+1 Cultivate
+1 Dense Foliage
+1 Sylvan Anthem
+1 Unnatural Growth
+1 Abundance
+1 Greater Good
+1 Garruk's Uprising
+1 Silken Strength
+1 Life Finds a Way
+30 Forest
+Sideboard
+1 Oviya, Automech Artisan

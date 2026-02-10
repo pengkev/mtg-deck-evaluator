@@ -1,0 +1,101 @@
+1 Karn, the Great Creator
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Windfall
+1 Imperial Seal
+1 Final Parting
+1 Reconstruction
+1 Yawgmoth's Will
+1 Diabolic Intent
+1 Reanimate
+1 Swan Song
+1 Trickbind
+1 Into the Flood Maw
+1 Flusterstorm
+1 Commandeer
+1 Mindbreak Trap
+1 Mana Drain
+1 Culling the Weak
+1 Cyclonic Rift
+1 Borne Upon a Wind
+1 Pact of Negation
+1 Fierce Guardianship
+1 Deadly Rollick
+1 An Offer You Can't Refuse
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Mental Misstep
+1 Demonic Consultation
+1 Dark Ritual
+1 Force of Will
+1 Gifts Ungiven
+1 Force of Negation
+1 Whir of Invention
+1 Tainted Pact
+1 Cabal Ritual
+1 Chain of Vapor
+1 Muddle the Mixture
+1 Intuition
+1 Vexing Bauble
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Sol Ring
+1 The One Ring
+1 Sensei's Divining Top
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Time Sieve
+1 Mox Opal
+1 Chrome Mox
+1 Jeweled Amulet
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Mastermind Plum
+1 Greedy Freebooter
+1 Roaming Throne
+1 Kitesail Larcenist
+1 Malcolm, Alluring Scoundrel
+1 Spyglass Siren
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Snapcaster Mage
+1 Grim Hireling
+1 Opposition Agent
+1 Siren Stormtamer
+1 Consecrated Sphinx
+1 Phantasmal Image
+1 Spectral Sailor
+1 Walking Ballista
+1 Spire of Industry
+1 Gloomlake Verge
+1 Talon Gates of Madara
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Minamo, School at Water's Edge
+1 Command Tower
+1 Underground River
+1 Forbidden Orchard
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Swamp
+1 Island
+1 Clearwater Pathway
+1 City of Brass
+1 Cephalid Coliseum
+1 Polluted Delta
+1 Mana Confluence
+1 Emergence Zone
+1 Underground Sea
+1 Sunken Ruins
+1 Flooded Strand
+1 Watery Grave
+1 City of Traitors
+1 Urza's Saga
+Sideboard
+1 Francisco, Fowl Marauder
+1 Malcolm, Keen-Eyed Navigator

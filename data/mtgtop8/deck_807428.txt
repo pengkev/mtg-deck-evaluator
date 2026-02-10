@@ -1,0 +1,84 @@
+1 Academy Manufactor
+1 Adaptive Automaton
+1 Axgard Artisan
+1 Axgard Cavalry
+1 Barkform Harvester
+1 Battered Golem
+1 Bloodfire Dwarf
+1 Bloodline Pretender
+1 Dwarven Armorer
+1 Dwarven Grunt
+1 Dwarven Miner
+1 Dwarven Recruiter
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Fire-Belly Changeling
+1 Gloin, Dwarf Emissary
+1 Knuckles the Echidna
+1 Liberated Dwarf
+1 Metallic Mimic
+1 Meteor Golem
+1 Plundering Barbarian
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+7 Seven Dwarves
+1 Spark Mage
+1 Three Tree Mascot
+1 Universal Automaton
+1 Vault Robber
+1 Walking Ballista
+1 Adventuring Gear
+1 Arcane Signet
+1 Chrome Mox
+1 Clock of Omens
+1 Damping Sphere
+1 Disruptor Flute
+1 Elixir of Immortality
+1 God-Pharaoh's Statue
+1 Grafdigger's Cage
+1 Knowledge Pool
+1 Lifecraft Engine
+1 Lotus Petal
+1 Magistrate's Scepter
+1 Maskwood Nexus
+1 Sol Ring
+1 Spine of Ish Sah
+1 Springleaf Drum
+1 Vexing Bauble
+1 Abrade
+1 Active Volcano
+1 Barbed Lightning
+1 Barrel Down Sokenzan
+1 Betrayer's Bargain
+1 Blades of Velis Vel
+1 Bottle-Cap Blast
+1 Chaos Warp
+1 Deflecting Swat
+1 Lightning Bolt
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Siege Smash
+1 Abandon the Post
+1 Acidic Soil
+1 Act of Treason
+1 Jeska's Will
+1 Seize the Spoils
+1 Aggravated Assault
+1 Blood Moon
+1 Magnetic Mountain
+1 Ancient Tomb
+1 Barbarian Ring
+1 Cavern of Souls
+1 Crystal Vein
+1 Dwarven Mine
+1 Gemstone Caverns
+1 Holdout Settlement
+12 Mountain
+1 Nykthos, Shrine to Nyx
+1 Ramunap Ruins
+1 Survivors' Encampment
+1 Treasure Vault
+1 Volatile Fault
+Sideboard
+1 Magda, Brazen Outlaw

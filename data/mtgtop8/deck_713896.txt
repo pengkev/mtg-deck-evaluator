@@ -1,0 +1,83 @@
+1 Needleverge Pathway
+1 Agate Instigator
+1 Benevolent Bodyguard
+1 Combat Celebrant
+1 Gisela, Blade of Goldnight
+1 Goldnight Commander
+1 Grateful Apparition
+1 Knight of the White Orchid
+1 Molten Gatekeeper
+1 Mother of Runes
+1 Neyali, Suns' Vanguard
+1 Odric, Lunarch Marshal
+1 Selfless Savior
+1 Selfless Spirit
+1 Weathered Wayfarer
+1 Welcoming Vampire
+1 Witch Enchanter
+1 Witty Roastmaster
+1 Cut a Deal
+1 Faithless Looting
+1 Overpowering Attack
+1 Rip Apart
+1 Seize the Spoils
+1 Single Combat
+1 Slaughter the Strong
+1 Thrilling Discovery
+1 World at War
+1 Battle Hymn
+1 Big Score
+1 Blacksmith's Skill
+1 Boros Charm
+1 Chant of Vitu-Ghazi
+1 Chaos Warp
+1 Dawn Charm
+1 Dawn's Truce
+1 Destroy Evil
+1 Flawless Maneuver
+1 Generous Gift
+1 Ghostway
+1 Gods Willing
+1 Great Train Heist
+1 Kabira Takedown
+1 Loran's Escape
+1 Make a Stand
+1 Path to Exile
+1 Pyroblast
+1 Response/Resurgence
+1 Sejiri Shelter
+1 Stroke of Midnight
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Thrill of Possibility
+1 Unbreakable Formation
+1 Unexpected Windfall
+1 Volt Charge
+1 Your Temple Is Under Attack
+1 Arcane Signet
+1 Boros Signet
+1 Fellwar Stone
+1 Hexplate Wallbreaker
+1 Liquimetal Torque
+1 Mind Stone
+1 Sol Ring
+1 Staff of Compleation
+1 Strionic Resonator
+1 Talisman of Conviction
+1 Impact Tremors
+1 Ash Barrens
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Field of Ruin
+1 Furycalm Snarl
+1 Karn's Bastion
+9 Mountain
+11 Plains
+1 Rugged Prairie
+1 Shire Terrace
+1 Sunscorched Divide
+Sideboard
+1 Otharri, Suns' Glory

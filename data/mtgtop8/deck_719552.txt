@@ -1,0 +1,78 @@
+1 Questing Beast
+1 Thorn Mammoth
+1 Avacyn's Pilgrim
+1 Apex Altisaur
+1 Llanowar Elves
+1 Terastodon
+1 Linvala, Keeper of Silence
+1 Temur Sabertooth
+1 Nyxbloom Ancient
+1 Emiel the Blessed
+1 Selvala, Heart of the Wilds
+1 Elvish Mystic
+1 Regal Force
+1 Goreclaw, Terror of Qal Sisma
+1 Bane of Progress
+1 Ashaya, Soul of the Wild
+1 Yasharn, Implacable Earth
+1 Vorinclex, Monstrous Raider
+1 Wandering Archaic
+1 Quirion Ranger
+1 Elesh Norn, Grand Cenobite
+1 Vorinclex, Voice of Hunger
+1 Allosaurus Shepherd
+1 Defiler of Vigor
+1 Birds of Paradise
+1 Argothian Elder
+1 Collector Ouphe
+1 Elesh Norn, Mother of Machines
+1 Surrak and Goreclaw
+1 Vorinclex
+1 Delighted Halfling
+1 Eternal Witness
+1 Ghalta, Stampede Tyrant
+1 Ojer Kaslem, Deepest Growth
+1 Regal Behemoth
+1 Gaddock Teeg
+1 Tyvar, the Pummeler
+1 Gisela, the Broken Blade
+1 Bruna, the Fading Light
+1 Cultivator Colossus
+1 Arcane Signet
+1 Sol Ring
+1 Umbral Mantle
+1 Lotus Petal
+1 Nature's Claim
+1 Veil of Summer
+1 Angel's Grace
+1 Eladamri's Call
+1 Force of Vigor
+1 Silence
+1 Akroma's Will
+1 Heroic Intervention
+1 Chord of Calling
+1 Dawn's Truce
+1 Wave of Vitriol
+1 Finale of Devastation
+1 Natural Order
+1 Green Sun's Zenith
+1 Praetor's Counsel
+1 Last March of the Ents
+1 Rishkar's Expertise
+1 Season of Gathering
+1 Selvala's Stampede
+1 Lurking Predators
+1 Mirari's Wake
+1 Utopia Sprawl
+1 Wild Growth
+1 Nissa, Genesis Mage
+8 Plains
+17 Forest
+1 Command Tower
+1 Gaea's Cradle
+1 Savannah
+1 Nykthos, Shrine to Nyx
+1 Temple Garden
+1 Bountiful Promenade
+Sideboard
+1 Selvala, Explorer Returned

@@ -1,0 +1,87 @@
+1 Reya Dawnbringer
+1 Purity
+1 Dryad of the Ilysian Grove
+1 Myojin of Blooming Dawn
+1 Myojin of Cryptic Dreams
+1 Myojin of Towering Might
+1 Primeval Spawn
+1 Lord of Change
+1 Ramos, Dragon Engine
+1 Omnath, Locus of All
+1 Woodfall Primus
+1 The Dalek Emperor
+1 Frost Fair Lure Fish
+1 Blazing Archon
+1 Coiling Oracle
+1 Etali, Primal Storm
+1 The Lord of Pain
+1 Koma, World-Eater
+1 Solemn Simulacrum
+1 Faeburrow Elder
+1 Myojin of Grim Betrayal
+1 Progenitus
+1 Chromatic Lantern
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Curiosity
+1 Reverberate
+1 Deathsprout
+1 Blood for the Blood God!
+1 Urza's Rebuff
+1 Negate
+1 Guff Rewrites History
+1 Gallifrey Falls/No More
+1 Return the Favor
+1 Strix Serenade
+1 Sink into Stupor
+1 Growth Spiral
+1 Putrefy
+1 Kodama's Reach
+1 Rampant Growth
+1 Ruinous Ultimatum
+1 Emergent Ultimatum
+1 Farseek
+1 Blasphemous Act
+1 Apex of Power
+1 Painful Truths
+1 Dance with Calamity
+1 Heartless Conscription
+1 Aminatou's Augury
+1 Cultivate
+1 Hit the Mother Lode
+1 Brass's Bounty
+1 Kiora Bests the Sea God
+1 Mirari's Wake
+1 Swarm Intelligence
+1 Utopia Sprawl
+1 Leyline of the Guildpact
+1 Mana Reflection
+1 Omniscience
+1 Sunbird's Invocation
+1 Extravagant Replication
+1 Thousand-Year Storm
+1 Jace Beleren
+1 Jace, Architect of Thought
+1 Crumbling Necropolis
+1 Shivan Reef
+1 Rockfall Vale
+1 Fiery Islet
+1 Waterlogged Grove
+1 Stormcarved Coast
+1 Command Tower
+1 Frostboil Snarl
+1 Sungrass Prairie
+1 Necroblossom Snarl
+1 Arcane Sanctum
+1 Exotic Orchard
+1 Frontier Bivouac
+1 Sandsteppe Citadel
+1 Canopy Vista
+1 Fortified Village
+4 Mountain
+4 Forest
+4 Island
+4 Swamp
+3 Plains
+Sideboard
+1 Jodah, Archmage Eternal

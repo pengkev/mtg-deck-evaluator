@@ -1,0 +1,85 @@
+1 Academy Ruins
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet
+1 Basalt Monolith
+1 Brain Freeze
+1 Buried Ruin
+1 Capture of Jingzhou
+1 Chain of Vapor
+1 Chromatic Orrery
+1 Chrome Mox
+1 Consider
+1 Copy Artifact
+1 Counterspell
+1 Cyclonic Rift
+1 Displacer Kitten
+1 Dramatic Reversal
+1 Echo of Eons
+1 Everflowing Chalice
+1 Fabricate
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Forensic Gadgeteer
+1 Gemstone Caverns
+1 Gilded Lotus
+1 Gitaxian Probe
+1 Grafdigger's Cage
+1 Grim Monolith
+1 High Tide
+1 Hullbreaker Horror
+1 Impulse
+1 Intuition
+1 Inventors' Fair
+17 Island
+1 Isochron Scepter
+1 Mana Drain
+1 Mana Vault
+1 Manifold Key
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Nexus of Fate
+1 Pact of Negation
+1 Peek
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Power Artifact
+1 Prismatic Vista
+1 Reliquary Tower
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Sensei's Divining Top
+1 Sol Ring
+1 Spell Snare
+1 Spellseeker
+1 Strix Serenade
+1 Submerge
+1 Swan Song
+1 Temporal Manipulation
+1 Tezzeret the Seeker
+1 The Chain Veil
+1 The One Ring
+1 Thran Dynamo
+1 Throne of Eldraine
+1 Transmute Artifact
+1 Tribute Mage
+1 Trickbind
+1 Trophy Mage
+1 Unwinding Clock
+1 Voltaic Key
+1 Walking Ballista
+1 Whir of Invention
+Sideboard
+1 Teferi, Temporal Archmage

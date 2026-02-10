@@ -1,0 +1,89 @@
+1 Beledros Witherbloom
+1 Blood Artist
+1 Cauldron Familiar
+1 Chatterfang, Squirrel General
+1 Cruel Celebrant
+1 Drivnod, Carnage Dominus
+1 Elas il-Kor, Sadistic Pilgrim
+1 Esper Sentinel
+1 Grand Abolisher
+1 Gravecrawler
+1 Mayhem Devil
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Ojer Taq, Deepest Foundation
+1 Pitiless Plunderer
+1 Priest of Forgotten Gods
+1 Protean Hulk
+1 Sakura-Tribe Elder
+1 Samwise Gamgee
+1 Slimefoot and Squee
+1 Teysa Karlov
+1 Vindictive Vampire
+1 Viscera Seer
+1 Voice of Victory
+1 Warren Soultrader
+1 Zulaport Cutthroat
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Lotus Petal
+1 Phyrexian Altar
+1 Skullclamp
+1 Sol Ring
+1 The One Ring
+1 Ad Nauseam
+1 Anguished Unmaking
+1 Artifact Mutation
+1 Aura Mutation
+1 Cabal Ritual
+1 Call the Coppercoats
+1 Chord of Calling
+1 Entomb
+1 Inkshield
+1 March of the Multitudes
+1 Plumb the Forbidden
+1 Treacherous Greed
+1 Cultivate
+1 Debt to the Deathless
+1 Diabolic Intent
+1 Farewell
+1 Farseek
+1 Finale of Devastation
+1 Kodama's Reach
+1 Mythos of Snapdax
+1 Rampant Growth
+1 Read the Bones
+1 Reanimate
+1 Secret Rendezvous
+1 Sylvan Tutor
+1 Victimize
+1 Aura Shards
+1 Bastion of Remembrance
+1 Goblin Bombardment
+1 Moldervine Reclamation
+1 Phyrexian Arena
+1 Vampiric Rites
+1 Elspeth, Sun's Champion
+1 Access Tunnel
+1 Blood Crypt
+1 Command Tower
+1 Evolving Wilds
+4 Forest
+1 Godless Shrine
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Overgrown Tomb
+3 Plains
+1 Rogue's Passage
+1 Sacred Foundry
+1 Sandsteppe Citadel
+8 Swamp
+1 Temple Garden
+1 The Black Gate
+1 Verdant Catacombs
+1 Ziatora's Proving Ground
+Sideboard
+1 Tana, the Bloodsower
+1 Tymna the Weaver

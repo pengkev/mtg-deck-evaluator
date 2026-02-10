@@ -1,0 +1,96 @@
+1 Aether Channeler
+1 Agate Instigator
+1 Arabella, Abandoned Doll
+1 Arthur, Marigold Knight
+1 Bennie Bracks, Zoologist
+1 Blade Splicer
+1 Cayth, Famed Mechanist
+1 Deep Gnome Terramancer
+1 Delney, Streetwise Lookout
+1 Devilish Valet
+1 Elesh Norn, Mother of Machines
+1 Enduring Curiosity
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Hare Apparent
+1 Mockingbird
+1 Molten Gatekeeper
+1 Mondrak, Glory Dominus
+1 Nesting Dovehawk
+1 Ojer Taq, Deepest Foundation
+1 Rose Room Treasurer
+1 Searslicer Goblin
+1 Selfless Spirit
+1 Siege-Gang Commander
+1 Skyclave Apparition
+1 Soul Warden
+1 Spirited Companion
+1 Starfield Vocalist
+1 Sun Titan
+1 Volatile Stormdrake
+1 Weftstalker Ardent
+1 Welcoming Vampire
+1 Witch Enchanter
+1 Witty Roastmaster
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Dowsing Dagger
+1 Idol of Oblivion
+1 Izzet Signet
+1 Lightning Greaves
+1 Mind Stone
+1 Panharmonicon
+1 Sol Ring
+1 Boros Charm
+1 Counterspell
+1 Dawn's Truce
+1 Dovin's Veto
+1 Path to Exile
+1 Rootborn Defenses
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Calamity of Cinders
+1 Dusk/Dawn
+1 Ghired's Belligerence
+1 Starfall Invocation
+1 Storm of Souls
+1 Sundering Eruption
+1 White Sun's Twilight
+1 Caretaker's Talent
+1 Curiosity
+1 Dollmaker's Shop/Porcelain Gallery
+1 Impact Tremors
+1 Legion's Landing
+1 Warleader's Call
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Castle Ardenvale
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Ferrous Lake
+1 Fountainport
+1 Glacial Fortress
+2 Island
+1 Minas Tirith
+1 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+1 Perilous Landscape
+5 Plains
+1 Prairie Stream
+1 Riverpyre Verge
+1 Rugged Prairie
+1 Seachrome Coast
+1 Shivan Reef
+1 Skycloud Expanse
+1 Sulfur Falls
+1 Sunscorched Divide
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Thriving Bluff
+Sideboard
+1 Zinnia, Valley's Voice

@@ -1,0 +1,82 @@
+1 Arixmethes, Slumbering Isle
+1 Arwen, Weaver of Hope
+1 Celeborn the Wise
+1 Cirdan the Shipwright
+1 Colossal Whale
+1 Deepwood Denizen
+1 Elrond of the White Council
+1 Elvish Archdruid
+1 Elvish Piper
+1 Elvish Warmaster
+1 Entourage of Trest
+1 Erestor of the Council
+1 Farhaven Elf
+1 Gandalf, Westward Voyager
+1 Haldir, Lorien Lieutenant
+1 Hornet Queen
+1 Ioreth of the Healing House
+1 Ivy Lane Denizen
+1 Legolas Greenleaf
+1 Legolas, Master Archer
+1 Mirkwood Elk
+1 Mirkwood Trapper
+1 Radagast, Wizard of Wilds
+1 Realm Seekers
+1 Reclamation Sage
+1 Rishkar, Peema Renegade
+1 Twitching Doll
+1 Ulamog's Crusher
+1 Commander's Sphere
+1 Goldvein Pick
+1 Lightning Greaves
+1 Mirror of Galadriel
+1 Model of Unity
+1 Patchwork Banner
+1 Sol Ring
+1 Tangle Tumbler
+1 Whispersilk Cloak
+1 Beast Within
+1 Galadhrim Ambush
+1 Growth Spiral
+1 Heroic Intervention
+1 Inscription of Abundance
+1 Learn from the Past
+1 Mystic Confluence
+1 Opt
+1 Run Afoul
+1 Sail into the West
+1 Swan Song
+1 Trap the Trespassers
+1 Windswift Slice
+1 Cultivate
+1 Devastation Tide
+1 Elven Farsight
+1 Genesis Wave
+1 Lorien Revealed
+1 Overwhelming Stampede
+1 Plea for Power
+1 Preordain
+1 Raise the Palisade
+1 Seeds of Renewal
+1 Travel Through Caradhras
+1 Asceticism
+1 Lignify
+1 One with the Multiverse
+1 Simic Ascendancy
+1 Song of Eärendil
+1 Ash Barrens
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Grove
+12 Forest
+1 Hidden Nursery
+1 Hinterland Harbor
+9 Island
+1 Rejuvenating Springs
+1 Thornwood Falls
+1 Three Tree City
+1 Tranquil Thicket
+1 Vineglimmer Snarl
+1 Woodland Stream
+Sideboard
+1 Galadriel, Elven-Queen

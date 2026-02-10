@@ -1,0 +1,101 @@
+1 Thieves' Guild Enforcer
+1 Sakashima's Student
+1 Faerie Macabre
+1 Saprazzan Legate
+1 Changeling Outcast
+1 Ingenious Infiltrator
+1 Thassa's Oracle
+1 Mistblade Shinobi
+1 Mothdust Changeling
+1 Wingcrafter
+1 Spectral Sailor
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Nashi, Moon Sage's Scion
+1 Phyrexian Walker
+1 Faerie Seer
+1 Ornithopter
+1 Saiba Cryptomancer
+1 Harrier Strix
+1 Orochi Soul-Reaver
+1 Boggart Trawler
+1 Mockingbird
+1 Grim Hireling
+1 Rev, Tithe Extractor
+1 Ninja of the Deep Hours
+1 Subtlety
+1 Silver-Fur Master
+1 Thousand-Faced Shadow
+1 Shadow of Mortality
+1 Sheoldred, the Apocalypse
+1 Orcish Bowmasters
+1 Roaming Throne
+1 Satoru, the Infiltrator
+1 Hydroelectric Specimen
+1 Lotus Petal
+1 Sol Ring
+1 Chrome Mox
+1 Mox Amber
+1 Dark Ritual
+1 Misdirection
+1 Insidious Dreams
+1 Brainstorm
+1 Commandeer
+1 Contagion
+1 Snuff Out
+1 Submerge
+1 Flusterstorm
+1 Force of Despair
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Dismember
+1 Mental Misstep
+1 Mystical Tutor
+1 Demonic Consultation
+1 Force of Will
+1 Lim-Dul's Vault
+1 Sickening Shoal
+1 Mindbreak Trap
+1 Vampiric Tutor
+1 Tainted Pact
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 V.A.T.S.
+1 March of Swirling Mist
+1 Flare of Denial
+1 Flare of Malice
+1 Sink into Stupor
+1 Fell the Profane
+1 Trickbind
+1 Demonic Tutor
+1 Enter the Infinite
+1 Temporal Trespass
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Imperial Seal
+1 Rhystic Study
+1 Cover of Darkness
+1 Kaito, Bane of Nightmares
+1 Island
+1 City of Brass
+1 Ancient Tomb
+1 Watery Grave
+1 Prismatic Vista
+1 Underground Sea
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Command Tower
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Morphic Pool
+1 Mana Confluence
+1 Shizo, Death's Storehouse
+1 Underground River
+1 Otawara, Soaring City
+1 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

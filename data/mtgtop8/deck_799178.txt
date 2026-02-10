@@ -1,0 +1,99 @@
+1 Artisan of Kozilek
+1 Void Winnower
+1 It That Heralds the End
+1 Cityscape Leveler
+1 Platinum Emperion
+1 Glaring Fleshraker
+1 Spawnbed Protector
+1 Emrakul, the Promised End
+1 Conduit of Ruin
+1 Karn, Legacy Reforged
+1 Palladium Myr
+1 Ulamog, the Ceaseless Hunger
+1 Jhoira's Familiar
+1 Endbringer
+1 Ultima, Origin of Oblivion
+1 Summon: Bahamut
+1 Ulamog, the Infinite Gyre
+1 Pathrazer of Ulamog
+1 Kozilek, the Great Distortion
+1 Ulamog, the Defiler
+1 Sire of Seven Deaths
+1 It That Betrays
+1 Darksteel Colossus
+1 Kozilek, Butcher of Truth
+1 Blightsteel Colossus
+1 Zenith Chronicler
+1 Forsaken Monument
+1 Pristine Talisman
+1 Mind's Eye
+1 Hedron Archive
+1 Everflowing Chalice
+1 Vedalken Orrery
+1 Unwinding Clock
+1 Portal to Phyrexia
+1 Swiftfoot Boots
+1 The One Ring
+1 Moonsilver Key
+1 Thran Dynamo
+1 Doubling Cube
+1 Blinkmoth Urn
+1 Sol Ring
+1 Mithril Coat
+1 Basilisk Collar
+1 Mystic Forge
+1 Shadowspear
+1 Lightning Greaves
+1 Darksteel Monolith
+1 Worn Powerstone
+1 Commander's Plate
+1 The Eternity Elevator
+1 Kozilek's Command
+1 Not of This World
+1 Null Elemental Blast
+1 Desecrate Reality
+1 Calamity of the Titans
+1 Rise of the Eldrazi
+1 All Is Dust
+1 Echoes of Eternity
+1 Ugin, the Spirit Dragon
+1 Ugin, Eye of the Storms
+1 Ugin, the Ineffable
+1 Reliquary Tower
+1 Urza's Tower
+1 Sea Gate Wreckage
+1 Urza's Mine
+1 Mirrorpool
+1 Muraganda Raceway
+1 Planar Nexus
+1 Ancient Tomb
+1 Urza's Factory
+1 Wasteland
+1 Deserted Temple
+1 Fomori Vault
+1 Temple of the False God
+1 Scavenger Grounds
+1 Ugin's Labyrinth
+3 Wastes
+1 Eldrazi Temple
+1 War Room
+1 Urza's Cave
+1 Urza's Workshop
+1 Arch of Orazca
+1 Bonders' Enclave
+1 Thespian's Stage
+1 Mage-Ring Network
+1 Buried Ruin
+1 Mikokoro, Center of the Sea
+1 Vesuva
+1 Rogue's Passage
+1 Tomb of the Spirit Dragon
+1 Sanctum of Ugin
+1 Field of the Dead
+1 Shrine of the Forsaken Gods
+1 Geier Reach Sanitarium
+1 Inventors' Fair
+1 Blast Zone
+1 Urza's Power Plant
+Sideboard
+1 Zhulodok, Void Gorger

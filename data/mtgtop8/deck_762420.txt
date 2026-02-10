@@ -1,0 +1,89 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Ancient Greenwarden
+1 Animar, Soul of Elements
+1 Ashaya, Soul of the Wild
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Bloom Tender
+1 Emiel the Blessed
+1 Gladiolus Amicitia
+1 Kodama of the East Tree
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Mina and Denn, Wildborn
+1 Moraug, Fury of Akoum
+1 Mossborn Hydra
+1 Murasa Rootgrazer
+1 Omnath, Locus of Rage
+1 Omnath, Locus of the Roil
+1 Oracle of Mul Daya
+1 Overlord of the Hauntwoods
+1 Ramunap Excavator
+1 Risen Reef
+1 Roil Elemental
+1 Scute Swarm
+1 Tannuk, Memorial Ensign
+1 Tatyova, Benthic Druid
+1 Tireless Provisioner
+1 Titania, Protector of Argoth
+1 Vorinclex
+1 Yasharn, Implacable Earth
+1 Arcane Signet
+1 Crucible of Worlds
+1 Lightning Greaves
+1 Sol Ring
+1 Abrade
+1 Arcane Denial
+1 Crop Rotation
+1 Eladamri's Call
+1 Eureka Moment
+1 Flawless Maneuver
+1 Growth Spiral
+1 Harrow
+1 Heroic Intervention
+1 Legion Leadership
+1 Negate
+1 Path to Exile
+1 Worldly Tutor
+1 Blasphemous Act
+1 Broken Bond
+1 Cultivate
+1 Genesis Ultimatum
+1 Stump Stomp
+1 Three Visits
+1 Titanic Ultimatum
+1 Wrath of God
+1 Felidar Retreat
+1 Primeval Bounty
+1 Sylvan Library
+1 Zendikar's Roil
+1 Invasion of Ikoria
+1 Azorius Chancery
+1 Boros Garrison
+1 Breeding Pool
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+6 Forest
+1 Glacial Chasm
+1 Gruul Turf
+3 Island
+1 Meteor Crater
+4 Mountain
+1 Path of Ancestry
+3 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Sacred Foundry
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 Verdant Catacombs
+1 Vesuva
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Omnath, Locus of Creation

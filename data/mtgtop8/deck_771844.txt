@@ -1,0 +1,80 @@
+1 Zack Fair
+1 Yoshimaru, Ever Faithful
+1 Ayli, Eternal Pilgrim
+1 Wernog, Rider's Chaplain
+1 Killian, Ink Duelist
+1 Elas il-Kor, Sadistic Pilgrim
+1 Jirina, Dauntless General
+1 Karlov of the Ghost Council
+1 Thalia, Guardian of Thraben
+1 Shay Cormac
+1 Senu, Keen-Eyed Protector
+1 Brigone, Soldier of Meletis
+1 Urdnan, Dromoka Warrior
+1 Judge Magister Gabranth
+1 Kataki, War's Wage
+1 Boromir, Warden of the Tower
+1 Envoy of the Ancestors
+1 Zoraline, Cosmos Caller
+1 Lae'zel, Vlaakith's Champion
+1 Aerith Gainsborough
+1 Rufus Shinra
+1 Venat, Heart of Hydaelyn
+1 Vito, Thorn of the Dusk Rose
+1 Abzan Falconer
+1 Lurrus of the Dream-Den
+1 Kambal, Consul of Allocation
+1 Michiko Konda, Truth Seeker
+1 Felisa, Fang of Silverquill
+1 Chocobo Knights
+1 Teysa Karlov
+1 King of the Oathbreakers
+1 Ratadrabik of Urborg
+1 Deathbringer Liege
+1 Carmen, Cruel Skymarcher
+1 Reidane, God of the Worthy
+1 Sol Ring
+1 Gerrard's Hourglass Pendant
+1 Arcane Signet
+1 Damping Sphere
+1 Thorn of Amethyst
+1 Relic of Legends
+1 Rebuff the Wicked
+1 Beckon Apparition
+1 Cauldron Haze
+1 Zealous Persecution
+1 Batwing Brume
+1 Nasty End
+1 Vanishing Verse
+1 Fracture
+1 Despark
+1 Dire Tactics
+1 Anguished Unmaking
+1 Mortify
+1 Unbreakable Formation
+1 Can't Stay Away
+1 Primevals' Glorious Rebirth
+1 Edge of the Divinity
+1 Retribution of the Ancients
+1 Kaya's Ghostform
+1 Feast of the Victorious Dead
+1 Flowering of the White Tree
+1 War of the Last Alliance
+1 Kaya the Inexorable
+1 Caves of Koilos
+13 Plains
+1 Rogue's Passage
+10 Swamp
+1 Minas Tirith
+1 Vault of the Archangel
+1 Tainted Field
+1 Command Tower
+1 Clive's Hideaway
+1 Shineshadow Snarl
+1 Isolated Chapel
+1 Tyrite Sanctum
+1 Fetid Heath
+1 Mikokoro, Center of the Sea
+1 Fabled Passage
+Sideboard
+1 Ardbert, Warrior of Darkness

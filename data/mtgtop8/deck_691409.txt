@@ -1,0 +1,101 @@
+1 Recruiter of the Guard
+1 Opposition Agent
+1 Aven Mindcensor
+1 Esper Sentinel
+1 Fable of the Mirror-Breaker
+1 Doorkeeper Thrull
+1 Ranger-Captain of Eos
+1 Fear of Missing Out
+1 Rowan, Scion of War
+1 Aven Interrupter
+1 Boros Signet
+1 Rakdos Signet
+1 Mana Vault
+1 Pithing Needle
+1 Lion's Eye Diamond
+1 Sol Ring
+1 Orzhov Signet
+1 Arcane Signet
+1 The One Ring
+1 Plunge into Darkness
+1 Entomb
+1 Enlightened Tutor
+1 Hide/Seek
+1 Ad Nauseam
+1 Comeuppance
+1 Boros Charm
+1 Settle the Wreckage
+1 Valakut Awakening
+1 Angel's Grace
+1 Mana Tithe
+1 Blacksmith's Skill
+1 Cathartic Pyre
+1 Reprieve
+1 Deflecting Swat
+1 V.A.T.S.
+1 Demand Answers
+1 Vanishing Verse
+1 Repay in Kind
+1 Faithless Looting
+1 Spiraling Embers
+1 Shatterskull Smashing
+1 Wheel of Misfortune
+1 Thrilling Discovery
+1 Sevinne's Reclamation
+1 Beseech the Mirror
+1 Act of Authority
+1 Smothering Tithe
+1 Lethal Vapors
+1 Parallax Wave
+1 Phyrexian Unlife
+1 Soul Echo
+1 Elspeth Conquers Death
+1 Treacherous Blessing
+1 Underworld Breach
+1 Axis of Mortality
+1 Lich's Mastery
+1 Phyrexian Scriptures
+1 Necropotence
+1 Greater Auramancy
+1 Delaying Shield
+1 Lich
+1 Monologue Tax
+1 Urza's Saga
+1 Bitter Reunion
+1 Trouble in Pairs
+1 High Noon
+1 Valgavoth's Lair
+1 Overwhelming Splendor
+1 Bojuka Bog
+1 Exotic Orchard
+1 Luxury Suite
+1 Geier Reach Sanitarium
+1 Mountain
+1 Blood Crypt
+1 Godless Shrine
+1 Urborg, Tomb of Yawgmoth
+1 Sacred Foundry
+1 Kor Haven
+1 Plains
+1 Swamp
+1 Reflecting Pool
+1 Fetid Heath
+1 Graven Cairns
+1 Rugged Prairie
+1 Savai Triome
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Throne of the High City
+1 Mikokoro, Center of the Sea
+1 Command Tower
+1 Spectator Seating
+1 Vault of Champions
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Blightstep Pathway
+1 Arid Mesa
+1 Marsh Flats
+1 Elegant Parlor
+1 Shadowy Backstreet
+Sideboard
+1 Ghen, Arcanum Weaver

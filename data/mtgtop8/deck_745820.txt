@@ -1,0 +1,86 @@
+1 Anger
+1 Anje's Ravager
+1 Archfiend of Ifnir
+1 Archfiend of Spite
+1 Asmoranomardicadaistinaculdacar
+1 Asylum Visitor
+1 Big Game Hunter
+1 Blazing Rootwalla
+1 Bloodhall Priest
+1 Bone Miser
+1 Chainer, Nightmare Adept
+1 Doomed Necromancer
+1 Flayer of the Hatebound
+1 Glint-Horn Buccaneer
+1 Gorgon Recluse
+1 Grave Scrabbler
+1 Gray Merchant of Asphodel
+1 Hell Mongrel
+1 Incorrigible Youths
+1 Kitchen Imp
+1 Magmakin Artillerist
+1 Marauding Mako
+1 Muck Drubb
+1 Necrogoyf
+1 Nightshade Assassin
+1 Pinnacle Monk
+1 Psychosis Crawler
+1 Revolutionist
+1 Squee, Goblin Nabob
+1 Stromkirk Occultist
+1 Syr Konrad, the Grim
+1 The Raven Man
+1 Vilis, Broker of Blood
+1 Voldaren Pariah
+1 Worldgorger Dragon
+1 Zenos yae Galvus
+1 Zoyowa Lava-Tongue
+1 Arcane Signet
+1 Cryptcaller Chariot
+1 Jet Medallion
+1 Monument to Endurance
+1 Sol Ring
+1 Talisman of Indulgence
+1 Dark Withering
+1 Fell the Profane
+1 Fiery Temper
+1 Malakir Rebirth
+1 Rakdos Charm
+1 Shadow of the Grave
+1 Songs of the Damned
+1 Violent Eruption
+1 Alchemist's Greeting
+1 Avacyn's Judgment
+1 Biting Rain
+1 Call to the Netherworld
+1 Demonic Tutor
+1 Faithless Looting
+1 Feed the Swarm
+1 From Under the Floorboards
+1 Gisa's Bidding
+1 Murderous Compulsion
+1 Terminal Agony
+1 Welcome the Dead
+1 Animate Dead
+1 Curse of Fool's Wisdom
+1 Dying to Serve
+1 Faith of the Devoted
+1 Necromancy
+1 Blackcleave Cliffs
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Command Tower
+1 Dragonskull Summit
+1 Drownyard Temple
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Graven Cairns
+8 Mountain
+1 Sanctum of Eternity
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfurous Springs
+9 Swamp
+1 Tainted Peak
+Sideboard
+1 Anje Falkenrath

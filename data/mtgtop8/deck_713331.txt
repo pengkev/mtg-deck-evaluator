@@ -1,0 +1,101 @@
+1 Edric, Spymaster of Trest
+1 Noble Hierarch
+1 Toski, Bearer of Secrets
+1 Wandering Archaic
+1 Devilish Valet
+1 Professional Face-Breaker
+1 Gix, Yawgmoth Praetor
+1 Grand Abolisher
+1 Birds of Paradise
+1 Lotho, Corrupt Shirriff
+1 Ignoble Hierarch
+1 Warren Soultrader
+1 Chatterfang, Squirrel General
+1 Mockingbird
+1 Derevi, Empyrial Tactician
+1 Gonti, Night Minister
+1 Voice of Victory
+1 Deathrite Shaman
+1 Drannith Magistrate
+1 Sylvan Safekeeper
+1 Esper Sentinel
+1 Grim Hireling
+1 Thassa's Oracle
+1 Samut, Vizier of Naktamun
+1 Orcish Bowmasters
+1 Kutzil, Malamet Exemplar
+1 Ranger-Captain of Eos
+1 Opposition Agent
+1 Zurgo Stormrender
+1 Elvish Spirit Guide
+1 Simian Spirit Guide
+1 Mana Vault
+1 Mox Diamond
+1 Chrome Mox
+1 Lightning Greaves
+1 Arcane Signet
+1 Sol Ring
+1 Disruptor Flute
+1 The One Ring
+1 Lotus Petal
+1 Enlightened Tutor
+1 Chord of Calling
+1 Tainted Pact
+1 Dark Ritual
+1 An Offer You Can't Refuse
+1 Demonic Consultation
+1 Worldly Tutor
+1 Into the Flood Maw
+1 Red Elemental Blast
+1 Silence
+1 Assassin's Trophy
+1 Vampiric Tutor
+1 Swan Song
+1 Angel's Grace
+1 Pact of Negation
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Eldritch Evolution
+1 Demonic Tutor
+1 Druids' Repository
+1 Mystic Remora
+1 Deafening Silence
+1 Price of Glory
+1 Amphibian Downpour
+1 Steal Enchantment
+1 Oubliette
+1 Rhystic Study
+1 Reconnaissance
+1 Marsh Flats
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Strip Mine
+1 Cavern of Souls
+1 Windswept Heath
+1 Wooded Foothills
+1 Mistrise Village
+1 Badlands
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Underground Sea
+1 Volcanic Island
+1 Ancient Tomb
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Mana Confluence
+1 City of Brass
+1 Gemstone Caverns
+1 Exotic Orchard
+1 Command Tower
+1 Bloodstained Mire
+1 Tarnished Citadel
+Sideboard
+1 Najeela, the Blade-Blossom

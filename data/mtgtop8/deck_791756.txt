@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Birgi, God of Storytelling
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Goblin Engineer
+1 Goblin Welder
+1 Grand Abolisher
+1 Imperial Recruiter
+1 Liberator, Urza's Battlethopter
+1 Oswald Fiddlebender
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Simian Spirit Guide
+1 Thran Spider
+1 Twinshot Sniper
+1 Voice of Victory
+1 Walking Ballista
+1 Water Tribe Rallier
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Basalt Monolith
+1 Candelabra of Tawnos
+1 Chrome Mox
+1 Damping Sphere
+1 Defense Grid
+1 Dino DNA
+1 Disruptor Flute
+1 Goblin Cannon
+1 Grim Monolith
+1 Grinding Station
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Staff of Compleation
+1 Staff of Domination
+1 Talisman of Conviction
+1 The One Ring
+1 Vexing Bauble
+1 Voltaic Key
+1 Deflecting Swat
+1 Desperate Ritual
+1 Enlightened Tutor
+1 Flare of Duplication
+1 Lightning Bolt
+1 Orim's Chant
+1 Path to Exile
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Ricochet Trap
+1 Silence
+1 Soul Partition
+1 Swords to Plowshares
+1 Wear/Tear
+1 Gamble
+1 Jeska's Will
+1 Jolted Awake
+1 Reckless Handling
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Touch the Spirit Realm
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Cori Mountain Monastery
+1 Eiganjo, Seat of the Empire
+1 Elegant Parlor
+1 Fomori Vault
+1 Gemstone Caverns
+1 Inventors' Fair
+1 Mishra's Workshop
+1 Mountain
+1 Plains
+1 Plateau
+1 Sacred Foundry
+1 Scalding Tarn
+1 Spectator Seating
+1 Sunbaked Canyon
+1 Sunbillow Verge
+1 Treasure Vault
+1 Wooded Foothills
+Sideboard
+1 Zirda, the Dawnwaker

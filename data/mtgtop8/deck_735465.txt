@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Birds of Paradise
+1 Derevi, Empyrial Tactician
+1 Drannith Magistrate
+1 Emiel the Blessed
+1 Esper Sentinel
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Gilded Drake
+1 Grand Abolisher
+1 Imperial Recruiter
+1 Noble Hierarch
+1 Phyrexian Metamorph
+1 Pollywog Prodigy
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Spellseeker
+1 Squee, the Immortal
+1 Thassa's Oracle
+1 Voice of Victory
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 The One Ring
+1 Alchemist's Retrieval
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Chord of Calling
+1 Consign to Memory
+1 Crop Rotation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Ephemerate
+1 Final Fortune
+1 Flusterstorm
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Miscast
+1 Mystical Tutor
+1 Pact of Negation
+1 Red Elemental Blast
+1 Silence
+1 Snap
+1 Swan Song
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Neoform
+1 Sevinne's Reclamation
+1 Food Chain
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plateau
+1 Polluted Delta
+1 Sacred Foundry
+1 Savannah
+1 Scalding Tarn
+1 Shifting Woodland
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Omnath, Locus of Creation

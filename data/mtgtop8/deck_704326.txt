@@ -1,0 +1,91 @@
+1 Starfield Mystic
+1 Mesa Enchantress
+1 Archetype of Imagination
+1 Heliod, the Radiant Dawn
+1 Inquisitive Glimmer
+1 Entity Tracker
+1 Ancient Cellarspawn
+1 The Master of Keys
+1 Soaring Lightbringer
+1 Fear of Sleep Paralysis
+1 Moon-Blessed Cleric
+1 Ghostly Dancers
+1 Ondu Spiritdancer
+1 Doomwake Giant
+1 Athreos, Shroud-Veiled
+1 Arvinox, the Mind Flail
+1 Demon of Fate's Design
+1 Zur, Eternal Schemer
+1 Orzhov Signet
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Progress
+1 Arcane Signet
+1 Azorius Signet
+1 Talisman of Dominance
+1 Brainstorm
+1 Swords to Plowshares
+1 Telling Time
+1 Inkshield
+1 Arcane Denial
+1 Ponder
+1 Redress Fate
+1 Terminus
+1 Portent
+1 Diabolic Vision
+1 The Eldest Reborn
+1 Mind's Dilation
+1 Sphere of Safety
+1 Elspeth Conquers Death
+1 Starfield of Nyx
+1 Debtors' Knell
+1 Greed
+1 Curse of Unbinding
+1 Invasion of Theros
+1 Cacophony Unleashed
+1 Grasp of Fate
+1 Court of Vantress
+1 Shark Typhoon
+1 Estrid's Invocation
+1 Propaganda
+1 Mirror Room/Fractured Realm
+1 Bottomless Pool/Locker Room
+1 Cramped Vents/Access Maze
+1 Secret Arcade/Dusty Parlor
+1 Monologue Tax
+1 Sigil of the Empty Throne
+1 Mirrormade
+1 One with the Multiverse
+1 Timely Ward
+1 Extravagant Replication
+1 Cast Out
+1 Phyrexian Arena
+1 Painful Quandary
+1 Aminatou, the Fateshifter
+1 Temple of Silence
+1 Halimar Depths
+1 Evolving Wilds
+1 Caves of Koilos
+1 Bojuka Bog
+1 Exotic Orchard
+1 Command Tower
+1 Tainted Field
+1 Hall of Heliod's Generosity
+1 Skycloud Expanse
+1 Sunken Hollow
+1 Contaminated Landscape
+1 Prairie Stream
+1 Temple of Enlightenment
+1 Gloomlake Verge
+1 Terramorphic Expanse
+1 Obscura Storefront
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Arcane Sanctum
+1 Temple of Deceit
+1 Underground River
+4 Swamp
+4 Island
+5 Plains
+Sideboard
+1 Aminatou, Veil Piercer

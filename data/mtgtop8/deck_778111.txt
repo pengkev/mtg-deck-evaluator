@@ -1,0 +1,101 @@
+1 Mistrise Village
+1 Steam Vents
+1 Vault of Champions
+1 Verdant Catacombs
+1 Cavern of Souls
+1 Starting Town
+1 City of Brass
+1 Cephalid Coliseum
+1 Mana Confluence
+1 Blood Crypt
+1 Polluted Delta
+1 Forest
+1 Hallowed Fountain
+1 Island
+1 Temple Garden
+1 Scalding Tarn
+1 Bloodstained Mire
+1 Chrome Mox
+1 Mox Diamond
+1 Otawara, Soaring City
+1 Swamp
+1 Lotus Petal
+1 Pact of Negation
+1 Plains
+1 Marsh Flats
+1 Exotic Orchard
+1 Flooded Strand
+1 Godless Shrine
+1 Stomping Ground
+1 Command Tower
+1 Ancient Tomb
+1 Windswept Heath
+1 Pithing Needle
+1 Sol Ring
+1 Culling the Weak
+1 Birds of Paradise
+1 Training Grounds
+1 Swan Song
+1 Duress
+1 Mana Vault
+1 Demonic Consultation
+1 Swords to Plowshares
+1 Angel's Grace
+1 Ignoble Hierarch
+1 Noble Hierarch
+1 Mental Misstep
+1 March of Otherworldly Light
+1 An Offer You Can't Refuse
+1 Delighted Halfling
+1 Mystic Remora
+1 Dark Ritual
+1 Esper Sentinel
+1 Silence
+1 Gitaxian Probe
+1 Sensei's Divining Top
+1 Flusterstorm
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Veil of Summer
+1 Deathrite Shaman
+1 Fellwar Stone
+1 Grand Abolisher
+1 Eladamri's Call
+1 Dark Confidant
+1 Twincast
+1 Charismatic Conqueror
+1 Counterspell
+1 Damn
+1 Cyclonic Rift
+1 Sylvan Library
+1 Diabolic Intent
+1 Trickbind
+1 Drannith Magistrate
+1 Thassa's Oracle
+1 Tainted Pact
+1 Heritage Reclamation
+1 Narset's Reversal
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Thrasios, Triton Hero
+1 Demonic Tutor
+1 Voice of Victory
+1 Opposition Agent
+1 Ranger-Captain of Eos
+1 Chatterfang, Squirrel General
+1 Toxic Deluge
+1 Rhystic Study
+1 Force of Negation
+1 Valley Flamecaller
+1 Warren Soultrader
+1 Teferi's Protection
+1 Sevinne's Reclamation
+1 Windfall
+1 Enduring Vitality
+1 Smothering Tithe
+1 Memory Deluge
+1 Force of Will
+1 Seedborn Muse
+Sideboard
+1 Kenrith, the Returned King

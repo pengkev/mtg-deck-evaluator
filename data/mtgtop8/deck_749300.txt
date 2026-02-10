@@ -1,0 +1,101 @@
+1 Goldhound
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Chrome Mox
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Ancestors' Aid
+1 Antagonize
+1 Big Score
+1 Blazing Crescendo
+1 Borne Upon a Wind
+1 Burning Sun's Fury
+1 Complete the Circuit
+1 Deflecting Swat
+1 Desperate Ritual
+1 Drown in Dreams
+1 Epiphany at the Drownyard
+1 Fierce Guardianship
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Haste Magic
+1 Inordinate Rage
+1 Intuition
+1 Meeting of Minds
+1 Mental Misstep
+1 Misdirection
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Reiterate
+1 Rewind
+1 Sazacap's Brew
+1 Seething Song
+1 Serpentine Ambush
+1 Sink into Stupor
+1 Snap
+1 Stroke of Genius
+1 Sudden Breakthrough
+1 Unexpected Windfall
+1 Unwind
+1 Water Wings
+1 Zhalfirin Shapecraft
+1 Braingeyser
+1 Gitaxian Probe
+1 Haze of Rage
+1 Inner Fire
+1 Inspired Tinkering
+1 Introduction to Prophecy
+1 Jeska's Will
+1 Mishra's Command
+1 Past in Flames
+1 Path of the Pyromancer
+1 Pirate's Pillage
+1 Pirate's Prize
+1 Pore Over the Pages
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Seething Anger
+1 Seize the Spoils
+1 Shatterskull Smashing
+1 Sorceress's Schemes
+1 Stock Up
+1 Strike It Rich
+1 Tezzeret's Gambit
+1 Timetwister
+1 Visions of Ruin
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Windfall
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Tarnished Citadel
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Vadrik, Astral Archmage

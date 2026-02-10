@@ -1,0 +1,101 @@
+1 Ragavan, Nimble Pilferer
+1 Thassa's Oracle
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Valley Floodcaller
+1 Arcane Signet
+1 Lotus Petal
+1 Vexing Bauble
+1 Mox Amber
+1 Mox Opal
+1 Talisman of Indulgence
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Defense Grid
+1 Wishclaw Talisman
+1 Chromatic Star
+1 Mana Vault
+1 Springleaf Drum
+1 Sol Ring
+1 Chrome Mox
+1 Talisman of Dominance
+1 Grim Monolith
+1 Paradise Mantle
+1 Grinding Station
+1 Borne Upon a Wind
+1 Mindbreak Trap
+1 Rain of Filth
+1 Misdirection
+1 Red Elemental Blast
+1 Mystical Tutor
+1 Flusterstorm
+1 Pact of Negation
+1 Ad Nauseam
+1 Snap
+1 Mental Misstep
+1 Tainted Pact
+1 Final Fortune
+1 Culling the Weak
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Cabal Ritual
+1 Demonic Consultation
+1 Brain Freeze
+1 An Offer You Can't Refuse
+1 Flare of Duplication
+1 Chain of Vapor
+1 Brainstorm
+1 Daze
+1 Pyroblast
+1 Vampiric Tutor
+1 Dark Ritual
+1 Force of Will
+1 Rite of Flame
+1 Jeska's Will
+1 Warrior's Oath
+1 Praetor's Grasp
+1 Yawgmoth's Will
+1 Mnemonic Betrayal
+1 Beseech the Mirror
+1 Wheel of Misfortune
+1 Wheel of Fortune
+1 Last Chance
+1 Imperial Seal
+1 Timetwister
+1 Gamble
+1 Diabolic Intent
+1 Demonic Counsel
+1 Windfall
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Infernal Plunge
+1 Necrodominance
+1 Rhystic Study
+1 Underworld Breach
+1 Necropotence
+1 Mystic Remora
+1 Phyrexian Tower
+1 Wooded Foothills
+1 Blood Crypt
+1 Command Tower
+1 Badlands
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Arid Mesa
+1 City of Brass
+1 Underground Sea
+1 Volcanic Island
+1 Flooded Strand
+1 Marsh Flats
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Watery Grave
+1 Scalding Tarn
+1 City of Traitors
+1 Otawara, Soaring City
+1 Polluted Delta
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Silas Renn, Seeker Adept

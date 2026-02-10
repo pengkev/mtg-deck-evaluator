@@ -1,0 +1,80 @@
+1 Adriana, Captain of the Guard
+1 Aerith, Last Ancient
+1 Anzrag, the Quake-Mole
+1 Bastion Protector
+1 Bayek of Siwa
+1 Bugenhagen, Wise Elder
+1 Champion of Lambholt
+1 Displaced Dinosaurs
+1 Ghalta, Primal Hunger
+1 Gimli of the Glittering Caves
+1 Halana and Alena, Partners
+1 Jamie McCrimmon
+1 Loyal Unicorn
+1 Odric, Lunarch Marshal
+1 Ohran Frostfang
+1 Red XIII, Proud Warrior
+1 Renata, Called to the Hunt
+1 Samut, the Driving Force
+1 Samwise Gamgee
+1 Securitron Squadron
+1 Sephiroth, Fallen Hero
+1 Serah Farron
+1 Tegan Jovanka
+1 Tromell, Seymour's Butler
+1 Vincent, Vengeful Atoner
+1 Wulfgar of Icewind Dale
+1 Arcane Signet
+1 Conqueror's Flail
+1 Genji Glove
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Seriema
+1 Wrecking Ball Arm
+1 Beast Within
+1 Chaos Warp
+1 Clever Concealment
+1 Generous Gift
+1 Heroic Intervention
+1 Path to Exile
+1 Swords to Plowshares
+1 Ultimate Magic: Holy
+1 Austere Command
+1 Cultivate
+1 Farseek
+1 For the Emperor!
+1 Nature's Lore
+1 Three Visits
+1 Vanquish the Horde
+1 Always Watching
+1 Annie Joins Up
+1 Beastmaster Ascension
+1 Berserkers' Onslaught
+1 Cathars' Crusade
+1 Flowering of the White Tree
+1 Garruk's Uprising
+1 Night of the Sweets' Revenge
+1 Ranger Class
+1 Rhythm of the Wild
+1 Serra's Blessing
+1 True Conviction
+1 Unnatural Growth
+1 War of the Last Alliance
+1 Windcrag Siege
+1 Battlefield Forge
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+8 Forest
+1 Karplusan Forest
+1 Mosswort Bridge
+8 Mountain
+1 Overgrown Farmland
+8 Plains
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sunpetal Grove
+Sideboard
+1 Tifa, Martial Artist

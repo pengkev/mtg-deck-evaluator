@@ -1,0 +1,69 @@
+1 Wurmcoil Engine
+1 Darksteel Colossus
+1 Vizier of the Menagerie
+1 Reclamation Sage
+1 Rampaging Baloths
+1 Zetalpa, Primal Dawn
+1 Gnarlback Rhino
+1 Drogskol Reaver
+1 Wilt-Leaf Liege
+1 Eternal Witness
+1 Surrak, the Hunt Caller
+1 The Goose Mother
+1 Troyan, Gutsy Explorer
+1 Threadbind Clique
+1 Twining Twins
+1 Archive Dragon
+1 Prime Speaker Zegana
+1 Axebane Ferox
+1 Sakura-Tribe Elder
+1 Llanowar Elves
+1 Lilysplash Mentor
+1 Plumecreed Mentor
+1 Azure Beastbinder
+1 Altanak, the Thrice-Called
+1 Marvin, Murderous Mimic
+1 Solemn Simulacrum
+1 Crystal Barricade
+1 Lyra Dawnbringer
+1 Homunculus Horde
+1 Angel of Finality
+1 Tatyova, Benthic Druid
+1 Trygon Predator
+1 Angel of Vitality
+1 Voracious Greatshark
+1 Zimone, Paradox Sculptor
+1 Sab-Sunen, Luxa Embodied
+1 Sol Ring
+1 Arcane Signet
+1 Basilisk Collar
+1 Make a Stand
+1 Opt
+1 Rampaging Growth
+1 No More Lies
+1 Repulsive Mutation
+1 Cultivate
+1 Bribery
+1 Farseek
+1 Asinine Antics
+1 Analyze the Pollen
+1 Starfall Invocation
+1 Chart a Course
+1 Angelic Destiny
+1 Unflinching Courage
+1 Telepathy
+1 The Birth of Meletis
+1 Extravagant Replication
+1 Garruk's Uprising
+1 Defense of the Heart
+1 As Foretold
+1 Proft's Eidetic Memory
+1 Monologue Tax
+1 Tamiyo, Field Researcher
+12 Island
+11 Plains
+12 Forest
+1 Exotic Orchard
+1 Command Tower
+Sideboard
+1 Helga, Skittish Seer

@@ -1,0 +1,87 @@
+1 Deathbonnet Sprout
+1 Fyndhorn Elves
+1 Cankerbloom
+1 Elves of Deep Shadow
+1 Slimefoot, the Stowaway
+1 Old Rutstein
+1 Evolution Sage
+1 Nemata, Primeval Warden
+1 Thallid Germinator
+1 Elvish Mystic
+1 Jaheira, Friend of the Forest
+1 Mycoloth
+1 Psychotrope Thallid
+1 Deathspore Thallid
+1 Llanowar Elves
+1 Mirkwood Bats
+1 Winding Constrictor
+1 Deathcap Marionette
+1 Utopia Mycon
+1 Nyx Weaver
+1 Syr Konrad, the Grim
+1 Skull Prophet
+1 Akawalli, the Seething Tower
+1 Tendershoot Dryad
+1 Sporoloth Ancient
+1 Vitaspore Thallid
+1 Meren of Clan Nel Toth
+1 Eternal Witness
+1 Sporesower Thallid
+1 Thallid
+1 Thallid Shell-Dweller
+1 Millikin
+1 Sporecrown Thallid
+1 Undercellar Myconid
+1 Craterhoof Behemoth
+1 Thelon of Havenwood
+1 Perpetual Timepiece
+1 Skullclamp
+1 Matzalantli, the Great Door
+1 The Skullspore Nexus
+1 Putrefy
+1 Grisly Salvage
+1 Entish Restoration
+1 Corrupted Conviction
+1 Wrap in Vigor
+1 Village Rites
+1 Wail of the Nim
+1 Golgari Charm
+1 Abrupt Decay
+1 Fungal Sprouting
+1 Deadly Brew
+1 Rise of the Witch-King
+1 Victimize
+1 Breach the Multiverse
+1 Growing Rites of Itlimoc
+1 Verdant Embrace
+1 Beastmaster Ascension
+1 Crawling Infestation
+1 Oversold Cemetery
+1 Crawling Sensation
+1 Cemetery Tampering
+1 Moldervine Reclamation
+1 Doubling Season
+1 Necroblossom Snarl
+1 Unclaimed Territory
+1 Golgari Rot Farm
+1 Evolving Wilds
+1 Tainted Wood
+1 Riveteers Overlook
+1 Terramorphic Expanse
+1 Argoth, Sanctum of Nature
+1 Command Tower
+1 Karn's Bastion
+1 Dakmor Salvage
+1 Barren Moor
+7 Swamp
+1 Exotic Orchard
+1 Ash Barrens
+9 Forest
+1 Tranquil Thicket
+1 Path of Ancestry
+1 Rogue's Passage
+1 Woodland Cemetery
+1 Jungle Hollow
+1 Myriad Landscape
+Sideboard
+1 The Mycotyrant

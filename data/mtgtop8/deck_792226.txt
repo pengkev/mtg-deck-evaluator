@@ -1,0 +1,80 @@
+1 Basal Thrull
+1 Blood Celebrant
+1 Blood Pet
+1 Diamond Lion
+1 Forsaken Miner
+1 Geode Golem
+1 Greedy Freebooter
+1 Grief
+1 Hoard Robber
+1 Hope of Ghirapur
+1 Infestation Sage
+1 K'rrik, Son of Yawgmoth
+1 Leaden Myr
+1 Marshland Bloodcaster
+1 Master of Dark Rites
+1 Memnite
+1 Metalworker
+1 Mindslicer
+1 Myr Convert
+1 Nested Shambler
+1 Nezumi Linkbreaker
+1 Orcish Bowmasters
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phyrexian Walker
+1 Priest of Gix
+1 Shambling Ghast
+1 Shield Sphere
+1 Soldevi Adnate
+1 Vengeful Bloodwitch
+1 Viscera Seer
+1 Wriggling Grub
+1 Zhentarim Bandit
+1 Arcane Signet
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Radiant Lotus
+1 Sol Ring
+1 Springleaf Drum
+1 Voltaic Key
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Dismember
+1 Long Goodbye
+1 Not of This World
+1 Rain of Filth
+1 Sacrifice
+1 Slaughter Pact
+1 Snuff Out
+1 Songs of the Damned
+1 Vampiric Tutor
+1 Bubbling Muck
+1 Chain of Smog
+1 Demonic Tutor
+1 Imperial Seal
+1 Carnival of Souls
+1 Urza's Saga
+1 Professor Onyx
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Traitors
+1 Gemstone Caverns
+1 Lake of the Dead
+1 Peat Bog
+22 Swamp
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Razaketh, the Foulblooded

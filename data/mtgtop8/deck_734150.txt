@@ -1,0 +1,82 @@
+1 Heliod, Sun-Crowned
+1 Setessan Champion
+1 Hushbringer
+1 Eternal Witness
+1 Tithe Taker
+1 Heliod's Pilgrim
+1 Eidolon of Blossoms
+1 Archon of Sun's Grace
+1 Dryad of the Ilysian Grove
+1 Transcendent Envoy
+1 Herald of the Pantheon
+1 Yasharn, Implacable Earth
+1 Jukai Naturalist
+1 Alseid of Life's Bounty
+1 Starfield Mystic
+1 Ellivere of the Wild Court
+1 Eidolon of Countless Battles
+1 Kutzil, Malamet Exemplar
+1 Sylvan Safekeeper
+1 Trickster's Elk
+1 Glyph Elemental
+1 Walking Ballista
+1 Return to Nature
+1 Mana Tithe
+1 Naturalize
+1 Swords to Plowshares
+1 Angel's Grace
+1 Rebuff the Wicked
+1 Blessed Respite
+1 Reprieve
+1 Surge of Salvation
+1 Archdruid's Charm
+1 Bovine Intervention
+1 Idyllic Tutor
+1 Explore
+1 Winds of Rath
+1 All That Glitters
+1 Trapped in the Tower
+1 Abundant Growth
+1 Armadillo Cloak
+1 Fertile Ground
+1 Rancor
+1 Banishing Light
+1 Oblivion Ring
+1 Mana Bloom
+1 Sphere of Safety
+1 Suppression Field
+1 Nylea's Presence
+1 Unquestioned Authority
+1 Sterling Grove
+1 Bear Umbra
+1 Elephant Grass
+1 Wild Growth
+1 Ossification
+1 Ground Seal
+1 Grasp of Fate
+1 Utopia Sprawl
+1 Kenrith's Transformation
+1 Blind Obedience
+1 Journey to Nowhere
+1 Dog Umbra
+1 Static Prison
+1 Deafening Silence
+1 Ancestral Mask
+1 Shardmage's Rescue
+1 Trapped in the Screen
+1 Darksteel Mutation
+1 Authority of the Consuls
+10 Plains
+1 Command Tower
+1 Reliquary Tower
+1 Terramorphic Expanse
+1 Tranquil Thicket
+1 Sungrass Prairie
+1 Rogue's Passage
+1 Hall of Heliod's Generosity
+1 Branchloft Pathway
+1 Overgrown Farmland
+1 Shifting Woodland
+11 Forest
+Sideboard
+1 Sythis, Harvest's Hand

@@ -1,0 +1,85 @@
+1 Aven Mindcensor
+1 Cathar Commando
+1 Drift of Phantasms
+1 Ghostly Pilferer
+1 Glint-Horn Buccaneer
+1 Malcolm, Keen-Eyed Navigator
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Tireless Tribe
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Lotus Petal
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Alchemist's Retrieval
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Catalog
+1 Consider
+1 Daze
+1 Dig Through Time
+1 Dispel
+1 Fact or Fiction
+1 Frantic Search
+1 Gifts Ungiven
+1 Impulse
+1 Into the Flood Maw
+1 Laughing Mad
+1 Lightning Axe
+1 Lightning Bolt
+1 Lightning Helix
+1 Mana Leak
+1 Miscast
+1 Muddle the Mixture
+1 Negate
+1 Seething Song
+1 Snapback
+1 Spell Pierce
+1 Spell Snare
+1 Suspend
+1 Swords to Plowshares
+1 Thrill of Possibility
+1 Unsubstantiate
+1 Winds of Rebuke
+1 Burning Inquiry
+1 Cathartic Reunion
+1 Faithless Looting
+1 Flameshot
+1 Gamble
+1 Idyllic Tutor
+1 Open the Armory
+1 Past in Flames
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Windfall
+1 Curiosity
+1 Ophidian Eye
+1 Powerbalance
+1 Underworld Breach
+1 Witness Protection
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Barbarian Ring
+1 Battlefield Forge
+1 Cephalid Coliseum
+1 Clifftop Retreat
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Geier Reach Sanitarium
+9 Island
+7 Mountain
+3 Plains
+1 Shivan Reef
+1 Spire of Industry
+Sideboard
+1 Brallin, Skyshark Rider
+1 Shabraz, the Skyshark

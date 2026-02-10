@@ -1,0 +1,90 @@
+1 Aether Channeler
+1 Aetherflux Reservoir
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Barkchannel Pathway
+1 Birds of Paradise
+1 Blessed Respite
+1 Bloom Tender
+1 Boseiju, Who Shelters All
+1 Brain Freeze
+1 Brainstorm
+1 Breeding Pool
+1 Cankerbloom
+1 Careful Study
+1 Carpet of Flowers
+1 Cephalid Coliseum
+1 Chord of Calling
+1 City of Brass
+1 Colossal Skyturtle
+1 Commandeer
+1 Deadeye Navigator
+1 Delay
+1 Displacer Kitten
+1 Dramatic Reversal
+1 Emergence Zone
+1 Eternal Witness
+1 Exploration
+1 Flare of Denial
+1 Flooded Strand
+1 Flusterstorm
+1 Flux Channeler
+1 Force of Negation
+7 Forest
+1 Frantic Search
+1 Fyndhorn Elves
+1 Gemstone Caverns
+1 Ghostly Flicker
+1 Gitaxian Probe
+1 Harbinger of the Seas
+1 High Tide
+1 Hinterland Harbor
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+6 Island
+1 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Karn's Bastion
+1 Krosan Grip
+1 Laboratory Maniac
+1 Leveler
+1 Lotus Petal
+1 Malcolm, Alluring Scoundrel
+1 Mana Vault
+1 Maze of Ith
+1 Mindbreak Trap
+1 Mystic Remora
+1 Nature's Claim
+1 Noxious Revival
+1 Obscuring Haze
+1 Oko, Thief of Crowns
+1 Pact of Negation
+1 Peregrine Drake
+1 Perilous Research
+1 Pollywog Prodigy
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Ripples of Potential
+1 Seedborn Muse
+1 Sensei's Divining Top
+1 Snap
+1 Sol Ring
+1 Spellskite
+1 Stasis
+1 Strix Serenade
+1 Submerge
+1 Swan Song
+1 Sylvan Library
+1 Tangle Wire
+1 Teferi, Mage of Zhalfir
+1 Thrummingbird
+1 Walking Ballista
+1 Waterlogged Grove
+1 Winter Orb
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Tamiyo, Inquisitive Student

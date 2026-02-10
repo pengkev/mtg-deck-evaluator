@@ -1,0 +1,88 @@
+1 Vedalken Aethermage
+1 Eternal Scourge
+1 Nimble Obstructionist
+1 Wall of Blossoms
+1 Dualcaster Mage
+1 Wall of Roots
+1 Tinder Wall
+1 Misthollow Griffin
+1 Mulldrifter
+1 Eternal Witness
+1 Archaeomancer
+1 Drift of Phantasms
+1 Reclamation Sage
+1 Venser, Shaper Savant
+1 Naru Meha, Master Wizard
+1 Colossal Skyturtle
+1 Squee, the Immortal
+1 Peregrine Drake
+1 Vizier of Tumbling Sands
+1 Displacer Kitten
+1 Lilysplash Mentor
+1 Dour Port-Mage
+1 Deadeye Navigator
+1 Elvish Refueler
+1 Skyserpent Seeker
+1 Arcane Signet
+1 Talisman of Creativity
+1 Sol Ring
+1 Fellwar Stone
+1 Gruul Signet
+1 Izzet Signet
+1 Simic Signet
+1 Talisman of Curiosity
+1 Talisman of Impulse
+1 Mystical Dispute
+1 Dispel
+1 Displace
+1 Mystical Tutor
+1 Long-Term Plans
+1 Impulse
+1 Negate
+1 Siren's Ruse
+1 Counterspell
+1 Memory Lapse
+1 Planar Incision
+1 Blur
+1 Izzet Charm
+1 Emerald Charm
+1 Run Away Together
+1 An Offer You Can't Refuse
+1 Beast Within
+1 Ghostly Flicker
+1 Reality Shift
+1 Untimely Malfunction
+1 Essence Flux
+1 Arcane Denial
+1 Neoform
+1 Expressive Iteration
+1 Solve the Equation
+1 Step Through
+1 Eldritch Evolution
+1 Splash Portal
+1 Electroduplicate
+1 Food Chain
+1 Wild Growth
+1 Utopia Sprawl
+1 Oko, Thief of Crowns
+1 Sunscorched Desert
+1 Command Tower
+1 Ash Barrens
+1 Exotic Orchard
+1 Bountiful Landscape
+1 Dreamroot Cascade
+1 Lush Oasis
+1 Temple of Mystery
+1 Cinder Glade
+1 Hinterland Harbor
+1 Rootbound Crag
+1 Shivan Reef
+1 Temple of Epiphany
+1 Karplusan Forest
+1 Sulfur Falls
+1 Yavimaya Coast
+7 Island
+5 Forest
+4 Mountain
+Sideboard
+1 Loot, the Pathfinder

@@ -1,0 +1,101 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Aetherflux Reservoir
+1 Ancient Tomb
+1 Animate Dead
+1 Arcane Signet
+1 Asmodeus the Archfiend
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Bayou
+1 Bitter Triumph
+1 Bloodstained Mire
+1 Bolas's Citadel
+1 Boseiju, Who Endures
+1 Buried Alive
+1 Cabal Pit
+1 Cabal Ritual
+1 Carpet of Flowers
+1 Chain of Smog
+1 Chrome Mox
+1 City of Brass
+1 Collective Brutality
+1 Command Tower
+1 Crop Rotation
+1 Crystal Vein
+1 Culling Ritual
+1 Culling the Weak
+1 Cut Down
+1 Dark Ritual
+1 Defense Grid
+1 Demonic Tutor
+1 Dismember
+1 Duress
+1 Emergence Zone
+1 Exhume
+1 Exploration
+1 Fatal Push
+1 Fellwar Stone
+1 Forest
+1 Golgari Signet
+1 Grim Monolith
+1 Heroic Intervention
+1 Imp's Mischief
+1 Imperial Seal
+1 Inquisition of Kozilek
+1 Jet Medallion
+1 Legolas's Quick Reflexes
+1 Life/Death
+1 Lion's Eye Diamond
+1 Long Goodbye
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Nature's Claim
+1 Necromancy
+1 Necropotence
+1 Necrotic Ooze
+1 Noxious Revival
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Persist
+1 Polluted Delta
+1 Praetor's Grasp
+1 Professor Onyx
+1 Rain of Filth
+1 Reanimate
+1 Sensei's Divining Top
+1 Shallow Grave
+1 Shifting Woodland
+1 Skirge Familiar
+1 Slaughter Pact
+1 Sol Ring
+1 Swamp
+1 Sylvan Library
+1 Tainted Pact
+1 Takenuma, Abandoned Mire
+1 Talisman of Resilience
+1 Tear Asunder
+1 The One Ring
+1 Thoughtseize
+1 Toxic Deluge
+1 Turn the Earth
+1 Underground Mortuary
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Utopia Sprawl
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Wild Growth
+1 Windswept Heath
+1 Wishclaw Talisman
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Old Stickfingers

@@ -1,0 +1,86 @@
+1 Aftermath Analyst
+1 Augur of Autumn
+1 Azusa, Lost but Seeking
+1 Baloth Prime
+1 Braids, Arisen Nightmare
+1 Dryad of the Ilysian Grove
+1 Eumidian Wastewaker
+1 Evendo Brushrazer
+1 God-Eternal Bontu
+1 Groundskeeper
+1 Horizon Explorer
+1 Icetill Explorer
+1 Juri, Master of the Revue
+1 Korvold, Fae-Cursed King
+1 Lotus Cobra
+1 Mayhem Devil
+1 Mazirek, Kraul Death Priest
+1 Moraug, Fury of Akoum
+1 Multani, Yavimaya's Avatar
+1 Omnath, Locus of Rage
+1 Oracle of Mul Daya
+1 Orcish Lumberjack
+1 Rampaging Baloths
+1 Scouring Swarm
+1 Soul of Windgrace
+1 Springbloom Druid
+1 Szarel, Genesis Shepherd
+1 Tannuk, Memorial Ensign
+1 The Gitrog Monster
+1 Tireless Tracker
+1 Titania, Protector of Argoth
+1 Uurg, Spawn of Turg
+1 Arcane Signet
+1 Exploration Broodship
+1 Hammer of Purphoros
+1 Sol Ring
+1 Zuran Orb
+1 Beast Within
+1 Harrow
+1 Infernal Grasp
+1 Putrefy
+1 Rakdos Charm
+1 Roiling Regrowth
+1 Tear Asunder
+1 Windgrace's Judgment
+1 Blasphemous Act
+1 Cultivate
+1 Escape to the Wilds
+1 Farseek
+1 Formless Genesis
+1 Gaze of Granite
+1 Nature's Lore
+1 Night's Whisper
+1 Planetary Annihilation
+1 Skyshroud Claim
+1 Splendid Reclamation
+1 Spelunking
+1 Undergrowth Recon
+1 Valakut Exploration
+1 Bojuka Bog
+1 Cinder Glade
+1 Command Tower
+1 Dust Bowl
+1 Escape Tunnel
+1 Evolving Wilds
+1 Fabled Passage
+8 Forest
+1 Grove of the Burnwillows
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Lotus Field
+1 Meteor Crater
+5 Mountain
+1 Petrified Field
+1 Reflecting Pool
+1 Riveteers Overlook
+1 Smoldering Marsh
+1 Stomping Ground
+1 Strip Mine
+1 Sulfurous Springs
+5 Swamp
+1 Terrain Generator
+1 Terramorphic Expanse
+1 Vernal Fen
+Sideboard
+1 Hearthhull, the Worldseed

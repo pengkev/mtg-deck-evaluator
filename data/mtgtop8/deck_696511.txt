@@ -1,0 +1,100 @@
+1 Phyrexian Metamorph
+1 Niv-Mizzet, Parun
+1 Magda, Brazen Outlaw
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+1 Tandem Lookout
+1 Glint-Horn Buccaneer
+1 Spectral Sailor
+1 Imperial Recruiter
+1 Lightning-Rig Crew
+1 Siren Stormtamer
+1 Birgi, God of Storytelling
+1 Ragavan, Nimble Pilferer
+1 Ledger Shredder
+1 Faerie Mastermind
+1 Hedron Detonator
+1 Kitesail Larcenist
+1 Sunshot Militia
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Arcane Signet
+1 Maskwood Nexus
+1 The One Ring
+1 Lotus Petal
+1 Talisman of Creativity
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Mox Amber
+1 Lightning Bolt
+1 Red Elemental Blast
+1 Swan Song
+1 Flusterstorm
+1 Deflecting Swat
+1 Trickery Charm
+1 Into the Flood Maw
+1 Pyroblast
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Brain Freeze
+1 Final Fortune
+1 Force of Negation
+1 Fierce Guardianship
+1 Wings of Velis Vel
+1 Mental Misstep
+1 Trickbind
+1 Mindbreak Trap
+1 Resculpt
+1 March of Swirling Mist
+1 An Offer You Can't Refuse
+1 Muddle the Mixture
+1 Flare of Duplication
+1 Gamble
+1 Jeska's Will
+1 Lorien Revealed
+1 Rite of Flame
+1 Curiosity
+1 Rhystic Study
+1 Leyline of Anticipation
+1 Underworld Breach
+1 Mystic Remora
+1 Ophidian Eye
+1 Arcane Adaptation
+1 Guild Artisan
+1 Leyline of Transformation
+1 Tezzeret the Seeker
+1 Cavern of Souls
+1 Scalding Tarn
+1 Mana Confluence
+1 Training Center
+1 Snow-Covered Mountain
+1 Exotic Orchard
+1 Mountain
+1 Command Tower
+1 City of Brass
+1 Cephalid Coliseum
+1 Shivan Reef
+1 Flooded Strand
+1 Minamo, School at Water's Edge
+1 Crystal Vein
+1 Ancient Tomb
+1 Steam Vents
+1 Arid Mesa
+1 Misty Rainforest
+1 Polluted Delta
+1 Wooded Foothills
+1 Volcanic Island
+1 Fiery Islet
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Talon Gates of Madara
+2 Island
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Kediss, Emberclaw Familiar

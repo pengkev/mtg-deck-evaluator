@@ -1,0 +1,90 @@
+1 Aven Mindcensor
+1 Boromir, Warden of the Tower
+1 Cruel Celebrant
+1 Dark Confidant
+1 Drannith Magistrate
+1 Elas il-Kor, Sadistic Pilgrim
+1 Esper Sentinel
+1 Grand Abolisher
+1 Loran of the Third Path
+1 Lotho, Corrupt Shirriff
+1 Mikaeus, the Unhallowed
+9 Nazgul
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Susurian Voidborn
+1 Umbral Collar Zealot
+1 Viscera Seer
+1 Voice of Victory
+1 Walking Ballista
+1 Zulaport Cutthroat
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blasting Station
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The One Ring
+1 Anguished Unmaking
+1 Calamity's Wake
+1 Dark Ritual
+1 Deadly Rollick
+1 Enlightened Tutor
+1 Entomb
+1 Everybody Lives!
+1 Get Lost
+1 Mana Tithe
+1 Oblation
+1 Orim's Chant
+1 Path to Exile
+1 Rebuff the Wicked
+1 Reprieve
+1 Silence
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Withering Boon
+1 Withering Torment
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Diabolic Intent
+1 Reanimate
+1 Toxic Deluge
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Bleachbone Verge
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Fabled Passage
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Marsh Flats
+3 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Shattered Sanctum
+1 Silent Clearing
+2 Swamp
+1 Tainted Field
+1 Tarnished Citadel
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 Verdant Catacombs
+1 Wasteland
+1 Windswept Heath
+Sideboard
+1 Ratadrabik of Urborg

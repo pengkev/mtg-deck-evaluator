@@ -1,0 +1,101 @@
+1 The Cabbage Merchant
+1 Enduring Vitality
+1 Malevolent Hermit
+1 Dryad of the Ilysian Grove
+1 Bloom Tender
+1 Orcish Bowmasters
+1 Valley Floodcaller
+1 Opposition Agent
+1 Faerie Mastermind
+1 Birds of Paradise
+1 Wandering Archaic
+1 Thassa's Oracle
+1 Elves of Deep Shadow
+1 Delighted Halfling
+1 Endurance
+1 Elvish Spirit Guide
+1 Wan Shi Tong, Librarian
+1 Notion Thief
+1 Deathrite Shaman
+1 Mockingbird
+1 Ledger Shredder
+1 Mox Amber
+1 Mana Vault
+1 Chrome Mox
+1 Lotus Petal
+1 The One Ring
+1 Mox Diamond
+1 Fellwar Stone
+1 Arcane Signet
+1 Sol Ring
+1 Force of Negation
+1 Noxious Revival
+1 Veil of Summer
+1 Vampiric Tutor
+1 Fierce Guardianship
+1 Into the Flood Maw
+1 Cyclonic Rift
+1 Pact of Negation
+1 Tainted Pact
+1 Strix Serenade
+1 Dark Ritual
+1 Lim-Dul's Vault
+1 Banishing Knack
+1 Swan Song
+1 Commandeer
+1 Mindbreak Trap
+1 Mental Misstep
+1 Mystical Tutor
+1 Flusterstorm
+1 Chord of Calling
+1 Force of Will
+1 Deadly Rollick
+1 Abrupt Decay
+1 Borne Upon a Wind
+1 Baleful Mastery
+1 Legolas's Quick Reflexes
+1 Demonic Consultation
+1 Mnemonic Betrayal
+1 Yawgmoth's Will
+1 Imperial Seal
+1 Demonic Tutor
+1 Scheming Symmetry
+1 Finale of Devastation
+1 Culling Ritual
+1 Massacre
+1 Mystic Remora
+1 Rhystic Study
+1 Exploration
+1 Sylvan Library
+1 Counterbalance
+1 Necropotence
+1 Swamp
+1 Scalding Tarn
+1 Shifting Woodland
+1 Morphic Pool
+1 Exotic Orchard
+1 Misty Rainforest
+1 Bayou
+1 Overgrown Tomb
+1 Polluted Delta
+1 Marsh Flats
+1 Otawara, Soaring City
+1 Cavern of Souls
+1 Command Tower
+1 Yavimaya, Cradle of Growth
+1 Undergrowth Stadium
+1 Island
+1 Verdant Catacombs
+1 Rejuvenating Springs
+1 Watery Grave
+1 Underground Sea
+1 Minamo, School at Water's Edge
+1 Gemstone Caverns
+1 Urborg, Tomb of Yawgmoth
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Bloodstained Mire
+1 Tropical Island
+1 Flooded Strand
+Sideboard
+1 Glarb, Calamity's Augur

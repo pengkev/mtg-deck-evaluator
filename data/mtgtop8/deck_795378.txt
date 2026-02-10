@@ -1,0 +1,97 @@
+1 Thassa's Oracle
+1 Ledger Shredder
+1 Kozilek, Butcher of Truth
+1 Armored Scrapgorger
+1 Badgermole Cub
+1 Birds of Paradise
+1 Snapcaster Mage
+1 Twitching Doll
+1 Mockingbird
+1 Wandering Archaic
+1 Sanctum Weaver
+1 Priest of Titania
+1 Bloom Tender
+1 Thrasios, Triton Hero
+1 Volatile Stormdrake
+1 Seedborn Muse
+1 Tireless Provisioner
+1 Tender Wildguide
+1 Endurance
+1 Enduring Vitality
+1 Eternal Witness
+1 Trophy Mage
+1 Sylvan Caryatid
+1 Consecrated Sphinx
+1 Walking Ballista
+1 Phyrexian Metamorph
+1 Hullbreaker Horror
+1 Arcane Signet
+1 Mox Opal
+1 Mox Amber
+1 Mox Diamond
+1 Mana Vault
+1 The One Ring
+1 Chimil, the Inner Sun
+1 Talisman of Curiosity
+1 Basalt Monolith
+1 Sol Ring
+1 Lotus Petal
+1 Agatha's Soul Cauldron
+1 Counterspell
+1 Worldly Tutor
+1 Trickbind
+1 Consult the Star Charts
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Gifts Ungiven
+1 Muddle the Mixture
+1 Pact of Negation
+1 Auroral Procession
+1 Force of Vigor
+1 Borne Upon a Wind
+1 Flusterstorm
+1 Flare of Denial
+1 Archdruid's Charm
+1 Mana Drain
+1 Crop Rotation
+1 Mystical Tutor
+1 Force of Will
+1 Force of Negation
+1 Intuition
+1 Fabricate
+1 Finale of Devastation
+1 Rhystic Study
+1 Amphibian Downpour
+1 Copy Artifact
+1 Survival of the Fittest
+1 Mystic Remora
+1 Concordant Crossroads
+1 Freed from the Real
+1 Invasion of Ikoria
+1 Tezzeret, Cruel Captain
+1 Karn, the Great Creator
+1 Minamo, School at Water's Edge
+1 Treasure Vault
+1 Willowrush Verge
+1 Polluted Delta
+1 Command Tower
+1 Tropical Island
+1 Misty Rainforest
+1 Yavimaya Coast
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windswept Heath
+1 Mistrise Village
+1 Boseiju, Who Endures
+1 Gemstone Caverns
+1 Strip Mine
+1 Breeding Pool
+1 Exotic Orchard
+3 Island
+1 Reliquary Tower
+1 Ancient Tomb
+3 Forest
+1 Gaea's Cradle
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,80 @@
+1 Iron Myr
+1 Ornithopter of Paradise
+1 Runaway Steam-Kin
+1 Silver Myr
+1 Storm-Kiln Artist
+1 The Emperor of Palamecia
+1 Unblinking Observer
+1 Arcane Signet
+1 Hero's Blade
+1 Izzet Signet
+1 Mind Stone
+1 Talisman of Creativity
+1 The Celestus
+1 Wayfarer's Bauble
+1 World Map
+1 Big Score
+1 Blazing Crescendo
+1 Brain Freeze
+1 Commune with Lava
+1 Complete the Circuit
+1 Confounding Riddle
+1 Dispel
+1 Drown in Dreams
+1 Electrodominance
+1 Ertai's Meddling
+1 Fact or Fiction
+1 Fire Magic
+1 Firemind's Foresight
+1 Fists of Flame
+1 Frantic Search
+1 Haste Magic
+1 Invert/Invent
+1 Louisoix's Sacrifice
+1 Magic Damper
+1 Memory Lapse
+1 Miscast
+1 Negate
+1 Opt
+1 Reiterate
+1 Searing Touch
+1 Spell Burst
+1 Spell Pierce
+1 Sudden Breakthrough
+1 Supreme Will
+1 Unsubstantiate
+1 Water Wings
+1 Whirlwind Denial
+1 Apex of Power
+1 Brass's Bounty
+1 Combat Tutorial
+1 Epic Experiment
+1 Faithless Looting
+1 Fervent Mastery
+1 Grapeshot
+1 Inner Fire
+1 Inspired Tinkering
+1 Mystic Retrieval
+1 Past in Flames
+1 Pirate's Pillage
+1 Pirate's Prize
+1 Seething Anger
+1 Solve the Equation
+1 Temporal Fissure
+1 Tezzeret's Gambit
+1 Clout of the Dominus
+1 Underworld Breach
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Ferrous Lake
+1 Frostboil Snarl
+11 Island
+12 Mountain
+1 Myriad Landscape
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Terramorphic Expanse
+Sideboard
+1 Vadrik, Astral Archmage

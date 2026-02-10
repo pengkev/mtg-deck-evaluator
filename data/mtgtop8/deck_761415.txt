@@ -1,0 +1,73 @@
+1 Voidslime
+1 Tamiyo's Safekeeping
+1 Yavimaya Coast
+1 Weirding Wood
+1 Wilderness Reclamation
+1 Wild Growth
+1 Waterlogged Grove
+1 Wash Away
+1 Voyaging Satyr
+1 Vineglimmer Snarl
+1 Verdant Haven
+1 Vizier of Tumbling Sands
+1 Unable to Scream
+1 Stream of Thought
+1 Utopia Sprawl
+1 Turnabout
+1 Training Grounds
+1 Tolaria West
+1 Teferi, Mage of Zhalfir
+1 Tatyova, Benthic Druid
+1 Stone-Seeder Hierophant
+1 Summoner's Pact
+1 Spell Burst
+1 Snap
+1 Seedborn Muse
+1 Sanctum Weaver
+1 Sage of the Maze
+1 Rewind
+1 Retreat to Coralhelm
+1 Resculpt
+1 Reclamation Sage
+1 Portent Tracker
+1 Planar Genesis
+1 Pemmin's Aura
+1 Overgrowth
+1 Oboro Breezecaller
+1 Muddle the Mixture
+1 Market Festival
+1 Mana Reflection
+1 Leadership Vacuum
+1 Krosan Restorer
+1 Kiora's Follower
+15 Island
+1 Into the Flood Maw
+1 Hinterland Harbor
+1 Glittering Frost
+1 Galvanic Alchemist
+1 Freed from the Real
+1 Frantic Search
+15 Forest
+1 Flusterstorm
+1 Flooded Grove
+1 Fertile Ground
+1 Evacuation
+1 Eternal Witness
+1 Drift of Phantasms
+1 Nature's Claim
+1 Deserted Temple
+1 Dawn's Reflection
+1 Negate
+1 Counterspell
+1 Cogwork Assembler
+1 Command Tower
+1 Chord of Calling
+1 Blink of an Eye
+1 Biomancer's Familiar
+1 Blighted Burgeoning
+1 Beast Within
+1 Arbor Elf
+1 Amphibian Downpour
+1 Autumn's Veil
+Sideboard
+1 Gretchen Titchwillow

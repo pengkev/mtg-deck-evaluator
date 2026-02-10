@@ -1,0 +1,73 @@
+1 Agonasaur Rex
+1 Altanak, the Thrice-Called
+1 Ancient Stone Idol
+1 Black Cat, Cunning Thief
+1 Brawn
+1 Containment Construct
+1 Eldrazi Devastator
+1 Eldrazi Ravager
+1 Forgotten Ancient
+1 Golgari Grave-Troll
+1 Grendel, Spawn of Knull
+1 Gwenom, Remorseless
+1 Ikra Shidiqi, the Usurper
+1 Impervious Greatwurm
+1 Jarad, Golgari Lich Lord
+1 Krosan Tusker
+1 Lotleth Troll
+1 Merciless Enforcers
+1 Nyx Weaver
+1 Nyxathid
+1 Scorpion, Seething Striker
+1 Selvala, Heart of the Wilds
+1 Stitcher's Supplier
+1 Symbiote Spawn
+1 Titanoth Rex
+1 Tombstone, Career Criminal
+1 Troll of Khazad-dum
+1 Ulamog's Crusher
+1 Varolz, the Scar-Striped
+1 Venom, Eddie Brock
+1 Venom, Evil Unleashed
+1 Venomized Cat
+1 Warped Tusker
+1 Arcane Signet
+1 Eerie Gravestone
+1 Mask of Griselbrand
+1 Perpetual Timepiece
+1 Sol Ring
+1 The Earth Crystal
+1 Bitter Triumph
+1 Corpse Churn
+1 Deadly Dispute
+1 Deathsprout
+1 Grisly Salvage
+1 Inspiring Call
+1 Murder
+1 Revitalizing Repast
+1 Songs of the Damned
+1 Cultivate
+1 Farseek
+1 Flare of Cultivation
+1 From the Catacombs
+1 Hex
+1 Lethal Protection
+1 Mandate of Abaddon
+1 Midgar, City of Mako
+1 Open the Gates
+1 Reanimate
+1 Victimize
+1 Alien Symbiosis
+1 Guardian Project
+1 Lush Growth
+1 Parker Luck
+1 Thran Vigil
+1 Command Tower
+1 Exotic Orchard
+15 Forest
+1 Path of Ancestry
+1 Rogue's Passage
+15 Swamp
+1 Temple of the False God
+Sideboard
+1 Venom, Deadly Devourer

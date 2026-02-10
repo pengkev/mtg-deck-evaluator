@@ -1,0 +1,101 @@
+1 Aftermath Analyst
+1 Dryad of the Ilysian Grove
+1 Elvish Reclaimer
+1 Endurance
+1 Hermit Druid
+1 Horizon Explorer
+1 Icetill Explorer
+1 Krosan Wayfarer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Nissa, Resurgent Animist
+1 Seedship Broodtender
+1 Six
+1 Sylvan Safekeeper
+1 Thassa's Oracle
+1 Tireless Provisioner
+1 Traveling Chocobo
+1 Amulet of Vigor
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Zuran Orb
+1 Archdruid's Charm
+1 Chord of Calling
+1 Consign to Memory
+1 Crop Rotation
+1 Dark Ritual
+1 Demonic Consultation
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Legolas's Quick Reflexes
+1 Memory's Journey
+1 Mystical Tutor
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Demonic Tutor
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Reanimate
+1 Scapeshift
+1 Splendid Reclamation
+1 Will of the Sultai
+1 Exploration
+1 Manabond
+1 Mystic Remora
+1 Rhystic Study
+1 Spelunking
+1 Squandered Resources
+1 Sylvan Library
+1 Tezzeret, Cruel Captain
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Bayou
+1 Blast Zone
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cephalid Coliseum
+1 Command Tower
+1 Conduit Pylons
+1 Crumbling Vestige
+1 Emergence Zone
+1 Field of the Dead
+1 Flooded Grove
+1 Gaea's Cradle
+1 Golgari Rot Farm
+1 Hedge Maze
+1 Hidden Nursery
+1 Horizon of Progress
+1 Lotus Field
+1 Lush Oasis
+1 Mirrorpool
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Port of Karfell
+1 Shifting Woodland
+1 Simic Growth Chamber
+1 Talon Gates of Madara
+1 Tropical Island
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground Sea
+1 Urza's Cave
+1 Verdant Catacombs
+1 Vesuva
+1 Waterlogged Grove
+1 Watery Grave
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+Sideboard
+1 Glarb, Calamity's Augur

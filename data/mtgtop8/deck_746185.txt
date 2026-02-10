@@ -1,0 +1,71 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Baral, Chief of Compliance
+1 Brazen Borrower
+1 Curiosity Crafter
+1 Docent of Perfection
+1 Gale, Waterdeep Prodigy
+1 Ornithopter of Paradise
+1 Silver Myr
+1 Thunderclap Drake
+1 Volatile Stormdrake
+1 Wavebreak Hippocamp
+1 Arcane Signet
+1 Commander's Sphere
+1 Heraldic Banner
+1 Mind Stone
+1 Sapphire Medallion
+1 Sky Diamond
+1 Abjure
+1 Aetherize
+1 Alchemist's Retrieval
+1 Blustersquall
+1 Brainstorm
+1 Commandeer
+1 Counterspell
+1 Cryptic Command
+1 Disrupt
+1 Engulf the Shore
+1 Flow of Knowledge
+1 High Tide
+1 Jwari Disruption
+1 Magic Damper
+1 Mana Leak
+1 Memory Lapse
+1 Mystic Reflection
+1 Opt
+1 Pongify
+1 Quicken
+1 Rapid Hybridization
+1 Reality Shift
+1 Run Away Together
+1 Silundi Vision
+1 Snapback
+1 Spell Pierce
+1 Submerge
+1 Wash Away
+1 Wizard's Retort
+1 Aether Gale
+1 Candlekeep Inspiration
+1 Cone of Cold
+1 Curse of the Swine
+1 Flow of Ideas
+1 Ponder
+1 Preordain
+1 Step Through
+1 Switcheroo
+1 Tempted by the Oriq
+1 Wash Out
+1 Windfall
+1 Winged Words
+1 Amphibian Downpour
+1 Favorable Winds
+1 Jace's Sanctum
+1 Narset, Parter of Veils
+1 Castle Vantress
+31 Island
+1 Myriad Landscape
+1 Riptide Laboratory
+1 Terrain Generator
+Sideboard
+1 Talrand, Sky Summoner

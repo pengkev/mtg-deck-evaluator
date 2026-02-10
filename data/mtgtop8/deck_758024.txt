@@ -1,0 +1,95 @@
+1 Aftermath Analyst
+1 Azusa, Lost but Seeking
+1 Baloth Prime
+1 Braids, Arisen Nightmare
+1 Broodguard Elite
+1 Centaur Vinecrasher
+1 Drix Fatemaker
+1 Dryad of the Ilysian Grove
+1 Elvish Reclaimer
+1 Evolution Witness
+1 Horizon Explorer
+1 Icetill Explorer
+1 Jenova, Ancient Calamity
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Korvold, Fae-Cursed King
+1 Lotus Cobra
+1 Mazirek, Kraul Death Priest
+1 Mightform Harmonizer
+1 Moraug, Fury of Akoum
+1 Mossborn Hydra
+1 Oracle of Mul Daya
+1 Ouroboroid
+1 Rampaging Baloths
+1 Sakura-Tribe Elder
+1 Scute Swarm
+1 Springbloom Druid
+1 Summon: Titan
+1 Sylvan Safekeeper
+1 The Gitrog Monster
+1 Tireless Provisioner
+1 Titania, Protector of Argoth
+1 World Shaper
+1 Amulet of Vigor
+1 Hearthhull, the Worldseed
+1 Larval Scoutlander
+1 Sol Ring
+1 The Earth Crystal
+1 Thunderous Velocipede
+1 Zuran Orb
+1 Assassin's Trophy
+1 Beast Within
+1 Crop Rotation
+1 Entish Restoration
+1 Tear Asunder
+1 Blasphemous Act
+1 Farseek
+1 Gaze of Granite
+1 Midgar, City of Mako
+1 Nahiri's Lithoforming
+1 Nature's Lore
+1 Pest Infestation
+1 Rishkar's Expertise
+1 Splendid Reclamation
+1 Vandalblast
+1 Will of the Sultai
+1 Branching Evolution
+1 Khalni Heart Expedition
+1 Loading Zone
+1 Song of the Dryads
+1 Terrasymbiosis
+1 Bojuka Bog
+1 Cabaretti Courtyard
+1 Cinder Glade
+1 Command Tower
+1 Dryad Arbor
+1 Eumidian Hatchery
+1 Evendo, Waking Haven
+1 Fabled Passage
+1 Field of the Dead
+5 Forest
+1 Ghost Quarter
+1 Glacial Chasm
+1 Kavaron, Memorial World
+1 Kessig Wolf Run
+1 Maestros Theater
+1 Mirrorpool
+1 Mosswort Bridge
+2 Mountain
+1 Myriad Landscape
+1 Riveteers Overlook
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Snow-Covered Wastes
+1 Stomping Ground
+2 Swamp
+1 Swarmyard
+1 Urza's Cave
+1 Vernal Fen
+1 Westvale Abbey
+1 Yavimaya, Cradle of Growth
+1 Ziatora's Proving Ground
+Sideboard
+1 Szarel, Genesis Shepherd

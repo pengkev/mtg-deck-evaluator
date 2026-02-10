@@ -1,0 +1,95 @@
+1 Gyre Sage
+1 Taurean Mauler
+1 Ghalta, Primal Hunger
+1 Goblin Anarchomancer
+1 Duskshell Crawler
+1 Halana and Alena, Partners
+1 Managorger Hydra
+1 Thundering Raiju
+1 Ascendant Acolyte
+1 Ancient Bronze Dragon
+1 Defiler of Vigor
+1 Clamavus
+1 Tyrranax Rex
+1 Cankerbloom
+1 Zopandrel, Hunger Dominus
+1 Urabrask the Hidden
+1 Kami of Whispered Hopes
+1 Etali, Primal Conqueror
+1 Surrak and Goreclaw
+1 Renata, Called to the Hunt
+1 Kalonian Hydra
+1 Stalking Vengeance
+1 Cazur, Ruthless Stalker
+1 Ulamog, the Defiler
+1 Evolution Witness
+1 Tender Wildguide
+1 Evolution Sage
+1 Etali, Primal Storm
+1 Redshift, Rocketeer Chief
+1 Loyal Guardian
+1 The Ozolith
+1 Fractal Harness
+1 Ozolith, the Shattered Spire
+1 Arcane Signet
+1 Everflowing Chalice
+1 Sol Ring
+1 Invigorating Surge
+1 Ram Through
+1 Beast Within
+1 Heritage Reclamation
+1 Snakeskin Veil
+1 Inspiring Call
+1 Courage in Crisis
+1 Cultivate
+1 Unnatural Restoration
+1 Kodama's Reach
+1 Explore
+1 Blasphemous Act
+1 Stump Stomp
+1 Fangs of Kalonia
+1 Rishkar's Expertise
+1 Chandra's Ignition
+1 Rampant Growth
+1 Traverse the Ulvenwald
+1 Full Throttle
+1 Nature's Rhythm
+1 Traverse the Outlands
+1 Death's Presence
+1 Unnatural Growth
+1 Invigorating Hot Spring
+1 Tribute to the World Tree
+1 Rhythm of the Wild
+1 Hardened Scales
+1 Branching Evolution
+1 Innkeeper's Talent
+1 Arni Slays the Troll
+1 Domri, Chaos Bringer
+1 Mosswort Bridge
+1 Karplusan Forest
+1 Rootbound Crag
+1 Oran-Rief, the Vastwood
+1 Mossfire Valley
+1 Gruul Turf
+1 Stomping Ground
+1 Command Tower
+1 Game Trail
+1 Cinder Glade
+1 Rockfall Vale
+1 Karn's Bastion
+1 Drannith Ruins
+1 Temple of Abandon
+1 Wooded Foothills
+1 Reliquary Tower
+1 Kessig Wolf Run
+1 Sheltered Thicket
+1 Thornspire Verge
+1 Rugged Highlands
+4 Mountain
+4 Forest
+1 Gruul Guildgate
+1 Spire Garden
+1 Arena of Glory
+1 Exotic Orchard
+Sideboard
+1 Minsc & Boo, Timeless Heroes

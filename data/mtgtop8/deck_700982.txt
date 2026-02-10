@@ -1,0 +1,101 @@
+1 Gravecrawler
+1 Undead Augur
+1 Wayward Servant
+1 Putrid Imp
+1 Thassa's Oracle
+1 Esper Sentinel
+1 Shambling Ghast
+1 Archivist of Oghma
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Ranger-Captain of Eos
+1 Psychic Frog
+1 Warren Soultrader
+1 Pollywog Prodigy
+1 Hashaton, Scarab's Fist
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Sol Ring
+1 Currency Converter
+1 Arcane Signet
+1 Springleaf Drum
+1 Mox Opal
+1 Mana Vault
+1 Mox Diamond
+1 Phyrexian Altar
+1 The One Ring
+1 Fellwar Stone
+1 Lotus Petal
+1 Frantic Search
+1 Pact of Negation
+1 Entomb
+1 Path to Exile
+1 Mental Misstep
+1 Pongify
+1 Silence
+1 Cabal Ritual
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Swan Song
+1 Dark Ritual
+1 Tainted Pact
+1 An Offer You Can't Refuse
+1 Force of Will
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Culling the Weak
+1 Mindbreak Trap
+1 Flusterstorm
+1 Slaughter Pact
+1 Spell Snare
+1 Ad Nauseam
+1 Stubborn Denial
+1 Consign to Memory
+1 Into the Flood Maw
+1 Chain of Vapor
+1 Force of Negation
+1 Imperial Seal
+1 Demonic Tutor
+1 Diabolic Intent
+1 Damn
+1 Sevinne's Reclamation
+1 Unearth
+1 Lively Dirge
+1 Pest Control
+1 Rhystic Study
+1 Mystic Remora
+1 Necromancy
+1 The Meathook Massacre
+1 Godless Shrine
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Cephalid Coliseum
+1 Minamo, School at Water's Edge
+1 Bloodstained Mire
+1 Polluted Delta
+1 Sea of Clouds
+1 Morphic Pool
+1 Gemstone Caverns
+1 Marsh Flats
+1 Command Tower
+1 Otawara, Soaring City
+1 City of Brass
+1 Exotic Orchard
+1 Flooded Strand
+1 Hallowed Fountain
+1 Mana Confluence
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Misty Rainforest
+1 Vault of Champions
+1 Meticulous Archive
+1 Undercity Sewers
+1 Spymaster's Vault
+Sideboard
+1 Varina, Lich Queen

@@ -1,0 +1,70 @@
+20 Forest
+13 Mountain
+1 Command Tower
+1 Ornithopter of Paradise
+1 Comet Storm
+1 Viridian Joiner
+1 Elvish Mystic
+1 Fauna Shaman
+1 Genesis Wave
+1 Iron Myr
+1 Rishkar's Expertise
+1 Quirion Elves
+1 Elvish Harbinger
+1 Fierce Empath
+1 Volcanic Geyser
+1 Kami of Whispered Hopes
+1 Terastodon
+1 Kamahl, Heart of Krosa
+1 End-Raze Forerunners
+1 Rising of the Day
+1 Drover of the Mighty
+1 Into the Fire
+1 Wave of Vitriol
+1 Leyline of Abundance
+1 Genesis Hydra
+1 Zopandrel, Hunger Dominus
+1 Garruk, Primal Hunter
+1 Llanowar Elves
+1 Bramble Familiar
+1 Jaya's Immolating Inferno
+1 Cradle Clearcutter
+1 Elvish Archdruid
+1 Fangorn, Tree Shepherd
+1 Ilysian Caryatid
+1 Incubation Druid
+1 Shamanic Revelation
+1 Karametra's Acolyte
+1 Archetype of Endurance
+1 Armored Scrapgorger
+1 Heronblade Elite
+1 Dawnglade Regent
+1 Tooth and Nail
+1 Duskwatch Recruiter
+1 Ruby, Daring Tracker
+1 Marwyn, the Nurturer
+1 Fires of Yavimaya
+1 Praetor's Counsel
+1 Temur Sabertooth
+1 Regal Force
+1 Priest of Titania
+1 Leafkin Druid
+1 Commune with Lava
+1 Electrodominance
+1 Escape to the Wilds
+1 Last March of the Ents
+1 Myr Convert
+1 Squall Line
+1 Green Sun's Twilight
+1 Rishkar, Peema Renegade
+1 Whisperer of the Wilds
+1 Fall of the Titans
+1 Ghitu Fire
+1 Spine of Ish Sah
+1 Fyndhorn Elves
+1 Selvala, Heart of the Wilds
+1 Worldsoul's Rage
+1 Spider Manifestation
+1 Jumbo Cactuar
+Sideboard
+1 Raggadragga, Goreguts Boss

@@ -1,0 +1,100 @@
+1 Anzrag, the Quake-Mole
+1 Armored Scrapgorger
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Bloom Tender
+1 Bugenhagen, Wise Elder
+1 Captain Sisay
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Elvish Mystic
+1 Enduring Courage
+1 Esper Sentinel
+1 Etali, Primal Conqueror
+1 Faeburrow Elder
+1 Fanatic of Rhonas
+1 Fyndhorn Elves
+1 Goblin Anarchomancer
+1 Gogo, Mysterious Mime
+1 Gwenna, Eyes of Gaea
+1 Hellkite Courser
+1 Intrepid Paleontologist
+1 Klauth, Unrivaled Ancient
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Managorger Hydra
+1 Orcish Siegemaster
+1 Oviya, Automech Artisan
+1 Pathbreaker Ibex
+1 Phyrexian Censor
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Ruby, Daring Tracker
+1 Selvala, Heart of the Wilds
+1 Sephiroth, Fallen Hero
+1 Skyhunter Strike Force
+1 Toski, Bearer of Secrets
+1 Voice of Victory
+1 Witch Enchanter
+1 Lightning Greaves
+1 Sol Ring
+1 The Great Henge
+1 The One Ring
+1 Trinisphere
+1 Akroma's Will
+1 Berserk
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Flawless Maneuver
+1 Heroic Intervention
+1 Worldly Tutor
+1 Bridgeworks Battle
+1 Finale of Devastation
+1 Gamble
+1 Green Sun's Zenith
+1 Natural Order
+1 Wheel of Fortune
+1 Aggravated Assault
+1 Carpet of Flowers
+1 Deafening Silence
+1 High Noon
+1 Rhythm of the Wild
+1 Rising of the Day
+1 Sneak Attack
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Dryad Arbor
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Jetmir's Garden
+1 Lush Portico
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+2 Mountain
+1 Plains
+1 Plateau
+1 Sacred Foundry
+1 Savannah
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Tifa, Martial Artist

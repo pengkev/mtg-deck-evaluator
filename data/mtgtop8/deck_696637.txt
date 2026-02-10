@@ -1,0 +1,101 @@
+1 Tidespout Tyrant
+1 Hullbreaker Horror
+1 Manifold Key
+1 Paradise Mantle
+1 Defense Grid
+1 Grim Monolith
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Mox Opal
+1 Springleaf Drum
+1 Lion's Eye Diamond
+1 Basalt Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Mox Amber
+1 Sol Ring
+1 Chrome Mox
+1 Proteus Staff
+1 Moonsnare Prototype
+1 Imposter Mech
+1 Relic of Legends
+1 Unwinding Clock
+1 Arcane Signet
+1 The One Ring
+1 Fellwar Stone
+1 Lotus Petal
+1 Whir of Invention
+1 Mystical Tutor
+1 Brain Freeze
+1 Intuition
+1 Cyclonic Rift
+1 Pyroblast
+1 Red Elemental Blast
+1 Muddle the Mixture
+1 Chain of Vapor
+1 Pact of Negation
+1 Flusterstorm
+1 Mana Drain
+1 Swan Song
+1 Final Fortune
+1 Lightning Bolt
+1 Chaos Mutation
+1 Borne Upon a Wind
+1 Divergent Transformations
+1 Sink into Stupor
+1 Force of Negation
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Mental Misstep
+1 Noxious Revival
+1 Mindbreak Trap
+1 Force of Will
+1 Commandeer
+1 Flare of Denial
+1 Flare of Duplication
+1 Transmogrify
+1 Transmute Artifact
+1 Wheel of Fortune
+1 Timetwister
+1 Polymorph
+1 Reality Scramble
+1 Windfall
+1 Gamble
+1 Jeska's Will
+1 Mirrormade
+1 Power Artifact
+1 Steal Enchantment
+1 Sylvan Library
+1 Rhystic Study
+1 Mystic Remora
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 City of Traitors
+1 Breeding Pool
+1 Ancient Tomb
+1 Steam Vents
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Windswept Heath
+1 Training Center
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 City of Brass
+1 Rejuvenating Springs
+1 Flooded Strand
+1 Polluted Delta
+1 Shifting Woodland
+1 Command Tower
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Thrasios, Triton Hero

@@ -1,0 +1,92 @@
+1 Topiary Stomper
+1 Regal Behemoth
+1 Quartzwood Crasher
+1 Wayward Swordtooth
+1 Regisaur Alpha
+1 Xenagos, God of Revels
+1 Zetalpa, Primal Dawn
+1 Wakening Sun's Avatar
+1 Temple Altisaur
+1 Otepec Huntmaster
+1 Etali, Primal Storm
+1 Drover of the Mighty
+1 Apex Altisaur
+1 Bronzebeak Foragers
+1 Sunfrill Imitator
+1 Scion of Calamity
+1 Curious Altisaur
+1 Wrathful Raptors
+1 Ixalli's Lorekeeper
+1 Curator of Sun's Creation
+1 Earthshaker Dreadmaw
+1 Thrashing Brontodon
+1 Flaming Tyrannosaurus
+1 Dinosaurs on a Spaceship
+1 Ghalta, Stampede Tyrant
+1 Etali, Primal Conqueror
+1 Ghalta and Mavren
+1 Tyrranax Rex
+1 Gishath, Sun's Avatar
+3 Plains
+3 Mountain
+6 Forest
+1 Sacred Foundry
+1 Windswept Heath
+1 Unclaimed Territory
+1 Thriving Heath
+1 Thriving Grove
+1 Thriving Bluff
+1 Secluded Courtyard
+1 Mosswort Bridge
+1 Kessig Wolf Run
+1 Jungle Shrine
+1 Game Trail
+1 Furycalm Snarl
+1 Fortified Village
+1 Exotic Orchard
+1 Evolving Wilds
+1 Command Tower
+1 Clifftop Retreat
+1 Cinder Glade
+1 Arch of Orazca
+1 Rogue's Passage
+1 Myriad Landscape
+1 Terramorphic Expanse
+1 Canopy Vista
+1 Path of Ancestry
+1 Monstrous Vortex
+1 Rhythm of the Wild
+1 From the Rubble
+1 Hunting Grounds
+1 Sneak Attack
+1 Greater Good
+1 Warstorm Surge
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Farseek
+1 Chandra's Ignition
+1 Cultivate
+1 Contest of Claws
+1 Kodama's Reach
+1 Finale of Devastation
+1 Return of the Wildspeaker
+1 Akroma's Will
+1 Path to Exile
+1 Generous Gift
+1 Everybody Lives!
+1 Ephemerate
+1 Urza's Incubator
+1 Sol Ring
+1 Arcane Signet
+1 Cryptic Gateway
+1 Monster Manual
+1 Oviya, Automech Artisan
+1 Ghalta, Primal Hunger
+1 Fanatic of Rhonas
+1 Rampaging Brontodon
+1 Atzocan Seer
+1 Verdant Sun's Avatar
+1 Zacama, Primal Calamity
+Sideboard
+1 Pantlaza, Sun-Favored

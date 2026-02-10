@@ -1,0 +1,101 @@
+1 Ranger-Captain of Eos
+1 Leonin Relic-Warder
+1 Drannith Magistrate
+1 Opposition Agent
+1 Esper Sentinel
+1 Dauthi Voidwalker
+1 Bennie Bracks, Zoologist
+1 Braids, Arisen Nightmare
+1 Drana and Linvala
+1 Walking Ballista
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Aven Interrupter
+1 Archivist of Oghma
+1 Rune-Scarred Demon
+1 Voice of Victory
+1 Hardened Tactician
+1 Witch Enchanter
+1 Razaketh, the Foulblooded
+1 Abdel Adrian, Gorion's Ward
+1 Lurrus of the Dream-Den
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Sol Ring
+1 Mox Diamond
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 The One Ring
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Angel's Grace
+1 Silence
+1 Dark Ritual
+1 Entomb
+1 Path to Exile
+1 Cabal Ritual
+1 Tainted Pact
+1 Fracture
+1 March of Otherworldly Light
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Reprieve
+1 Deadly Rollick
+1 Culling the Weak
+1 Sacrifice
+1 Saw in Half
+1 Ephemerate
+1 Swords to Plowshares
+1 Peer into the Abyss
+1 Bitter Ordeal
+1 Imperial Seal
+1 Demonic Tutor
+1 Unmarked Grave
+1 Praetor's Grasp
+1 Sevinne's Reclamation
+1 Beseech the Mirror
+1 Scheming Symmetry
+1 Reanimate
+1 Yawgmoth's Will
+1 Demonic Counsel
+1 Necropotence
+1 Urza's Saga
+1 The Meathook Massacre
+1 Animate Dead
+1 Blind Obedience
+1 Caretaker's Talent
+1 Smothering Tithe
+1 Dance of the Dead
+1 Trouble in Pairs
+1 Necromancy
+1 Tinybones Joins Up
+1 Marsh Flats
+1 Arid Mesa
+1 Emergence Zone
+1 Flooded Strand
+1 Polluted Delta
+1 Mana Confluence
+1 Vault of Champions
+1 Verdant Catacombs
+1 Takenuma, Abandoned Mire
+1 Caves of Koilos
+1 Godless Shrine
+1 Plains
+1 Ancient Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Gemstone Caverns
+1 Command Tower
+1 Swamp
+1 Shadowy Backstreet
+1 Windswept Heath
+1 Phyrexian Tower
+1 Talon Gates of Madara
+1 Silent Clearing
+1 Bleachbone Verge
+1 Scrubland
+1 City of Brass
+Sideboard
+1 Lotho, Corrupt Shirriff

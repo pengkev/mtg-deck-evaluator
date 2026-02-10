@@ -1,0 +1,101 @@
+1 Walking Ballista
+1 Trinket Mage
+1 Spellskite
+1 Phyrexian Metamorph
+1 Liberator, Urza's Battlethopter
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Valley Floodcaller
+1 Clever Impersonator
+1 Thassa's Oracle
+1 Opposition Agent
+1 Malevolent Hermit
+1 Spellseeker
+1 Mockingbird
+1 Venser, Shaper Savant
+1 Basim Ibn Ishaq
+1 Mox Diamond
+1 Wishclaw Talisman
+1 Sensei's Divining Top
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Defense Grid
+1 Grim Monolith
+1 Mana Vault
+1 Mox Opal
+1 Mox Amber
+1 Chrome Mox
+1 Talisman of Dominance
+1 Moonsilver Key
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Sol Ring
+1 Fellwar Stone
+1 Lotus Petal
+1 Pact of Negation
+1 Flusterstorm
+1 Tainted Pact
+1 Memory Deluge
+1 Vampiric Tutor
+1 Fierce Guardianship
+1 An Offer You Can't Refuse
+1 Whir of Invention
+1 Swan Song
+1 Daze
+1 Deadly Rollick
+1 Dark Ritual
+1 Dispel
+1 Mental Misstep
+1 Demonic Consultation
+1 Force of Will
+1 Retraction Helix
+1 Banishing Knack
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Fleeting Reflection
+1 Mindbreak Trap
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Lim-Dul's Vault
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Scheming Symmetry
+1 Transmute Artifact
+1 Merchant Scroll
+1 Imperial Seal
+1 Stock Up
+1 Necropotence
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Ashiok, Dream Render
+1 Tezzeret the Seeker
+1 Narset, Parter of Veils
+1 Ancient Tomb
+1 Flooded Strand
+1 Tolaria West
+1 Polluted Delta
+1 Morphic Pool
+1 City of Brass
+1 Underground River
+1 Island
+1 Undercity Sewers
+1 Command Tower
+1 Spire of Industry
+1 City of Traitors
+1 Minamo, School at Water's Edge
+1 Watery Grave
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Underground Sea
+1 Tarnished Citadel
+1 Marsh Flats
+1 Otawara, Soaring City
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Seat of the Synod
+1 Vault of Whispers
+1 Verdant Catacombs
+Sideboard
+1 Rona, Herald of Invasion

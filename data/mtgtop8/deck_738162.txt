@@ -1,0 +1,81 @@
+1 Aerial Extortionist
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Bartz and Boko
+1 Birds of Paradise
+1 Celestial Gatekeeper
+1 Crookclaw Elder
+1 Derevi, Empyrial Tactician
+1 Donal, Herald of Wings
+1 Eagle of Deliverance
+1 Enduring Curiosity
+1 Esior, Wardwing Familiar
+1 Falco Spara, Pactweaver
+1 Gilded Goose
+1 Jackdaw Savior
+1 Jubilant Skybonder
+1 Judge's Familiar
+1 Kangee, Aerie Keeper
+1 Kangee, Sky Warden
+1 Kastral, the Windcrested
+1 Keeper of the Nine Gales
+1 Kykar, Zephyr Awakener
+1 Ledger Shredder
+1 Magus of the Moat
+1 Mockingbird
+1 Plumecreed Escort
+1 Priest of the Crossing
+1 Radagast, Wizard of Wilds
+1 Roaming Throne
+1 Senu, Keen-Eyed Protector
+1 Sephara, Sky's Blade
+1 Steel-Plume Marshal
+1 Tawnos, the Toymaker
+1 The Goose Mother
+1 Traveling Chocobo
+1 Warden of Evos Isle
+1 Watcher of the Spheres
+1 Wingmate Roc
+1 Arcane Signet
+1 Sol Ring
+1 Flare of Fortitude
+1 Flawless Maneuver
+1 Growth Spiral
+1 Heliod's Intervention
+1 Heroic Intervention
+1 Perch Protection
+1 Planar Genesis
+1 Winged Portent
+1 Airborne Aid
+1 Everything Comes to Dust
+1 Farseek
+1 Harvest Season
+1 Nature's Lore
+1 Raise the Palisade
+1 Requisition Raid
+1 Flowering of the White Tree
+1 Kindred Discovery
+1 Murmuration
+1 Reconnaissance Mission
+1 Reflections of Littjara
+1 Soulcatchers' Aerie
+1 Alchemist's Refuge
+1 Animal Sanctuary
+1 Command Tower
+7 Forest
+1 Gavony Township
+8 Island
+1 Lilypad Village
+1 Lupinflower Village
+1 Mutavault
+1 Path of Ancestry
+8 Plains
+1 Prairie Stream
+1 Restless Anchorage
+1 Seaside Citadel
+1 Seaside Haven
+1 Three Tree City
+1 Tranquil Landscape
+1 Urza's Cave
+Sideboard
+1 Choco, Seeker of Paradise

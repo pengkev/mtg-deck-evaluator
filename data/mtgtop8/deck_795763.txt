@@ -1,0 +1,79 @@
+1 Naga Fleshcrafter
+1 Edric, Spymaster of Trest
+1 Augmenter Pugilist
+1 Cryptoplasm
+1 Mocking Doppelganger
+1 Nascent Metamorph
+1 Cephalid Facetaker
+1 Clever Impersonator
+1 Octomancer
+1 Spark Double
+1 Chameleon, Master of Disguise
+1 Progenitor Mimic
+1 Phantasmal Image
+1 Stunt Double
+1 Mirror Box
+1 Helm of the Host
+1 Psychic Paper
+1 Mirage Mirror
+1 Sol Ring
+1 Midnight Clock
+1 Talisman of Curiosity
+1 Simic Signet
+1 Imposter Mech
+1 Arcane Signet
+1 See Double
+1 Theoretical Duplication
+1 Resculpt
+1 Beast Within
+1 Mystic Reflection
+1 Double Major
+1 Growth Spiral
+1 Reality Shift
+1 Nature's Claim
+1 Collective Resistance
+1 Rite of Replication
+1 Irenicus's Vile Duplication
+1 Replication Technique
+1 Farseek
+1 Rampant Growth
+1 Harmonize
+1 Croaking Counterpart
+1 Aggressive Biomancy
+1 Quantum Misalignment
+1 Kodama's Reach
+1 Spitting Image
+1 Tempt with Reflections
+1 Stolen Identity
+1 Cultivate
+1 Flash Photography
+1 Boomerang Basics
+1 Rishkar's Expertise
+1 Curse of the Swine
+1 Relm's Sketching
+1 Sakashima's Will
+1 Ember Island Production
+1 Doppelgang
+1 Vesuvan Duplimancy
+1 Season of Growth
+1 Thickest in the Thicket
+1 Colossal Majesty
+1 Bred for the Hunt
+1 Extravagant Replication
+1 Oko, the Ringleader
+12 Forest
+1 Vineglimmer Snarl
+1 Overflowing Basin
+1 Evolving Wilds
+1 Hinterland Harbor
+1 Flooded Grove
+1 Terramorphic Expanse
+1 Temple of Mystery
+1 Command Tower
+1 Dreamroot Cascade
+1 Littjara Mirrorlake
+12 Island
+1 Myriad Landscape
+1 Simic Growth Chamber
+Sideboard
+1 Kimahri, Valiant Guardian

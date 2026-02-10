@@ -1,0 +1,101 @@
+1 Delney, Streetwise Lookout
+1 Mockingbird
+1 Drannith Magistrate
+1 Valley Floodcaller
+1 Wan Shi Tong, Librarian
+1 Phyrexian Walker
+1 Displacer Kitten
+1 Thassa's Oracle
+1 Lady Octopus, Inspired Inventor
+1 Voice of Victory
+1 Scheming Fence
+1 Tataru Taru
+1 Dour Port-Mage
+1 Phyrexian Metamorph
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Soulless Jailer
+1 Spellseeker
+1 Ranger-Captain of Eos
+1 Ledger Shredder
+1 Esper Sentinel
+1 Ornithopter
+1 Starfield Vocalist
+1 Flesh Duplicate
+1 Spellskite
+1 Felidar Guardian
+1 Phelia, Exuberant Shepherd
+1 Manifold Key
+1 Chrome Mox
+1 The One Ring
+1 Relic of Legends
+1 Grim Monolith
+1 Grafdigger's Cage
+1 Mox Diamond
+1 Sol Ring
+1 Mox Opal
+1 Arcane Signet
+1 Mox Amber
+1 Machine God's Effigy
+1 Mana Vault
+1 Talisman of Progress
+1 Lotus Petal
+1 Louisoix's Sacrifice
+1 Ephemerate
+1 Flusterstorm
+1 Force of Will
+1 Momentary Blink
+1 Path to Exile
+1 Swan Song
+1 Silence
+1 Cloudshift
+1 Chain of Vapor
+1 An Offer You Can't Refuse
+1 Ghostly Flicker
+1 Commandeer
+1 Pact of Negation
+1 Mental Misstep
+1 Fierce Guardianship
+1 Essence Flux
+1 Hide on the Ceiling
+1 Borne Upon a Wind
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Retraction Helix
+1 Mindbreak Trap
+1 Dramatic Reversal
+1 Flare of Denial
+1 Sevinne's Reclamation
+1 Rhystic Study
+1 Touch the Spirit Realm
+1 Mystic Remora
+1 Blind Obedience
+1 Smothering Tithe
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Arid Mesa
+1 Meticulous Archive
+1 Riptide Laboratory
+1 Tundra
+1 Misty Rainforest
+1 City of Brass
+1 Otawara, Soaring City
+1 City of Traitors
+1 Mana Confluence
+1 Ancient Tomb
+1 Sea of Clouds
+1 Adarkar Wastes
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Polluted Delta
+1 Marsh Flats
+1 Gemstone Caverns
+1 Flooded Strand
+1 Forbidden Orchard
+1 Command Tower
+1 Minamo, School at Water's Edge
+1 Hallowed Fountain
+1 Cavern of Souls
+1 Snow-Covered Plains
+Sideboard
+1 Plagon, Lord of the Beach

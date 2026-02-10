@@ -1,0 +1,81 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Clarion Conqueror
+1 Eidolon of Rhetoric
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Phyrexian Censor
+1 Ranger-Captain of Eos
+1 Solitude
+1 Tataru Taru
+1 Witch Enchanter
+1 Aetherflux Reservoir
+1 Chrome Mox
+1 Cursed Totem
+1 Damping Sphere
+1 Glasses of Urza
+1 Grafdigger's Cage
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Null Rod
+1 Pearl Medallion
+1 Sol Ring
+1 The Dominion Bracelet
+1 Vexing Bauble
+1 Blacksmith's Skill
+1 Enlightened Tutor
+1 Orim's Chant
+1 Path to Exile
+1 Reverent Mantra
+1 Silence
+1 Soul Partition
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Tithe
+1 All That Glitters
+1 Benevolent Blessing
+1 Brilliant Wings
+1 Cho-Manno's Blessing
+1 Daybreak Coronet
+1 Deafening Silence
+1 Dog Umbra
+1 Ethereal Armor
+1 Feather of Flight
+1 Flickering Ward
+1 Gift of Granite
+1 Gryff's Boon
+1 Idolized
+1 Indomitable Will
+1 Land Tax
+1 Lashknife
+1 Mageta's Boon
+1 Mantle of Leadership
+1 Mask of Law and Grace
+1 Military Discipline
+1 On Thin Ice
+1 Sage's Reverie
+1 Saving Grace
+1 Sentinel's Mark
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Shield of Duty and Reason
+1 Solid Footing
+1 Spirit Mantle
+1 Suppression Field
+1 Swift Reconfiguration
+1 Temporal Isolation
+1 Triclopean Sight
+1 Twinblade Blessing
+1 Ward of Lights
+1 Zealot's Conviction
+1 Ancient Tomb
+1 Eiganjo, Seat of the Empire
+1 Gemstone Caverns
+1 Plaza of Heroes
+1 Serra's Sanctum
+21 Snow-Covered Plains
+1 Talon Gates of Madara
+Sideboard
+1 Light-Paws, Emperor's Voice

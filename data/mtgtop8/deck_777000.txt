@@ -1,0 +1,94 @@
+1 Allosaurus Shepherd
+1 Ashaya, Soul of the Wild
+1 Birds of Paradise
+1 Collector Ouphe
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Duskwatch Recruiter
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Great Oak Guardian
+1 Haywire Mite
+1 Hyrax Tower Scout
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Manglehorn
+1 Phyrexian Dreadnought
+1 Phyrexian Soulgorger
+1 Pugnacious Hammerskull
+1 Quirion Ranger
+1 Scryb Ranger
+1 Sheltering Ancient
+1 Temur Sabertooth
+1 Undermountain Adventurer
+1 Wandering Archaic
+1 Wirewood Symbiote
+1 Woodland Bellower
+1 Chrome Mox
+1 Emerald Medallion
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Staff of Domination
+1 The Great Henge
+1 Thousand-Year Elixir
+1 Umbral Mantle
+1 Vexing Bauble
+1 Archdruid's Charm
+1 Chord of Calling
+1 Crop Rotation
+1 Emerald Charm
+1 Force of Vigor
+1 Infectious Bite
+1 Invigorate
+1 Legolas's Quick Reflexes
+1 Momentous Fall
+1 Noxious Revival
+1 Return of the Wildspeaker
+1 Seedtime
+1 Shared Summons
+1 Summoner's Pact
+1 Veil of Summer
+1 Vines of Vastwood
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Glimpse of Nature
+1 Green Sun's Zenith
+1 Life's Legacy
+1 Natural Order
+1 Nature's Rhythm
+1 Rishkar's Expertise
+1 Season of Gathering
+1 Sylvan Tutor
+1 Tooth and Nail
+1 Carpet of Flowers
+1 Concordant Crossroads
+1 Survival of the Fittest
+1 Sylvan Library
+1 Wild Growth
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Command Beacon
+1 Dryad Arbor
+1 Emergence Zone
+8 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Shifting Woodland
+1 Urza's Cave
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wirewood Lodge
+1 Wooded Foothills
+1 Yavimaya Hollow
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Selvala, Heart of the Wilds

@@ -1,0 +1,79 @@
+1 Heap Doll
+1 Scrap Trawler
+1 Walking Ballista
+1 Memnite
+1 Myr Moonvessel
+1 Spellskite
+1 Blightsteel Colossus
+1 Ornithopter
+1 Painter's Servant
+1 Metalworker
+1 Lodestone Golem
+1 Myr Convert
+1 Palladium Myr
+1 K-9, Mark I
+1 Cybermen Squadron
+1 Phyrexian Metamorph
+1 Junk Diver
+1 Teferi, Mage of Zhalfir
+1 Darksteel Colossus
+1 Chromatic Orrery
+1 Meekstone
+1 Cloud Key
+1 Mox Opal
+1 Mycosynth Lattice
+1 Grim Monolith
+1 Winter Orb
+1 God-Pharaoh's Statue
+1 Isochron Scepter
+1 Omen Machine
+1 Unwinding Clock
+1 Torpor Orb
+1 Knowledge Pool
+1 Null Rod
+1 Mana Vault
+1 Storage Matrix
+1 Voltaic Key
+1 Clock of Omens
+1 Darksteel Forge
+1 Quicksilver Fountain
+1 Rings of Brighthearth
+1 Nevinyrral's Disk
+1 Thorn of Amethyst
+1 Portal to Phyrexia
+1 Encroaching Mycosynth
+1 Basalt Monolith
+1 Darksteel Ingot
+1 Sonic Screwdriver
+1 Bessie, the Doctor's Roadster
+1 Grindstone
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Static Orb
+1 Arcane Signet
+1 Sol Ring
+1 Thought Vessel
+1 Radiant Lotus
+1 Sphere of Resistance
+1 Trinisphere
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 All Is Dust
+1 Mana Maze
+1 Rhystic Study
+1 Mystic Remora
+1 Frozen Aether
+1 Omniscience
+1 Back to Basics
+1 Ugin, the Ineffable
+1 Ugin, Eye of the Storms
+1 Mishra's Workshop
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Ancient Tomb
+1 Reliquary Tower
+1 Seat of the Synod
+1 Academy Ruins
+23 Island
+Sideboard
+1 Arcum Dagsson

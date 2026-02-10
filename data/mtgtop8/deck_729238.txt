@@ -1,0 +1,101 @@
+1 Treasonous Ogre
+1 Orcish Lumberjack
+1 Tavern Scoundrel
+1 Goblin Anarchomancer
+1 Roaming Throne
+1 Kitsa, Otterball Elite
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Harmonic Prodigy
+1 Elvish Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Zada, Hedron Grinder
+1 Spellseeker
+1 Storm-Kiln Artist
+1 Ral, Monsoon Mage
+1 Stormsplitter
+1 Valley Floodcaller
+1 Tinder Wall
+1 Enduring Vitality
+1 Veyran, Voice of Duality
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Mox Diamond
+1 Mox Amber
+1 Chrome Mox
+1 Krark's Thumb
+1 Sol Ring
+1 Lotus Petal
+1 Brain Freeze
+1 Submerge
+1 Mental Misstep
+1 Fury Storm
+1 Mogg Salvage
+1 Swan Song
+1 Legolas's Quick Reflexes
+1 Into the Flood Maw
+1 Pyroblast
+1 Gut Shot
+1 Expedite
+1 Crimson Wisps
+1 Lightning Bolt
+1 Spell Pierce
+1 Snap
+1 Veil of Summer
+1 Dramatic Reversal
+1 Worldly Tutor
+1 Deflecting Swat
+1 Frantic Search
+1 Pact of Negation
+1 Borne Upon a Wind
+1 Mindbreak Trap
+1 Chord of Calling
+1 Flusterstorm
+1 Fierce Guardianship
+1 Manamorphose
+1 An Offer You Can't Refuse
+1 Gamble
+1 Gitaxian Probe
+1 Rite of Flame
+1 Grapeshot
+1 Step Through
+1 Molten Duplication
+1 Jeska's Will
+1 Nature's Rhythm
+1 Twinflame
+1 Rhystic Study
+1 Cryptolith Rite
+1 Mystic Remora
+1 Underworld Breach
+1 City of Brass
+1 Breeding Pool
+1 Stomping Ground
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Steam Vents
+1 Arid Mesa
+1 Rejuvenating Springs
+1 Training Center
+1 Scalding Tarn
+1 Misty Rainforest
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Spire Garden
+1 Exotic Orchard
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Otawara, Soaring City
+1 Shifting Woodland
+1 Command Tower
+Sideboard
+1 Thrasios, Triton Hero
+1 Krark, the Thumbless

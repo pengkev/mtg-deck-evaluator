@@ -1,0 +1,98 @@
+1 Narset, Parter of Veils
+1 Rhystic Study
+1 Mystic Remora
+1 Words of Wind
+1 Underworld Breach
+1 Fabricate
+1 Windfall
+1 Timetwister
+1 Wheel of Fortune
+1 Gamble
+1 Strix Serenade
+1 Flusterstorm
+1 Mindbreak Trap
+1 Mana Drain
+1 Snap
+1 Fierce Guardianship
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Filter Out
+1 Force of Negation
+1 Repeal
+1 Paradoxical Outcome
+1 Swan Song
+1 Chain of Vapor
+1 Force of Will
+1 Mental Misstep
+1 Hurkyl's Recall
+1 Brain Freeze
+1 Retract
+1 Pact of Negation
+1 Mystical Tutor
+1 Repurposing Bay
+1 Mystic Forge
+1 Talisman of Creativity
+1 Sol Ring
+1 Arcane Signet
+1 Soul-Guide Lantern
+1 The One Ring
+1 Tormod's Crypt
+1 Mox Amber
+1 Chromatic Star
+1 Cloud Key
+1 Mishra's Bauble
+1 Fellwar Stone
+1 Sensei's Divining Top
+1 Mana Vault
+1 Imposter Mech
+1 Chromatic Sphere
+1 Aetherflux Reservoir
+1 Mox Diamond
+1 Mox Opal
+1 Chrome Mox
+1 Basalt Monolith
+1 Urza's Bauble
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Aether Spellbomb
+1 Conjurer's Bauble
+1 Glaring Fleshraker
+1 Forensic Gadgeteer
+1 Etherium Sculptor
+1 Enthusiastic Mechanaut
+1 The Reality Chip
+1 Eruth, Tormented Prophet
+1 Spellskite
+1 Dragon's Rage Channeler
+1 Birgi, God of Storytelling
+1 Artificer's Assistant
+1 Simian Spirit Guide
+1 Phyrexian Metamorph
+1 Riddlesmith
+1 Thassa's Oracle
+1 Walking Ballista
+1 Exotic Orchard
+1 Flooded Strand
+1 Cephalid Coliseum
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Fiery Islet
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+1 Ancient Tomb
+1 Command Tower
+1 Arid Mesa
+1 Polluted Delta
+1 Gemstone Caverns
+1 Volcanic Island
+1 Mana Confluence
+1 Scalding Tarn
+1 Misty Rainforest
+1 Steam Vents
+1 City of Brass
+1 Urza's Saga
+2 Mountain
+3 Island
+Sideboard
+1 Jhoira, Weatherlight Captain

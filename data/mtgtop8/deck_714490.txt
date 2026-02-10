@@ -1,0 +1,100 @@
+1 Karn, the Great Creator
+1 High Noon
+1 Ghirapur Aether Grid
+1 Need for Speed
+1 Jolted Awake
+1 Sevinne's Reclamation
+1 Jeska's Will
+1 Reckless Handling
+1 Gamble
+1 Recommission
+1 Shatterskull Smashing
+1 Ghostfire Slice
+1 Enlightened Tutor
+1 Wear/Tear
+1 Tibalt's Trickery
+1 Pyroblast
+1 Angel's Grace
+1 Swords to Plowshares
+1 Lotus Petal
+1 Hidden Footblade
+1 Mirage Mirror
+1 Forsaken Monument
+1 Vexing Bauble
+1 Torpor Orb
+1 Dusk Rose Reliquary
+1 Cursed Mirror
+1 Collector's Vault
+1 Agatha's Soul Cauldron
+1 The One Ring
+1 Mesmeric Orb
+1 Energy Refractor
+1 Staff of Domination
+1 Helm of the Host
+1 Umbral Mantle
+1 Moonsilver Key
+1 Liquimetal Torque
+1 Pyre of Heroes
+1 Codex Shredder
+1 Sol Ring
+1 Mox Amber
+1 Conqueror's Flail
+1 Voltaic Key
+1 Diviner's Wand
+1 Chrome Mox
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Grim Monolith
+1 Grafdigger's Cage
+1 Basalt Monolith
+1 Uba Mask
+1 Avarice Totem
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Witch Enchanter
+1 Goblin Welder
+1 Phelia, Exuberant Shepherd
+1 Weathered Wayfarer
+1 Loran of the Third Path
+1 Liberator, Urza's Battlethopter
+1 Living Lightning
+1 Cathar Commando
+1 Oswald Fiddlebender
+1 Metalworker
+1 Simian Spirit Guide
+1 Imperial Recruiter
+1 Godo, Bandit Warlord
+1 Spirit of the Labyrinth
+1 Stoneforge Mystic
+1 Gorilla Shaman
+1 Drannith Magistrate
+1 Auriok Salvagers
+1 Ranger-Captain of Eos
+1 Goblin Engineer
+1 Walking Ballista
+1 Cogwork Assembler
+1 Kumano, Master Yamabushi
+1 Arid Mesa
+1 Talon Gates of Madara
+1 Lazotep Quarry
+1 Command Tower
+1 Urza's Cave
+1 Fomori Vault
+1 Treasure Vault
+1 Buried Ruin
+1 Cavern of Souls
+1 Sunbaked Canyon
+1 The Mycosynth Gardens
+1 Plaza of Heroes
+1 Ancient Tomb
+1 Snow-Covered Mountain
+1 Inventors' Fair
+1 Mana Confluence
+1 Prismatic Vista
+1 Sacred Foundry
+1 Great Furnace
+1 Urza's Saga
+2 Snow-Covered Plains
+Sideboard
+1 Zirda, the Dawnwaker

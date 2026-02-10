@@ -1,0 +1,101 @@
+1 Goblin Engineer
+1 Grand Abolisher
+1 Archivist of Oghma
+1 Oswald Fiddlebender
+1 Treasonous Ogre
+1 Goblin Welder
+1 Tataru Taru
+1 Starfield Shepherd
+1 Thran Spider
+1 Walking Ballista
+1 Simian Spirit Guide
+1 Godo, Bandit Warlord
+1 Metalworker
+1 Dualcaster Mage
+1 Ethersworn Canonist
+1 Witch Enchanter
+1 Birgi, God of Storytelling
+1 Cogwork Assembler
+1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
+1 Delivery Moogle
+1 Ranger-Captain of Eos
+1 Liberator, Urza's Battlethopter
+1 Helm of the Host
+1 Grim Monolith
+1 The One Ring
+1 Candelabra of Tawnos
+1 Voltaic Key
+1 Defense Grid
+1 Manifold Key
+1 Talisman of Conviction
+1 Arcane Signet
+1 Grafdigger's Cage
+1 Springleaf Drum
+1 Agatha's Soul Cauldron
+1 Lotus Petal
+1 Damping Sphere
+1 Mana Vault
+1 Basalt Monolith
+1 Mox Diamond
+1 Chrome Mox
+1 Staff of Compleation
+1 Staff of Domination
+1 Moonsilver Key
+1 Mirage Mirror
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Sol Ring
+1 Vexing Bauble
+1 Mox Amber
+1 Red Elemental Blast
+1 Silence
+1 Enlightened Tutor
+1 Tibalt's Trickery
+1 Redirect Lightning
+1 Final Fortune
+1 Flare of Duplication
+1 Deflecting Swat
+1 Pyroblast
+1 Seething Song
+1 Gamble
+1 Reckless Handling
+1 Jeska's Will
+1 Sevinne's Reclamation
+1 Molten Duplication
+1 Rite of Flame
+1 Jolted Awake
+1 Underworld Breach
+1 Urza's Saga
+1 Smothering Tithe
+1 Tezzeret, Cruel Captain
+1 Fomori Vault
+1 Elegant Parlor
+1 Crystal Vein
+1 Spectator Seating
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Abstergo Entertainment
+1 Plains
+1 Mishra's Workshop
+1 City of Brass
+1 Marsh Flats
+1 Command Tower
+1 Arid Mesa
+1 Starting Town
+1 Plateau
+1 Mana Confluence
+1 Inventors' Fair
+1 Sacred Foundry
+1 Sunbaked Canyon
+1 Treasure Vault
+1 Arena of Glory
+1 Great Furnace
+1 Talon Gates of Madara
+1 Mountain
+1 Inspiring Vantage
+1 Battlefield Forge
+Sideboard
+1 Zirda, the Dawnwaker

@@ -1,0 +1,93 @@
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Arcane Signet
+1 Ashnod's Altar
+1 Baral, Chief of Compliance
+1 Bastion of Remembrance
+1 Birgi, God of Storytelling
+1 Blackcleave Cliffs
+1 Blood Artist
+1 Blood Crypt
+1 Bloodstained Mire
+1 Brain Freeze
+1 Brainstorm
+1 Buried Ruin
+1 Cabal Ritual
+1 Cascade Bluffs
+1 Chain of Vapor
+1 Comet Storm
+1 Command Tower
+1 Counterspell
+1 Culling the Weak
+1 Dark Ritual
+1 Darkslick Shores
+1 Deadly Dispute
+1 Decanter of Endless Water
+1 Delay
+1 Demonic Gifts
+1 Demonic Tutor
+1 Emergence Zone
+1 Entomb
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fiery Islet
+1 Force of Negation
+1 Frantic Search
+1 Go for the Throat
+1 Goryo's Vengeance
+1 Grim Tutor
+1 Guttersnipe
+1 Impact Tremors
+4 Island
+1 Ledger Shredder
+1 Lotus Petal
+1 Luxury Suite
+1 Memory Lapse
+1 Mind Stone
+1 Mindbreak Trap
+1 Miscast
+1 Morphic Pool
+3 Mountain
+1 Mox Amber
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Negate
+1 Pact of Negation
+1 Peer into the Abyss
+1 Phantasmal Image
+1 Phyrexian Altar
+1 Polluted Delta
+1 Pongify
+1 Pull from Tomorrow
+1 Rain of Filth
+1 Red Elemental Blast
+1 Reins of Power
+1 Reliquary Tower
+1 Scavenger Grounds
+1 Shallow Grave
+1 Shivan Reef
+1 Simian Spirit Guide
+1 Sol Ring
+1 Solve the Equation
+1 Steam Vents
+1 Sulfurous Springs
+3 Swamp
+1 Swan Song
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Toxic Deluge
+1 Training Center
+1 Trophy Mage
+1 Underground River
+1 Vampiric Tutor
+1 Viscera Seer
+1 Volatile Stormdrake
+1 Watery Grave
+1 Windfall
+1 Woe Strider
+1 Zulaport Cutthroat
+Sideboard
+1 Cormela, Glamour Thief

@@ -1,0 +1,96 @@
+1 Deadeye Navigator
+1 Emiel the Blessed
+1 Grand Abolisher
+1 Kutzil, Malamet Exemplar
+1 Palinchron
+1 Peregrine Drake
+1 Sakura-Tribe Elder
+1 Thassa's Oracle
+1 Voice of Victory
+1 Arcane Signet
+1 Fellwar Stone
+1 Firemind Vessel
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Talisman of Resilience
+1 Talisman of Unity
+1 Thought Vessel
+1 Thran Dynamo
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Dark Ritual
+1 Demonic Consultation
+1 Dismember
+1 Dispel
+1 Fog
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Pact of Negation
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Blasphemous Edict
+1 Circuitous Route
+1 Demonic Collusion
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Explosive Vegetation
+1 Exsanguinate
+1 Farewell
+1 Farseek
+1 Grim Tutor
+1 Hunting Wilds
+1 Map the Frontier
+1 Migration Path
+1 Nature's Lore
+1 Path of the Animist
+1 Rampant Growth
+1 Ranger's Path
+1 Skyshroud Claim
+1 Sunfall
+1 Supreme Verdict
+1 Three Visits
+1 Tooth and Nail
+1 Toxic Deluge
+1 Vastwood Surge
+1 Wrath of God
+1 Fertile Ground
+1 Invasion of Zendikar
+1 Jace, Wielder of Mysteries
+1 Adarkar Wastes
+1 Arid Mesa
+1 Bloodstained Mire
+1 Breeding Pool
+1 Caves of Koilos
+1 Command Tower
+1 Drowned Catacomb
+1 Flooded Strand
+4 Forest
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+2 Island
+1 Isolated Chapel
+1 Llanowar Wastes
+1 Marsh Flats
+1 Mistrise Village
+1 Misty Rainforest
+1 Overgrown Tomb
+2 Plains
+1 Polluted Delta
+1 Reliquary Tower
+1 Scalding Tarn
+1 Swamp
+1 Temple Garden
+1 Underground River
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Atraxa, Grand Unifier

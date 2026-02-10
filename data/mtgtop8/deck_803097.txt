@@ -1,0 +1,101 @@
+1 Ancestral Statue
+1 Arbor Elf
+1 Augur of Autumn
+1 Badgermole Cub
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloom Tender
+1 Cloud of Faeries
+1 Collector Ouphe
+1 Delighted Halfling
+1 Dream Stalker
+1 Druid of Purification
+1 Elvish Mystic
+1 Enduring Vitality
+1 Eternal Witness
+1 Faerie Mastermind
+1 Fierce Empath
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Generous Patron
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Hydroid Krasis
+1 Imperial Recruiter
+1 Keruga, the Macrosage
+1 Kozilek, Butcher of Truth
+1 Llanowar Elves
+1 Mulldrifter
+1 Myr Scrapling
+1 Nulldrifter
+1 Palinchron
+1 Peregrine Drake
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Radagast the Brown
+1 Ragavan, Nimble Pilferer
+1 Shrieking Drake
+1 Sister of Silence
+1 Sowing Mycospawn
+1 Starfield Vocalist
+1 Stunt Double
+1 Supportive Parents
+1 The Unagi of Kyoshi Island
+1 Tidal Barracuda
+1 Tinder Wall
+1 Tishana, Voice of Thunder
+1 Tishana's Tidebinder
+1 Toski, Bearer of Secrets
+1 Transit Mage
+1 Vizier of the Menagerie
+1 Volatile Stormdrake
+1 Volo, Guide to Monsters
+1 Walking Ballista
+1 Wall of Roots
+1 Wan Shi Tong, Librarian
+1 Wandering Archaic
+1 Wild Cantor
+1 Woodland Bellower
+1 Chrome Mox
+1 Chord of Calling
+1 Deflecting Swat
+1 Flusterstorm
+1 Legolas's Quick Reflexes
+1 Redirect Lightning
+1 Summoner's Pact
+1 Swan Song
+1 Worldly Tutor
+1 Step Through
+1 Food Chain
+1 Utopia Sprawl
+1 Wild Growth
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hedge Maze
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Training Center
+1 Tropical Island
+1 Verdant Catacombs
+1 Volcanic Island
+1 Waterlogged Grove
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Animar, Soul of Elements

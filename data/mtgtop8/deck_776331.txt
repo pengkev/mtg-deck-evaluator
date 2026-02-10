@@ -1,0 +1,85 @@
+1 Spectral Sailor
+1 Dimir Infiltrator
+1 Thassa's Oracle
+1 Fear of Impostors
+1 Hydroelectric Specimen
+1 Nimble Obstructionist
+1 Ertai Resurrected
+1 Notion Thief
+1 Overcharged Amalgam
+1 Venser, Shaper Savant
+1 Smirking Spelljacker
+1 Teferi, Mage of Zhalfir
+1 Torrential Gearhulk
+1 Transcendent Dragon
+1 Hullbreaker Horror
+1 Narset, Parter of Veils
+1 Brainstorm
+1 Cling to Dust
+1 Demonic Consultation
+1 Mystical Tutor
+1 Wash Away
+1 Arcane Denial
+1 Counterspell
+1 Disdainful Stroke
+1 Go for the Throat
+1 Jwari Disruption
+1 Logic Knot
+1 Long River's Pull
+1 Lose Focus
+1 Mana Leak
+1 Muddle the Mixture
+1 Negate
+1 Remand
+1 Sheoldred's Edict
+1 Shred Memory
+1 Tale's End
+1 Unsubstantiate
+1 Brainsurge
+1 Confounding Riddle
+1 Silundi Vision
+1 Supreme Will
+1 Toxic Deluge
+1 Whirlwind Denial
+1 Aetherize
+1 Engulf the Shore
+1 Memory Deluge
+1 Mystical Teachings
+1 Rewind
+1 Spellgyre
+1 Waterlogged Teachings
+1 Whelming Wave
+1 Evacuation
+1 Dig Through Time
+1 Sol Ring
+1 Arcane Signet
+1 Dimir Signet
+1 Mind Stone
+1 Talisman of Dominance
+1 Thought Vessel
+1 Wishclaw Talisman
+1 Castle Vantress
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Dreadship Reef
+1 Evolving Wilds
+1 Fetid Pools
+1 Geier Reach Sanitarium
+12 Island
+1 Myriad Landscape
+1 Reliquary Tower
+1 Sunken Hollow
+6 Swamp
+1 Temple of Deceit
+1 Terramorphic Expanse
+1 Dismal Backwater
+1 Hibernation
+1 Stern Scolding
+1 Dreams of Laguna
+1 Reality Shift
+1 Spider-Sense
+1 Baleful Strix
+1 Everflowing Chalice
+Sideboard
+1 Nymris, Oona's Trickster

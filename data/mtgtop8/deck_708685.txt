@@ -1,0 +1,83 @@
+1 Dryad of the Ilysian Grove
+1 Setessan Champion
+1 Gilded Goose
+1 Coiling Oracle
+1 Courser of Kruphix
+1 Essence Warden
+1 Eternal Witness
+1 Experiment One
+1 Llanowar Elves
+1 Solemn Simulacrum
+1 Tatyova, Benthic Druid
+1 Tireless Tracker
+1 Dread Presence
+1 Prime Speaker Zegana
+1 Woodfall Primus
+1 Izoni, Thousand-Eyed
+1 Eidolon of Blossoms
+1 God-Eternal Rhonas
+1 Arboreal Grazer
+1 Renata, Called to the Hunt
+1 Prosperous Innkeeper
+1 Tireless Provisioner
+1 Towashi Guide-Bot
+1 Ruthless Technomancer
+1 Druid of the Emerald Grove
+1 Lord of Change
+1 Arwen, Weaver of Hope
+1 Composer of Spring
+1 Rendmaw, Creaking Nest
+1 Cynette, Jelly Drover
+1 Kiora, the Rising Tide
+1 Spark Double
+1 Patient Naturalist
+1 Arcane Signet
+1 Sol Ring
+1 Conjurer's Closet
+1 Talisman of Dominance
+1 Talisman of Curiosity
+1 The Skullspore Nexus
+1 Sonic Screwdriver
+1 Demonic Junker
+1 Racers' Scoreboard
+1 Heaped Harvest
+1 Cancel
+1 Putrefy
+1 Reclaim
+1 Doom Blade
+1 Growth Spiral
+1 Deathsprout
+1 Urza's Rebuff
+1 Sheoldred's Edict
+1 Tyvar's Stand
+1 Defend the Rider
+1 Farseek
+1 Macabre Waltz
+1 Rampant Growth
+1 Kodama's Reach
+1 Mandate of Abaddon
+1 Expand the Sphere
+1 Quantum Misalignment
+1 Cultivate
+1 Khalni Heart Expedition
+1 Garruk's Uprising
+1 Guardian Project
+1 Utopia Sprawl
+1 Tinybones Joins Up
+7 Island
+7 Forest
+7 Swamp
+1 Command Tower
+1 Witch's Cottage
+1 Reliquary Tower
+1 Temple of Malady
+1 Temple of Mystery
+1 Golgari Rot Farm
+1 Simic Growth Chamber
+1 Sunken Hollow
+1 Tainted Wood
+1 Vineglimmer Snarl
+1 Necroblossom Snarl
+1 Wastewood Verge
+Sideboard
+1 Yarok, the Desecrated

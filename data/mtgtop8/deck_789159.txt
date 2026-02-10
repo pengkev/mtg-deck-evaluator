@@ -1,0 +1,100 @@
+1 Akal Pakal, First Among Equals
+1 Cyberdrive Awakener
+1 Edgar, King of Figaro
+1 Emrakul, the Promised End
+1 Emry, Lurker of the Loch
+1 Esper Sentinel
+1 Filigree Angel
+1 Goblin Welder
+1 Kozilek, the Broken Reality
+1 Thought Monitor
+1 Urza, Lord High Artificer
+1 Wan Shi Tong, Librarian
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Basalt Monolith
+1 Dowsing Device
+1 Ghost Vacuum
+1 Insight Engine
+1 Izzet Signet
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Opal
+1 Planetarium of Wan Shi Tong
+1 Portal to Phyrexia
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Progress
+1 The Enigma Jewel
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Thousand Moons Smithy
+1 Thran Turbine
+1 Urza's Bauble
+1 Voltaic Key
+1 Arcane Denial
+1 Cerebral Download
+1 Dispatch
+1 Fierce Guardianship
+1 Mana Drain
+1 Path to Exile
+1 Sink into Stupor
+1 Spell Swindle
+1 Swords to Plowshares
+1 Three Steps Ahead
+1 Blasphemous Act
+1 Farewell
+1 Fumigate
+1 Sevinne's Reclamation
+1 Sunfall
+1 Storm the Vault
+1 Urza's Saga
+1 Daretti, Scrap Savant
+1 Tezzeret the Seeker
+1 Tezzeret, Betrayer of Flesh
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Academy Ruins
+1 Adarkar Wastes
+1 Arid Mesa
+1 Battlefield Forge
+1 Command Tower
+1 Flooded Strand
+1 Floodfarm Verge
+1 Hallowed Fountain
+2 Island
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Mountain
+1 Otawara, Soaring City
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Riverpyre Verge
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Seachrome Coast
+1 Seat of the Synod
+1 Shivan Reef
+1 Skycloud Expanse
+1 Spectator Seating
+1 Steam Vents
+1 Sunbillow Verge
+1 Talon Gates of Madara
+1 Temple of the False God
+1 Thundering Falls
+1 Training Center
+1 Tundra
+1 Uthros, Titanic Godcore
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Sarah Jane Smith
+1 The Fifteenth Doctor

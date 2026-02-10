@@ -1,0 +1,89 @@
+1 Birds of Paradise
+1 Bruenor Battlehammer
+1 Cid, Freeflier Pilot
+1 Cloud, Midgar Mercenary
+1 Crystal Barricade
+1 Danitha Capashen, Paragon
+1 Fervent Champion
+1 Godo, Bandit Warlord
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Moraug, Fury of Akoum
+1 Professor Hojo
+1 Puresteel Paladin
+1 Serah Farron
+1 Sram, Senior Edificer
+1 Tifa, Martial Artist
+1 Arcane Signet
+1 Buster Sword
+1 Conqueror's Flail
+1 Genji Glove
+1 Helm of the Host
+1 Leyline Axe
+1 Manifold Key
+1 Relic of Legends
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Forge and Frontier
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Talisman of Conviction
+1 Talisman of Unity
+1 The Irencrag
+1 Trailblazer's Boots
+1 Whispersilk Cloak
+1 Bolt Bend
+1 Dawn's Truce
+1 Final Fortune
+1 Flare of Fortitude
+1 Inventory Management
+1 Restoration Magic
+1 Return the Favor
+1 Savage Beating
+1 Farseek
+1 Gamble
+1 Nature's Lore
+1 Open the Armory
+1 Steelshaper's Gift
+1 Abundant Growth
+1 Aggravated Assault
+1 Annie Joins Up
+1 Darksteel Mutation
+1 Forge Anew
+1 Sigarda's Aid
+1 Smothering Tithe
+1 Arid Mesa
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+1 Fire-Lit Thicket
+1 Flooded Strand
+4 Forest
+1 Game Trail
+1 Jetmir's Garden
+1 Jungle Shrine
+1 Marsh Flats
+1 Misty Rainforest
+1 Mossfire Valley
+5 Mountain
+6 Plains
+1 Rootbound Crag
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scalding Tarn
+1 Spire of Industry
+1 Stomping Ground
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Cloud, Ex-SOLDIER

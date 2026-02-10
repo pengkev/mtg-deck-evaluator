@@ -1,0 +1,92 @@
+1 Balor
+1 Blood Artist
+1 Blood Seeker
+1 Bloodthirsty Conqueror
+1 Brash Taunter
+1 Chandra's Incinerator
+1 Falkenrath Noble
+1 Fate Unraveler
+1 Fiendish Duo
+1 Gleeful Arsonist
+1 Heartless Hidetsugu
+1 Kaervek the Merciless
+1 Kardur, Doomscourge
+1 Kederekt Parasite
+1 Mogis, God of Slaughter
+1 Nightshade Harvester
+1 Ob Nixilis, the Fallen
+1 Ob Nixilis, Unshackled
+1 Ojer Axonil, Deepest Might
+1 Persistent Constrictor
+1 Rakdos, Lord of Riots
+1 Rampaging Ferocidon
+1 Razorkin Needlehead
+1 Rune-Scarred Demon
+1 Solphim, Mayhem Dominus
+1 Sower of Discord
+1 The Lord of Pain
+1 Torbran, Thane of Red Fell
+1 Arcane Signet
+1 Basilisk Collar
+1 Crawlspace
+1 Fellwar Stone
+1 Lightning Greaves
+1 Misers' Cage
+1 Mithril Coat
+1 Resurrection Orb
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Whispersilk Cloak
+1 Bedevil
+1 Chaos Warp
+1 Fell the Profane
+1 Go for the Throat
+1 Infernal Grasp
+1 Murder
+1 Rakdos Charm
+1 Untimely Malfunction
+1 Withering Torment
+1 Beseech the Queen
+1 Blasphemous Act
+1 Blasphemous Edict
+1 Chandra's Ignition
+1 Feed the Swarm
+1 Mandate of Abaddon
+1 Rise of the Dark Realms
+1 Curse of Fool's Wisdom
+1 Enchanter's Bane
+1 Exquisite Blood
+1 Painful Quandary
+1 Polluted Bonds
+1 Pyrohemia
+1 Revenge of Ravens
+1 Spiked Corridor/Torture Pit
+1 The Rollercrusher Ride
+1 Underworld Dreams
+1 Wound Reflection
+1 Zariel, Archduke of Avernus
+1 Blackcleave Cliffs
+1 Blazemire Verge
+1 Canyon Slough
+1 Command Tower
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Geothermal Bog
+1 Graven Cairns
+1 Leechridden Swamp
+6 Mountain
+1 Myriad Landscape
+1 Razortrap Gorge
+1 Shadowblood Ridge
+1 Shivan Gorge
+1 Smoldering Marsh
+1 Sulfurous Springs
+5 Swamp
+1 Tainted Peak
+1 Temple of Malice
+1 Witch's Cottage
+Sideboard
+1 Valgavoth, Harrower of Souls

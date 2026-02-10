@@ -1,0 +1,100 @@
+1 Phyrexian Metamorph
+1 Murkfiend Liege
+1 Seedborn Muse
+1 Trophy Mage
+1 Void Winnower
+1 Elvish Mystic
+1 Tribute Mage
+1 Manglehorn
+1 Spellskite
+1 Llanowar Elves
+1 Blightsteel Colossus
+1 Birds of Paradise
+1 Jin-Gitaxias, Core Augur
+1 Fyndhorn Elves
+1 Nezahal, Primal Tide
+1 Wandering Archaic
+1 Endurance
+1 Consecrated Sphinx
+1 Vorinclex, Voice of Hunger
+1 Delighted Halfling
+1 Thrasios, Triton Hero
+1 Tidespout Tyrant
+1 Enduring Vitality
+1 High Fae Trickster
+1 Bloom Tender
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Ornithopter of Paradise
+1 Chromatic Orrery
+1 Fellwar Stone
+1 Staff of Domination
+1 The Great Henge
+1 Moonsilver Key
+1 Springleaf Drum
+1 Energy Refractor
+1 Crawlspace
+1 Basalt Monolith
+1 Simic Signet
+1 Swiftfoot Boots
+1 Mirage Mirror
+1 Lightning Greaves
+1 Isochron Scepter
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Snap
+1 Dramatic Reversal
+1 Worldly Tutor
+1 Negate
+1 March of Swirling Mist
+1 Counterspell
+1 Stroke of Genius
+1 Swan Song
+1 Mindbreak Trap
+1 Flare of Denial
+1 Strix Serenade
+1 Sink into Stupor
+1 Consign to Memory
+1 An Offer You Can't Refuse
+1 Noxious Revival
+1 Ghostly Flicker
+1 Arcane Denial
+1 Reconstruction
+1 Green Sun's Zenith
+1 Fabricate
+1 Leyline of Anticipation
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Elven Chorus
+1 Propaganda
+1 Mana Reflection
+1 Freed from the Real
+1 Imprisoned in the Moon
+1 Breeding Pool
+1 Castle Garenbrig
+1 Mana Confluence
+1 Island
+1 Polluted Delta
+1 Nykthos, Shrine to Nyx
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+1 Waterlogged Grove
+1 Command Tower
+1 Dreamroot Cascade
+1 Alchemist's Refuge
+1 Windswept Heath
+1 Botanical Sanctum
+1 Cephalid Coliseum
+1 Shifting Woodland
+1 Mystic Sanctuary
+1 City of Brass
+1 Tarnished Citadel
+1 Hinterland Harbor
+1 Yavimaya Coast
+1 Wooded Foothills
+2 Forest
+Sideboard
+1 Kinnan, Bonder Prodigy

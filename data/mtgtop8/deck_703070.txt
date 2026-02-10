@@ -1,0 +1,82 @@
+1 Incubation Druid
+1 Manglehorn
+1 Kogla, the Titan Ape
+1 Prophet of Distortion
+1 Drift of Phantasms
+1 Gretchen Titchwillow
+1 Devoted Druid
+1 Eternal Witness
+1 Paradise Druid
+1 Ilysian Caryatid
+1 Runic Armasaur
+1 Hardbristle Bandit
+1 Poison Dart Frog
+1 Tender Wildguide
+1 High Fae Trickster
+1 Spectral Sailor
+1 Sanctum Weaver
+1 Fyndhorn Elves
+1 Elvish Mystic
+1 Trophy Mage
+1 Birds of Paradise
+1 Llanowar Elves
+1 Hullbreaker Horror
+1 Colossal Skyturtle
+1 Armored Scrapgorger
+1 Tidespout Tyrant
+1 Hydroelectric Specimen
+1 Machine God's Effigy
+1 Energy Refractor
+1 Midnight Clock
+1 Sol Ring
+1 Simic Signet
+1 Springleaf Drum
+1 Moonsilver Key
+1 Fellwar Stone
+1 Mirage Mirror
+1 Talisman of Curiosity
+1 Basalt Monolith
+1 Arcane Signet
+1 Mystical Dispute
+1 Mana Leak
+1 Keep Safe
+1 Muddle the Mixture
+1 Negate
+1 Misdirection
+1 Counterspell
+1 Memory Lapse
+1 Into the Roil
+1 Turn the Earth
+1 Spell Pierce
+1 Whir of Invention
+1 Change the Equation
+1 Stroke of Genius
+1 Collective Resistance
+1 Beast Within
+1 Shared Summons
+1 Arcane Denial
+1 Reality Shift
+1 Dispel
+1 Crop Rotation
+1 Chord of Calling
+1 An Offer You Can't Refuse
+1 Neoform
+1 Step Through
+1 Reshape
+1 Eldritch Evolution
+1 Fabricate
+1 Bridgeworks Battle
+1 Verity Circle
+1 Pemmin's Aura
+1 Freed from the Real
+1 Tezzeret the Seeker
+1 Yavimaya Coast
+1 Command Tower
+1 Emergence Zone
+1 Waterlogged Grove
+1 Cephalid Coliseum
+1 Treasure Vault
+10 Snow-Covered Island
+11 Snow-Covered Forest
+Sideboard
+1 Kinnan, Bonder Prodigy

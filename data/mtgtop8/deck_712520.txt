@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Eternal Witness
+1 Skirk Prospector
+1 Vexing Shusher
+1 Deathrite Shaman
+1 Dualcaster Mage
+1 Goblin Engineer
+1 Orcish Lumberjack
+1 Elvish Spirit Guide
+1 Simian Spirit Guide
+1 Opposition Agent
+1 Birgi, God of Storytelling
+1 Witherbloom Apprentice
+1 Storm-Kiln Artist
+1 Ignoble Hierarch
+1 Tavern Scoundrel
+1 Professional Face-Breaker
+1 Harmonic Prodigy
+1 Ragavan, Nimble Pilferer
+1 Orcish Bowmasters
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Chrome Mox
+1 Defense Grid
+1 Mox Amber
+1 Krark's Thumb
+1 Cursed Mirror
+1 The One Ring
+1 Crop Rotation
+1 Dark Ritual
+1 Lightning Bolt
+1 Manamorphose
+1 Red Elemental Blast
+1 Veil of Summer
+1 Burnt Offering
+1 Pyroblast
+1 Culling the Weak
+1 Vampiric Tutor
+1 Chord of Calling
+1 Abrupt Decay
+1 Mogg Salvage
+1 Deflecting Swat
+1 Deadly Rollick
+1 Noxious Revival
+1 Ad Nauseam
+1 Emerald Charm
+1 Final Fortune
+1 Worldly Tutor
+1 Tainted Pact
+1 Saw in Half
+1 Flare of Duplication
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Reanimate
+1 Overmaster
+1 Diabolic Intent
+1 Gamble
+1 Rite of Flame
+1 Finale of Devastation
+1 Twinflame
+1 Praetor's Grasp
+1 Chain of Smog
+1 Jeska's Will
+1 Culling Ritual
+1 Molten Duplication
+1 Nature's Rhythm
+1 Underworld Breach
+1 Carpet of Flowers
+1 Sylvan Library
+1 Necropotence
+1 Command Tower
+1 Bayou
+1 Badlands
+1 Taiga
+1 City of Brass
+1 Bloodstained Mire
+1 Stomping Ground
+1 Luxury Suite
+1 Spire Garden
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Overgrown Tomb
+1 Gaea's Cradle
+1 Emergence Zone
+1 Gemstone Caverns
+1 Undergrowth Stadium
+1 Raucous Theater
+1 Shifting Woodland
+1 Talon Gates of Madara
+Sideboard
+1 Krark, the Thumbless
+1 Reyhan, Last of the Abzan

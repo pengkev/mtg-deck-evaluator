@@ -1,0 +1,86 @@
+1 Deepglow Skate
+1 Flux Channeler
+1 Grateful Apparition
+1 Kazuul, Tyrant of the Cliffs
+1 Narset, Enlightened Master
+1 Onakke Oathkeeper
+1 Shalai, Voice of Plenty
+1 Silent Arbiter
+1 Spark Double
+1 Thrummingbird
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Gatewatch Beacon
+1 Luxior, Giada's Gift
+1 Nevinyrral's Disk
+1 Norn's Annex
+1 Sol Ring
+1 The Chain Veil
+1 Beast Within
+1 Path to Exile
+1 Semester's End
+1 Blasphemous Act
+1 Cultivate
+1 Deploy the Gatewatch
+1 Explore
+1 Farseek
+1 Merciless Eviction
+1 Promise of Loyalty
+1 Urza's Ruinous Blast
+1 All Will Be One
+1 Copy Enchantment
+1 Elspeth's Talent
+1 Ghostly Prison
+1 Oath of Jace
+1 Oath of Teferi
+1 Propaganda
+1 Repercussion
+1 Vivien's Talent
+1 Ajani Steadfast
+1 Archangel Elspeth
+1 Chandra, Awakened Inferno
+1 Chandra, Legacy of Fire
+1 Chandra, Torch of Defiance
+1 Comet, Stellar Pup
+1 Commodore Guff
+1 Elspeth, Sun's Champion
+1 Gideon Jura
+1 Jace Beleren
+1 Jace, Architect of Thought
+1 Karn Liberated
+1 Liliana, Death's Majesty
+1 Nahiri, the Harbinger
+1 Narset of the Ancient Way
+1 Ob Nixilis Reignited
+1 Sarkhan the Masterless
+1 Teyo, Geometric Tactician
+1 Tezzeret, Artifice Master
+1 The Eternal Wanderer
+1 The Wanderer
+1 Wrenn and Realmbreaker
+1 Arcane Sanctum
+1 Command Tower
+1 Crumbling Necropolis
+1 Evolving Wilds
+1 Exotic Orchard
+4 Forest
+1 Frontier Bivouac
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Interplanar Beacon
+4 Island
+1 Jungle Shrine
+1 Karn's Bastion
+4 Mountain
+1 Myriad Landscape
+1 Mystic Monastery
+1 Nomad Outpost
+4 Plains
+1 Port Town
+1 Prairie Stream
+1 Reliquary Tower
+4 Swamp
+1 Terramorphic Expanse
+Sideboard
+1 Jared Carthalion

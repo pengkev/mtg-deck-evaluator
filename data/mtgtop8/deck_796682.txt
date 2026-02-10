@@ -1,0 +1,90 @@
+1 Ral, Monsoon Mage
+1 Electro, Assaulting Battery
+1 Vivi Ornitier
+1 Storm-Kiln Artist
+1 Goblin Electromancer
+1 Archmage Emeritus
+1 The Emperor of Palamecia
+1 Kess, Dissident Mage
+1 Ojer Pakpatiq, Deepest Epoch
+1 Radiant Performer
+1 Omen Hawker
+1 Kuja, Genome Sorcerer
+1 Cormela, Glamour Thief
+1 Vohar, Vodalian Desecrator
+1 Talisman of Indulgence
+1 The Enigma Jewel
+1 Patriar's Seal
+1 Sol Ring
+1 Fellwar Stone
+1 Talisman of Creativity
+1 Arcane Signet
+1 Twinning Staff
+1 Mental Modulation
+1 Gifts Ungiven
+1 Mission Briefing
+1 Negate
+1 Bedevil
+1 Sink into Stupor
+1 Go for the Throat
+1 Flick a Coin
+1 Abrade
+1 Counterspell
+1 Baleful Mastery
+1 Lightning Bolt
+1 Reality Shift
+1 Dark Ritual
+1 Fell the Profane
+1 Electrodominance
+1 Chaos Warp
+1 Waterlogged Teachings
+1 Seething Song
+1 Invoke Calamity
+1 Terminate
+1 Fateful Showdown
+1 Fact or Fiction
+1 Snap
+1 Crackle with Power
+1 Duress
+1 Thought Erasure
+1 River's Rebuke
+1 Cruel Ultimatum
+1 Rousing Refrain
+1 Great Intelligence's Plan
+1 Feed the Swarm
+1 Playful Shove
+1 Jeska's Will
+1 Grapeshot
+1 Gandalf's Sanction
+1 Epic Downfall
+1 Angrath's Rampage
+1 Karn's Temporal Sundering
+1 Beseech the Mirror
+1 Descent into Avernus
+1 Underworld Breach
+1 Thousand-Year Storm
+1 Professor Onyx
+1 Seething Landscape
+1 Steam Vents
+6 Mountain
+1 Bloodstained Mire
+1 Shivan Reef
+1 Sunken Palace
+1 Undercity Sewers
+1 Scalding Tarn
+4 Island
+4 Swamp
+1 Watery Grave
+1 Command Tower
+1 Smoldering Marsh
+1 Blood Crypt
+1 Raucous Theater
+1 Foreboding Ruins
+1 Exotic Orchard
+1 Sulfur Falls
+1 Bojuka Bog
+1 Thundering Falls
+1 Crumbling Necropolis
+1 Drowned Catacomb
+Sideboard
+1 Zevlor, Elturel Exile

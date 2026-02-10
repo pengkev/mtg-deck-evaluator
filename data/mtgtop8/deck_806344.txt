@@ -1,0 +1,94 @@
+1 "Name Sticker" Goblin
+1 Altar of Dementia
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Birgi, God of Storytelling
+1 Blasting Station
+1 Blood Moon
+1 Bloodstained Mire
+1 Chrome Mox
+1 City of Traitors
+1 Crimson Kobolds
+1 Crookshank Kobolds
+1 Darksteel Citadel
+1 Defense Grid
+1 Deflecting Swat
+1 Desperate Ritual
+1 Engineered Explosives
+1 Evendo Brushrazer
+1 Flare of Duplication
+1 Gamble
+1 Gemstone Caverns
+1 Glaring Fleshraker
+1 Goblin Bombardment
+1 Goblin Engineer
+1 Goblin Welder
+1 Great Furnace
+1 Grim Monolith
+1 Hexing Squelcher
+1 Ichor Wellspring
+1 Infernal Plunge
+1 Inventors' Fair
+1 Jeska's Will
+1 Junktown
+1 Kobolds of Kher Keep
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Magus of the Moon
+1 Mana Vault
+1 Manifold Key
+1 Memnite
+1 Memory Jar
+1 Mishra's Bauble
+1 Mishra's Workshop
+1 Moonsilver Key
+8 Mountain
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Myr Retriever
+1 Ornithopter
+1 Phyrexian Altar
+1 Phyrexian Walker
+1 Prismatic Vista
+1 Prized Statue
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Ragavan, Nimble Pilferer
+1 Reckless Handling
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Relic of Legends
+1 Rite of Flame
+1 Rograkh, Son of Rohgahh
+1 Runaway Steam-Kin
+1 Scalding Tarn
+1 Seething Song
+1 Shatterskull Smashing
+1 Simian Spirit Guide
+1 Skullclamp
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Spider-Punk
+1 Strike It Rich
+1 Sundering Eruption
+1 Tezzeret, Cruel Captain
+1 The Last Agni Kai
+1 The One Ring
+1 Thermopod
+1 Tormod's Crypt
+1 Treasonous Ogre
+1 Treasure Vault
+1 Underworld Breach
+1 Urza's Bauble
+1 Urza's Saga
+1 Vexing Bauble
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Wooded Foothills
+1 Zenith Festival
+Sideboard
+1 Dargo, the Shipwrecker
+1 Jeska, Thrice Reborn

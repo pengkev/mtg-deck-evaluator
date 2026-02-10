@@ -1,0 +1,93 @@
+1 Goblin Electromancer
+1 Mnemonic Wall
+1 Malevolent Hermit
+1 Micromancer
+1 Vohar, Vodalian Desecrator
+1 Notion Thief
+1 Grim Servant
+1 Pinnacle Monk
+1 Stormcatch Mentor
+1 Archmage of Runes
+1 Storm-Kiln Artist
+1 Stitcher's Supplier
+1 Rakdos Signet
+1 Talisman of Dominance
+1 Dimir Signet
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Izzet Signet
+1 Talisman of Creativity
+1 Unsubstantiate
+1 Desperate Ritual
+1 Negate
+1 Dispel
+1 Dark Ritual
+1 Frantic Search
+1 Twiddle
+1 Winds of Rebuke
+1 Izzet Charm
+1 Burnt Offering
+1 Fire Covenant
+1 Lim-Dul's Vault
+1 Thought Scour
+1 Memory Lapse
+1 Fact or Fiction
+1 Lightning Bolt
+1 Spell Pierce
+1 Ertai's Meddling
+1 Hostile Negotiations
+1 Confounding Riddle
+1 Tyrant's Scorn
+1 Waterlogged Teachings
+1 Saw in Half
+1 Arcane Denial
+1 Dig Through Time
+1 Consider
+1 Reality Shift
+1 Drown in the Loch
+1 Pieces of the Puzzle
+1 Rite of Flame
+1 Dimir Machinations
+1 Diabolic Tutor
+1 Dark Petition
+1 Hidden Strings
+1 Beseech the Queen
+1 Coveted Prize
+1 Grapeshot
+1 Into the Fire
+1 Ringsight
+1 Lively Dirge
+1 Come Back Wrong
+1 Peer into the Abyss
+1 Night's Whisper
+1 Expressive Iteration
+1 Ponder
+1 Mystic Remora
+1 Underworld Breach
+1 Artist's Talent
+1 Crumbling Necropolis
+1 Sunken Hollow
+1 Tainted Isle
+1 River of Tears
+1 Ash Barrens
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Temple of Deceit
+1 Temple of Malice
+1 Tainted Peak
+1 Seething Landscape
+1 Command Tower
+1 Shadowblood Ridge
+1 Dragonskull Summit
+1 Smoldering Marsh
+1 Sulfurous Springs
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Epiphany
+4 Island
+4 Swamp
+3 Mountain
+Sideboard
+1 Cormela, Glamour Thief

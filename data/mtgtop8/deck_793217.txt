@@ -1,0 +1,85 @@
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blood Pet
+1 Burnt Offering
+1 Chthonian Nightmare
+1 Command Tower
+1 Corrupted Conviction
+1 Dargo, the Shipwrecker
+1 Dark Ritual
+1 Dragonskull Summit
+1 Emergence Zone
+1 Exotic Orchard
+1 Fellwar Stone
+1 Flare of Duplication
+1 Flare of Malice
+1 Foreboding Ruins
+1 Fury
+1 Goblin Bombardment
+1 Greedy Freebooter
+1 Grief
+1 Ingot Chewer
+1 Mindslicer
+7 Mountain
+1 Offalsnout
+1 Party Thrasher
+1 Rakdos Signet
+1 Reckless Barbarian
+1 Ricochet Trap
+1 Sacrifice
+1 Shambling Ghast
+1 Shriekmaw
+1 Skittering Precursor
+1 Smoldering Marsh
+1 Sol Ring
+11 Swamp
+1 Talisman of Indulgence
+1 Temple of Malice
+1 Terminate
+1 Terramorphic Expanse
+1 The Balrog, Durin's Bane
+1 Unearth
+1 Victimize
+1 Village Rites
+1 Viscera Seer
+1 Pinnacle Monk
+1 Boggart Trawler
+1 Not Dead After All
+1 Diabolic Tutor
+1 Su-Chi Cave Guard
+1 Priest of Gix
+1 Deadly Dispute
+1 Underworld Breach
+1 Cathodion
+1 Grixis Panorama
+1 Evolving Wilds
+1 The Last Agni Kai
+1 Bolt Bend
+1 Flamekin Harbinger
+1 Golgari Thug
+1 Dread Return
+1 Undying Evil
+1 Final Parting
+1 Ruthless Technomancer
+1 Woe Strider
+1 Priest of Urabrask
+1 Undercity Dire Rat
+1 Atsushi, the Blazing Sky
+1 Unmarked Grave
+1 Impulsive Pilferer
+1 Blood Artist
+1 K'rrik, Son of Yawgmoth
+1 Pitiless Plunderer
+1 Forsaken Miner
+1 Simian Spirit Guide
+1 Timeline Culler
+1 Patron of the Arts
+1 Accursed Marauder
+1 Rite of Flame
+1 Thermopod
+1 Sulfurous Springs
+1 Barbarian Ring
+1 Bloodfell Caves
+1 Foggy Swamp Visions
+Sideboard
+1 Rakdos, the Muscle

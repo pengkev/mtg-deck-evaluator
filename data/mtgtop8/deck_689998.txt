@@ -1,0 +1,82 @@
+1 Trinket Mage
+1 Silent Arbiter
+1 Jace's Archivist
+1 Phantasmal Image
+1 Manic Scribe
+1 Kami of the Crescent Moon
+1 Tribute Mage
+1 Emry, Lurker of the Loch
+1 Ghostly Pilferer
+1 Glasspool Mimic
+1 Ruin Crab
+1 Ledger Shredder
+1 Defiler of Dreams
+1 Deepmuck Desperado
+1 Hydroelectric Specimen
+1 The Mindskinner
+1 High Fae Trickster
+1 Gilded Lotus
+1 Sky Diamond
+1 Mishra's Bauble
+1 Grafdigger's Cage
+1 Altar of the Brood
+1 Sol Ring
+1 Mesmeric Orb
+1 Mind Stone
+1 Grindstone
+1 Sapphire Medallion
+1 Relic of Progenitus
+1 Thought Vessel
+1 Arcane Signet
+1 Unlicensed Hearse
+1 Realmbreaker, the Invasion Tree
+1 Misleading Signpost
+1 Riverchurn Monument
+1 Whir of Invention
+1 Arcane Denial
+1 Counterspell
+1 Mystical Tutor
+1 Thought Scour
+1 Archive Trap
+1 Cyclonic Rift
+1 Pongify
+1 Muddle the Mixture
+1 Fierce Guardianship
+1 Jwari Disruption
+1 An Offer You Can't Refuse
+1 Consign to Memory
+1 Sink into Stupor
+1 Ponder
+1 Fabricate
+1 Preordain
+1 Windfall
+1 Maddening Cacophony
+1 Fractured Sanity
+1 Cut Your Losses
+1 Mystic Remora
+1 Sphinx's Tutelage
+1 Propaganda
+1 Psychic Corrosion
+1 Rhystic Study
+1 Eel Umbra
+1 Memory Erosion
+1 Estrid's Invocation
+1 Drowned Secrets
+1 Shark Typhoon
+1 Struggle for Project Purity
+1 Tezzeret the Seeker
+1 Teferi, Master of Time
+20 Island
+1 Desert of the Mindful
+1 Ipnu Rivulet
+1 Scavenger Grounds
+1 Geier Reach Sanitarium
+1 Flooded Strand
+1 Mikokoro, Center of the Sea
+1 Academy Ruins
+1 Castle Vantress
+1 Fabled Passage
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+Sideboard
+1 Bruvac the Grandiloquent

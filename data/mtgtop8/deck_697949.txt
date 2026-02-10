@@ -1,0 +1,87 @@
+1 Skymarcher Aspirant
+1 Knight of the Ebon Legion
+1 Vampire of the Dire Moon
+1 Pulse Tracker
+1 Tithe Taker
+1 Cruel Celebrant
+1 Cordial Vampire
+1 Changeling Outcast
+1 Grand Abolisher
+1 Drana, Liberator of Malakir
+1 Forerunner of the Legion
+1 Legion Lieutenant
+1 Oathsworn Vampire
+1 Duskborne Skymarcher
+1 Vicious Conquistador
+1 Malakir Bloodwitch
+1 Stromkirk Captain
+1 Tithe Drinker
+1 Viscera Seer
+1 Flamescroll Celebrant
+1 Unholy Officiant
+1 Welcoming Vampire
+1 Commissar Severina Raine
+1 Gifted Aetherborn
+1 Markov Baron
+1 Order of Sacred Dusk
+1 Twilight Prophet
+1 Yahenni, Undying Partisan
+1 Shadow Alley Denizen
+1 Pitiless Plunderer
+1 Blood Seeker
+1 Sanctum Seeker
+1 Blood Artist
+1 Captivating Vampire
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Horn of the Mark
+1 Talisman of Indulgence
+1 Bontu's Monument
+1 Village Rites
+1 Dark Ritual
+1 Despark
+1 Crackling Doom
+1 Sudden Spoiling
+1 Vona's Hunger
+1 Swords to Plowshares
+1 Angel's Grace
+1 Surge of Salvation
+1 Anguished Unmaking
+1 Deadly Dispute
+1 Bovine Intervention
+1 Orim's Chant
+1 Read the Bones
+1 Diabolic Tutor
+1 Crippling Fear
+1 Profane Tutor
+1 Olivia's Wrath
+1 Wrath of God
+1 Sam's Desperate Rescue
+1 Deafening Silence
+1 Intangible Virtue
+1 Shared Animosity
+1 Radiant Destiny
+1 Blind Obedience
+1 Case of the Stashed Skeleton
+1 Assemble the Players
+1 Authority of the Consuls
+1 Sorin, Lord of Innistrad
+6 Plains
+6 Swamp
+1 Command Tower
+1 Ash Barrens
+1 Unclaimed Territory
+1 Temple of Silence
+1 Exotic Orchard
+1 Vault of the Archangel
+1 Smoldering Marsh
+1 Sulfurous Springs
+1 Isolated Chapel
+1 Dragonskull Summit
+1 Battlefield Forge
+4 Mountain
+Sideboard
+1 Edgar Markov

@@ -1,0 +1,101 @@
+1 Elesh Norn, Grand Cenobite
+1 Elves of Deep Shadow
+1 Archon of Valor's Reach
+1 Ranger-Captain of Eos
+1 Eidolon of Rhetoric
+1 Drannith Magistrate
+1 Sylvan Safekeeper
+1 Opposition Agent
+1 Toski, Bearer of Secrets
+1 Witherbloom Apprentice
+1 Dauthi Voidwalker
+1 Arbor Elf
+1 Drana and Linvala
+1 Phyrexian Censor
+1 Boromir, Warden of the Tower
+1 Dauntless Dismantler
+1 Esper Sentinel
+1 Six
+1 Collector Ouphe
+1 Kataki, War's Wage
+1 Hushbringer
+1 Avacyn's Pilgrim
+1 Ramunap Excavator
+1 Birds of Paradise
+1 Ethersworn Canonist
+1 Fiend Artisan
+1 Archon of Emeria
+1 Yasharn, Implacable Earth
+1 Aven Mindcensor
+1 Ohran Frostfang
+1 Archivist of Oghma
+1 Fyndhorn Elves
+1 Eternal Witness
+1 Elvish Spirit Guide
+1 Delighted Halfling
+1 Elvish Mystic
+1 Orcish Bowmasters
+1 Dark Confidant
+1 Deathrite Shaman
+1 Doorkeeper Thrull
+1 Null Rod
+1 Sol Ring
+1 Mox Diamond
+1 Vexing Bauble
+1 Lotus Petal
+1 Crop Rotation
+1 Worldly Tutor
+1 Vampiric Tutor
+1 Assassin's Trophy
+1 Silence
+1 Chord of Calling
+1 Swords to Plowshares
+1 Path to Exile
+1 Tear Asunder
+1 Abrupt Decay
+1 Winds of Abandon
+1 Demonic Tutor
+1 Imperial Seal
+1 Green Sun's Zenith
+1 Chain of Smog
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Natural Order
+1 Deafening Silence
+1 Rule of Law
+1 Stony Silence
+1 Blind Obedience
+1 Sylvan Library
+1 Invasion of Ikoria
+1 Emergence Zone
+1 Gaea's Cradle
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Dryad Arbor
+1 Arid Mesa
+1 Ancient Tomb
+1 Command Tower
+1 Lush Portico
+1 Underground Mortuary
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Godless Shrine
+1 Overgrown Tomb
+1 Marsh Flats
+1 Forest
+1 Swamp
+1 Plains
+1 Boseiju, Who Endures
+1 Takenuma, Abandoned Mire
+1 City of Brass
+1 Temple Garden
+1 Shadowy Backstreet
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Prismatic Vista
+Sideboard
+1 Thalia and The Gitrog Monster

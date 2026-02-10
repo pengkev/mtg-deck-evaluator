@@ -1,0 +1,69 @@
+1 Abyssal Nocturnus
+1 Alley Grifters
+1 Alpharael, Stonechosen
+1 Archfiend of Depravity
+1 Blood Pet
+1 Burglar Rat
+1 Chilling Apparition
+1 Dreamstealer
+1 Elderfang Disciple
+1 Fleshbag Marauder
+1 Okiba-Gang Shinobi
+1 Plaguecrafter
+1 Rankle, Master of Pranks
+1 Ravenous Rats
+1 Rotting Rats
+1 Sheoldred, Whispering One
+1 Vile Entomber
+1 Virus Beetle
+1 Arcane Signet
+1 Charcoal Diamond
+1 Lotus Petal
+1 Sol Ring
+1 Dark Ritual
+1 Doom Blade
+1 Geth's Verdict
+1 Haunting Hymn
+1 Liliana's Triumph
+1 Sheoldred's Edict
+1 Snuff Out
+1 Songs of the Damned
+1 Soul Shatter
+1 Terror
+1 Blasphemous Edict
+1 Blood on the Snow
+1 Chainer's Edict
+1 Cry of Contrition
+1 Death Cloud
+1 Despise
+1 Dread Return
+1 Hymn to Tourach
+1 Inquisition of Kozilek
+1 Myrkul's Edict
+1 Ozai's Cruelty
+1 Pox
+1 Psychic Miasma
+1 Smallpox
+1 Stupor
+1 Syphon Mind
+1 Temporal Intervention
+1 Tragic Trajectory
+1 Bottomless Pit
+1 Honden of Night's Reach
+1 Necropotence
+1 Oath of Liliana
+1 Oppression
+1 Painful Quandary
+1 Phyrexian Arena
+1 Putrefaction
+1 Shrieking Affliction
+1 The Eldest Reborn
+1 Waste Not
+1 Liliana of the Veil
+1 Liliana, Dreadhorde General
+1 Professor Onyx
+1 Geier Reach Sanitarium
+1 Peat Bog
+33 Swamp
+Sideboard
+1 Tergrid, God of Fright

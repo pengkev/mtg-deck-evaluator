@@ -1,0 +1,90 @@
+1 Undercity Sewers
+1 Thundering Falls
+3 Swamp
+1 Sunken Palace
+1 Sulfur Falls
+1 Steam Vents
+1 Smoldering Marsh
+1 Shivan Reef
+1 Seething Landscape
+1 Scalding Tarn
+1 Raucous Theater
+1 Oscorp Industries
+6 Mountain
+5 Island
+1 Foreboding Ruins
+1 Exotic Orchard
+1 Drowned Catacomb
+1 Crumbling Necropolis
+1 Command Tower
+1 Bojuka Bog
+1 Bloodstained Mire
+1 Blood Crypt
+1 Ral, Crackling Wit
+1 Professor Onyx
+1 Underworld Breach
+1 Thousand-Year Storm
+1 Thought Erasure
+1 Seize the Secrets
+1 Ruthless Negotiation
+1 Rousing Refrain
+1 River's Rebuke
+1 Playful Shove
+1 Pilfered Plans
+1 Jeska's Will
+1 Great Intelligence's Plan
+1 Grapeshot
+1 Feed the Swarm
+1 Epic Downfall
+1 Duress
+1 Cruel Ultimatum
+1 Crackle with Power
+1 Cleansing Wildfire
+1 Beseech the Mirror
+1 Angrath's Rampage
+1 Waterlogged Teachings
+1 Terminate
+1 Snap
+1 Repulse
+1 Reality Shift
+1 Negate
+1 Mission Briefing
+1 Lightning Bolt
+1 Invoke Calamity
+1 Into the Flood Maw
+1 Increasing Vengeance
+1 Hithlain Knots
+1 Go for the Throat
+1 Gifts Ungiven
+1 Frantic Search
+1 Flick a Coin
+1 Fell the Profane
+1 Fateful Showdown
+1 Fact or Fiction
+1 Electrodominance
+1 Counterspell
+1 Chaos Warp
+1 Brainstorm
+1 Bedevil
+1 Baleful Mastery
+1 Twinning Staff
+1 The Enigma Jewel
+1 Talisman of Indulgence
+1 Talisman of Creativity
+1 Sol Ring
+1 Patriar's Seal
+1 Fellwar Stone
+1 Arcane Signet
+1 Vivi Ornitier
+1 Storm-Kiln Artist
+1 Snapcaster Mage
+1 Ral, Monsoon Mage
+1 Omen Hawker
+1 Kuja, Genome Sorcerer
+1 Kess, Dissident Mage
+1 Goblin Electromancer
+1 Electro, Assaulting Battery
+1 Cormela, Glamour Thief
+1 Archmage Emeritus
+Sideboard
+1 Zevlor, Elturel Exile

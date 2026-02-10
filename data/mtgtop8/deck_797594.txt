@@ -1,0 +1,90 @@
+1 Dreamdew Entrancer
+1 Solemn Simulacrum
+1 Viridian Emissary
+1 Dimir Infiltrator
+1 Elves of Deep Shadow
+1 Hardbristle Bandit
+1 Thassa's Oracle
+1 Armored Scrapgorger
+1 Springbloom Druid
+1 Nulldrifter
+1 Bane of Progress
+1 Llanowar Elves
+1 Sakura-Tribe Elder
+1 Elvish Mystic
+1 Vedalken Aethermage
+1 Arboreal Grazer
+1 Wood Elves
+1 Sakura-Tribe Scout
+1 Leveler
+1 Skyshroud Ranger
+1 Mulldrifter
+1 Trailtracker Scout
+1 Intrepid Paleontologist
+1 Uro, Titan of Nature's Wrath
+1 Rampant Rejuvenator
+1 Primal Druid
+1 Kiora's Follower
+1 Sol Ring
+1 Wishclaw Talisman
+1 Thwart
+1 Nature's Claim
+1 Mausoleum Secrets
+1 Auroral Procession
+1 Spider-Sense
+1 Shred Memory
+1 Negate
+1 Demonic Consultation
+1 Muddle the Mixture
+1 Memory Lapse
+1 Dizzy Spell
+1 Spell Pierce
+1 Eldritch Evolution
+1 Glimpse the Core
+1 Beseech the Queen
+1 Into the North
+1 Mastermind's Acquisition
+1 Treasured Find
+1 Skyshroud Claim
+1 Rampant Growth
+1 Farseek
+1 Step Through
+1 Dig Up
+1 Return from the Wilds
+1 Ringsight
+1 Demonic Bargain
+1 Diabolic Intent
+1 Thought Lash
+1 Case of the Stashed Skeleton
+1 Jace, Wielder of Mysteries
+1 Haunted Mire
+1 Temple of Deceit
+1 Path of Ancestry
+1 Tangled Islet
+1 Necroblossom Snarl
+1 Ice Tunnel
+1 Yavimaya Coast
+1 Sunken Hollow
+1 Opulent Palace
+1 Woodland Cemetery
+1 Temple of Mystery
+1 Llanowar Wastes
+1 Flooded Grove
+1 Hinterland Harbor
+5 Forest
+1 Choked Estuary
+1 Exotic Orchard
+4 Swamp
+1 Frost Marsh
+1 Fetid Pools
+1 Command Tower
+1 Rimewood Falls
+1 Tainted Isle
+1 Woodland Chasm
+1 Waterlogged Grove
+1 Twilight Mire
+5 Island
+1 Vineglimmer Snarl
+1 Temple of Malady
+Sideboard
+1 Zimone and Dina

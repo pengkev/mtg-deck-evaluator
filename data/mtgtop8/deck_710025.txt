@@ -1,0 +1,91 @@
+1 Baleful Strix
+1 Destiny Spinner
+1 Forgotten Ancient
+1 Gonti, Night Minister
+1 Nighthowler
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Skyserpent Seeker
+1 Toski, Bearer of Secrets
+1 Wood Elves
+1 Arcane Signet
+1 Basilisk Collar
+1 Blackblade Reforged
+1 Brotherhood Regalia
+1 Champion's Helm
+1 Cliffhaven Kitesail
+1 Conqueror's Flail
+1 Excalibur, Sword of Eden
+1 Fireshrieker
+1 Leyline Axe
+1 Loxodon Warhammer
+1 Mask of Griselbrand
+1 Mask of Riddles
+1 Prowler's Helm
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Vengeance
+1 Tarrian's Soulcleaver
+1 The Key to the Vault
+1 Thran Power Suit
+1 Trailblazer's Boots
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Bitter Triumph
+1 Blossoming Defense
+1 Counterspell
+1 Dive Down
+1 Gaea's Gift
+1 Growth Spiral
+1 Negate
+1 Overprotect
+1 Resculpt
+1 Snakeskin Veil
+1 Withering Torment
+1 Eagle Vision
+1 Flood of Tears
+1 Necromantic Selection
+1 Read the Bones
+1 Viewpoint Synchronization
+1 Aqueous Form
+1 Combat Research
+1 Demonic Embrace
+1 Imprisoned in the Moon
+1 Kaya's Ghostform
+1 Phyrexian Arena
+1 Propaganda
+1 Raised by Giants
+1 Rancor
+1 Strong Back
+1 Sword Coast Sailor
+1 Well Rested
+1 Tasha, the Witch Queen
+1 Ash Barrens
+1 Bojuka Bog
+1 Command Tower
+1 Contaminated Aquifer
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+4 Forest
+1 Golgari Guildgate
+1 Haunted Mire
+1 Hinterland Harbor
+6 Island
+1 Jungle Hollow
+1 Myriad Landscape
+1 Opulent Palace
+1 Rogue's Passage
+1 Simic Guildgate
+3 Swamp
+1 Tangled Islet
+1 Temple of Deceit
+1 Temple of Malady
+1 Temple of Mystery
+1 Thornwood Falls
+1 Woodland Cemetery
+Sideboard
+1 Kotis, the Fangkeeper

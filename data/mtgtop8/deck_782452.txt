@@ -1,0 +1,85 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Arixmethes, Slumbering Isle
+1 Ashaya, Soul of the Wild
+1 Augur of Autumn
+1 Avenger of Zendikar
+1 Body of Knowledge
+1 Citanul Hierophants
+1 Curator Beastie
+1 Deathmist Raptor
+1 Elfsworn Giant
+1 Ghoultree
+1 Giggling Skitterspike
+1 Glitch Interpreter
+1 Homunculus Horde
+1 Hydra Omnivore
+1 Kianne, Corrupted Memory
+1 Koma, Cosmos Serpent
+1 Koma, World-Eater
+1 Lotus Cobra
+1 Multani, Yavimaya's Avatar
+1 Paranormal Analyst
+1 Sakura-Tribe Elder
+1 Scrawling Crawler
+1 Scute Swarm
+1 Shriekwood Devourer
+1 Tatyova, Benthic Druid
+1 Thunderfoot Baloth
+1 Trygon Predator
+1 Whisperwood Elemental
+1 Worldspine Wurm
+1 Yavimaya Elder
+1 Yedora, Grave Gardener
+1 Arcane Signet
+1 Simic Signet
+1 Sol Ring
+1 Thought Vessel
+1 Beast Within
+1 Cackling Counterpart
+1 Counterspell
+1 Dig Through Time
+1 Eureka Moment
+1 Growth Spiral
+1 Reality Shift
+1 Syncopate
+1 Aether Gale
+1 Cultivate
+1 Explosive Vegetation
+1 Ezuri's Predation
+1 Oversimplify
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Exploration
+1 Frantic Strength
+1 Mirrormade
+1 Propaganda
+1 Retreat to Coralhelm
+1 Sandwurm Convergence
+1 They Came from the Pipes
+1 Threats Around Every Corner
+1 Wilderness Reclamation
+1 Wrenn and Seven
+1 Ash Barrens
+1 Castle Vantress
+1 Command Tower
+1 Drownyard Temple
+1 Evolving Wilds
+1 Flooded Grove
+9 Forest
+1 Hinterland Harbor
+9 Island
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Overflowing Basin
+1 Quandrix Campus
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Tangled Islet
+1 Temple of Mystery
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+Sideboard
+1 Zimone, Mystery Unraveler

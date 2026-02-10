@@ -1,0 +1,101 @@
+1 Training Grounds
+1 Rhystic Study
+1 Blind Obedience
+1 Smothering Tithe
+1 Mystic Remora
+1 Necropotence
+1 Damn
+1 Supreme Verdict
+1 Toxic Deluge
+1 Diabolic Intent
+1 Windfall
+1 Demonic Tutor
+1 Praetor's Grasp
+1 Counterspell
+1 Path to Exile
+1 Sink into Stupor
+1 Waterlogged Teachings
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Borne Upon a Wind
+1 Reprieve
+1 Swords to Plowshares
+1 Resculpt
+1 Tainted Pact
+1 Mana Drain
+1 Vampiric Tutor
+1 Arcane Denial
+1 Dramatic Reversal
+1 Silence
+1 Chain of Vapor
+1 Force of Will
+1 Ad Nauseam
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Deadly Rollick
+1 Force of Negation
+1 Dark Ritual
+1 Spell Pierce
+1 Vexing Bauble
+1 Arcane Signet
+1 Thought Vessel
+1 The One Ring
+1 Fellwar Stone
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Talisman of Hierarchy
+1 Mana Vault
+1 Sol Ring
+1 Isochron Scepter
+1 Chrome Mox
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Grafdigger's Cage
+1 Ashnod's Altar
+1 Esper Sentinel
+1 Hydroelectric Specimen
+1 Volatile Stormdrake
+1 Phyrexian Metamorph
+1 Tishana's Tidebinder
+1 Dauntless Dismantler
+1 Flesh Duplicate
+1 Talion, the Kindly Lord
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Chrome Host Seedshark
+1 Myrel, Shield of Argive
+1 Archivist of Oghma
+1 Opposition Agent
+1 Drannith Magistrate
+1 Phantasmal Image
+1 Thassa's Oracle
+1 Plains
+1 Swamp
+1 Island
+1 Cephalid Coliseum
+1 Flooded Strand
+1 Command Tower
+1 Mana Confluence
+1 Exotic Orchard
+1 Reflecting Pool
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Clearwater Pathway
+1 Ancient Tomb
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Arid Mesa
+1 Windswept Heath
+1 Polluted Delta
+1 Gemstone Caverns
+1 Prismatic Vista
+1 Emergence Zone
+1 Marsh Flats
+1 Watery Grave
+1 Hallowed Fountain
+1 Godless Shrine
+1 City of Brass
+1 Urza's Saga
+Sideboard
+1 Marneus Calgar

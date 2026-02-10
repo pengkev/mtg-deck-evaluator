@@ -1,0 +1,86 @@
+1 Augur of Bolas
+1 Baral, Chief of Compliance
+1 Deceiver Exarch
+1 Faerie Mastermind
+1 Nimble Obstructionist
+1 Oracle of Tragedy
+1 Phyrexian Metamorph
+1 Sicarian Infiltrator
+1 Sigil Tracer
+1 Spellseeker
+1 Stunt Double
+1 Teferi, Mage of Zhalfir
+1 Thundertrap Trainer
+1 Tishana's Tidebinder
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Chrome Mox
+1 Disruptor Flute
+1 Fellwar Stone
+1 Grim Monolith
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Relic of Legends
+1 Sapphire Medallion
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Blue Sun's Zenith
+1 Blur
+1 Borne Upon a Wind
+1 Commandeer
+1 Defabricate
+1 Dispel
+1 Displace
+1 Dramatic Reversal
+1 Eldrazi Confluence
+1 Essence Flux
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Ghostly Flicker
+1 High Tide
+1 Illusionist's Stratagem
+1 Into the Roil
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Narset's Reversal
+1 Pact of Negation
+1 Planar Incision
+1 Rapid Hybridization
+1 Reset
+1 See Double
+1 Sink into Stupor
+1 Siren's Ruse
+1 Stifle
+1 Swan Song
+1 Three Steps Ahead
+1 Trickbind
+1 Whir of Invention
+1 Flash Photography
+1 Merchant Scroll
+1 Copy Artifact
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Agna Qel'a
+1 Ancient Tomb
+1 Fountainport
+1 Horizon of Progress
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Scalding Tarn
+16 Snow-Covered Island
+1 Sunscorched Desert
+1 The Gold Saucer
+1 Urza's Cave
+1 War Room
+Sideboard
+1 Naru Meha, Master Wizard

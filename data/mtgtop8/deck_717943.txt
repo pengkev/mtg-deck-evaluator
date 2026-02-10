@@ -1,0 +1,82 @@
+1 Kalastria Healer
+1 Blood Seeker
+1 Legion Lieutenant
+1 Voldaren Bloodcaster
+1 Markov Purifier
+1 Carmen, Cruel Skymarcher
+1 Elenda's Hierophant
+1 Twilight Prophet
+1 Champion of Dusk
+1 Cordial Vampire
+1 Drana, Liberator of Malakir
+1 Falkenrath Noble
+1 Mavren Fein, Dusk Apostle
+1 Sanctum Seeker
+1 Metallic Mimic
+1 Patron of the Vein
+1 Baron Bertram Graywater
+1 Sorin of House Markov
+1 Blood Artist
+1 Bloodthirsty Aerialist
+1 Vampire Nighthawk
+1 Bloodline Keeper
+1 Captivating Vampire
+1 Indulgent Aristocrat
+1 Yahenni, Undying Partisan
+1 Drana, the Last Bloodchief
+1 Blade of the Bloodchief
+1 Door of Destinies
+1 Ashnod's Altar
+1 Commander's Sphere
+1 Icon of Ancestry
+1 Wedding Ring
+1 Arcane Signet
+1 Glass-Cast Heart
+1 Herald's Horn
+1 Mind Stone
+1 Thought Vessel
+1 Bontu's Monument
+1 Fellwar Stone
+1 Orzhov Signet
+1 Sol Ring
+1 Patchwork Banner
+1 Altar's Reap
+1 Revitalize
+1 Village Rites
+1 Reckless Spite
+1 Deadly Dispute
+1 Mortify
+1 Joust Through
+1 Infernal Grasp
+1 Swords to Plowshares
+1 Despark
+1 Path to Exile
+1 Toxic Deluge
+1 Read the Bones
+1 Olivia's Wrath
+1 Austere Command
+1 Feed the Swarm
+1 March of the Canonized
+1 Etchings of the Chosen
+1 Banishing Light
+1 Sorin the Mirthless
+1 Castle Locthwain
+1 Restless Fortress
+1 Rogue's Passage
+1 Voldaren Estate
+1 Reliquary Tower
+1 Mortuary Mire
+1 Temple of the False God
+1 Command Tower
+1 Scoured Barrens
+1 Exotic Orchard
+1 Path of Ancestry
+1 Bojuka Bog
+1 Vault of the Archangel
+1 Shattered Sanctum
+1 Myriad Landscape
+10 Swamp
+10 Plains
+1 Evolving Wilds
+Sideboard
+1 Edgar, Charmed Groom

@@ -1,0 +1,101 @@
+1 Seedborn Muse
+1 Magus of the Candelabra
+1 Spellseeker
+1 Biomancer's Familiar
+1 Birds of Paradise
+1 Phyrexian Metamorph
+1 Eternal Witness
+1 Devoted Druid
+1 Imperial Recruiter
+1 Endurance
+1 Cloud of Faeries
+1 Kinnan, Bonder Prodigy
+1 Sowing Mycospawn
+1 Mockingbird
+1 Valley Floodcaller
+1 Phantasmal Image
+1 High Fae Trickster
+1 Clever Impersonator
+1 Delighted Halfling
+1 Elvish Mystic
+1 Thundertrap Trainer
+1 Enduring Vitality
+1 Chrome Mox
+1 Mox Opal
+1 Lotus Petal
+1 Springleaf Drum
+1 Mana Vault
+1 Mox Diamond
+1 Fellwar Stone
+1 Imposter Mech
+1 Machine God's Effigy
+1 Mox Amber
+1 Arcane Signet
+1 The One Ring
+1 Sol Ring
+1 Crop Rotation
+1 Flusterstorm
+1 Force of Vigor
+1 Force of Negation
+1 Pyroblast
+1 Force of Will
+1 Muddle the Mixture
+1 Retraction Helix
+1 Swan Song
+1 Mystical Tutor
+1 Veil of Summer
+1 Snap
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Flare of Denial
+1 Strix Serenade
+1 Into the Flood Maw
+1 Pact of Negation
+1 Mindbreak Trap
+1 Mental Misstep
+1 Lightning Bolt
+1 Chord of Calling
+1 Tempt with Discovery
+1 Chatterstorm
+1 Finale of Devastation
+1 Analyze the Pollen
+1 Malevolent Rumble
+1 Eldritch Evolution
+1 Gamble
+1 Rhystic Study
+1 Training Grounds
+1 Carpet of Flowers
+1 Mystic Remora
+1 Kenrith's Transformation
+1 Wild Growth
+1 Tezzeret the Seeker
+1 Breeding Pool
+1 Stomping Ground
+1 Scalding Tarn
+1 City of Brass
+1 Mana Confluence
+1 Steam Vents
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Verdant Catacombs
+1 Rejuvenating Springs
+1 Misty Rainforest
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Spire Garden
+1 Exotic Orchard
+1 Wooded Foothills
+1 Island
+1 Command Tower
+1 Forest
+1 Mistrise Village
+1 Flooded Strand
+Sideboard
+1 Jeska, Thrice Reborn
+1 Thrasios, Triton Hero

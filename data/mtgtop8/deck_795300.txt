@@ -1,0 +1,84 @@
+1 Wandering Archaic
+1 Scrap Trawler
+1 Myr Retriever
+1 Faerie Mastermind
+1 Ledger Shredder
+1 Forensic Gadgeteer
+1 Urza, Lord High Artificer
+1 Gilded Drake
+1 Laboratory Maniac
+1 Phyrexian Metamorph
+1 Thassa's Oracle
+1 Mockingbird
+1 Battered Golem
+1 Traxos, Scourge of Kroog
+1 Pili-Pala
+1 Grand Architect
+1 Valley Floodcaller
+1 Metalworker
+1 Walking Ballista
+1 Spellskite
+1 The One Ring
+1 Defense Grid
+1 Mox Opal
+1 Agatha's Soul Cauldron
+1 Rings of Brighthearth
+1 Weathered Runestone
+1 Isochron Scepter
+1 Imposter Mech
+1 Mox Amber
+1 Everflowing Chalice
+1 Lotus Petal
+1 Staff of Domination
+1 Fellwar Stone
+1 Mana Vault
+1 Sol Ring
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Krark-Clan Ironworks
+1 Mox Diamond
+1 Chain of Vapor
+1 Swan Song
+1 Mindbreak Trap
+1 Mana Drain
+1 Flusterstorm
+1 Mental Misstep
+1 Commandeer
+1 Force of Will
+1 Pact of Negation
+1 Into the Flood Maw
+1 Dramatic Reversal
+1 Force of Negation
+1 An Offer You Can't Refuse
+1 Retraction Helix
+1 Whir of Invention
+1 Run Away Together
+1 Fierce Guardianship
+1 Mystical Tutor
+1 Banishing Knack
+1 Muddle the Mixture
+1 Fabricate
+1 Reshape
+1 Bribery
+1 Merchant Scroll
+1 Dress Down
+1 Thought Lash
+1 Mirrormade
+1 Steal Enchantment
+1 Rhystic Study
+1 Mystic Remora
+1 Copy Artifact
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Field of Ruin
+1 Academy Ruins
+1 Cephalid Coliseum
+1 Crystal Vein
+1 Ancient Tomb
+1 Buried Ruin
+18 Island
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+Sideboard
+1 Wan Shi Tong, Librarian

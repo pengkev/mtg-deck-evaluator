@@ -1,0 +1,92 @@
+1 Mayhem Devil
+1 Dualcaster Mage
+1 Grand Abolisher
+1 Simian Spirit Guide
+1 Magda, Brazen Outlaw
+1 Flamescroll Celebrant
+1 Priest of Fell Rites
+1 Dragon's Rage Channeler
+1 Cathar Commando
+1 Abdel Adrian, Gorion's Ward
+1 Braids, Arisen Nightmare
+1 Lurrus of the Dream-Den
+1 Hoarding Broodlord
+1 Tithe Taker
+1 Crime Novelist
+1 Grim Servant
+1 Pinnacle Monk
+1 Tax Collector
+1 Darkstar Augur
+1 Wishclaw Talisman
+1 Fellwar Stone
+1 Rakdos Signet
+1 Noble's Purse
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Collector's Vault
+1 Boros Signet
+1 Orzhov Signet
+1 Arcane Signet
+1 Talisman of Indulgence
+1 Portable Hole
+1 Talisman of Conviction
+1 Bolas's Citadel
+1 Mandate of Peace
+1 Chance for Glory
+1 Dark Ritual
+1 Unexpectedly Absent
+1 Burnt Offering
+1 Shred Memory
+1 Cathartic Pyre
+1 Lightning Bolt
+1 Wyll's Reversal
+1 Return the Favor
+1 Razorgrass Ambush
+1 Saw in Half
+1 Ricochet Trap
+1 Unwanted Remake
+1 Duress
+1 Innocent Blood
+1 Mythos of Snapdax
+1 Dark Petition
+1 Final Parting
+1 Stitch Together
+1 Flicker
+1 Faithless Looting
+1 Fervent Mastery
+1 Persist
+1 Strike It Rich
+1 Unburial Rites
+1 Inquisition of Kozilek
+1 Sevinne's Reclamation
+1 Unmarked Grave
+1 Lively Dirge
+1 Demonic Counsel
+1 Electroduplicate
+1 Animate Dead
+1 Underworld Breach
+1 Last Voyage of the ________
+1 Out of Time
+1 Meticulous Excavation
+1 Ripples of Undeath
+1 Static Prison
+1 Emergence Zone
+1 Ash Barrens
+1 Caves of Koilos
+1 Exotic Orchard
+1 Path of Ancestry
+1 Shire Terrace
+1 Temple of Triumph
+1 Temple of Silence
+1 Command Tower
+1 Isolated Chapel
+1 Dragonskull Summit
+1 Spire of Industry
+1 Nomad Outpost
+1 Temple of Malice
+1 Shattered Landscape
+4 Mountain
+4 Plains
+4 Swamp
+Sideboard
+1 Dihada, Binder of Wills

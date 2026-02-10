@@ -1,0 +1,98 @@
+1 Alms Collector
+1 Angel of Grace
+1 Angel of the Dire Hour
+1 Breaching Hippocamp
+1 Briarhorn
+1 Commander Sofia Daguerre
+1 Crafty Cutpurse
+1 Draining Whelk
+1 Dream Eater
+1 Dust Elemental
+1 Frilled Mystic
+1 Glorious Protector
+1 Glory
+1 Great Oak Guardian
+1 Grey Knight Paragon
+1 Haze Frog
+1 Herald of Eternal Dawn
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Illusory Ambusher
+1 Laboratory Maniac
+1 Malleable Impostor
+1 Mocking Doppelganger
+1 Mystic Snake
+1 Overcharged Amalgam
+1 Portal Manipulator
+1 Pouncing Shoreshark
+1 Restoration Angel
+1 Sakashima's Protege
+1 Seedborn Muse
+1 Seht's Tiger
+1 Selfless Squire
+1 Sigarda's Vanguard
+1 Sister of Silence
+1 Slippery Bogbonder
+1 Smirking Spelljacker
+1 Solitude
+1 Stunt Double
+1 Subtlety
+1 The Wandering Rescuer
+1 Thistledown Liege
+1 Thought Sponge
+1 Thryx, the Sudden Storm
+1 Timeless Witness
+1 Transcendent Dragon
+1 Venser, Shaper Savant
+1 Voidmage Husher
+1 Voracious Greatshark
+1 Windshaper Planetar
+1 Cloudstone Curio
+1 The One Ring
+1 Beast Within
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flare of Fortitude
+1 Generous Gift
+1 Shared Summons
+1 Voidslime
+1 Guardian Project
+1 Intruder Alarm
+1 Azorius Chancery
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Breeding Pool
+1 Canopy Vista
+1 Command Tower
+1 Dreamroot Cascade
+1 Flooded Strand
+2 Forest
+1 Hallowed Fountain
+1 Hedge Maze
+1 Hinterland Harbor
+1 Hushwood Verge
+2 Island
+1 Mosswort Bridge
+1 Multiversal Passage
+1 Overgrown Farmland
+1 Path of Ancestry
+2 Plains
+1 Prairie Stream
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sea of Clouds
+1 Seaside Citadel
+1 Secluded Courtyard
+1 Sejiri Refuge
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Spara's Headquarters
+1 Tarnished Citadel
+1 Temple Garden
+1 Temple of Plenty
+1 Tranquil Landscape
+1 Windswept Heath
+1 Yavimaya Coast
+Sideboard
+1 Helga, Skittish Seer

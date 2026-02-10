@@ -1,0 +1,100 @@
+1 Haven of the Spirit Dragon
+1 Sunken Hollow
+1 Smoldering Marsh
+1 Prairie Stream
+1 Exotic Orchard
+1 Underground River
+1 Adarkar Wastes
+1 Yavimaya Coast
+1 Hushwood Verge
+1 Gloomlake Verge
+1 Tainted Peak
+1 Command Tower
+1 Unclaimed Territory
+1 Haunted Ridge
+1 Caves of Koilos
+1 Shadowblood Ridge
+1 Spire Garden
+1 Evolving Wilds
+1 The World Tree
+1 Blightstep Pathway
+1 Blooming Marsh
+1 Reflecting Pool
+1 Mountain
+1 Llanowar Wastes
+1 Fabled Passage
+1 Island
+1 Cavern of Souls
+1 Swamp
+1 Stomping Ground
+1 Plains
+1 Dragon Tempest
+1 Call the Spirit Dragons
+1 Frostcliff Siege
+1 Rhythm of the Wild
+1 Leyline Binding
+1 Kindred Discovery
+1 Selvala's Stampede
+1 Blasphemous Act
+1 Crux of Fate
+1 Rampant Growth
+1 Finale of Devastation
+1 Cultivate
+1 Inevitable Defeat
+1 An Offer You Can't Refuse
+1 Assassin's Trophy
+1 Anguished Unmaking
+1 Swords to Plowshares
+1 Silence
+1 Arcane Signet
+1 Sol Ring
+1 Fist of Suns
+1 Fellwar Stone
+1 Herald's Horn
+1 Chromatic Lantern
+1 Twinflame Tyrant
+1 Faeburrow Elder
+1 Atarka, World Render
+1 Sarkhan, Soul Aflame
+1 Dragonlord Dromoka
+1 Leyline Tyrant
+1 Lathliss, Dragon Queen
+1 Scavenger Regent
+1 Betor, Kin to All
+1 Drakuseth, Maw of Flames
+1 Helga, Skittish Seer
+1 Selvala, Heart of the Wilds
+1 Morophon, the Boundless
+1 Dryad of the Ilysian Grove
+1 Decadent Dragon
+1 Zurgo and Ojutai
+1 Scourge of Valkas
+1 Gwenna, Eyes of Gaea
+1 Ramos, Dragon Engine
+1 O-Kagachi, Vengeful Kami
+1 Miirym, Sentinel Wyrm
+1 Wasitora, Nekoru Queen
+1 Kyodai, Soul of Kamigawa
+1 Scion of Draco
+1 Ignoble Hierarch
+1 Esika, God of the Tree
+1 Hellkite Charger
+1 Dragonlord's Servant
+1 Savage Ventmaw
+1 Scion of the Ur-Dragon
+1 Birds of Paradise
+1 Utvara Hellkite
+1 Silumgar, the Drifting Death
+1 Ojutai, Soul of Winter
+1 Kolaghan, the Storm's Fury
+1 Dromoka, the Eternal
+1 Noble Hierarch
+1 Bladewing the Risen
+1 Cinder Glade
+1 Flooded Grove
+1 Canopy Vista
+2 Forest
+1 Luxury Suite
+1 Maelstrom of the Spirit Dragon
+Sideboard
+1 The Ur-Dragon

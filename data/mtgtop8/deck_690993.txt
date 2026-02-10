@@ -1,0 +1,101 @@
+1 Seedborn Muse
+1 Fyndhorn Elves
+1 Elvish Mystic
+1 Spellseeker
+1 Biomancer's Familiar
+1 Kinnan, Bonder Prodigy
+1 Imperial Recruiter
+1 Opposition Agent
+1 Ignoble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Tireless Provisioner
+1 Dauthi Voidwalker
+1 Delighted Halfling
+1 Pollywog Prodigy
+1 Thassa's Oracle
+1 Birds of Paradise
+1 Bloom Tender
+1 Elves of Deep Shadow
+1 Chrome Mox
+1 Rakdos Signet
+1 Mox Diamond
+1 Mox Opal
+1 Talisman of Dominance
+1 Talisman of Creativity
+1 Talisman of Indulgence
+1 Lion's Eye Diamond
+1 The One Ring
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Mana Drain
+1 Pact of Negation
+1 Force of Will
+1 Lim-Dul's Vault
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Flusterstorm
+1 Brain Freeze
+1 Force of Negation
+1 Force of Vigor
+1 Deflecting Swat
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Ad Nauseam
+1 Worldly Tutor
+1 Demonic Consultation
+1 Muddle the Mixture
+1 Tainted Pact
+1 Swan Song
+1 Counterspell
+1 Dispel
+1 Spell Pierce
+1 Red Elemental Blast
+1 Veil of Summer
+1 Wheel of Fortune
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Mystic Remora
+1 Training Grounds
+1 Urza's Saga
+1 Unstoppable Plan
+1 Underworld Breach
+1 Rhystic Study
+1 Sylvan Library
+1 Bayou
+1 Badlands
+1 Taiga
+1 Tropical Island
+1 Underground Sea
+1 Flooded Strand
+1 Breeding Pool
+1 Stomping Ground
+1 Watery Grave
+1 Morphic Pool
+1 Cavern of Souls
+1 Ancient Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Overgrown Tomb
+1 Steam Vents
+1 Marsh Flats
+1 Scalding Tarn
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Gaea's Cradle
+1 Volcanic Island
+1 Waterlogged Grove
+1 Gemstone Caverns
+1 Hinterland Harbor
+1 Training Center
+1 Otawara, Soaring City
+1 Command Tower
+1 Field of the Dead
+Sideboard
+1 Thrasios, Triton Hero
+1 Vial Smasher the Fierce

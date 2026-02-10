@@ -1,0 +1,88 @@
+1 Chrome Mox
+1 Codex Shredder
+1 Jeweled Amulet
+1 Mox Opal
+1 Mox Diamond
+1 Sapphire Medallion
+1 Forsaken Monument
+1 Staff of Domination
+1 Pithing Needle
+1 Imposter Mech
+1 Howling Mine
+1 Machine God's Effigy
+1 The One Ring
+1 Basalt Monolith
+1 Mind Stone
+1 Winter Orb
+1 Trinisphere
+1 Isochron Scepter
+1 Static Orb
+1 Pact of Negation
+1 Mana Vault
+1 Cyclonic Rift
+1 Lotus Petal
+1 Tormod's Crypt
+1 Grafdigger's Cage
+1 Sol Ring
+1 Mycosynth Lattice
+1 Mystic Remora
+1 Amphibian Downpour
+1 Unstoppable Plan
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Narset, Parter of Veils
+1 Back to Basics
+1 Fierce Guardianship
+1 Dramatic Reversal
+1 Mana Drain
+1 Whir of Invention
+1 Force of Will
+1 Mystical Tutor
+1 Muddle the Mixture
+1 Sink into Stupor
+1 Consign to Memory
+1 Into the Flood Maw
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Reality Shift
+1 Flusterstorm
+1 Step Through
+1 Reshape
+1 Timetwister
+1 Fabricate
+1 Force of Negation
+1 Rhystic Study
+1 Thassa's Oracle
+1 Gilded Drake
+1 Spellskite
+1 Vedalken Archmage
+1 Metalworker
+1 Shimmer Myr
+1 Ledger Shredder
+1 Faerie Mastermind
+1 Forensic Gadgeteer
+1 Harbinger of the Seas
+1 Pollywog Prodigy
+1 Displacer Kitten
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Transit Mage
+1 Mockingbird
+1 Phyrexian Metamorph
+1 Urza's Saga
+1 Mystic Sanctuary
+1 Ancient Tomb
+1 Seat of the Synod
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Cavern of Souls
+1 Flooded Strand
+1 Polluted Delta
+1 Talon Gates of Madara
+1 Emergence Zone
+14 Island
+Sideboard
+1 Urza, Lord High Artificer

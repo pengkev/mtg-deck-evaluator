@@ -1,0 +1,98 @@
+1 Damping Matrix
+1 Null Rod
+1 Umbral Mantle
+1 Mana Vault
+1 Sol Ring
+1 Pyroblast
+1 Back to Nature
+1 Chord of Calling
+1 Volcanic Offering
+1 Seedtime
+1 Tibalt's Trickery
+1 Lightning Bolt
+1 Veil of Summer
+1 Beast Within
+1 Commune with Lava
+1 Aggravated Assault
+1 Ugin, Eye of the Storms
+1 Sylvan Library
+1 Force of Vigor
+1 Worldly Tutor
+1 Deflecting Swat
+1 Legolas's Quick Reflexes
+1 Shared Summons
+1 Untimely Malfunction
+1 Life's Legacy
+1 Turntimber Symbiosis
+1 Jeska's Will
+1 Seize the Day
+1 Twinflame
+1 Last March of the Ents
+1 Finale of Devastation
+1 Tooth and Nail
+1 Rise of the Eldrazi
+1 Tempt with Discovery
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Cryptolith Rite
+1 Blood Moon
+1 Red Elemental Blast
+1 Root Maze
+1 Birds of Paradise
+1 Temur Sabertooth
+1 Simian Spirit Guide
+1 Sowing Mycospawn
+1 Fanatic of Rhonas
+1 Magus of the Moon
+1 Hideous Taskmaster
+1 Druid of Purification
+1 Enduring Vitality
+1 Ohran Frostfang
+1 Kiki-Jiki, Mirror Breaker
+1 Void Winnower
+1 Collector Ouphe
+1 Hyrax Tower Scout
+1 Marwyn, the Nurturer
+1 Vexing Shusher
+1 Dualcaster Mage
+1 Toski, Bearer of Secrets
+1 Wandering Archaic
+1 Imperial Recruiter
+1 Endurance
+1 Heronblade Elite
+1 Elvish Spirit Guide
+1 Professional Face-Breaker
+1 Llanowar Elves
+1 Armored Scrapgorger
+1 Zopandrel, Hunger Dominus
+1 Kami of Whispered Hopes
+1 Etali, Primal Conqueror
+1 Delighted Halfling
+1 Elvish Mystic
+1 Ruby, Daring Tracker
+1 Ragavan, Nimble Pilferer
+1 Selvala, Heart of the Wilds
+1 Ancient Tomb
+1 Misty Rainforest
+1 Mana Confluence
+1 Gaea's Cradle
+1 Taiga
+1 Cragcrown Pathway
+1 Spire Garden
+1 Grove of the Burnwillows
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Karplusan Forest
+1 Stomping Ground
+1 Kessig Wolf Run
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Command Tower
+1 Gemstone Caverns
+2 Mountain
+3 Forest
+Sideboard
+1 Raggadragga, Goreguts Boss

@@ -1,0 +1,82 @@
+1 Runed Stalactite
+1 Moonsnare Prototype
+1 Lotus Petal
+1 Izzet Signet
+1 Fellwar Stone
+1 Arcane Signet
+1 Unruly Catapult
+1 Trinket Mage
+1 Thermo-Alchemist
+1 Tandem Lookout
+1 Sunshot Militia
+1 Simian Spirit Guide
+1 Reckless Fireweaver
+1 Penregon Strongbull
+1 Magmakin Artillerist
+1 Kessig Flamebreather
+1 Ingenious Artillerist
+1 Imagecrafter
+1 Guttersnipe
+1 Goblin Matron
+1 Firebrand Archer
+1 Drift of Phantasms
+1 Amoeboid Changeling
+1 Springleaf Drum
+1 Anticipate
+1 Arcane Denial
+1 Blades of Velis Vel
+1 Brainstorm
+1 Deduce
+1 Dispel
+1 Dive Down
+1 Dizzy Spell
+1 Experimental Augury
+1 Fiery Cannonade
+1 Flash Counter
+1 Impulse
+1 Intervene
+1 Lightning Bolt
+1 Memory Lapse
+1 Mizzium Skin
+1 Muddle the Mixture
+1 Negate
+1 Opt
+1 Peek
+1 Perilous Research
+1 Pyroblast
+1 Red Elemental Blast
+1 Shore Up
+1 Snap
+1 Snapback
+1 Spell Pierce
+1 Trickery Charm
+1 Turn Aside
+1 Wings of Velis Vel
+1 Faithless Looting
+1 Gitaxian Probe
+1 Glimpse the Impossible
+1 Infernal Plunge
+1 Lorien Revealed
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Rite of Flame
+1 Serum Visions
+1 Shimmer of Possibility
+1 Sleight of Hand
+1 Step Through
+1 Strategic Planning
+1 Treasure Cruise
+1 Ophidian Eye
+1 Command Tower
+1 Crystal Grotto
+1 Great Furnace
+1 Halimar Depths
+11 Island
+10 Mountain
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Seat of the Synod
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Rograkh, Son of Rohgahh

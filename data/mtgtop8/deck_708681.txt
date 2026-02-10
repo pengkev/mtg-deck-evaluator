@@ -1,0 +1,81 @@
+1 Torbran, Thane of Red Fell
+1 Skirk Prospector
+1 Brash Taunter
+1 Simian Spirit Guide
+1 Impulsive Pilferer
+1 Dualcaster Mage
+1 Birgi, God of Storytelling
+1 Storm-Kiln Artist
+1 Magus of the Wheel
+1 Topiary Stomper
+1 Kogla and Yidaro
+1 Sentinel Tower
+1 Gruul Locket
+1 Star Compass
+1 Twinning Staff
+1 Darksteel Plate
+1 Sol Ring
+1 Blazing Sunsteel
+1 Fire Diamond
+1 Moss Diamond
+1 Basilisk Collar
+1 Arcane Signet
+1 Gruul Signet
+1 Talisman of Impulse
+1 Manamorphose
+1 Thrill of Possibility
+1 Reap
+1 Autumn's Veil
+1 Magmaquake
+1 Reclaim
+1 Fury Storm
+1 Fiery Cannonade
+1 Roiling Regrowth
+1 Volcanic Fallout
+1 Unexpected Windfall
+1 Electric Revelation
+1 Starstorm
+1 Chaos Warp
+1 Storm's Wrath
+1 Pyroclasm
+1 Rite of Flame
+1 Hull Breach
+1 Regrowth
+1 Sweltering Suns
+1 Savage Twister
+1 Explore
+1 Verdant Touch
+1 Rampant Growth
+1 Whipflare
+1 Cultivate
+1 Banefire
+1 Gaea's Blessing
+1 Farseek
+1 Caravan Vigil
+1 Grapeshot
+1 Dire-Strain Rampage
+1 Twinflame
+1 Faithless Looting
+1 Search for Tomorrow
+1 Omen of the Hunt
+1 Pyrohemia
+1 Aether Flash
+1 Burning Sands
+1 Invigorating Hot Spring
+1 Wild Growth
+1 Artist's Talent
+1 Invasion of Zendikar
+1 Bristling Backwoods
+1 Highland Forest
+1 Wooded Ridgeline
+1 Command Tower
+1 Game Trail
+1 Scavenger Grounds
+1 Mossfire Valley
+1 Karplusan Forest
+1 Slagwoods Bridge
+1 Cinder Glade
+11 Mountain
+11 Forest
+Sideboard
+1 Hansk, Slayer Zealot

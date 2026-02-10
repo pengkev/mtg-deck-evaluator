@@ -1,0 +1,91 @@
+1 Argothian Enchantress
+1 Collector Ouphe
+1 Ranger-Captain of Eos
+1 Alseid of Life's Bounty
+1 Dryad of the Ilysian Grove
+1 Drannith Magistrate
+1 Arbor Elf
+1 Herald of the Pantheon
+1 Avacyn's Pilgrim
+1 Grand Abolisher
+1 Destiny Spinner
+1 Eidolon of Blossoms
+1 Jukai Naturalist
+1 Archon of Sun's Grace
+1 Sanctum Weaver
+1 Setessan Champion
+1 Starfield Mystic
+1 Birds of Paradise
+1 Esper Sentinel
+1 Silence
+1 Angel's Grace
+1 Enlightened Tutor
+1 Worldly Tutor
+1 Crop Rotation
+1 Everybody Lives!
+1 Veil of Summer
+1 Open the Armory
+1 Replenish
+1 Kenrith's Transformation
+1 Gauntlets of Light
+1 Concordant Crossroads
+1 Whip Silk
+1 Cryptolith Rite
+1 Smothering Tithe
+1 Earthcraft
+1 Kismet
+1 Carpet of Flowers
+1 Wolfwillow Haven
+1 Burgeoning
+1 Aura of Silence
+1 Karmic Justice
+1 Aura Shards
+1 Seal of Primordium
+1 Monologue Tax
+1 Sterling Grove
+1 Hallowed Haunting
+1 Overgrowth
+1 Sylvan Library
+1 Exploration
+1 Wild Growth
+1 Planar Disruption
+1 Elven Chorus
+1 Lignify
+1 Land Tax
+1 Darksteel Mutation
+1 Song of the Dryads
+1 Enchantress's Presence
+1 Grasp of Fate
+1 Utopia Sprawl
+1 Blind Obedience
+1 Seal of Cleansing
+1 Fertile Ground
+1 Rest in Peace
+1 Flickering Ward
+1 Stony Silence
+1 Ancient Tomb
+1 Hall of Heliod's Generosity
+1 Savannah
+1 Mana Confluence
+1 Gaea's Cradle
+1 Serra's Sanctum
+1 Wooded Foothills
+1 Horizon Canopy
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 Temple Garden
+1 Windswept Heath
+1 Exotic Orchard
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Arid Mesa
+1 Command Tower
+5 Plains
+7 Forest
+Sideboard
+1 Sythis, Harvest's Hand

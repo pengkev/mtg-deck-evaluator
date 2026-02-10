@@ -1,0 +1,101 @@
+1 Narcomoeba
+1 Consecrated Sphinx
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Kinnan, Bonder Prodigy
+1 Endurance
+1 Devoted Druid
+1 Birds of Paradise
+1 Delighted Halfling
+1 Seedborn Muse
+1 Mockingbird
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Elvish Spirit Guide
+1 Fatestitcher
+1 Witherbloom Apprentice
+1 Bloom Tender
+1 Talion, the Kindly Lord
+1 Thrasios, Triton Hero
+1 Deathrite Shaman
+1 Volatile Stormdrake
+1 High Fae Trickster
+1 Mana Vault
+1 Mox Opal
+1 Chrome Mox
+1 Aetherflux Reservoir
+1 Mox Amber
+1 Machine God's Effigy
+1 Sol Ring
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Bolas's Citadel
+1 The One Ring
+1 Arcane Signet
+1 Pact of Negation
+1 Flusterstorm
+1 Force of Negation
+1 Autumn's Veil
+1 Demonic Consultation
+1 Force of Will
+1 Misdirection
+1 Retraction Helix
+1 Banishing Knack
+1 Tainted Pact
+1 Dark Ritual
+1 Worldly Tutor
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Mindbreak Trap
+1 Cabal Ritual
+1 Culling the Weak
+1 Gush
+1 Mental Misstep
+1 Fierce Guardianship
+1 Deadly Rollick
+1 An Offer You Can't Refuse
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Culling Ritual
+1 Chain of Smog
+1 Doomsday
+1 Finale of Devastation
+1 Windfall
+1 Dread Return
+1 Rhystic Study
+1 Mystic Remora
+1 Exploration
+1 Freed from the Real
+1 Jace, Wielder of Mysteries
+1 Breeding Pool
+1 Watery Grave
+1 Morphic Pool
+1 Overgrown Tomb
+1 Misty Rainforest
+1 City of Brass
+1 Mana Confluence
+1 Bayou
+1 Tropical Island
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Marsh Flats
+1 Undergrowth Stadium
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Ancient Tomb
+1 Cavern of Souls
+1 Polluted Delta
+1 Wooded Foothills
+1 Command Tower
+1 Lazotep Quarry
+1 Island
+1 Forest
+1 Swamp
+1 Mistrise Village
+1 Flooded Strand
+Sideboard
+1 Glarb, Calamity's Augur

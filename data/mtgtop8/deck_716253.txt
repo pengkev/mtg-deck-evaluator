@@ -1,0 +1,88 @@
+1 Zulaport Cutthroat
+1 Poison-Tip Archer
+1 Tendershoot Dryad
+1 Viscera Seer
+1 Toski, Bearer of Secrets
+1 Chatterfang, Squirrel General
+1 Academy Manufactor
+1 Tireless Provisioner
+1 Braids, Arisen Nightmare
+1 Mirkwood Bats
+1 Peregrin Took
+1 Gilded Goose
+1 Prosperous Innkeeper
+1 Nadier's Nightblade
+1 Trickster's Elk
+1 Warren Soultrader
+1 Marionette Apprentice
+1 Springheart Nantuko
+1 Scute Swarm
+1 Thornvault Forager
+1 Valley Rotcaller
+1 Hazel's Brewmaster
+1 Beledros Witherbloom
+1 Deep Forest Hermit
+1 Pitiless Plunderer
+1 Blood Artist
+1 Ophiomancer
+1 Woe Strider
+1 Skullclamp
+1 Lightning Greaves
+1 Sol Ring
+1 Arcane Signet
+1 Nuka-Cola Vending Machine
+1 Bootleggers' Stash
+1 Maskwood Nexus
+1 Bolas's Citadel
+1 Deadly Dispute
+1 Saw in Half
+1 Tear Asunder
+1 Arachnogenesis
+1 Heroic Intervention
+1 Revitalizing Repast
+1 Fell the Profane
+1 Withering Torment
+1 Second Harvest
+1 Lethal Scheme
+1 Putrefy
+1 Chord of Calling
+1 Assassin's Trophy
+1 Rampant Growth
+1 Shamanic Revelation
+1 Farseek
+1 Pest Infestation
+1 Bridgeworks Battle
+1 Rootcast Apprenticeship
+1 Swarmyard Massacre
+1 Decree of Pain
+1 Exsanguinate
+1 Dictate of Erebos
+1 Bloodchief Ascension
+1 Growing Rites of Itlimoc
+1 Black Market Connections
+1 Funeral Room/Awakening Hall
+1 Phyrexian Arena
+1 Doubling Season
+1 Bastion of Remembrance
+1 Bojuka Bog
+1 Reliquary Tower
+1 Swarmyard
+1 Llanowar Wastes
+1 War Room
+1 The Shire
+1 Command Tower
+1 Exotic Orchard
+1 Mudflat Village
+1 Fountainport
+1 Necroblossom Snarl
+1 Tainted Wood
+1 Viridescent Bog
+1 Wastewood Verge
+1 Path of Ancestry
+1 Temple of Malady
+1 Woodland Cemetery
+1 Twilight Mire
+8 Forest
+7 Swamp
+Sideboard
+1 Hazel of the Rootbloom

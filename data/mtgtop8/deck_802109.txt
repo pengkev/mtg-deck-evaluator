@@ -1,0 +1,96 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Electro, Assaulting Battery
+1 Firebending Student
+1 Gran-Gran
+1 Ragavan, Nimble Pilferer
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Stormshriek Feral
+1 Tavern Scoundrel
+1 Treasonous Ogre
+1 Vivi Ornitier
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Lotus Petal
+1 Monument to Endurance
+1 Mox Amber
+1 Mox Opal
+1 Ruby Medallion
+1 Sol Ring
+1 Springleaf Drum
+1 Abandon Attachments
+1 Accumulate Wisdom
+1 Big Score
+1 Brain Freeze
+1 Chain of Vapor
+1 Deflecting Swat
+1 Demand Answers
+1 Desperate Ritual
+1 Energybending
+1 Frantic Search
+1 Invoke Calamity
+1 Mindbreak Trap
+1 Opera Love Song
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Sazacap's Brew
+1 Seething Song
+1 Sink into Stupor
+1 Snap
+1 Spider-Sense
+1 Swan Song
+1 The Last Agni Kai
+1 Thrill of Possibility
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Aang's Journey
+1 Blasphemous Act
+1 Bonus Round
+1 Boomerang Basics
+1 Deep Analysis
+1 Echo of Eons
+1 Faithless Looting
+1 Glimpse the Impossible
+1 Grapeshot
+1 Iroh's Demonstration
+1 Jeska's Will
+1 Lock and Load
+1 Mind's Desire
+1 Past in Flames
+1 Price of Freedom
+1 Reckless Impulse
+1 Rite of Flame
+1 Rousing Refrain
+1 Seize the Spotlight
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Sundering Eruption
+1 Treasure Cruise
+1 Will of the Jeskai
+1 Windfall
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 Command Tower
+1 Cori Mountain Monastery
+1 Flooded Strand
+1 Gemstone Caverns
+2 Island
+5 Mountain
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+1 Tarnished Citadel
+1 Thundering Falls
+1 Wooded Foothills
+Sideboard
+1 Ral, Monsoon Mage

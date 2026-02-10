@@ -1,0 +1,101 @@
+1 Barkform Harvester
+1 Boonweaver Giant
+1 Dinosaur Egg
+1 Guardian Gladewalker
+1 Irregular Cohort
+1 Kozilek, Butcher of Truth
+1 Masked Vandal
+1 Mirror Entity
+1 Mysterious Egg
+1 Palani's Hatcher
+1 Protean Hulk
+1 Summoner's Egg
+1 Three Tree Mascot
+1 Universal Automaton
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blasting Station
+1 Chrome Mox
+1 Fellwar Stone
+1 Jeweled Amulet
+1 Jinxed Idol
+1 Jinxed Ring
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Phyrexian Altar
+1 Portable Hole
+1 Sol Ring
+1 Spawning Pit
+1 Talisman of Conviction
+1 Talisman of Impulse
+1 Talisman of Unity
+1 Vexing Bauble
+1 Abrade
+1 Crop Rotation
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fire Magic
+1 Heliod's Intervention
+1 Legolas's Quick Reflexes
+1 Lightning Bolt
+1 Natural State
+1 Nature's Claim
+1 Pyroblast
+1 Red Elemental Blast
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Gamble
+1 Nature's Lore
+1 Rite of Flame
+1 Three Visits
+1 Betrothed of Fire
+1 Blind Obedience
+1 Carpet of Flowers
+1 Charitable Levy
+1 Deafening Silence
+1 Fanatical Devotion
+1 Gift of Immortality
+1 Goblin Bombardment
+1 Martyr's Cause
+1 Pattern of Rebirth
+1 Smothering Tithe
+1 Smuggler's Share
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Utopia Sprawl
+1 Wild Growth
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Gemstone Caverns
+1 Lush Portico
+1 Mana Confluence
+1 Mutavault
+1 Plateau
+1 Sacred Foundry
+1 Savannah
+1 Starting Town
+1 Stomping Ground
+1 Sunbaked Canyon
+1 Taiga
+1 Talon Gates of Madara
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Atla Palani, Nest Tender

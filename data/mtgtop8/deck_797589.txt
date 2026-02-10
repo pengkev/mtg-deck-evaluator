@@ -1,0 +1,90 @@
+1 Ornithopter
+1 Universal Automaton
+1 Nashi, Moon Sage's Scion
+1 Faerie Seer
+1 Prosperous Thief
+1 Boggart Trawler
+1 Throat Slitter
+1 Thousand-Faced Shadow
+1 Wingcrafter
+1 Satoru, the Infiltrator
+1 Changeling Outcast
+1 Mothdust Changeling
+1 Memnite
+1 Tetsuko Umezawa, Fugitive
+1 Ingenious Prodigy
+1 Mist-Syndicate Naga
+1 Sakashima's Student
+1 Slither Blade
+1 Spectral Sailor
+1 Ninja of the Deep Hours
+1 Silent-Blade Oni
+1 Draco
+1 Mistblade Shinobi
+1 Timeline Culler
+1 Subtlety
+1 Roaming Throne
+1 Siren Stormtamer
+1 Gingerbrute
+1 Moon-Circuit Hacker
+1 Fallen Shinobi
+1 Baleful Strix
+1 Saprazzan Legate
+1 Shadow of Mortality
+1 Hydroelectric Specimen
+1 Phyrexian Walker
+1 Ingenious Infiltrator
+1 Skullsnatcher
+1 Silver-Fur Master
+1 Scroll Rack
+1 Lightning Greaves
+1 Arcane Signet
+1 Sol Ring
+1 Sensei's Divining Top
+1 Force of Despair
+1 Sink into Stupor
+1 Commandeer
+1 Waterlogged Teachings
+1 Consign/Oblivion
+1 Submerge
+1 Contagion
+1 Snuff Out
+1 Mystical Tutor
+1 Fell the Profane
+1 Flare of Malice
+1 Flare of Denial
+1 Misdirection
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Lim-Dul's Vault
+1 Dismember
+1 Temporal Mastery
+1 Ponder
+1 Temporal Trespass
+1 Scheming Symmetry
+1 Agadeem's Awakening
+1 Doomsday
+1 Nanogene Conversion
+1 Faerie Slumber Party
+1 Aqueous Form
+1 Smoke Shroud
+1 Cover of Darkness
+1 Rhystic Study
+1 Arcane Adaptation
+1 Leyline of Transformation
+1 Kaito, Bane of Nightmares
+1 Choked Estuary
+1 Reliquary Tower
+1 Halimar Depths
+9 Island
+1 Drowned Catacomb
+4 Swamp
+1 Creeping Tar Pit
+1 Sunken Hollow
+1 Command Tower
+1 Tainted Isle
+1 Darkwater Catacombs
+1 River of Tears
+1 Watery Grave
+Sideboard
+1 Yuriko, the Tiger's Shadow

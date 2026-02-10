@@ -1,0 +1,101 @@
+1 Animar, Soul of Elements
+1 Birds of Paradise
+1 Cavalier of Gales
+1 Esper Sentinel
+1 Grave Sifter
+1 Greenwarden of Murasa
+1 Hexing Squelcher
+1 High Fae Trickster
+1 Ignoble Hierarch
+1 Impulsivity
+1 Maelstrom Wanderer
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Risen Reef
+1 Shinestriker
+1 Simian Spirit Guide
+1 Solitude
+1 Temur Battlecrier
+1 Thassa's Oracle
+1 Twinflame Travelers
+1 Voice of Victory
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Urza's Incubator
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Burnt Offering
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Consultation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Redirect Lightning
+1 Sacrifice
+1 Silence
+1 Summoner's Pact
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Gamble
+1 Jeska's Will
+1 Deafening Silence
+1 Enduring Renewal
+1 Heartless Summoning
+1 Mana Echoes
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Exotic Orchard
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+1 Misty Rainforest
+1 Phyrexian Tower
+1 Plateau
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Taiga
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Ashling, the Limitless

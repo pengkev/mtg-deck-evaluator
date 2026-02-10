@@ -1,0 +1,101 @@
+1 Training Grounds
+1 Rhystic Study
+1 Underworld Breach
+1 Carpet of Flowers
+1 Smothering Tithe
+1 Mystic Remora
+1 Survival of the Fittest
+1 Eldritch Evolution
+1 Demonic Tutor
+1 Finale of Devastation
+1 Sevinne's Reclamation
+1 Imperial Seal
+1 Culling Ritual
+1 Chord of Calling
+1 Strix Serenade
+1 Flusterstorm
+1 Cyclonic Rift
+1 Mental Misstep
+1 Dark Ritual
+1 An Offer You Can't Refuse
+1 Entomb
+1 Force of Negation
+1 Veil of Summer
+1 Silence
+1 Vampiric Tutor
+1 Force of Will
+1 Intuition
+1 Mindbreak Trap
+1 Fierce Guardianship
+1 Brain Freeze
+1 Enlightened Tutor
+1 Worldly Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Deflecting Swat
+1 Eladamri's Call
+1 Swan Song
+1 Swords to Plowshares
+1 Lotus Petal
+1 Agatha's Soul Cauldron
+1 Fellwar Stone
+1 Mana Vault
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 The One Ring
+1 Sol Ring
+1 Ranger-Captain of Eos
+1 Chatterfang, Squirrel General
+1 Warren Soultrader
+1 Esper Sentinel
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Grand Abolisher
+1 Deathrite Shaman
+1 Opposition Agent
+1 Drannith Magistrate
+1 Auriok Salvagers
+1 Rev, Tithe Extractor
+1 Giver of Runes
+1 Valley Floodcaller
+1 Mockingbird
+1 Agatha of the Vile Cauldron
+1 Selvala, Heart of the Wilds
+1 Faerie Mastermind
+1 Endurance
+1 Archivist of Oghma
+1 Phyrexian Metamorph
+1 Noble Hierarch
+1 Birds of Paradise
+1 Phantasmal Image
+1 Mana Confluence
+1 Shifting Woodland
+1 Polluted Delta
+1 Exotic Orchard
+1 Command Tower
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Marsh Flats
+1 Wooded Foothills
+1 Flooded Strand
+1 Bloodstained Mire
+1 Gemstone Caverns
+1 Volcanic Island
+1 Taiga
+1 Tropical Island
+1 Savannah
+1 Plateau
+1 Bayou
+1 Gaea's Cradle
+1 Underground Sea
+1 Tundra
+1 Scrubland
+1 Badlands
+1 Ancient Tomb
+1 Misty Rainforest
+1 City of Brass
+Sideboard
+1 Kenrith, the Returned King

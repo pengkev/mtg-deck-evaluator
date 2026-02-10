@@ -1,0 +1,96 @@
+1 Arboreal Grazer
+1 Azusa, Lost but Seeking
+1 Blossom Dryad
+1 Courser of Kruphix
+1 Dryad of the Ilysian Grove
+1 Kiora's Follower
+1 Nine-Fingers Keene
+1 Omo, Queen of Vesuva
+1 Ramunap Excavator
+1 Spore Frog
+1 Tatyova, Benthic Druid
+1 Timeless Witness
+1 Uro, Titan of Nature's Wrath
+1 Arcane Signet
+1 Darksteel Ingot
+1 Expedition Map
+1 Fellwar Stone
+1 Navigation Orb
+1 Nevinyrral's Disk
+1 Sol Ring
+1 Traveler's Amulet
+1 Corrupted Conviction
+1 Crop Rotation
+1 Deadly Dispute
+1 Eureka Moment
+1 Frantic Search
+1 Growth Spiral
+1 Inkshield
+1 Joint Exploration
+1 Moment's Peace
+1 Nasty End
+1 Path to Exile
+1 Reckoner's Bargain
+1 Village Rites
+1 Blasphemous Act
+1 Blasphemous Edict
+1 Broken Bond
+1 Damn
+1 Damnation
+1 Escape to the Wilds
+1 Explore
+1 Explore the Underdark
+1 Farewell
+1 Farseek
+1 Gates Ablaze
+1 Harmonize
+1 Hour of Promise
+1 Open the Gates
+1 Perennation
+1 Pillage the Bog
+1 Planar Cleansing
+1 Read the Bones
+1 Recollect
+1 Regrowth
+1 Spectacular Pileup
+1 Sylvan Scrying
+1 Terminus
+1 Urban Evolution
+1 Worldsoul's Rage
+1 Authority of the Consuls
+1 Rhystic Study
+1 Rites of Flourishing
+1 Spelunking
+1 Azorius Guildgate
+1 Baldur's Gate
+1 Basilisk Gate
+1 Black Dragon Gate
+1 Boros Guildgate
+1 Cascading Cataracts
+1 Command Tower
+1 Deserted Temple
+1 Dimir Guildgate
+3 Forest
+1 Gateway Plaza
+1 Golgari Guildgate
+1 Gond Gate
+1 Gruul Guildgate
+1 Heap Gate
+3 Island
+1 Izzet Guildgate
+1 Lazotep Quarry
+1 Maze's End
+1 Mountain
+1 Orzhov Guildgate
+1 Plains
+1 Planar Nexus
+1 Rakdos Guildgate
+1 Sea Gate
+1 Selesnya Guildgate
+1 Simic Guildgate
+2 Swamp
+1 Talon Gates of Madara
+1 Thespian's Stage
+1 Vesuva
+Sideboard
+1 Child of Alara

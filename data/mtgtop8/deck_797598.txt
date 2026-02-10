@@ -1,0 +1,66 @@
+1 Necrotic Ooze
+1 Skirge Familiar
+1 Asmodeus the Archfiend
+1 Wishclaw Talisman
+1 Talisman of Resilience
+1 Mind Stone
+1 Sol Ring
+1 Everflowing Chalice
+1 Arcane Signet
+1 Fellwar Stone
+1 Golgari Signet
+1 Thought Vessel
+1 Return to Nature
+1 Poison the Cup
+1 Naturalize
+1 Vendetta
+1 Power Word Kill
+1 Autumn's Veil
+1 Tyvar's Stand
+1 Ranger's Guile
+1 Nature's Claim
+1 Snakeskin Veil
+1 Dark Ritual
+1 Long Goodbye
+1 Reclaim
+1 Doom Blade
+1 Bitter Triumph
+1 Diabolic Edict
+1 Sheoldred's Edict
+1 Go for the Throat
+1 Vines of Vastwood
+1 Veil of Summer
+1 Consume the Meek
+1 Back to Nature
+1 Beast Within
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Culling Ritual
+1 Consume Spirit
+1 Buried Alive
+1 Pick Your Poison
+1 Reanimate
+1 Languish
+1 Life/Death
+1 Regrowth
+1 Feed the Swarm
+1 Yahenni's Expertise
+1 Persist
+1 Victimize
+1 Exhume
+1 Chain of Smog
+1 Exsanguinate
+1 Animate Dead
+1 Exquisite Blood
+1 Sanguine Bond
+1 Phyrexian Reclamation
+1 Dance of the Dead
+1 Professor Onyx
+1 Liliana, Death's Majesty
+14 Forest
+1 Tainted Wood
+1 Command Tower
+23 Swamp
+1 Reliquary Tower
+Sideboard
+1 Old Stickfingers

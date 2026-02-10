@@ -1,0 +1,84 @@
+1 Simian Spirit Guide
+1 Spark Mage
+1 Three Tree Mascot
+1 Axgard Cavalry
+1 Bloodfire Dwarf
+1 Professional Face-Breaker
+1 Dwarven Bloodboiler
+1 Dwarven Forge-Chanter
+1 Stridehangar Automaton
+1 Goblin Engineer
+1 Reckless Fireweaver
+1 Battered Golem
+1 Dwarven Miner
+1 Storm-Kiln Artist
+1 Metallic Mimic
+1 Liberated Dwarf
+1 Roaming Throne
+1 Enslaved Dwarf
+1 Magda, the Hoardmaster
+1 Universal Automaton
+1 Barkform Harvester
+1 Dwarven Trader
+1 Plundering Barbarian
+1 Dwarven Blastminer
+1 Dwarven Grunt
+1 Adaptive Automaton
+1 Dwarven Scorcher
+1 Unlicensed Hearse
+1 Relic of Legends
+1 Vexing Bauble
+1 Springleaf Drum
+1 Grafdigger's Cage
+1 Disruptor Flute
+1 Spine of Ish Sah
+1 Mox Opal
+1 Chrome Mox
+1 Mirror of the Forebears
+1 Liquimetal Torque
+1 Paradise Mantle
+1 Clown Car
+1 Lotus Petal
+1 Sol Ring
+1 God-Pharaoh's Statue
+1 Mana Vault
+1 Dermotaxi
+1 Cursed Mirror
+1 Clock of Omens
+1 The One Ring
+1 Flywheel Racer
+1 Portal to Phyrexia
+1 Smuggler's Copter
+1 Lifecraft Engine
+1 Torpor Orb
+1 Mox Amber
+1 Sculpting Steel
+1 Mox Diamond
+1 Maskwood Nexus
+1 Sudden Shock
+1 Zoyowa's Justice
+1 Return the Favor
+1 Flare of Duplication
+1 Abrade
+1 Lightning Bolt
+1 Untimely Malfunction
+1 Tibalt's Trickery
+1 Bottle-Cap Blast
+1 Deflecting Swat
+1 Chaos Warp
+1 Red Elemental Blast
+1 Blasphemous Act
+1 Suplex
+1 Sundering Eruption
+1 Gemstone Caverns
+1 Survivors' Encampment
+1 Holdout Settlement
+1 Dwarven Mine
+18 Mountain
+1 Cavern of Souls
+1 Command Beacon
+1 Kavaron, Memorial World
+1 Volatile Fault
+1 Ancient Tomb
+Sideboard
+1 Magda, Brazen Outlaw

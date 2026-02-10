@@ -1,0 +1,85 @@
+1 Plaza of Heroes
+1 Twilight Mire
+1 Mishra's Factory
+1 Viridescent Bog
+1 Necroblossom Snarl
+1 Great Arashin City
+1 Woodland Cemetery
+1 Llanowar Wastes
+1 Spymaster's Vault
+1 Command Tower
+1 Blinkmoth Nexus
+1 Bojuka Bog
+1 Ash Barrens
+10 Forest
+8 Swamp
+1 Fatal Push
+1 Giant Growth
+1 Blood Artist
+1 Supernatural Stamina
+1 Tamiyo's Safekeeping
+1 Zulaport Cutthroat
+1 Fake Your Own Death
+1 Reassembling Skeleton
+1 Bloodghast
+1 Swiftfoot Boots
+1 Awakening Zone
+1 Accursed Marauder
+1 Grist, the Hunger Tide
+1 Rancor
+1 Jadar, Ghoulcaller of Nephalia
+1 Revitalizing Repast
+1 Unearth
+1 Fireshrieker
+1 Wild Growth
+1 Bastion of Remembrance
+1 Cult Conscript
+1 Not Dead After All
+1 Greedy Freebooter
+1 Winter Orb
+1 Rubblebelt Maverick
+1 Feign Death
+1 Flare of Malice
+1 Arcane Signet
+1 Grist, Voracious Larva
+1 Nezumi Informant
+1 Arbor Elf
+1 Raised by Giants
+1 Season of Growth
+1 Llanowar Elves
+1 Plaguecrafter
+1 Burglar Rat
+1 Midnight Reaper
+1 Royal Treatment
+1 Elvish Mystic
+1 Fungal Fortitude
+1 Assassin's Trophy
+1 Tragic Slip
+1 Vines of Vastwood
+1 Sol Ring
+1 Forsaken Miner
+1 Summon: Fenrir
+1 Grim Haruspex
+1 Morbid Opportunist
+1 Presumed Dead
+1 Sedgemoor Witch
+1 Village Rites
+1 Boggart Trawler
+1 Bloodsoaked Champion
+1 Eviscerator's Insight
+1 Cultivate
+1 Return to Nature
+1 Titanic Growth
+1 Solemn Simulacrum
+1 Farseek
+1 Snakeskin Veil
+1 Rampant Growth
+1 Dreadhorde Invasion
+1 Dark Confidant
+1 Warren Soultrader
+1 Pitiless Plunderer
+1 Marionette Apprentice
+1 Victimize
+Sideboard
+1 Wilson, Refined Grizzly
+1 Cultist of the Absolute

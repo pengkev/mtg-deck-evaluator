@@ -1,0 +1,93 @@
+6 Swamp
+1 Sulfurous Springs
+1 Smoldering Marsh
+1 Phyrexian Tower
+4 Mountain
+1 Gemstone Caverns
+1 Foreboding Ruins
+1 Command Tower
+1 Buried Ruin
+1 Bloodstained Mire
+1 Blood Crypt
+1 Blackcleave Cliffs
+1 Barbarian Ring
+1 Badlands
+1 Ancient Tomb
+1 Carnival of Souls
+1 Reanimate
+1 Infernal Plunge
+1 Feed the Swarm
+1 Doomsday
+1 Vampiric Tutor
+1 Tibalt's Trickery
+1 Snuff Out
+1 Lightning Bolt
+1 Lethal Scheme
+1 Flare of Duplication
+1 Fire Prophecy
+1 Fell the Profane
+1 Dismember
+1 Dark Ritual
+1 Battle Hymn
+1 Sol Ring
+1 Mana Vault
+1 Lotus Petal
+1 Heartstone
+1 Chrome Mox
+1 Ashnod's Altar
+1 Arcane Signet
+1 Zulaport Cutthroat
+1 Young Necromancer
+1 Workhorse
+1 Viscera Seer
+1 Treasonous Ogre
+1 Tomb Trawler
+1 Soulbright Flamekin
+1 Sling-Gang Lieutenant
+1 Skirk Prospector
+1 Simian Spirit Guide
+1 Siege-Gang Commander
+1 Reckless Barbarian
+1 Razorkin Needlehead
+1 Ravenous Chupacabra
+1 Putrid Goblin
+1 Professional Face-Breaker
+1 Priest of Urabrask
+1 Priest of Gix
+1 Plague Myr
+1 Pitiless Plunderer
+1 Pit Automaton
+1 Pinnacle Monk
+1 Phyrexian Revoker
+1 Palladium Myr
+1 Overeager Apprentice
+1 Ornithopter of Paradise
+1 Orcish Bowmasters
+1 Murderous Rider
+1 Murderous Redcap
+1 Munitions Expert
+1 Mogg War Marshal
+1 Metallic Mimic
+1 Marvin, Murderous Mimic
+1 Marionette Apprentice
+1 Magus of the Moon
+1 Kederekt Parasite
+1 Judith, the Scourge Diva
+1 Jaxis, the Troublemaker
+1 Impulsive Pilferer
+1 Imperial Recruiter
+1 Hoverstone Pilgrim
+1 Goblin Matron
+1 Dire Fleet Daredevil
+1 Carrion Feeder
+1 Captain Lannery Storm
+1 Broadside Bombardiers
+1 Braids, Cabal Minion
+1 Boggart Trawler
+1 Boggart Harbinger
+1 Body Snatcher
+1 Blood Pet
+1 Blood Artist
+1 Barkform Harvester
+Sideboard
+1 Grenzo, Dungeon Warden

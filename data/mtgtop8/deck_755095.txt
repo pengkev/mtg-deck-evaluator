@@ -1,0 +1,98 @@
+1 Archdruid's Charm
+1 Argothian Enchantress
+1 Arid Mesa
+1 Aura of Silence
+1 Blind Obedience
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Buried in the Garden
+1 Candelabra of Tawnos
+1 Carpet of Flowers
+1 Chrome Mox
+1 City of Brass
+1 Clarion Conqueror
+1 Cloudstone Curio
+1 Collector Ouphe
+1 Command Tower
+1 Crop Rotation
+1 Cursed Totem
+1 Darksteel Mutation
+1 Deserted Temple
+1 Destiny Spinner
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Dryad of the Ilysian Grove
+1 Earthcraft
+1 Eiganjo, Seat of the Empire
+1 Elvish Spirit Guide
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Everybody Lives!
+1 Exploration
+1 Fertile Ground
+1 Flare of Fortitude
+1 Flickering Ward
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Grafdigger's Cage
+1 Grand Abolisher
+1 Greater Auramancy
+1 Heliod, Sun-Crowned
+1 Horizon Canopy
+1 Hushbringer
+1 Kenrith's Transformation
+1 Light-Paws, Emperor's Voice
+1 Linvala, Keeper of Silence
+1 Lotus Petal
+1 Mana Confluence
+1 Marsh Flats
+1 Mesa Enchantress
+1 Meticulous Excavation
+1 Misty Rainforest
+1 Mox Diamond
+1 Nature's Chosen
+1 Noxious Revival
+1 Null Rod
+1 Nykthos, Shrine to Nyx
+1 Open the Armory
+1 Overgrowth
+1 Path to Exile
+3 Plains
+1 Prismatic Vista
+1 Ranger-Captain of Eos
+1 Rest in Peace
+1 Revelation
+1 Root Maze
+1 Sanctum Weaver
+1 Savannah
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Serra's Sanctum
+1 Setessan Champion
+1 Sheltered by Ghosts
+1 Silence
+1 Static Prison
+1 Sterling Grove
+1 Stony Silence
+1 Survival of the Fittest
+1 Swords to Plowshares
+1 Sylvan Library
+1 Temple Garden
+1 Torpor Orb
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Verduran Enchantress
+1 Voice of Victory
+1 Walking Ballista
+1 Whip Silk
+1 Wild Growth
+1 Windswept Heath
+1 Wolfwillow Haven
+1 Wooded Foothills
+1 Worldly Tutor
+Sideboard
+1 Sythis, Harvest's Hand

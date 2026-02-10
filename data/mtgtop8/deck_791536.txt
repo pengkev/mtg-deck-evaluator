@@ -1,0 +1,72 @@
+1 Clever Impersonator
+1 Colossal Skyturtle
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Enduring Vitality
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Gyre Engineer
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Ilysian Caryatid
+1 Laboratory Maniac
+1 Llanowar Elves
+1 Maraleaf Pixie
+1 Ornithopter of Paradise
+1 Paradise Druid
+1 Phantasmal Image
+1 Prismite
+1 Prophet of Distortion
+1 Seedborn Muse
+1 Stonework Packbeast
+1 Sylvan Caryatid
+1 Terastodon
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Volatile Stormdrake
+1 Arcane Signet
+1 Basalt Monolith
+1 Energy Refractor
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Mind Stone
+1 Mirage Mirror
+1 Moonsilver Key
+1 Relic of Legends
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 An Offer You Can't Refuse
+1 Autumn's Veil
+1 Brainstorm
+1 Change the Equation
+1 Commandeer
+1 Dispel
+1 Ertai's Scorn
+1 Mana Leak
+1 Muddle the Mixture
+1 Pongify
+1 Pull from Tomorrow
+1 Resculpt
+1 Suspend
+1 You Find the Villains' Lair
+1 Eldritch Evolution
+1 Fabricate
+1 Farseek
+1 Nature's Rhythm
+1 Neoform
+1 Reshape
+1 Kenrith's Transformation
+1 Mystic Remora
+1 Verity Circle
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Cephalid Coliseum
+1 Command Tower
+15 Forest
+16 Island
+1 Treasure Vault
+1 Waterlogged Grove
+Sideboard
+1 Kinnan, Bonder Prodigy

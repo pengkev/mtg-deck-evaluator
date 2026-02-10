@@ -1,0 +1,69 @@
+1 Enslaved Horror
+1 Scandalmonger
+1 Maddening Imp
+1 Changeling Outcast
+1 Master of the Feast
+1 Nettling Imp
+1 Walking Desecration
+1 Howling Golem
+1 Varragoth, Bloodsky Sire
+1 Elder Brain
+1 Custodi Lich
+1 Seizan, Perverter of Truth
+1 Zenith Chronicler
+1 Thorn of the Black Rose
+1 Gingerbrute
+1 Vashta Nerada
+1 Bringer of the Last Gift
+1 Doomsday Excruciator
+1 Fate Unraveler
+1 Solemn Simulacrum
+1 Bloodgift Demon
+1 Gix, Yawgmoth Praetor
+1 Scrawling Crawler
+1 Coveted Jewel
+1 Sol Ring
+1 Pendant of Prosperity
+1 Genesis Chamber
+1 Angel's Trumpet
+1 Wishclaw Talisman
+1 Howling Mine
+1 Thought Vessel
+1 Gate to the Aether
+1 Tempting Contract
+1 Bucknard's Everfull Purse
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Helm of Awakening
+1 Crawlspace
+1 Arcane Signet
+1 Stunning Reversal
+1 Go for the Throat
+1 Dark Ritual
+1 Infernal Grasp
+1 Not Dead After All
+1 Consumed by Greed
+1 Scheming Symmetry
+1 Repay in Kind
+1 Tempt with Immortality
+1 Virtus's Maneuver
+1 Sign in Blood
+1 Twilight's Call
+1 Choice of Damnations
+1 Exhume
+1 Infernal Offering
+1 Feed the Swarm
+1 Cruelclaw's Heist
+1 Endless Whispers
+1 Infernal Genesis
+1 Underworld Dreams
+1 Marchesa's Decree
+1 Court of Locthwain
+1 Cunning Rhetoric
+1 Quest for the Necropolis
+1 Field of Ruin
+1 Forbidden Orchard
+1 Mikokoro, Center of the Sea
+33 Swamp
+Sideboard
+1 Gonti, Night Minister

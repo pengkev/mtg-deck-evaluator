@@ -1,0 +1,90 @@
+1 Arena Rector
+1 Deepglow Skate
+1 Djeru, With Eyes Open
+1 Flux Channeler
+1 Grateful Apparition
+1 Jaya's Phoenix
+1 Lae'zel, Vlaakith's Champion
+1 Leori, Sparktouched Hunter
+1 Mila, Crafty Companion
+1 Onakke Oathkeeper
+1 Silent Arbiter
+1 Spark Double
+1 The Peregrine Dynamo
+1 Thrummingbird
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Contagion Engine
+1 Fellwar Stone
+1 Izzet Signet
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The Chain Veil
+1 An Offer You Can't Refuse
+1 Dovin's Veto
+1 Experimental Augury
+1 Fierce Guardianship
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Blasphemous Act
+1 Farewell
+1 Sunfall
+1 Supreme Verdict
+1 Tezzeret's Gambit
+1 All Will Be One
+1 Darksteel Mutation
+1 Deification
+1 Inexorable Tide
+1 Oath of Gideon
+1 Oath of Teferi
+1 Rowan's Talent
+1 Ajani Steadfast
+1 Archangel Elspeth
+1 Chandra, Awakened Inferno
+1 Chandra, Legacy of Fire
+1 Chandra, Torch of Defiance
+1 Elspeth, Sun's Champion
+1 Jace, the Mind Sculptor
+1 Narset of the Ancient Way
+1 Narset, Parter of Veils
+1 Saheeli, Sublime Artificer
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Temporal Archmage
+1 Teferi, Temporal Pilgrim
+1 Teferi, Time Raveler
+1 The Eternal Wanderer
+1 Ugin, the Spirit Dragon
+1 Vronos, Masked Inquisitor
+1 Cascade Bluffs
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Exotic Orchard
+1 Flooded Strand
+1 Hallowed Fountain
+1 Inspiring Vantage
+1 Interplanar Beacon
+6 Island
+1 Karn's Bastion
+1 Mistrise Village
+1 Mobilized District
+3 Mountain
+1 Mystic Gate
+1 Mystic Monastery
+5 Plains
+1 Reliquary Tower
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sea of Clouds
+1 Seachrome Coast
+1 Spectator Seating
+1 Spirebluff Canal
+1 Sulfur Falls
+1 Training Center
+1 Untaidake, the Cloud Keeper
+Sideboard
+1 Commodore Guff

@@ -1,0 +1,87 @@
+1 Eternal Witness
+1 Jace's Archivist
+1 Whirlpool Warrior
+1 Dualcaster Mage
+1 Nimble Obstructionist
+1 Simian Spirit Guide
+1 Naru Meha, Master Wizard
+1 Witty Roastmaster
+1 Magus of the Wheel
+1 Elvish Spirit Guide
+1 Molten Gatekeeper
+1 Scrawling Crawler
+1 Transit Mage
+1 Arcane Signet
+1 Gruul Signet
+1 Sol Ring
+1 Thought Vessel
+1 Fellwar Stone
+1 Simic Signet
+1 Chromatic Lantern
+1 Izzet Signet
+1 Teferi's Puzzle Box
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Soul-Guide Lantern
+1 Swiftfoot Boots
+1 Skullclamp
+1 Talisman of Impulse
+1 Mystical Dispute
+1 Counterspell
+1 Mana Leak
+1 Vapor Snag
+1 Lofty Denial
+1 Unsubstantiate
+1 Krosan Grip
+1 Abrade
+1 Autumn's Veil
+1 Miscalculation
+1 Lazotep Plating
+1 Dream Fracture
+1 Wipe Away
+1 Arcane Denial
+1 Reality Shift
+1 Wash Away
+1 Spell Pierce
+1 An Offer You Can't Refuse
+1 Shore Up
+1 Defabricate
+1 Muddle the Mixture
+1 Peerless Recycling
+1 Essence Flux
+1 Windfall
+1 Twinflame
+1 Molten Psyche
+1 Winds of Change
+1 Electroduplicate
+1 Reforge the Soul
+1 Goblin Bombardment
+1 Wild Growth
+1 Mystic Remora
+1 Elven Chorus
+1 Impact Tremors
+1 Forced Fruition
+1 Cryptolith Rite
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+9 Island
+4 Mountain
+4 Forest
+1 Command Tower
+1 Reliquary Tower
+1 Temple of Mystery
+1 Evolving Wilds
+1 Exotic Orchard
+1 Terramorphic Expanse
+1 Cinder Glade
+1 Geier Reach Sanitarium
+1 Yavimaya Coast
+1 Shivan Reef
+1 Mikokoro, Center of the Sea
+1 Flooded Grove
+1 Hinterland Harbor
+1 Sulfur Falls
+1 Bountiful Landscape
+1 Frontier Bivouac
+Sideboard
+1 Xyris, the Writhing Storm

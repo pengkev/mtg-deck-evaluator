@@ -1,0 +1,101 @@
+1 Will of the Mardu
+1 Veil of Summer
+1 Swords to Plowshares
+1 Surge of Salvation
+1 Sol Ring
+1 Restoration Magic
+1 Silence
+1 Path to Exile
+1 Nature's Rhythm
+1 Lotus Petal
+1 Legolas's Quick Reflexes
+1 Invasion of Ikoria
+1 High Noon
+1 Finale of Devastation
+1 Eladamri's Call
+1 Deafening Silence
+1 Dawn's Truce
+1 Damping Sphere
+1 Chord of Calling
+1 Carpet of Flowers
+1 Voice of Victory
+1 Vincent, Vengeful Atoner
+1 Toski, Bearer of Secrets
+1 Tifa, Martial Artist
+1 The Jolly Balloon Man
+1 Tannuk, Steadfast Second
+1 Simian Spirit Guide
+1 Sigarda, Font of Blessings
+1 Shalai, Voice of Plenty
+1 Serra Ascendant
+1 Scurry of Squirrels
+1 Sanctum Prelate
+1 Samut, Vizier of Naktamun
+1 Ranger-Captain of Eos
+1 Phyrexian Censor
+1 Ouroboroid
+1 Ohran Frostfang
+1 Ocelot Pride
+1 Mother of Runes
+1 Llanowar Elves
+1 Linvala, Keeper of Silence
+1 Lightning, Army of One
+1 Kutzil, Malamet Exemplar
+1 Giver of Runes
+1 Fyndhorn Elves
+1 Frenzied Baloth
+1 Faeburrow Elder
+1 Esper Sentinel
+1 Enduring Vitality
+1 Endurance
+1 Elvish Mystic
+1 Ellivere of the Wild Court
+1 Drannith Magistrate
+1 Torens, Fist of the Angels
+1 Doorkeeper Thrull
+1 Delighted Halfling
+1 Collector Ouphe
+1 Clarion Conqueror
+1 Champion of Lambholt
+1 Bloom Tender
+1 Birds of Paradise
+1 Winota, Joiner of Forces
+1 Aven Mindcensor
+1 Avacyn's Pilgrim
+1 Archon of Emeria
+1 Archivist of Oghma
+1 Silk, Web Weaver
+1 Ajani, Nacatl Pariah
+1 Ainok Strike Leader
+1 Adeline, Resplendent Cathar
+1 Wooded Foothills
+1 Windswept Heath
+1 Verdant Catacombs
+1 Temple Garden
+1 Taiga
+1 Stomping Ground
+1 Spire Garden
+1 Spectator Seating
+1 Scalding Tarn
+1 Savannah
+1 Sacred Foundry
+1 Plateau
+1 Plains
+1 Misty Rainforest
+1 Marsh Flats
+1 Horizon Canopy
+1 Gemstone Caverns
+1 Gaea's Cradle
+1 Forest
+1 Flooded Strand
+1 Exotic Orchard
+1 Command Tower
+1 City of Brass
+1 Cavern of Souls
+1 Brushland
+1 Bountiful Promenade
+1 Boseiju, Who Endures
+1 Bloodstained Mire
+1 Arid Mesa
+Sideboard
+1 Jetmir, Nexus of Revels

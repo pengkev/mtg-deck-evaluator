@@ -1,0 +1,91 @@
+1 Elegy Acolyte
+1 Rev, Tithe Extractor
+1 Aerial Extortionist
+1 Shadowmage Infiltrator
+1 Ghostly Pilferer
+1 Tymna the Weaver
+1 Raffine, Scheming Seer
+1 Codsworth, Handy Helper
+1 Malcolm, Keen-Eyed Navigator
+1 Cephalid Facetaker
+1 Grim Hireling
+1 Looter il-Kor
+1 Malcolm, Alluring Scoundrel
+1 Azure Beastbinder
+1 Silent Hallcreeper
+1 Fallen Shinobi
+1 Kamiz, Obscura Oculus
+1 Grazilaxx, Illithid Scholar
+1 Gold-Forged Thopteryx
+1 Enduring Curiosity
+1 Gix, Yawgmoth Praetor
+1 Grima, Saruman's Footman
+1 Shoreline Looter
+1 Hammer of Nazahn
+1 Brotherhood Regalia
+1 Dimir Signet
+1 Arcane Signet
+1 Empyrial Plate
+1 Talisman of Dominance
+1 Winged Boots
+1 Swiftfoot Boots
+1 Mask of the Schemer
+1 Sword of the Animist
+1 Assassin Gauntlet
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Inquisitor's Flail
+1 The Key to the Vault
+1 Excalibur, Sword of Eden
+1 Prying Blade
+1 Hand of Vecna
+1 Mask of Memory
+1 Sol Ring
+1 Mask of Riddles
+1 Fellwar Stone
+1 Thought Vessel
+1 Blackblade Reforged
+1 Goldvein Pick
+1 Despark
+1 Swords to Plowshares
+1 Cyclonic Rift
+1 Void Rend
+1 Path to Exile
+1 Flawless Maneuver
+1 Pongify
+1 Anguished Unmaking
+1 Dovin's Veto
+1 Toxic Deluge
+1 Writ of Return
+1 Empyrial Armor
+1 Duelist's Heritage
+1 Reconnaissance Mission
+1 Smothering Tithe
+1 Underground River
+1 Adarkar Wastes
+1 Darkwater Catacombs
+1 Sunken Hollow
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Fabled Passage
+1 Arcane Sanctum
+1 Skycloud Expanse
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Isolated Chapel
+1 Floodfarm Verge
+1 Drowned Catacomb
+1 Caves of Koilos
+1 Deserted Beach
+1 Prairie Stream
+1 Path of Ancestry
+3 Plains
+1 Fetid Heath
+1 Shattered Sanctum
+1 Command Tower
+3 Swamp
+1 Reliquary Tower
+1 Nimbus Maze
+7 Island
+Sideboard
+1 Jin Sakai, Ghost of Tsushima

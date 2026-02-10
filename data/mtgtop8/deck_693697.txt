@@ -1,0 +1,101 @@
+1 Carrion Feeder
+1 Putrid Goblin
+1 Heliod, Sun-Crowned
+1 Drannith Magistrate
+1 Blood Artist
+1 Opposition Agent
+1 Esper Sentinel
+1 Sheoldred, the Apocalypse
+1 Reassembling Skeleton
+1 Gravecrawler
+1 Orcish Bowmasters
+1 Ranger-Captain of Eos
+1 Walking Ballista
+1 Warren Soultrader
+1 Obstinate Gargoyle
+1 Spirit of the Labyrinth
+1 Popular Egotist
+1 Bloodthirsty Conqueror
+1 Marauding Blight-Priest
+1 Vito, Thorn of the Dusk Rose
+1 Pitiless Plunderer
+1 Aven Interrupter
+1 Forsaken Miner
+1 Grand Abolisher
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Talisman of Hierarchy
+1 Chrome Mox
+1 Altar of Dementia
+1 Mox Amber
+1 The One Ring
+1 Arcane Signet
+1 Torpor Orb
+1 Lightning Greaves
+1 Sol Ring
+1 Fellwar Stone
+1 Wishclaw Talisman
+1 Phyrexian Altar
+1 Vexing Bauble
+1 Cabal Ritual
+1 Entomb
+1 Deadly Rollick
+1 Ad Nauseam
+1 Vampiric Tutor
+1 Silence
+1 Mana Tithe
+1 Dark Ritual
+1 Disenchant
+1 Snuff Out
+1 Path to Exile
+1 Flare of Malice
+1 Swords to Plowshares
+1 Ephemerate
+1 Angel's Grace
+1 Withering Torment
+1 Demonic Tutor
+1 Unearth
+1 Praetor's Grasp
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Reanimate
+1 Toxic Deluge
+1 Buried Alive
+1 Sevinne's Reclamation
+1 Thran Vigil
+1 Urza's Saga
+1 Necropotence
+1 Exquisite Blood
+1 Animate Dead
+1 Deafening Silence
+1 Blind Obedience
+1 Urborg, Tomb of Yawgmoth
+1 Peat Bog
+1 Scrubland
+1 Gemstone Caverns
+1 Marsh Flats
+1 Shattered Sanctum
+1 Swamp
+1 Ancient Tomb
+1 Vault of Champions
+1 Cavern of Souls
+1 Shadowy Backstreet
+1 Bloodstained Mire
+1 Forlorn Flats
+1 Fetid Heath
+1 Command Tower
+1 Caves of Koilos
+1 Exotic Orchard
+1 Tainted Field
+1 Bleachbone Verge
+1 Mana Confluence
+1 Brightclimb Pathway
+1 Plains
+1 Scoured Barrens
+1 Godless Shrine
+1 Isolated Chapel
+1 Polluted Delta
+1 Phyrexian Tower
+Sideboard
+1 Carmen, Cruel Skymarcher

@@ -1,0 +1,89 @@
+1 Lindblum, Industrial Regency
+1 Abrade
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Annul
+1 Arcane Denial
+1 Arcane Signet
+1 Balmor, Battlemage Captain
+1 Baral, Chief of Compliance
+1 Baron, Airship Kingdom
+1 Basilisk Collar
+1 Blazing Shoal
+1 Boltwave
+1 Chaos Warp
+1 Clout of the Dominus
+1 Command Tower
+1 Curiosity
+1 Dispel
+1 Electro, Assaulting Battery
+1 Essence Capture
+1 Evolving Wilds
+1 Expressive Iteration
+1 Fireball
+1 Frantic Search
+1 Frostboil Snarl
+1 Halimar Depths
+1 Harmonic Prodigy
+1 Hibernation
+1 Cyclonic Rift
+8 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Lose Focus
+1 Magic Damper
+1 Mana Geyser
+1 Marvin, Murderous Mimic
+1 Mindcrank
+1 Mishra's Bauble
+6 Mountain
+1 Myriad Landscape
+1 Mystical Tutor
+1 Nibelheim Aflame
+1 Ophidian Eye
+1 Opt
+1 Ponder
+1 Preordain
+1 Price of Progress
+1 Propaganda
+1 Quicksilver Elemental
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rhystic Study
+1 Riverpyre Verge
+1 Savor the Moment
+1 Shivan Reef
+1 Sigil of Sleep
+1 Simian Spirit Guide
+1 Smelt
+1 Snap
+1 Sol Ring
+1 Steam Vents
+1 Stern Dismissal
+1 Stock Up
+1 Storm-Kiln Artist
+1 Stormcarved Coast
+1 Stormcatch Mentor
+1 Strike It Rich
+1 Sulfur Falls
+1 Swallowed by Leviathan
+1 Swiftwater Cliffs
+1 Tandem Lookout
+1 Teetering Peaks
+1 Temple of Epiphany
+1 Terramorphic Expanse
+1 Thought Vessel
+1 Thriving Isle
+1 Lightning Bolt
+1 Training Center
+1 Turnabout
+1 Unending Whisper
+1 Unwind
+1 Veyran, Voice of Duality
+1 Volcanic Fallout
+1 Wild Ride
+1 Counterspell
+1 Windfall
+1 Zell Dincht
+Sideboard
+1 Vivi Ornitier

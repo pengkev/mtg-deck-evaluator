@@ -1,0 +1,99 @@
+1 Walking Ballista
+1 Athreos, God of Passage
+1 Sidisi, Undead Vizier
+1 Varragoth, Bloodsky Sire
+1 Obscura Interceptor
+1 Zur, Eternal Schemer
+1 Stenn, Paranoid Partisan
+1 Triskelion
+1 Oracle of Tragedy
+1 Gold-Forged Thopteryx
+1 Lotho, Corrupt Shirriff
+1 Neva, Stalked by Nightmares
+1 Shadowmage Infiltrator
+1 Archmage's Newt
+1 Esper Sentinel
+1 Enduring Tenacity
+1 Mangara, the Diplomat
+1 Thassa's Oracle
+1 Enduring Innocence
+1 Bloodthirsty Conqueror
+1 Heliod, Sun-Crowned
+1 Liesa, Forgotten Archangel
+1 Chrome Mox
+1 The One Ring
+1 Vexing Bauble
+1 Fellwar Stone
+1 Lotus Petal
+1 Sol Ring
+1 Arcane Signet
+1 Vampiric Tutor
+1 Disdainful Stroke
+1 Dark Ritual
+1 Deadly Rollick
+1 Counterspell
+1 Tainted Pact
+1 Power Word Kill
+1 Essence Capture
+1 Dream Fracture
+1 Force of Negation
+1 Scatter Ray
+1 Flare of Denial
+1 Strix Serenade
+1 Breathe Your Last
+1 Spellgyre
+1 An Offer You Can't Refuse
+1 Stifle
+1 Murder
+1 Demonic Tutor
+1 Dark Petition
+1 Imperial Seal
+1 Diabolic Intent
+1 Blue Sun's Twilight
+1 Fractured Identity
+1 Demonic Counsel
+1 Smothering Tithe
+1 Rhystic Study
+1 Blind Obedience
+1 All That Glitters
+1 Karmic Justice
+1 Cunning Rhetoric
+1 Rest in Peace
+1 Propaganda
+1 Unstoppable Plan
+1 Watery Grave
+1 Misty Rainforest
+1 Scalding Tarn
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Flooded Strand
+1 Polluted Delta
+1 Marsh Flats
+1 Verdant Catacombs
+1 Command Tower
+1 Raffine's Tower
+1 Darkslick Shores
+1 Thriving Heath
+1 Port Town
+1 Study
+1 Choked Estuary
+1 Windswept Heath
+1 Irrigated Farmland
+1 Soured Springs
+1 Forlorn Flats
+1 Reliquary Tower
+1 Sunlit Marsh
+1 Temple of Enlightenment
+1 Plains
+1 Dismal Backwater
+1 Scoured Barrens
+1 Tranquil Cove
+1 Glacial Fortress
+1 Fetid Pools
+1 Prairie Stream
+1 Sunken Hollow
+2 Island
+2 Swamp
+Sideboard
+1 Zur the Enchanter

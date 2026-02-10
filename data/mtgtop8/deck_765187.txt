@@ -1,0 +1,78 @@
+1 Alela, Cunning Conqueror
+1 Archmage of Echoes
+1 Blightwing Bandit
+1 Changeling Outcast
+1 Cloud of Faeries
+1 Emrakul's Messenger
+1 Enduring Curiosity
+1 Faerie Artisans
+1 Faerie Bladecrafter
+1 Faerie Dreamthief
+1 Faerie Seer
+1 Faerie Vandal
+1 Glen Elendra Liege
+1 High Fae Trickster
+1 Il Mheg Pixie
+1 Likeness Looter
+1 Malleable Impostor
+1 Mocking Sprite
+1 Nettling Nuisance
+1 Nightveil Sprite
+1 Picklock Prankster
+1 Scion of Oona
+1 Spellstutter Sprite
+1 Talion, the Kindly Lord
+1 Talion's Messenger
+1 Tegwyll, Duke of Splendor
+1 Arcane Signet
+1 Banner of Kinship
+1 Bident of Thassa
+1 Dimir Signet
+1 Door of Destinies
+1 Fellwar Stone
+1 Herald's Horn
+1 Patchwork Banner
+1 Sapphire Medallion
+1 Sol Ring
+1 Talisman of Dominance
+1 Thought Vessel
+1 Vanquisher's Banner
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Disruption Protocol
+1 Drown in Dreams
+1 Opt
+1 Refute
+1 Rowdy Research
+1 Siphon Insight
+1 Spell Stutter
+1 Waterlogged Teachings
+1 Withering Torment
+1 Chart a Course
+1 Crippling Fear
+1 Feed the Swarm
+1 Gust of Wind
+1 Stolen by the Fae
+1 Winged Words
+1 Cover of Darkness
+1 Kindred Discovery
+1 Propaganda
+1 Reflections of Littjara
+1 Choked Estuary
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+17 Island
+1 Mistrise Village
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+1 Secluded Glen
+1 Sunken Hollow
+8 Swamp
+1 Waterfront District
+Sideboard
+1 Obyra, Dreaming Duelist

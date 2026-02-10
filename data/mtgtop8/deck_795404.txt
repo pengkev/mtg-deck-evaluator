@@ -1,0 +1,101 @@
+1 Witch Enchanter
+1 Walking Ballista
+1 Enduring Vitality
+1 Misthollow Griffin
+1 Falco Spara, Pactweaver
+1 Esper Sentinel
+1 Brightglass Gearhulk
+1 Sakashima the Impostor
+1 High Fae Trickster
+1 Subtlety
+1 Hullbreaker Horror
+1 Seedborn Muse
+1 Briarhorn
+1 Chulane, Teller of Tales
+1 Craterhoof Behemoth
+1 Sowing Mycospawn
+1 Noble Hierarch
+1 Heliod, Sun-Crowned
+1 Glen Elendra Archmage
+1 Delighted Halfling
+1 Sakashima of a Thousand Faces
+1 Vizier of the Menagerie
+1 Clever Impersonator
+1 Wandering Archaic
+1 Teferi, Mage of Zhalfir
+1 Mockingbird
+1 Academy Rector
+1 Bloom Tender
+1 Myrel, Shield of Argive
+1 Foundation Breaker
+1 Venser, Shaper Savant
+1 Phyrexian Metamorph
+1 Overcharged Amalgam
+1 Avacyn's Pilgrim
+1 Inga and Esika
+1 Sawtusk Demolisher
+1 Birds of Paradise
+1 Chakram Retriever
+1 Ancestral Statue
+1 Chameleon, Master of Disguise
+1 Wan Shi Tong, Librarian
+1 Solitude
+1 Spark Double
+1 Chrome Mox
+1 Mox Amber
+1 Mox Diamond
+1 Thousand-Year Elixir
+1 Sol Ring
+1 Eladamri's Call
+1 Noxious Revival
+1 Swan Song
+1 Mindbreak Trap
+1 Permission Denied
+1 Force of Will
+1 Sink into Stupor
+1 Summoner's Pact
+1 Pact of Negation
+1 Strix Serenade
+1 Dovin's Veto
+1 Silence
+1 Mental Misstep
+1 Flusterstorm
+1 Enlightened Tutor
+1 Force of Negation
+1 Fierce Guardianship
+1 Angel's Grace
+1 Metamorphosis
+1 Neoform
+1 Eldritch Evolution
+1 Survival of the Fittest
+1 Food Chain
+1 Nature's Chosen
+1 Intruder Alarm
+1 Otawara, Soaring City
+1 Flooded Strand
+1 Gaea's Cradle
+1 Exotic Orchard
+1 Ancient Tomb
+1 Branchloft Pathway
+1 Hallowed Fountain
+1 Mana Confluence
+1 City of Brass
+1 Command Tower
+1 Sea of Clouds
+1 Boseiju, Who Endures
+1 Tarnished Citadel
+1 Island
+1 Minamo, School at Water's Edge
+1 Barkchannel Pathway
+1 Temple Garden
+1 Savannah
+1 Breeding Pool
+1 Rejuvenating Springs
+1 Windswept Heath
+1 Tropical Island
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Bountiful Promenade
+1 Tundra
+Sideboard
+1 Helga, Skittish Seer

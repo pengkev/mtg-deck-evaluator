@@ -1,0 +1,83 @@
+1 Vedalken Aethermage
+1 Thassa's Oracle
+1 Wavebreak Hippocamp
+1 Sol Ring
+1 Pentad Prism
+1 Mind Stone
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Prismatic Lens
+1 Fellwar Stone
+1 Talisman of Dominance
+1 Solar Transformer
+1 Dimir Signet
+1 Stern Dismissal
+1 Suspend
+1 Consider
+1 Clairvoyance
+1 Otherworldly Gaze
+1 An Offer You Can't Refuse
+1 Peek
+1 Demonic Consultation
+1 Dark Ritual
+1 Peppersmoke
+1 Opt
+1 Sapphire Charm
+1 Spy Network
+1 Mystical Tutor
+1 Dispel
+1 Retraction Helix
+1 Ulcerate
+1 Brainstorm
+1 Remand
+1 Long River's Pull
+1 Arcane Denial
+1 Peer Through Depths
+1 Siphon Insight
+1 Unsubstantiate
+1 Muddle the Mixture
+1 Snapback
+1 Tyrant's Scorn
+1 Lim-Dul's Vault
+1 Impulse
+1 Mission Briefing
+1 Liliana's Triumph
+1 Drown in the Loch
+1 Run Away Together
+1 Supreme Will
+1 Leadership Vacuum
+1 Mystical Dispute
+1 Silundi Vision
+1 Frantic Search
+1 Dismember
+1 Behold the Multiverse
+1 Waterlogged Teachings
+1 Gifts Ungiven
+1 Dig Through Time
+1 Innocent Blood
+1 Gitaxian Probe
+1 Portent
+1 Scheming Symmetry
+1 Night's Whisper
+1 Toxic Deluge
+1 Yahenni's Expertise
+1 Languish
+1 Step Through
+1 Mystic Subdual
+1 Utter Insignificance
+1 Amphibian Downpour
+1 Dark Tutelage
+6 Swamp
+1 Sunken Hollow
+14 Island
+1 Exotic Orchard
+1 Bad River
+1 Ash Barrens
+1 Cephalid Coliseum
+1 Path of Ancestry
+1 Temple of Deceit
+1 Darkwater Catacombs
+1 Ghost Quarter
+1 Command Tower
+Sideboard
+1 Nymris, Oona's Trickster

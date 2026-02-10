@@ -1,0 +1,101 @@
+1 Dauthi Voidwalker
+1 Archivist of Oghma
+1 Drannith Magistrate
+1 Voice of Victory
+1 Delney, Streetwise Lookout
+1 Priest of Fell Rites
+1 Grand Abolisher
+1 Aven Mindcensor
+1 Abdel Adrian, Gorion's Ward
+1 Opposition Agent
+1 Mastermind Plum
+1 Kambal, Profiteering Mayor
+1 Bennie Bracks, Zoologist
+1 Ranger-Captain of Eos
+1 Esper Sentinel
+1 Braids, Arisen Nightmare
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Tataru Taru
+1 Aven Interrupter
+1 Arcane Signet
+1 Mox Diamond
+1 Chrome Mox
+1 Defense Grid
+1 The One Ring
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Paradise Mantle
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Mox Opal
+1 Grim Monolith
+1 Vexing Bauble
+1 Orim's Chant
+1 Sacrifice
+1 Silence
+1 Reprieve
+1 Enlightened Tutor
+1 Anguished Unmaking
+1 Vampiric Tutor
+1 Angel's Grace
+1 Imp's Mischief
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Fell the Profane
+1 Tainted Pact
+1 Mana Tithe
+1 Slaughter Pact
+1 Swords to Plowshares
+1 Cabal Ritual
+1 Entomb
+1 Saw in Half
+1 Lively Dirge
+1 Persist
+1 Beseech the Mirror
+1 Buried Alive
+1 Reanimate
+1 Final Parting
+1 Diabolic Intent
+1 Imperial Seal
+1 Unmarked Grave
+1 Demonic Tutor
+1 Trouble in Pairs
+1 Dance of the Dead
+1 Necromancy
+1 Blind Obedience
+1 Animate Dead
+1 Necropotence
+1 Smothering Tithe
+1 Caretaker's Talent
+1 Aether Hub
+1 Arid Mesa
+1 Shadowy Backstreet
+1 Bleachbone Verge
+1 Vault of Champions
+1 Bloodstained Mire
+1 Starting Town
+1 Plains
+1 Silent Clearing
+1 Verdant Catacombs
+1 City of Brass
+1 Scrubland
+1 Marsh Flats
+1 Caves of Koilos
+1 Mana Confluence
+1 Ancient Tomb
+1 Windswept Heath
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Godless Shrine
+1 Plaza of Heroes
+1 Swamp
+1 Gemstone Caverns
+1 Concealed Courtyard
+1 Polluted Delta
+1 Fomori Vault
+Sideboard
+1 Lotho, Corrupt Shirriff

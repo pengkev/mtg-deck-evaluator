@@ -1,0 +1,101 @@
+1 Abyssal Harvester
+1 Birgi, God of Storytelling
+1 Dualcaster Mage
+1 Greedy Freebooter
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 Impulsive Pilferer
+1 Mayhem Devil
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Rakdos, the Muscle
+1 Razaketh, the Foulblooded
+1 Ruthless Technomancer
+1 Simian Spirit Guide
+1 Warren Soultrader
+1 Aetherflux Reservoir
+1 Altar of Dementia
+1 Arcane Signet
+1 Bolas's Citadel
+1 Brass's Tunnel-Grinder
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Phyrexian Altar
+1 Relic of Legends
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Dismember
+1 Entomb
+1 Fell the Profane
+1 Final Fortune
+1 Flare of Duplication
+1 Pyroblast
+1 Red Elemental Blast
+1 Sacrifice
+1 Saw in Half
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Diabolic Intent
+1 Faithless Looting
+1 Gamble
+1 Imperial Seal
+1 Infernal Plunge
+1 Jeska's Will
+1 Molten Duplication
+1 Obliterate
+1 Peer into the Abyss
+1 Reanimate
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Animate Dead
+1 Black Market Connections
+1 Goblin Bombardment
+1 The Meathook Massacre
+1 Underworld Breach
+1 Urza's Saga
+1 Ob Nixilis, the Adversary
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Gemstone Caverns
+1 Graven Cairns
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mountain
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Sulfurous Springs
+1 Swamp
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Dargo, the Shipwrecker
+1 Tevesh Szat, Doom of Fools

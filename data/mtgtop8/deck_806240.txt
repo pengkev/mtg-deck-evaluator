@@ -1,0 +1,101 @@
+1 Badgermole Cub
+1 Birds of Paradise
+1 Corridor Monitor
+1 Deceiver Exarch
+1 Delighted Halfling
+1 Elvish Spirit Guide
+1 Endurance
+1 Esper Sentinel
+1 Eternal Witness
+1 Felidar Guardian
+1 Grand Abolisher
+1 Hermit Druid
+1 Hexing Squelcher
+1 Karmic Guide
+1 Kiki-Jiki, Mirror Breaker
+1 Phyrexian Metamorph
+1 Quirion Ranger
+1 Ranger-Captain of Eos
+1 Squee, the Immortal
+1 Thassa's Oracle
+1 The Eighth Doctor
+1 The Jolly Balloon Man
+1 The Third Doctor
+1 Unsettled Mariner
+1 Village Bell-Ringer
+1 Voice of Victory
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Chord of Calling
+1 Crop Rotation
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Dryad's Revival
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Neoform
+1 Sevinne's Reclamation
+1 Transmute Artifact
+1 Blind Obedience
+1 Food Chain
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Tezzeret, Cruel Captain
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Breeding Pool
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plateau
+1 Rejuvenating Springs
+1 Savannah
+1 Shifting Woodland
+1 Spectator Seating
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Volcanic Island
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 K-9, Mark I
+1 The Fourteenth Doctor

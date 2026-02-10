@@ -1,0 +1,102 @@
+1 Baleful Strix
+1 Archon of Valor's Reach
+1 Trygon Predator
+1 Soulherder
+1 Faeburrow Elder
+1 Atarka, World Render
+1 Medomai the Ageless
+1 Knight of New Alara
+1 Linvala, Shield of Sea Gate
+1 Kaervek the Merciless
+1 Saffi Eriksdotter
+1 General Ferrous Rokiric
+1 Hostage Taker
+1 Gluntch, the Bestower
+1 Birds of Paradise
+1 Niv-Mizzet, Supreme
+1 Lotho, Corrupt Shirriff
+1 Alpha Deathclaw
+1 Shaun, Father of Synths
+1 Roxanne, Starfall Savant
+1 Silumgar, the Drifting Death
+1 Ruric Thar, the Unbowed
+1 Rivaz of the Claw
+1 Delighted Halfling
+1 Anzrag, the Quake-Mole
+1 Lilah, Undefeated Slickshot
+1 Brago, King Eternal
+1 Goblin Anarchomancer
+1 Kardur, Doomscourge
+1 Arcane Signet
+1 Chromatic Lantern
+1 Gruul Signet
+1 Selesnya Signet
+1 Talisman of Curiosity
+1 Golgari Signet
+1 Dimir Signet
+1 Thought Vessel
+1 Talisman of Unity
+1 Decanter of Endless Water
+1 Sol Ring
+1 Boros Signet
+1 Talisman of Dominance
+1 Talisman of Impulse
+1 Fellwar Stone
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Abrupt Decay
+1 Despark
+1 Dovin's Veto
+1 Fire Covenant
+1 Inkshield
+1 Windgrace's Judgment
+1 Terminate
+1 Anguished Unmaking
+1 Deflecting Palm
+1 Vanishing Verse
+1 Planar Genesis
+1 Assassin's Trophy
+1 Last One Standing
+1 Deafening Clarion
+1 Merciless Eviction
+1 Rampant Growth
+1 Kodama's Reach
+1 The Nipton Lottery
+1 Explosive Getaway
+1 Cultivate
+1 Aura Shards
+1 Rhythm of the Wild
+1 Smothering Tithe
+1 The Apprentice's Folly
+1 Rakdos Joins Up
+1 Island
+1 Mountain
+1 Plains
+1 Swamp
+1 Forest
+1 Command Tower
+1 Exotic Orchard
+1 Yavimaya Coast
+1 Mana Confluence
+1 Badlands
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Underground Sea
+1 Volcanic Island
+1 Glimmervoid
+1 Undergrowth Stadium
+1 Spire of Industry
+1 Spire Garden
+1 Shizo, Death's Storehouse
+1 Brushland
+1 Shipwreck Marsh
+1 City of Brass
+1 Reliquary Tower
+Sideboard
+2 Jegantha, the Wellspring
+1 Niv-Mizzet Reborn

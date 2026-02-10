@@ -1,0 +1,90 @@
+1 Birds of Paradise
+1 Bartz and Boko
+1 Yuna, Grand Summoner
+1 Tifa Lockhart
+1 Summon: Fat Chocobo
+1 Hermes, Overseer of Elpis
+1 Emeria Angel
+1 Curiosity Crafter
+1 Kastral, the Windcrested
+1 Rampaging Baloths
+1 Healer's Hawk
+1 Cloudchaser Kestrel
+1 Mockingbird
+1 Senu, Keen-Eyed Protector
+1 Derevi, Empyrial Tactician
+1 Owlbear Cub
+1 Ambrosia Whiteheart
+1 Aerith, Last Ancient
+1 Gilded Goose
+1 Rinoa, Angel Wing
+1 Sidequest: Raise a Chocobo
+1 Teshar, Ancestor's Apostle
+1 Traveling Chocobo
+1 Ishai, Ojutai Dragonspeaker
+1 Sazh Katzroy
+1 Windbrisk Raptor
+1 Salvation Swan
+1 Plumecreed Escort
+1 Sazh's Chocobo
+1 Judge's Familiar
+1 Jackdaw Savior
+1 Esior, Wardwing Familiar
+1 Swiftfoot Boots
+1 Dragonfire Blade
+1 Patchwork Banner
+1 Chocobo Racetrack
+1 Arcane Signet
+1 Sol Ring
+1 Dazzling Denial
+1 Rally of Wings
+1 Perch Protection
+1 Brainstorm
+1 Cosmic Rebirth
+1 Winged Portent
+1 Heliod's Intervention
+1 Dovin's Veto
+1 Ultimate Magic: Holy
+1 Path to Exile
+1 Auroral Procession
+1 Swords to Plowshares
+1 Cultivate
+1 Ascend from Avernus
+1 Ishgard, the Holy See
+1 Airborne Aid
+1 Bridgeworks Battle
+1 Zanarkand, Ancient Metropolis
+1 Tragic Arrogance
+1 Farseek
+1 Strength of the Harvest
+1 Soulcatchers' Aerie
+1 Felidar Retreat
+1 Murmuration
+1 Bower Passage
+1 Grasp of Fate
+1 Earthbender Ascension
+1 Escape Tunnel
+1 Prairie Stream
+1 Chocobo Camp
+5 Plains
+1 Animal Sanctuary
+1 Lilypad Village
+5 Forest
+1 Dreamroot Cascade
+1 Abandoned Air Temple
+1 Unclaimed Territory
+1 Evolving Wilds
+1 Path of Ancestry
+1 Tranquil Landscape
+1 Irrigated Farmland
+1 Secluded Courtyard
+1 Canopy Vista
+1 Glacial Fortress
+1 Yavimaya Coast
+1 Exotic Orchard
+1 Sunpetal Grove
+4 Island
+1 Command Tower
+1 Scattered Groves
+Sideboard
+1 Choco, Seeker of Paradise

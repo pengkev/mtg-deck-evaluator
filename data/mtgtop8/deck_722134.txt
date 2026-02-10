@@ -1,0 +1,76 @@
+1 Trophy Mage
+1 Prismite
+1 Kogla, the Titan Ape
+1 Perplexing Chimera
+1 Stonework Packbeast
+1 Fyndhorn Elves
+1 Sanctum Weaver
+1 Colossal Skyturtle
+1 Incubation Druid
+1 Spellskite
+1 Cogwork Assembler
+1 Birds of Paradise
+1 Elvish Mystic
+1 Spectral Sailor
+1 Drift of Phantasms
+1 Tidespout Tyrant
+1 Koma, Cosmos Serpent
+1 Seedborn Muse
+1 Volatile Stormdrake
+1 Hydroelectric Specimen
+1 Llanowar Elves
+1 Valley Floodcaller
+1 Devoted Druid
+1 Thorn Mammoth
+1 Enduring Vitality
+1 Paradise Druid
+1 Hullbreaker Horror
+1 Wandering Archaic
+1 Moonsilver Key
+1 Moonsnare Prototype
+1 Mirage Mirror
+1 Springleaf Drum
+1 Basalt Monolith
+1 Prismatic Lens
+1 Simic Signet
+1 Prophetic Prism
+1 Talisman of Curiosity
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Energy Refractor
+1 Misdirection
+1 Miscast
+1 Nature's Claim
+1 Dispel
+1 Retraction Helix
+1 Blue Sun's Zenith
+1 Banishing Knack
+1 Delay
+1 Spell Pierce
+1 March of Swirling Mist
+1 Whir of Invention
+1 Borne Upon a Wind
+1 Resculpt
+1 Commandeer
+1 Flare of Denial
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Counterspell
+1 Blink of an Eye
+1 Reality Shift
+1 Geistwave
+1 Crop Rotation
+1 Muddle the Mixture
+1 Neoform
+1 Fabricate
+1 Reshape
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Amphibian Downpour
+1 Treasure Vault
+1 Command Tower
+14 Forest
+13 Island
+Sideboard
+1 Kinnan, Bonder Prodigy

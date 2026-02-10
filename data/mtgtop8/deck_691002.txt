@@ -1,0 +1,77 @@
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Ornithopter of Paradise
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Thassa's Oracle
+1 Arcane Signet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Izzet Signet
+1 Lavaspur Boots
+1 Mind Stone
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Winged Boots
+1 Abrade
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Cerulean Wisps
+1 Chaos Warp
+1 Consider
+1 Counterspell
+1 Demand Answers
+1 Desperate Ritual
+1 Dramatic Reversal
+1 Expedite
+1 Fleeting Reflection
+1 Frantic Search
+1 Into the Flood Maw
+1 Lightning Bolt
+1 Muddle the Mixture
+1 Opt
+1 Peer Through Depths
+1 Pongify
+1 Rapid Hybridization
+1 Reach Through Mists
+1 Refocus
+1 Remand
+1 Sazacap's Brew
+1 Shore Up
+1 Snap
+1 Spell Pierce
+1 Thought Scour
+1 Thrill of Possibility
+1 Twitch
+1 Blasphemous Act
+1 Faithless Looting
+1 Gamble
+1 Gleeful Demolition
+1 Hell to Pay
+1 Involuntary Employment
+1 Past in Flames
+1 Ponder
+1 Preordain
+1 Rite of Flame
+1 Slagstorm
+1 Solve the Equation
+1 Strike It Rich
+1 Twinflame
+1 Twisted Fealty
+1 Vandalblast
+1 Vengeful Possession
+1 Windfall
+1 Case of the Ransacked Lab
+1 Narset, Parter of Veils
+1 Command Tower
+1 Exotic Orchard
+15 Island
+11 Mountain
+1 Shivan Reef
+1 Sulfur Falls
+Sideboard
+1 Stella Lee, Wild Card

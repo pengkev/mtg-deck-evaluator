@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Ragavan, Nimble Pilferer
+1 Storm-Kiln Artist
+1 Simian Spirit Guide
+1 Treasonous Ogre
+1 Tavern Scoundrel
+1 "Name Sticker" Goblin
+1 Pinnacle Monk
+1 Mox Diamond
+1 Mox Amber
+1 Arcane Signet
+1 Springleaf Drum
+1 Talisman of Creativity
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Vexing Bauble
+1 Lotus Petal
+1 Intuition
+1 Pyroblast
+1 Desperate Ritual
+1 Flusterstorm
+1 Chain of Vapor
+1 Valakut Awakening
+1 Tibalt's Trickery
+1 Reiterate
+1 Invoke Calamity
+1 Brain Freeze
+1 Snap
+1 Pyretic Ritual
+1 Mental Misstep
+1 Seething Song
+1 Borne Upon a Wind
+1 Frantic Search
+1 Pact of Negation
+1 Demand Answers
+1 Flare of Duplication
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Lightning Bolt
+1 Lava Dart
+1 Gut Shot
+1 Red Elemental Blast
+1 Mystical Tutor
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Sink into Stupor
+1 Wheel of Fortune
+1 Echo of Eons
+1 Gitaxian Probe
+1 Rite of Flame
+1 Grapeshot
+1 Hidden Strings
+1 Past in Flames
+1 Mind's Desire
+1 Recoup
+1 Sea Gate Restoration
+1 Reckless Impulse
+1 Windfall
+1 Jeska's Will
+1 Bonus Round
+1 Quiet Speculation
+1 Finale of Promise
+1 Solve the Equation
+1 Strike It Rich
+1 Rob the Archives
+1 Inspired Tinkering
+1 Gamble
+1 Wrenn's Resolve
+1 Witch's Mark
+1 Highway Robbery
+1 Lock and Load
+1 Embrace the Unknown
+1 Glimpse the Impossible
+1 Sundering Eruption
+1 Will of the Jeskai
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Training Center
+1 Steam Vents
+1 Island
+1 Mountain
+1 Thundering Falls
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Fiery Islet
+1 Scalding Tarn
+1 Arid Mesa
+1 Misty Rainforest
+1 Volcanic Island
+1 Otawara, Soaring City
+Sideboard
+1 Ral, Monsoon Mage

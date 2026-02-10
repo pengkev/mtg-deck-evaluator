@@ -1,0 +1,101 @@
+1 Atraxa, Grand Unifier
+1 Birds of Paradise
+1 Aragorn, the Uniter
+1 Kutzil, Malamet Exemplar
+1 Myrel, Shield of Argive
+1 Shalai, Voice of Plenty
+1 Delighted Halfling
+1 Ignoble Hierarch
+1 Lotho, Corrupt Shirriff
+1 Jodah, the Unifier
+1 Agatha of the Vile Cauldron
+1 Tataru Taru
+1 Esper Sentinel
+1 Biomancer's Familiar
+1 Selvala, Heart of the Wilds
+1 Tymna the Weaver
+1 Sisay, Weatherlight Captain
+1 Vivi Ornitier
+1 Sakashima of a Thousand Faces
+1 Phantasmal Image
+1 Jin Sakai, Ghost of Tsushima
+1 Derevi, Empyrial Tactician
+1 Glissa Sunslayer
+1 Ragavan, Nimble Pilferer
+1 Orcish Bowmasters
+1 Noble Hierarch
+1 Wan Shi Tong, Librarian
+1 Wakka, Devoted Guardian
+1 Bloom Tender
+1 Ranger-Captain of Eos
+1 Thassa's Oracle
+1 Mox Opal
+1 Relic of Legends
+1 Chromatic Lantern
+1 Sol Ring
+1 Mox Amber
+1 Arcane Signet
+1 Bender's Waterskin
+1 Lotus Petal
+1 Mox Diamond
+1 Chrome Mox
+1 Swiftfoot Boots
+1 Cyclonic Rift
+1 Worldly Tutor
+1 Assassin's Trophy
+1 Abrupt Decay
+1 Fierce Guardianship
+1 Swords to Plowshares
+1 Deadly Rollick
+1 Vampiric Tutor
+1 An Offer You Can't Refuse
+1 Mindbreak Trap
+1 Tainted Pact
+1 Deflecting Swat
+1 Noxious Revival
+1 Silence
+1 Path to Exile
+1 Enlightened Tutor
+1 Permission Denied
+1 Anguished Unmaking
+1 Dovin's Veto
+1 Demonic Tutor
+1 Imperial Seal
+1 Frostcliff Siege
+1 Rhystic Study
+1 Smothering Tithe
+1 Training Grounds
+1 Savannah
+1 Scalding Tarn
+1 Blood Crypt
+1 Temple Garden
+1 Volcanic Island
+1 Stomping Ground
+1 Polluted Delta
+1 Arid Mesa
+1 Taiga
+1 Bloodstained Mire
+1 Overgrown Tomb
+1 Watery Grave
+1 Underground Sea
+1 Steam Vents
+1 Breeding Pool
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Badlands
+1 Mana Confluence
+1 Command Tower
+1 Windswept Heath
+1 Tundra
+1 Scrubland
+1 Bayou
+1 Sacred Foundry
+1 Misty Rainforest
+1 Plateau
+1 Marsh Flats
+1 Hallowed Fountain
+1 Tropical Island
+1 Flooded Strand
+1 Godless Shrine
+Sideboard
+1 Kenrith, the Returned King

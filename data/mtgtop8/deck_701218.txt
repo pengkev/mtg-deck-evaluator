@@ -1,0 +1,101 @@
+1 Basalt Monolith
+1 Mox Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Mox Amber
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 The One Ring
+1 Veil of Summer
+1 Cyclonic Rift
+1 Flusterstorm
+1 Eladamri's Call
+1 Force of Will
+1 Abrupt Decay
+1 Mental Misstep
+1 Noxious Revival
+1 Chord of Calling
+1 Silence
+1 Retraction Helix
+1 Pact of Negation
+1 Swan Song
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Tainted Pact
+1 Force of Vigor
+1 Spell Pierce
+1 March of Swirling Mist
+1 Force of Negation
+1 Mystical Tutor
+1 Worldly Tutor
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 Demonic Consultation
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Neoform
+1 Green Sun's Zenith
+1 Demonic Tutor
+1 Culling Ritual
+1 Rhystic Study
+1 Swift Reconfiguration
+1 Mystic Remora
+1 Smothering Tithe
+1 Ranger-Captain of Eos
+1 Deathrite Shaman
+1 Seedborn Muse
+1 Noble Hierarch
+1 Kinnan, Bonder Prodigy
+1 Devoted Druid
+1 Opposition Agent
+1 Esper Sentinel
+1 Archivist of Oghma
+1 Deep Gnome Terramancer
+1 Birds of Paradise
+1 Llanowar Elves
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Boromir, Warden of the Tower
+1 Spellseeker
+1 Lotho, Corrupt Shirriff
+1 Kitesail Larcenist
+1 Kutzil, Malamet Exemplar
+1 Grand Abolisher
+1 Valley Floodcaller
+1 Mockingbird
+1 Hazel's Brewmaster
+1 Thassa's Oracle
+1 High Fae Trickster
+1 Ancient Tomb
+1 Mana Confluence
+1 Command Tower
+1 Gaea's Cradle
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Exotic Orchard
+1 Scalding Tarn
+1 Sea of Clouds
+1 Misty Rainforest
+1 Cavern of Souls
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 City of Brass
+1 Breeding Pool
+1 Hallowed Fountain
+1 Temple Garden
+Sideboard
+1 Thrasios, Triton Hero
+1 Tymna the Weaver

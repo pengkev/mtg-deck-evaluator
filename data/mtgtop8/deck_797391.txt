@@ -1,0 +1,80 @@
+1 Gray Merchant of Asphodel
+1 Drana, the Last Bloodchief
+1 Bloodline Necromancer
+1 Bloodline Keeper
+1 Sire of Insanity
+1 Vito, Thorn of the Dusk Rose
+1 Necropolis Regent
+1 Markov Enforcer
+1 Demon of Loathing
+1 Umbral Collar Zealot
+1 Chainer, Nightmare Adept
+1 Anje Falkenrath
+1 Viscera Seer
+1 Malfegor
+1 Blast-Furnace Hellkite
+1 Champion of Dusk
+1 Thief of Blood
+1 Patron of the Vein
+1 Plaguecrafter
+1 Calamity, Galloping Inferno
+1 Crossway Troublemakers
+1 Malakir Bloodwitch
+1 Urza's Incubator
+1 Talisman of Indulgence
+1 Lightning Greaves
+1 Jet Medallion
+1 Sol Ring
+1 Bolas's Citadel
+1 Rakdos Signet
+1 Commander's Sphere
+1 Swiftfoot Boots
+1 Arcane Signet
+1 Patchwork Banner
+1 Cursed Mirror
+1 Dark Ritual
+1 Flare of Malice
+1 Thrill of Possibility
+1 Terminate
+1 Go for the Throat
+1 Fell the Profane
+1 Sazacap's Brew
+1 Big Score
+1 Unexpected Windfall
+1 Demand Answers
+1 Deadly Dispute
+1 Reanimate
+1 Olivia's Wrath
+1 Feed the Swarm
+1 Persist
+1 Blasphemous Act
+1 Seize the Spoils
+1 Exsanguinate
+1 Buried Alive
+1 Pirate's Pillage
+1 Diabolic Tutor
+1 Faithless Looting
+1 Into the Night
+1 Witch's Mark
+1 Highway Robbery
+1 Dread Return
+1 Unmarked Grave
+1 Victimize
+1 Sinister Waltz
+1 Animate Dead
+1 Phyrexian Arena
+1 Voldaren Estate
+1 Foreboding Ruins
+1 Bloodstained Mire
+1 Command Tower
+1 Sulfurous Springs
+1 Dragonskull Summit
+14 Swamp
+1 Smoldering Marsh
+1 Tainted Peak
+1 Daily Bugle Building
+9 Mountain
+1 Temple of Malice
+1 Shadowblood Ridge
+Sideboard
+1 Olivia, Crimson Bride

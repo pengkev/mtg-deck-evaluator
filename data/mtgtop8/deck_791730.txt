@@ -1,0 +1,87 @@
+1 Canoptek Scarab Swarm
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Junk Diver
+1 Marvin, Murderous Mimic
+1 Metalworker
+1 Myr Retriever
+1 Myr Welder
+1 Ornithopter
+1 Palladium Myr
+1 Pili-Pala
+1 Ranger-Captain of Eos
+1 Rug of Smothering
+1 Scrap Trawler
+1 Skrelv, Defector Mite
+1 Voice of Victory
+1 Walking Ballista
+1 Workshop Assistant
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Ashnod's Altar
+1 Basalt Monolith
+1 Blasting Station
+1 Clock of Omens
+1 Cloud Key
+1 Codex Shredder
+1 Damping Sphere
+1 Deathrender
+1 Defense Grid
+1 Fellwar Stone
+1 Grinding Station
+1 Ichor Wellspring
+1 Jeweled Amulet
+1 Krark-Clan Ironworks
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Paradise Mantle
+1 Patriar's Seal
+1 Pithing Needle
+1 Retrofitter Foundry
+1 Rings of Brighthearth
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Staff of Compleation
+1 Staff of Domination
+1 The One Ring
+1 Thorn of Amethyst
+1 Thousand-Year Elixir
+1 Trinisphere
+1 Vexing Bauble
+1 Voltaic Key
+1 Welding Jar
+1 Winter Moon
+1 Angel's Grace
+1 Enlightened Tutor
+1 Mana Tithe
+1 Orim's Chant
+1 Reprieve
+1 Silence
+1 Swords to Plowshares
+1 Sevinne's Reclamation
+1 Deafening Silence
+1 Rule of Law
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Den
+1 Ancient Tomb
+1 Command Beacon
+1 Darksteel Citadel
+1 Gemstone Caverns
+1 Homeward Path
+1 Mishra's Workshop
+15 Plains
+1 Treasure Vault
+Sideboard
+1 Oswald Fiddlebender

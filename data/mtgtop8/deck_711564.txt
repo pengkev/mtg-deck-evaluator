@@ -1,0 +1,101 @@
+1 Dryad of the Ilysian Grove
+1 Ramunap Excavator
+1 Avacyn's Pilgrim
+1 The Gitrog Monster
+1 Elvish Mystic
+1 Birds of Paradise
+1 Drana and Linvala
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Six
+1 Putrid Imp
+1 Ranger-Captain of Eos
+1 Drannith Magistrate
+1 Elves of Deep Shadow
+1 Sylvan Safekeeper
+1 Lotus Cobra
+1 Ashaya, Soul of the Wild
+1 Opposition Agent
+1 Witherbloom Apprentice
+1 Esper Sentinel
+1 Endurance
+1 Ulamog, the Infinite Gyre
+1 Eternal Witness
+1 Deathrite Shaman
+1 Dauntless Dismantler
+1 Crucible of Worlds
+1 Arcane Signet
+1 Sol Ring
+1 Mana Crypt
+1 Mox Diamond
+1 Jeweled Lotus
+1 Mana Vault
+1 Talisman of Resilience
+1 Talisman of Unity
+1 Vampiric Tutor
+1 Force of Vigor
+1 Turn the Earth
+1 Veil of Summer
+1 Assassin's Trophy
+1 Swords to Plowshares
+1 Dark Ritual
+1 Enlightened Tutor
+1 Realms Uncharted
+1 Crop Rotation
+1 Deadly Rollick
+1 Abrupt Decay
+1 Noxious Revival
+1 Path to Exile
+1 Angel's Grace
+1 Worldly Tutor
+1 Entomb
+1 Silence
+1 Life from the Loam
+1 Toxic Deluge
+1 Culling Ritual
+1 Final Parting
+1 Demonic Tutor
+1 Natural Order
+1 Chain of Smog
+1 Reanimate
+1 Green Sun's Zenith
+1 Sevinne's Reclamation
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Deafening Silence
+1 Prismatic Omen
+1 Survival of the Fittest
+1 Squandered Resources
+1 Blind Obedience
+1 Temple Garden
+1 Urborg, Tomb of Yawgmoth
+1 Bloodstained Mire
+1 Windswept Heath
+1 Boseiju, Who Endures
+1 Wasteland
+1 Lush Portico
+1 Command Tower
+1 Forest
+1 Godless Shrine
+1 Bountiful Promenade
+1 Emergence Zone
+1 Mana Confluence
+1 Mikokoro, Center of the Sea
+1 Gaea's Cradle
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Field of the Dead
+1 Overgrown Tomb
+1 Swamp
+1 Dryad Arbor
+1 Marsh Flats
+1 Verdant Catacombs
+1 Phyrexian Tower
+1 Ancient Tomb
+1 Undergrowth Stadium
+1 Underground Mortuary
+1 Shifting Woodland
+1 Talon Gates of Madara
+Sideboard
+1 The Necrobloom

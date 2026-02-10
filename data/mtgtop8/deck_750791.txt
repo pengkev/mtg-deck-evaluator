@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Clever Impersonator
+1 Dauthi Voidwalker
+1 Delighted Halfling
+1 Elves of Deep Shadow
+1 Hermit Druid
+1 Ledger Shredder
+1 Llanowar Elves
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phyrexian Metamorph
+1 Talion, the Kindly Lord
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Dimir Signet
+1 Golgari Signet
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Simic Signet
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 The One Ring
+1 Wishclaw Talisman
+1 Assassin's Trophy
+1 Banishing Knack
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Drag to the Roots
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Gush
+1 Mana Drain
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Snuff Out
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Beseech the Mirror
+1 Culling Ritual
+1 Dark Petition
+1 Demonic Tutor
+1 Doomsday
+1 Dread Return
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 No One Left Behind
+1 Praetor's Grasp
+1 Carpet of Flowers
+1 Counterbalance
+1 Exploration
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Tyvar, Jubilant Brawler
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Hedge Maze
+1 Llanowar Wastes
+1 Misty Rainforest
+1 Nurturing Peatland
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Starting Town
+1 Undercity Sewers
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Watery Grave
+1 Willowrush Verge
+1 Windswept Heath
+1 Zagoth Triome
+Sideboard
+1 Glarb, Calamity's Augur

@@ -1,0 +1,66 @@
+36 Swamp
+1 Professor's Warning
+1 Cling to Dust
+1 Prism Ring
+1 Armor of Shadows
+1 Executioner's Capsule
+1 Blood Celebrant
+1 Fountain of Renewal
+1 Font of Agonies
+1 Blood Pet
+1 Supernatural Stamina
+1 Viscera Seer
+1 Walk the Plank
+1 Sign in Blood
+1 Demon's Horn
+1 Consuming Corruption
+1 Charcoal Diamond
+1 Grasp of Darkness
+1 Prismatic Lens
+1 Mind Stone
+1 Gatekeeper of Malakir
+1 Victim of Night
+1 Altar of the Pantheon
+1 Overeager Apprentice
+1 Risky Shortcut
+1 Rowan's Grim Search
+1 Staff of the Death Magus
+1 Underworld Connections
+1 Buried Alive
+1 Heraldic Banner
+1 Infernal Idol
+1 Read the Bones
+1 Painful Lesson
+1 Nighthawk Scavenger
+1 Breathe Your Last
+1 Succumb to Temptation
+1 Pristine Talisman
+1 Phyrexian Totem
+1 Vampire Nighthawk
+1 Diresight
+1 Mastermind's Acquisition
+1 Drag to the Underworld
+1 Ancient Craving
+1 Greed
+1 Ambition's Cost
+1 Fleshwrither
+1 Tendrils of Corruption
+1 Dimir House Guard
+1 Necrotic Ooze
+1 Astarion's Thirst
+1 Vile Entomber
+1 Grim Servant
+1 Diabolic Tutor
+1 Consuming Vapors
+1 Illicit Shipment
+1 Chainer, Dementia Master
+1 Brainspoil
+1 Final Parting
+1 Skirge Familiar
+1 Gray Merchant of Asphodel
+1 Promise of Power
+1 Razaketh's Rite
+1 Asmodeus the Archfiend
+1 Netherborn Phalanx
+Sideboard
+1 K'rrik, Son of Yawgmoth

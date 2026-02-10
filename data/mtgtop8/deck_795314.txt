@@ -1,0 +1,100 @@
+1 Enthusiastic Mechanaut
+1 Vivi Ornitier
+1 Riddlesmith
+1 Ragavan, Nimble Pilferer
+1 Phyrexian Metamorph
+1 Dragon's Rage Channeler
+1 Artificer's Assistant
+1 Glaring Fleshraker
+1 Birgi, God of Storytelling
+1 Displacer Kitten
+1 Etherium Sculptor
+1 Conjurer's Bauble
+1 Helm of Awakening
+1 Lotus Petal
+1 Springleaf Drum
+1 Mox Amber
+1 Lion's Eye Diamond
+1 Everflowing Chalice
+1 Arcane Signet
+1 Chrome Mox
+1 Mox Diamond
+1 The One Ring
+1 Pyrite Spellbomb
+1 Soul-Guide Lantern
+1 Codex Shredder
+1 Crystal Skull, Isu Spyglass
+1 Grim Monolith
+1 Mana Vault
+1 Mox Opal
+1 Uthros Research Craft
+1 Mystic Forge
+1 Sol Ring
+1 Talisman of Creativity
+1 Urza's Bauble
+1 Sensei's Divining Top
+1 Manifold Key
+1 Fellwar Stone
+1 Aether Spellbomb
+1 Jeweled Amulet
+1 Mishra's Bauble
+1 Brass's Tunnel-Grinder
+1 Tormod's Crypt
+1 Swan Song
+1 Mana Drain
+1 Fierce Guardianship
+1 Filter Out
+1 Resculpt
+1 Final Fortune
+1 Red Elemental Blast
+1 Cyclonic Rift
+1 Redirect Lightning
+1 Into the Flood Maw
+1 Paradoxical Outcome
+1 Brain Freeze
+1 Chain of Vapor
+1 Retract
+1 Mental Misstep
+1 Sink into Stupor
+1 Flusterstorm
+1 Force of Will
+1 An Offer You Can't Refuse
+1 Pact of Negation
+1 Deflecting Swat
+1 Transmute Artifact
+1 Gamble
+1 Fabricate
+1 Jeska's Will
+1 Urza's Saga
+1 Underworld Breach
+1 Artist's Talent
+1 Words of Wind
+1 Rhystic Study
+1 Mystic Remora
+1 Tezzeret, Cruel Captain
+1 Training Center
+1 Spire of Industry
+1 Otawara, Soaring City
+1 Shivan Reef
+1 Fiery Islet
+1 Spirebluff Canal
+1 Mountain
+1 Cavern of Souls
+1 Arid Mesa
+1 Volcanic Island
+1 Polluted Delta
+1 Steam Vents
+1 Gemstone Caverns
+1 Minamo, School at Water's Edge
+1 Wooded Foothills
+2 Island
+1 Command Tower
+1 Riverglide Pathway
+1 Mana Confluence
+1 Misty Rainforest
+1 Flooded Strand
+1 Scalding Tarn
+1 Ancient Tomb
+1 City of Brass
+Sideboard
+1 Jhoira, Weatherlight Captain

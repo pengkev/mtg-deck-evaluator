@@ -1,0 +1,99 @@
+1 Champion of Lambholt
+1 Containment Priest
+1 Collector Ouphe
+1 Grand Abolisher
+1 Kataki, War's Wage
+1 Ethersworn Canonist
+1 Vexing Shusher
+1 Drannith Magistrate
+1 Spirit of the Labyrinth
+1 Avacyn's Pilgrim
+1 Mother of Runes
+1 Archon of Emeria
+1 Simian Spirit Guide
+1 Fyndhorn Elves
+1 Magus of the Moon
+1 Strict Proctor
+1 Sanctum Prelate
+1 Esper Sentinel
+1 Katilda, Dawnhart Prime
+1 Adeline, Resplendent Cathar
+1 Thalia, Guardian of Thraben
+1 Aven Mindcensor
+1 Leonin Arbiter
+1 Krenko, Tin Street Kingpin
+1 Birds of Paradise
+1 Myrel, Shield of Argive
+1 Eidolon of Rhetoric
+1 Elvish Spirit Guide
+1 Skrelv, Defector Mite
+1 Ragavan, Nimble Pilferer
+1 Phyrexian Censor
+1 Delighted Halfling
+1 Boromir, Warden of the Tower
+1 Ohran Frostfang
+1 Elvish Mystic
+1 Kutzil, Malamet Exemplar
+1 Charismatic Conqueror
+1 Doorkeeper Thrull
+1 Toski, Bearer of Secrets
+1 Ranger-Captain of Eos
+1 Aven Interrupter
+1 Recruiter of the Guard
+1 Chittering Dispatcher
+1 Llanowar Elves
+1 Bloodroot Apothecary
+1 Jacked Rabbit
+1 Scurry of Squirrels
+1 Hushbringer
+1 Archivist of Oghma
+1 Voice of Victory
+1 Ainok Strike Leader
+1 Clarion Conqueror
+1 Grafdigger's Cage
+1 Weathered Runestone
+1 Cursed Totem
+1 Thorn of Amethyst
+1 Vexing Bauble
+1 Lotus Petal
+1 Tibalt's Trickery
+1 Path to Exile
+1 Lightning Bolt
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Deafening Silence
+1 Blood Moon
+1 High Noon
+1 Stomping Ground
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Verdant Catacombs
+1 Spectator Seating
+1 Dryad Arbor
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Sacred Foundry
+2 Forest
+1 Boseiju, Who Endures
+1 Sokenzan, Crucible of Defiance
+1 Eiganjo, Seat of the Empire
+1 Bountiful Promenade
+1 Spire Garden
+1 Karplusan Forest
+1 Brushland
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Temple Garden
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+2 Plains
+1 Talon Gates of Madara
+Sideboard
+1 Jetmir, Nexus of Revels

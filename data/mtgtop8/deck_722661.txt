@@ -1,0 +1,91 @@
+1 Flux Channeler
+1 Evolution Sage
+1 Meadowboon
+1 Willbreaker
+1 Gor Muldrak, Amphinologist
+1 Nils, Discipline Enforcer
+1 Skyboon Evangelist
+1 Forgotten Ancient
+1 Aven Mimeomancer
+1 Gluntch, the Bestower
+1 Loran of the Third Path
+1 Ezuri, Stalker of Spheres
+1 Grateful Apparition
+1 Cankerbloom
+1 Thrummingbird
+1 Filigree Vector
+1 Rishkar, Peema Renegade
+1 Hylda of the Icy Crown
+1 Sharae of Numbing Depths
+1 Danny Pink
+1 Evolution Witness
+1 Metastatic Evangel
+1 Dreamtide Whale
+1 Sokrates, Athenian Teacher
+1 Sheltering Ancient
+1 Contagion Engine
+1 Magnetic Web
+1 Chromatic Lantern
+1 Sol Ring
+1 Lightning Greaves
+1 Hylda's Crown of Winter
+1 Talisman of Unity
+1 Contagion Clasp
+1 Thought Vessel
+1 Bounty Board
+1 Arcane Signet
+1 Everflowing Chalice
+1 Swords to Plowshares
+1 Inspiring Call
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Reins of Power
+1 Aetherize
+1 Stroke of Midnight
+1 Arcane Denial
+1 Path to Exile
+1 Cultivate
+1 Theft of Dreams
+1 Kodama's Reach
+1 Collective Effort
+1 Farseek
+1 Three Visits
+1 Requisition Raid
+1 Austere Command
+1 Farewell
+1 Tezzeret's Gambit
+1 Evolutionary Escalation
+1 Together Forever
+1 Verity Circle
+1 Tolarian Contempt
+1 Solitary Sanctuary
+1 Duelist's Heritage
+1 Propaganda
+1 Ajani Steadfast
+1 Reliquary Tower
+1 Exotic Orchard
+1 Oran-Rief, the Vastwood
+1 Deserted Beach
+1 Command Tower
+1 Tyrite Sanctum
+1 Radiant Grove
+1 Razorverge Thicket
+1 Krosan Verge
+1 Prairie Stream
+1 Skycloud Expanse
+1 Rogue's Passage
+1 Sungrass Prairie
+1 Temple of Plenty
+1 Hinterland Harbor
+1 Adarkar Wastes
+1 Port Town
+1 Temple of Enlightenment
+1 Yavimaya Coast
+1 Vineglimmer Snarl
+1 Temple of Mystery
+1 Glacial Fortress
+4 Island
+4 Plains
+5 Forest
+Sideboard
+1 Kros, Defense Contractor

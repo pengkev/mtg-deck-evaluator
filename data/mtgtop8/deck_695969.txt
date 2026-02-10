@@ -1,0 +1,101 @@
+1 Spellskite
+1 Phyrexian Metamorph
+1 Aphetto Alchemist
+1 Arbor Elf
+1 Sylvan Safekeeper
+1 Lotus Cobra
+1 Scute Swarm
+1 Llanowar Elves
+1 Unctus, Grand Metatect
+1 Seeker of Skybreak
+1 Delighted Halfling
+1 Elvish Mystic
+1 Birds of Paradise
+1 Flesh Duplicate
+1 Volatile Stormdrake
+1 Springheart Nantuko
+1 Elvish Herder
+1 Fyndhorn Elves
+1 Trinket Mage
+1 Endurance
+1 Allosaurus Shepherd
+1 Pollywog Prodigy
+1 Mox Diamond
+1 Chrome Mox
+1 Mana Crypt
+1 Lightning Greaves
+1 Shuko
+1 Umbral Mantle
+1 Jeweled Lotus
+1 Sol Ring
+1 The One Ring
+1 Lotus Petal
+1 Veil of Summer
+1 Crop Rotation
+1 Chain of Vapor
+1 Flusterstorm
+1 Swan Song
+1 Mindbreak Trap
+1 Summoner's Pact
+1 March of Swirling Mist
+1 Snap
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Force of Will
+1 Worldly Tutor
+1 Noxious Revival
+1 Legolas's Quick Reflexes
+1 Pact of Negation
+1 Chord of Calling
+1 Archdruid's Charm
+1 Sea Kings' Blessing
+1 Sylvan Paradise
+1 Sway of Illusion
+1 Mental Misstep
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Neoform
+1 Green Sun's Zenith
+1 Rhystic Study
+1 Mystic Remora
+1 Earthcraft
+1 Unnatural Selection
+1 Urza's Saga
+1 Wild Growth
+1 Utopia Sprawl
+1 Invasion of Ikoria
+1 Forest
+1 Island
+1 Gaea's Cradle
+1 Snow-Covered Forest
+1 Dryad Arbor
+1 Command Tower
+1 Scalding Tarn
+1 Misty Rainforest
+1 Polluted Delta
+1 Ancient Tomb
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Command Beacon
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Gemstone Caverns
+1 Rejuvenating Springs
+1 Breeding Pool
+1 Cavern of Souls
+1 Waterlogged Grove
+1 Hedge Maze
+1 Field of the Dead
+1 Flooded Strand
+1 Windswept Heath
+1 Shifting Woodland
+1 Prismatic Vista
+1 Tropical Island
+1 Snow-Covered Island
+1 Talon Gates of Madara
+Sideboard
+1 Nadu, Winged Wisdom

@@ -1,0 +1,85 @@
+1 Archaeomancer
+1 Azure Beastbinder
+1 Dauntless Dismantler
+1 Dour Port-Mage
+1 Emrakul's Messenger
+1 Felidar Guardian
+1 Hedron Crawler
+1 Hydroelectric Specimen
+1 Karfell Harbinger
+1 Kitesail Larcenist
+1 Naban, Dean of Iteration
+1 Naru Meha, Master Wizard
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Pegasus Guardian
+1 Pelargir Survivor
+1 Peregrine Drake
+1 Phelia, Exuberant Shepherd
+1 Reflector Mage
+1 Resolute Watchdog
+1 Restoration Angel
+1 Scheming Fence
+1 Soulless Jailer
+1 Vodalian Arcanist
+1 Volshe Tideturner
+1 Wall of Omens
+1 Wall of Runes
+1 Altar of the Brood
+1 Arcane Signet
+1 Azorius Signet
+1 Relic of Legends
+1 Springleaf Drum
+1 Talisman of Progress
+1 Thought Vessel
+1 Weathered Runestone
+1 Acrobatic Maneuver
+1 Blur
+1 Cloudshift
+1 Commandeer
+1 Dispel
+1 Displace
+1 Ephemerate
+1 Essence Flux
+1 Flicker of Fate
+1 Foil
+1 Generous Gift
+1 Getaway Glamer
+1 Ghostly Flicker
+1 Illusionist's Stratagem
+1 Momentary Blink
+1 Mystical Dispute
+1 Negate
+1 Parting Gust
+1 Planar Incision
+1 Reality Shift
+1 Resculpt
+1 Scrollshift
+1 Siren's Ruse
+1 Slip On the Ring
+1 Snap
+1 Snapback
+1 Spell Pierce
+1 Swords to Plowshares
+1 Wash Away
+1 Dusk/Dawn
+1 Splash Portal
+1 Blind Obedience
+1 Touch the Spirit Realm
+1 Adarkar Wastes
+1 Ash Barrens
+1 Azorius Chancery
+1 Command Tower
+1 Exotic Orchard
+1 Glacial Fortress
+1 Irrigated Farmland
+9 Island
+1 Path of Ancestry
+9 Plains
+1 Port Town
+1 Prairie Stream
+1 Riptide Laboratory
+1 Skycloud Expanse
+1 Sunscorched Desert
+Sideboard
+1 Plagon, Lord of the Beach

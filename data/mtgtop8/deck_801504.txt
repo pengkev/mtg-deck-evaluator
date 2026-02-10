@@ -1,0 +1,88 @@
+1 Ao, the Dawn Sky
+1 Arachne, Psionic Weaver
+1 Archivist of Oghma
+1 Ayara, First of Locthwain
+1 Bartolomé del Presidio
+1 Boromir, Warden of the Tower
+1 Containment Priest
+1 Deep Gnome Terramancer
+1 Delney, Streetwise Lookout
+1 Drana and Linvala
+1 Drannith Magistrate
+1 Drivnod, Carnage Dominus
+1 Elas il-Kor, Sadistic Pilgrim
+1 Esper Sentinel
+1 Gollum, Patient Plotter
+1 Gonti, Lord of Luxury
+1 Hoarding Broodlord
+1 Kambal, Consul of Allocation
+1 Lotho, Corrupt Shirriff
+1 Mikaeus, the Unhallowed
+1 Mondrak, Glory Dominus
+1 Nazgul
+1 Ocelot Pride
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ranger-Captain of Eos
+1 Rev, Tithe Extractor
+1 Roaming Throne
+1 Sheoldred, the Apocalypse
+1 Skyclave Apparition
+1 Tataru Taru
+1 Teysa Karlov
+1 Tymna the Weaver
+1 Walking Ballista
+1 Warren Soultrader
+1 Yawgmoth, Thran Physician
+1 Agatha's Soul Cauldron
+1 Altar of Dementia
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Orzhov Signet
+1 Phyrexian Altar
+1 Relic of Legends
+1 Sol Ring
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Entomb
+1 Flare of Fortitude
+1 Flare of Malice
+1 Sacrifice
+1 Saw in Half
+1 Silence
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Come Back Wrong
+1 Demonic Tutor
+1 Diabolic Intent
+1 Imperial Seal
+1 Animate Dead
+1 Anointed Procession
+1 Call of the Ring
+1 Caretaker's Talent
+1 Deafening Silence
+1 Heartless Summoning
+1 Kaya's Ghostform
+1 Smothering Tithe
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Godless Shrine
+1 High Market
+1 Marsh Flats
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Tower
+8 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Scrubland
+1 Shadowy Backstreet
+7 Swamp
+Sideboard
+1 Ratadrabik of Urborg

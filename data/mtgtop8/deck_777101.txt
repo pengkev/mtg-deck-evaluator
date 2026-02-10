@@ -1,0 +1,101 @@
+1 Adeline, Resplendent Cathar
+1 Ainok Strike Leader
+1 Ajani, Nacatl Pariah
+1 Allosaurus Shepherd
+1 Anim Pakal, Thousandth Moon
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloom Tender
+1 Boromir, Warden of the Tower
+1 Burning-Tree Emissary
+1 Champion of Lambholt
+1 Chittering Dispatcher
+1 Collector Ouphe
+1 Crashing Drawbridge
+1 Dalkovan Packbeasts
+1 Delighted Halfling
+1 Devilish Valet
+1 Drannith Magistrate
+1 Eladamri, Korvecdal
+1 Elvish Mystic
+1 Endurance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Faeburrow Elder
+1 Fallaji Wayfarer
+1 Fanatic of Rhonas
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Gogo, Mysterious Mime
+1 Grand Abolisher
+1 Llanowar Elves
+1 Ocelot Pride
+1 Ouroboroid
+1 Polygoyf
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Scurry of Squirrels
+1 Selvala, Heart of the Wilds
+1 Serra Ascendant
+1 Shelinda, Yevon Acolyte
+1 Stadium Headliner
+1 Sumala Rumblers
+1 Sylvan Safekeeper
+1 The Jolly Balloon Man
+1 Tifa, Martial Artist
+1 Tuktuk Rubblefort
+1 Voice of Victory
+1 Watchful Radstag
+1 Weathered Wayfarer
+1 Winota, Joiner of Forces
+1 Wyrm's Crossing Patrol
+1 Artifact Mutation
+1 Aura Mutation
+1 Chord of Calling
+1 Crop Rotation
+1 Eladamri's Call
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Indulge/Excess
+1 Nature's Rhythm
+1 Song of Totentanz
+1 Deafening Silence
+1 Invasion of Ikoria
+1 Basri Ket
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 City of Brass
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Horizon Canopy
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Plains
+1 Plateau
+1 Sacred Foundry
+1 Savannah
+1 Scalding Tarn
+1 Sokenzan, Crucible of Defiance
+1 Sunbaked Canyon
+1 Taiga
+1 Tarnished Citadel
+1 Temple Garden
+1 Thran Quarry
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Jetmir, Nexus of Revels

@@ -1,0 +1,79 @@
+1 Goblin Electromancer
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Mocking Sprite
+1 Storm-Kiln Artist
+1 Pinnacle Monk
+1 Stormcatch Mentor
+1 Archmage of Runes
+1 Archmage Emeritus
+1 Quistis Trepe
+1 Laboratory Maniac
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Springleaf Drum
+1 Primal Amulet
+1 Fellwar Stone
+1 Stone of Erech
+1 Cursed Mirror
+1 Run Away Together
+1 Chaos Warp
+1 Counterspell
+1 Discontinuity
+1 Unsummon
+1 Brainstorm
+1 Dispel
+1 Dissipate
+1 Searing Touch
+1 Flusterstorm
+1 Fists of Flame
+1 Reduce/Rubble
+1 Whirlwind Denial
+1 Stubborn Denial
+1 Fury Storm
+1 Reality Shift
+1 Spell Crumple
+1 Wash Away
+1 Spell Pierce
+1 Make Disappear
+1 Frantic Search
+1 Borne Upon a Wind
+1 Arcane Denial
+1 Unexpected Windfall
+1 Brainsurge
+1 Brain Freeze
+1 Untimely Malfunction
+1 Summary Dismissal
+1 Disallow
+1 Prismari Command
+1 An Offer You Can't Refuse
+1 Big Score
+1 Faithless Looting
+1 Preordain
+1 Grapeshot
+1 Jaya's Immolating Inferno
+1 Haze of Rage
+1 Expressive Iteration
+1 Strike It Rich
+1 Pirate's Pillage
+1 Sleight of Hand
+1 Rite of Flame
+1 Electroduplicate
+1 Wild Ride
+1 Curiosity
+1 Underworld Breach
+1 Amphibian Downpour
+1 Utter Insignificance
+1 Artist's Talent
+12 Island
+12 Mountain
+1 Emergence Zone
+1 Shivan Reef
+1 Field of Ruin
+1 Mikokoro, Center of the Sea
+1 Reliquary Tower
+1 Sulfur Falls
+1 Command Tower
+Sideboard
+1 Vivi Ornitier

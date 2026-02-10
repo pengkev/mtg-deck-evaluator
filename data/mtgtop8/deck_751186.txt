@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Arcbound Ravager
+1 Birds of Paradise
+1 Colossal Skyturtle
+1 Delighted Halfling
+1 Devoted Druid
+1 Elvish Spirit Guide
+1 Extruder
+1 Faerie Mastermind
+1 Forensic Gadgeteer
+1 Kinnan, Bonder Prodigy
+1 Piper Wright, Publick Reporter
+1 Spark Double
+1 Spellseeker
+1 Spellskite
+1 Thassa's Oracle
+1 Transit Mage
+1 Tribute Mage
+1 Trinket Mage
+1 Trophy Mage
+1 Urza, Lord High Artificer
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Altar of the Brood
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Grinding Station
+1 Imposter Mech
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Opal
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Talisman of Curiosity
+1 Tarrian's Soulcleaver
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Charge Through
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Into the Flood Maw
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Nature's Claim
+1 Noxious Revival
+1 Pact of Negation
+1 Sink into Stupor
+1 Spell Pierce
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Fabricate
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Neoform
+1 Windfall
+1 Carpet of Flowers
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Buried Ruin
+1 City of Brass
+1 Command Tower
+1 Forest
+1 Gemstone Caverns
+1 Hedge Maze
+1 Island
+1 Mana Confluence
+1 Mikokoro, Center of the Sea
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Seat of the Synod
+1 Tree of Tales
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Lonis, Genetics Expert

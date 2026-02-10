@@ -1,0 +1,92 @@
+1 Consecrated Sphinx
+1 Burning-Rune Demon
+1 Serra's Emissary
+1 Elesh Norn, Grand Cenobite
+1 Jin-Gitaxias, Progress Tyrant
+1 Ghostly Pilferer
+1 Sheoldred, the Apocalypse
+1 Vohar, Vodalian Desecrator
+1 Elesh Norn, Mother of Machines
+1 Mondrak, Glory Dominus
+1 Drana and Linvala
+1 Orcish Bowmasters
+1 Notion Thief
+1 Rune-Scarred Demon
+1 Likeness Looter
+1 Moonshaker Cavalry
+1 Lavinia, Azorius Renegade
+1 Massacre Wurm
+1 Sun Titan
+1 Psychic Frog
+1 Archon of Cruelty
+1 Skyclave Apparition
+1 Pollywog Prodigy
+1 Angel of the Ruins
+1 Archon of Emeria
+1 Overlord of the Floodpits
+1 Valgavoth, Terror Eater
+1 Dreadwing Scavenger
+1 Hullbreaker Horror
+1 Sheoldred, Whispering One
+1 Marneus Calgar
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Arcane Signet
+1 Talisman of Progress
+1 Matzalantli, the Great Door
+1 Sol Ring
+1 Monument to Endurance
+1 Cyclonic Rift
+1 Negate
+1 Disenchant
+1 Swords to Plowshares
+1 Baleful Mastery
+1 Arcane Denial
+1 Vampiric Tutor
+1 An Offer You Can't Refuse
+1 Enlightened Tutor
+1 Wake the Dead
+1 Akroma's Will
+1 Path to Exile
+1 Infernal Grasp
+1 Dovin's Veto
+1 Drown in the Loch
+1 Toxic Deluge
+1 Farewell
+1 Sevinne's Reclamation
+1 Austere Command
+1 Victimize
+1 Reanimate
+1 Grim Tutor
+1 Vanquish the Horde
+1 Animate Dead
+1 Tortured Existence
+1 Black Market Connections
+1 Phyrexian Arena
+4 Island
+4 Swamp
+3 Plains
+1 Command Tower
+1 Arcane Sanctum
+1 Evolving Wilds
+1 Prairie Stream
+1 Sunken Hollow
+1 Caves of Koilos
+1 Deserted Beach
+1 Shipwreck Marsh
+1 Drowned Catacomb
+1 Tainted Field
+1 Tainted Isle
+1 Isolated Chapel
+1 Polluted Delta
+1 Adarkar Wastes
+1 Underground River
+1 Exotic Orchard
+1 Glacial Fortress
+1 Terramorphic Expanse
+1 Obscura Storefront
+1 Gloomlake Verge
+1 Bleachbone Verge
+1 Accursed Duneyard
+Sideboard
+1 Hashaton, Scarab's Fist

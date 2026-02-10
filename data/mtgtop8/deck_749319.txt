@@ -1,0 +1,101 @@
+1 Sylvan Safekeeper
+1 Fyndhorn Elves
+1 Gravecrawler
+1 Birds of Paradise
+1 Zulaport Cutthroat
+1 Elvish Spirit Guide
+1 Llanowar Elves
+1 Pitiless Plunderer
+1 Elvish Mystic
+1 Deathrite Shaman
+1 Dark Confidant
+1 Elves of Deep Shadow
+1 Gilded Goose
+1 Opposition Agent
+1 Prosperous Innkeeper
+1 Jadar, Ghoulcaller of Nephalia
+1 Delighted Halfling
+1 Lord Skitter, Sewer King
+1 Marionette Apprentice
+1 Warren Soultrader
+1 Chittering Dispatcher
+1 Darkstar Augur
+1 Vengeful Bloodwitch
+1 Frenzied Baloth
+1 Mox Amber
+1 Aether Vial
+1 Skullclamp
+1 Defense Grid
+1 Mana Vault
+1 Sol Ring
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Wishclaw Talisman
+1 Vexing Bauble
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Dark Ritual
+1 Autumn's Veil
+1 Chord of Calling
+1 Tainted Pact
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Force of Despair
+1 Force of Vigor
+1 Veil of Summer
+1 Deadly Rollick
+1 Verdant Command
+1 Deadly Dispute
+1 Rotten Reunion
+1 Legolas's Quick Reflexes
+1 Eldritch Evolution
+1 Demonic Tutor
+1 Reanimate
+1 Diabolic Intent
+1 Imperial Seal
+1 Grim Tutor
+1 Finale of Devastation
+1 Beseech the Mirror
+1 Lively Dirge
+1 Nature's Rhythm
+1 Wild Growth
+1 Utopia Sprawl
+1 Sylvan Library
+1 Contamination
+1 Carpet of Flowers
+1 Bastion of Remembrance
+1 Urza's Saga
+1 Black Market Connections
+1 Invasion of Ikoria
+1 Swamp
+1 Forest
+1 Blooming Marsh
+1 Llanowar Wastes
+1 City of Brass
+1 Cavern of Souls
+1 Twilight Mire
+1 Mana Confluence
+1 Bloodstained Mire
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Bayou
+1 Urborg, Tomb of Yawgmoth
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Phyrexian Tower
+1 Gemstone Caverns
+1 Command Tower
+1 Emergence Zone
+1 Nurturing Peatland
+1 Prismatic Vista
+1 Undergrowth Stadium
+1 Yavimaya, Cradle of Growth
+1 Spymaster's Vault
+1 Fountainport
+Sideboard
+1 Chatterfang, Squirrel General

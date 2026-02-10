@@ -1,0 +1,97 @@
+1 Elvish Reclaimer
+1 Sylvan Safekeeper
+1 Dosan the Falling Leaf
+1 Lotus Cobra
+1 Collector Ouphe
+1 Destiny Spinner
+1 Allosaurus Shepherd
+1 Ashaya, Soul of the Wild
+1 Timeless Witness
+1 Tireless Provisioner
+1 Tiller Engine
+1 Rootpath Purifier
+1 Nissa, Resurgent Animist
+1 Delighted Halfling
+1 Blossoming Tortoise
+1 Six
+1 Springheart Nantuko
+1 Aftermath Analyst
+1 Insidious Fungus
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Zuran Orb
+1 Trinisphere
+1 Expedition Map
+1 The One Ring
+1 Mox Diamond
+1 Amulet of Vigor
+1 Beast Within
+1 Crop Rotation
+1 Summoner's Pact
+1 Realms Uncharted
+1 Archdruid's Charm
+1 Chord of Calling
+1 Eldritch Evolution
+1 Life from the Loam
+1 Sylvan Scrying
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Scapeshift
+1 Nature's Rhythm
+1 Sylvan Library
+1 Manabond
+1 Song of the Dryads
+1 Food Chain
+1 Burgeoning
+1 Exploration
+1 Urza's Saga
+1 Spelunking
+1 Invasion of Ikoria
+3 Forest
+3 Snow-Covered Forest
+1 Castle Garenbrig
+1 Fabled Passage
+1 Ghost Quarter
+1 Strip Mine
+1 Field of the Dead
+1 Geier Reach Sanitarium
+1 Sanctum of Eternity
+1 Havenwood Battleground
+1 City of Traitors
+1 Wasteland
+1 Jungle Basin
+1 Cavern of Souls
+1 Ancient Tomb
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Mouth of Ronom
+1 Hickory Woodlot
+1 Emergence Zone
+1 Prismatic Vista
+1 Sunscorched Desert
+1 Crystal Vein
+1 Gaea's Cradle
+1 Crumbling Vestige
+1 Mirrorpool
+1 Vesuva
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Arid Archway
+1 Urza's Cave
+1 Shifting Woodland
+1 Pit of Offerings
+1 Horizon of Progress
+1 Lazotep Quarry
+1 Talon Gates of Madara
+1 Tranquil Thicket
+1 Lotus Field
+1 Buried Ruin
+1 Command Beacon
+1 Gemstone Caverns
+1 Conduit Pylons
+1 Hidden Grotto
+Sideboard
+1 Lumra, Bellow of the Woods

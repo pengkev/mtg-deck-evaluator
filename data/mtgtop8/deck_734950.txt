@@ -1,0 +1,92 @@
+1 Aerial Extortionist
+1 Anim Pakal, Thousandth Moon
+1 Banquet Guests
+1 Baylen, the Haymaker
+1 Boromir, Warden of the Tower
+1 Bulwark Ox
+1 Dragonhawk, Fate's Tempest
+1 Emberheart Challenger
+1 Evolution Witness
+1 Feasting Hobbit
+1 Generous Pup
+1 Gilded Goose
+1 Graham O'Brien
+1 Halana and Alena, Partners
+1 Hamza, Guardian of Arashin
+1 Heartfire Hero
+1 Hugs, Grisly Guardian
+1 Jaheira, Friend of the Forest
+1 Kami of Whispered Hopes
+1 Laelia, the Blade Reforged
+1 Party Thrasher
+1 Peregrin Took
+1 Pia Nalaar, Consul of Revival
+1 Reckless Fireweaver
+1 Rosie Cotton of South Lane
+1 Runaway Steam-Kin
+1 Samwise Gamgee
+1 Selfless Spirit
+1 Sentinel Sarah Lyons
+1 Shalai and Hallar
+1 Stridehangar Automaton
+1 Sunshot Militia
+1 Urabrask, Heretic Praetor
+1 Yotian Dissident
+1 Arcane Signet
+1 Dowsing Device
+1 Inspiring Statuary
+1 Memory Vessel
+1 Swiftfoot Boots
+1 Unstable Amulet
+1 Dispatch
+1 Soul Partition
+1 Transforming Flourish
+1 Zoyowa's Justice
+1 Bridgeworks Battle
+1 Contest of Claws
+1 Embrace the Unknown
+1 Escape to the Wilds
+1 Explore
+1 Farseek
+1 Impending Flux
+1 Rampant Growth
+1 Stump Stomp
+1 Sundering Eruption
+1 Volcanic Torrent
+1 Zenith Festival
+1 Annie Joins Up
+1 Felidar Retreat
+1 Hardened Scales
+1 Invasion of Gobakhan
+1 Night of the Sweets' Revenge
+1 Passionate Archaeologist
+1 Rhythm of the Wild
+1 Showdown of the Skalds
+1 Uncivil Unrest
+1 Quintorius Kand
+1 Battlefield Forge
+1 Boros Garrison
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+4 Forest
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Gruul Turf
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Mosswort Bridge
+4 Mountain
+4 Plains
+1 Rugged Prairie
+1 Selesnya Sanctuary
+1 Sheltering Landscape
+1 Spinerock Knoll
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+Sideboard
+1 Rocco, Street Chef

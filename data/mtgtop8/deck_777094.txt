@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Displacer Kitten
+1 Enduring Vitality
+1 Esper Sentinel
+1 Eternal Witness
+1 Faeburrow Elder
+1 Faerie Mastermind
+1 Goblin Engineer
+1 Kinnan, Bonder Prodigy
+1 Kutzil, Malamet Exemplar
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Seedborn Muse
+1 Tataru Taru
+1 Valley Floodcaller
+1 Voice of Victory
+1 Zirda, the Dawnwaker
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Imposter Mech
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mind Stone
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Springleaf Drum
+1 Vexing Bauble
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Chain of Vapor
+1 Chord of Calling
+1 Crop Rotation
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flare of Duplication
+1 Flusterstorm
+1 Force of Will
+1 Mindbreak Trap
+1 Noxious Revival
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Silence
+1 Snap
+1 Swan Song
+1 Swords to Plowshares
+1 Veil of Summer
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Nature's Rhythm
+1 Neoform
+1 Wheel of Fortune
+1 Freed from the Real
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Underworld Breach
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Sacred Foundry
+1 Scalding Tarn
+1 Starting Town
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 The Mycosynth Gardens
+1 Tundra
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Akiri, Line-Slinger
+1 Thrasios, Triton Hero

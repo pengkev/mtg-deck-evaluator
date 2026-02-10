@@ -1,0 +1,98 @@
+1 Adeline, Resplendent Cathar
+1 Ainok Strike Leader
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Boromir, Warden of the Tower
+1 Charismatic Conqueror
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Dauntless Dismantler
+1 Deep Gnome Terramancer
+1 Delighted Halfling
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Dualcaster Mage
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Fyndhorn Elves
+1 Grand Abolisher
+1 Heartwood Storyteller
+1 Hushbringer
+1 Hushwing Gryff
+1 Imperial Recruiter
+1 Kataki, War's Wage
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Mother of Runes
+1 Ocelot Pride
+1 Professional Face-Breaker
+1 Purphoros, God of the Forge
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Scurry of Squirrels
+1 Serra Ascendant
+1 Simian Spirit Guide
+1 Slicer, Hired Muscle
+1 Solitude
+1 Thalia, Guardian of Thraben
+1 Toski, Bearer of Secrets
+1 Voice of Victory
+1 Winota, Joiner of Forces
+1 Skullclamp
+1 Sol Ring
+1 The One Ring
+1 Angel's Grace
+1 Artifact Mutation
+1 Chord of Calling
+1 Eladamri's Call
+1 Force of Vigor
+1 Path to Exile
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Twinflame
+1 Wheel of Fortune
+1 Deafening Silence
+1 High Noon
+1 Rest in Peace
+1 Root Maze
+1 Sylvan Library
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+2 Mountain
+2 Plains
+1 Plateau
+1 Sacred Foundry
+1 Savannah
+1 Scalding Tarn
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Jetmir, Nexus of Revels

@@ -1,0 +1,101 @@
+1 Sakashima's Student
+1 Narcomoeba
+1 Razaketh, the Foulblooded
+1 Hope of Ghirapur
+1 Mothdust Changeling
+1 Changeling Outcast
+1 Faerie Seer
+1 Phyrexian Metamorph
+1 Thassa's Oracle
+1 Nezahal, Primal Tide
+1 Opposition Agent
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Thousand-Faced Shadow
+1 Ghostly Pilferer
+1 Ornithopter
+1 Hoarding Broodlord
+1 Hidetsugu and Kairi
+1 Orcish Bowmasters
+1 Notion Thief
+1 Ingenious Prodigy
+1 Flesh Duplicate
+1 Psychic Frog
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Dauthi Voidwalker
+1 Ingenious Infiltrator
+1 Basalt Monolith
+1 Chrome Mox
+1 Mesmeric Orb
+1 Mox Diamond
+1 Mox Amber
+1 Mana Vault
+1 Talisman of Dominance
+1 Arcane Signet
+1 Sol Ring
+1 Lotus Petal
+1 Culling the Weak
+1 Cabal Ritual
+1 Sacrifice
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Demonic Consultation
+1 Swan Song
+1 Dark Ritual
+1 Flusterstorm
+1 Mindbreak Trap
+1 Tainted Pact
+1 Pact of Negation
+1 Saw in Half
+1 Force of Will
+1 Vampiric Tutor
+1 Entomb
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Flare of Malice
+1 Sink into Stupor
+1 Fell the Profane
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Flare of Denial
+1 Enter the Infinite
+1 Expropriate
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Breach the Multiverse
+1 Toxic Deluge
+1 Demonic Tutor
+1 Dread Return
+1 Rise of the Eldrazi
+1 Peer into the Abyss
+1 Reanimate
+1 Rhystic Study
+1 Dance of the Dead
+1 Animate Dead
+1 Necromancy
+1 Watery Grave
+1 Phyrexian Tower
+1 Scalding Tarn
+1 Underground Sea
+1 Mana Confluence
+1 Clearwater Pathway
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Morphic Pool
+1 Command Tower
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Cephalid Coliseum
+1 Cabal Pit
+1 Gloomlake Verge
+1 Swamp
+1 Island
+1 Shizo, Death's Storehouse
+Sideboard
+1 Yuriko, the Tiger's Shadow

@@ -1,0 +1,90 @@
+1 Braids, Arisen Nightmare
+1 Corpse Knight
+1 Cruel Celebrant
+1 Death Tyrant
+1 Elas il-Kor, Sadistic Pilgrim
+1 Emrakul's Messenger
+1 Faerie Artisans
+1 Hanweir Militia Captain
+1 Homunculus Horde
+1 Inquisitor Greyfax
+1 Kambal, Profiteering Mayor
+1 Lord Skitter, Sewer King
+1 Lotho, Corrupt Shirriff
+1 Mischievous Mystic
+1 Monastery Mentor
+1 Nadier's Nightblade
+1 Nadir Kraken
+1 Prince Imrahil the Fair
+1 Teysa Karlov
+1 Thalisse, Reverent Medium
+1 Voice of Victory
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Chromatic Lantern
+1 Decanter of Endless Water
+1 Shorikai, Genesis Engine
+1 Sol Ring
+1 Staff of the Storyteller
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Thopter Fabricator
+1 Thought Vessel
+1 Afterlife Insurance
+1 Anguished Unmaking
+1 Beckon Apparition
+1 Counterspell
+1 Deny the Witch
+1 Despark
+1 Jwari Disruption
+1 Moogles' Valor
+1 Mortify
+1 Negate
+1 Path to Exile
+1 Protect the Negotiators
+1 Restoration Magic
+1 Rotten Reunion
+1 Swords to Plowshares
+1 Void Rend
+1 Wash Away
+1 Withering Torment
+1 Hour of Reckoning
+1 Martial Coup
+1 White Sun's Twilight
+1 Authority of the Consuls
+1 Bastion of Remembrance
+1 Divine Visitation
+1 Funeral Room/Awakening Hall
+1 Ghostly Prison
+1 Propaganda
+1 Rabble Rousing
+1 Elspeth, Knight-Errant
+1 Elspeth, Storm Slayer
+1 Kaya, Spirits' Justice
+1 Teferi, Temporal Pilgrim
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Blast Zone
+1 Castle Ardenvale
+1 Caves of Koilos
+1 Command Tower
+1 Desolate Mire
+1 Drowned Catacomb
+1 Fountainport
+1 Glacial Fortress
+5 Island
+1 Isolated Chapel
+1 Mirrex
+1 Path of Ancestry
+4 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Skycloud Expanse
+1 Sunken Hollow
+5 Swamp
+1 Tainted Field
+1 Tainted Isle
+1 Vault of the Archangel
+Sideboard
+1 Marneus Calgar

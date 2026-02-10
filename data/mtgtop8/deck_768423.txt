@@ -1,0 +1,76 @@
+1 Adeliz, the Cinder Wind
+1 Archmage Emeritus
+1 Dragon's Rage Channeler
+1 Dreadhorde Arcanist
+1 Goblin Electromancer
+1 Guttersnipe
+1 Haughty Djinn
+1 Mischievous Mystic
+1 Mocking Sprite
+1 Murmuring Mystic
+1 Searslicer Goblin
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Stormsplitter
+1 Talrand, Sky Summoner
+1 Vadrik, Astral Archmage
+1 Young Pyromancer
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Abrade
+1 An Offer You Can't Refuse
+1 Arcane Epiphany
+1 Battle Hymn
+1 Big Score
+1 Brainstorm
+1 Chaos Warp
+1 Consider
+1 Counterspell
+1 Dig Through Time
+1 Frantic Search
+1 Goblin Surprise
+1 Meeting of Minds
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Rowdy Research
+1 Seething Song
+1 Silundi Vision
+1 Twinferno
+1 Wizard's Retort
+1 Curse of the Swine
+1 Deep Analysis
+1 Empty the Warrens
+1 Expressive Iteration
+1 Faithless Looting
+1 Gitaxian Probe
+1 Glimpse the Impossible
+1 Haze of Rage
+1 Inspired Tinkering
+1 Krenko's Command
+1 Mizzix's Mastery
+1 Ponder
+1 Preordain
+1 Rally at the Hornburg
+1 Serum Visions
+1 Strike It Rich
+1 Sundering Eruption
+1 Treasure Cruise
+1 Winged Words
+1 Amphibian Downpour
+1 Case of the Ransacked Lab
+1 Curiosity
+1 Curious Obsession
+1 Fiery Inscription
+1 Saheeli, Sublime Artificer
+1 Command Tower
+1 Exotic Orchard
+14 Island
+1 Izzet Boilerworks
+1 Kher Keep
+13 Mountain
+1 Shivan Reef
+1 Sulfur Falls
+Sideboard
+1 Balmor, Battlemage Captain

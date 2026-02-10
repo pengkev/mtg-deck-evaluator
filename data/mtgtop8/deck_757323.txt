@@ -1,0 +1,76 @@
+1 Adelbert Steiner
+1 Ardenn, Intrepid Archaeologist
+1 Armored Skyhunter
+1 Ashe, Princess of Dalmasca
+1 Bastion Protector
+1 Beatrix, Loyal General
+1 Bronze Guardian
+1 Cid, Freeflier Pilot
+1 Cloudsteel Kirin
+1 Danitha Capashen, Paragon
+1 Delivery Moogle
+1 Elena, Turk Recruit
+1 Eowyn, Lady of Rohan
+1 Foundry Inspector
+1 Helitrooper
+1 Leonin Abunas
+1 Lion Sash
+1 Puresteel Paladin
+1 Sram, Senior Edificer
+1 Starnheim Courser
+1 Thalia, Heretic Cathar
+1 Weapons Vendor
+1 Witch Enchanter
+1 Zack Fair
+1 Adaptive Omnitool
+1 Aettir and Priwen
+1 Arcane Signet
+1 Argentum Armor
+1 Basilisk Collar
+1 Caduceus, Staff of Hermes
+1 Champion's Helm
+1 Colossus Hammer
+1 Darksteel Plate
+1 Genji Glove
+1 Leyline Axe
+1 Lightning Greaves
+1 Masterwork of Ingenuity
+1 Mjölnir, Storm Hammer
+1 Pip-Boy 3000
+1 Relic of Legends
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Sword of Vengeance
+1 The Wind Crystal
+1 Thran Power Suit
+1 Trailblazer's Boots
+1 White Auracite
+1 Battle Menu
+1 Blacksmith's Skill
+1 Cloud's Limit Break
+1 Dispatch
+1 Mana Tithe
+1 Restoration Magic
+1 Slash of Light
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Ultimate Magic: Holy
+1 Aerith Rescue Mission
+1 Austere Command
+1 Ishgard, the Holy See
+1 Open the Vaults
+1 Steelshaper's Gift
+1 Unfinished Business
+1 Vanquish the Horde
+1 Forge Anew
+1 Adventurer's Inn
+1 Buried Ruin
+1 Monumental Henge
+26 Plains
+1 Rogue's Passage
+1 Secluded Starforge
+1 Temple of the False God
+1 The Gold Saucer
+Sideboard
+1 Cloud, Midgar Mercenary

@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Aven Interrupter
+1 Boromir, Warden of the Tower
+1 Consecrated Sphinx
+1 Displacer Kitten
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Hullbreaker Horror
+1 Lavinia, Azorius Renegade
+1 Mockingbird
+1 Phyrexian Metamorph
+1 Ranger-Captain of Eos
+1 Scrawling Crawler
+1 Spellskite
+1 Tataru Taru
+1 Valley Floodcaller
+1 Voice of Victory
+1 Volatile Stormdrake
+1 Wan Shi Tong, Librarian
+1 Wandering Archaic
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Damping Sphere
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Memory Jar
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Sonic Screwdriver
+1 Talisman of Progress
+1 The One Ring
+1 Torpor Orb
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Commandeer
+1 Cyclonic Rift
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mental Misstep
+1 Mindbreak Trap
+1 Orim's Chant
+1 Pact of Negation
+1 Path to Exile
+1 Silence
+1 Soul Partition
+1 Swan Song
+1 Swords to Plowshares
+1 Trickbind
+1 Vision Skeins
+1 Words of Wisdom
+1 Day's Undoing
+1 Echo of Eons
+1 Timetwister
+1 Windfall
+1 Amphibian Downpour
+1 Blind Obedience
+1 Mind Over Matter
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Ancient Den
+1 Ancient Tomb
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plains
+1 Polluted Delta
+1 Scalding Tarn
+1 Sea of Clouds
+1 Seat of the Synod
+1 Starting Town
+1 Tundra
+1 Windswept Heath
+Sideboard
+1 Heliod, the Radiant Dawn

@@ -1,0 +1,92 @@
+1 Darkstar Augur
+1 Hullbreaker Horror
+1 Kambal, Consul of Allocation
+1 Malcolm, Alluring Scoundrel
+1 Talion, the Kindly Lord
+1 Tivit, Seller of Secrets
+1 Valley Floodcaller
+1 Vohar, Vodalian Desecrator
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Insight Engine
+1 Orzhov Signet
+1 Scale of Chiss-Goria
+1 Sol Ring
+1 Staff of Compleation
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Time Sieve
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Arcane Denial
+1 Baleful Mastery
+1 Bovine Intervention
+1 Counterspell
+1 Dark Ritual
+1 Dig Through Time
+1 Disallow
+1 Dismember
+1 Dispel
+1 Dovin's Veto
+1 Drown in the Loch
+1 Fact or Fiction
+1 Frantic Search
+1 Generous Gift
+1 Hostile Negotiations
+1 Into the Roil
+1 Leadership Vacuum
+1 Lim-Dul's Vault
+1 Lose Focus
+1 Mandate of Peace
+1 Mystical Teachings
+1 Reality Shift
+1 Retraction Helix
+1 Scour for Scrap
+1 Silundi Vision
+1 Spell Pierce
+1 Swords to Plowshares
+1 Unauthorized Exit
+1 Vanishing Verse
+1 Waterlogged Teachings
+1 Whirlwind Denial
+1 Consuming Tide
+1 Coveted Prize
+1 Diabolic Tutor
+1 Final Parting
+1 Irenicus's Vile Duplication
+1 Reanimate
+1 Ringsight
+1 Ritual of Soot
+1 Sevinne's Reclamation
+1 Step Through
+1 Yahenni's Expertise
+1 Amphibian Downpour
+1 Arguel's Blood Fast
+1 Curiosity
+1 Ashiok, Dream Render
+1 Narset, Parter of Veils
+1 Arcane Sanctum
+1 Azorius Chancery
+1 Caves of Koilos
+1 Cephalid Coliseum
+1 Command Tower
+1 Contaminated Landscape
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Exotic Orchard
+1 Glacial Fortress
+4 Island
+1 Isolated Chapel
+1 Path of Ancestry
+4 Plains
+1 Prairie Stream
+1 Skycloud Expanse
+1 Spire of Industry
+1 Sunken Hollow
+4 Swamp
+1 Tainted Isle
+Sideboard
+1 Y'shtola, Night's Blessed

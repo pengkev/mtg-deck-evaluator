@@ -1,0 +1,98 @@
+1 Archon of Emeria
+1 Armored Scrapgorger
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Bartolomé del Presidio
+1 Birds of Paradise
+1 Bloom Tender
+1 Cankerbloom
+1 Carrion Feeder
+1 Circle of Dreams Druid
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Devoted Druid
+1 Eidolon of Rhetoric
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Eternal Witness
+1 Ethersworn Canonist
+1 Faeburrow Elder
+1 Fiend Artisan
+1 Frenzied Baloth
+1 Grand Abolisher
+1 Hallowed Spiritkeeper
+1 Icatian Moneychanger
+1 Managorger Hydra
+1 Manglehorn
+1 Marionette Apprentice
+1 Marvin, Murderous Mimic
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Patrolling Peacemaker
+1 Ranger-Captain of Eos
+1 Rishkar, Peema Renegade
+1 Sheriff of Safe Passage
+1 Skyclave Apparition
+1 Strangleroot Geist
+1 Timeline Culler
+1 Voice of Victory
+1 Wall of Roots
+1 Warden of the Grove
+1 White Plume Adventurer
+1 Wight of the Reliquary
+1 Young Wolf
+1 Collector's Cage
+1 Sol Ring
+1 Staff of Compleation
+1 Thousand-Year Elixir
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Chord of Calling
+1 Crop Rotation
+1 Entomb
+1 Krosan Grip
+1 Lethal Scheme
+1 Swords to Plowshares
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Sevinne's Reclamation
+1 Cryptolith Rite
+1 Deafening Silence
+1 Growing Rites of Itlimoc
+1 Innkeeper's Talent
+1 Insidious Roots
+1 Nissa, Voice of Zendikar
+1 Tyvar, Jubilant Brawler
+1 Ancient Tomb
+1 Bayou
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Centaur Garden
+1 Command Tower
+1 Dryad Arbor
+2 Forest
+1 Gaea's Cradle
+1 Gavony Township
+1 Godless Shrine
+1 Hashep Oasis
+1 Hushwood Verge
+1 Marsh Flats
+1 Overgrown Tomb
+1 Phyrexian Tower
+2 Plains
+1 Scrubland
+1 Shifting Woodland
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Talon Gates of Madara
+1 Temple Garden
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Windswept Heath
+Sideboard
+1 Tayam, Luminous Enigma

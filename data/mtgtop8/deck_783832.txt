@@ -1,0 +1,75 @@
+1 Accursed Marauder
+1 Bomat Courier
+1 Caustic Bronco
+1 Creeping Bloodsucker
+1 Darkstar Augur
+1 Defiler of Instinct
+1 Endrider Catalyzer
+1 Endrider Spikespitter
+1 Gas Guzzler
+1 Gastal Raider
+1 Gastal Thrillseeker
+1 Hazoret, Godseeker
+1 Hellrider
+1 Kederekt Parasite
+1 Keen Duelist
+1 Loyal Apprentice
+1 Mayhem Devil
+1 Morbid Opportunist
+1 Party Thrasher
+1 Perforating Artist
+1 Rakdos, Lord of Riots
+1 Rampaging Ferocidon
+1 Razorkin Needlehead
+1 Solemn Simulacrum
+1 Stormfist Crusader
+1 Arcane Signet
+1 Basilisk Collar
+1 Bontu's Monument
+1 Dissection Tools
+1 Racers' Scoreboard
+1 Sol Ring
+1 Swiftfoot Boots
+1 Tome of Legends
+1 Urabrask's Forge
+1 Abrade
+1 Archenemy's Charm
+1 Big Score
+1 Chaos Warp
+1 Dark Ritual
+1 Flare of Malice
+1 Ghostfire Slice
+1 Rakdos Charm
+1 Unexpected Windfall
+1 Withering Torment
+1 Blasphemous Act
+1 Faithless Looting
+1 Grab the Prize
+1 Light Up the Stage
+1 Risky Shortcut
+1 Tempt with Vengeance
+1 Victimize
+1 Black Market Connections
+1 Hour of Victory
+1 Impact Tremors
+1 Kaya's Ghostform
+1 Kickoff Celebrations
+1 Mechanized Warfare
+1 Momentum Breaker
+1 Phyrexian Arena
+1 Roiling Vortex
+1 Spiteful Visions
+1 Theater of Horrors
+1 Amonkhet Raceway
+1 Avishkar Raceway
+1 Command Tower
+1 Daily Bugle Building
+1 Exotic Orchard
+14 Mountain
+1 Muraganda Raceway
+1 Smoldering Marsh
+1 Sulfurous Springs
+14 Swamp
+1 Temple of Malice
+Sideboard
+1 Far Fortune, End Boss

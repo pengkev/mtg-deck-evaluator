@@ -1,0 +1,73 @@
+1 Felidar Guardian
+1 Serra Ascendant
+1 Soul Warden
+1 King of the Pride
+1 Regal Caracal
+1 Trained Caracal
+1 Soul's Attendant
+1 Leonin Vanguard
+1 Crovax, Ascendant Hero
+1 Lion Sash
+1 Basri's Acolyte
+1 Elesh Norn, Mother of Machines
+1 Dauntless Dismantler
+1 Kutzil's Flanker
+1 Ironpaw Aspirant
+1 Esper Sentinel
+1 Delney, Streetwise Lookout
+1 Guide of Souls
+1 Jazal Goldmane
+1 Archivist of Oghma
+1 Helpful Hunter
+1 Prideful Parent
+1 Enduring Innocence
+1 Ajani's Pridemate
+1 Herald of Eternal Dawn
+1 Qala, Ajani's Pridemate
+1 Cat Collector
+1 Linden, the Steadfast Queen
+1 Felidar Sovereign
+1 Mentor of the Meek
+1 Lunarch Veteran
+1 Vanquisher's Banner
+1 Archaeomancer's Map
+1 Vexing Bauble
+1 Sol Ring
+1 Banner of Kinship
+1 Heraldic Banner
+1 Patchwork Banner
+1 Guardians' Pledge
+1 Loran's Escape
+1 White Sun's Zenith
+1 Surge of Salvation
+1 Generous Gift
+1 Virtue of Loyalty
+1 Family Reunion
+1 Make Your Move
+1 Thraben Charm
+1 Seized from Slumber
+1 Claws Out
+1 Recommission
+1 Sunfall
+1 Righteous Confluence
+1 Expel the Interlopers
+1 Helping Hand
+1 Austere Command
+1 Raise the Past
+1 Light of Promise
+1 Leyline of Sanctity
+1 Tocasia's Welcome
+1 Seal from Existence
+1 Leyline of Hope
+1 Cleric Class
+1 Ossification
+1 Ajani, Strength of the Pride
+1 Ajani, Adversary of Tyrants
+1 The Eternal Wanderer
+1 Ajani, Caller of the Pride
+1 Nykthos, Shrine to Nyx
+1 Cavern of Souls
+1 Three Tree City
+29 Plains
+Sideboard
+1 Arahbo, the First Fang

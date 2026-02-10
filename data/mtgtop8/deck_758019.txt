@@ -1,0 +1,80 @@
+1 Accursed Marauder
+1 Avenger of the Fallen
+1 Ayara, First of Locthwain
+1 Blood Artist
+1 Bloodghast
+1 Carrion Feeder
+1 Crypt Ghast
+1 Demon's Disciple
+1 Endrek Sahr, Master Breeder
+1 Fleshbag Marauder
+1 Gray Merchant of Asphodel
+1 Marionette Apprentice
+1 Merciless Executioner
+1 Nether Traitor
+1 Nine-Lives Familiar
+1 Ophiomancer
+1 Pitiless Plunderer
+1 Plaguecrafter
+1 Sengir Autocrat
+1 Solemn Simulacrum
+1 Vein Ripper
+1 Viscera Seer
+1 Zodiark, Umbral God
+1 Arcane Signet
+1 Ashnod's Altar
+1 Expedition Map
+1 Genesis Chamber
+1 Jet Medallion
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Darkness Crystal
+1 The Masamune
+1 Vat of Rebirth
+1 World Map
+1 Dark Ritual
+1 Darkness
+1 Flare of Malice
+1 Force of Despair
+1 Imp's Mischief
+1 Malakir Rebirth
+1 Plumb the Forbidden
+1 Sheoldred's Edict
+1 Soul Shatter
+1 Withering Torment
+1 Damnation
+1 Dark Petition
+1 Exsanguinate
+1 Feed the Swarm
+1 Midgar, City of Mako
+1 Nuclear Fallout
+1 Reanimate
+1 Rise of the Dark Realms
+1 Sign in Blood
+1 Toxic Deluge
+1 Victimize
+1 Animate Dead
+1 Black Market Connections
+1 Dictate of Erebos
+1 Dreadhorde Invasion
+1 Grave Pact
+1 Necromancy
+1 The Meathook Massacre
+1 Liliana, Dreadhorde General
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cabal Coffers
+1 Marsh Flats
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Polluted Delta
+1 Reliquary Tower
+22 Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Westvale Abbey
+Sideboard
+1 Sephiroth, Fabled SOLDIER

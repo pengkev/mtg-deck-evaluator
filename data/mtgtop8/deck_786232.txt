@@ -1,0 +1,86 @@
+1 Battle Cry Goblin
+1 Beetleback Chief
+1 Conspicuous Snoop
+1 Crashing Drawbridge
+1 Gempalm Incinerator
+1 General Kreat, the Boltbringer
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin King
+1 Goblin Lackey
+1 Goblin Matron
+1 Goblin Motivator
+1 Goblin Recruiter
+1 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Sledder
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Goblin Wizard
+1 Goro-Goro, Disciple of Ryusei
+1 Howlsquad Heavy
+1 Krenko, Baron of Tin Street
+1 Legion Loyalist
+1 Marvin, Murderous Mimic
+1 Mogg Raider
+1 Mogg War Marshal
+1 Moria Marauder
+1 Muxus, Goblin Grandee
+1 Pashalik Mons
+1 Professional Face-Breaker
+1 Rundvelt Hordemaster
+1 Siege-Gang Commander
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Torch Courier
+1 Treasure Nabber
+1 Warren Instigator
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Mox Diamond
+1 Phyrexian Altar
+1 Ruby Medallion
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Staff of Domination
+1 Sting, the Glinting Dagger
+1 Thousand-Year Elixir
+1 Battle Hymn
+1 Brightstone Ritual
+1 Chaos Warp
+1 Deflecting Swat
+1 Desperate Ritual
+1 Expedite
+1 Pyretic Ritual
+1 Seething Song
+1 Faithless Looting
+1 Gamble
+1 Infernal Plunge
+1 Jeska's Will
+1 Rite of Flame
+1 Seize the Spotlight
+1 Shattering Spree
+1 Shatterskull Smashing
+1 Vandalblast
+1 Warrior's Oath
+1 Winds of Change
+1 Goblin Bombardment
+1 Mass Hysteria
+1 Shared Animosity
+1 Urza's Saga
+1 Ancient Tomb
+1 Arena of Glory
+1 Barbarian Ring
+1 Cavern of Souls
+1 Command Beacon
+1 Forgotten Cave
+1 Hall of the Bandit Lord
+16 Mountain
+1 Nykthos, Shrine to Nyx
+1 Three Tree City
+Sideboard
+1 Krenko, Mob Boss

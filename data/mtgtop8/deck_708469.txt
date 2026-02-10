@@ -1,0 +1,101 @@
+1 Sakashima's Student
+1 Skullsnatcher
+1 Fourth Bridge Prowler
+1 Wingcrafter
+1 Mothdust Changeling
+1 Memnite
+1 Signal Pest
+1 Phyrexian Walker
+1 Changeling Outcast
+1 Faerie Seer
+1 Opposition Agent
+1 Subtlety
+1 Thousand-Faced Shadow
+1 Silver-Fur Master
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Shadow of Mortality
+1 Orcish Bowmasters
+1 Roaming Throne
+1 Satoru, the Infiltrator
+1 Boggart Trawler
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Thassa's Oracle
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Street Wraith
+1 Universal Automaton
+1 Ingenious Infiltrator
+1 Chrome Mox
+1 Mox Diamond
+1 Null Rod
+1 Mox Amber
+1 Sol Ring
+1 Lotus Petal
+1 Contagion
+1 Force of Will
+1 Lim-Dul's Vault
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Consign/Oblivion
+1 Snuff Out
+1 Commandeer
+1 Submerge
+1 Force of Negation
+1 Force of Despair
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Mental Misstep
+1 Demonic Consultation
+1 Mindbreak Trap
+1 Tainted Pact
+1 An Offer You Can't Refuse
+1 Flare of Denial
+1 Flare of Malice
+1 Sink into Stupor
+1 Fell the Profane
+1 Brainstorm
+1 Dark Ritual
+1 Dismember
+1 Gush
+1 Misdirection
+1 Flusterstorm
+1 Imperial Seal
+1 Gitaxian Probe
+1 Doomsday
+1 Temporal Trespass
+1 Sea Gate Restoration
+1 Nanogene Conversion
+1 Demonic Tutor
+1 Treasure Cruise
+1 Mystic Remora
+1 Bloodchief Ascension
+1 Rhystic Study
+1 Cover of Darkness
+1 Kaito, Bane of Nightmares
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Exotic Orchard
+1 Underground River
+1 Underground Sea
+1 City of Brass
+1 Bloodstained Mire
+1 Flooded Strand
+1 Watery Grave
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Prismatic Vista
+1 Gemstone Caverns
+1 Clearwater Pathway
+1 Otawara, Soaring City
+1 Undercity Sewers
+1 Island
+1 Swamp
+1 Command Tower
+1 Shizo, Death's Storehouse
+Sideboard
+1 Yuriko, the Tiger's Shadow

@@ -1,0 +1,101 @@
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Opposition Agent
+1 Mockingbird
+1 Deathrite Shaman
+1 Clever Impersonator
+1 High Fae Trickster
+1 Loot, Exuberant Explorer
+1 Thassa's Oracle
+1 Notion Thief
+1 Wandering Archaic
+1 Birds of Paradise
+1 Delighted Halfling
+1 Valley Floodcaller
+1 Hullbreaker Horror
+1 Grim Monolith
+1 Mox Opal
+1 Mana Vault
+1 Mox Diamond
+1 Talisman of Dominance
+1 Sensei's Divining Top
+1 Mox Amber
+1 Fellwar Stone
+1 Arcane Signet
+1 Talisman of Resilience
+1 Chrome Mox
+1 Aetherflux Reservoir
+1 Bolas's Citadel
+1 Sol Ring
+1 The One Ring
+1 Lotus Petal
+1 Crop Rotation
+1 Fierce Guardianship
+1 Tainted Pact
+1 Force of Vigor
+1 Worldly Tutor
+1 Mystical Tutor
+1 Swan Song
+1 Snuff Out
+1 Mindbreak Trap
+1 Lim-Dul's Vault
+1 Noxious Revival
+1 Auroral Procession
+1 Veil of Summer
+1 Dark Ritual
+1 Pact of Negation
+1 Mental Misstep
+1 Force of Will
+1 Retraction Helix
+1 Flusterstorm
+1 Force of Negation
+1 Vampiric Tutor
+1 Legolas's Quick Reflexes
+1 Sink into Stupor
+1 Gifts Ungiven
+1 Deadly Rollick
+1 Demonic Tutor
+1 Scheming Symmetry
+1 Yawgmoth's Will
+1 Imperial Seal
+1 Demonic Counsel
+1 Culling Ritual
+1 Beseech the Mirror
+1 Rhystic Study
+1 Necropotence
+1 Exploration
+1 Urza's Saga
+1 Wild Growth
+1 Counterbalance
+1 Carpet of Flowers
+1 Mystic Remora
+1 Exotic Orchard
+1 Minamo, School at Water's Edge
+1 Overgrown Tomb
+1 Cavern of Souls
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Gemstone Caverns
+1 City of Brass
+1 Watery Grave
+1 Shifting Woodland
+1 Mistrise Village
+1 Breeding Pool
+1 Ancient Tomb
+1 Marsh Flats
+1 Mana Confluence
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Forbidden Orchard
+1 Command Tower
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Glarb, Calamity's Augur

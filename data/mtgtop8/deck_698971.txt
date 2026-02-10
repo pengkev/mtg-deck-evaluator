@@ -1,0 +1,101 @@
+1 Seedborn Muse
+1 Noble Hierarch
+1 Devoted Druid
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Drannith Magistrate
+1 Kinnan, Bonder Prodigy
+1 Notion Thief
+1 Opposition Agent
+1 Esper Sentinel
+1 Colossal Skyturtle
+1 Archivist of Oghma
+1 Faerie Mastermind
+1 Lotho, Corrupt Shirriff
+1 Talion, the Kindly Lord
+1 Delney, Streetwise Lookout
+1 Psychic Frog
+1 Valley Floodcaller
+1 Hazel's Brewmaster
+1 Enduring Vitality
+1 Thassa's Oracle
+1 Faeburrow Elder
+1 Birds of Paradise
+1 Bloom Tender
+1 Chrome Mox
+1 Mox Diamond
+1 Talisman of Progress
+1 Mox Opal
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Springleaf Drum
+1 Talisman of Unity
+1 Agatha's Soul Cauldron
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Fellwar Stone
+1 Basalt Monolith
+1 Arcane Signet
+1 Sol Ring
+1 Pact of Negation
+1 Vampiric Tutor
+1 Abrupt Decay
+1 Chord of Calling
+1 Silence
+1 Eladamri's Call
+1 Force of Negation
+1 Fierce Guardianship
+1 Worldly Tutor
+1 Demonic Consultation
+1 Tainted Pact
+1 An Offer You Can't Refuse
+1 Strix Serenade
+1 Crop Rotation
+1 Dispel
+1 Swords to Plowshares
+1 Flusterstorm
+1 Borne Upon a Wind
+1 Imperial Seal
+1 Mnemonic Betrayal
+1 Finale of Devastation
+1 Neoform
+1 Demonic Tutor
+1 Mystic Remora
+1 Training Grounds
+1 Smothering Tithe
+1 Freed from the Real
+1 Touch the Spirit Realm
+1 Swift Reconfiguration
+1 Sylvan Library
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Tundra
+1 Tropical Island
+1 Underground Sea
+1 Bloodstained Mire
+1 Flooded Strand
+1 Forbidden Orchard
+1 Breeding Pool
+1 Godless Shrine
+1 Watery Grave
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Overgrown Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Gaea's Cradle
+1 Emergence Zone
+1 Rejuvenating Springs
+1 Vault of Champions
+1 Undergrowth Stadium
+1 Spara's Headquarters
+1 Undercity Sewers
+1 Exotic Orchard
+1 Command Tower
+Sideboard
+1 Tymna the Weaver
+1 Thrasios, Triton Hero

@@ -1,0 +1,93 @@
+1 Annoyed Altisaur
+1 Anticausal Vestige
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Bloodbraid Challenger
+1 Bloodbraid Elf
+1 Courser of Kruphix
+1 Etali, Primal Conqueror
+1 Fanatic of Rhonas
+1 Goreclaw, Terror of Qal Sisma
+1 Gwenna, Eyes of Gaea
+1 Hullbreaker Horror
+1 Ilysian Caryatid
+1 Imoti, Celebrant of Bounty
+1 Inferno Titan
+1 Kogla and Yidaro
+1 Kogla, the Titan Ape
+1 Koma, Cosmos Serpent
+1 Lotus Cobra
+1 Oracle of Mul Daya
+1 Radha, Heart of Keld
+1 Reclamation Sage
+1 Sakashima's Protege
+1 Sakura-Tribe Elder
+1 Shardless Agent
+1 Somberwald Sage
+1 Surrak and Goreclaw
+1 Surrak Dragonclaw
+1 Sweet-Gum Recluse
+1 Thryx, the Sudden Storm
+1 Trumpeting Carnosaur
+1 Arcane Signet
+1 Crystal Shard
+1 Sol Ring
+1 Thran Dynamo
+1 Beast Within
+1 Brainstorm
+1 Entish Restoration
+1 Mystic Confluence
+1 Natural Reclamation
+1 Unexpected Windfall
+1 Blasphemous Act
+1 Cultivate
+1 Decimate
+1 Farseek
+1 Genesis Ultimatum
+1 Kodama's Reach
+1 Nature's Lore
+1 Skyshroud Claim
+1 Treasure Cruise
+1 Volcanic Torrent
+1 Bigger on the Inside
+1 Garruk's Uprising
+1 Kozilek's Unsealing
+1 One with the Multiverse
+1 Rhythm of the Wild
+1 Sarkhan's Unsealing
+1 Up the Beanstalk
+1 Domri, Anarch of Bolas
+1 Kiora, Behemoth Beckoner
+1 Cinder Glade
+1 Command Tower
+1 Cragcrown Pathway
+1 Evolving Wilds
+1 Exotic Orchard
+5 Forest
+1 Frontier Bivouac
+1 Frostboil Snarl
+1 Game Trail
+1 Gruul Turf
+1 Hinterland Harbor
+3 Island
+1 Karplusan Forest
+1 Molten Tributary
+1 Mossfire Valley
+3 Mountain
+1 Path of Ancestry
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shivan Reef
+1 Simic Growth Chamber
+1 Sulfur Falls
+1 Tangled Islet
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Vineglimmer Snarl
+1 Waterlogged Grove
+1 Wooded Ridgeline
+1 Yavimaya Coast
+Sideboard
+1 Maelstrom Wanderer

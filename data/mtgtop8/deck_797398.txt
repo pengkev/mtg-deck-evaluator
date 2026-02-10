@@ -1,0 +1,77 @@
+1 Steel Hellkite
+1 Geode Golem
+1 The Capitoline Triad
+1 PuPu UFO
+1 Foundry Inspector
+1 Oblivion Sower
+1 Crashing Drawbridge
+1 Ornithopter of Paradise
+1 Kozilek's Channeler
+1 Solemn Simulacrum
+1 Glaring Fleshraker
+1 Soul of New Phyrexia
+1 Meteor Golem
+1 Bane of Bala Ged
+1 Desolation Twin
+1 Ulamog's Crusher
+1 Burnished Hart
+1 Matter Reshaper
+1 Iron Giant
+1 Traxos, Scourge of Kroog
+1 Summon: Bahamut
+1 Hedron Crawler
+1 Endbringer
+1 ED-E, Lonesome Eyebot
+1 Breaker of Creation
+1 Palladium Myr
+1 Graaz, Unstoppable Juggernaut
+1 It That Heralds the End
+1 Collector's Vault
+1 Eye of Vecna
+1 The Regalia
+1 Ring of the Lucii
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Forsaken Monument
+1 Phial of Galadriel
+1 Sisay's Ring
+1 Blitzball
+1 Elixir
+1 Worn Powerstone
+1 Unstable Obelisk
+1 Lunatic Pandora
+1 World Map
+1 Instant Ramen
+1 Dreamstone Hedron
+1 Stonespeaker Crystal
+1 Idol of False Gods
+1 Adventurer's Airship
+1 Mystic Forge
+1 Mind Stone
+1 Hedron Archive
+1 Moonsilver Key
+1 Null Elemental Blast
+1 Warping Wail
+1 Titan's Presence
+1 Scour from Existence
+1 Selective Obliteration
+1 Environmental Sciences
+1 Introduction to Prophecy
+1 Echoes of Eternity
+1 Ugin's Mastery
+1 Ugin, the Ineffable
+1 Urza's Mine
+1 Adventurer's Inn
+1 Mage-Ring Network
+1 Urza's Tower
+1 Ash Barrens
+1 Temple of the False God
+1 Terramorphic Expanse
+25 Wastes
+1 Eden, Seat of the Sanctum
+1 Shrine of the Forsaken Gods
+1 The Gold Saucer
+1 Urza's Power Plant
+1 Evolving Wilds
+Sideboard
+1 Ultima, Origin of Oblivion

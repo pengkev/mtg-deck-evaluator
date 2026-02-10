@@ -1,0 +1,100 @@
+1 Lodestone Golem
+1 Kuldotha Forgemaster
+1 Walking Ballista
+1 Jhoira's Familiar
+1 Metalworker
+1 Wandering Archaic
+1 Rug of Smothering
+1 Thran Spider
+1 Soulless Jailer
+1 Scrap Trawler
+1 Kozilek, the Great Distortion
+1 Foundry Inspector
+1 Glaring Fleshraker
+1 Karn, Legacy Reforged
+1 Grafdigger's Cage
+1 Manifold Key
+1 Mystic Forge
+1 Basalt Monolith
+1 Krark-Clan Ironworks
+1 Mana Vault
+1 Sword of Fire and Ice
+1 Voltaic Key
+1 Tangle Wire
+1 Lotus Petal
+1 Grim Monolith
+1 God-Pharaoh's Statue
+1 Torpor Orb
+1 Expedition Map
+1 Mox Opal
+1 Trinisphere
+1 Mox Diamond
+1 Chalice of the Void
+1 Unwinding Clock
+1 Clock of Omens
+1 Forsaken Monument
+1 Staff of Domination
+1 Rings of Brighthearth
+1 Codex Shredder
+1 Weathered Runestone
+1 Sculpting Steel
+1 Liquimetal Torque
+1 Cursed Totem
+1 Sol Ring
+1 Moonsilver Key
+1 Mind Stone
+1 Sensei's Divining Top
+1 Pithing Needle
+1 Planar Bridge
+1 The Mightstone and Weakstone
+1 Thran Dynamo
+1 Damping Sphere
+1 Staff of Compleation
+1 Soul-Guide Lantern
+1 Sword of Forge and Frontier
+1 The One Ring
+1 Mirage Mirror
+1 Agatha's Soul Cauldron
+1 Sonic Screwdriver
+1 Chimil, the Inner Sun
+1 Everflowing Chalice
+1 Disruptor Flute
+1 Vexing Bauble
+1 Ghost Vacuum
+1 Kozilek's Command
+1 All Is Dust
+1 Urza's Saga
+1 Echoes of Eternity
+1 Karn, the Great Creator
+1 Ugin, the Ineffable
+1 Ugin, Eye of the Storms
+1 Mishra's Workshop
+1 Urza's Tower
+1 Urza's Power Plant
+1 Urza's Mine
+1 Buried Ruin
+1 Scorched Ruins
+1 Inventors' Fair
+1 Petrified Field
+1 War Room
+1 Gemstone Caverns
+1 Scavenger Grounds
+1 Geier Reach Sanitarium
+1 Mikokoro, Center of the Sea
+1 Urza's Workshop
+1 Urza's Factory
+1 The Mycosynth Gardens
+1 Cavern of Souls
+1 Thespian's Stage
+1 Urza's Cave
+1 Planar Nexus
+1 Deserted Temple
+1 Talon Gates of Madara
+1 Abstergo Entertainment
+1 Wasteland
+1 Crystal Vein
+1 Command Beacon
+1 Strip Mine
+1 Ancient Tomb
+Sideboard
+1 Liberator, Urza's Battlethopter

@@ -1,0 +1,101 @@
+1 Mistrise Village
+1 Steam Vents
+1 Verdant Catacombs
+1 Thundering Falls
+1 Cavern of Souls
+1 Gemstone Caverns
+1 City of Brass
+1 Cephalid Coliseum
+1 Mana Confluence
+1 Wooded Foothills
+1 Blood Crypt
+1 Polluted Delta
+1 Lion's Eye Diamond
+1 Misty Rainforest
+1 Island
+1 Scalding Tarn
+1 Bloodstained Mire
+1 Riverpyre Verge
+1 Arid Mesa
+1 Mountain
+1 Mox Amber
+1 Chrome Mox
+1 Swamp
+1 Lotus Petal
+1 Pact of Negation
+1 Flooded Strand
+1 Watery Grave
+1 Raucous Theater
+1 Command Tower
+1 Ancient Tomb
+1 Sol Ring
+1 Dragon's Rage Channeler
+1 Mana Vault
+1 Demonic Consultation
+1 Chain of Vapor
+1 Putrid Imp
+1 Burning Inquiry
+1 Mental Misstep
+1 Into the Flood Maw
+1 Faithless Looting
+1 Mystic Remora
+1 Ragavan, Nimble Pilferer
+1 Reanimate
+1 Rite of Flame
+1 Dark Ritual
+1 Gamble
+1 Mystical Tutor
+1 One with Nothing
+1 Fellwar Stone
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Demonic Counsel
+1 Nightscape Familiar
+1 Cyclonic Rift
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Tainted Pact
+1 Desperate Ritual
+1 Cabal Ritual
+1 Underworld Breach
+1 Arcane Signet
+1 Dimir Signet
+1 Talisman of Creativity
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Demonic Tutor
+1 Tolarian Winds
+1 Seize the Spoils
+1 Overeager Apprentice
+1 Birgi, God of Storytelling
+1 Frantic Search
+1 Seething Song
+1 Electro, Assaulting Battery
+1 Simian Spirit Guide
+1 Rhystic Study
+1 Force of Negation
+1 Basalt Monolith
+1 Monument to Endurance
+1 Narset, Parter of Veils
+1 Compulsive Research
+1 Long-Term Plans
+1 Wheel of Misfortune
+1 Windfall
+1 Tezzeret, Cruel Captain
+1 Fierce Guardianship
+1 Grim Tutor
+1 Wheel of Fortune
+1 Mastermind's Acquisition
+1 Mindbreak Trap
+1 Storm-Kiln Artist
+1 Tidal Barracuda
+1 The One Ring
+1 Past in Flames
+1 Beseech the Mirror
+1 Big Score
+1 Diabolic Tutor
+1 Change of Fortune
+1 Force of Will
+1 Reforge the Soul
+Sideboard
+1 Norman Osborn

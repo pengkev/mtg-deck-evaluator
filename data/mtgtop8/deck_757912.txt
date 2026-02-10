@@ -1,0 +1,89 @@
+1 Battered Golem
+1 Forensic Gadgeteer
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Spellskite
+1 The Reality Chip
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Aether Spellbomb
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Codex Shredder
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Grim Monolith
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Diamond
+1 Mox Opal
+1 Prized Statue
+1 Relic of Progenitus
+1 Rings of Brighthearth
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Tormod's Crypt
+1 Unwinding Clock
+1 Urza's Bauble
+1 Voltaic Key
+1 Welding Jar
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Brainstorm
+1 Dispel
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Machine Over Matter
+1 Mana Drain
+1 Mindbreak Trap
+1 Misdirection
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Nexus of Fate
+1 Pact of Negation
+1 Pongify
+1 Resculpt
+1 Retraction Helix
+1 Spell Pierce
+1 Swan Song
+1 Whir of Invention
+1 Fabricate
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Transmute Artifact
+1 Copy Artifact
+1 Counterbalance
+1 Mystic Remora
+1 Power Artifact
+1 Rhystic Study
+1 Urza's Saga
+1 Narset, Parter of Veils
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 City of Traitors
+1 Crystal Vein
+1 Emergence Zone
+1 Gemstone Caverns
+1 Inventors' Fair
+13 Island
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Saprazzan Skerry
+1 Strip Mine
+Sideboard
+1 Urza, Lord High Artificer

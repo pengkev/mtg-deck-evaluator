@@ -1,0 +1,95 @@
+1 Orzhov Signet
+1 Ikra Shidiqi, the Usurper
+1 Verdant Catacombs
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Blooming Marsh
+1 Savannah
+1 Overgrown Farmland
+1 Indatha Triome
+1 Path of Ancestry
+1 MacCready, Lamplight Mayor
+1 Wall of Omens
+1 Wall of Blossoms
+1 Overgrown Battlement
+1 Doran, the Siege Tower
+1 Carven Caryatid
+1 Sidar Kondo of Jamuraa
+1 Bedrock Tortoise
+1 Jaws of Defeat
+1 Swords to Plowshares
+1 Stroke of Midnight
+3 Swamp
+3 Plains
+3 Forest
+1 Isolated Chapel
+1 Woodland Cemetery
+1 City of Brass
+1 Deathcap Glade
+1 Mana Confluence
+1 Polluted Delta
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Razorverge Thicket
+1 Temple Garden
+1 Windswept Heath
+1 Arid Mesa
+1 Marsh Flats
+1 Godless Shrine
+1 Command Tower
+1 Birds of Paradise
+1 Arboreal Grazer
+1 Gifted Aetherborn
+1 Crystal Barricade
+1 Sylvan Caryatid
+1 Wall of Roots
+1 Crashing Drawbridge
+1 Faeburrow Elder
+1 Vampire Nighthawk
+1 Welcoming Vampire
+1 Axebane Guardian
+1 Shalai, Voice of Plenty
+1 Betor, Ancestor's Voice
+1 Betor, Kin to All
+1 Shadrix Silverquill
+1 Dragonlord Dromoka
+1 Sol Ring
+1 Selesnya Signet
+1 Smile at Death
+1 Path to Exile
+1 Tower Defense
+1 Go for the Throat
+1 Heroic Intervention
+1 Doom Blade
+1 Anguished Unmaking
+1 Hero's Downfall
+1 Deadly Rollick
+1 Damn
+1 Vindicate
+1 Slaughter the Strong
+1 Tip the Scales
+1 Will of the Abzan
+1 Expel the Interlopers
+1 Bayou
+1 Sunpetal Grove
+1 Brushland
+1 Scrubland
+1 Shattered Sanctum
+1 Overgrown Tomb
+1 Walking Bulwark
+1 Arcane Signet
+1 Assassin's Trophy
+1 Skirmish Rhino
+1 Weathered Sentinels
+1 Siege Rhino
+1 Rampart Architect
+1 Wingmantle Chaplain
+1 Wakestone Gargoyle
+1 Fecund Greenshell
+1 Ohran Frostfang
+1 Baldin, Century Herdmaster
+1 Canopy Gargantuan
+1 Assault Formation
+1 Behind the Scenes
+Sideboard
+1 Felothar the Steadfast

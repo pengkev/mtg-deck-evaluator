@@ -1,0 +1,101 @@
+1 Necropotence
+1 Underworld Breach
+1 Demonic Counsel
+1 Yawgmoth's Will
+1 Rite of Flame
+1 Molten Duplication
+1 Beseech the Mirror
+1 Jeska's Will
+1 Gamble
+1 Imperial Seal
+1 Diabolic Intent
+1 Wheel of Fortune
+1 Grapeshot
+1 Demonic Tutor
+1 Rending Volley
+1 Entomb
+1 Red Elemental Blast
+1 Untimely Malfunction
+1 Flare of Duplication
+1 Saw in Half
+1 Tainted Pact
+1 Ad Nauseam
+1 Deadly Rollick
+1 Deflecting Swat
+1 Final Fortune
+1 Culling the Weak
+1 Pyretic Ritual
+1 Vampiric Tutor
+1 Slaughter Pact
+1 Cabal Ritual
+1 Pyroblast
+1 Desperate Ritual
+1 Lightning Bolt
+1 Dark Ritual
+1 Agatha's Soul Cauldron
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Rakdos Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Lotus Petal
+1 Apple of Eden, Isu Relic
+1 Vexing Bauble
+1 Unstable Amulet
+1 Mox Amber
+1 Talisman of Indulgence
+1 Bolas's Citadel
+1 Grim Monolith
+1 Defense Grid
+1 Mox Diamond
+1 Chrome Mox
+1 Sensei's Divining Top
+1 Grinding Station
+1 Mana Vault
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Scrawling Crawler
+1 Imperial Recruiter
+1 Deadpool, Trading Card
+1 Razorkin Needlehead
+1 Coruscation Mage
+1 Party Thrasher
+1 Glaring Fleshraker
+1 Marionette Apprentice
+1 Orcish Bowmasters
+1 Kessig Flamebreather
+1 Prosper, Tome-Bound
+1 Ragavan, Nimble Pilferer
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Mayhem Devil
+1 Kederekt Parasite
+1 Dualcaster Mage
+1 Walking Ballista
+1 Reckless Fireweaver
+1 Raucous Theater
+1 Arid Mesa
+1 City of Traitors
+1 Wooded Foothills
+1 Polluted Delta
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Homeward Path
+1 Graven Cairns
+1 Badlands
+1 Mount Doom
+1 Gemstone Caverns
+1 Emergence Zone
+1 Marsh Flats
+1 Mana Confluence
+1 Blood Crypt
+1 Ancient Tomb
+1 Cavern of Souls
+1 Luxury Suite
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Swamp
+1 Urza's Saga
+Sideboard
+1 Ob Nixilis, Captive Kingpin

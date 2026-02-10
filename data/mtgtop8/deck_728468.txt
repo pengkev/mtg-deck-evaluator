@@ -1,0 +1,100 @@
+1 Aarakocra Sneak
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Archon of Emeria
+1 Arid Mesa
+1 Aven Mindcensor
+1 Blood Pet
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 Chrome Mox
+1 City of Brass
+1 City of Traitors
+1 Clarion Conqueror
+1 Command Tower
+1 Cursed Totem
+1 Damping Sphere
+1 Dark Ritual
+1 Deafening Silence
+1 Deep Gnome Terramancer
+1 Demonic Tutor
+1 Deranged Assistant
+1 Dovin's Veto
+1 Eagles of the North
+1 Eidolon of Rhetoric
+1 Elesh Norn, Grand Cenobite
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Faerie Macabre
+1 Feywild Caretaker
+1 Fierce Guardianship
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Harvester of Misery
+1 Imperial Seal
+1 Island
+1 Lavinia, Azorius Renegade
+1 Lotus Petal
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Midnight Pathlighter
+1 Mindbreak Trap
+1 Mirrorshell Crab
+1 Misty Rainforest
+1 Mox Diamond
+1 Mystic Remora
+1 Nimble Obstructionist
+1 Null Rod
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Passageway Seer
+1 Phantasmal Image
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Censor
+2 Plains
+1 Polluted Delta
+1 Pollywog Prodigy
+1 Radiant Solar
+1 Ravenloft Adventurer
+1 Rhystic Study
+1 Rilsa Rael, Kingpin
+1 Sarevok's Tome
+1 Scalding Tarn
+1 Scrubland
+1 Seasoned Dungeoneer
+1 Serra Ascendant
+1 Shadowy Backstreet
+1 Sheoldred, the Apocalypse
+1 Sink into Stupor
+1 Sol Ring
+1 Solitude
+1 Stony Silence
+1 Street Wraith
+1 Subtlety
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Takenuma, Abandoned Mire
+1 Teferi, Master of Time
+1 Tishana's Tidebinder
+1 Toxrill, the Corrosive
+1 Troll of Khazad-dum
+1 Tundra
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Vicious Battlerager
+1 Watery Grave
+1 Waxen Shapethief
+1 White Plume Adventurer
+1 Windswept Heath
+1 Witch Enchanter
+Sideboard
+1 Sefris of the Hidden Ways

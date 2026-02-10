@@ -1,0 +1,101 @@
+1 Ancient Copper Dragon
+1 Bloom Tender
+1 Cavern-Hoard Dragon
+1 Deceptive Frostkite
+1 Delighted Halfling
+1 Dragonspeaker Shaman
+1 Flesh Duplicate
+1 Ganax, Astral Hunter
+1 Kinnan, Bonder Prodigy
+1 Korlessa, Scale Singer
+1 Lozhan, Dragons' Legacy
+1 Niv-Mizzet, Parun
+1 Old Gnawbone
+1 Phantasmal Image
+1 Red Dragon
+1 Roaming Throne
+1 Sakashima the Impostor
+1 Scaled Nurturer
+1 Scourge of Valkas
+1 Selvala, Heart of the Wilds
+1 Squee, the Immortal
+1 Temur Battlecrier
+1 Terror of the Peaks
+1 Arcane Signet
+1 Chrome Mox
+1 Cryptic Gateway
+1 Cursed Mirror
+1 Defense Grid
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Jasper
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Chord of Calling
+1 Crop Rotation
+1 Cyclonic Rift
+1 Emerald Charm
+1 Essence Flux
+1 Force of Negation
+1 Force of Will
+1 Heroic Intervention
+1 Mana Drain
+1 Mystical Tutor
+1 Nature's Claim
+1 Planar Incision
+1 Pyretic Ritual
+1 Pyroblast
+1 Swan Song
+1 Worldly Tutor
+1 Dragonstorm
+1 Finale of Devastation
+1 Jeska's Will
+1 Nature's Lore
+1 Rite of Flame
+1 Sylvan Tutor
+1 Three Visits
+1 Twinflame
+1 Dracogenesis
+1 Dragon Tempest
+1 Elemental Bond
+1 Food Chain
+1 Garruk's Uprising
+1 Mystic Remora
+1 Rhystic Study
+1 Sneak Attack
+1 Temur Ascendancy
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Island
+1 Ketria Triome
+1 Maelstrom of the Spirit Dragon
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Training Center
+1 Tropical Island
+1 Volcanic Island
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Miirym, Sentinel Wyrm

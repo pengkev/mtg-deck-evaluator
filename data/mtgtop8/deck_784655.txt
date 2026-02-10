@@ -1,0 +1,75 @@
+1 Amoeboid Changeling
+1 Cloud Pirates
+1 Crashing Drawbridge
+1 Departed Deckhand
+1 Impulsive Pilferer
+1 Kitesail Corsair
+1 Lightning-Rig Crew
+1 Magda, Brazen Outlaw
+1 Magmakin Artillerist
+1 Malcolm, the Eyes
+1 Mothdust Changeling
+1 Oaken Siren
+1 Penregon Strongbull
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+1 Reckless Lackey
+1 Siren Stormtamer
+1 Spectral Sailor
+1 Spyglass Siren
+1 Starwinder
+1 Sunshot Militia
+1 Tandem Lookout
+1 Warkite Marauder
+1 Weftstalker Ardent
+1 Bident of Thassa
+1 Maskwood Nexus
+1 Relic of Legends
+1 Sol Ring
+1 The Indomitable
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Blades of Velis Vel
+1 Chaos Warp
+1 Counterspell
+1 Dispel
+1 Dizzy Spell
+1 Foil
+1 Great Train Heist
+1 Muddle the Mixture
+1 Negate
+1 Pongify
+1 Rapid Hybridization
+1 Trickery Charm
+1 Wings of Velis Vel
+1 Alchemist's Gambit
+1 Eagle Vision
+1 Last Chance
+1 Overpowering Attack
+1 Relentless Assault
+1 Winged Words
+1 Berserkers' Onslaught
+1 Coastal Piracy
+1 Combat Research
+1 Curiosity
+1 Curious Obsession
+1 Frostcliff Siege
+1 Goblin Bombardment
+1 Mass Hysteria
+1 Reconnaissance Mission
+1 Teferi's Ageless Insight
+1 Waterbender Ascension
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Ferrous Lake
+1 Frostboil Snarl
+18 Island
+10 Mountain
+1 Secluded Courtyard
+1 Shivan Reef
+1 Sulfur Falls
+1 Unclaimed Territory
+Sideboard
+1 Dargo, the Shipwrecker
+1 Malcolm, Keen-Eyed Navigator

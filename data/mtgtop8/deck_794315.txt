@@ -1,0 +1,74 @@
+1 Thought Courier
+1 Homunculus Horde
+1 Malcolm, Alluring Scoundrel
+1 Overlord of the Floodpits
+1 Grazilaxx, Illithid Scholar
+1 Solemn Simulacrum
+1 Pol Jamaar, Illusionist
+1 Detective of the Month
+1 Drowned Rusalka
+1 The Unagi of Kyoshi Island
+1 Defiler of Dreams
+1 Jacob Hauken, Inspector
+1 Emrakul's Messenger
+1 Psychosis Crawler
+1 Shoreline Looter
+1 Ghostly Pilferer
+1 Tetsuko Umezawa, Fugitive
+1 Merfolk Looter
+1 Arcanis the Omnipotent
+1 Mischievous Mystic
+1 Body of Knowledge
+1 Twenty-Toed Toad
+1 Curiosity Crafter
+1 Azami, Lady of Scrolls
+1 Wonder
+1 Alandra, Sky Dreamer
+1 Midnight Clock
+1 Decanter of Endless Water
+1 Bident of Thassa
+1 Arcane Signet
+1 Howling Mine
+1 Sol Ring
+1 Sapphire Medallion
+1 Lotus Ring
+1 Skullclamp
+1 Thought Vessel
+1 Thopter Fabricator
+1 Maskwood Nexus
+1 Frantic Search
+1 Strix Serenade
+1 An Offer You Can't Refuse
+1 You Find the Villains' Lair
+1 Perilous Research
+1 Brainstorm
+1 Perplexing Test
+1 Counterspell
+1 Archmage's Charm
+1 Aetherize
+1 Rapid Hybridization
+1 Brainsurge
+1 Pongify
+1 Arcane Denial
+1 Spirit Water Revival
+1 Monastery Siege
+1 Amphibian Downpour
+1 Proft's Eidetic Memory
+1 Struggle for Project Purity
+1 Curse of Verbosity
+1 Teferi's Ageless Insight
+1 Observed Stasis
+1 Wizard Class
+1 Dictate of Kruphix
+1 Reconnaissance Mission
+1 Mordenkainen
+1 Teferi, Temporal Pilgrim
+1 Reliquary Tower
+1 Memorial to Genius
+28 Island
+1 Rogue's Passage
+1 Mystic Sanctuary
+1 Cephalid Coliseum
+1 Riptide Laboratory
+Sideboard
+1 Minn, Wily Illusionist

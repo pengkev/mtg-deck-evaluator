@@ -1,0 +1,85 @@
+1 Tandem Lookout
+1 Skirk Prospector
+1 Penregon Strongbull
+1 Drift of Phantasms
+1 Sunshot Militia
+1 Longshot, Rebel Bowman
+1 Ingenious Artillerist
+1 Imagecrafter
+1 Reckless Fireweaver
+1 Amoeboid Changeling
+1 Professional Face-Breaker
+1 Simian Spirit Guide
+1 Trinket Mage
+1 Siren Stormtamer
+1 Fellwar Stone
+1 Lightning Greaves
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Runed Stalactite
+1 Talisman of Creativity
+1 Lofty Denial
+1 Wings of Velis Vel
+1 Lightning Bolt
+1 Brainstorm
+1 Final Fortune
+1 Impulse
+1 Izzet Charm
+1 Abandon Attachments
+1 Mental Misstep
+1 Dispel
+1 Abrade
+1 Blades of Velis Vel
+1 Trickery Charm
+1 Muddle the Mixture
+1 Flare of Duplication
+1 Into the Flood Maw
+1 Shore Up
+1 Frantic Search
+1 Borne Upon a Wind
+1 Negate
+1 Counterspell
+1 Snap
+1 Misdirection
+1 Chain of Vapor
+1 Fiery Cannonade
+1 Daze
+1 Flusterstorm
+1 An Offer You Can't Refuse
+1 Pact of Negation
+1 Spell Pierce
+1 Mizzium Skin
+1 Magic Damper
+1 Rite of Flame
+1 Ponder
+1 Compulsive Research
+1 Treasure Cruise
+1 Preordain
+1 Gitaxian Probe
+1 Lorien Revealed
+1 Ophidian Eye
+1 Mystic Remora
+1 Unable to Scream
+1 Curiosity
+7 Mountain
+1 Sulfur Falls
+1 Cascade Bluffs
+1 Stormcarved Coast
+1 Exotic Orchard
+11 Island
+1 Gemstone Mine
+1 Seat of the Synod
+1 Silverbluff Bridge
+1 Shivan Reef
+1 Frostboil Snarl
+1 Mystic Sanctuary
+1 Command Tower
+1 Izzet Boilerworks
+1 Opal Palace
+1 Great Furnace
+1 Volatile Fjord
+1 Fiery Islet
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Kediss, Emberclaw Familiar

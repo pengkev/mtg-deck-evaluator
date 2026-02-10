@@ -1,0 +1,82 @@
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 Farmstead Gleaner
+1 Golem Artisan
+1 Gwenom, Remorseless
+1 Iron Spider, Stark Upgrade
+1 Metalworker
+1 Millikin
+1 Painter's Servant
+1 Palladium Myr
+1 Patchwork Gnomes
+1 Phyrexian Devourer
+1 Pili-Pala
+1 Stitcher's Supplier
+1 Triskelion
+1 Walking Ballista
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Basalt Monolith
+1 Bolas's Citadel
+1 Chrome Mox
+1 Codex Shredder
+1 Eerie Gravestone
+1 Fell Gravship
+1 Grim Monolith
+1 Grindstone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mesmeric Orb
+1 Mox Diamond
+1 Mox Opal
+1 Perpetual Timepiece
+1 Rocket Launcher
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Domination
+1 The Endstone
+1 The One Ring
+1 Torpor Orb
+1 Wand of Vertebrae
+1 Ad Nauseam
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Defile
+1 Dismember
+1 Entomb
+1 Imp's Mischief
+1 Snuff Out
+1 Vampiric Tutor
+1 Withering Boon
+1 Beseech the Mirror
+1 Buried Alive
+1 Dark Deal
+1 Demonic Tutor
+1 Diabolic Intent
+1 Exsanguinate
+1 Final Parting
+1 Funeral Rites
+1 Grim Tutor
+1 Imperial Seal
+1 Praetor's Grasp
+1 Reanimate
+1 Resentful Revelation
+1 Scheming Symmetry
+1 Torment of Hailfire
+1 Unmarked Grave
+1 Yawgmoth's Will
+1 Necropotence
+1 Out of the Tombs
+1 Urza's Saga
+1 Ancient Tomb
+1 Cabal Coffers
+1 Cavern of Souls
+1 Gemstone Caverns
+1 Lake of the Dead
+20 Swamp
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Trazyn the Infinite

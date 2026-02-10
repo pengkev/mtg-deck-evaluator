@@ -1,0 +1,101 @@
+1 Arbor Elf
+1 Archivist of Oghma
+1 Birds of Paradise
+1 Bloom Tender
+1 Brightglass Gearhulk
+1 Cloud of Faeries
+1 Delighted Halfling
+1 Delney, Streetwise Lookout
+1 Elvish Spirit Guide
+1 Emiel the Blessed
+1 Endurance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Eternal Witness
+1 Faeburrow Elder
+1 Faerie Mastermind
+1 Fanatic of Rhonas
+1 Felidar Guardian
+1 Gilded Drake
+1 Grand Abolisher
+1 Kinnan, Bonder Prodigy
+1 Noble Hierarch
+1 Phyrexian Metamorph
+1 Preston, the Vanisher
+1 Ranger-Captain of Eos
+1 Spellseeker
+1 Thassa's Oracle
+1 Arcane Signet
+1 Chromatic Orrery
+1 Chrome Mox
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Chord of Calling
+1 Crop Rotation
+1 Cyclonic Rift
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Mental Misstep
+1 Mindbreak Trap
+1 Noxious Revival
+1 Snap
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Veil of Summer
+1 Eldritch Evolution
+1 Fabricate
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Neoform
+1 Transmute Artifact
+1 Wargate
+1 Blind Obedience
+1 Carpet of Flowers
+1 Concordant Crossroads
+1 Earthcraft
+1 Rhystic Study
+1 Training Grounds
+1 Verity Circle
+1 Wild Growth
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Strand
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plains
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Derevi, Empyrial Tactician

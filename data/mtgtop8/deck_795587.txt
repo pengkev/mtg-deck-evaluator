@@ -1,0 +1,85 @@
+1 Archmage Emeritus
+1 Grand Abolisher
+1 Leonin Lightscribe
+1 Malevolent Hermit
+1 Pippin, Guard of the Citadel
+1 Silver Myr
+1 The Reality Chip
+1 Triton Wavebreaker
+1 Arcane Signet
+1 Chromatic Sphere
+1 Chromatic Star
+1 Conjurer's Bauble
+1 Hand of Vecna
+1 Talisman of Progress
+1 Apostle's Blessing
+1 Brainstorm
+1 Defiant Strike
+1 Deliberate
+1 Disenchant
+1 Emerge Unscathed
+1 Feat of Resistance
+1 Flare of Faith
+1 Guided Strike
+1 Hithlain Knots
+1 Keep Safe
+1 Leap
+1 Mana Leak
+1 March of Swirling Mist
+1 Mental Misstep
+1 Miscalculation
+1 Negate
+1 No More Lies
+1 Plunge into Winter
+1 Rebellious Strike
+1 Remand
+1 Reprieve
+1 Sejiri Shelter
+1 Shadow Rift
+1 Shelter
+1 Snap
+1 Swords to Plowshares
+1 Unstable Experiment
+1 Water Wings
+1 Words of Wisdom
+1 Zhalfirin Shapecraft
+1 Combat Tutorial
+1 Enter the Enigma
+1 Gitaxian Probe
+1 Honor
+1 Inaction Injunction
+1 Open the Armory
+1 Ponder
+1 Preordain
+1 See Beyond
+1 Slip Through Space
+1 All That Glitters
+1 Cartouche of Knowledge
+1 Combat Research
+1 Fae Flight
+1 Feather of Flight
+1 Proft's Eidetic Memory
+1 Rune of Flight
+1 Rune of Sustenance
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Spectral Flight
+1 Spirit Mantle
+1 Steel of the Godhead
+1 Narset, Parter of Veils
+1 Adarkar Wastes
+1 Bonders' Enclave
+1 Cathedral of War
+1 Command Tower
+1 Deserted Beach
+1 Glacial Fortress
+1 Irrigated Farmland
+12 Island
+1 Lonely Sandbar
+6 Plains
+1 Port Town
+1 Prairie Stream
+1 Seachrome Coast
+1 Secluded Steppe
+Sideboard
+1 Lyse Hext

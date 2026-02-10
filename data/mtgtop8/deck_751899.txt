@@ -1,0 +1,87 @@
+1 "Name Sticker" Goblin
+1 Bramble Familiar
+1 Bramble Sovereign
+1 Destiny Spinner
+1 Disciple of Freyalise
+1 Dualcaster Mage
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Eternal Scourge
+1 Eternal Witness
+1 Evendo Brushrazer
+1 Fyndhorn Elves
+1 Geode Golem
+1 Goblin Anarchomancer
+1 Goblin Matron
+1 Herigast, Erupting Nullkite
+1 Jaxis, the Troublemaker
+1 Llanowar Elves
+1 Orcish Lumberjack
+1 Pinnacle Monk
+1 Reckless Barbarian
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Tinder Wall
+1 Arcane Signet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Gruul Signet
+1 Lotus Bloom
+1 Panharmonicon
+1 Sol Ring
+1 Sol Talisman
+1 Springleaf Drum
+1 Talisman of Impulse
+1 The Fire Crystal
+1 Voyager Staff
+1 Weathered Runestone
+1 Autumn's Veil
+1 Beast Within
+1 Eldrazi Confluence
+1 Emerald Charm
+1 Flare of Duplication
+1 Fury Storm
+1 Guttural Response
+1 Increasing Vengeance
+1 Nature's Claim
+1 Open the Omenpaths
+1 Peerless Recycling
+1 Red Elemental Blast
+1 Return the Favor
+1 Ricochet Trap
+1 Savage Summoning
+1 Untimely Malfunction
+1 Bridgeworks Battle
+1 Eldritch Evolution
+1 Electroduplicate
+1 Geosurge
+1 Glimpse the Impossible
+1 Infernal Plunge
+1 Insist
+1 Malevolent Rumble
+1 Metamorphosis
+1 Regrowth
+1 Stump Stomp
+1 Sundering Eruption
+1 Time of Need
+1 Twinflame
+1 Carpet of Flowers
+1 Food Chain
+1 Rhythm of the Wild
+1 There and Back Again
+1 Utopia Sprawl
+1 Wild Growth
+1 Chandra, Flameshaper
+1 Minsc & Boo, Timeless Heroes
+1 Ash Barrens
+1 Cinder Glade
+1 Command Tower
+8 Forest
+1 Game Trail
+1 Geier Reach Sanitarium
+1 Mogg Hollows
+8 Mountain
+1 Pinecrest Ridge
+1 Temple of Abandon
+Sideboard
+1 Etali, Primal Conqueror

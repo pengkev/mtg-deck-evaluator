@@ -1,0 +1,96 @@
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Sylvan Safekeeper
+1 Collector Ouphe
+1 Sakura-Tribe Scout
+1 Dryad of the Ilysian Grove
+1 Allosaurus Shepherd
+1 Lotus Cobra
+1 Ashaya, Soul of the Wild
+1 Ramunap Excavator
+1 Quirion Ranger
+1 Colossal Skyturtle
+1 Tireless Provisioner
+1 Nissa, Resurgent Animist
+1 Delighted Halfling
+1 Spellseeker
+1 Eternal Witness
+1 Ancient Greenwarden
+1 Lotus Petal
+1 Mana Crypt
+1 Sol Ring
+1 Mana Vault
+1 Chrome Mox
+1 Crucible of Worlds
+1 Jeweled Lotus
+1 The One Ring
+1 Veil of Summer
+1 Ghostly Flicker
+1 Flusterstorm
+1 Force of Negation
+1 Fierce Guardianship
+1 Mental Misstep
+1 Noxious Revival
+1 Mystical Tutor
+1 Worldly Tutor
+1 Crop Rotation
+1 Cyclonic Rift
+1 Force of Will
+1 Swan Song
+1 Pact of Negation
+1 Mindbreak Trap
+1 Delay
+1 Summoner's Pact
+1 Resculpt
+1 Turn the Earth
+1 Alchemist's Retrieval
+1 March of Swirling Mist
+1 An Offer You Can't Refuse
+1 Rapid Hybridization
+1 Nexus of Fate
+1 Legolas's Quick Reflexes
+1 Restore
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nature's Lore
+1 Walk the Aeons
+1 Temporal Mastery
+1 Sea Gate Restoration
+1 Temporal Manipulation
+1 Three Visits
+1 Awaken the Woods
+1 Rhystic Study
+1 Trade Routes
+1 Mystic Remora
+1 Exploration
+1 Sylvan Library
+1 Wild Growth
+1 Mystic Sanctuary
+1 Field of the Dead
+1 Breeding Pool
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Emergence Zone
+1 Prismatic Vista
+1 Waterlogged Grove
+1 Oboro, Palace in the Clouds
+1 Gaea's Cradle
+1 Tropical Island
+1 Gemstone Caverns
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Scalding Tarn
+1 Command Beacon
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+2 Forest
+2 Snow-Covered Forest
+2 Island
+3 Snow-Covered Island
+Sideboard
+1 Tatyova, Benthic Druid

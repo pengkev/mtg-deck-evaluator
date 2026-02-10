@@ -1,0 +1,72 @@
+1 Arboreal Grazer
+1 Boseiju Reaches Skyward
+1 Craterhoof Behemoth
+1 Cultivator Colossus
+1 Dwynen's Elite
+1 Eladamri, Korvecdal
+1 Elfsworn Giant
+1 Elvish Archdruid
+1 Elvish Regrower
+1 Fierce Empath
+1 Garruk's Packleader
+1 Imperious Perfect
+1 Ivy Lane Denizen
+1 Llanowar Elves
+1 Llanowar Loamspeaker
+1 Oran-Rief Hydra
+1 Overlord of the Hauntwoods
+1 Perennial Behemoth
+1 Priest of Titania
+1 Rampaging Baloths
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Six
+1 Springbloom Druid
+1 Sylvan Safekeeper
+1 Three Tree Rootweaver
+1 Tireless Provisioner
+1 Titania, Nature's Force
+1 Twitching Doll
+1 Tyvar, the Pummeler
+1 Voyaging Satyr
+1 Wildborn Preserver
+1 Caged Sun
+1 Commander's Sphere
+1 Emerald Medallion
+1 Mind Stone
+1 Bite Down
+1 Blinding Fog
+1 Chord of Calling
+1 Naturalize
+1 Snakeskin Veil
+1 Coordinated Clobbering
+1 Cultivate
+1 Kodama's Reach
+1 Many Partings
+1 Migration Path
+1 Preposterous Proportions
+1 Primal Might
+1 Rampant Growth
+1 Seek the Horizon
+1 Virtue of Strength
+1 Arboreal Alliance
+1 Blanchwood Armor
+1 Case of the Locked Hothouse
+1 Court of Bounty
+1 Garruk's Uprising
+1 Hunter's Talent
+1 Primeval Bounty
+1 Wrenn and Seven
+1 Arid Archway
+1 Cryptic Caves
+1 Dryad Arbor
+1 Escape Tunnel
+1 Evolving Wilds
+30 Forest
+1 Hidden Nursery
+1 Shire Terrace
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Volatile Fault
+Sideboard
+1 Loot, Exuberant Explorer

@@ -1,0 +1,86 @@
+1 Soul's Attendant
+1 Soul Warden
+1 Mother of Runes
+1 Mangara, the Diplomat
+1 Vito, Thorn of the Dusk Rose
+1 Suture Priest
+1 Ranger of Eos
+1 Kambal, Consul of Allocation
+1 Ajani's Pridemate
+1 Esper Sentinel
+1 Vexilus Praetor
+1 Lurrus of the Dream-Den
+1 Sunscorch Regent
+1 Lotho, Corrupt Shirriff
+1 Amalia Benavides Aguirre
+1 Twilight Prophet
+1 Kambal, Profiteering Mayor
+1 Witch Enchanter
+1 K'rrik, Son of Yawgmoth
+1 Enduring Tenacity
+1 Essence Channeler
+1 Reluctant Role Model
+1 Exemplar of Light
+1 Bloodthirsty Aerialist
+1 Voice of the Blessed
+1 Blood Artist
+1 Whispersilk Cloak
+1 Talisman of Hierarchy
+1 Fountain of Renewal
+1 Sun Droplet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Aetherflux Reservoir
+1 Pristine Talisman
+1 Well of Lost Dreams
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Celestial Armor
+1 Orzhov Signet
+1 Bolas's Citadel
+1 The Ozolith
+1 Path to Exile
+1 Kaya's Guile
+1 Brave the Elements
+1 Enlightened Tutor
+1 Sejiri Shelter
+1 Rebuff the Wicked
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Vanishing Verse
+1 Fell the Profane
+1 Razorgrass Ambush
+1 Grim Tutor
+1 Sevinne's Reclamation
+1 Toxic Deluge
+1 Farewell
+1 Darksteel Mutation
+1 Sanguine Bond
+1 Smothering Tithe
+1 Land Tax
+1 Authority of the Consuls
+1 Black Market Connections
+1 Exquisite Blood
+1 Case of the Uneaten Feast
+1 Glasswing Grace
+1 Phyrexian Arena
+1 Ajani, Strength of the Pride
+1 Sorin, Vengeful Bloodlord
+1 Arcane Lighthouse
+1 Caves of Koilos
+1 Kabira Crossroads
+1 Command Tower
+1 War Room
+1 Exotic Orchard
+1 Tainted Field
+1 Rogue's Passage
+1 Desolate Mire
+1 Bleachbone Verge
+1 Scoured Barrens
+1 Vault of the Archangel
+1 Isolated Chapel
+1 Temple of Silence
+9 Plains
+8 Swamp
+Sideboard
+1 Karlov of the Ghost Council

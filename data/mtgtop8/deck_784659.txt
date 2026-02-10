@@ -1,0 +1,88 @@
+1 Audacious Thief
+1 Blood Hustler
+1 Bloodthirsty Aerialist
+1 Carrion Feeder
+1 Changeling Outcast
+1 Common Crook
+1 Disciple of the Vault
+1 Dockside Chef
+1 Faerie Bladecrafter
+1 Forsaken Miner
+1 Hoard Robber
+1 Marionette Apprentice
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Nadier's Nightblade
+1 Ogre Slumlord
+1 Pitiless Plunderer
+1 Popular Egotist
+1 Rag Dealer
+1 Reno and Rude
+1 Rooftop Assassin
+1 Scurrilous Sentry
+1 Skeletal Changeling
+1 Skullport Merchant
+1 Stingblade Assassin
+1 Susurian Voidborn
+1 Timeline Culler
+1 Vengeful Bloodwitch
+1 Viscera Seer
+1 Zhentarim Bandit
+1 Zulaport Cutthroat
+1 Thieves' Tools
+1 Breathe Your Last
+1 Cast Down
+1 Consuming Corruption
+1 Cremate
+1 Crypt Incursion
+1 Deadly Derision
+1 Deadly Dispute
+1 Defile
+1 Eviscerator's Insight
+1 Grasp of Darkness
+1 Heartless Act
+1 Long Goodbye
+1 Pharika's Cure
+1 Professor's Warning
+1 Rowan's Grim Search
+1 Scarab Feast
+1 Sorin's Thirst
+1 Tragic Slip
+1 Urge to Feed
+1 Winter's Intervention
+1 Crippling Fear
+1 Diabolic Tutor
+1 Exsanguinate
+1 Illicit Shipment
+1 Insatiable Avarice
+1 Resourceful Return
+1 Return from Extinction
+1 Tegwyll's Scouring
+1 Unearth
+1 Zero Point Ballad
+1 Molting Snakeskin
+1 Underhanded Designs
+1 Access Tunnel
+1 Barren Moor
+1 Bojuka Bog
+1 Cryptic Caves
+1 Demolition Field
+1 Ebon Stronghold
+1 Escape Tunnel
+1 Evolving Wilds
+1 High Market
+1 Mortuary Mire
+1 Myriad Landscape
+1 Mystifying Maze
+1 Obscura Storefront
+1 Polluted Mire
+1 Quicksand
+1 Riveteers Overlook
+1 Rogue's Passage
+1 Spymaster's Vault
+14 Swamp
+1 Terramorphic Expanse
+1 Urza's Cave
+1 Witch's Cottage
+Sideboard
+1 Mari, the Killing Quill

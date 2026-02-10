@@ -1,0 +1,94 @@
+1 Sword Coast Serpent
+1 Ancient Silver Dragon
+1 Thunder Dragon
+1 Astral Dragon
+1 Twinflame Tyrant
+1 Sapphire Dragon
+1 Dragonologist
+1 Amethyst Dragon
+1 Lathliss, Dragon Queen
+1 Marang River Regent
+1 Roaming Throne
+1 Drakuseth, Maw of Flames
+1 Young Blue Dragon
+1 Keiga, the Tide Star
+1 Ganax, Astral Hunter
+1 Niv-Mizzet, Parun
+1 Harmonic Prodigy
+1 Young Red Dragon
+1 Skyline Despot
+1 Wrathful Red Dragon
+1 Sailors' Bane
+1 Fang Dragon
+1 Niv-Mizzet, Visionary
+1 Scourge of Valkas
+1 Iymrith, Desert Doom
+1 Lapis Orb of Dragonkind
+1 Sol Ring
+1 Talisman of Creativity
+1 Ruby Medallion
+1 Arcane Signet
+1 Dragon's Hoard
+1 Izzet Signet
+1 Carnelian Orb of Dragonkind
+1 Mox Jasper
+1 Dragonstorm Globe
+1 Dragon's Fire
+1 Silumgar's Scorn
+1 Hypothesizzle
+1 Dispelling Exhale
+1 Frantic Firebolt
+1 Wash Away
+1 Cyclonic Rift
+1 Daze
+1 Chaos Warp
+1 Lindblum, Industrial Regency
+1 Counterspell
+1 Sarkhan's Triumph
+1 Disdainful Stroke
+1 An Offer You Can't Refuse
+1 Draconic Lore
+1 Arcane Denial
+1 Expressive Iteration
+1 Winged Words
+1 Ill-Timed Explosion
+1 Winternight Stories
+1 Jidoor, Aristocratic Capital
+1 Chain Reaction
+1 Blasphemous Act
+1 Temporal Mastery
+1 Dragon Tempest
+1 Dracogenesis
+1 Fiery Emancipation
+1 Breaching Dragonstorm
+1 Roiling Dragonstorm
+1 Sunbird's Invocation
+1 The Rollercrusher Ride
+1 Invasion of Tarkir
+1 Sarkhan, Fireblood
+1 Training Center
+1 Fiery Islet
+1 Maelstrom of the Spirit Dragon
+1 Haven of the Spirit Dragon
+1 Temple of the Dragon Queen
+1 Path of Ancestry
+1 Ash Barrens
+1 Temple of Epiphany
+1 Command Tower
+4 Mountain
+1 Desolate Lighthouse
+1 Spirebluff Canal
+1 Stormcarved Coast
+1 Exotic Orchard
+1 Sulfur Falls
+1 Unclaimed Territory
+1 Cori Mountain Monastery
+1 Myriad Landscape
+1 Izzet Boilerworks
+1 Thundering Falls
+5 Island
+1 Steam Vents
+1 Terrain Generator
+1 Scalding Tarn
+Sideboard
+1 Lozhan, Dragons' Legacy

@@ -1,0 +1,62 @@
+1 Kogla, the Titan Ape
+1 Khalni Garden
+1 Kazandu Mammoth
+1 Hour of Promise
+1 Guildless Commons
+1 Glacial Chasm
+39 Forest
+1 Fierce Empath
+1 Ezuri's Predation
+1 Extinguisher Battleship
+1 Explore
+1 Evolving Wilds
+1 Emrakul, the World Anew
+1 Eldrazi Confluence
+1 Dust Bowl
+1 Crystal Vein
+1 Cabaretti Courtyard
+1 Bridgeworks Battle
+1 Breaker of Creation
+1 Beast Within
+1 Baloth Prime
+1 Azusa's Many Journeys
+1 Arid Archway
+1 Arboreal Grazer
+1 Apex Devastator
+1 Apex Altisaur
+1 Ancient Adamantoise
+1 Adventurer's Inn
+1 Kozilek, the Great Distortion
+1 Mulch
+1 Nissa's Pilgrimage
+1 Nissa's Renewal
+1 Nissa's Triumph
+1 Oblivion Stone
+1 Perennial Behemoth
+1 Planar Nexus
+1 Primal Command
+1 Primal Druid
+1 Radiant Fountain
+1 Riveteers Overlook
+1 Sakura-Tribe Elder
+1 Scout the City
+1 Damage Control Crew
+1 Shared Summons
+1 Shrine of the Forsaken Gods
+1 Spatial Contortion
+1 Vine Trellis
+1 Sylvan Scrying
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Timeless Witness
+1 Titan of Industry
+1 Ugin, the Spirit Dragon
+1 Urza's Tower
+1 Viridian Emissary
+1 Wall of Blossoms
+1 Wall of Roots
+1 War Room
+1 Winding Way
+1 Wrenn and Seven
+Sideboard
+1 Azusa, Lost but Seeking

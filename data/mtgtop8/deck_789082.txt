@@ -1,0 +1,74 @@
+1 Changeling Outcast
+1 Cloud Pirates
+1 Deadeye Tracker
+1 Elegy Acolyte
+1 Grasping Scoundrel
+1 Greedy Freebooter
+1 Kitesail Larcenist
+1 Mothdust Changeling
+1 Rook Turret
+1 Siren Stormtamer
+1 Spectral Sailor
+1 Spyglass Siren
+1 Symbiote Spider-Man
+1 Universal Automaton
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Bident of Thassa
+1 Black Mage's Rod
+1 Dimir Signet
+1 Moonsilver Key
+1 Sol Ring
+1 Talisman of Dominance
+1 Brainstorm
+1 Counterspell
+1 Delay
+1 Dig Through Time
+1 Into the Flood Maw
+1 Lim-Dul's Vault
+1 Magic Damper
+1 Muddle the Mixture
+1 Mystical Teachings
+1 Negate
+1 Opt
+1 Pongify
+1 Rapid Hybridization
+1 Scour for Scrap
+1 Shoot the Sheriff
+1 Shore Up
+1 Slaughter Pact
+1 Spell Pierce
+1 Stubborn Denial
+1 Unsummon
+1 Whir of Invention
+1 Buried Alive
+1 Chart a Course
+1 Demonic Counsel
+1 Fabricate
+1 Final Parting
+1 Lively Dirge
+1 Ponder
+1 Preordain
+1 Reshape
+1 Sleight of Hand
+1 Solve the Equation
+1 Treasure Cruise
+1 Unmarked Grave
+1 Combat Research
+1 Dress Down
+1 Freed from the Real
+1 Hermetic Study
+1 Painful Quandary
+1 Unable to Scream
+1 Command Tower
+1 Crystal Vein
+16 Island
+1 Seat of the Synod
+13 Swamp
+1 Underground River
+1 Vault of Whispers
+Sideboard
+1 Francisco, Fowl Marauder
+1 Malcolm, Keen-Eyed Navigator

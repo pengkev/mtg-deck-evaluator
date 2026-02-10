@@ -1,0 +1,88 @@
+1 Grafdigger's Cage
+1 Grim Monolith
+1 God-Pharaoh's Statue
+1 Mox Opal
+1 Isochron Scepter
+1 Torpor Orb
+1 Lion's Eye Diamond
+1 Basalt Monolith
+1 Chrome Mox
+1 Rings of Brighthearth
+1 Liquimetal Torque
+1 Moonsnare Prototype
+1 Manifold Key
+1 Mana Vault
+1 Arcane Signet
+1 Spine of Ish Sah
+1 Portal to Phyrexia
+1 Springleaf Drum
+1 Lightning Greaves
+1 The One Ring
+1 Citanul Flute
+1 Sol Ring
+1 Lotus Petal
+1 Chromatic Orrery
+1 Fabricate
+1 Solve the Equation
+1 Step Through
+1 Mind Over Matter
+1 Back to Basics
+1 Rhystic Study
+1 Mystic Remora
+1 Tezzeret the Seeker
+1 Merchant Scroll
+1 Flusterstorm
+1 Mental Misstep
+1 Muddle the Mixture
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Swan Song
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Whir of Invention
+1 Force of Negation
+1 Spell Pierce
+1 Force of Will
+1 Fierce Guardianship
+1 Resculpt
+1 Sink into Stupor
+1 An Offer You Can't Refuse
+1 Winter Moon
+1 Transmute Artifact
+1 Crashing Drawbridge
+1 Myr Retriever
+1 Walking Ballista
+1 Phyrexian Walker
+1 Filigree Sages
+1 Spellskite
+1 Shield Sphere
+1 Ornithopter of Paradise
+1 Silver Myr
+1 Combat Courier
+1 Myr Convert
+1 Spellseeker
+1 K-9, Mark I
+1 Cogwork Wrestler
+1 Hydroelectric Specimen
+1 Marvin, Murderous Mimic
+1 Phyrexian Metamorph
+1 Hangarback Walker
+1 Ornithopter
+1 Corridor Monitor
+1 Urza's Saga
+1 Saprazzan Skerry
+1 Ancient Tomb
+1 Blinkmoth Nexus
+1 Inkmoth Nexus
+1 Crystal Vein
+1 Gemstone Caverns
+1 Mishra's Factory
+1 Otawara, Soaring City
+1 Inventors' Fair
+1 Minamo, School at Water's Edge
+1 City of Traitors
+14 Island
+Sideboard
+1 Arcum Dagsson

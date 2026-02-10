@@ -1,0 +1,101 @@
+1 Karn, the Great Creator
+1 Mystic Remora
+1 Amphibian Downpour
+1 Dress Down
+1 Rhystic Study
+1 Massacre
+1 Extract a Confession
+1 Demonic Tutor
+1 Diabolic Intent
+1 Praetor's Grasp
+1 Mnemonic Betrayal
+1 Toxic Deluge
+1 Mire in Misery
+1 An Offer You Can't Refuse
+1 Sheoldred's Edict
+1 Stifle
+1 Into the Flood Maw
+1 Pongify
+1 Flare of Malice
+1 V.A.T.S.
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Force of Will
+1 Spell Pierce
+1 Mana Drain
+1 Force of Negation
+1 Baleful Mastery
+1 Tainted Pact
+1 Mindbreak Trap
+1 Flusterstorm
+1 Retraction Helix
+1 Pact of Negation
+1 Swan Song
+1 Trickbind
+1 Demonic Consultation
+1 Mental Misstep
+1 Cabal Ritual
+1 Dark Ritual
+1 Contagion
+1 Sudden Substitution
+1 Dismember
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Dominance
+1 Tithing Blade
+1 The One Ring
+1 Damping Sphere
+1 Mana Vault
+1 Cursed Totem
+1 Weathered Runestone
+1 Fellwar Stone
+1 Mox Diamond
+1 Chrome Mox
+1 Mox Opal
+1 Lotus Petal
+1 Rev, Tithe Extractor
+1 Dauthi Voidwalker
+1 Mockingbird
+1 Valley Floodcaller
+1 Accursed Marauder
+1 Hydroelectric Specimen
+1 Harvester of Misery
+1 Psychic Frog
+1 Notion Thief
+1 Orcish Bowmasters
+1 Sheoldred
+1 Faerie Mastermind
+1 Opposition Agent
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Minamo, School at Water's Edge
+1 Island
+1 Swamp
+1 Forbidden Orchard
+1 Vault of Whispers
+1 Command Tower
+1 Cabal Pit
+1 Polluted Delta
+1 Undercity Sewers
+1 Ancient Tomb
+1 Seat of the Synod
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Marsh Flats
+1 Gemstone Caverns
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Clearwater Pathway
+1 Verdant Catacombs
+1 Mana Confluence
+1 Underground Sea
+1 Misty Rainforest
+1 Watery Grave
+1 City of Traitors
+1 Strip Mine
+1 Urza's Saga
+Sideboard
+1 Vren, the Relentless

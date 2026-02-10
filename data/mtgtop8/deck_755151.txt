@@ -1,0 +1,93 @@
+1 Greedy Freebooter
+1 Skirk Prospector
+1 Goldhound
+1 Marionette Apprentice
+1 Baleful Strix
+1 Accursed Marauder
+1 Runaway Steam-Kin
+1 Magda, Brazen Outlaw
+1 Ghostly Pilferer
+1 Volatile Stormdrake
+1 Putrid Goblin
+1 Malcolm, Alluring Scoundrel
+1 Mayhem Devil
+1 Malcolm, Keen-Eyed Navigator
+1 Glint-Horn Buccaneer
+1 Murderous Redcap
+1 Pitiless Plunderer
+1 Notion Thief
+1 Thermopod
+1 Everflowing Chalice
+1 Sol Ring
+1 Chromatic Star
+1 Altar of the Brood
+1 Springleaf Drum
+1 Soul-Guide Lantern
+1 Chromatic Sphere
+1 Pentad Prism
+1 Unstable Amulet
+1 Servo Schematic
+1 Imposter Mech
+1 Oni-Cult Anvil
+1 Moonsilver Key
+1 Dimir Signet
+1 Rakdos Signet
+1 Wishclaw Talisman
+1 Relic of Legends
+1 Blasting Station
+1 Cursed Mirror
+1 An Offer You Can't Refuse
+1 Wash Away
+1 Spell Snare
+1 Consign to Memory
+1 Rakdos Charm
+1 Defabricate
+1 Infernal Grasp
+1 Lose Focus
+1 Muddle the Mixture
+1 First Day of Class
+1 Abrade
+1 Lim-Dul's Vault
+1 Ricochet Trap
+1 Unearth
+1 Reckless Handling
+1 Grapeshot
+1 Painful Truths
+1 Ringsight
+1 Windfall
+1 Beseech the Queen
+1 Yahenni's Expertise
+1 Treasure Cruise
+1 Goblin Bombardment
+1 Chthonian Nightmare
+1 Bastion of Remembrance
+1 Agent of the Iron Throne
+1 Verity Circle
+1 Jeska, Thrice Reborn
+1 Bojuka Bog
+4 Swamp
+3 Island
+1 Gemstone Mine
+1 Sulfurous Springs
+1 Dragonskull Summit
+4 Mountain
+1 Tainted Peak
+1 Exotic Orchard
+1 Tainted Isle
+1 Buried Ruin
+1 Spire of Industry
+1 Drossforge Bridge
+1 Tendo Ice Bridge
+1 Command Tower
+1 Darkwater Catacombs
+1 Black Dragon Gate
+1 Avishkar Raceway
+1 Path of Ancestry
+1 Shadowblood Ridge
+1 The Mycosynth Gardens
+1 Geier Reach Sanitarium
+1 Scene of the Crime
+1 Choked Estuary
+Sideboard
+1 Silas Renn, Seeker Adept
+1 Dargo, the Shipwrecker

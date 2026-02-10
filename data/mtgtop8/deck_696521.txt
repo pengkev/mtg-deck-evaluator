@@ -1,0 +1,101 @@
+1 Simian Spirit Guide
+1 Dragon's Rage Channeler
+1 Ragavan, Nimble Pilferer
+1 Grand Abolisher
+1 Esper Sentinel
+1 Pollywog Prodigy
+1 Grinding Station
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Lightning Greaves
+1 Chrome Mox
+1 Mox Amber
+1 Izzet Signet
+1 Talisman of Creativity
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Progress
+1 Defense Grid
+1 The One Ring
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Pact of Negation
+1 Mystical Tutor
+1 Chance for Glory
+1 Flusterstorm
+1 Rushing River
+1 Mental Misstep
+1 Force of Will
+1 Pull from Eternity
+1 Silence
+1 Stubborn Denial
+1 Swan Song
+1 Mindbreak Trap
+1 Angel's Grace
+1 Lightning Bolt
+1 Force of Negation
+1 Otherworldly Gaze
+1 Brain Freeze
+1 An Offer You Can't Refuse
+1 Thought Scour
+1 Enlightened Tutor
+1 Borne Upon a Wind
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Path to Exile
+1 Final Fortune
+1 Intuition
+1 Into the Flood Maw
+1 Gamble
+1 Rite of Flame
+1 Burning Inquiry
+1 Merchant Scroll
+1 Quiet Speculation
+1 Jeska's Will
+1 Faithless Looting
+1 Anger of the Gods
+1 Windfall
+1 Sevinne's Reclamation
+1 Transmute Artifact
+1 Wheel of Fortune
+1 Underworld Breach
+1 Smothering Tithe
+1 Wild Research
+1 Rhystic Study
+1 Clout of the Dominus
+1 Mystic Remora
+1 Static Prison
+1 Jace, Wielder of Mysteries
+1 Teferi, Time Raveler
+1 Jace, the Perfected Mind
+1 Island
+1 Spire of Industry
+1 Mana Confluence
+1 Steam Vents
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Crystal Vein
+1 Gemstone Caverns
+1 Flooded Strand
+1 Polluted Delta
+1 Arid Mesa
+1 Command Tower
+1 Training Center
+1 Spectator Seating
+1 Sea of Clouds
+1 Misty Rainforest
+1 Scalding Tarn
+1 Hallowed Fountain
+1 Sacred Foundry
+1 Otawara, Soaring City
+1 City of Brass
+1 Exotic Orchard
+1 Plateau
+1 Tundra
+1 Volcanic Island
+1 Tarnished Citadel
+1 Thundering Falls
+Sideboard
+1 Narset, Enlightened Exile

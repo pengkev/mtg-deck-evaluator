@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Circu, Dimir Lobotomist
+1 Corpse Knight
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Esper Sentinel
+1 Eternal Scourge
+1 Fyndhorn Elves
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Kinnan, Bonder Prodigy
+1 Llanowar Elves
+1 Lotho, Corrupt Shirriff
+1 Misthollow Griffin
+1 Noble Hierarch
+1 Orcish Bowmasters
+1 Squee, the Immortal
+1 Thassa's Oracle
+1 Voice of Victory
+1 Walking Ballista
+1 Witch Enchanter
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Scroll Rack
+1 Sol Ring
+1 Abrupt Decay
+1 Ad Nauseam
+1 Assassin's Trophy
+1 Dark Ritual
+1 Demonic Consultation
+1 Dovin's Veto
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Lim-Dul's Vault
+1 Manamorphose
+1 Mental Misstep
+1 Mystical Tutor
+1 Noxious Revival
+1 Silence
+1 Sink into Stupor
+1 Swan Song
+1 Vampiric Tutor
+1 Veil of Summer
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Extract
+1 Foresight
+1 Gitaxian Probe
+1 Grim Tutor
+1 Manipulate Fate
+1 Mnemonic Betrayal
+1 Sevinne's Reclamation
+1 Carpet of Flowers
+1 Food Chain
+1 Mystic Remora
+1 Smothering Tithe
+1 Sterling Grove
+1 Sylvan Library
+1 Underworld Breach
+1 Teferi, Time Raveler
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Elegant Parlor
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hedge Maze
+1 Lush Portico
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Raucous Theater
+1 Reflecting Pool
+1 Sacred Foundry
+1 Shadowy Backstreet
+1 Starting Town
+1 Stomping Ground
+1 Tarnished Citadel
+1 Thundering Falls
+1 Undercity Sewers
+1 Verdant Catacombs
+1 Windswept Heath
+Sideboard
+1 Niv-Mizzet Reborn

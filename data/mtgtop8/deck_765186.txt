@@ -1,0 +1,84 @@
+1 Anger
+1 Anje, Maid of Dishonor
+1 Anowon, the Ruin Sage
+1 Blood Artist
+1 Bloodghast
+1 Bloodline Keeper
+1 Bloodline Necromancer
+1 Bloodtithe Harvester
+1 Butcher of Malakir
+1 Captivating Vampire
+1 Champion of Dusk
+1 Cordial Vampire
+1 Crossway Troublemakers
+1 Falkenrath Forebear
+1 Falkenrath Noble
+1 Florian, Voldaren Scion
+1 Henrika Domnathi
+1 Ivora, Insatiable Heir
+1 Kamber, the Plunderer
+1 Laurine, the Diversion
+1 Malakir Bloodwitch
+1 Markov Enforcer
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Necropolis Regent
+1 Nirkana Revenant
+1 Olivia Voldaren
+1 Olivia, Crimson Bride
+1 Olivia's Attendants
+1 Patron of the Vein
+1 Sanctum Seeker
+1 Stromkirk Captain
+1 Timothar, Baron of Bats
+1 Twilight Prophet
+1 Vampire Socialite
+1 Vein Ripper
+1 Voldaren Epicure
+1 Westgate Regent
+1 Arcane Signet
+1 Blood Fountain
+1 Glass-Cast Heart
+1 Lightning Greaves
+1 Oni-Cult Anvil
+1 Rakdos Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 Bedevil
+1 Infernal Grasp
+1 Malakir Rebirth
+1 Rakdos Charm
+1 Terminate
+1 Blasphemous Act
+1 Feed the Swarm
+1 Night's Whisper
+1 Olivia's Wrath
+1 Pointed Discussion
+1 Vampire's Kiss
+1 Vandalblast
+1 Kaya's Ghostform
+1 Phyrexian Arena
+1 Sorin the Mirthless
+1 Sorin, Imperious Bloodlord
+1 Bloodfell Caves
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Foreboding Ruins
+1 Ifnir Deadlands
+1 Leechridden Swamp
+7 Mountain
+1 Path of Ancestry
+1 Ramunap Ruins
+1 Secluded Courtyard
+1 Shadowblood Ridge
+1 Smoldering Marsh
+12 Swamp
+1 Tainted Peak
+1 Temple of Malice
+1 Tramway Station
+1 Unclaimed Territory
+1 Voldaren Estate
+Sideboard
+1 Strefan, Maurer Progenitor

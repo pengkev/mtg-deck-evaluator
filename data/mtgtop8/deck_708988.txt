@@ -1,0 +1,101 @@
+1 Hoarding Broodlord
+1 Pinnacle Monk
+1 Sire of Insanity
+1 Valgavoth, Terror Eater
+1 Vilis, Broker of Blood
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Relic of Legends
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 The One Ring
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 Autumn's Veil
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Divergent Transformations
+1 Entomb
+1 Final Fortune
+1 Flare of Duplication
+1 Lightning Bolt
+1 Mogg Salvage
+1 Noxious Revival
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Shallow Grave
+1 Snuff Out
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Burning Inquiry
+1 Culling Ritual
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Faithless Looting
+1 Final Parting
+1 Gamble
+1 Grim Tutor
+1 Imperial Seal
+1 Infernal Plunge
+1 Jeska's Will
+1 Life/Death
+1 Praetor's Grasp
+1 Reality Scramble
+1 Reanimate
+1 Rite of Flame
+1 Transmogrify
+1 Unmarked Grave
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Carpet of Flowers
+1 Defense of the Heart
+1 Necropotence
+1 Nether Void
+1 Oath of Druids
+1 Underworld Breach
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Krark, the Thumbless
+1 Reyhan, Last of the Abzan

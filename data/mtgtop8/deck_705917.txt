@@ -1,0 +1,101 @@
+1 Treasonous Ogre
+1 Changeling Berserker
+1 Dualcaster Mage
+1 Simian Spirit Guide
+1 Opposition Agent
+1 Hellkite Courser
+1 Immersturm Predator
+1 Wandering Archaic
+1 "Name Sticker" Goblin
+1 Hoarding Broodlord
+1 Ragavan, Nimble Pilferer
+1 Terror of the Peaks
+1 Wishclaw Talisman
+1 Mox Opal
+1 Lotus Petal
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Prismatic Lens
+1 The Celestus
+1 Talisman of Indulgence
+1 Sol Ring
+1 Chrome Mox
+1 Arcane Signet
+1 Fellwar Stone
+1 Altar of Dementia
+1 Defense Grid
+1 The One Ring
+1 Vexing Bauble
+1 Rakdos Signet
+1 Cabal Ritual
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Reverberate
+1 Dark Ritual
+1 Corpse Dance
+1 Red Elemental Blast
+1 Shallow Grave
+1 Burnt Offering
+1 Pyroblast
+1 Fork
+1 Sacrifice
+1 Ricochet Trap
+1 Seething Song
+1 Sarkhan's Triumph
+1 Cathartic Pyre
+1 Saw in Half
+1 Invoke Calamity
+1 Entomb
+1 Vampiric Tutor
+1 Zoyowa's Justice
+1 Bitter Triumph
+1 Lightning Axe
+1 Rite of Flame
+1 Dragonstorm
+1 Reanimate
+1 Praetor's Grasp
+1 Exhume
+1 Demonic Tutor
+1 Wheel of Fortune
+1 Final Parting
+1 Buried Alive
+1 Wheel of Misfortune
+1 Jeska's Will
+1 Unmarked Grave
+1 Persist
+1 Imperial Seal
+1 Gamble
+1 Beseech the Mirror
+1 Lively Dirge
+1 Molten Duplication
+1 Coiling Rebirth
+1 Animate Dead
+1 Goblin Bombardment
+1 Necromancy
+1 Underworld Breach
+1 City of Traitors
+1 Luxury Suite
+1 Ancient Tomb
+1 City of Brass
+1 Mana Confluence
+1 Crystal Vein
+1 Badlands
+1 Gemstone Caverns
+1 Sulfurous Springs
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mountain
+1 Swamp
+1 Command Tower
+1 Gemstone Mine
+1 Blood Crypt
+1 Mount Doom
+1 Raucous Theater
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Polluted Delta
+Sideboard
+1 Bladewing the Risen

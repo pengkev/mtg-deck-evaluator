@@ -1,0 +1,101 @@
+1 Esika, God of the Tree
+1 Abrupt Decay
+1 Agatha's Soul Cauldron
+1 An Offer You Can't Refuse
+1 Arid Mesa
+1 Assassin's Trophy
+1 Avacyn's Pilgrim
+1 Ancient Tomb
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Carpet of Flowers
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Crop Rotation
+1 Cyclonic Rift
+1 Deadpool, Trading Card
+1 Deafening Silence
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Demonic Tutor
+1 Derevi, Empyrial Tactician
+1 Drana and Linvala
+1 Drannith Magistrate
+1 Eladamri's Call
+1 Elves of Deep Shadow
+1 Emiel the Blessed
+1 Enduring Vitality
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Finale of Devastation
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Gaea's Cradle
+1 Grand Arbiter Augustin IV
+1 Ignoble Hierarch
+1 Ioreth of the Healing House
+1 Katilda, Dawnhart Prime
+1 Lavinia, Azorius Renegade
+1 Llanowar Elves
+1 Lotho, Corrupt Shirriff
+1 Lotus Petal
+1 Louisoix's Sacrifice
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Marvin, Murderous Mimic
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misty Rainforest
+1 Mount Doom
+1 Mox Amber
+1 Mystic Remora
+1 Nature's Rhythm
+1 Neoform
+1 Noble Hierarch
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Path to Exile
+1 Plaza of Heroes
+1 Polluted Delta
+1 Relic of Legends
+1 Ruby, Daring Tracker
+1 Samut, Voice of Dissent
+1 Savannah
+1 Scalding Tarn
+1 Selvala, Heart of the Wilds
+1 Kinnan, Bonder Prodigy
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Rhystic Study
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Taiga
+1 Tarnished Citadel
+1 The One Ring
+1 Torgal, A Fine Hound
+1 Tropical Island
+1 Tundra
+1 Tyvar, Jubilant Brawler
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Ragavan, Nimble Pilferer
+Sideboard
+1 Sisay, Weatherlight Captain

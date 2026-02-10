@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Ashling, Flame Dancer
+1 Birgi, God of Storytelling
+1 Breena, the Demagogue
+1 Delney, Streetwise Lookout
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Emrakul, the Promised End
+1 Esper Sentinel
+1 Flamescroll Celebrant
+1 Grand Abolisher
+1 Harmonic Prodigy
+1 Knuckles the Echidna
+1 Lotho, Corrupt Shirriff
+1 Mayhem Devil
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Voice of Victory
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Relic of Legends
+1 Sol Ring
+1 Wishclaw Talisman
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Flare of Duplication
+1 Fork
+1 Fury Storm
+1 Gut Shot
+1 Orim's Chant
+1 Path to Exile
+1 Pyroblast
+1 Rain of Filth
+1 Red Elemental Blast
+1 Reverberate
+1 Saw in Half
+1 Silence
+1 Surgical Extraction
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Praetor's Grasp
+1 Reanimate
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Strike It Rich
+1 Wheel of Fortune
+1 Smothering Tithe
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Mana Confluence
+1 Marsh Flats
+1 Phyrexian Tower
+1 Plateau
+1 Polluted Delta
+1 Sacred Foundry
+1 Scalding Tarn
+1 Scrubland
+1 Shadowy Backstreet
+1 Starting Town
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Krark, the Thumbless
+1 Tymna the Weaver

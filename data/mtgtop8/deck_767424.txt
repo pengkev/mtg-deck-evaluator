@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Dualcaster Mage
+1 Glaring Fleshraker
+1 Memnite
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ornithopter
+1 Phyrexian Walker
+1 Ragavan, Nimble Pilferer
+1 Shield Sphere
+1 Simian Spirit Guide
+1 Spider-Punk
+1 Warren Soultrader
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Blood Fountain
+1 Bolas's Citadel
+1 Chrome Mox
+1 Cursed Mirror
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Inspiring Statuary
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Nimblewright Schematic
+1 Peter Parker's Camera
+1 Phyrexian Altar
+1 Prized Statue
+1 Rakdos Signet
+1 Sensei's Divining Top
+1 Servo Schematic
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 The One Ring
+1 Tormod's Crypt
+1 Welding Jar
+1 Wishclaw Talisman
+1 Abrade
+1 Bottle-Cap Blast
+1 Burnt Offering
+1 Culling the Weak
+1 Dark Ritual
+1 Final Fortune
+1 Galvanic Blast
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Sacrifice
+1 Saw in Half
+1 Untimely Malfunction
+1 Vampiric Tutor
+1 Blasphemous Act
+1 Demonic Tutor
+1 Diabolic Intent
+1 Electroduplicate
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Molten Duplication
+1 Peer into the Abyss
+1 Rite of Flame
+1 Twinflame
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Urza's Saga
+1 Weapons Manufacturing
+1 Ancient Tomb
+1 Badlands
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Traitors
+1 Command Tower
+1 Darksteel Citadel
+1 Drossforge Bridge
+1 Fomori Vault
+1 Gemstone Caverns
+1 Great Furnace
+1 Luxury Suite
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scene of the Crime
+1 Spire of Industry
+1 Sulfurous Springs
+1 Swamp
+1 Treasure Vault
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Whispers
+1 Verdant Catacombs
+Sideboard
+1 Imskir Iron-Eater

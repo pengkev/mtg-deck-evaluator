@@ -1,0 +1,100 @@
+1 Ranger-Captain of Eos
+1 Phyrexian Metamorph
+1 Spellskite
+1 Ancestral Statue
+1 Esper Sentinel
+1 Malevolent Hermit
+1 Hullbreaker Horror
+1 Displacer Kitten
+1 Faerie Mastermind
+1 Weathered Wayfarer
+1 Witch Enchanter
+1 Glaring Fleshraker
+1 Recruiter of the Guard
+1 Valley Floodcaller
+1 Archivist of Oghma
+1 Clever Impersonator
+1 Tataru Taru
+1 Chromatic Orrery
+1 Coveted Jewel
+1 Mox Opal
+1 Azorius Signet
+1 Grim Monolith
+1 Mana Vault
+1 Memory Jar
+1 Mox Diamond
+1 Voltaic Key
+1 Chrome Mox
+1 Talisman of Progress
+1 Sol Ring
+1 Moonsilver Key
+1 Manifold Key
+1 Fellwar Stone
+1 Machine God's Effigy
+1 The One Ring
+1 Arcane Signet
+1 Lotus Petal
+1 Vision Skeins
+1 Gifts Ungiven
+1 Pact of Negation
+1 Silence
+1 Intuition
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Misdirection
+1 Mindbreak Trap
+1 Banishing Knack
+1 Words of Wisdom
+1 Enlightened Tutor
+1 Even the Score
+1 Force of Negation
+1 Force of Will
+1 Swan Song
+1 Resculpt
+1 Swords to Plowshares
+1 Flusterstorm
+1 Commandeer
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Paradoxical Outcome
+1 Transmute Artifact
+1 Prosperity
+1 Echo of Eons
+1 Timetwister
+1 Fabricate
+1 Day's Undoing
+1 Sea Gate Restoration
+1 Solve the Equation
+1 Smothering Tithe
+1 Urza's Saga
+1 Touch the Spirit Realm
+1 Mystic Remora
+1 Invasion of Arcavios
+1 Rhystic Study
+1 Greater Auramancy
+1 Tezzeret the Seeker
+1 Teferi, Time Raveler
+1 City of Traitors
+1 Arid Mesa
+1 Scalding Tarn
+1 Ancient Tomb
+1 Mana Confluence
+1 Hallowed Fountain
+1 Tundra
+1 Gemstone Caverns
+1 Flooded Strand
+1 Command Tower
+1 Cephalid Coliseum
+1 Misty Rainforest
+1 Adarkar Wastes
+1 Otawara, Soaring City
+1 Plains
+1 Meticulous Archive
+1 Polluted Delta
+1 Floodfarm Verge
+1 Mistrise Village
+1 Minamo, School at Water's Edge
+1 Sea of Clouds
+2 Island
+Sideboard
+1 Heliod, the Radiant Dawn

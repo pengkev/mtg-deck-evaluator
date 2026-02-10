@@ -1,0 +1,101 @@
+1 Karn, the Great Creator
+1 Invasion of Ikoria
+1 Utopia Sprawl
+1 Carpet of Flowers
+1 Wild Growth
+1 Concordant Crossroads
+1 Sylvan Library
+1 Eldritch Evolution
+1 Green Sun's Zenith
+1 Sylvan Tutor
+1 Finale of Devastation
+1 Turntimber Symbiosis
+1 Force of Vigor
+1 Chord of Calling
+1 Archdruid's Charm
+1 To Arms!
+1 Legolas's Quick Reflexes
+1 Crop Rotation
+1 Nature's Claim
+1 Silence
+1 Autumn's Veil
+1 Enlightened Tutor
+1 Veil of Summer
+1 Calamity's Wake
+1 Summoner's Pact
+1 Angel's Grace
+1 Benefactor's Draught
+1 Congregation at Dawn
+1 Worldly Tutor
+1 Noxious Revival
+1 Eladamri's Call
+1 Swords to Plowshares
+1 Lightning Greaves
+1 Mana Vault
+1 Sol Ring
+1 Chrome Mox
+1 Umbral Mantle
+1 Thousand-Year Elixir
+1 Ranger-Captain of Eos
+1 Enduring Vitality
+1 Marvin, Murderous Mimic
+1 Endurance
+1 Witch Enchanter
+1 Stoneforge Mystic
+1 Priest of Titania
+1 Kutzil, Malamet Exemplar
+1 Dauntless Dismantler
+1 Birds of Paradise
+1 Grand Abolisher
+1 Delighted Halfling
+1 Emiel the Blessed
+1 Archivist of Oghma
+1 Temur Sabertooth
+1 Elvish Spirit Guide
+1 Circle of Dreams Druid
+1 Elesh Norn, Grand Cenobite
+1 Esper Sentinel
+1 Quirion Ranger
+1 Scryb Ranger
+1 Shalai, Voice of Plenty
+1 Fyndhorn Elves
+1 Ashaya, Soul of the Wild
+1 Skyclave Apparition
+1 Arbor Elf
+1 Drannith Magistrate
+1 Reclamation Sage
+1 Heliod, Sun-Crowned
+1 Destiny Spinner
+1 Avacyn's Pilgrim
+1 Llanowar Elves
+1 Dionus, Elvish Archdruid
+1 Village Bell-Ringer
+1 Walking Ballista
+1 Eternal Witness
+1 Allosaurus Shepherd
+1 Command Tower
+1 Shifting Woodland
+1 Lush Portico
+1 Horizon Canopy
+1 Cavern of Souls
+1 Forest
+1 Boseiju, Who Endures
+1 Plains
+1 Arid Mesa
+1 Gemstone Caverns
+1 Verdant Catacombs
+1 Windswept Heath
+1 Marsh Flats
+1 Temple Garden
+1 Wooded Foothills
+1 Mana Confluence
+1 Misty Rainforest
+1 Flooded Strand
+1 City of Brass
+1 Savannah
+1 Gaea's Cradle
+1 Ancient Tomb
+1 Bountiful Promenade
+1 Wirewood Lodge
+Sideboard
+1 Selvala, Explorer Returned

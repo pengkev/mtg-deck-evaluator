@@ -1,0 +1,101 @@
+1 Abrupt Decay
+1 Agatha's Soul Cauldron
+1 Amphibian Downpour
+1 Ancient Tomb
+1 Arcane Signet
+1 Archon of Emeria
+1 Arena of Glory
+1 Assassin's Trophy
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Crop Rotation
+1 Cyclonic Rift
+1 Damping Sphere
+1 Deadpool, Trading Card
+1 Deafening Silence
+1 Deathrite Shaman
+1 Deflecting Swat
+1 Delighted Halfling
+1 Demonic Tutor
+1 Derevi, Empyrial Tactician
+1 Disruptor Flute
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Enlightened Tutor
+1 Ertai Resurrected
+1 Esper Sentinel
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Fire Covenant
+1 Flusterstorm
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Generator Servant
+1 Gilded Drake
+1 Green Sun's Zenith
+1 Guild Artisan
+1 Hall of the Bandit Lord
+1 High Noon
+1 Imperial Seal
+1 Ioreth of the Healing House
+1 Kutzil, Malamet Exemplar
+1 Legolas's Quick Reflexes
+1 Lightning Greaves
+1 Llawan, Cephalid Empress
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Vault
+1 Marvin, Murderous Mimic
+1 Mental Misstep
+1 Mistrise Village
+1 Misty Rainforest
+1 Mount Doom
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Najeela, the Blade-Blossom
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Plateau
+1 Polluted Delta
+1 Relic of Legends
+1 Rhystic Study
+1 Ruby, Daring Tracker
+1 Sakashima of a Thousand Faces
+1 Samut, Voice of Dissent
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Silence
+1 Simian Spirit Guide
+1 Smothering Tithe
+1 Sneak Attack
+1 Sol Ring
+1 Squandered Resources
+1 Survival of the Fittest
+1 Swan Song
+1 Taiga
+1 Talon Gates of Madara
+1 Tataru Taru
+1 Teferi, Time Raveler
+1 The Soul Stone
+1 Torgal, A Fine Hound
+1 Tropical Island
+1 Tundra
+1 Tyvar, Jubilant Brawler
+1 Underground Sea
+1 Vampiric Tutor
+1 Volatile Stormdrake
+1 Volcanic Island
+1 Wild Growth
+1 Windswept Heath
+Sideboard
+1 Sisay, Weatherlight Captain

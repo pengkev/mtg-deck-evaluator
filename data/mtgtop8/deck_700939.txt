@@ -1,0 +1,98 @@
+1 Walking Ballista
+1 Grand Abolisher
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Kozilek, the Great Distortion
+1 Eldrazi Displacer
+1 Dimensional Infiltrator
+1 Prophet of Distortion
+1 Recruiter of the Guard
+1 Ranger-Captain of Eos
+1 Urza, Lord High Artificer
+1 Drannith Magistrate
+1 Glasspool Mimic
+1 Esper Sentinel
+1 Hullbreaker Horror
+1 Archivist of Oghma
+1 Displacer Kitten
+1 Faerie Mastermind
+1 Flesh Duplicate
+1 Emrakul, the World Anew
+1 Ulamog, the Defiler
+1 Volatile Stormdrake
+1 Witch Enchanter
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Mox Amber
+1 Blasting Station
+1 Fellwar Stone
+1 Basalt Monolith
+1 Sol Ring
+1 Rings of Brighthearth
+1 Voltaic Key
+1 Talisman of Progress
+1 Mortarpod
+1 Nim Deathmantle
+1 Coveted Jewel
+1 God-Pharaoh's Statue
+1 Manifold Key
+1 Arcane Signet
+1 Chromatic Orrery
+1 The One Ring
+1 Force of Will
+1 Ghostly Flicker
+1 Dispel
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Swords to Plowshares
+1 Pact of Negation
+1 Stubborn Denial
+1 Silence
+1 Mindbreak Trap
+1 Mental Misstep
+1 Cyclonic Rift
+1 Orim's Chant
+1 Flusterstorm
+1 Dovin's Veto
+1 Ephemerate
+1 Force of Negation
+1 March of Swirling Mist
+1 An Offer You Can't Refuse
+1 Permission Denied
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Reshape
+1 Steelshaper's Gift
+1 Energy Tap
+1 Fabricate
+1 Sevinne's Reclamation
+1 Sea Gate Restoration
+1 Mystic Remora
+1 Rhystic Study
+2 Smothering Tithe
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Karn, the Great Creator
+1 Irrigated Farmland
+2 Plains
+2 Island
+1 Glacial Fortress
+1 Cavern of Souls
+1 Forbidden Orchard
+1 Adarkar Wastes
+1 Exotic Orchard
+1 Hallowed Fountain
+1 Nimbus Maze
+1 Windswept Heath
+1 Reflecting Pool
+1 Marsh Flats
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Command Tower
+1 Sea of Clouds
+1 Mystic Sanctuary
+1 Glacial Floodplain
+1 Deserted Beach
+1 Idyllic Beachfront
+Sideboard
+1 Rasputin Dreamweaver

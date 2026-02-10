@@ -1,0 +1,99 @@
+1 Academy Manufactor
+1 Arasta of the Endless Web
+1 Arbor Elf
+1 Birds of Paradise
+1 Blood Artist
+1 Boggart Trawler
+1 Braids, Arisen Nightmare
+1 Craterhoof Behemoth
+1 Darkstar Augur
+1 Deep Forest Hermit
+1 Delighted Halfling
+1 Deranged Hermit
+1 Disciple of Freyalise
+1 Eladamri, Korvecdal
+1 Elvish Mystic
+1 Gilded Goose
+1 Gravecrawler
+1 Jaheira, Friend of the Forest
+1 Llanowar Elves
+1 Marionette Apprentice
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Paradise Druid
+1 Protean Hulk
+1 Rev, Tithe Extractor
+1 Ruthless Knave
+1 Scute Swarm
+1 Species Specialist
+1 Springheart Nantuko
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Toski, Bearer of Secrets
+1 Valley Rotcaller
+1 Viscera Seer
+1 Warren Soultrader
+1 Arcane Signet
+1 Ashnod's Altar
+1 Coat of Arms
+1 Golgari Signet
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Mox Amber
+1 Patchwork Banner
+1 Phyrexian Altar
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Deadly Dispute
+1 Force of Vigor
+1 Legolas's Quick Reflexes
+1 Pawpatch Formation
+1 Plumb the Forbidden
+1 Revitalizing Repast
+1 Second Harvest
+1 Chatterstorm
+1 Diabolic Intent
+1 Malevolent Rumble
+1 Shamanic Revelation
+1 Bastion of Remembrance
+1 Black Market Connections
+1 Doubling Season
+1 Earthcraft
+1 Funeral Room/Awakening Hall
+1 Into the Pit
+1 Parallel Lives
+1 Sylvan Library
+1 Urza's Saga
+1 Utopia Sprawl
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Command Tower
+2 Forest
+1 Fountainport
+1 Llanowar Wastes
+1 Mana Confluence
+1 Marsh Flats
+1 Mirrex
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Prismatic Vista
+1 Shifting Woodland
+2 Swamp
+1 Swarmyard
+1 Takenuma, Abandoned Mire
+1 The Shire
+1 Three Tree City
+1 Twilight Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Chatterfang, Squirrel General

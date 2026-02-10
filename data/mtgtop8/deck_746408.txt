@@ -1,0 +1,88 @@
+1 Adaptive Automaton
+1 Barkform Harvester
+1 Battered Golem
+1 Bloodfire Dwarf
+1 Bloodline Pretender
+1 Dwarven Armorer
+1 Dwarven Grunt
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Fury
+1 Goblin Engineer
+1 Goblin Welder
+1 Liberated Dwarf
+1 Metallic Mimic
+1 Roaming Throne
+1 Spark Mage
+1 Twinshot Sniper
+1 Universal Automaton
+1 Xorn
+1 Ashnod's Transmogrant
+1 Clock of Omens
+1 Clown Car
+1 Damping Sphere
+1 Disruptor Flute
+1 God-Pharaoh's Statue
+1 Grafdigger's Cage
+1 Grinding Station
+1 Legion Extruder
+1 Lifecraft Engine
+1 Liquimetal Torque
+1 Mana Vault
+1 Maskwood Nexus
+1 Mirror of the Forebears
+1 Mycosynth Lattice
+1 Portal to Phyrexia
+1 Sculpting Steel
+1 Skysovereign, Consul Flagship
+1 Smuggler's Copter
+1 Sol Ring
+1 Sphere of Resistance
+1 Spine of Ish Sah
+1 Springleaf Drum
+1 The One Ring
+1 Thorn of Amethyst
+1 Torpor Orb
+1 Trinisphere
+1 Uba Mask
+1 Unlicensed Hearse
+1 Vexing Bauble
+1 Abrade
+1 Bottle-Cap Blast
+1 Cast into the Fire
+1 Chaos Warp
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Galvanic Blast
+1 Ghostfire Slice
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Wild Magic Surge
+1 Jeska's Will
+1 Vandalblast
+1 Blood Moon
+1 Impending Disaster
+1 Stranglehold
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Arena of Glory
+1 Buried Ruin
+1 Cavern of Souls
+1 Command Beacon
+1 Great Furnace
+1 Holdout Settlement
+1 Inventors' Fair
+1 Kavaron, Memorial World
+14 Mountain
+1 Mutavault
+1 Scavenger Grounds
+1 Shinka, the Bloodsoaked Keep
+1 Sokenzan, Crucible of Defiance
+1 Strip Mine
+1 Survivors' Encampment
+1 The Mycosynth Gardens
+1 Treasure Vault
+Sideboard
+1 Magda, Brazen Outlaw

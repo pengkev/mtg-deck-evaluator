@@ -1,0 +1,64 @@
+1 Torbran, Thane of Red Fell
+1 Firebrand Archer
+1 Young Pyromancer
+1 Drakuseth, Maw of Flames
+1 Varchild, Betrayer of Kjeldor
+1 Bedlam Reveler
+1 Electrostatic Field
+1 Neheb, the Eternal
+1 Rampaging Ferocidon
+1 Urabrask
+1 Gimli, Counter of Kills
+1 Imodane, the Pyrohammer
+1 Inti, Seneschal of the Sun
+1 Magda, the Hoardmaster
+1 Ashling, Flame Dancer
+1 Harnesser of Storms
+1 Twinflame Tyrant
+1 Firespitter Whelp
+1 Storm-Kiln Artist
+1 Smoldering Egg
+1 Electrostatic Infantry
+1 Arcane Signet
+1 Sol Ring
+1 Ruby Medallion
+1 Extraplanar Lens
+1 Dowsing Dagger
+1 Ore-Rich Stalactite
+1 Burst Lightning
+1 Shock
+1 Lightning Strike
+1 Lightning Axe
+1 Abrade
+1 Reverberate
+1 Ravaging Blaze
+1 Virtue of Courage
+1 Torch the Tower
+1 Untimely Malfunction
+1 Purphoros's Intervention
+1 Faithless Looting
+1 Mizzix's Mastery
+1 Star of Extinction
+1 Blasphemous Act
+1 Chain Lightning
+1 Gamble
+1 Vandalblast
+1 Chain Reaction
+1 Firecannon Blast
+1 Isengard Unleashed
+1 Fiery Emancipation
+1 Furious Rise
+1 Aria of Flame
+1 Repercussion
+1 Invasion of Kaldheim
+1 Fiery Inscription
+1 Wild Wasteland
+1 Charred Foyer/Warped Space
+1 Dictate of the Twin Gods
+1 Count on Luck
+1 Chandra, Torch of Defiance
+1 Chandra, Hope's Beacon
+38 Mountain
+1 Valakut, the Molten Pinnacle
+Sideboard
+1 Toralf, God of Fury

@@ -1,0 +1,82 @@
+1 Anger
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Augur of Autumn
+1 Beanstalk Giant
+1 Boreal Druid
+1 Bramble Familiar
+1 Circle of Dreams Druid
+1 Disciple of Freyalise
+1 Dualcaster Mage
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Etali, Primal Storm
+1 Eternal Witness
+1 Flaming Tyrannosaurus
+1 Fyndhorn Elves
+1 Goblin Anarchomancer
+1 Goreclaw, Terror of Qal Sisma
+1 Gwenna, Eyes of Gaea
+1 Hyrax Tower Scout
+1 Jaxis, the Troublemaker
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Manglehorn
+1 Orcish Lumberjack
+1 Paradise Druid
+1 Priest of Titania
+1 Quirion Ranger
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Scryb Ranger
+1 Selvala, Heart of the Wilds
+1 Temur Sabertooth
+1 Tuktuk Rubblefort
+1 Urabrask the Hidden
+1 Voyaging Satyr
+1 Witty Roastmaster
+1 Wood Elves
+1 Arcane Signet
+1 Conjurer's Closet
+1 Cursed Mirror
+1 Gilded Lotus
+1 Sol Ring
+1 Worn Powerstone
+1 Abrade
+1 Beast Within
+1 Chaos Warp
+1 Harrow
+1 Heritage Reclamation
+1 Roiling Regrowth
+1 Cultivate
+1 Explore
+1 Heat Shimmer
+1 Migration Path
+1 Nissa's Pilgrimage
+1 Rampant Growth
+1 Ranger's Path
+1 Restore
+1 Skyshroud Claim
+1 Fires of Yavimaya
+1 Garruk's Uprising
+1 Goblin Bombardment
+1 Powerbalance
+1 Utopia Sprawl
+1 Wild Growth
+1 Garruk Wildspeaker
+1 Cinder Glade
+1 Command Tower
+1 Escape Tunnel
+1 Evolving Wilds
+1 Exotic Orchard
+13 Forest
+1 Gruul Turf
+1 Highland Forest
+8 Mountain
+1 Path of Ancestry
+1 Sheltered Thicket
+1 Temple of Abandon
+1 Terramorphic Expanse
+1 Wooded Ridgeline
+Sideboard
+1 Etali, Primal Conqueror

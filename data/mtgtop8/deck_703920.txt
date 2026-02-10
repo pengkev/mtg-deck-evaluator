@@ -1,0 +1,100 @@
+1 Walking Ballista
+1 Faerie Mastermind
+1 Spellseeker
+1 Talion, the Kindly Lord
+1 Valley Floodcaller
+1 Mockingbird
+1 Pollywog Prodigy
+1 Thassa's Oracle
+1 Laboratory Maniac
+1 Chrome Mox
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Mox Diamond
+1 Mox Amber
+1 Arcane Signet
+1 The One Ring
+1 Sol Ring
+1 Isochron Scepter
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Talisman of Dominance
+1 Gush
+1 Snap
+1 Miscast
+1 Dark Ritual
+1 Dispel
+1 Demonic Consultation
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Retraction Helix
+1 Banishing Knack
+1 Vampiric Tutor
+1 Delay
+1 Tainted Pact
+1 March of Swirling Mist
+1 Brain Freeze
+1 Lim-Dul's Vault
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Flusterstorm
+1 Muddle the Mixture
+1 Strix Serenade
+1 Sink into Stupor
+1 Into the Flood Maw
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Pact of Negation
+1 Cabal Ritual
+1 Mental Misstep
+1 Misdirection
+1 Force of Negation
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Force of Will
+1 Mindbreak Trap
+1 Flare of Denial
+1 Demonic Tutor
+1 Grim Tutor
+1 Transmute Artifact
+1 Yawgmoth's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Reanimate
+1 Doomsday
+1 Gitaxian Probe
+1 Deep Analysis
+1 Demonic Counsel
+1 Necropotence
+1 Rhystic Study
+1 Mystic Remora
+1 Necrodominance
+1 Urza's Saga
+1 City of Brass
+1 Watery Grave
+1 Morphic Pool
+1 Swamp
+1 Marsh Flats
+1 Mana Confluence
+1 Island
+1 Underground Sea
+1 Gemstone Caverns
+1 Snow-Covered Island
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Sunken Hollow
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Undercity Sewers
+1 Command Tower
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Talon Gates of Madara
+1 Mystic Sanctuary
+Sideboard
+1 Rona, Herald of Invasion

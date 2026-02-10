@@ -1,0 +1,92 @@
+1 Arcane Denial
+1 Arcane Signet
+1 Arid Mesa
+1 Bloodstained Mire
+1 Brainstorm
+1 Cascade Bluffs
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Cerulean Wisps
+1 City of Brass
+1 Command Tower
+1 Conduit Pylons
+1 Consider
+1 Counterspell
+1 Crimson Wisps
+1 Defense Grid
+1 Dragon's Rage Channeler
+1 Dramatic Reversal
+1 Expedite
+1 Faithless Looting
+1 Fellwar Stone
+1 Fiery Islet
+1 Flooded Strand
+1 Flusterstorm
+1 Frantic Search
+1 Gitaxian Probe
+1 Hidden Grotto
+1 Hidden Strings
+1 Invert Polarity
+5 Island
+1 Izzet Signet
+1 Jeska's Will
+1 Jeweled Amulet
+1 Kitsa, Otterball Elite
+1 Lava Dart
+1 Lazotep Plating
+1 Lose Focus
+1 Mana Drain
+1 Mana Leak
+1 Marvin, Murderous Mimic
+1 Merchant Scroll
+1 Might of the Meek
+1 Minamo, School at Water's Edge
+1 Mind Stone
+1 Misdirection
+1 Mistrise Village
+1 Misty Rainforest
+5 Mountain
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Dispute
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Otawara, Soaring City
+1 Overmaster
+1 Pact of Negation
+1 Peek
+1 Personal Tutor
+1 Polluted Delta
+1 Prismatic Lens
+1 Pyretic Ritual
+1 Reality Spasm
+1 Reflecting Pool
+1 Refocus
+1 Remand
+1 Repeal
+1 Scalding Tarn
+1 Seething Song
+1 Sensei's Divining Top
+1 Shivan Reef
+1 Shore Up
+1 Simian Spirit Guide
+1 Snap
+1 Sol Ring
+1 Spell Pierce
+1 Steam Vents
+1 Strike It Rich
+1 Swan Song
+1 Talisman of Creativity
+1 Tempted by the Oriq
+1 The One Ring
+1 Thought Vessel
+1 Twiddle
+1 Twisted Fealty
+1 Twitch
+1 Unwind
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Wooded Foothills
+Sideboard
+1 Stella Lee, Wild Card

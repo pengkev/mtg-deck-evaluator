@@ -1,0 +1,94 @@
+1 Academy Manufactor
+1 Birds of Paradise
+1 Blood Artist
+1 Blood Pet
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Disciple of the Vault
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fiend Artisan
+1 Gilded Goose
+1 Hoarding Broodlord
+1 Honest Rutstein
+1 Llanowar Elves
+1 Marionette Apprentice
+1 Nine-Lives Familiar
+1 Pitiless Plunderer
+1 Protean Hulk
+1 Ravenous Squirrel
+1 Sheoldred, the Apocalypse
+1 Treasure Dredger
+1 Twitching Doll
+1 Warren Soultrader
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Jeweled Amulet
+1 Lotus Petal
+1 Nuka-Cola Vending Machine
+1 Sensei's Divining Top
+1 Sol Ring
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 Assassin's Trophy
+1 Beast Within
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Entomb
+1 Force of Despair
+1 Force of Vigor
+1 Imp's Mischief
+1 Noxious Revival
+1 Saw in Half
+1 Verdant Command
+1 Chain of Smog
+1 Culling Ritual
+1 Damnation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Nuclear Fallout
+1 Reanimate
+1 Unmarked Grave
+1 Victimize
+1 Animate Dead
+1 Bitterblossom
+1 Black Market Connections
+1 Carpet of Flowers
+1 Dance of the Dead
+1 Earthcraft
+1 Squirrel Nest
+1 Survival of the Fittest
+1 The Meathook Massacre
+1 Urza's Saga
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Command Tower
+1 Ebon Stronghold
+3 Forest
+1 Gaea's Cradle
+1 Havenwood Battleground
+1 Hickory Woodlot
+1 Llanowar Wastes
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Peat Bog
+1 Phyrexian Tower
+1 Shifting Woodland
+6 Swamp
+1 Swarmyard
+1 Treasure Vault
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Volrath's Stronghold
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Chatterfang, Squirrel General

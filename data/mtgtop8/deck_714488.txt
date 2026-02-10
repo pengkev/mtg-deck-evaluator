@@ -1,0 +1,98 @@
+1 Talisman of Indulgence
+1 Fellwar Stone
+1 Ashnod's Altar
+1 Altar of Dementia
+1 The One Ring
+1 Arcane Signet
+1 Sensei's Divining Top
+1 Boros Signet
+1 Rakdos Signet
+1 Talisman of Conviction
+1 Sol Ring
+1 Mox Opal
+1 Bolas's Citadel
+1 Culling the Weak
+1 Cabal Ritual
+1 Red Elemental Blast
+1 Rain of Filth
+1 Burnt Offering
+1 Pyroblast
+1 Dark Ritual
+1 Silence
+1 Vampiric Tutor
+1 Chrome Mox
+1 Altar of the Wretched
+1 Path to Exile
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Mana Vault
+1 Phyrexian Altar
+1 Cursed Mirror
+1 Deflecting Swat
+1 Flare of Duplication
+1 Saw in Half
+1 Sacrifice
+1 Enlightened Tutor
+1 Sevinne's Reclamation
+1 Diabolic Intent
+1 Praetor's Grasp
+1 Rite of Flame
+1 Demonic Tutor
+1 Gamble
+1 Jeska's Will
+1 Beseech the Mirror
+1 Molten Duplication
+1 Peer into the Abyss
+1 Vandalblast
+1 Underworld Breach
+1 The Meathook Massacre
+1 Smothering Tithe
+1 Deadly Rollick
+1 Dualcaster Mage
+1 Simian Spirit Guide
+1 Birgi, God of Storytelling
+1 Imperial Recruiter
+1 Blood Artist
+1 Ruthless Technomancer
+1 Grand Abolisher
+1 Orcish Bowmasters
+1 Treasure Nabber
+1 Pitiless Plunderer
+1 Professional Face-Breaker
+1 Magda, Brazen Outlaw
+1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
+1 Warren Soultrader
+1 Lotho, Corrupt Shirriff
+1 Mayhem Devil
+1 Drannith Magistrate
+1 Emergence Zone
+1 High Market
+1 Scalding Tarn
+1 Blood Crypt
+1 Mana Confluence
+1 Sulfurous Springs
+1 Mount Doom
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Arid Mesa
+1 Flooded Strand
+1 Polluted Delta
+1 Spymaster's Vault
+1 Phyrexian Tower
+1 Arena of Glory
+1 Exotic Orchard
+1 Marsh Flats
+1 Verdant Catacombs
+1 Luxury Suite
+1 City of Brass
+1 Bloodstained Mire
+1 Urborg, Tomb of Yawgmoth
+1 Sacred Foundry
+2 Plains
+2 Swamp
+2 Mountain
+Sideboard
+1 Tymna the Weaver
+1 Dargo, the Shipwrecker

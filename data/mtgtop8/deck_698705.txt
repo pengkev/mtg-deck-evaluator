@@ -1,0 +1,101 @@
+1 Teferi, Time Raveler
+1 Mirrormade
+1 Artist's Talent
+1 Amphibian Downpour
+1 Static Prison
+1 Copy Enchantment
+1 Blind Obedience
+1 Smothering Tithe
+1 Underworld Breach
+1 Copy Artifact
+1 Mystic Remora
+1 Counterbalance
+1 Rhystic Study
+1 Blasphemous Act
+1 Jeska's Will
+1 Wheel of Fortune
+1 Gitaxian Probe
+1 Timetwister
+1 Rite of Flame
+1 Gamble
+1 Transmute Artifact
+1 Sevinne's Reclamation
+1 Into the Flood Maw
+1 Sink into Stupor
+1 Borne Upon a Wind
+1 Snap
+1 Force of Negation
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Pact of Negation
+1 Brain Freeze
+1 Mindbreak Trap
+1 Swan Song
+1 Red Elemental Blast
+1 Dramatic Reversal
+1 Chain of Vapor
+1 Force of Will
+1 Mystical Tutor
+1 Final Fortune
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Mental Misstep
+1 Dispel
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Flusterstorm
+1 Intuition
+1 Silence
+1 Pyroblast
+1 Brainstorm
+1 The One Ring
+1 Manifold Key
+1 Fellwar Stone
+1 Imposter Mech
+1 Sensei's Divining Top
+1 Cursed Totem
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Progress
+1 Mox Diamond
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Talisman of Creativity
+1 Grim Monolith
+1 Chrome Mox
+1 Mana Vault
+1 Lotus Petal
+1 Helm of Awakening
+1 Valley Floodcaller
+1 Displacer Kitten
+1 Esper Sentinel
+1 Dragon's Rage Channeler
+1 Birgi, God of Storytelling
+1 Ranger-Captain of Eos
+1 Mana Confluence
+1 Thundering Falls
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Arid Mesa
+1 Gemstone Caverns
+1 Windswept Heath
+1 Wooded Foothills
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Volcanic Island
+1 Tundra
+1 Plateau
+1 Fiery Islet
+1 Scalding Tarn
+1 Marsh Flats
+1 Steam Vents
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Sacred Foundry
+1 City of Traitors
+1 City of Brass
+1 Command Tower
+1 Urza's Saga
+Sideboard
+1 Elsha of the Infinite

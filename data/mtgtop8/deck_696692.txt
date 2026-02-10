@@ -1,0 +1,100 @@
+1 Birds of Paradise
+1 Aven Mindcensor
+1 Linvala, Keeper of Silence
+1 Archon of Valor's Reach
+1 Ranger-Captain of Eos
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 Godo, Bandit Warlord
+1 Drannith Magistrate
+1 Stoneforge Mystic
+1 Elvish Mystic
+1 Sanctum Prelate
+1 Avacyn's Pilgrim
+1 Sylvan Safekeeper
+1 Llanowar Elves
+1 Skyclave Apparition
+1 Archon of Emeria
+1 Fyndhorn Elves
+1 Toski, Bearer of Secrets
+1 Ragavan, Nimble Pilferer
+1 Endurance
+1 Aerial Extortionist
+1 Archivist of Oghma
+1 Slicer, Hired Muscle
+1 Loran of the Third Path
+1 Sigarda, Font of Blessings
+1 Delighted Halfling
+1 Kutzil, Malamet Exemplar
+1 Solitude
+1 Aven Interrupter
+1 Witch Enchanter
+1 Esper Sentinel
+1 Eladamri, Korvecdal
+1 Alexios, Deimos of Kosmos
+1 Fear of Missing Out
+1 Colossus Hammer
+1 Skullclamp
+1 Sword of Fire and Ice
+1 Mox Diamond
+1 Umezawa's Jitte
+1 Chrome Mox
+1 Sword of Hearth and Home
+1 Conqueror's Flail
+1 Helm of the Host
+1 Staff of Titania
+1 Shadowspear
+1 Lothlorien Blade
+1 Sol Ring
+1 Pip-Boy 3000
+1 Lost Jitte
+1 Disruptor Flute
+1 Eladamri's Call
+1 Chord of Calling
+1 Red Elemental Blast
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Surge of Salvation
+1 Deflecting Swat
+1 Get Lost
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Shatterskull Smashing
+1 Deafening Silence
+1 Wild Growth
+1 Survival of the Fittest
+1 Carpet of Flowers
+1 Suppression Field
+1 Urza's Saga
+1 Sylvan Library
+1 High Noon
+1 Karn, the Great Creator
+1 Exotic Orchard
+1 Bountiful Promenade
+1 Snow-Covered Forest
+1 Mana Confluence
+1 Temple Garden
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Sacred Foundry
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 City of Brass
+1 Yavimaya, Cradle of Growth
+1 Stomping Ground
+1 Command Tower
+1 Spire of Industry
+2 Snow-Covered Plains
+1 Ancient Tomb
+Sideboard
+1 Ardenn, Intrepid Archaeologist
+1 Tana, the Bloodsower

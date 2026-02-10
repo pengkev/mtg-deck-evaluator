@@ -1,0 +1,100 @@
+1 Birgi, God of Storytelling
+1 Hedron Detonator
+1 Glint-Horn Buccaneer
+1 Phyrexian Metamorph
+1 Tandem Lookout
+1 Dualcaster Mage
+1 Imperial Recruiter
+1 Siren Stormtamer
+1 Magda, Brazen Outlaw
+1 Wandering Archaic
+1 Spellskite
+1 Professional Face-Breaker
+1 Consecrated Sphinx
+1 Ragavan, Nimble Pilferer
+1 Nezahal, Primal Tide
+1 Niv-Mizzet, Parun
+1 Kitesail Larcenist
+1 Simian Spirit Guide
+1 Reckless Fireweaver
+1 Pinnacle Monk
+1 Spellseeker
+1 Jeweled Amulet
+1 Imposter Mech
+1 Mox Diamond
+1 Defense Grid
+1 Maskwood Nexus
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Mox Amber
+1 The One Ring
+1 Arcane Signet
+1 Sol Ring
+1 Mana Vault
+1 Lotus Petal
+1 Swan Song
+1 Chain of Vapor
+1 Red Elemental Blast
+1 Lightning Bolt
+1 Daze
+1 Pyroblast
+1 Muddle the Mixture
+1 Artificial Evolution
+1 Trickery Charm
+1 Dispel
+1 March of Swirling Mist
+1 Force of Will
+1 Mystical Tutor
+1 Mental Misstep
+1 Pact of Negation
+1 Mana Drain
+1 Mindbreak Trap
+1 Flusterstorm
+1 Sink into Stupor
+1 Flare of Duplication
+1 Delay
+1 Force of Negation
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Transmute Artifact
+1 Timetwister
+1 Shatterskull Smashing
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Gamble
+1 Molten Duplication
+1 Jeska's Will
+1 Eagle Vision
+1 Counterbalance
+1 Ophidian Eye
+1 Rhystic Study
+1 Mystic Remora
+1 Curiosity
+1 Underworld Breach
+1 Tezzeret the Seeker
+1 City of Traitors
+1 Volcanic Island
+1 Cascade Bluffs
+1 Fiery Islet
+1 Mana Confluence
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 City of Brass
+1 Mountain
+1 Steam Vents
+1 Minamo, School at Water's Edge
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Thundering Falls
+1 Bloodstained Mire
+1 Flooded Strand
+1 Wooded Foothills
+1 Polluted Delta
+1 Fomori Vault
+1 Prismatic Vista
+2 Island
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Kediss, Emberclaw Familiar

@@ -1,0 +1,100 @@
+1 Deepglow Skate
+1 Manglehorn
+1 Phantasmal Image
+1 Kinnan, Bonder Prodigy
+1 Endurance
+1 Ghostly Pilferer
+1 Colossal Skyturtle
+1 Ledger Shredder
+1 Armored Scrapgorger
+1 Faerie Mastermind
+1 Forensic Gadgeteer
+1 Phyrexian Metamorph
+1 Volatile Stormdrake
+1 Dreamtide Whale
+1 Mockingbird
+1 Pollywog Prodigy
+1 Elvish Spirit Guide
+1 Chrome Mox
+1 Grim Monolith
+1 Mox Opal
+1 Mana Vault
+1 Mox Diamond
+1 Cursed Totem
+1 Mishra's Bauble
+1 Defense Grid
+1 Mox Amber
+1 Arcane Signet
+1 Ichormoon Gauntlet
+1 The One Ring
+1 Basalt Monolith
+1 Talisman of Curiosity
+1 Vexing Bauble
+1 Grafdigger's Cage
+1 Urza's Bauble
+1 Sol Ring
+1 Fellwar Stone
+1 Lotus Petal
+1 Gush
+1 Force of Will
+1 Gifts Ungiven
+1 Pact of Negation
+1 Fierce Guardianship
+1 Brainstorm
+1 Cyclonic Rift
+1 Worldly Tutor
+1 March of Swirling Mist
+1 Force of Negation
+1 Frantic Search
+1 Mystical Tutor
+1 Infectious Bite
+1 Prologue to Phyresis
+1 Borne Upon a Wind
+1 Swan Song
+1 Obscuring Haze
+1 Resculpt
+1 Radstorm
+1 Ripples of Potential
+1 Mindbreak Trap
+1 Commandeer
+1 Consign to Memory
+1 Chain of Vapor
+1 Mental Misstep
+1 Summoner's Pact
+1 Veil of Summer
+1 Flusterstorm
+1 Merchant Scroll
+1 Careful Study
+1 Thirsting Roots
+1 Reshape
+1 Chart a Course
+1 Gitaxian Probe
+1 Sylvan Library
+1 Rhystic Study
+1 Mystic Remora
+1 City of Brass
+1 City of Traitors
+1 Breeding Pool
+1 Scalding Tarn
+1 Mana Confluence
+1 Tropical Island
+1 Flooded Strand
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+1 Waterlogged Grove
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Spire of Industry
+1 Command Tower
+1 Forest
+1 Mistrise Village
+1 Cephalid Coliseum
+2 Island
+Sideboard
+1 Tamiyo, Inquisitive Student

@@ -1,0 +1,77 @@
+1 Mastermind's Acquisition
+1 Tainted Wood
+1 Vile Entomber
+1 Carrion Feeder
+1 Blood Artist
+1 Twilight Mire
+1 Activated Sleeper
+1 Temple of Malady
+1 Viridescent Bog
+1 Lively Dirge
+1 Noxious Revival
+1 Collective Resistance
+1 Fauna Shaman
+1 Sakura-Tribe Elder
+1 Lesser Masticore
+1 Diabolic Tutor
+1 Fyndhorn Elves
+1 Wild Growth
+1 Autumn's Veil
+1 Buried Alive
+1 Phyrexian Delver
+1 Eternal Witness
+1 Plaguecrafter
+1 Elves of Deep Shadow
+1 Fatal Push
+1 Sylvan Safekeeper
+1 Abrupt Decay
+1 Culling Ritual
+1 Timeless Witness
+1 Reanimate
+1 Dark Ritual
+1 Body Snatcher
+1 Rise of the Witch-King
+1 Persist
+1 Melira, Sylvok Outcast
+1 Llanowar Elves
+1 Woodland Cemetery
+1 Life/Death
+1 Wishclaw Talisman
+1 Bitter Triumph
+1 Elvish Mystic
+1 Sol Ring
+1 Llanowar Wastes
+1 Viscera Seer
+1 Lich-Knights' Conquest
+1 Revitalizing Repast
+1 Victimize
+1 Arcane Signet
+1 Beast Within
+1 Protean Hulk
+1 Cynical Loner
+1 Utopia Sprawl
+1 Wake the Dead
+1 Witherbloom Apprentice
+1 Hoarding Broodlord
+1 Bloodghast
+1 Final Parting
+1 Emergence Zone
+1 Dread Return
+1 Command Tower
+1 Chain of Smog
+1 Blooming Marsh
+1 Golgari Rot Farm
+1 Talisman of Resilience
+1 Live or Die
+1 Disciple of the Vault
+1 Unearth
+1 Toxic Deluge
+1 Animate Dead
+13 Forest
+13 Swamp
+1 Golgari Signet
+1 Shred Memory
+1 Saw in Half
+1 Hogaak, Arisen Necropolis
+Sideboard
+1 Grist, the Hunger Tide

@@ -1,0 +1,101 @@
+1 Tezzeret the Seeker
+1 Leyline of Transformation
+1 Underworld Breach
+1 Curiosity
+1 Ophidian Eye
+1 Mystic Remora
+1 Rhystic Study
+1 Jeska's Will
+1 Gamble
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Timetwister
+1 Wheel of Fortune
+1 Transmute Artifact
+1 Flusterstorm
+1 Fierce Guardianship
+1 Deflecting Swat
+1 March of Swirling Mist
+1 Lightning Bolt
+1 Into the Flood Maw
+1 Mindbreak Trap
+1 Pyroblast
+1 Cyclonic Rift
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Snap
+1 Pact of Negation
+1 Chain of Vapor
+1 Trickery Charm
+1 Artificial Evolution
+1 Muddle the Mixture
+1 Force of Will
+1 Red Elemental Blast
+1 Mental Misstep
+1 Wings of Velis Vel
+1 Force of Negation
+1 Intuition
+1 Brain Freeze
+1 Dispel
+1 Daze
+1 Swan Song
+1 Lotus Petal
+1 The One Ring
+1 Maskwood Nexus
+1 Mox Opal
+1 Defense Grid
+1 Imposter Mech
+1 Mox Diamond
+1 Chrome Mox
+1 Sol Ring
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Niv-Mizzet, Visionary
+1 Breeches, the Blastmaker
+1 Malcolm, Alluring Scoundrel
+1 Glint-Horn Buccaneer
+1 Spectral Sailor
+1 Pollywog Prodigy
+1 Valley Floodcaller
+1 Mockingbird
+1 Niv-Mizzet, Parun
+1 Hedron Detonator
+1 Consecrated Sphinx
+1 Ingenious Artillerist
+1 Ragavan, Nimble Pilferer
+1 Wandering Archaic
+1 Magda, Brazen Outlaw
+1 Siren Stormtamer
+1 Simian Spirit Guide
+1 Reckless Fireweaver
+1 Imperial Recruiter
+1 Phyrexian Metamorph
+1 Island
+1 Mountain
+1 Otawara, Soaring City
+1 Command Tower
+1 Fiery Islet
+1 Cavern of Souls
+1 Training Center
+1 Shivan Reef
+1 Ancient Tomb
+1 Scalding Tarn
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Snow-Covered Mountain
+1 City of Brass
+1 Steam Vents
+1 Snow-Covered Island
+1 Arid Mesa
+1 Polluted Delta
+1 Flooded Strand
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Volcanic Island
+1 Prismatic Vista
+1 Minamo, School at Water's Edge
+1 City of Traitors
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

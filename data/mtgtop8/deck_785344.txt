@@ -1,0 +1,77 @@
+1 Champion of Lambholt
+1 Craterhoof Behemoth
+1 Dauntless Escort
+1 Druid of Purification
+1 Dyadrine, Synthesis Amalgam
+1 Elvish Mystic
+1 Firemane Commando
+1 Flumph
+1 Gluntch, the Bestower
+1 Haywire Mite
+1 Horizon Explorer
+1 Hornet Nest
+1 Hornet Queen
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Loyal Guardian
+1 Master of Ceremonies
+1 Mirror Entity
+1 Scute Swarm
+1 Selvala, Explorer Returned
+1 Sergeant John Benton
+1 Skullwinder
+1 Sovereign Okinec Ahau
+1 Topiary Stomper
+1 Toski, Bearer of Secrets
+1 Urdnan, Dromoka Warrior
+1 Arcane Signet
+1 Banner of Kinship
+1 Patchwork Banner
+1 Sol Ring
+1 Spear of Heliod
+1 The Earth Crystal
+1 Beast Within
+1 Collective Resistance
+1 Condemn
+1 Generous Gift
+1 Inspiring Call
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Bond of Discipline
+1 Camaraderie
+1 Collective Effort
+1 Cultivate
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Shamanic Revelation
+1 Tempt with Discovery
+1 Three Visits
+1 Beastmaster Ascension
+1 Commander's Insignia
+1 Curse of Bounty
+1 Darksteel Mutation
+1 Doubling Season
+1 Felidar Retreat
+1 Growing Rites of Itlimoc
+1 In the Trenches
+1 Mirari's Wake
+1 Smuggler's Share
+1 Terrasymbiosis
+1 Blossoming Sands
+1 Canopy Vista
+1 Command Tower
+13 Forest
+1 Fortified Village
+1 Graypelt Refuge
+1 Karn's Bastion
+1 Oran-Rief, the Vastwood
+13 Plains
+1 Temple of Plenty
+1 Temple of the False God
+Sideboard
+1 Vrestin, Menoptra Leader

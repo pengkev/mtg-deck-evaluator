@@ -1,0 +1,78 @@
+12 Swamp
+1 Skemfar Elderhall
+1 Path of Ancestry
+1 Myriad Landscape
+1 Jungle Hollow
+1 Golgari Rot Farm
+1 Golgari Guildgate
+1 Foul Orchard
+13 Forest
+1 Command Tower
+1 Tyvar, Jubilant Brawler
+1 Prowess of the Fair
+1 Pride of the Perfect
+1 Moldervine Reclamation
+1 Growing Rites of Itlimoc
+1 Elderfang Venom
+1 Crystalline Armor
+1 Crown of Skemfar
+1 Shamanic Revelation
+1 Pact of the Serpent
+1 Harvest Season
+1 Eyeblight Massacre
+1 Elvish Promenade
+1 Casualties of War
+1 Bounty of Skemfar
+1 Putrefy
+1 Poison the Cup
+1 Elven Ambush
+1 Sol Ring
+1 Arcane Signet
+1 Woodland Mystic
+1 Wolverine Riders
+1 Wirewood Symbiote
+1 Wirewood Channeler
+1 Voice of Many
+1 Twinblade Assassins
+1 Timberwatch Elf
+1 Skemfar Shadowsage
+1 Shaman of the Pack
+1 Ruthless Winnower
+1 Rhys the Exiled
+1 Reclamation Sage
+1 Poison-Tip Archer
+1 Oakhame Adversary
+1 Numa, Joraga Chieftain
+1 Nadier's Nightblade
+1 Morcant's Loyalist
+1 Miara, Thorn of the Glade
+1 Masked Admirers
+1 Marwyn, the Nurturer
+1 Lys Alana Scarblade
+1 Lys Alana Huntmaster
+1 Llanowar Tribe
+1 Imperious Perfect
+1 Immaculate Magistrate
+1 High Perfect Morcant
+1 Harald, King of Skemfar
+1 Golgari Findbroker
+1 Glissa Sunslayer
+1 Gala Greeters
+1 Fyndhorn Elves
+1 Farhaven Elf
+1 Eyeblight Cullers
+1 Elvish Mystic
+1 Elvish Dreadlord
+1 Elvish Archdruid
+1 Elderfang Ritualist
+1 Dwynen, Gilt-Leaf Daen
+1 Dionus, Elvish Archdruid
+1 Devoted Druid
+1 Deathrite Shaman
+1 Cultivator of Blades
+1 Craterhoof Behemoth
+1 Canopy Tactician
+1 Beast Whisperer
+1 Allosaurus Shepherd
+Sideboard
+1 Lathril, Blade of the Elves

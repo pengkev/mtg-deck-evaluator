@@ -1,0 +1,80 @@
+1 Stirring Bard
+1 Alexios, Deimos of Kosmos
+1 Indulgent Tormentor
+1 Skyline Despot
+1 Rilsa Rael, Kingpin
+1 Triskaidekaphile
+1 Magmatic Force
+1 Shaun, Father of Synths
+1 Stormfist Crusader
+1 Wildfire Devils
+1 Dragonmaster Outcast
+1 Jhoira of the Ghitu
+1 Nightscape Familiar
+1 Bloodboil Sorcerer
+1 Aarakocra Sneak
+1 Braids, Conjurer Adept
+1 Armguard Familiar
+1 Arc Spitter
+1 Boots of Speed
+1 Ring of Valkas
+1 Civic Saber
+1 Conformer Shuriken
+1 Aeronaut's Wings
+1 Wayfarer's Bauble
+1 Arcane Signet
+1 Cobbled Wings
+1 Chitinous Cloak
+1 Cranial Ram
+1 Ring of Evos Isle
+1 Chainsaw
+1 Armory of Iroas
+1 Vorrac Battlehorns
+1 Cliffhaven Kitesail
+1 Brawler's Plate
+1 Commander's Sphere
+1 Candlestick
+1 Batterbone
+1 Ceremonial Knife
+1 Aetherize
+1 Bedevil
+1 Murder
+1 Rakdos Charm
+1 Chaos Warp
+1 Reality Shift
+1 Abrade
+1 Thrill of Possibility
+1 Temur Battle Rage
+1 Slip Through Space
+1 Shivan Meteor
+1 Enter the Enigma
+1 Arc Blade
+1 Phthisis
+1 Charnel Serenade
+1 Feed the Swarm
+1 Triskaidekaphobia
+1 Mechanized Production
+1 Sword Coast Sailor
+1 Waterbender Ascension
+1 As Foretold
+1 Agent of the Shadow Thieves
+1 Stolen Strategy
+1 Festering Wound
+1 Court of Ire
+1 Security Bypass
+1 Bestial Fury
+1 Command Tower
+1 Smoldering Marsh
+1 Sunken Hollow
+8 Swamp
+1 Temple of the False God
+8 Island
+1 Rogue's Passage
+1 Seething Landscape
+1 Sulfur Falls
+1 Evolving Wilds
+1 Crosis's Catacombs
+1 Crumbling Necropolis
+8 Mountain
+Sideboard
+1 Obeka, Splitter of Seconds

@@ -1,0 +1,100 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet
+1 Ashiok, Dream Render
+1 Baleful Mastery
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Chain of Vapor
+1 Chrome Mox
+1 Circular Logic
+1 City of Brass
+1 Command Tower
+1 Dark Ritual
+1 Daze
+1 Deadly Rollick
+1 Defense Grid
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dismember
+1 Dispel
+1 Minamo, School at Water's Edge
+1 Dress Down
+1 Brainstorm
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Will
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Hope of Ghirapur
+1 Imperial Seal
+1 Into the Flood Maw
+2 Island
+1 Lim-Dul's Vault
+1 Lotus Petal
+1 Malevolent Hermit
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Merchant Scroll
+1 Mindbreak Trap
+1 Mirrormade
+1 Misdirection
+1 Misty Rainforest
+1 Mnemonic Betrayal
+1 Mockingbird
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Necropotence
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Polluted Delta
+1 Reanimate
+1 Retraction Helix
+1 Rhystic Study
+1 Scalding Tarn
+1 Scheming Symmetry
+1 Seat of the Synod
+1 Snap
+1 Snapcaster Mage
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Spellseeker
+1 Starting Town
+1 Swamp
+1 Swan Song
+1 Tainted Pact
+1 Talisman of Dominance
+1 Tezzeret, Cruel Captain
+1 Thassa's Oracle
+1 The One Ring
+1 Tolaria West
+1 Transmute Artifact
+1 Trinket Mage
+1 Undercity Sewers
+1 Underground River
+1 Underground Sea
+1 Praetor's Grasp
+1 Urza's Saga
+1 Valley Floodcaller
+1 Vampiric Tutor
+1 Vault of Whispers
+1 Verdant Catacombs
+1 Walking Ballista
+1 Watery Grave
+1 Wishclaw Talisman
+1 Yawgmoth's Will
+Sideboard
+1 Rona, Herald of Invasion

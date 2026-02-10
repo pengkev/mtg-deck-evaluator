@@ -1,0 +1,92 @@
+1 Walking Ballista
+1 Aven Mindcensor
+1 Grand Abolisher
+1 Esper Sentinel
+1 Forensic Gadgeteer
+1 Hydroelectric Specimen
+1 Gilded Lotus
+1 Marble Diamond
+1 Sky Diamond
+1 Skullclamp
+1 Azorius Signet
+1 Fellwar Stone
+1 Basalt Monolith
+1 Sol Ring
+1 Rings of Brighthearth
+1 Voltaic Key
+1 Everflowing Chalice
+1 Chrome Mox
+1 Isochron Scepter
+1 Sculpting Steel
+1 Talisman of Progress
+1 Mind Stone
+1 Lotus Petal
+1 Sapphire Medallion
+1 Thran Dynamo
+1 Unwinding Clock
+1 Chromatic Lantern
+1 Prismatic Lens
+1 Thought Vessel
+1 Manifold Key
+1 Arcane Signet
+1 The One Ring
+1 Dramatic Reversal
+1 Arcane Denial
+1 Force of Will
+1 Enlightened Tutor
+1 Counterspell
+1 Mystical Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Delay
+1 Dig Through Time
+1 Silence
+1 Intuition
+1 Orim's Chant
+1 Muddle the Mixture
+1 Trickbind
+1 Flusterstorm
+1 Dovin's Veto
+1 March of Otherworldly Light
+1 An Offer You Can't Refuse
+1 Get Lost
+1 Sink into Stupor
+1 Approach of the Second Sun
+1 Terminus
+1 Fabricate
+1 Windfall
+1 Supreme Verdict
+1 Flood of Tears
+1 Sevinne's Reclamation
+1 Solve the Equation
+1 Vanquish the Horde
+1 Farewell
+1 Lorien Revealed
+1 Mind Over Matter
+1 Blind Obedience
+1 Smothering Tithe
+1 Dress Down
+1 Teferi, Time Raveler
+1 Spire of Industry
+5 Plains
+6 Island
+1 Inventors' Fair
+1 City of Brass
+1 Prairie Stream
+1 Adarkar Wastes
+1 Reliquary Tower
+1 Hallowed Fountain
+1 Flooded Strand
+1 Polluted Delta
+1 Scalding Tarn
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Skycloud Expanse
+1 Academy Ruins
+1 Command Tower
+1 Sea of Clouds
+1 Castle Vantress
+1 Idyllic Beachfront
+1 Floodfarm Verge
+Sideboard
+1 Shorikai, Genesis Engine

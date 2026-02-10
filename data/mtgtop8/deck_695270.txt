@@ -1,0 +1,92 @@
+1 Mother of Runes
+1 Selfless Spirit
+1 Hope of Ghirapur
+1 Goblin Rabblemaster
+1 Serra Ascendant
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Combat Celebrant
+1 Grand Abolisher
+1 Signal Pest
+1 Ethersworn Canonist
+1 Drannith Magistrate
+1 Auratouched Mage
+1 Lena, Selfless Champion
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Blade Historian
+1 Rionya, Fire Dancer
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Professional Face-Breaker
+1 Archivist of Oghma
+1 Slicer, Hired Muscle
+1 Myrel, Shield of Argive
+1 Eidolon of Rhetoric
+1 Loran of the Third Path
+1 Ornithopter
+1 Skrelv, Defector Mite
+1 Loyal Apprentice
+1 Soulless Jailer
+1 Boromir, Warden of the Tower
+1 Greymond, Avacyn's Stalwart
+1 Charismatic Conqueror
+1 Witch Enchanter
+1 The Wandering Rescuer
+1 Arabella, Abandoned Doll
+1 Wizened Mentor
+1 Aven Mindcensor
+1 Sanctum Prelate
+1 Ornithopter of Paradise
+1 Rograkh, Son of Rohgahh
+1 Gingerbrute
+1 Phelia, Exuberant Shepherd
+1 Alexios, Deimos of Kosmos
+1 Magus of the Moon
+1 Howlsquad Heavy
+1 Mana Vault
+1 Chrome Mox
+1 Sol Ring
+1 The One Ring
+1 Lotus Petal
+1 Pyroblast
+1 Swords to Plowshares
+1 Silence
+1 Enlightened Tutor
+1 Surge of Salvation
+1 Flare of Fortitude
+1 Deflecting Swat
+1 Song of Totentanz
+1 Breath of Fury
+1 Possibility Storm
+1 Urza's Saga
+1 Blood Moon
+1 Grim Reaper's Sprint
+1 High Noon
+1 Deafening Silence
+1 Sacred Foundry
+1 Blinkmoth Nexus
+1 Wooded Foothills
+1 Inspiring Vantage
+1 Clifftop Retreat
+1 Arid Mesa
+1 Needleverge Pathway
+1 Marsh Flats
+1 Den of the Bugbear
+1 Sundown Pass
+1 Rugged Prairie
+1 Battlefield Forge
+1 Homeward Path
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Bloodstained Mire
+1 Flooded Strand
+1 Sunbillow Verge
+4 Mountain
+7 Plains
+1 Spectator Seating
+1 Cavern of Souls
+1 Windswept Heath
+Sideboard
+1 Winota, Joiner of Forces

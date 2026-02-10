@@ -1,0 +1,96 @@
+1 Delney, Streetwise Lookout
+1 Enduring Tenacity
+1 Fandaniel, Telophoroi Ascian
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Hermes, Overseer of Elpis
+1 Hullbreaker Horror
+1 Kambal, Consul of Allocation
+1 Lotho, Corrupt Shirriff
+1 Papalymo Totolymo
+1 Phyrexian Metamorph
+1 Sheoldred, the Apocalypse
+1 Spark Double
+1 Talion, the Kindly Lord
+1 Tataru Taru
+1 Walking Ballista
+1 Arcane Signet
+1 Chrome Mox
+1 Machine God's Effigy
+1 Mana Vault
+1 Scroll Rack
+1 Sol Ring
+1 The One Ring
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Dismember
+1 Dovin's Veto
+1 Emergency Eject
+1 Fierce Guardianship
+1 Flawless Maneuver
+1 Force of Will
+1 Mana Drain
+1 No More Lies
+1 Pact of Negation
+1 Path to Exile
+1 Snuff Out
+1 Strix Serenade
+1 Stroke of Midnight
+1 Swan Song
+1 Swords to Plowshares
+1 Transpose
+1 Vampiric Tutor
+1 Withering Torment
+1 Damn
+1 Damnation
+1 Demonic Tutor
+1 Exsanguinate
+1 Imperial Seal
+1 Irenicus's Vile Duplication
+1 Mnemonic Betrayal
+1 Sevinne's Reclamation
+1 Supreme Verdict
+1 Toxic Deluge
+1 Windfall
+1 Authority of the Consuls
+1 Bloodchief Ascension
+1 Collective Restraint
+1 Ghostly Prison
+1 Mystic Remora
+1 Phyrexian Arena
+1 Propaganda
+1 Rhystic Study
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Command Tower
+1 Deserted Beach
+1 Exotic Orchard
+1 Flooded Strand
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Isolated Chapel
+1 Marsh Flats
+1 Otawara, Soaring City
+3 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Reflecting Pool
+1 Reliquary Tower
+1 Scalding Tarn
+1 Shattered Sanctum
+1 Shipwreck Marsh
+2 Snow-Covered Island
+3 Snow-Covered Swamp
+1 Sunken Hollow
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 Watery Grave
+Sideboard
+1 Y'shtola, Night's Blessed

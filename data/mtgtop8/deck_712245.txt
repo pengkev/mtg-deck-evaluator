@@ -1,0 +1,88 @@
+1 Workhorse
+1 Fleshwrither
+1 Goblin Engineer
+1 Putrid Goblin
+1 Emrakul's Hatcher
+1 Treasonous Ogre
+1 Priest of Urabrask
+1 Marionette Master
+1 Skirk Prospector
+1 Murderous Redcap
+1 Nadier, Agent of the Duskenel
+1 Simian Spirit Guide
+1 Grief
+1 Skirge Familiar
+1 Fury
+1 Prowling Geistcatcher
+1 Blood Pet
+1 Twinshot Sniper
+1 Kiki-Jiki, Mirror Breaker
+1 Body Launderer
+1 Rug of Smothering
+1 Grim Hireling
+1 Pitiless Plunderer
+1 "Name Sticker" Goblin
+1 Mogg War Marshal
+1 Goblin Matron
+1 Hoverstone Pilgrim
+1 Metallic Mimic
+1 Pawn of Ulamog
+1 Mayhem Devil
+1 Tesak, Judith's Hellhound
+1 Tomb Trawler
+1 Grim Servant
+1 Marionette Apprentice
+1 Warren Soultrader
+1 Skittering Precursor
+1 Professional Face-Breaker
+1 Pinnacle Monk
+1 Barkform Harvester
+1 Sling-Gang Lieutenant
+1 Underworld Hermit
+1 Goblin Cratermaker
+1 Enduring Courage
+1 Priest of Gix
+1 Krenko, Mob Boss
+1 Murderous Rider
+1 Daretti, Rocketeer Engineer
+1 Chittering Witch
+1 Viscera Seer
+1 Siege-Gang Commander
+1 Imperial Recruiter
+1 Zealous Conscripts
+1 Jeweled Amulet
+1 Springleaf Drum
+1 Ashnod's Altar
+1 Talisman of Indulgence
+1 Heartstone
+1 Rakdos Signet
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Songs of the Damned
+1 Red Elemental Blast
+1 Dark Ritual
+1 Pyroblast
+1 Volcanic Spite
+1 Fire Prophecy
+1 Dread Return
+1 Jeska's Will
+1 Demonic Counsel
+1 Foreboding Ruins
+1 Barbarian Ring
+1 Sulfurous Springs
+1 Tainted Peak
+1 Blackcleave Cliffs
+1 Graven Cairns
+1 Vault of Whispers
+1 Secluded Courtyard
+1 Command Tower
+1 Dragonskull Summit
+1 Smoldering Marsh
+1 Great Furnace
+1 Blazemire Verge
+1 Haunted Ridge
+8 Mountain
+7 Swamp
+Sideboard
+1 Grenzo, Dungeon Warden

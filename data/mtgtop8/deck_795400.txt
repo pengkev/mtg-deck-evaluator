@@ -1,0 +1,100 @@
+1 Tandem Lookout
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Quicksilver Elemental
+1 Mockingbird
+1 Hullbreaker Horror
+1 Spellskite
+1 Imperial Recruiter
+1 Wan Shi Tong, Librarian
+1 Harmonic Prodigy
+1 Sol Ring
+1 Mox Opal
+1 Mox Amber
+1 Mox Diamond
+1 Lotus Petal
+1 Mishra's Bauble
+1 Tormod's Crypt
+1 Springleaf Drum
+1 Arcane Signet
+1 Chrome Mox
+1 The One Ring
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Mana Vault
+1 Urza's Bauble
+1 Borne Upon a Wind
+1 Gut Shot
+1 Pyroblast
+1 Sink into Stupor
+1 Valakut Awakening
+1 Flusterstorm
+1 Mental Misstep
+1 Mystical Tutor
+1 Into the Flood Maw
+1 Brainstorm
+1 Wild Slash
+1 Force of Will
+1 Counterspell
+1 Secret Identity
+1 Snap
+1 Fierce Guardianship
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Commandeer
+1 Daze
+1 Final Fortune
+1 Dizzy Spell
+1 Swan Song
+1 Gifts Ungiven
+1 Filter Out
+1 Twisted Image
+1 Intuition
+1 Misdirection
+1 Desperate Ritual
+1 Redirect Lightning
+1 Mindbreak Trap
+1 Brain Freeze
+1 Deflecting Swat
+1 Boomerang Basics
+1 Sea Gate Restoration
+1 Preordain
+1 Light Up the Stage
+1 Gitaxian Probe
+1 Gamble
+1 Strike It Rich
+1 Zenith Festival
+1 Jeska's Will
+1 Rite of Flame
+1 Wheel of Fortune
+1 Rhystic Study
+1 Underworld Breach
+1 Ophidian Eye
+1 Curiosity
+1 Mirrormade
+1 Mystic Remora
+1 Narset, Parter of Veils
+1 Mountain
+1 Scalding Tarn
+1 Arid Mesa
+1 Fiery Islet
+1 Volcanic Island
+1 Command Tower
+1 Bloodstained Mire
+1 Polluted Delta
+1 Shivan Reef
+2 Island
+1 City of Brass
+1 Mana Confluence
+1 Flooded Strand
+1 Riverpyre Verge
+1 Steam Vents
+1 Wooded Foothills
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Training Center
+1 Mistrise Village
+1 Gemstone Caverns
+1 Ancient Tomb
+Sideboard
+1 Vivi Ornitier

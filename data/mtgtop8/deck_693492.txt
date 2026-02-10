@@ -1,0 +1,101 @@
+1 Talisman of Progress
+1 Sol Ring
+1 Fellwar Stone
+1 Shadowspear
+1 Chrome Mox
+1 The One Ring
+1 Lotus Petal
+1 Intuition
+1 Dovin's Veto
+1 Dispel
+1 Retraction Helix
+1 Silence
+1 Borne Upon a Wind
+1 Swan Song
+1 Deflecting Swat
+1 Snap
+1 Strix Serenade
+1 Swords to Plowshares
+1 Into the Flood Maw
+1 Pact of Negation
+1 Mindbreak Trap
+1 Path to Exile
+1 Flusterstorm
+1 Arcane Signet
+1 Pyroblast
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Talisman of Creativity
+1 Lavaspur Boots
+1 Brain Freeze
+1 Final Fortune
+1 Mental Misstep
+1 Abrade
+1 Trickbind
+1 Force of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Wheel of Fortune
+1 Gitaxian Probe
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Mystic Remora
+1 Powerbalance
+1 Teferi, Master of Time
+1 Jeska's Will
+1 Ranger-Captain of Eos
+1 Drannith Magistrate
+1 Simian Spirit Guide
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 Ledger Shredder
+1 Faerie Mastermind
+1 Serra Ascendant
+1 Volatile Stormdrake
+1 Esper Sentinel
+1 Mockingbird
+1 Archivist of Oghma
+1 Riptide Gearhulk
+1 Delney, Streetwise Lookout
+1 Grand Abolisher
+1 Valley Floodcaller
+1 Auriok Salvagers
+1 Plateau
+1 Tundra
+1 Volcanic Island
+1 Hallowed Fountain
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Training Center
+1 Steam Vents
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Spire of Industry
+1 Talon Gates of Madara
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Sacred Foundry
+1 Wooded Foothills
+1 Meticulous Archive
+1 Mana Confluence
+1 Urza's Saga
+1 Ancient Tomb
+1 Misty Rainforest
+Sideboard
+1 Ishai, Ojutai Dragonspeaker
+1 Jeska, Thrice Reborn

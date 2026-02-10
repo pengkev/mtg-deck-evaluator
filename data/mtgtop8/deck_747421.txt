@@ -1,0 +1,82 @@
+1 Archetype of Imagination
+1 Baleful Strix
+1 Blightsteel Colossus
+1 Changeling Outcast
+1 Covert Technician
+1 Deadeye Navigator
+1 Dimir Infiltrator
+1 Dokuchi Silencer
+1 Duskmantle Guildmage
+1 Gingerbrute
+1 Great Whale
+1 Gudul Lurker
+1 Invisible Stalker
+1 Mindleech Mass
+1 Mist-Cloaked Herald
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Nezumi Prowler
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Palinchron
+1 Peregrine Drake
+1 Rune-Scarred Demon
+1 Silver-Fur Master
+1 Skullsnatcher
+1 Slither Blade
+1 Spectral Sailor
+1 Tetsuko Umezawa, Fugitive
+1 Thousand-Faced Shadow
+1 Tormented Soul
+1 Triton Shorestalker
+1 Veteran Ice Climber
+1 Altar of the Brood
+1 Arcane Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Lightning Greaves
+1 Sky Diamond
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Dissipate
+1 Dissolve
+1 Drown in the Loch
+1 Essence Scatter
+1 Mana Leak
+1 Negate
+1 Opt
+1 Pongify
+1 Resculpt
+1 Rewind
+1 Wash Away
+1 Withering Torment
+1 Diabolic Tutor
+1 Ringsight
+1 Sign in Blood
+1 Aqueous Form
+1 Coastal Piracy
+1 Reconnaissance Mission
+1 Choked Estuary
+1 Coral Atoll
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Everglades
+1 Guildless Commons
+10 Island
+1 Mistvault Bridge
+1 River of Tears
+1 Submerged Boneyard
+1 Sunken Hollow
+11 Swamp
+1 Temple of Deceit
+1 Thriving Isle
+1 Thriving Moor
+Sideboard
+1 Satoru Umezawa

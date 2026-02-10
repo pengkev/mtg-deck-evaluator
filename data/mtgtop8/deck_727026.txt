@@ -1,0 +1,101 @@
+1 Mystic Remora
+1 Trouble in Pairs
+1 Copy Enchantment
+1 Black Market Connections
+1 Smothering Tithe
+1 Rhystic Study
+1 Animate Dead
+1 Diabolic Intent
+1 Toxic Deluge
+1 Beseech the Mirror
+1 Imperial Seal
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Flusterstorm
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Strix Serenade
+1 Mindbreak Trap
+1 Mana Drain
+1 Angel's Grace
+1 Permission Denied
+1 Everybody Lives!
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Force of Will
+1 Gifts Ungiven
+1 Vampiric Tutor
+1 Swan Song
+1 Pact of Negation
+1 Cyclonic Rift
+1 Demonic Consultation
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Force of Negation
+1 Dovin's Veto
+1 Dark Ritual
+1 Silence
+1 Spoils of the Vault
+1 Lotus Petal
+1 Sol Ring
+1 Arcane Signet
+1 Agatha's Soul Cauldron
+1 Basalt Monolith
+1 The One Ring
+1 Imposter Mech
+1 Aetherflux Reservoir
+1 Mox Opal
+1 Grim Monolith
+1 Mana Vault
+1 Chrome Mox
+1 Voice of Victory
+1 Rev, Tithe Extractor
+1 Grim Hireling
+1 Mockingbird
+1 Esper Sentinel
+1 Forensic Gadgeteer
+1 Charismatic Conqueror
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Displacer Kitten
+1 Abdel Adrian, Gorion's Ward
+1 Phantasmal Image
+1 Snapcaster Mage
+1 Drannith Magistrate
+1 Thassa's Oracle
+1 Heliod, Sun-Crowned
+1 Phyrexian Metamorph
+1 Grand Abolisher
+1 Ranger-Captain of Eos
+1 Walking Ballista
+1 Mistrise Village
+1 Bleachbone Verge
+1 Gloomlake Verge
+1 Floodfarm Verge
+1 Flooded Strand
+1 Polluted Delta
+1 Sea of Clouds
+1 Reflecting Pool
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Ancient Tomb
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Arid Mesa
+1 Gemstone Caverns
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Vault of Champions
+1 Forbidden Orchard
+1 Underground Sea
+1 Tundra
+1 Scrubland
+1 Mana Confluence
+1 Marsh Flats
+1 Hallowed Fountain
+1 Godless Shrine
+1 Watery Grave
+1 Urza's Saga
+Sideboard
+1 Marneus Calgar

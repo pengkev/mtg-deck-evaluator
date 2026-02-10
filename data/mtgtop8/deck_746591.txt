@@ -1,0 +1,36 @@
+1 Blood Pet
+1 Crimson Kobolds
+1 Crookshank Kobolds
+1 Elvish Spirit Guide
+1 Kobolds of Kher Keep
+1 Simian Spirit Guide
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Defense Grid
+1 Lotus Petal
+1 Paradise Mantle
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Culling the Weak
+1 Dark Ritual
+1 Desperate Ritual
+1 Flare of Duplication
+1 Rain of Filth
+1 Slaughter Pact
+1 Vampiric Tutor
+1 Chain of Smog
+1 Diabolic Intent
+1 Infernal Plunge
+1 Insatiable Avarice
+1 Rhystic Tutor
+1 Rite of Flame
+1 Scheming Symmetry
+1 Strike It Rich
+1 Command Tower
+66 Swamp
+Sideboard
+1 Ikra Shidiqi, the Usurper
+1 Rograkh, Son of Rohgahh

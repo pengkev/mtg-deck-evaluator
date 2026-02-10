@@ -1,0 +1,78 @@
+1 Dragon's Rage Channeler
+1 Voldaren Epicure
+1 Falkenrath Pit Fighter
+1 Marauding Mako
+1 Insolent Neonate
+1 Ardoz, Cobbler of War
+1 Wall of Omens
+1 Cathar Commando
+1 Raffine's Informant
+1 Inti, Seneschal of the Sun
+1 Razorkin Needlehead
+1 Samwise the Stouthearted
+1 Skyclave Apparition
+1 Voldaren Thrillseeker
+1 Anje's Ravager
+1 Rampaging Ferocidon
+1 Laelia, the Blade Reforged
+1 Seasoned Pyromancer
+1 Squee, Dubious Monarch
+1 Tersa Lightshatter
+1 Caves of Chaos Adventurer
+1 Palace Jailer
+1 Seasoned Dungeoneer
+1 Skyfire Phoenix
+1 Pyrogoyf
+1 Fury
+1 Eagles of the North
+1 Oliphaunt
+1 Bedlam Reveler
+1 Soul-Guide Lantern
+1 Ransom Note
+1 Smuggler's Copter
+1 Pre-War Formalwear
+1 Mana Tithe
+1 Cloudshift
+1 Ephemerate
+1 Swords to Plowshares
+1 Lightning Bolt
+1 Shard Volley
+1 Reprieve
+1 Boros Charm
+1 Fling
+1 Demand Answers
+1 Thrill of Possibility
+1 Lightning Helix
+1 Incinerate
+1 Ghostfire Slice
+1 Big Score
+1 Unexpected Windfall
+1 Pyrokinesis
+1 Lava Spike
+1 Flame Slash
+1 Helping Hand
+1 Faithless Looting
+1 Chain Lightning
+1 Call a Surprise Witness
+1 Thrilling Discovery
+1 Grab the Prize
+1 Recommission
+1 Return Triumphant
+1 Sevinne's Reclamation
+1 On Thin Ice
+1 Seal of Fire
+1 Bitter Reunion
+1 Case of the Crimson Pulse
+1 Chandra, Torch of Defiance
+1 Ash Barrens
+1 Battlefield Forge
+10 Snow-Covered Mountain
+1 Wind-Scarred Crag
+15 Snow-Covered Plains
+1 Clifftop Retreat
+1 Barbarian Ring
+1 Evolving Wilds
+1 Command Tower
+1 Terramorphic Expanse
+Sideboard
+1 Phlage, Titan of Fire's Fury

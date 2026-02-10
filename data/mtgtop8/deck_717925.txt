@@ -1,0 +1,88 @@
+1 Ornithopter
+1 Hope of Ghirapur
+1 K-9, Mark I
+1 Etherium Pteramander
+1 Curie, Emergent Intelligence
+1 Esior, Wardwing Familiar
+1 Baleful Strix
+1 Malcolm, Alluring Scoundrel
+1 Ornithopter of Paradise
+1 Diversion Unit
+1 Winter, Cursed Rider
+1 Akal Pakal, First Among Equals
+1 Brazen Borrower
+1 Emry, Lurker of the Loch
+1 Hydroelectric Specimen
+1 Vendilion Clique
+1 Loyal Inventor
+1 True-Name Nemesis
+1 Boggart Trawler
+1 Refurbished Familiar
+1 Kappa Cannoneer
+1 Mishra's Bauble
+1 Tormod's Crypt
+1 Welding Jar
+1 Grim Bauble
+1 Lavaspur Boots
+1 Basilisk Collar
+1 Nihil Spellbomb
+1 Aether Spellbomb
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Cranial Plating
+1 Disruptor Flute
+1 Lightning Greaves
+1 Blackblade Reforged
+1 Tithing Blade
+1 Arcane Signet
+1 Dimir Signet
+1 Talisman of Dominance
+1 Tangle Wire
+1 Nettlecyst
+1 Fatal Push
+1 Wash Away
+1 Stern Scolding
+1 Brainstorm
+1 Sheoldred's Edict
+1 Drown in the Loch
+1 Go for the Throat
+1 Counterspell
+1 Miscalculation
+1 Mana Leak
+1 Long Goodbye
+1 Lose Focus
+1 Disruption Protocol
+1 Sink into Stupor
+1 Dismember
+1 Metallic Rebuke
+1 Leadership Vacuum
+1 Fell the Profane
+1 Waterlogged Teachings
+1 Unearth
+1 Toxic Deluge
+1 Ringsight
+1 Yahenni's Expertise
+1 Crippling Fear
+1 Proft's Eidetic Memory
+1 Amphibian Downpour
+1 Karn, Scion of Urza
+1 Tezzeret, Agent of Bolas
+1 Tezzeret, Master of the Bridge
+1 Seat of the Synod
+1 Castle Locthwain
+1 Drowned Catacomb
+1 Darkwater Catacombs
+1 Darksteel Citadel
+1 Ash Barrens
+1 Choked Estuary
+8 Island
+1 Tainted Isle
+7 Swamp
+1 Creeping Tar Pit
+1 Mistvault Bridge
+1 Buried Ruin
+1 Temple of Deceit
+1 Command Tower
+1 Sunken Hollow
+Sideboard
+1 Basim Ibn Ishaq

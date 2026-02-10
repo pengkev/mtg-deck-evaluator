@@ -1,0 +1,87 @@
+1 Mad Auntie
+1 Goblin King
+1 Munitions Expert
+1 Putrid Goblin
+1 Sling-Gang Lieutenant
+1 Goblin Chieftain
+1 Wort, Boggart Auntie
+1 Goblin Trashmaster
+1 Goblin Chirurgeon
+1 Goblin Anarchomancer
+1 Mahadi, Emporium Master
+1 Rulik Mons, Warren Chief
+1 Goblin Matron
+1 Pashalik Mons
+1 Treasure Nabber
+1 Agatha of the Vile Cauldron
+1 Zoyowa Lava-Tongue
+1 Mayhem Devil
+1 Krenko, Baron of Tin Street
+1 Siege-Gang Lieutenant
+1 Grumgully, the Generous
+1 Goblin Recruiter
+1 Enduring Vitality
+1 Krenko, Mob Boss
+1 Howlsquad Heavy
+1 Legion Warboss
+1 Sol Ring
+1 Ashnod's Altar
+1 Skullclamp
+1 Heartstone
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Ichor Wellspring
+1 Arcane Signet
+1 Heaped Harvest
+1 Talisman of Resilience
+1 Beast Within
+1 Artifact Mutation
+1 Assassin's Trophy
+1 Plumb the Forbidden
+1 Big Score
+1 Deadly Dispute
+1 Fanatical Offering
+1 Demand Answers
+1 Revitalizing Repast
+1 Untimely Malfunction
+1 Tragic Slip
+1 Living Death
+1 Farseek
+1 Seize the Spoils
+1 Reanimate
+1 Rise of the Dark Realms
+1 Nuclear Fallout
+1 Stump Stomp
+1 Victimize
+1 Decimate
+1 Goblin Negotiation
+1 Treacherous Blessing
+1 Goblin Bombardment
+1 Wilderness Reclamation
+1 Rancor
+1 Aspect of Mongoose
+1 Impact Tremors
+1 Bastion of Remembrance
+1 Savage Lands
+1 Woodland Cemetery
+1 Dragonskull Summit
+1 Command Tower
+1 Forgotten Cave
+1 Llanowar Wastes
+1 Cinder Glade
+1 Field of Ruin
+1 Sulfurous Springs
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Game Trail
+1 Mossfire Valley
+1 Smoldering Marsh
+1 Twilight Mire
+1 Haunted Ridge
+1 Karplusan Forest
+1 Rootbound Crag
+7 Mountain
+5 Forest
+5 Swamp
+Sideboard
+1 Shattergang Brothers

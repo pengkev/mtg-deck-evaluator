@@ -1,0 +1,89 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Delina, Wild Mage
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Frenzied Baloth
+1 Goblin Anarchomancer
+1 Hellkite Courser
+1 Herigast, Erupting Nullkite
+1 Hunting Velociraptor
+1 Imperial Recruiter
+1 Jaxis, the Troublemaker
+1 Llanowar Elves
+1 Orcish Lumberjack
+1 Orthion, Hero of Lavabrink
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Rionya, Fire Dancer
+1 Roaming Throne
+1 Selvala, Heart of the Wilds
+1 Simian Spirit Guide
+1 Somberwald Sage
+1 Tinder Wall
+1 Treasonous Ogre
+1 Wandering Archaic
+1 Arcane Signet
+1 Cursed Mirror
+1 Helm of the Host
+1 Lotus Petal
+1 Mana Vault
+1 Mirror Box
+1 Panharmonicon
+1 Sol Ring
+1 Talisman of Impulse
+1 The Great Henge
+1 Beast Within
+1 Bolt Bend
+1 Desperate Ritual
+1 Flare of Duplication
+1 Heroic Intervention
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Tibalt's Trickery
+1 Electroduplicate
+1 Flare of Cultivation
+1 Heat Shimmer
+1 Jeska's Will
+1 Mana Geyser
+1 Metamorphosis
+1 Molten Duplication
+1 Nature's Lore
+1 Rite of Flame
+1 Skyshroud Claim
+1 Twinflame
+1 Vandalblast
+1 Carpet of Flowers
+1 Splinter Twin
+1 Sylvan Library
+1 Utopia Sprawl
+1 Wild Growth
+1 Invasion of Ikoria
+1 Chandra, Flameshaper
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Command Tower
+1 Commercial District
+1 Exotic Orchard
+6 Forest
+1 Gemstone Caverns
+1 Grove of the Burnwillows
+1 Karplusan Forest
+8 Mountain
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Shifting Woodland
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Etali, Primal Conqueror

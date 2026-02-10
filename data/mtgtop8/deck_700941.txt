@@ -1,0 +1,80 @@
+1 Hope of Ghirapur
+1 Memnite
+1 Phyrexian Walker
+1 Changeling Outcast
+1 Faerie Seer
+1 Ingenious Infiltrator
+1 Mist-Syndicate Naga
+1 Signal Pest
+1 Wingcrafter
+1 Biting-Palm Ninja
+1 Prosperous Thief
+1 Tormented Soul
+1 Universal Automaton
+1 Ornithopter
+1 Gingerbrute
+1 Siren Stormtamer
+1 Slither Blade
+1 Nashi, Moon Sage's Scion
+1 Triton Shorestalker
+1 Boggart Trawler
+1 Hydroelectric Specimen
+1 Mistblade Shinobi
+1 Mothdust Changeling
+1 Teferi, Mage of Zhalfir
+1 Tetsuko Umezawa, Fugitive
+1 Moon-Circuit Hacker
+1 Spectral Sailor
+1 Mausoleum Wanderer
+1 Silver Raven
+1 Thousand-Faced Shadow
+1 Shadow of Mortality
+1 Mindcrank
+1 Scroll Rack
+1 Fellwar Stone
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Sol Ring
+1 Dimir Signet
+1 Talisman of Dominance
+1 Dispel
+1 Dark Ritual
+1 Unsummon
+1 Delay
+1 Pongify
+1 Test of Talents
+1 Mana Leak
+1 Negate
+1 Swan Song
+1 Snap
+1 Rapid Hybridization
+1 Commandeer
+1 Dig Through Time
+1 Baleful Mastery
+1 Waterlogged Teachings
+1 Fell the Profane
+1 Nexus of Fate
+1 Brainstorm
+1 Counterspell
+1 Fading Hope
+1 Arcane Denial
+1 Reality Shift
+1 Bounce Off
+1 Spell Pierce
+1 Resculpt
+1 Mystical Tutor
+1 Muddle the Mixture
+1 An Offer You Can't Refuse
+1 Scheming Symmetry
+1 Temporal Trespass
+1 Treasure Cruise
+1 Diabolic Intent
+1 Bloodchief Ascension
+1 Sunken Hollow
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Command Tower
+14 Island
+9 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

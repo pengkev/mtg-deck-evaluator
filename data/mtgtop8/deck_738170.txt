@@ -1,0 +1,101 @@
+1 Blood Artist
+1 Carrion Feeder
+1 Dualcaster Mage
+1 Forsaken Miner
+1 Gravecrawler
+1 Laughing Jasper Flint
+1 Mayhem Devil
+1 Morbid Opportunist
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Rev, Tithe Extractor
+1 Sedgemoor Witch
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 The Master, Multiplied
+1 Warren Soultrader
+1 Zulaport Cutthroat
+1 Altar of the Brood
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Conqueror's Flail
+1 Defense Grid
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Phyrexian Altar
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Baleful Mastery
+1 Cabal Ritual
+1 Chaos Warp
+1 Dark Ritual
+1 Deflecting Swat
+1 Entomb
+1 Fake Your Own Death
+1 Final Fortune
+1 Lightning Bolt
+1 Not Dead After All
+1 Pyroblast
+1 Rakdos Charm
+1 Red Elemental Blast
+1 Saw in Half
+1 Tainted Pact
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Chain of Smog
+1 Demonic Tutor
+1 Electroduplicate
+1 Faithless Looting
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Living Death
+1 Molten Duplication
+1 Praetor's Grasp
+1 Reanimate
+1 Rite of Flame
+1 Twinflame
+1 Wheel of Fortune
+1 Black Market Connections
+1 Goblin Bombardment
+1 Necropotence
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Badlands
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Mount Doom
+1 Mountain
+1 Phyrexian Tower
+1 Polluted Delta
+1 Reflecting Pool
+1 Sanctum of Eternity
+1 Scalding Tarn
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Swamp
+1 Takenuma, Abandoned Mire
+Sideboard
+1 Deadpool, Trading Card

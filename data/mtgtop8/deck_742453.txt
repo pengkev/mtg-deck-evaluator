@@ -1,0 +1,96 @@
+1 Archmage Emeritus
+1 Baral, Chief of Compliance
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Guttersnipe
+1 Pinnacle Monk
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Tavern Scoundrel
+1 Thassa's Oracle
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Big Score
+1 Brain Freeze
+1 Brainstorm
+1 Chaos Warp
+1 Consider
+1 Deflecting Swat
+1 Delay
+1 Desperate Ritual
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Frantic Search
+1 Ghostfire Slice
+1 Into the Flood Maw
+1 Intuition
+1 Lightning Bolt
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Opera Love Song
+1 Opt
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Rapid Hybridization
+1 Seething Song
+1 Snap
+1 Swan Song
+1 Thrill of Possibility
+1 Untimely Malfunction
+1 Winds of Rebuke
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Glimpse the Impossible
+1 Grapeshot
+1 Jeska's Will
+1 Lock and Load
+1 Mana Geyser
+1 Overmaster
+1 Past in Flames
+1 Preordain
+1 Rite of Flame
+1 Rob the Archives
+1 Stock Up
+1 Strike It Rich
+1 Sundering Eruption
+1 Timetwister
+1 Tormenting Voice
+1 Twinflame
+1 Wheel of Fortune
+1 Will of the Jeskai
+1 Windfall
+1 Winternight Stories
+1 Wrenn's Resolve
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Command Tower
+1 Exotic Orchard
+1 Fiery Islet
+1 Forbidden Orchard
+1 Gemstone Caverns
+4 Island
+1 Misty Rainforest
+3 Mountain
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Sulfur Falls
+1 Volcanic Island
+Sideboard
+1 Ral, Monsoon Mage

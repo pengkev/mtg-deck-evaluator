@@ -1,0 +1,71 @@
+1 Archaeomancer
+1 Cloud of Faeries
+1 Malevolent Hermit
+1 Peregrine Drake
+1 Shipwreck Dowser
+1 Spellseeker
+1 Arcane Signet
+1 Extraplanar Lens
+1 Sapphire Medallion
+1 Springleaf Drum
+1 Winter Moon
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Brainsurge
+1 Confounding Riddle
+1 Curate
+1 Dig Through Time
+1 Discover the Impossible
+1 Dispel
+1 Divert Disaster
+1 Drown in Dreams
+1 Ertai's Meddling
+1 Experimental Augury
+1 Fact or Fiction
+1 Flash of Insight
+1 Frantic Search
+1 Geistwave
+1 Ghostly Flicker
+1 Gifts Ungiven
+1 High Tide
+1 Impulse
+1 Lose Focus
+1 Mana Leak
+1 Mission Briefing
+1 Moment of Truth
+1 Mystical Tutor
+1 Negate
+1 Reality Spasm
+1 Remand
+1 Silundi Vision
+1 Snap
+1 Snapback
+1 Spell Pierce
+1 Supreme Will
+1 Turnabout
+1 Unauthorized Exit
+1 Unsubstantiate
+1 Unwind
+1 Wash Away
+1 Winds of Rebuke
+1 Bond of Insight
+1 Call to Mind
+1 Devastation Tide
+1 Hidden Strings
+1 Inspiration from Beyond
+1 Merchant Scroll
+1 Mind's Desire
+1 Pieces of the Puzzle
+1 Pull from the Deep
+1 Shimmer of Possibility
+1 Solve the Equation
+1 Step Through
+1 Treasure Cruise
+1 Case of the Ransacked Lab
+1 Counterbalance
+1 Mystic Remora
+1 Verity Circle
+31 Island
+1 Mystic Sanctuary
+Sideboard
+1 Baral, Chief of Compliance

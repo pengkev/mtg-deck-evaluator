@@ -1,0 +1,81 @@
+1 Courser of Kruphix
+1 Rampaging Baloths
+1 Oneirophage
+1 Budoka Gardener
+1 Lotus Cobra
+1 Llanowar Mentor
+1 Dreamscape Artist
+1 Conspiracy Theorist
+1 Diamond Lion
+1 Goblin Anarchomancer
+1 Eruth, Tormented Prophet
+1 Containment Construct
+1 Tireless Provisioner
+1 Green Slime
+1 Third Path Iconoclast
+1 Fauna Shaman
+1 Aquamoeba
+1 Vindictive Flamestoker
+1 Inti, Seneschal of the Sun
+1 Doc Aurlock, Grizzled Genius
+1 Omnath, Locus of Rage
+1 Party Thrasher
+1 Scute Swarm
+1 Mossborn Hydra
+1 Loot, Exuberant Explorer
+1 Noose Constrictor
+1 The Reality Chip
+1 Faldorn, Dread Wolf Herald
+1 Loot, the Key to Everything
+1 Insidious Fungus
+1 Sol Ring
+1 Chromatic Star
+1 Combine Chrysalis
+1 Bag of Holding
+1 Arcane Signet
+1 Soul-Guide Lantern
+1 Unstable Amulet
+1 Chromatic Sphere
+1 Long-Term Plans
+1 Reclaim
+1 Saw It Coming
+1 Mystic Reflection
+1 Planar Genesis
+1 Pongify
+1 Otherworldly Gaze
+1 Explore
+1 Index
+1 Enter the Unknown
+1 Ravenform
+1 Search for Tomorrow
+1 Breakthrough
+1 Analyze the Pollen
+1 Fires of Yavimaya
+1 Song of Creation
+1 Beastmaster Ascension
+1 Wild Growth
+1 Valakut Exploration
+1 Sylvan Anthem
+1 Seal of Removal
+1 Druid Class
+1 Abundance
+1 Wild Wasteland
+1 Fortune Teller's Talent
+1 Frontier Bivouac
+1 Temple of the False God
+1 Timber Gorge
+1 Evolving Wilds
+1 Fabled Passage
+1 Exotic Orchard
+1 Command Tower
+1 Simic Growth Chamber
+1 Temple of Abandon
+1 Bleeding Woods
+1 Tanglepool Bridge
+1 Bountiful Landscape
+9 Forest
+7 Mountain
+7 Island
+1 Escape Tunnel
+Sideboard
+1 Flubs, the Fool

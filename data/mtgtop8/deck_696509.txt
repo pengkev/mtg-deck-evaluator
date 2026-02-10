@@ -1,0 +1,101 @@
+1 Nyxbloom Ancient
+1 Birds of Paradise
+1 Bloom Tender
+1 Llanowar Elves
+1 Phyrexian Metamorph
+1 Walking Ballista
+1 Clever Impersonator
+1 Seedborn Muse
+1 Fyndhorn Elves
+1 Elvish Mystic
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Spellskite
+1 Gilded Drake
+1 Elvish Spirit Guide
+1 Nezahal, Primal Tide
+1 Wandering Archaic
+1 Endurance
+1 Hullbreaker Horror
+1 Colossal Skyturtle
+1 Displacer Kitten
+1 Astral Dragon
+1 Delighted Halfling
+1 Volatile Stormdrake
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Thrasios, Triton Hero
+1 Faerie Mastermind
+1 Enduring Vitality
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Basalt Monolith
+1 Simic Signet
+1 Chrome Mox
+1 Mirage Mirror
+1 Mox Diamond
+1 Mox Opal
+1 Grim Monolith
+1 Talisman of Curiosity
+1 Springleaf Drum
+1 Mox Amber
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Lotus Petal
+1 Swan Song
+1 Crop Rotation
+1 Miscast
+1 Veil of Summer
+1 Pact of Negation
+1 Force of Will
+1 Cyclonic Rift
+1 Chord of Calling
+1 Force of Negation
+1 Force of Vigor
+1 Fierce Guardianship
+1 Mental Misstep
+1 Noxious Revival
+1 Worldly Tutor
+1 Pongify
+1 Chain of Vapor
+1 Mindbreak Trap
+1 An Offer You Can't Refuse
+1 Sink into Stupor
+1 Flusterstorm
+1 Fabricate
+1 Finale of Devastation
+1 Mirrormade
+1 Rhystic Study
+1 Copy Artifact
+1 Mystic Remora
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Island
+1 Forest
+1 Tropical Island
+1 City of Brass
+1 City of Traitors
+1 Breeding Pool
+1 Ancient Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Windswept Heath
+1 Gaea's Cradle
+1 Emergence Zone
+1 Gemstone Caverns
+1 Rejuvenating Springs
+1 Yavimaya, Cradle of Growth
+1 Treasure Vault
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Hedge Maze
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Minamo, School at Water's Edge
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,96 @@
+1 Containment Priest
+1 Radha, Heart of Keld
+1 Knight of the Reliquary
+1 Arboreal Grazer
+1 Eidolon of Rhetoric
+1 Gatecreeper Vine
+1 Ethersworn Canonist
+1 Courser of Kruphix
+1 Lotus Cobra
+1 Archon of Emeria
+1 Zimone, Quandrix Prodigy
+1 Thalia and The Gitrog Monster
+1 Azusa, Lost but Seeking
+1 Kutzil, Malamet Exemplar
+1 Wayward Swordtooth
+1 Tireless Tracker
+1 Oracle of Mul Daya
+1 Wight of the Reliquary
+1 Sowing Mycospawn
+1 Ramunap Excavator
+1 Coiling Oracle
+1 Augur of Autumn
+1 Tatyova, Benthic Druid
+1 Tireless Provisioner
+1 Dryad of the Ilysian Grove
+1 Skyserpent Seeker
+1 Sakura-Tribe Scout
+1 Aven Mindcensor
+1 Arcane Signet
+1 Expedition Map
+1 Fellwar Stone
+1 Sol Ring
+1 World Map
+1 Dispel
+1 Abrupt Decay
+1 Lim-Dul's Vault
+1 Negate
+1 Memory Lapse
+1 Izzet Charm
+1 Joint Exploration
+1 Ertai's Meddling
+1 Bovine Intervention
+1 Planar Genesis
+1 Eureka Moment
+1 Echoing Truth
+1 An Offer You Can't Refuse
+1 Spell Pierce
+1 Swords to Plowshares
+1 Frantic Search
+1 Tear Asunder
+1 Growth Spiral
+1 Open the Gates
+1 Reshape the Earth
+1 Titania's Command
+1 Ringsight
+1 Explore
+1 Hour of Promise
+1 Sylvan Scrying
+1 Guild Summit
+1 Nissa, Vital Force
+1 Wrenn and Seven
+1 Azorius Guildgate
+1 Orzhov Guildgate
+1 Rakdos Guildgate
+1 Simic Guildgate
+1 Boros Guildgate
+1 Dimir Guildgate
+1 Golgari Guildgate
+1 Izzet Guildgate
+1 Selesnya Guildgate
+1 Baldur's Gate
+1 Heap Gate
+1 Manor Gate
+1 Cliffgate
+1 Citadel Gate
+1 Black Dragon Gate
+1 Thran Portal
+1 Gemstone Mine
+1 Command Tower
+1 Gruul Guildgate
+1 Exotic Orchard
+1 Urza's Cave
+1 Deserted Temple
+1 Horizon of Progress
+1 Yavimaya Coast
+1 Gond Gate
+1 Sea Gate
+1 Plains
+1 Mountain
+1 Swamp
+1 Fabled Passage
+1 Maze's End
+3 Island
+4 Forest
+Sideboard
+1 The Wandering Minstrel

@@ -1,0 +1,81 @@
+1 Access Tunnel
+1 Aetherize
+1 Amphibian Downpour
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Arcane Signet
+1 Blades of Velis Vel
+1 Blasphemous Act
+1 Breeches, Brazen Plunderer
+1 Cascade Bluffs
+1 Command Tower
+1 Cori Mountain Monastery
+1 Counterspell
+1 Curiosity
+1 Decree of Annihilation
+1 Defense Grid
+1 Drift of Phantasms
+1 Esior, Wardwing Familiar
+1 Essence Flux
+1 Evacuation
+1 Exotic Orchard
+1 Expressive Iteration
+1 Ferrous Lake
+1 Flare of Denial
+1 Flare of Duplication
+1 Ghostly Pilferer
+1 Glint-Horn Buccaneer
+1 Hydroelectric Specimen
+1 Ingenious Artillerist
+1 Invert Polarity
+11 Island
+1 Kitesail Larcenist
+1 Magda, Brazen Outlaw
+1 Malcolm, Alluring Scoundrel
+1 Midnight Clock
+1 Mind Stone
+1 Mistrise Village
+11 Mountain
+1 Muddle the Mixture
+1 Mystic Remora
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, the Firemind
+1 Niv-Mizzet, Visionary
+1 Penregon Strongbull
+1 Phial of Galadriel
+1 Pinnacle Monk
+1 Planar Atlas
+1 Professional Face-Breaker
+1 Propaganda
+1 Rapid Hybridization
+1 Reckless Fireweaver
+1 Rousing Refrain
+1 Sandstone Needle
+1 Shivan Reef
+1 Shore Up
+1 Silverbluff Bridge
+1 Siren Stormtamer
+1 Snapback
+1 Sol Ring
+1 Spectral Sailor
+1 Spell Pierce
+1 Step Through
+1 Sulfur Falls
+1 Sunshot Militia
+1 Suspend
+1 Swiftfoot Boots
+1 Tandem Lookout
+1 Teferi, Mage of Zhalfir
+1 Temple of Epiphany
+1 Trickery Charm
+1 Vandalblast
+1 Vedalken Aethermage
+1 Volatile Stormdrake
+1 Wayfarer's Bauble
+1 Wheel of Misfortune
+1 Windfall
+1 Wings of Velis Vel
+1 Zimone's Hypothesis
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

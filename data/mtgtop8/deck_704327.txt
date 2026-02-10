@@ -1,0 +1,75 @@
+1 Skullclamp
+1 Sol Ring
+1 Hazoret's Monument
+1 Vandalblast
+1 Hordeling Outburst
+1 Krenko's Command
+1 Goblin Negotiation
+1 Faithless Looting
+1 Goblin Oriflamme
+1 Goblin Bombardment
+1 Raid Bombardment
+1 Dragon Fodder
+1 Shared Animosity
+1 Impact Tremors
+1 Patchwork Banner
+1 Banner of Kinship
+1 Heraldic Banner
+1 Massive Raid
+1 Lightning Bolt
+1 Thrill of Possibility
+1 Battle Hymn
+1 Tarfire
+1 Trumpet Blast
+1 You See a Pair of Goblins
+1 Demand Answers
+1 Burn Bright
+1 Great Train Heist
+1 Goblin Surprise
+1 Abrade
+1 Lavaspur Boots
+1 Chaos Warp
+1 Battle Cry Goblin
+1 Volley Veteran
+1 Siege-Gang Commander
+1 Pashalik Mons
+1 Gempalm Incinerator
+1 Skirk Prospector
+1 Moria Marauder
+1 Brash Taunter
+1 Siege-Gang Lieutenant
+1 Fanatical Firebrand
+1 Frenzied Goblin
+1 Courageous Goblin
+1 Goblin Boarders
+1 Goblin Trashmaster
+1 Searslicer Goblin
+1 Goblin Matron
+1 Goblin Piledriver
+1 Legion Warboss
+1 Goblin Chieftain
+1 Goblin Wardriver
+1 Beetleback Chief
+1 Goblin Instigator
+1 Reckless One
+1 Foundry Street Denizen
+1 Goblin Motivator
+1 Goblin Warchief
+1 Goblin Bushwhacker
+1 Hobgoblin Bandit Lord
+1 Dark-Dweller Oracle
+1 Squee, Dubious Monarch
+1 Rundvelt Hordemaster
+1 Krenko, Tin Street Kingpin
+1 Goblin Rabblemaster
+1 Goblin Cratermaker
+1 Goblin Burrows
+1 Forgotten Cave
+1 Castle Embereth
+1 Rogue's Passage
+1 Soulstone Sanctuary
+1 Path of Ancestry
+1 The Autonomous Furnace
+27 Mountain
+Sideboard
+1 Krenko, Mob Boss

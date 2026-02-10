@@ -1,0 +1,100 @@
+1 Balmor, Battlemage Captain
+1 Esper Sentinel
+1 Harmonic Prodigy
+1 Mausoleum Wanderer
+1 Mockingbird
+1 Purphoros, God of the Forge
+1 Ranger-Captain of Eos
+1 Stormsplitter
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Voice of Victory
+1 Arcane Signet
+1 Ashnod's Altar
+1 Azorius Signet
+1 Chrome Mox
+1 Isochron Scepter
+1 Izzet Signet
+1 Lotus Petal
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Battle Hymn
+1 Brain Freeze
+1 Brainstorm
+1 Commandeer
+1 Counterspell
+1 Daze
+1 Deliberate
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Mana Drain
+1 Mindbreak Trap
+1 Miscast
+1 Opt
+1 Pact of Negation
+1 Path to Exile
+1 Peek
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Silence
+1 Snap
+1 Spell Pierce
+1 Swords to Plowshares
+1 Thought Scour
+1 Burning Inquiry
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Grapeshot
+1 Jeska's Will
+1 Ponder
+1 Preordain
+1 Sevinne's Reclamation
+1 Vandalblast
+1 Windfall
+1 Jeskai Ascendancy
+1 Mana Echoes
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Urza's Saga
+1 Whirlwind of Thought
+1 Ral, Crackling Wit
+1 Arid Mesa
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Deserted Beach
+1 Emergence Zone
+1 Exotic Orchard
+1 Hallowed Fountain
+2 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Mountain
+1 Mystic Sanctuary
+1 Plains
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Sea of Clouds
+1 Shivan Reef
+1 Skycloud Expanse
+1 Spectator Seating
+1 Steam Vents
+1 Stormcarved Coast
+1 Training Center
+1 Volatile Fjord
+Sideboard
+1 Kykar, Wind's Fury

@@ -1,0 +1,101 @@
+1 Clever Impersonator
+1 Ertai Resurrected
+1 Ghostly Pilferer
+1 Glen Elendra Archmage
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Laboratory Maniac
+1 Malevolent Hermit
+1 Naga Fleshcrafter
+1 Notion Thief
+1 Orcish Bowmasters
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Spellskite
+1 Thassa's Oracle
+1 Tidespout Tyrant
+1 Volatile Stormdrake
+1 Arcane Signet
+1 Chrome Mox
+1 Cursed Totem
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 Talisman of Dominance
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Brainstorm
+1 Brainsurge
+1 Commandeer
+1 Cyclonic Rift
+1 Dark Ritual
+1 Daze
+1 Demonic Consultation
+1 Dismember
+1 Dispel
+1 Entomb
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Will
+1 Mausoleum Secrets
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pact of Negation
+1 Ravenous Trap
+1 Snap
+1 Snapback
+1 Snuff Out
+1 Spell Pierce
+1 Surgical Extraction
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+1 Reanimate
+1 Toxic Deluge
+1 Whispering Madness
+1 Windfall
+1 Yahenni's Expertise
+1 Amphibian Downpour
+1 Bloodchief Ascension
+1 Copy Enchantment
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Seal of Removal
+1 Ashiok, Dream Render
+1 Jace, Wielder of Mysteries
+1 Narset, Parter of Veils
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 City of Brass
+1 Clearwater Pathway
+1 Command Tower
+1 Darkslick Shores
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Gemstone Mine
+1 Gloomlake Verge
+1 Island
+1 Morphic Pool
+1 Polluted Delta
+1 Reflecting Pool
+1 River of Tears
+1 Seat of the Synod
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Swamp
+1 Tainted Isle
+1 Tendo Ice Bridge
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+Sideboard
+1 Talion, the Kindly Lord

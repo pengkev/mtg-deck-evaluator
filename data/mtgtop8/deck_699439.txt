@@ -1,0 +1,97 @@
+1 Gilded Goose
+1 Birds of Paradise
+1 Watcher of the Spheres
+1 Wingmate Roc
+1 Aven Mindcensor
+1 Soulcatcher
+1 Nimble Obstructionist
+1 Cartographer's Hawk
+1 Tah-Crop Elite
+1 Judge's Familiar
+1 Yorion, Sky Nomad
+1 High Sentinels of Arashin
+1 Steel-Plume Marshal
+1 Esior, Wardwing Familiar
+1 Kangee, Sky Warden
+1 Kangee's Lieutenant
+1 Battlefield Raptor
+1 Curiosity Crafter
+1 Falco Spara, Pactweaver
+1 The Goose Mother
+1 Harrier Strix
+1 Kastral, the Windcrested
+1 Shrike Force
+1 Mockingbird
+1 Plumecreed Escort
+1 Jackdaw Savior
+1 Strix Lookout
+1 Healer's Hawk
+1 Empyrean Eagle
+1 Ishai, Ojutai Dragonspeaker
+1 Aven Interrupter
+1 Arcane Signet
+1 Herald's Horn
+1 Sol Ring
+1 Bident of Thassa
+1 Vanquisher's Banner
+1 Patchwork Banner
+1 Counterspell
+1 Swords to Plowshares
+1 Lofty Denial
+1 Aetherize
+1 Rally of Wings
+1 Bant Charm
+1 Flurry of Wings
+1 Dawn's Truce
+1 Dazzling Denial
+1 Winged Portent
+1 Farseek
+1 Migratory Route
+1 Supreme Verdict
+1 Distant Melody
+1 Winged Words
+1 Kodama's Reach
+1 Cultivate
+1 Beastmaster Ascension
+1 Leyline of Anticipation
+1 Kindred Discovery
+1 Verity Circle
+1 Favorable Winds
+1 Authority of the Consuls
+1 Reconnaissance Mission
+1 Murmuration
+1 Reflections of Littjara
+1 Brokers Ascendancy
+1 Tamiyo, Field Researcher
+3 Island
+2 Plains
+2 Forest
+1 Temple of Plenty
+1 Temple of Enlightenment
+1 Command Tower
+1 Reliquary Tower
+1 Temple of Mystery
+1 Seaside Citadel
+1 Path of Ancestry
+1 Prairie Stream
+1 Yavimaya Coast
+1 Adarkar Wastes
+1 Brushland
+1 Canopy Vista
+1 Fortified Village
+1 Port Town
+1 Botanical Sanctum
+1 Razorverge Thicket
+1 Seachrome Coast
+1 Glacial Fortress
+1 Sunpetal Grove
+1 Irrigated Farmland
+1 Scattered Groves
+1 Hinterland Harbor
+1 Vineglimmer Snarl
+1 Secluded Courtyard
+1 Idyllic Beachfront
+1 Radiant Grove
+1 Tangled Islet
+Sideboard
+1 Derevi, Empyrial Tactician

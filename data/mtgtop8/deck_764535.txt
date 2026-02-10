@@ -1,0 +1,84 @@
+1 Aegis Turtle
+1 All-Fates Stalker
+1 Caelorna, Coral Tyrant
+1 Dauntless Dismantler
+1 Deadeye Navigator
+1 Etherium Sculptor
+1 Final-Word Phantom
+1 Glaring Fleshraker
+1 Gold-Forged Thopteryx
+1 Illvoi Infiltrator
+1 Kitesail Larcenist
+1 Kykar, Zephyr Awakener
+1 Laboratory Maniac
+1 Mangara, the Diplomat
+1 Mavinda, Students' Advocate
+1 Novice Inspector
+1 Oji, the Exquisite Blade
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Peregrine Drake
+1 Phantasmal Shieldback
+1 PuPu UFO
+1 Reflector Mage
+1 Restoration Angel
+1 Shorecomber Crab
+1 Sigiled Starfish
+1 Soulherder
+1 Stonehorn Dignitary
+1 Sunblast Angel
+1 Surge Mare
+1 Tetsuko Umezawa, Fugitive
+1 Thraben Inspector
+1 Triskaidekaphile
+1 Vnwxt, Verbose Host
+1 Wall of Omens
+1 Arcane Signet
+1 Azorius Signet
+1 Mind Stone
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Progress
+1 Blur
+1 Bovine Intervention
+1 Cloudshift
+1 Divert Disaster
+1 Ephemerate
+1 Essence Flux
+1 Flicker of Fate
+1 Generous Gift
+1 Getaway Glamer
+1 Justiciar's Portal
+1 Mana Leak
+1 Momentary Blink
+1 Negate
+1 Parting Gust
+1 Planar Incision
+1 Slip On the Ring
+1 Spell Pierce
+1 Turn to Mist
+1 Dusk/Dawn
+1 Expel the Interlopers
+1 Fell the Mighty
+1 Hard Evidence
+1 Slaughter the Strong
+1 Splash Portal
+1 Far Traveler
+1 Grasp of Fate
+1 Touch the Spirit Realm
+1 Utter Insignificance
+1 Azorius Chancery
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Irrigated Farmland
+10 Island
+9 Plains
+1 Port Town
+1 Prairie Stream
+1 Riptide Laboratory
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Terramorphic Expanse
+Sideboard
+1 Plagon, Lord of the Beach

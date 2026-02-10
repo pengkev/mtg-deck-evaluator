@@ -1,0 +1,101 @@
+1 Argivian Avenger
+1 Braids, Arisen Nightmare
+1 Diamond Lion
+1 Farmstead Gleaner
+1 Liberator, Urza's Battlethopter
+1 Marvin, Murderous Mimic
+1 Millikin
+1 Patchwork Gnomes
+1 Phyrexian Devourer
+1 Pili-Pala
+1 Shimmer Myr
+1 The Warring Triad
+1 Triskelion
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Chromatic Orrery
+1 Clock of Omens
+1 Codex Shredder
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 Expedition Map
+1 Ghoulcaller's Bell
+1 Grafdigger's Cage
+1 Grinding Station
+1 Krark-Clan Ironworks
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mesmeric Orb
+1 Mirage Mirror
+1 Mox Opal
+1 Null Brooch
+1 Palantir of Orthanc
+1 Radiant Lotus
+1 Sculpting Steel
+1 Sol Ring
+1 Sonic Screwdriver
+1 Staff of Domination
+1 The One Ring
+1 Torpor Orb
+1 Trading Post
+1 Unwinding Clock
+1 Voltaic Key
+1 Weathered Runestone
+1 Wishclaw Talisman
+1 Baleful Mastery
+1 Dark Ritual
+1 Darkblast
+1 Dismember
+1 Eldrazi Confluence
+1 Entomb
+1 Fell the Profane
+1 Insidious Dreams
+1 Kozilek's Command
+1 Null Elemental Blast
+1 V.A.T.S.
+1 Zuko's Exile
+1 Diabolic Intent
+1 Nuclear Fallout
+1 Praetor's Grasp
+1 Scheming Symmetry
+1 Toxic Deluge
+1 Black Market Connections
+1 Chains of Mephistopheles
+1 Ripples of Undeath
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Bazaar of Baghdad
+1 Blast Zone
+1 Cabal Pit
+1 Cavern of Souls
+1 Command Beacon
+1 Deserted Temple
+1 Eumidian Hatchery
+1 Fomori Vault
+1 Gemstone Caverns
+1 Haven of the Spirit Dragon
+1 Ifnir Deadlands
+1 Inventors' Fair
+1 Lazotep Quarry
+1 Mishra's Workshop
+1 Peat Bog
+1 Phyrexia's Core
+1 Planar Nexus
+1 Plaza of Heroes
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Talon Gates of Madara
+1 The Gold Saucer
+1 The Mycosynth Gardens
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+1 Vault of Whispers
+Sideboard
+1 Trazyn the Infinite

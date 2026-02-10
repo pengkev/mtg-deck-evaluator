@@ -1,0 +1,89 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Apex Devastator
+1 Birds of Paradise
+1 Consecrated Sphinx
+1 Dawnglade Regent
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Dryad of the Ilysian Grove
+1 Elvish Mystic
+1 Eternal Witness
+1 Fierce Empath
+1 Ghalta, Primal Hunger
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Core Augur
+1 Kinnan, Bonder Prodigy
+1 Kodama of the East Tree
+1 Lier, Disciple of the Drowned
+1 Llanowar Elves
+1 Metalwork Colossus
+1 Nyxbloom Ancient
+1 Old Gnawbone
+1 Selvala, Heart of the Wilds
+1 The Pride of Hull Clade
+1 The Walls of Ba Sing Se
+1 Tidespout Tyrant
+1 Titan of Industry
+1 Ulamog, the Infinite Gyre
+1 Arcane Signet
+1 Basalt Monolith
+1 Chimil, the Inner Sun
+1 Lightning Greaves
+1 Mana Vault
+1 Planetarium of Wan Shi Tong
+1 Relic of Legends
+1 Sensei's Divining Top
+1 Simic Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Eternity Elevator
+1 The Great Henge
+1 Thran Dynamo
+1 Harrow
+1 Nexus of Fate
+1 Return of the Wildspeaker
+1 Capture of Jingzhou
+1 Cultivate
+1 Karn's Temporal Sundering
+1 Kodama's Reach
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Sea Gate Restoration
+1 Sylvan Scrying
+1 Temporal Manipulation
+1 Three Visits
+1 Time Stretch
+1 Virtue of Strength
+1 Helix Pinnacle
+1 Mana Reflection
+1 Omniscience
+1 One with the Multiverse
+1 Rhystic Study
+1 Sylvan Library
+1 Tezzeret, Cruel Captain
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Boseiju, Who Shelters All
+1 Breeding Pool
+1 Castle Garenbrig
+1 Command Tower
+1 Dreamroot Cascade
+1 Evendo, Waking Haven
+1 Exotic Orchard
+1 Flooded Grove
+8 Forest
+1 High Market
+1 Hinterland Harbor
+6 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Nykthos, Shrine to Nyx
+1 Otawara, Soaring City
+1 Overflowing Basin
+1 Rejuvenating Springs
+1 Simic Growth Chamber
+1 Sodden Verdure
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Imoti, Celebrant of Bounty

@@ -1,0 +1,76 @@
+1 Cultivate
+1 Sol Ring
+1 Garruk's Uprising
+1 Animate Dead
+1 Victimize
+1 Arcane Signet
+1 Talisman of Resilience
+1 Golgari Signet
+1 Panharmonicon
+1 Beast Within
+1 Rushed Rebirth
+1 Nasty End
+1 Terminate
+1 Riveteers Ascendancy
+1 Riveteers Charm
+1 Nature's Lore
+1 Kodama's Reach
+1 Rampant Growth
+1 Farseek
+1 Blasphemous Act
+1 Rise of the Witch-King
+1 Chaos Warp
+1 Drivnod, Carnage Dominus
+1 Goreclaw, Terror of Qal Sisma
+1 Gruff Triplets
+1 Ojer Kaslem, Deepest Growth
+1 Honest Rutstein
+1 Roxanne, Starfall Savant
+1 Archon of Cruelty
+1 Junji, the Midnight Sky
+1 Thragtusk
+1 Ziatora, the Incinerator
+1 Giant Adephage
+1 Noxious Gearhulk
+1 Primeval Herald
+1 Solemn Simulacrum
+1 Coalstoke Gearhulk
+1 Atsushi, the Blazing Sky
+1 Archpriest of Shadows
+1 Ignoble Hierarch
+1 Kokusho, the Evening Star
+1 Sakura-Tribe Elder
+1 Birds of Paradise
+1 Ilharg, the Raze-Boar
+1 Artisan of Kozilek
+1 Seedguide Ash
+1 Kogla, the Titan Ape
+1 Etali, Primal Storm
+1 Woodfall Primus
+1 Phyrexian Delver
+1 Ravenous Chupacabra
+1 Timeless Witness
+1 Chainer, Nightmare Adept
+1 Kura, the Boundless Sky
+1 Rampant Rejuvenator
+1 Ognis, the Dragon's Lash
+1 Treeshaker Chimera
+1 Greenwarden of Murasa
+1 Disciple of Bolas
+1 Llanowar Wastes
+1 Dragonskull Summit
+1 Woodland Cemetery
+1 Riveteers Overlook
+1 Smoldering Marsh
+1 Cinder Glade
+1 Savage Lands
+1 Haunted Ridge
+1 Karplusan Forest
+1 Exotic Orchard
+1 Wastewood Verge
+1 Command Tower
+6 Mountain
+11 Swamp
+11 Forest
+Sideboard
+1 Henzie "Toolbox" Torre

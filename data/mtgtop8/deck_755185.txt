@@ -1,0 +1,92 @@
+1 Amy Rose
+1 Armory Paladin
+1 Brotherhood Outcast
+1 Captain Lannery Storm
+1 Cass, Hand of Vengeance
+1 Charming Scoundrel
+1 Cloud, Midgar Mercenary
+1 Codsworth, Handy Helper
+1 Firion, Wild Rose Warrior
+1 Insidious Fungus
+1 Kellan, the Fae-Blooded
+1 Knuckles the Echidna
+1 Lightning, Army of One
+1 Mister Gutsy
+1 Preston Garvey, Minuteman
+1 Puresteel Paladin
+1 Sram, Senior Edificer
+1 Three Dog, Galaxy News DJ
+1 Agility Bobblehead
+1 Arcane Signet
+1 Basilisk Collar
+1 Behemoth Sledge
+1 Buster Sword
+1 Champion's Helm
+1 Conformer Shuriken
+1 Explorer's Scope
+1 Fireshrieker
+1 Junk Jet
+1 Masterwork of Ingenuity
+1 Pip-Boy 3000
+1 Pre-War Formalwear
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Irencrag
+1 Chaos Warp
+1 Heroic Intervention
+1 Inventory Management
+1 Nature's Claim
+1 Path to Exile
+1 Stroke of Midnight
+1 Valorous Stance
+1 Blasphemous Act
+1 Farseek
+1 Return Triumphant
+1 Single Combat
+1 Vandalblast
+1 All That Glitters
+1 Almost Perfect
+1 Eldrazi Conscription
+1 Fertile Ground
+1 Grim Reaper's Sprint
+1 Idolized
+1 Mantle of the Ancients
+1 Nature's Will
+1 Parallel Lives
+1 Rancor
+1 Smothering Tithe
+1 Sticky Fingers
+1 Strong Back
+1 Super State
+1 Utopia Sprawl
+1 Vault 101: Birthday Party
+1 Well Rested
+1 Wild Growth
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+4 Forest
+1 Jungle Shrine
+1 Junktown
+1 Mossfire Valley
+4 Mountain
+1 Path of Ancestry
+4 Plains
+1 Rogue's Passage
+1 Rootbound Crag
+1 Scavenger Grounds
+1 Starting Town
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Sunscorched Divide
+1 Temple of Plenty
+1 Temple of the False God
+1 Temple of Triumph
+1 Terramorphic Expanse
+1 Thornspire Verge
+Sideboard
+1 Dogmeat, Ever Loyal

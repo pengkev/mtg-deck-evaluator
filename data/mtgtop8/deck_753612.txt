@@ -1,0 +1,89 @@
+1 Baleful Strix
+1 Brainstealer Dragon
+1 Cazur, Ruthless Stalker
+1 Doc Aurlock, Grizzled Genius
+1 Edric, Spymaster of Trest
+1 Fallen Shinobi
+1 Felix Five-Boots
+1 Gonti, Lord of Luxury
+1 Gonti, Night Minister
+1 Kotis, the Fangkeeper
+1 Laboratory Maniac
+1 Muldrotha, the Gravetide
+1 Ohran Frostfang
+1 Orochi Soul-Reaver
+1 Sage of the Beyond
+1 Savvy Trader
+1 Silent-Blade Oni
+1 Silhana Ledgewalker
+1 Sin, Spira's Punishment
+1 Slither Blade
+1 The Mimeoplasm
+1 Thieving Skydiver
+1 Thieving Varmint
+1 Tower Winder
+1 Trygon Predator
+1 Ukkima, Stalking Shadow
+1 Whirler Rogue
+1 Arcane Signet
+1 Darksteel Ingot
+1 Dream-Thief's Bandana
+1 Fellwar Stone
+1 Found Footage
+1 Sol Ring
+1 Staff of Eden, Vault's Key
+1 Baleful Mastery
+1 Bring the Ending
+1 Daze
+1 Plasm Capture
+1 Putrefy
+1 Siphon Insight
+1 Spell Pierce
+1 Spell Shrivel
+1 Strix Serenade
+1 Time Stop
+1 Turn Aside
+1 Arcane Heist
+1 Culling Ritual
+1 Curse of the Swine
+1 Extract Brain
+1 Feed the Swarm
+1 Kodama's Reach
+1 Predators' Hour
+1 Rampant Growth
+1 Stolen Goods
+1 Three Visits
+1 Villainous Wealth
+1 Carpet of Flowers
+1 Cunning Rhetoric
+1 Mind's Dilation
+1 Omniscience
+1 Propaganda
+1 Access Tunnel
+1 Command Tower
+1 Darkslick Shores
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Flooded Grove
+4 Forest
+1 Hinterland Harbor
+5 Island
+1 Llanowar Wastes
+1 Opulent Palace
+1 Overflowing Basin
+1 Reliquary Tower
+1 Sunken Hollow
+6 Swamp
+1 Temple of Deceit
+1 Temple of Malady
+1 Temple of Mystery
+1 Twilight Mire
+1 Underground River
+1 Viridescent Bog
+1 Woodland Cemetery
+1 Yavimaya Coast
+Sideboard
+1 Gonti, Canny Acquisitor

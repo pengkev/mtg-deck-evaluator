@@ -1,0 +1,101 @@
+1 Recruiter of the Guard
+1 Biomancer's Familiar
+1 Dualcaster Mage
+1 Grand Abolisher
+1 Manglehorn
+1 Kinnan, Bonder Prodigy
+1 Birds of Paradise
+1 Imperial Recruiter
+1 Twinshot Sniper
+1 Colossal Skyturtle
+1 Mirrorshell Crab
+1 Eternal Witness
+1 Emiel the Blessed
+1 Preston, the Vanisher
+1 Cloud of Faeries
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Agatha of the Vile Cauldron
+1 Bartolomé del Presidio
+1 Tishana's Tidebinder
+1 Kutzil, Malamet Exemplar
+1 Ranger-Captain of Eos
+1 Delney, Streetwise Lookout
+1 Opposition Agent
+1 Esper Sentinel
+1 Evolution Witness
+1 Warren Soultrader
+1 Fanatic of Rhonas
+1 Faeburrow Elder
+1 Haywire Mite
+1 Skyclave Apparition
+1 Deathrite Shaman
+1 Faerie Macabre
+1 Ignoble Hierarch
+1 Noble Hierarch
+1 Enduring Vitality
+1 Bloom Tender
+1 Seedborn Muse
+1 Derevi, Empyrial Tactician
+1 Six
+1 Chrome Mox
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Mox Amber
+1 Agatha's Soul Cauldron
+1 Vexing Bauble
+1 Lotus Petal
+1 Sol Ring
+1 Pact of Negation
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Crop Rotation
+1 Entomb
+1 Worldly Tutor
+1 Swan Song
+1 Fierce Guardianship
+1 Frantic Search
+1 Chord of Calling
+1 Mindbreak Trap
+1 Deflecting Swat
+1 Flusterstorm
+1 Demonic Tutor
+1 Green Sun's Zenith
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Training Grounds
+1 Intruder Alarm
+1 Ripples of Undeath
+1 Cryptolith Rite
+1 City of Brass
+1 Misty Rainforest
+1 Scalding Tarn
+1 Gaea's Cradle
+1 Badlands
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Phyrexian Tower
+1 Underground Sea
+1 Windswept Heath
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Command Tower
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Hedge Maze
+1 Polluted Delta
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Shifting Woodland
+1 Flooded Strand
+Sideboard
+1 Kenrith, the Returned King

@@ -1,0 +1,88 @@
+1 Blood Artist
+1 Bloodline Keeper
+1 Bloodthirsty Conqueror
+1 Captivating Vampire
+1 Champion of Dusk
+1 Cordial Vampire
+1 Drana and Linvala
+1 Drana, Liberator of Malakir
+1 Edgar, Charmed Groom
+1 Elenda, the Dusk Rose
+1 Falkenrath Aristocrat
+1 Indulgent Aristocrat
+1 Kalastria Highborn
+1 Kalitas, Traitor of Ghet
+1 Legion Lieutenant
+1 Markov Baron
+1 Mavren Fein, Dusk Apostle
+1 Olivia Voldaren
+1 Olivia, Crimson Bride
+1 Patron of the Vein
+1 Sanctum Seeker
+1 Stromkirk Captain
+1 Twilight Prophet
+1 Vampire Nocturnus
+1 Vampire Socialite
+1 Vein Ripper
+1 Vicious Conquistador
+1 Vito, Thorn of the Dusk Rose
+1 Welcoming Vampire
+1 Yahenni, Undying Partisan
+1 Arcane Signet
+1 Blade of the Bloodchief
+1 Bolas's Citadel
+1 Herald's Horn
+1 Idol of Oblivion
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Indulgence
+1 Vanquisher's Banner
+1 Anguished Unmaking
+1 Boros Charm
+1 Generous Gift
+1 Go for the Throat
+1 Infernal Grasp
+1 Kolaghan's Command
+1 Path to Exile
+1 Rakdos Charm
+1 Teferi's Protection
+1 Terminate
+1 Demonic Tutor
+1 Diabolic Intent
+1 Diabolic Tutor
+1 Night's Whisper
+1 Sign in Blood
+1 Vindicate
+1 Animate Dead
+1 Anointed Procession
+1 Bastion of Remembrance
+1 Black Market Connections
+1 Dictate of Erebos
+1 Impact Tremors
+1 Reconnaissance
+1 Shared Animosity
+1 Sorin, Imperious Bloodlord
+1 Blightstep Pathway
+1 Bloodstained Mire
+1 Brightclimb Pathway
+1 Canyon Slough
+1 Castle Locthwain
+1 Clifftop Retreat
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Foreboding Ruins
+1 High Market
+1 Isolated Chapel
+3 Mountain
+1 Myriad Landscape
+1 Needleverge Pathway
+1 Nomad Outpost
+1 Path of Ancestry
+4 Plains
+8 Swamp
+1 Tainted Field
+1 Terramorphic Expanse
+1 Vault of the Archangel
+Sideboard
+1 Edgar Markov

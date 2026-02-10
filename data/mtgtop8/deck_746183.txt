@@ -1,0 +1,78 @@
+1 Bighorner Rancher
+1 Brawn
+1 Crashing Drawbridge
+1 Darkstar Augur
+1 Disciple of Bolas
+1 Elvish Mystic
+1 Falthis, Shadowcat Familiar
+1 Forgotten Ancient
+1 Fyndhorn Elves
+1 Geode Golem
+1 Goreclaw, Terror of Qal Sisma
+1 Insidious Fungus
+1 Llanowar Elves
+1 Multani, Yavimaya's Avatar
+1 Nyxborn Hydra
+1 Ornithopter of Paradise
+1 Outland Liberator
+1 Owlbear Shepherd
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Selvala, Heart of the Wilds
+1 Shadowheart, Dark Justiciar
+1 Slaughterhorn
+1 Tanuki Transplanter
+1 Titanoth Rex
+1 Witherbloom Apprentice
+1 Yargle, Glutton of Urborg
+1 Dark Knight's Greatsword
+1 Dragonfire Blade
+1 Fellwar Stone
+1 Grafted Exoskeleton
+1 Hero's Blade
+1 Loxodon Warhammer
+1 Mirage Mirror
+1 Moonsilver Key
+1 Swiftfoot Boots
+1 Fog
+1 Imp's Mischief
+1 Infernal Grasp
+1 Invigorate
+1 Lifestream's Blessing
+1 Naturalize
+1 Overprotect
+1 Return of the Wildspeaker
+1 Slaughter Pact
+1 Snakeskin Veil
+1 Tainted Strike
+1 Vines of Vastwood
+1 Chain of Smog
+1 Come Back Wrong
+1 Cultivate
+1 Essence Harvest
+1 Farseek
+1 Rishkar's Expertise
+1 Traverse the Outlands
+1 Boar Umbra
+1 Crystal Carapace
+1 Dying Wish
+1 Greater Good
+1 Indomitable Might
+1 Leyline of the Void
+1 Lion Umbra
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+13 Forest
+1 Golgari Rot Farm
+1 Haunted Mire
+1 Llanowar Wastes
+1 Myriad Landscape
+1 Necroblossom Snarl
+1 Path of Ancestry
+12 Swamp
+1 Tainted Wood
+1 Temple of Malady
+1 Terramorphic Expanse
+Sideboard
+1 Yargle and Multani

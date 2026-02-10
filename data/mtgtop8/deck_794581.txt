@@ -1,0 +1,97 @@
+1 Lhurgoyf
+1 Hermit Druid
+1 Bloodline Pretender
+1 Taurean Mauler
+1 Detritivore
+1 Graveshifter
+1 Tarmogoyf
+1 Eternal Witness
+1 Purphoros, God of the Forge
+1 Polygoyf
+1 Birds of Paradise
+1 Nethergoyf
+1 Pyrogoyf
+1 Llanowar Elves
+1 Terravore
+1 Deathrite Shaman
+1 Changeling Outcast
+1 Ignoble Hierarch
+1 Realmwalker
+1 Endurance
+1 Putrid Imp
+1 Elves of Deep Shadow
+1 Barrowgoyf
+1 Necrogoyf
+1 Magnivore
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Resilience
+1 Hedge Shredder
+1 Ashes of the Fallen
+1 Lightning Greaves
+1 Maskwood Nexus
+1 Mesmeric Orb
+1 Talisman of Impulse
+1 Fellwar Stone
+1 Altar of Dementia
+1 Altar of the Goyf
+1 Basalt Monolith
+1 Force of Vigor
+1 Sheoldred's Edict
+1 Deadly Rollick
+1 Delayed Blast Fireball
+1 Entomb
+1 Legolas's Quick Reflexes
+1 Worldly Tutor
+1 Dismember
+1 Grisly Salvage
+1 Abrupt Decay
+1 Life from the Loam
+1 Toxic Deluge
+1 Diabolic Intent
+1 Crippling Fear
+1 Farseek
+1 Reanimate
+1 Faithless Looting
+1 Nature's Lore
+1 Buried Alive
+1 Culling Ritual
+1 Eldritch Evolution
+1 Sylvan Library
+1 Black Market Connections
+1 Garruk's Uprising
+1 Tarmogoyf Nest
+1 Greater Good
+1 Cover of Darkness
+1 Tortured Existence
+1 Breath of Fury
+1 Survival of the Fittest
+1 Teval's Judgment
+1 Invasion of Ikoria
+3 Forest
+1 Mana Confluence
+1 Raucous Theater
+1 Karplusan Forest
+1 Swamp
+1 Twilight Mire
+1 Windswept Heath
+1 Llanowar Wastes
+1 Mount Doom
+1 Cragcrown Pathway
+1 Dakmor Salvage
+1 Phyrexian Tower
+3 Mountain
+1 Command Tower
+1 Undergrowth Stadium
+1 Exotic Orchard
+1 Ziatora's Proving Ground
+1 Wooded Foothills
+1 Vernal Fen
+1 Fabled Passage
+1 Cinder Glade
+1 Bloodstained Mire
+1 Polluted Delta
+1 Blood Crypt
+1 Smoldering Marsh
+Sideboard
+1 Disa the Restless

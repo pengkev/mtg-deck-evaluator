@@ -1,0 +1,101 @@
+1 Agatha's Soul Cauldron
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Arcane Signet
+1 Arid Mesa
+1 Assassin's Trophy
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Brenard, Ginger Sculptor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Delighted Halfling
+1 Derevi, Empyrial Tactician
+1 Desynchronization
+1 Dovin's Veto
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Emiel the Blessed
+1 Eshki, Temur's Roar
+1 Excalibur, Sword of Eden
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Fire Covenant
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 General Ferrous Rokiric
+1 Godless Shrine
+1 Great Hall of the Citadel
+1 Gwenna, Eyes of Gaea
+1 Hajar, Loyal Bodyguard
+1 Hallowed Fountain
+1 Heroes' Podium
+1 Heroic Intervention
+1 Invasion of Fiora
+1 Island
+1 Jetmir, Nexus of Revels
+1 K-9, Mark I
+1 Kira, Great Glass-Spinner
+1 Kunoros, Hound of Athreos
+1 Kutzil, Malamet Exemplar
+1 Legolas's Quick Reflexes
+1 Lightning Greaves
+1 Linvala, Shield of Sea Gate
+1 Lotho, Corrupt Shirriff
+1 Mana Cannons
+1 Mana Confluence
+1 Marchesa, the Black Rose
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Mox Amber
+1 Najeela, the Blade-Blossom
+1 No More Lies
+1 Oko, Thief of Crowns
+1 Overgrown Tomb
+1 Path to Exile
+1 Pippin, Guard of the Citadel
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Primevals' Glorious Rebirth
+1 Ratadrabik of Urborg
+1 Rejuvenating Springs
+1 Relic of Legends
+1 Reverent Mantra
+1 Rhystic Study
+1 Rhythm of the Wild
+1 Rogue's Passage
+1 Ruby, Daring Tracker
+1 Sacred Foundry
+1 Selvala, Heart of the Wilds
+1 Shanid, Sleepers' Scourge
+1 Shivan Reef
+1 Sisay, Weatherlight Captain
+1 Skrelv, Defector Mite
+1 Sol Ring
+1 Stomping Ground
+1 Surge of Salvation
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Sylvan Library
+1 Teferi's Protection
+1 Temple Garden
+1 Temur Ascendancy
+1 The Great Henge
+1 Umbral Mantle
+1 Urza's Ruinous Blast
+1 Vega, the Watcher
+1 Watery Grave
+1 Widespread Thieving
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Jodah, the Unifier

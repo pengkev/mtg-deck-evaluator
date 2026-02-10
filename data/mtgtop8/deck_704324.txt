@@ -1,0 +1,81 @@
+1 Angel of Grace
+1 Exquisite Archangel
+1 Kami of False Hope
+1 Children of Korlis
+1 Platinum Angel
+1 Wall of Blood
+1 Sun Titan
+1 Enduring Angel
+1 Cloudsteel Kirin
+1 K'rrik, Son of Yawgmoth
+1 Wall of Shards
+1 Herald of Eternal Dawn
+1 Soul Conduit
+1 Tainted Sigil
+1 Orzhov Signet
+1 Charcoal Diamond
+1 Marble Diamond
+1 Pact Weapon
+1 Sol Ring
+1 The Golden Throne
+1 Arcane Signet
+1 Fellwar Stone
+1 Wishclaw Talisman
+1 Talisman of Hierarchy
+1 Dark Ritual
+1 Swords to Plowshares
+1 Stunning Reversal
+1 Angel's Grace
+1 Moonlight Bargain
+1 Dawn Charm
+1 Fracture
+1 Path to Exile
+1 Loran's Escape
+1 Imp's Mischief
+1 Courageous Resolve
+1 Toxic Deluge
+1 Kaya's Wrath
+1 Oketra's Last Mercy
+1 Read the Bones
+1 Reanimate
+1 Reverse the Sands
+1 Sign in Blood
+1 Profane Tutor
+1 Brilliant Restoration
+1 Repay in Kind
+1 Fumigate
+1 Merciless Eviction
+1 Austere Command
+1 Farewell
+1 Day of Judgment
+1 Damn
+1 Wrath of God
+1 Necropotence
+1 Phyrexian Reclamation
+1 Font of Agonies
+1 Worship
+1 Underworld Dreams
+1 Ghostly Prison
+1 Axis of Mortality
+1 Greed
+1 Blind Obedience
+1 Phyrexian Arena
+10 Swamp
+1 Boseiju, Who Shelters All
+1 Sunscorched Desert
+1 Caves of Koilos
+1 Reliquary Tower
+1 Bojuka Bog
+1 Piranha Marsh
+1 Mishra's Factory
+1 Exotic Orchard
+1 Shambling Vent
+1 Castle Ardenvale
+1 Shineshadow Snarl
+1 Command Tower
+1 Tainted Field
+1 Ash Barrens
+1 Orzhov Basilica
+12 Plains
+Sideboard
+1 Selenia, Dark Angel

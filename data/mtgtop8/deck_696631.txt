@@ -1,0 +1,99 @@
+1 Urza, Lord High Artificer
+1 Pixie Guide
+1 Ledger Shredder
+1 Wyll, Blade of Frontiers
+1 Dualcaster Mage
+1 Faerie Mastermind
+1 Ragavan, Nimble Pilferer
+1 Kitsa, Otterball Elite
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Diamond
+1 Lotus Petal
+1 Mox Opal
+1 Sol Ring
+1 Fellwar Stone
+1 The One Ring
+1 Arcane Signet
+1 Mana Vault
+1 Izzet Signet
+1 Talisman of Creativity
+1 Lightning Bolt
+1 Cyclonic Rift
+1 Rending Volley
+1 Dramatic Reversal
+1 Mental Note
+1 Brain Freeze
+1 Delayed Blast Fireball
+1 Resculpt
+1 Snap
+1 Sink into Stupor
+1 Intuition
+1 Mystical Tutor
+1 Flusterstorm
+1 Force of Will
+1 Delay
+1 Pyroblast
+1 Red Elemental Blast
+1 Swan Song
+1 Valakut Awakening
+1 Frantic Search
+1 Big Score
+1 Thought Scour
+1 Force of Negation
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Consider
+1 Mindbreak Trap
+1 Chain of Vapor
+1 Wheel of Fortune
+1 Timetwister
+1 Savor the Moment
+1 Temporal Manipulation
+1 Personal Tutor
+1 Gitaxian Probe
+1 Sea Gate Restoration
+1 Jeska's Will
+1 Time Warp
+1 Tasha's Hideous Laughter
+1 Solve the Equation
+1 Command Performance
+1 Lorien Revealed
+1 Gamble
+1 Faithless Looting
+1 Twinflame
+1 Capture of Jingzhou
+1 Ghirapur Aether Grid
+1 Barbarian Class
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 City of Brass
+1 Volcanic Island
+1 Riverglide Pathway
+1 Forbidden Orchard
+1 Misty Rainforest
+1 Scalding Tarn
+1 Arid Mesa
+1 Polluted Delta
+1 Flooded Strand
+1 Ancient Tomb
+1 Minamo, School at Water's Edge
+1 Shivan Reef
+1 Steam Vents
+1 Mana Confluence
+1 Training Center
+1 Otawara, Soaring City
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Boseiju, Who Shelters All
+1 Thundering Falls
+1 Mountain
+1 Prismatic Vista
+1 Fiery Islet
+1 Command Tower
+3 Island
+Sideboard
+1 Myra the Magnificent

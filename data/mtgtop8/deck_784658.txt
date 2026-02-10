@@ -1,0 +1,76 @@
+1 Baird, Steward of Argive
+1 Brass Squire
+1 Chocobo Knights
+1 Danitha, New Benalia's Light
+1 Fyndhorn Elves
+1 Gyre Sage
+1 Lion Sash
+1 Llanowar Elves
+1 Pearl-Ear, Imperial Advisor
+1 Puresteel Paladin
+1 Selfless Samurai
+1 Silverblade Paladin
+1 Sram, Senior Edificer
+1 Umbra Mystic
+1 Arcane Signet
+1 Blackblade Reforged
+1 Hero's Blade
+1 Key to the City
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thran Power Suit
+1 Trailblazer's Boots
+1 Blossoming Defense
+1 Defend the Rider
+1 Divine Resilience
+1 Hunter's Insight
+1 Invigorating Surge
+1 Loran's Escape
+1 Path to Exile
+1 Ram Through
+1 Royal Treatment
+1 Sejiri Shelter
+1 Snakeskin Veil
+1 Solidarity of Heroes
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Bushwhack
+1 Damning Verdict
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Open the Armory
+1 Promise of Loyalty
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Single Combat
+1 Winds of Rath
+1 All That Glitters
+1 Alpha Authority
+1 Branching Evolution
+1 Darksteel Mutation
+1 Ethereal Armor
+1 Fight Rigging
+1 Flaming Fist
+1 Hardened Scales
+1 Hydra's Growth
+1 Mantle of the Ancients
+1 Meltstrider's Resolve
+1 Raised by Giants
+1 Resourceful Defense
+1 Sheltered by Ghosts
+1 Sphere of Safety
+1 Spirit Mantle
+1 Timely Ward
+1 Together Forever
+1 Twinblade Blessing
+1 Canopy Vista
+1 Command Tower
+13 Forest
+1 Fortified Village
+14 Plains
+1 Rogue's Passage
+1 Sungrass Prairie
+Sideboard
+1 Noble Heritage
+1 Wilson, Refined Grizzly

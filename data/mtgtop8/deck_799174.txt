@@ -1,0 +1,98 @@
+1 Zulaport Cutthroat
+1 Caesar, Legion's Emperor
+1 Umbral Collar Zealot
+1 The Jolly Balloon Man
+1 Ocelot Pride
+1 Marionette Apprentice
+1 Exalted Sunborn
+1 Goldlust Triad
+1 Voice of Victory
+1 Mahadi, Emporium Master
+1 Anim Pakal, Thousandth Moon
+1 Bone-Cairn Butcher
+1 Redoubled Stormsinger
+1 Warren Soultrader
+1 Elas il-Kor, Sadistic Pilgrim
+1 Pitiless Plunderer
+1 Grim Hireling
+1 Mondrak, Glory Dominus
+1 Enduring Courage
+1 Mirkwood Bats
+1 Professional Face-Breaker
+1 Adeline, Resplendent Cathar
+1 Hero of Bladehold
+1 Knuckles the Echidna
+1 Loyal Apprentice
+1 Rose Room Treasurer
+1 Yawgmoth, Thran Physician
+1 Teysa Karlov
+1 Selfless Spirit
+1 Viscera Seer
+1 Purphoros, God of the Forge
+1 Ainok Strike Leader
+1 Lightning Greaves
+1 Skullclamp
+1 Ashnod's Altar
+1 Sol Ring
+1 Infantry Shield
+1 Flawless Maneuver
+1 Vampiric Tutor
+1 Will of the Mardu
+1 Grand Crescendo
+1 Fell the Profane
+1 Deadly Dispute
+1 Path to Exile
+1 Crackling Doom
+1 Clever Concealment
+1 Anguished Unmaking
+1 Swords to Plowshares
+1 Demonic Tutor
+1 Sundering Eruption
+1 Damn
+1 Jeska's Will
+1 Ruinous Ultimatum
+1 Song of Totentanz
+1 Tempt with Vengeance
+1 Diabolic Intent
+1 Goblin Bombardment
+1 Dollmaker's Shop/Porcelain Gallery
+1 Warleader's Call
+1 Reconnaissance
+1 Within Range
+1 Impact Tremors
+1 Elspeth, Storm Slayer
+1 Shattered Sanctum
+1 Shadowy Backstreet
+1 Bojuka Bog
+1 Elegant Parlor
+1 Sundown Pass
+1 Dalkovan Encampment
+1 Bloodstained Mire
+1 Sulfurous Springs
+1 Phyrexian Tower
+1 Nomad Outpost
+1 Dragonskull Summit
+1 Battlefield Forge
+1 Spectator Seating
+1 Arena of Glory
+1 Luxury Suite
+1 Fetid Heath
+1 Isolated Chapel
+2 Swamp
+1 Godless Shrine
+2 Plains
+1 Sunbillow Verge
+1 Graven Cairns
+1 Shattered Landscape
+1 Flooded Strand
+1 Exotic Orchard
+2 Mountain
+1 Caves of Koilos
+1 Marsh Flats
+1 Command Tower
+1 Sacred Foundry
+1 Arid Mesa
+1 Bleachbone Verge
+1 Clifftop Retreat
+Sideboard
+1 Zurgo Stormrender

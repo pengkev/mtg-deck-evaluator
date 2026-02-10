@@ -1,0 +1,101 @@
+1 Elvish Spirit Guide
+1 Narcomoeba
+1 Balustrade Spy
+1 Undercity Informer
+1 Vigor
+1 Phyrexian Metamorph
+1 Deathrite Shaman
+1 Phantasmagorian
+1 Simian Spirit Guide
+1 Hogaak, Arisen Necropolis
+1 Thassa's Oracle
+1 Glasspool Mimic
+1 Esper Sentinel
+1 Priest of Fell Rites
+1 Grim Hireling
+1 Ledger Shredder
+1 Professional Face-Breaker
+1 Poxwalkers
+1 Samut, Vizier of Naktamun
+1 Orcish Bowmasters
+1 Witch Enchanter
+1 Hydroelectric Specimen
+1 Boggart Trawler
+1 Pinnacle Monk
+1 Disciple of Freyalise
+1 Drowner of Truth
+1 Mockingbird
+1 Voice of Victory
+1 Katara, Waterbending Master
+1 Fellwar Stone
+1 Mana Vault
+1 Sol Ring
+1 Amulet of Vigor
+1 Chrome Mox
+1 Lotus Petal
+1 Birthing Pod
+1 Prismatic Lens
+1 Arcane Signet
+1 Jack-o'-Lantern
+1 The One Ring
+1 Solar Transformer
+1 Force of Will
+1 Dispel
+1 Gifts Ungiven
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Pyroblast
+1 Pact of Negation
+1 Memory's Journey
+1 Silence
+1 Mental Misstep
+1 Nexus of Fate
+1 Swan Song
+1 Flusterstorm
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Silundi Vision
+1 Malakir Rebirth
+1 Spikefield Hazard
+1 Valakut Awakening
+1 An Offer You Can't Refuse
+1 Razorgrass Ambush
+1 Sink into Stupor
+1 Fell the Profane
+1 Legion Leadership
+1 Revitalizing Repast
+1 Rush of Inspiration
+1 Waterlogged Teachings
+1 Rite of Flame
+1 Mystic Retrieval
+1 Eldritch Evolution
+1 Blasphemous Act
+1 Cabal Therapy
+1 Demonic Tutor
+1 Reanimate
+1 Dread Return
+1 Sublime Exhalation
+1 Neoform
+1 Echo of Eons
+1 Emeria's Call
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Shatterskull Smashing
+1 Turntimber Symbiosis
+1 Sundering Eruption
+1 Bridgeworks Battle
+1 Bloodsoaked Insight
+1 Stump Stomp
+1 Suppression Ray
+1 Druids' Repository
+1 Survival of the Fittest
+1 Sylvan Library
+1 Bridge from Below
+1 Mystic Remora
+1 Rhystic Study
+1 Glasswing Grace
+1 Strength of the Harvest
+Sideboard
+1 Najeela, the Blade-Blossom

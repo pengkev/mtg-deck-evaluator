@@ -1,0 +1,84 @@
+1 Aclazotz, Deepest Betrayal
+1 Adaptive Automaton
+1 Archangel of Thune
+1 Basilica Screecher
+1 Blood Artist
+1 Courier Bat
+1 Darkstar Augur
+1 Deep-Cavern Bat
+1 Elas il-Kor, Sadistic Pilgrim
+1 Enduring Innocence
+1 Enduring Tenacity
+1 Essence Channeler
+1 Haliya, Guided by Light
+1 Jackdaw Savior
+1 Kambal, Consul of Allocation
+1 Lifecreed Duo
+1 Malakir Familiar
+1 Metallic Mimic
+1 Mirkwood Bats
+1 Moonrise Cleric
+1 Moonstone Eulogist
+1 Moonstone Harbinger
+1 Regal Bloodlord
+1 Roaming Throne
+1 Skeletal Vampire
+1 Star Charter
+1 Starlit Soothsayer
+1 Starscape Cleric
+1 Starseer Mentor
+1 Valley Questcaller
+1 Valley Rotcaller
+1 Vito, Thorn of the Dusk Rose
+1 Welcoming Vampire
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Bolas's Citadel
+1 Desecrated Tomb
+1 Patchwork Banner
+1 Sol Ring
+1 Akroma's Will
+1 Anguished Unmaking
+1 Dawn's Truce
+1 Deadly Dispute
+1 Deadly Rollick
+1 Flare of Fortitude
+1 Flawless Maneuver
+1 Generous Gift
+1 Inkshield
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Farewell
+1 Kindred Dominance
+1 Read the Bones
+1 Season of the Burrow
+1 Sevinne's Reclamation
+1 Vindicate
+1 Wrath of God
+1 Black Market Connections
+1 Cleric Class
+1 Exquisite Blood
+1 Lunar Convocation
+1 Phyrexian Arena
+1 Sanguine Bond
+1 Solemnity
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 Command Tower
+1 Godless Shrine
+1 Lupinflower Village
+1 Minas Tirith
+1 Mudflat Village
+1 Orzhov Basilica
+1 Path of Ancestry
+10 Plains
+1 Reliquary Tower
+1 Shattered Sanctum
+1 Shineshadow Snarl
+9 Swamp
+1 Vault of the Archangel
+Sideboard
+1 Zoraline, Cosmos Caller

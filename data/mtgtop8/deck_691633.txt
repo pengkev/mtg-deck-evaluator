@@ -1,0 +1,75 @@
+1 Serra's Guardian
+1 Angel of Sanctions
+1 Emeria Shepherd
+1 Aegis Angel
+1 Segovian Angel
+1 Angel of Jubilation
+1 Serra Avenger
+1 Akroma, Vision of Ixidor
+1 Angelic Curator
+1 Sunblast Angel
+1 Angelic Quartermaster
+1 Breathkeeper Seraph
+1 Battle Angels of Tyr
+1 Angelic Cub
+1 Starnheim Aspirant
+1 Sephara, Sky's Blade
+1 Firemane Commando
+1 Angelic Field Marshal
+1 Resplendent Angel
+1 Wojek Investigator
+1 Angel of the Ruins
+1 Archangel of Tithes
+1 Inspiring Overseer
+1 Angel of Finality
+1 Exemplar of Light
+1 Angel of Vitality
+1 Herald of War
+1 Righteous Valkyrie
+1 Youthful Valkyrie
+1 Dazzling Angel
+1 Angelic Skirmisher
+1 Reya Dawnbringer
+1 Lyra Dawnbringer
+1 Nyx Lotus
+1 Parhelion II
+1 Caged Sun
+1 Pearl Medallion
+1 The Book of Exalted Deeds
+1 Throne of Eldraine
+1 Cosmos Elixir
+1 Sol Ring
+1 Vanquisher's Banner
+1 Herald's Horn
+1 Collector's Cage
+1 The Ozolith
+1 Swiftfoot Boots
+1 Dawn Charm
+1 Rebuff the Wicked
+1 Generous Gift
+1 Unbounded Potential
+1 Virtue of Loyalty
+1 Swords to Plowshares
+1 Return to Dust
+1 Cleansing Nova
+1 Invoke Justice
+1 Sunset Revelry
+1 Descend upon the Sinful
+1 Fumigate
+1 Elspeth Conquers Death
+1 Dawn of a New Age
+1 Battle at the Helvault
+1 Divine Favor
+1 Invasion of Dominaria
+1 Radiant Fountain
+1 Seraph Sanctuary
+1 Opal Palace
+1 Flagstones of Trokair
+1 Secluded Steppe
+1 Tyrite Sanctum
+1 Path of Ancestry
+1 Windbrisk Heights
+1 Homeward Path
+27 Plains
+Sideboard
+1 Giada, Font of Hope

@@ -1,0 +1,89 @@
+1 Phage the Untouchable
+1 Wave of Rats
+1 Weathered Sentinels
+1 Grime Gorger
+1 World Shaper
+1 Caldaia Guardian
+1 First Responder
+1 Greenwarden of Murasa
+1 Deathbringer Regent
+1 Ayara, Widow of the Realm
+1 Strider, Ranger of the North
+1 Woodfall Primus
+1 Inferno Titan
+1 Gorex, the Tombshell
+1 Goreclaw, Terror of Qal Sisma
+1 Stalking Vengeance
+1 Giant Adephage
+1 Artisan of Kozilek
+1 Brawn
+1 Ziatora, the Incinerator
+1 Ignoble Hierarch
+1 Indrik Stomphowler
+1 Etali, Primal Storm
+1 Treeshaker Chimera
+1 Solemn Simulacrum
+1 Avenger of Zendikar
+1 Disciple of Bolas
+1 Junji, the Midnight Sky
+1 Noxious Gearhulk
+1 Elder Brain
+1 The Beamtown Bullies
+1 Kethek, Crucible Goliath
+1 Ilharg, the Raze-Boar
+1 Lifecrafter's Bestiary
+1 Glittering Stockpile
+1 Sol Ring
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Terminate
+1 Riveteers Charm
+1 Windgrace's Judgment
+1 Chaos Warp
+1 Life's Legacy
+1 Riveteers Confluence
+1 Migration Path
+1 Aether Snap
+1 Rise of the Witch-King
+1 Kodama's Reach
+1 Blasphemous Act
+1 Explore
+1 Farseek
+1 Rampant Growth
+1 Victimize
+1 Riveteers Ascendancy
+1 Protection Racket
+1 Industrial Advancement
+1 Evolutionary Leap
+1 Warstorm Surge
+1 Garruk's Uprising
+1 Blighted Woodland
+1 Jund Panorama
+1 Spinerock Knoll
+1 Kessig Wolf Run
+1 Riveteers Overlook
+1 Cinder Glade
+1 Game Trail
+1 Mossfire Valley
+1 Twilight Mire
+1 Temple of the False God
+1 Myriad Landscape
+1 Mosswort Bridge
+1 Shadowblood Ridge
+1 Foreboding Ruins
+1 Smoldering Marsh
+1 Temple of Malady
+1 Thriving Grove
+1 Thriving Moor
+1 Thriving Bluff
+1 Exotic Orchard
+1 Path of Ancestry
+1 Ash Barrens
+1 Command Tower
+1 Savage Lands
+4 Swamp
+6 Forest
+5 Mountain
+Sideboard
+1 Henzie "Toolbox" Torre

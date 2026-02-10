@@ -1,0 +1,77 @@
+1 Third Path Iconoclast
+1 Poppet Stitcher
+1 Young Pyromancer
+1 Talisman of Creativity
+1 Fellwar Stone
+1 Sol Ring
+1 Arcane Signet
+1 Star Compass
+1 Supreme Will
+1 Unwind
+1 Rewind
+1 Silundi Vision
+1 Occult Epiphany
+1 Battle Hymn
+1 Sublime Epiphany
+1 Turnabout
+1 Commune with Lava
+1 Storm King's Thunder
+1 Pull from Tomorrow
+1 Confounding Riddle
+1 Big Score
+1 Valakut Awakening
+1 Scour from Existence
+1 Unexpected Windfall
+1 Access Denied
+1 Flip the Switch
+1 Snap
+1 Firemind's Foresight
+1 Soul Read
+1 Seething Song
+1 Lazotep Plating
+1 Frantic Search
+1 Reality Spasm
+1 Spell Swindle
+1 Release the Gremlins
+1 Pore Over the Pages
+1 Ral's Reinforcements
+1 Mizzix's Mastery
+1 Past in Flames
+1 Krenko's Command
+1 Lock and Load
+1 Ingenious Mastery
+1 Pirate's Pillage
+1 Quantum Misalignment
+1 Seize the Spoils
+1 Rite of Replication
+1 Nanogene Conversion
+1 Silver Scrutiny
+1 Inspired Tinkering
+1 Song of Totentanz
+1 Apex of Power
+1 Quarrel's End
+1 Dragon Fodder
+1 Tempt with Vengeance
+1 Crackle with Power
+1 Epic Experiment
+1 Rally at the Hornburg
+1 Finale of Revelation
+1 Solve the Equation
+1 Curse of the Swine
+1 Forbidden Friendship
+1 River's Rebuke
+1 Jaya's Immolating Inferno
+1 Sorcerer Class
+1 Invasion of Segovia
+1 Sokenzan, Crucible of Defiance
+1 Reliquary Tower
+12 Mountain
+1 Sulfur Falls
+1 Stormcarved Coast
+1 Shivan Reef
+14 Island
+1 Cascade Bluffs
+1 Command Tower
+1 Frostboil Snarl
+Sideboard
+1 Magnus the Red

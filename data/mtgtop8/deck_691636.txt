@@ -1,0 +1,101 @@
+1 Razaketh, the Foulblooded
+1 Grand Abolisher
+1 Consecrated Sphinx
+1 Spellskite
+1 Thassa's Oracle
+1 Ghostly Pilferer
+1 Nezahal, Primal Tide
+1 Archivist of Oghma
+1 Displacer Kitten
+1 Astral Dragon
+1 Vohar, Vodalian Desecrator
+1 Elesh Norn, Mother of Machines
+1 Rona, Herald of Invasion
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Talion, the Kindly Lord
+1 Psychic Frog
+1 Volatile Stormdrake
+1 Valley Floodcaller
+1 Mockingbird
+1 Kitsa, Otterball Elite
+1 Pollywog Prodigy
+1 Valgavoth, Terror Eater
+1 Esper Sentinel
+1 Toxrill, the Corrosive
+1 Hullbreaker Horror
+1 Chrome Mox
+1 Mox Diamond
+1 Talisman of Progress
+1 Mox Opal
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Lion's Eye Diamond
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Sol Ring
+1 Mana Vault
+1 Mox Amber
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Mana Drain
+1 Force of Will
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Silence
+1 Force of Negation
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Demonic Consultation
+1 Swan Song
+1 Retraction Helix
+1 Miscast
+1 Chain of Vapor
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Strix Serenade
+1 Mindbreak Trap
+1 Banishing Knack
+1 Tainted Pact
+1 Flusterstorm
+1 Reanimate
+1 Toxic Deluge
+1 Diabolic Intent
+1 Imperial Seal
+1 Demonic Tutor
+1 Blind Obedience
+1 Smothering Tithe
+1 Rhystic Study
+1 Mystic Remora
+1 Teferi, Time Raveler
+1 City of Brass
+1 Minamo, School at Water's Edge
+1 Godless Shrine
+1 Watery Grave
+1 Morphic Pool
+1 Cavern of Souls
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Emergence Zone
+1 Command Tower
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Gemstone Caverns
+1 Raffine's Tower
+1 Meticulous Archive
+1 Gloomlake Verge
+1 Vault of Champions
+1 Otawara, Soaring City
+1 Flooded Strand
+1 Sea of Clouds
+Sideboard
+1 Hashaton, Scarab's Fist

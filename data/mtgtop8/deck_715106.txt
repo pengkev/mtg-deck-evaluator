@@ -1,0 +1,91 @@
+1 Archivist of Oghma
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloodroot Apothecary
+1 Bloom Tender
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Evolution Witness
+1 Faerie Mastermind
+1 Fathom Mage
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Incubation Druid
+1 Kami of Whispered Hopes
+1 Kwain, Itinerant Meddler
+1 Lavinia, Azorius Renegade
+1 Pollywog Prodigy
+1 Recruiter of the Guard
+1 Rishkar, Peema Renegade
+1 Walking Ballista
+1 Arcane Signet
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Progress
+1 Talisman of Unity
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Cyclonic Rift
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Parting Gust
+1 Peerless Recycling
+1 Strix Serenade
+1 Swan Song
+1 Trickbind
+1 Veil of Summer
+1 Worldly Tutor
+1 Wear Down
+1 Windfall
+1 Blind Obedience
+1 Carpet of Flowers
+1 Mystic Remora
+1 Pemmin's Aura
+1 Rhystic Study
+1 Smothering Tithe
+1 Sylvan Library
+1 Wizard Class
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Breeding Pool
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+1 Floodfarm Verge
+4 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hushwood Verge
+5 Island
+1 Mistrise Village
+1 Misty Rainforest
+4 Plains
+1 Rejuvenating Springs
+1 Sea of Clouds
+1 Spara's Headquarters
+1 Sunpetal Grove
+1 Temple Garden
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Ms. Bumbleflower

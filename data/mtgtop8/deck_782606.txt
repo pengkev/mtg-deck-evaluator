@@ -1,0 +1,82 @@
+1 Arcane Denial
+1 Arcane Signet
+1 Barbarian Ring
+1 Big Score
+1 Birgi, God of Storytelling
+1 Blazing Crescendo
+1 Cephalid Coliseum
+1 Clout of the Dominus
+1 Coldsteel Heart
+1 Command Tower
+1 Complete the Circuit
+1 Dispel
+1 Electro, Assaulting Battery
+1 Electrodominance
+1 Epic Experiment
+1 Epiphany at the Drownyard
+1 Exotic Orchard
+1 Faithless Looting
+1 Fellwar Stone
+1 Fervent Mastery
+1 Fists of Flame
+1 Frantic Search
+1 Gamble
+1 Gemstone Mine
+1 Gitaxian Probe
+1 Haste Magic
+1 Haze of Rage
+1 Hero's Blade
+1 Inner Fire
+1 Inspired Tinkering
+1 Introduction to Prophecy
+1 Invert/Invent
+1 Invigorated Rampage
+11 Island
+1 Izzet Signet
+1 Jeska's Will
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Geyser
+1 Miscast
+1 Mogg Salvage
+10 Mountain
+1 Multiversal Passage
+1 Mystic Remora
+1 Negate
+1 Ornithopter of Paradise
+1 Past in Flames
+1 Pirate's Pillage
+1 Pirate's Prize
+1 Preordain
+1 Quiet Speculation
+1 Reckless Charge
+1 Recoup
+1 Reiterate
+1 Riverglide Pathway
+1 Runaway Steam-Kin
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Searing Touch
+1 Seething Anger
+1 Seething Song
+1 Seize the Spoils
+1 Shatterskull Smashing
+1 Shivan Reef
+1 Silundi Vision
+1 Simian Spirit Guide
+1 Sky Diamond
+1 Sol Ring
+1 Solve the Equation
+1 Sorceress's Schemes
+1 Spell Pierce
+1 Storm-Kiln Artist
+1 Sudden Breakthrough
+1 Talisman of Creativity
+1 Temporal Fissure
+1 Tezzeret's Gambit
+1 Underworld Breach
+1 Unexpected Windfall
+1 Urabrask
+1 Valakut Awakening
+Sideboard
+1 Vadrik, Astral Archmage

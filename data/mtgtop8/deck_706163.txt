@@ -1,0 +1,101 @@
+1 Putrid Imp
+1 Spellskite
+1 Nezahal, Primal Tide
+1 Serra's Emissary
+1 Elesh Norn, Grand Cenobite
+1 Ashen Rider
+1 Tivit, Seller of Secrets
+1 Ghostly Pilferer
+1 Ledger Shredder
+1 Astral Dragon
+1 Sheoldred, the Apocalypse
+1 Vohar, Vodalian Desecrator
+1 Sharuum the Hegemon
+1 Mondrak, Glory Dominus
+1 Rona, Herald of Invasion
+1 Orcish Bowmasters
+1 Witch-King of Angmar
+1 Lotho, Corrupt Shirriff
+1 Likeness Looter
+1 Malcolm, Alluring Scoundrel
+1 Esper Sentinel
+1 Phyrexian Metamorph
+1 Psychic Frog
+1 Kambal, Profiteering Mayor
+1 Witch Enchanter
+1 Archon of Cruelty
+1 Angel of the Ruins
+1 Pollywog Prodigy
+1 Consecrated Sphinx
+1 Metamorphosis Fanatic
+1 Valgavoth, Terror Eater
+1 Hullbreaker Horror
+1 Archfiend of Ifnir
+1 Fellwar Stone
+1 Lightning Greaves
+1 Mox Amber
+1 The One Ring
+1 Talisman of Hierarchy
+1 Sol Ring
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Talisman of Dominance
+1 Monument to Endurance
+1 Entomb
+1 Force of Negation
+1 Deadly Rollick
+1 Cyclonic Rift
+1 Faithful Mending
+1 March of Swirling Mist
+1 Frantic Search
+1 Swan Song
+1 Swords to Plowshares
+1 Mana Drain
+1 Flare of Denial
+1 Sink into Stupor
+1 Careful Study
+1 Unburial Rites
+1 Reanimate
+1 Windfall
+1 Damn
+1 Animate Dead
+1 Copy Artifact
+1 Tortured Existence
+1 Rhystic Study
+1 Ghostly Prison
+1 Necromancy
+1 Tinybones Joins Up
+1 Propaganda
+1 Urza's Saga
+1 The Meathook Massacre
+1 City of Brass
+1 Morphic Pool
+1 Godless Shrine
+1 Watery Grave
+1 Plains
+1 Mana Confluence
+1 Hallowed Fountain
+1 Underground Sea
+1 Flooded Strand
+1 Caves of Koilos
+1 Vault of Champions
+1 Arid Mesa
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Isolated Chapel
+1 Undercity Sewers
+1 Swamp
+1 Command Tower
+1 Exotic Orchard
+1 Polluted Delta
+1 Glacial Fortress
+1 Floodfarm Verge
+1 Forbidden Orchard
+1 Adarkar Wastes
+1 Underground River
+1 Bleachbone Verge
+1 Minamo, School at Water's Edge
+Sideboard
+1 Hashaton, Scarab's Fist

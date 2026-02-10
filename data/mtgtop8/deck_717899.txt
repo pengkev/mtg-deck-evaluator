@@ -1,0 +1,101 @@
+1 Adeline, Resplendent Cathar
+1 Aether Vial
+1 Ajani, Nacatl Pariah
+1 Anim Pakal, Thousandth Moon
+1 Arbor Elf
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Arid Mesa
+1 Aura Shards
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloom Tender
+1 Boromir, Warden of the Tower
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Chrome Mox
+1 City of Brass
+1 Collector Ouphe
+1 Command Tower
+1 Deafening Silence
+1 Deflecting Swat
+1 Delighted Halfling
+1 Destiny Spinner
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Dryad Arbor
+1 Eidolon of Rhetoric
+1 Eiganjo, Seat of the Empire
+1 Eladamri, Korvecdal
+1 Elvish Mystic
+1 Endurance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Finale of Devastation
+1 Flooded Strand
+1 Forest
+1 Fyndhorn Elves
+1 Gemstone Caverns
+1 Giver of Runes
+1 Glowrider
+1 Grand Abolisher
+1 Green Sun's Zenith
+1 High Noon
+1 Horizon of Progress
+1 Hushbringer
+1 Jetmir's Garden
+1 Krenko, Tin Street Kingpin
+1 Kutzil, Malamet Exemplar
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mother of Runes
+1 Mountain
+1 Mox Diamond
+1 Myrel, Shield of Argive
+1 Noxious Revival
+1 Ocelot Pride
+1 Ohran Frostfang
+1 Phyrexian Censor
+1 Plains
+1 Powerbalance
+1 Pyroblast
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Red Elemental Blast
+1 Sacred Foundry
+1 Scalding Tarn
+1 Secure the Wastes
+1 Serra Ascendant
+1 Shifting Woodland
+1 Silence
+1 Sol Ring
+1 Stomping Ground
+1 Stony Silence
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Tadeas, Juniper Ascendant
+1 Temple Garden
+1 Tendershoot Dryad
+1 Thalia, Guardian of Thraben
+1 The One Ring
+1 Thran Quarry
+1 Tocatli Honor Guard
+1 Toski, Bearer of Secrets
+1 Verdant Catacombs
+1 Vexing Shusher
+1 Voice of Victory
+1 Vryn Wingmare
+1 Weathered Wayfarer
+1 Windswept Heath
+1 Winota, Joiner of Forces
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya, Cradle of Growth
+1 Yisan, the Wanderer Bard
+Sideboard
+1 Jetmir, Nexus of Revels

@@ -1,0 +1,75 @@
+1 Aphetto Alchemist
+1 Arcane Signet
+1 Cephalid Coliseum
+1 Cephalid Facetaker
+1 Clever Conjurer
+1 Crashing Drawbridge
+1 Curie, Emergent Intelligence
+1 Dispel
+1 Fatestitcher
+1 Fleeting Reflection
+1 Forensic Researcher
+1 Ioreth of the Healing House
+27 Island
+1 Kelpie Guide
+1 Laboratory Maniac
+1 Magic Damper
+1 Mana Leak
+1 Marvin, Murderous Mimic
+1 Negate
+1 Reality Shift
+1 Recalibrate
+1 Sapphire Medallion
+1 Second Wind
+1 Shore Up
+1 Silent Hallcreeper
+1 Snap
+1 Sol Ring
+1 Spell Pierce
+1 Step Through
+1 Tidewater Minion
+1 Unsubstantiate
+1 Vizier of Tumbling Sands
+1 You See a Guard Approach
+1 The Mycosynth Gardens
+1 Vedalken Aethermage
+1 Divert
+1 Mirror Image
+1 Stunt Double
+1 Teferi, Mage of Zhalfir
+1 Thassa's Oracle
+1 Mindlink Mech
+1 Liquimetal Coating
+1 Swiftfoot Boots
+1 Sky Diamond
+1 Thought Vessel
+1 Mind Stone
+1 Moonsnare Prototype
+1 Mishra's Bauble
+1 Leyline of Anticipation
+1 Castle Vantress
+1 Holdout Settlement
+1 Lazotep Quarry
+1 Myriad Landscape
+1 Survivors' Encampment
+1 Mystic Sanctuary
+1 Muddle the Mixture
+1 Archmage's Charm
+1 Remand
+1 Memory Lapse
+1 Counterspell
+1 Daze
+1 An Offer You Can't Refuse
+1 Engulf the Shore
+1 Aetherize
+1 Foil
+1 Misdirection
+1 Commandeer
+1 Lazotep Plating
+1 Slip Out the Back
+1 Cyber Conversion
+1 Pongify
+1 Flusterstorm
+1 Teferi's Ageless Insight
+Sideboard
+1 Unctus, Grand Metatect

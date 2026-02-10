@@ -1,0 +1,101 @@
+1 Academy Rector
+1 Allosaurus Shepherd
+1 Archivist of Oghma
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Drannith Magistrate
+1 Elesh Norn, Mother of Machines
+1 Elvish Mystic
+1 Esper Sentinel
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Felidar Guardian
+1 Fury
+1 Fyndhorn Elves
+1 Gandalf the White
+1 Grand Abolisher
+1 Imperial Recruiter
+1 Karmic Guide
+1 Kiki-Jiki, Mirror Breaker
+1 Llanowar Elves
+1 Loran of the Third Path
+1 Moon-Blessed Cleric
+1 Priest of Titania
+1 Purphoros, God of the Forge
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Skyclave Apparition
+1 Solitude
+1 Squee, the Immortal
+1 Tinder Wall
+1 Toski, Bearer of Secrets
+1 Vexing Shusher
+1 Voice of Victory
+1 Wirewood Symbiote
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Chord of Calling
+1 Crop Rotation
+1 Deflecting Swat
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Force of Vigor
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Altar of Bone
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Infernal Plunge
+1 Metamorphosis
+1 Nature's Rhythm
+1 Annie Joins Up
+1 Carpet of Flowers
+1 Food Chain
+1 Smothering Tithe
+1 Survival of the Fittest
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Strand
+1 Forest
+1 Gaea's Cradle
+1 Horizon Canopy
+1 Karplusan Forest
+1 Mana Confluence
+1 Misty Rainforest
+1 Plains
+1 Plateau
+1 Sacred Foundry
+1 Savannah
+1 Shifting Woodland
+1 Spectator Seating
+1 Spire Garden
+1 Stomping Ground
+1 Sunbaked Canyon
+1 Taiga
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Rocco, Cabaretti Caterer

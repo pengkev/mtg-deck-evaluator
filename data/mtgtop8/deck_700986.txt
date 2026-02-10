@@ -1,0 +1,101 @@
+1 Terror of the Peaks
+1 Priest of Urabrask
+1 Priest of Gix
+1 Dualcaster Mage
+1 Knollspine Dragon
+1 Goldspan Dragon
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Hoarding Broodlord
+1 Storm-Kiln Artist
+1 Crackling Spellslinger
+1 Boggart Trawler
+1 Pinnacle Monk
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Mana Vault
+1 Lightning Greaves
+1 Mox Diamond
+1 Chrome Mox
+1 Talisman of Indulgence
+1 Fellwar Stone
+1 Sol Ring
+1 The One Ring
+1 Arcane Signet
+1 Cabal Ritual
+1 Pyroblast
+1 Abrade
+1 Searing Touch
+1 Deflecting Swat
+1 Dismember
+1 Snuff Out
+1 Burnt Offering
+1 Red Elemental Blast
+1 Dark Ritual
+1 Valakut Awakening
+1 Vampiric Tutor
+1 Tibalt's Trickery
+1 Seething Song
+1 Saw in Half
+1 Big Score
+1 Fell the Profane
+1 Peer into the Abyss
+1 Toxic Deluge
+1 Shreds of Sanity
+1 Increasing Ambition
+1 Rite of Flame
+1 Dragonstorm
+1 Twinflame
+1 Wheel of Fortune
+1 Reanimate
+1 Dark Petition
+1 Pirate's Pillage
+1 Diabolic Revelation
+1 Past in Flames
+1 Beseech the Queen
+1 Shatterskull Smashing
+1 Agadeem's Awakening
+1 Seize the Spoils
+1 Strike It Rich
+1 Inspired Tinkering
+1 Jeska's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Ignite the Future
+1 Feed the Infection
+1 Into the Fire
+1 Ambition's Cost
+1 Demonic Tutor
+1 Feed the Swarm
+1 Final Parting
+1 Mizzix's Mastery
+1 Sundering Eruption
+1 Syphon Mind
+1 Return the Past
+1 Chandra, Hope's Beacon
+1 City of Brass
+1 Ancient Tomb
+1 Ifnir Deadlands
+1 Mana Confluence
+1 Blood Crypt
+1 Tomb of Urami
+1 Badlands
+1 Bloodstained Mire
+1 Polluted Delta
+1 Tarnished Citadel
+1 Swamp
+1 Gemstone Caverns
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Hall of the Bandit Lord
+1 Mount Doom
+1 Spire of Industry
+1 The Black Gate
+1 Sulfurous Springs
+1 Barbarian Ring
+1 Cabal Pit
+1 Ramunap Ruins
+Sideboard
+1 Rowan, Scion of War

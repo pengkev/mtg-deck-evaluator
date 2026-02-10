@@ -1,0 +1,101 @@
+1 Agate Instigator
+1 An Offer You Can't Refuse
+1 Ancestral Statue
+1 Ancient Tomb
+1 Arid Mesa
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Carpet of Flowers
+1 Charming Scoundrel
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Cloud of Faeries
+1 Cloudstone Curio
+1 Command Tower
+1 Consecrated Sphinx
+1 Deflecting Swat
+1 Disruptor Flute
+1 Drift of Phantasms
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Eternal Witness
+1 Exotic Orchard
+1 Fierce Empath
+1 Fierce Guardianship
+1 Finale of Devastation
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gamble
+1 Gemstone Caverns
+1 Grove of the Burnwillows
+1 Haywire Mite
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Imperial Recruiter
+1 Into the Flood Maw
+1 Llanowar Elves
+1 Lotus Petal
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mistrise Village
+1 Mox Diamond
+1 Myr Scrapling
+1 Mystic Remora
+1 Mystical Tutor
+1 Nature's Rhythm
+1 Neoform
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Peregrine Drake
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Pyroblast
+1 Radagast the Brown
+1 Ragavan, Nimble Pilferer
+1 Rejuvenating Springs
+1 Rhystic Study
+1 Scalding Tarn
+1 Shield-Wall Sentinel
+1 Simian Spirit Guide
+1 Sol Ring
+1 Spellskite
+1 Starting Town
+1 Steam Vents
+1 Stomping Ground
+1 Sunshower Druid
+1 Survival of the Fittest
+1 Swan Song
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Taiga
+1 The One Ring
+1 Tinder Wall
+1 Training Center
+1 Transit Mage
+1 Tropical Island
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vexing Bauble
+1 Volatile Stormdrake
+1 Volcanic Island
+1 Walking Ballista
+1 Wandering Archaic
+1 Wild Cantor
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+Sideboard
+1 Animar, Soul of Elements

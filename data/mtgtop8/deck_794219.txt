@@ -1,0 +1,101 @@
+1 Archmage Emeritus
+1 Birds of Paradise
+1 Delighted Halfling
+1 Electrostatic Field
+1 Elvish Spirit Guide
+1 Endurance
+1 Faerie Mastermind
+1 Harmonic Prodigy
+1 Kessig Flamebreather
+1 Sakashima of a Thousand Faces
+1 Simian Spirit Guide
+1 Spellseeker
+1 Storm-Kiln Artist
+1 Tandem Lookout
+1 Tavern Scoundrel
+1 The Cabbage Merchant
+1 Tinder Wall
+1 Vivi Ornitier
+1 Wan Shi Tong, Librarian
+1 Chrome Mox
+1 Krark's Thumb
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Crop Rotation
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Desperate Ritual
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Frantic Search
+1 Gut Shot
+1 Into the Flood Maw
+1 Lightning Bolt
+1 Manamorphose
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mogg Salvage
+1 Mystical Tutor
+1 Noxious Revival
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seedtime
+1 Submerge
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Gitaxian Probe
+1 Grapeshot
+1 Jeska's Will
+1 Nature's Rhythm
+1 Neoform
+1 Rite of Flame
+1 Carpet of Flowers
+1 Curiosity
+1 Keen Sense
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Shifting Woodland
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Talon Gates of Madara
+1 Tarnished Citadel
+1 Tropical Island
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Krark, the Thumbless
+1 Thrasios, Triton Hero

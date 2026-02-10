@@ -1,0 +1,89 @@
+1 Azure Beastbinder
+1 Charming Prince
+1 Curiosity Crafter
+1 Dour Port-Mage
+1 Dream Trawler
+1 Entity Tracker
+1 Faerie Artisans
+1 Glaring Fleshraker
+1 Hero of Bladehold
+1 Hydroelectric Specimen
+1 Ironwill Forger
+1 Knight of the White Orchid
+1 Kykar, Zephyr Awakener
+1 Nulldrifter
+1 Phyrexian Metamorph
+1 Reflector Mage
+1 Research Thief
+1 Riptide Gearhulk
+1 Sea Gate Loremaster
+1 Seafloor Oracle
+1 Silent Hallcreeper
+1 Skyclave Apparition
+1 Skyhunter Strike Force
+1 Soulherder
+1 Starfield Vocalist
+1 Starwinder
+1 Summon: Ixion
+1 Summon: Yojimbo
+1 The Restoration of Eiganjo
+1 Twining Twins
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Liquimetal Torque
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Progress
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Cloudshift
+1 Counterspell
+1 Essence Flux
+1 Flare of Denial
+1 Flare of Fortitude
+1 Flicker of Fate
+1 Getaway Glamer
+1 Ghostly Flicker
+1 Ghostway
+1 Momentary Blink
+1 Negate
+1 No More Lies
+1 Parting Gust
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Dusk/Dawn
+1 Starfall Invocation
+1 Vanquish the Horde
+1 Amphibian Downpour
+1 Candlekeep Sage
+1 Grasp of Fate
+1 Mirror Room/Fractured Realm
+1 Skybind
+1 Teleportation Circle
+1 Touch the Spirit Realm
+1 Adarkar Wastes
+1 Ash Barrens
+1 Azorius Chancery
+1 Command Tower
+1 Demolition Field
+1 Deserted Beach
+1 Exotic Orchard
+1 Glacial Fortress
+1 Irrigated Farmland
+7 Island
+1 Monumental Henge
+1 Myriad Landscape
+1 Mystic Gate
+1 Path of Ancestry
+7 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Riptide Laboratory
+1 Scavenger Grounds
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Windbrisk Heights
+Sideboard
+1 Niko, Light of Hope

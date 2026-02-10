@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Dragonlord Dromoka
+1 Bloom Tender
+1 Tinder Wall
+1 Phantasmal Image
+1 Treasonous Ogre
+1 Phyrexian Metamorph
+1 Deathrite Shaman
+1 Simian Spirit Guide
+1 Bladewing the Risen
+1 Scion of the Ur-Dragon
+1 Maelstrom Wanderer
+1 Ranger-Captain of Eos
+1 Korvold, Fae-Cursed King
+1 Kinnan, Bonder Prodigy
+1 Terror of the Peaks
+1 Hellkite Courser
+1 Goldspan Dragon
+1 Magda, Brazen Outlaw
+1 Galazeth Prismari
+1 Velomachus Lorehold
+1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
+1 Ruthless Technomancer
+1 Tivit, Seller of Secrets
+1 Nimbleclaw Adept
+1 Ganax, Astral Hunter
+1 Reckless Barbarian
+1 Faerie Mastermind
+1 Hoarding Broodlord
+1 Etali, Primal Conqueror
+1 Zurgo and Ojutai
+1 Delighted Halfling
+1 Lotho, Corrupt Shirriff
+1 Six
+1 Pinnacle Monk
+1 Rev, Tithe Extractor
+1 Teval, Arbiter of Virtue
+1 Ureni of the Unwritten
+1 Deceptive Frostkite
+1 Goldlust Triad
+1 Colossal Grave-Reaver
+1 Time Sieve
+1 Mana Vault
+1 Sol Ring
+1 Lotus Petal
+1 Mox Diamond
+1 Manifold Key
+1 The One Ring
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Dark Ritual
+1 Red Elemental Blast
+1 Burnt Offering
+1 Silence
+1 Mindbreak Trap
+1 Mental Misstep
+1 Cyclonic Rift
+1 Swan Song
+1 Flusterstorm
+1 Saw in Half
+1 Demonic Tutor
+1 Temporal Manipulation
+1 Capture of Jingzhou
+1 Imperial Seal
+1 Dragonstorm
+1 Mizzix's Mastery
+1 Incarnation Technique
+1 Creative Technique
+1 Mystic Remora
+1 Carpet of Flowers
+1 Smothering Tithe
+1 Dress Down
+1 Urza's Saga
+1 City of Brass
+1 Cavern of Souls
+1 Exotic Orchard
+1 Blood Crypt
+1 Breeding Pool
+1 Hallowed Fountain
+1 Godless Shrine
+1 Stomping Ground
+1 Watery Grave
+1 Mana Confluence
+1 Bloodstained Mire
+1 Flooded Strand
+1 Wooded Foothills
+1 Bayou
+1 Plateau
+1 Volcanic Island
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Temple Garden
+1 Gemstone Caverns
+1 Command Tower
+1 Boseiju, Who Endures
+1 Horizon of Progress
+Sideboard
+1 The Ur-Dragon

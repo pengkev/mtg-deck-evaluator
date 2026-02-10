@@ -1,0 +1,78 @@
+1 Trophy Mage
+1 Trinket Mage
+1 Tribute Mage
+1 Spellskite
+1 Cogwork Assembler
+1 Etherium Sculptor
+1 Hullbreaker Horror
+1 Emry, Lurker of the Loch
+1 Forensic Gadgeteer
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Kitsa, Otterball Elite
+1 Sai, Master Thopterist
+1 Diversion Unit
+1 Tormod's Crypt
+1 Fellwar Stone
+1 Barbed Sextant
+1 Conjurer's Bauble
+1 Staff of Domination
+1 Codex Shredder
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Winter Orb
+1 Soul-Guide Lantern
+1 Basalt Monolith
+1 Rings of Brighthearth
+1 Liquimetal Torque
+1 Moonsnare Prototype
+1 Mishra's Bauble
+1 Astral Cornucopia
+1 Chromatic Star
+1 Aether Spellbomb
+1 Mind Stone
+1 Mystic Forge
+1 Sol Ring
+1 Everflowing Chalice
+1 Thought Vessel
+1 Chromatic Sphere
+1 Arcane Signet
+1 Repurposing Bay
+1 Mystical Dispute
+1 Negate
+1 Metallic Rebuke
+1 Dispel
+1 Capsize
+1 Winds of Rebuke
+1 Muddle the Mixture
+1 Dramatic Reversal
+1 Retraction Helix
+1 High Tide
+1 Into the Roil
+1 Snapback
+1 Resculpt
+1 Counterspell
+1 Change the Equation
+1 Borne Upon a Wind
+1 Repeal
+1 This Town Ain't Big Enough
+1 Long River's Pull
+1 Echoing Truth
+1 Blink of an Eye
+1 Arcane Denial
+1 Spell Pierce
+1 Thoughtcast
+1 Reshape
+1 Windfall
+1 Fabricate
+1 Narset, Parter of Veils
+1 Jace, Wielder of Mysteries
+1 Emergence Zone
+1 Darksteel Citadel
+1 Mystic Sanctuary
+1 Buried Ruin
+1 Cephalid Coliseum
+1 War Room
+24 Island
+Sideboard
+1 Urza, Lord High Artificer

@@ -1,0 +1,84 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Aven Mindcensor
+1 Baleful Strix
+1 Dark Confidant
+1 Delney, Streetwise Lookout
+1 Displacer Kitten
+1 Drana and Linvala
+1 Fandaniel, Telophoroi Ascian
+1 Hermes, Overseer of Elpis
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Liesa, Shroud of Dusk
+1 Lyse Hext
+1 Papalymo Totolymo
+1 Sheoldred, the Apocalypse
+1 Talrand, Sky Summoner
+1 Tandem Lookout
+1 Thunderclap Drake
+1 Witch Enchanter
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Absorb
+1 Aetherize
+1 Anguished Unmaking
+1 Archmage's Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Dig Through Time
+1 Disallow
+1 Dismember
+1 Flare of Denial
+1 Foil
+1 Frantic Search
+1 Generous Gift
+1 Lethal Scheme
+1 Murderous Cut
+1 Mystical Dispute
+1 Path to Exile
+1 Refute
+1 Return to Dust
+1 Sink into Stupor
+1 Snuff Out
+1 Stroke of Midnight
+1 Sublime Epiphany
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Undermine
+1 Void Rend
+1 Diabolic Tutor
+1 Exsanguinate
+1 Preordain
+1 Singularity Rupture
+1 Toxic Deluge
+1 Windfall
+1 Curiosity
+1 Ghostly Prison
+1 Ophidian Eye
+1 Painful Quandary
+1 Propaganda
+1 Rhystic Study
+1 Shark Typhoon
+1 Sigil of Sleep
+1 Ashiok, Dream Render
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Glacial Fortress
+7 Island
+1 Isolated Chapel
+7 Plains
+1 Prairie Stream
+1 Reliquary Tower
+6 Swamp
+1 Underground River
+Sideboard
+1 Y'shtola, Night's Blessed

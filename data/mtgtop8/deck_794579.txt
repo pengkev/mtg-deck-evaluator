@@ -1,0 +1,101 @@
+1 Imperial Recruiter
+1 Young Necromancer
+1 Disciple of Bolas
+1 Vilis, Broker of Blood
+1 Street Wraith
+1 Sheoldred, the Apocalypse
+1 Ragavan, Nimble Pilferer
+1 Boggart Trawler
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Pinnacle Monk
+1 K'rrik, Son of Yawgmoth
+1 Blood Pet
+1 Treasonous Ogre
+1 Skirk Prospector
+1 Storm-Kiln Artist
+1 Grim Servant
+1 Vexing Bauble
+1 Sol Ring
+1 Chrome Mox
+1 Mox Diamond
+1 Mox Amber
+1 Lotus Petal
+1 Mana Vault
+1 Dismember
+1 Tainted Pact
+1 Deflecting Swat
+1 Lightning Bolt
+1 Snuff Out
+1 Fell the Profane
+1 Big Score
+1 Flare of Duplication
+1 Redirect Lightning
+1 Red Elemental Blast
+1 Dark Ritual
+1 Pyroblast
+1 Wizard's Lightning
+1 Vendetta
+1 Ulcerate
+1 Reiterate
+1 Gut Shot
+1 Entomb
+1 Plunge into Darkness
+1 Tibalt's Trickery
+1 Vampiric Tutor
+1 Searing Touch
+1 Imperial Seal
+1 Ignite the Future
+1 Behold the Beyond
+1 Will of the Jeskai
+1 Rite of Flame
+1 Demonic Collusion
+1 Wheel of Fortune
+1 Feed the Swarm
+1 Claim the Firstborn
+1 Jeska's Will
+1 Demonic Bargain
+1 Agadeem's Awakening
+1 Megaton's Fate
+1 Illicit Shipment
+1 Snort
+1 Past in Flames
+1 Sorceress's Schemes
+1 Increasing Ambition
+1 Coveted Prize
+1 Reanimate
+1 Beseech the Queen
+1 Strike It Rich
+1 Demonic Tutor
+1 Peer into the Abyss
+1 Sundering Eruption
+1 Diabolic Intent
+1 Pirate's Pillage
+1 Dark Petition
+1 Shatterskull Smashing
+1 Necropotence
+1 Invasion of Kaldheim
+1 Starting Town
+1 The Black Gate
+1 Sulfurous Springs
+1 Multiversal Passage
+1 Polluted Delta
+1 Sandstone Needle
+1 Mount Doom
+1 Peat Bog
+1 Blood Crypt
+1 Badlands
+1 Scalding Tarn
+1 Tarnished Citadel
+1 Wooded Foothills
+1 Arid Mesa
+1 Cabal Pit
+1 Arena of Glory
+1 Bloodstained Mire
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Barbarian Ring
+1 Thran Portal
+Sideboard
+1 Rowan, Scion of War

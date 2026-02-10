@@ -1,0 +1,89 @@
+1 Fog Bank
+1 Daring Thief
+1 Eidolon of Rhetoric
+1 Hanna, Ship's Navigator
+1 Perplexing Chimera
+1 Stuffy Doll
+1 Windborn Muse
+1 Silent Arbiter
+1 Coveted Falcon
+1 Volatile Stormdrake
+1 Lavinia, Azorius Renegade
+1 Swans of Bryn Argoll
+1 Laboratory Maniac
+1 Arcane Signet
+1 Thought Vessel
+1 Sol Ring
+1 Boros Signet
+1 Azorius Signet
+1 Izzet Signet
+1 Knowledge Pool
+1 Fellwar Stone
+1 Decanter of Endless Water
+1 Counterspell
+1 Swords to Plowshares
+1 Rewind
+1 Negate
+1 Silence
+1 Generous Gift
+1 Counterflux
+1 Reins of Power
+1 Unwind
+1 Render Silent
+1 Arcane Denial
+1 Dovin's Veto
+1 Reprieve
+1 Muddle the Mixture
+1 Complicate
+1 An Offer You Can't Refuse
+1 Remand
+1 Idyllic Tutor
+1 Approach of the Second Sun
+1 Role Reversal
+1 Plea for Guidance
+1 Cleansing Nova
+1 Supreme Verdict
+1 Gamble
+1 Austere Command
+1 Shifting Grift
+1 Harmless Offering
+1 Propaganda
+1 Nine Lives
+1 Teferi's Ageless Insight
+1 Rule of Law
+1 Ghostly Prison
+1 Solemnity
+1 Sacred Ground
+1 Island Sanctuary
+1 Wild Research
+1 Possibility Storm
+1 Puca's Mischief
+1 Delaying Shield
+1 Moderation
+1 Darksteel Mutation
+1 Phyrexian Unlife
+1 Leyline of Anticipation
+1 Pariah
+1 Arcane Laboratory
+1 Price of Glory
+1 Teferi, Time Raveler
+6 Island
+6 Plains
+1 Temple of Enlightenment
+1 Command Tower
+1 Wind-Scarred Crag
+1 Swiftwater Cliffs
+1 Temple of Triumph
+1 Temple of Epiphany
+1 Tranquil Cove
+1 Azorius Chancery
+1 Boros Garrison
+1 Exotic Orchard
+1 Myriad Landscape
+1 Mystic Monastery
+1 Prairie Stream
+1 Izzet Boilerworks
+1 Glacial Fortress
+3 Mountain
+Sideboard
+1 Zedruu the Greathearted

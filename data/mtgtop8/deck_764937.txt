@@ -1,0 +1,74 @@
+1 Ancient Greenwarden
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Bane of Progress
+1 Dawntreader Elk
+1 Dryad of the Ilysian Grove
+1 Farhaven Elf
+1 Foundation Breaker
+1 Garruk's Packleader
+1 Greenwarden of Murasa
+1 Icetill Explorer
+1 Ingot Chewer
+1 Lumra, Bellow of the Woods
+1 Mina and Denn, Wildborn
+1 Neverwinter Dryad
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Rootpath Purifier
+1 Scute Swarm
+1 Skullmulcher
+1 Solphim, Mayhem Dominus
+1 Spitebellows
+1 Stalking Vengeance
+1 Tannuk, Memorial Ensign
+1 Thicket Crasher
+1 Patchwork Banner
+1 Seer's Sundial
+1 Sword of the Animist
+1 Bolt Bend
+1 Chaos Warp
+1 Crop Rotation
+1 Entish Restoration
+1 Harrow
+1 Road/Ruin
+1 Roiling Regrowth
+1 Titanic Growth
+1 Boundless Realms
+1 Broken Bond
+1 Chain Reaction
+1 Cultivate
+1 Explore
+1 For the Common Good
+1 Kodama's Reach
+1 Life's Legacy
+1 Migration Path
+1 Nissa's Pilgrimage
+1 Primal Growth
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Splendid Reclamation
+1 Vandalblast
+1 City on Fire
+1 Elemental Bond
+1 Fires of Yavimaya
+1 Garruk's Uprising
+1 Kavu Lair
+1 Khalni Heart Expedition
+1 Rhythm of the Wild
+1 Shared Animosity
+1 Warstorm Surge
+1 Where Ancients Tread
+1 Cinder Glade
+1 Fabled Passage
+1 Fire-Lit Thicket
+18 Forest
+1 Game Trail
+1 Hidden Grotto
+11 Mountain
+1 Path of Ancestry
+1 Rootbound Crag
+1 Stomping Ground
+1 Wooded Ridgeline
+Sideboard
+1 Omnath, Locus of Rage

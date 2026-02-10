@@ -1,0 +1,84 @@
+1 Gravecrawler
+1 Pawn of Ulamog
+1 Ornithopter
+1 Geralf's Messenger
+1 Mikaeus, the Unhallowed
+1 Sightless Ghoul
+1 Phyrexian Walker
+1 Priest of Gix
+1 Shield Sphere
+1 Butcher Ghoul
+1 Evernight Shade
+1 Treacherous Pit-Dweller
+1 Sifter of Skulls
+1 Zulaport Cutthroat
+1 Pitiless Plunderer
+1 Blood Artist
+1 Nether Traitor
+1 Grief
+1 Magus of the Bridge
+1 Nested Shambler
+1 Sheoldred, the Apocalypse
+1 Halo Hopper
+1 Markov Baron
+1 Orcish Bowmasters
+1 Master of Dark Rites
+1 Hancock, Ghoulish Mayor
+1 Forsaken Miner
+1 Nezumi Linkbreaker
+1 Ophiomancer
+1 Warren Soultrader
+1 Nine-Lives Familiar
+1 Deepwood Legate
+1 Vengeful Bloodwitch
+1 Popular Egotist
+1 Fumulus, the Infestation
+1 Ozox, the Clattering King
+1 Shambling Ghast
+1 Infestation Sage
+1 Greedy Freebooter
+1 Gisa, the Hellraiser
+1 Memnite
+1 Genesis Chamber
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Opal
+1 Mox Diamond
+1 Jet Medallion
+1 Sol Ring
+1 Winter Moon
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Culling the Weak
+1 Songs of the Damned
+1 Fell the Profane
+1 Malakir Rebirth
+1 Vampiric Tutor
+1 Dark Ritual
+1 Cabal Ritual
+1 Unearth
+1 Postmortem Lunge
+1 Unmarked Grave
+1 Reanimate
+1 Demonic Tutor
+1 Lively Dirge
+1 Imperial Seal
+1 Bridge from Below
+1 Blight Mound
+1 Bastion of Remembrance
+1 Funeral Room/Awakening Hall
+1 Nest of Scarabs
+1 Urza's Saga
+1 Blast Zone
+1 Lake of the Dead
+1 Nykthos, Shrine to Nyx
+1 Ancient Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Talon Gates of Madara
+1 Gemstone Caverns
+1 Cavern of Souls
+18 Swamp
+Sideboard
+1 Yawgmoth, Thran Physician

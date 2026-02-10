@@ -1,0 +1,101 @@
+1 Sowing Mycospawn
+1 Elvish Spirit Guide
+1 Alseid of Life's Bounty
+1 Solitude
+1 Arbor Elf
+1 Sanctum Weaver
+1 Esper Sentinel
+1 Eidolon of Blossoms
+1 Collector Ouphe
+1 Devoted Druid
+1 Magus of the Candelabra
+1 Elvish Mystic
+1 Birds of Paradise
+1 Dryad of the Ilysian Grove
+1 Endurance
+1 Springheart Nantuko
+1 Llanowar Elves
+1 Argothian Enchantress
+1 Destiny Spinner
+1 Badgermole Cub
+1 Grand Abolisher
+1 Enduring Vitality
+1 Avacyn's Pilgrim
+1 Walking Ballista
+1 Brightglass Gearhulk
+1 Voice of Victory
+1 Vexing Bauble
+1 Chrome Mox
+1 Lotus Petal
+1 Candelabra of Tawnos
+1 Sol Ring
+1 Summoner's Pact
+1 Silence
+1 Enlightened Tutor
+1 Eladamri's Call
+1 Force of Vigor
+1 Swords to Plowshares
+1 Crop Rotation
+1 Worldly Tutor
+1 Chord of Calling
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Sylvan Scrying
+1 Exploration
+1 Aura of Silence
+1 Nature's Chosen
+1 Paladin Class
+1 Sterling Grove
+1 Abundant Growth
+1 Enchantress's Presence
+1 Earthcraft
+1 Swift Reconfiguration
+1 Kenrith's Transformation
+1 Instill Energy
+1 Carpet of Flowers
+1 Root Maze
+1 Wild Growth
+1 Growing Rites of Itlimoc
+1 Static Prison
+1 Fertile Ground
+1 Whip Silk
+1 Stony Silence
+1 Gauntlets of Light
+1 Concordant Crossroads
+1 Blind Obedience
+1 Touch the Spirit Realm
+1 Utopia Sprawl
+1 Seam Rip
+1 Rest in Peace
+1 Meticulous Excavation
+1 Cryptolith Rite
+1 Sylvan Library
+1 Verdant Catacombs
+1 Shifting Woodland
+1 Hushwood Verge
+1 Yavimaya, Cradle of Growth
+1 Lush Portico
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Prismatic Vista
+1 Gaea's Cradle
+1 Snow-Covered Forest
+1 Horizon Canopy
+1 Arid Mesa
+1 Dryad Arbor
+1 Gemstone Caverns
+1 Marsh Flats
+1 Savannah
+1 Flooded Strand
+1 Wooded Foothills
+1 Plains
+1 Brushland
+1 Serra's Sanctum
+1 Temple Garden
+1 Bountiful Promenade
+1 Command Tower
+1 Forest
+1 Snow-Covered Plains
+1 Windswept Heath
+Sideboard
+1 Sythis, Harvest's Hand

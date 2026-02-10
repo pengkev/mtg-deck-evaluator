@@ -1,0 +1,99 @@
+1 Stunt Double
+1 Jackdaw Savior
+1 Starfield Vocalist
+1 Badgermole Cub
+1 Sakashima of a Thousand Faces
+1 Chameleon, Master of Disguise
+1 Felidar Guardian
+1 Kinnan, Bonder Prodigy
+1 Katara, the Fearless
+1 Flesh Duplicate
+1 Clever Impersonator
+1 Llanowar Elves
+1 Restoration Angel
+1 Thassa, Deep-Dwelling
+1 Eternal Witness
+1 Spellseeker
+1 Roaming Throne
+1 Grand Abolisher
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Walking Ballista
+1 Icewind Stalwart
+1 Avatar of Growth
+1 Bloom Tender
+1 Phantasmal Image
+1 Wall of Stolen Identity
+1 Emiel the Blessed
+1 Phelia, Exuberant Shepherd
+1 Voice of Victory
+1 Avacyn's Pilgrim
+1 Altered Ego
+1 Spark Double
+1 Noble Hierarch
+1 Elvish Spirit Guide
+1 Preston, the Vanisher
+1 Mirror Image
+1 Sakashima the Impostor
+1 White Plume Adventurer
+1 Birds of Paradise
+1 Gigantoplasm
+1 Enduring Vitality
+1 Supportive Parents
+1 Aang, Swift Savior
+1 Esper Sentinel
+1 Phyrexian Metamorph
+1 Elvish Mystic
+1 Lotus Petal
+1 Mox Diamond
+1 Chrome Mox
+1 Sol Ring
+1 Mana Vault
+1 Force of Will
+1 Crop Rotation
+1 Pact of Negation
+1 Worldly Tutor
+1 Veil of Summer
+1 Mindbreak Trap
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Into the Flood Maw
+1 Ephemerate
+1 Fierce Guardianship
+1 Silence
+1 Finale of Devastation
+1 Mystic Remora
+1 Wild Growth
+1 Touch the Spirit Realm
+1 Rhystic Study
+1 Deafening Silence
+1 Smothering Tithe
+2 Forest
+1 Windswept Heath
+1 City of Traitors
+1 Cavern of Souls
+1 Savannah
+2 Island
+1 Boseiju, Who Endures
+1 Sea of Clouds
+1 Tundra
+1 Plains
+1 Otawara, Soaring City
+1 Gaea's Cradle
+1 Verdant Catacombs
+1 Exotic Orchard
+1 Tropical Island
+1 Scalding Tarn
+1 Mana Confluence
+1 Rejuvenating Springs
+1 Temple Garden
+1 City of Brass
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Flooded Strand
+1 Command Tower
+1 Hallowed Fountain
+1 Breeding Pool
+1 Misty Rainforest
+Sideboard
+1 Aang, at the Crossroads

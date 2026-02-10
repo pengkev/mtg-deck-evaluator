@@ -1,0 +1,77 @@
+1 Cathodion
+1 Crime Novelist
+1 Esper Sentinel
+1 Farid, Enterprising Salvager
+1 Gold Myr
+1 Haliya, Guided by Light
+1 Hellkite Tyrant
+1 Iron Myr
+1 Junk Diver
+1 Leonin Elder
+1 Loyal Apprentice
+1 Luminous Broodmoth
+1 Market Gnome
+1 Marvin, Murderous Mimic
+1 Myr Moonvessel
+1 Myr Retriever
+1 Oltec Matterweaver
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Rose Room Treasurer
+1 Sami, Wildcat Captain
+1 Skrelv, Defector Mite
+1 Solemn Simulacrum
+1 Toggo, Goblin Weaponsmith
+1 Voyager Quickwelder
+1 Weftstalker Ardent
+1 Arcane Signet
+1 Basilisk Collar
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Helm of the Host
+1 Implement of Improvement
+1 Krark-Clan Ironworks
+1 Lembas
+1 Nutrient Block
+1 Paradise Mantle
+1 Prism Ring
+1 Pristine Talisman
+1 Pyrite Spellbomb
+1 Salvaging Station
+1 Scrapheap
+1 Sol Ring
+1 Sunbeam Spellbomb
+1 Bottle-Cap Blast
+1 Chaos Warp
+1 Dispatch
+1 Orim's Chant
+1 Path to Exile
+1 To Arms!
+1 Unexpected Windfall
+1 Blasphemous Act
+1 Hell to Pay
+1 Reckless Handling
+1 Sibling Rivalry
+1 Strike It Rich
+1 Authority of the Consuls
+1 Curse of Opulence
+1 Monologue Tax
+1 Rune of Sustenance
+1 Skrelv's Hive
+1 Spirit Link
+1 Spirit Loop
+1 Weapons Manufacturing
+1 Ancient Den
+1 Battlefield Forge
+1 Command Tower
+1 Exotic Orchard
+1 Great Furnace
+12 Mountain
+1 Path of Ancestry
+14 Plains
+1 Sunscorched Divide
+1 Thriving Bluff
+1 Volatile Fault
+1 Wind-Scarred Crag
+Sideboard
+1 Ragost, Deft Gastronaut

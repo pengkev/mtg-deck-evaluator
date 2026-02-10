@@ -1,0 +1,80 @@
+1 Ancient Adamantoise
+1 Anticausal Vestige
+1 Battle Mammoth
+1 Beanstalk Giant
+1 Beastbond Outcaster
+1 Canopy Gargantuan
+1 Drix Fatemaker
+1 Esper Origins
+1 Fblthp, Lost on the Range
+1 Freestrider Commando
+1 High Fae Trickster
+1 Illithid Harvester
+1 Lier, Disciple of the Drowned
+1 Malcolm, Alluring Scoundrel
+1 Malevolent Hermit
+1 Marang River Regent
+1 Mirrorhall Mimic
+1 Outcaster Trailblazer
+1 Railway Brawler
+1 Rootcoil Creeper
+1 Rosethorn Acolyte
+1 Sage of the Beyond
+1 Savvy Trader
+1 Sisterhood of Karn
+1 Six
+1 Slickshot Lockpicker
+1 Starwinder
+1 Stormkeld Vanguard
+1 Tempest Hart
+1 The Thirteenth Doctor
+1 Visage Bandit
+1 Arcane Signet
+1 Exploration Broodship
+1 Sol Ring
+1 Thought Vessel
+1 Collective Resistance
+1 Dreams of Laguna
+1 Frantic Search
+1 Growth Spiral
+1 Lifestream's Blessing
+1 Mission Briefing
+1 Moment's Peace
+1 Mystic Confluence
+1 Mystic Reflection
+1 Otherworldly Gaze
+1 Saw It Coming
+1 Sink into Stupor
+1 Think Twice
+1 Three Steps Ahead
+1 Croaking Counterpart
+1 Farseek
+1 Make Your Own Luck
+1 Mass Diminish
+1 Nature's Lore
+1 Quiet Speculation
+1 See the Truth
+1 Spectral Deluge
+1 Virtue of Strength
+1 Communal Brewing
+1 Garruk's Uprising
+1 Secrets of the Dead
+1 Unnatural Growth
+1 Utopia Sprawl
+1 Wild Growth
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Flooded Grove
+12 Forest
+1 Hinterland Harbor
+11 Island
+1 Overflowing Basin
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sunken Palace
+1 Tangled Islet
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+Sideboard
+1 Doc Aurlock, Grizzled Genius

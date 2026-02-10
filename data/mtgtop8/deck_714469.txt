@@ -1,0 +1,101 @@
+1 Thieves' Guild Enforcer
+1 Spectral Sailor
+1 Wonder
+1 Spellseeker
+1 Mistblade Shinobi
+1 Sakashima's Student
+1 Skullsnatcher
+1 Hope of Ghirapur
+1 Wingcrafter
+1 Spark Double
+1 Changeling Outcast
+1 Faerie Seer
+1 Ingenious Infiltrator
+1 Mist-Syndicate Naga
+1 Tetsuko Umezawa, Fugitive
+1 Notion Thief
+1 Opposition Agent
+1 Forsworn Paladin
+1 Thousand-Faced Shadow
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Orcish Bowmasters
+1 Ingenious Prodigy
+1 Snarling Gorehound
+1 Psychic Frog
+1 Boggart Trawler
+1 Thassa's Oracle
+1 Ornithopter
+1 Sakashima of a Thousand Faces
+1 Mox Diamond
+1 Mox Amber
+1 The One Ring
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Lotus Petal
+1 Spell Pierce
+1 Delay
+1 Force of Will
+1 Lim-Dul's Vault
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Flusterstorm
+1 Force of Negation
+1 Deadly Rollick
+1 Mental Misstep
+1 Demonic Consultation
+1 Chain of Vapor
+1 Mindbreak Trap
+1 Otherworldly Gaze
+1 An Offer You Can't Refuse
+1 Flare of Denial
+1 Sink into Stupor
+1 Dark Ritual
+1 Dismember
+1 Misdirection
+1 Entomb
+1 Scheming Symmetry
+1 Toxic Deluge
+1 Diabolic Intent
+1 Imperial Seal
+1 Mnemonic Betrayal
+1 Unearth
+1 Doomsday
+1 Temporal Trespass
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Demonic Tutor
+1 Mystic Remora
+1 Aqueous Form
+1 Fly
+1 Gossip's Talent
+1 Rhystic Study
+1 Chains of Mephistopheles
+1 Narset, Parter of Veils
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Exotic Orchard
+1 Underground River
+1 Underground Sea
+1 City of Brass
+1 Cephalid Coliseum
+1 Minamo, School at Water's Edge
+1 Watery Grave
+1 Morphic Pool
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Darkslick Shores
+1 Gemstone Caverns
+1 Tarnished Citadel
+1 Clearwater Pathway
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Island
+1 Swamp
+1 Command Tower
+Sideboard
+1 Yuriko, the Tiger's Shadow

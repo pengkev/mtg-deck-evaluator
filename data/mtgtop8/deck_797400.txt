@@ -1,0 +1,101 @@
+1 Walking Ballista
+1 Aven Interrupter
+1 Orcish Bowmasters
+1 Voice of Victory
+1 Kambal, Profiteering Mayor
+1 Ocelot Pride
+1 Ranger-Captain of Eos
+1 Warren Soultrader
+1 Tataru Taru
+1 Stridehangar Automaton
+1 Opposition Agent
+1 Grand Abolisher
+1 Auriok Salvagers
+1 Archivist of Oghma
+1 Children of Korlis
+1 Sheoldred, the Apocalypse
+1 Cloud, Midgar Mercenary
+1 Mastermind Plum
+1 Witch Enchanter
+1 Bennie Bracks, Zoologist
+1 Delney, Streetwise Lookout
+1 Esper Sentinel
+1 Braids, Arisen Nightmare
+1 Heliod, Sun-Crowned
+1 Mana Vault
+1 Portable Hole
+1 Skullclamp
+1 Bolas's Citadel
+1 Sol Ring
+1 Chrome Mox
+1 Mox Amber
+1 Grim Monolith
+1 The One Ring
+1 Wishclaw Talisman
+1 Aetherflux Reservoir
+1 Vexing Bauble
+1 Lion's Eye Diamond
+1 Springleaf Drum
+1 Mox Opal
+1 Mox Diamond
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Manifold Key
+1 Arcane Signet
+1 Vampiric Tutor
+1 Tainted Pact
+1 Soul Partition
+1 Orim's Chant
+1 Dark Ritual
+1 Enlightened Tutor
+1 Flare of Fortitude
+1 Culling the Weak
+1 Snuff Out
+1 Swords to Plowshares
+1 Reprieve
+1 Silence
+1 Deadly Rollick
+1 Ad Nauseam
+1 Angel's Grace
+1 Yawgmoth's Will
+1 Diabolic Intent
+1 Scheming Symmetry
+1 Praetor's Grasp
+1 Beseech the Mirror
+1 Imperial Seal
+1 Demonic Tutor
+1 Necropotence
+1 Caretaker's Talent
+1 Touch the Spirit Realm
+1 Urza's Saga
+1 Blind Obedience
+1 Smothering Tithe
+1 Aura of Silence
+1 Trouble in Pairs
+1 Tezzeret, Cruel Captain
+1 Polluted Delta
+1 Windswept Heath
+1 City of Traitors
+1 Cavern of Souls
+1 Verdant Catacombs
+1 Swamp
+1 Caves of Koilos
+1 Bloodstained Mire
+1 Snow-Covered Swamp
+1 Ancient Tomb
+1 Marsh Flats
+1 Silent Clearing
+1 Flooded Strand
+1 Command Tower
+1 Snow-Covered Plains
+1 Shadowy Backstreet
+1 Godless Shrine
+1 Emergence Zone
+1 Arid Mesa
+1 Scrubland
+1 Gemstone Caverns
+1 Plains
+1 Vault of Champions
+1 Fomori Vault
+Sideboard
+1 Lotho, Corrupt Shirriff

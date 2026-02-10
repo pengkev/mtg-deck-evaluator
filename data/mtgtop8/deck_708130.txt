@@ -1,0 +1,101 @@
+1 Spellskite
+1 Drafna, Founder of Lat-Nam
+1 Faerie Mastermind
+1 Boromir, Warden of the Tower
+1 Phyrexian Metamorph
+1 Wandering Archaic
+1 Esper Sentinel
+1 Archivist of Oghma
+1 Displacer Kitten
+1 Ranger-Captain of Eos
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Clever Impersonator
+1 Scrawling Crawler
+1 Unwinding Clock
+1 The One Ring
+1 Sonic Screwdriver
+1 Talisman of Progress
+1 Grim Monolith
+1 Memory Jar
+1 Mox Diamond
+1 Moonsilver Key
+1 Manifold Key
+1 Mana Vault
+1 Relic of Legends
+1 Chrome Mox
+1 Machine God's Effigy
+1 Coveted Jewel
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Chromatic Orrery
+1 Lotus Petal
+1 Mox Opal
+1 Paradoxical Outcome
+1 Cyclonic Rift
+1 Even the Score
+1 Dramatic Reversal
+1 Trickbind
+1 Fierce Guardianship
+1 Vision Skeins
+1 Flusterstorm
+1 Mental Misstep
+1 Silence
+1 Words of Wisdom
+1 Force of Negation
+1 Force of Will
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Swan Song
+1 An Offer You Can't Refuse
+1 Frantic Search
+1 Pact of Negation
+1 Mindbreak Trap
+1 Commandeer
+1 Sink into Stupor
+1 Chain of Vapor
+1 Lorien Revealed
+1 Portent of Calamity
+1 Lunar Insight
+1 Prosperity
+1 Sea Gate Restoration
+1 Timetwister
+1 Fabricate
+1 Echo of Eons
+1 Smothering Tithe
+1 Invasion of Arcavios
+1 Greater Auramancy
+1 Mystic Remora
+1 Copy Artifact
+1 Standstill
+1 Touch the Spirit Realm
+1 Blind Obedience
+1 Urza's Saga
+1 Rhystic Study
+1 Teferi, Time Raveler
+1 Mishra's Workshop
+1 Mana Confluence
+1 Hallowed Fountain
+1 Minamo, School at Water's Edge
+1 Island
+1 Plains
+1 Command Tower
+1 Flooded Strand
+1 Polluted Delta
+1 Tundra
+1 Ancient Tomb
+1 Windswept Heath
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Sea of Clouds
+1 Adarkar Wastes
+1 Seat of the Synod
+1 Ancient Den
+1 Exotic Orchard
+1 Meticulous Archive
+1 City of Brass
+1 Floodfarm Verge
+Sideboard
+1 Heliod, the Radiant Dawn

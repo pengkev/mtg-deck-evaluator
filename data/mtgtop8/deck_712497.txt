@@ -1,0 +1,95 @@
+1 Murderous Rider
+1 Corpse Knight
+1 Diregraf Colossus
+1 God-Eternal Oketra
+1 Binding Mummy
+1 Wayward Servant
+1 Fleshbag Marauder
+1 Liliana's Reaver
+1 Diregraf Captain
+1 Death Baron
+1 Tormod, the Desecrator
+1 Narfi, Betrayer King
+1 Draugr Necromancer
+1 Lazotep Chancellor
+1 Eternal Skylord
+1 Gleaming Overseer
+1 Geralf, Visionary Stitcher
+1 Queza, Augur of Agonies
+1 Raffine, Scheming Seer
+1 Ratadrabik of Urborg
+1 Elas il-Kor, Sadistic Pilgrim
+1 Enduring Tenacity
+1 Unstoppable Slasher
+1 Zul Ashur, Lich Lord
+1 Vito, Thorn of the Dusk Rose
+1 Gravecrawler
+1 Hashaton, Scarab's Fist
+1 Temmet, Naktamun's Will
+1 Lost Monarch of Ifnir
+1 The Scarab God
+1 Zombie Master
+1 Sidisi, Regent of the Mire
+1 Archfiend of Ifnir
+1 Champion of the Perished
+1 Chromatic Lantern
+1 Dimir Signet
+1 Orzhov Signet
+1 Commander's Sphere
+1 Sol Ring
+1 Arcane Signet
+1 Vanquisher's Banner
+1 Banner of Kinship
+1 Cryptcaller Chariot
+1 Bontu's Monument
+1 Monument to Endurance
+1 Crush Dissent
+1 Despark
+1 Fateful Absence
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Approach of the Second Sun
+1 Cleansing Nova
+1 Requisition Raid
+1 Demonic Counsel
+1 Rise of the Dark Realms
+1 Reflections of Littjara
+1 Necroduality
+1 Vampiric Rites
+1 Oversold Cemetery
+1 Teferi's Ageless Insight
+1 Rooftop Storm
+1 On Wings of Gold
+1 Renewed Solidarity
+1 Barrensteppe Siege
+1 Fabled Passage
+1 Field of the Dead
+1 Orzhov Basilica
+1 Vault of Champions
+1 Brightclimb Pathway
+1 Command Tower
+1 Glacial Floodplain
+1 Ice Tunnel
+1 Snowfield Sinkhole
+1 Shipwreck Marsh
+1 Sea Gate
+1 Citadel Gate
+1 Black Dragon Gate
+1 Arcane Sanctum
+1 Exotic Orchard
+1 Dimir Aqueduct
+1 Azorius Chancery
+1 Temple of Enlightenment
+1 Three Tree City
+1 Path of Ancestry
+1 Drowned Catacomb
+1 Isolated Chapel
+1 Glacial Fortress
+1 Unholy Grotto
+1 Prairie Stream
+1 Sunken Hollow
+2 Snow-Covered Island
+2 Snow-Covered Plains
+5 Snow-Covered Swamp
+Sideboard
+1 Varina, Lich Queen

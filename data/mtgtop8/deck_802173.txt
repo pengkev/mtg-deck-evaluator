@@ -1,0 +1,87 @@
+1 Blood Celebrant
+1 Blood Pet
+1 Boggart Trawler
+1 Crackling Spellslinger
+1 Disciple of Bolas
+1 Electro, Assaulting Battery
+1 Grim Servant
+1 Immolating Souleater
+1 K'rrik, Son of Yawgmoth
+1 Pinnacle Monk
+1 Priest of Gix
+1 Priest of Urabrask
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Spider-Punk
+1 Storm-Kiln Artist
+1 Street Wraith
+1 Treasonous Ogre
+1 Vilis, Broker of Blood
+1 Young Necromancer
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Indulgence
+1 Big Score
+1 Dark Ritual
+1 Dismember
+1 Flare of Duplication
+1 Increasing Vengeance
+1 Lightning Bolt
+1 Plunge into Darkness
+1 Red Elemental Blast
+1 Ricochet Trap
+1 Rouse
+1 Searing Touch
+1 Snuff Out
+1 Ulcerate
+1 Unexpected Windfall
+1 Vendetta
+1 Wizard's Lightning
+1 Behold the Beyond
+1 Beseech the Queen
+1 Coveted Prize
+1 Cut/Ribbons
+1 Dark Petition
+1 Demonic Bargain
+1 Demonic Collusion
+1 Diabolic Revelation
+1 Exsanguinate
+1 Feed the Swarm
+1 Final Parting
+1 Ignite the Future
+1 Illicit Shipment
+1 Increasing Ambition
+1 Inspired Tinkering
+1 Lively Dirge
+1 Megaton's Fate
+1 Mishra's Command
+1 Past in Flames
+1 Peer into the Abyss
+1 Pirate's Pillage
+1 Postmortem Lunge
+1 Reanimate
+1 Rite of Flame
+1 Seize the Spoils
+1 Snort
+1 Sorceress's Schemes
+1 Strike It Rich
+1 Sundering Eruption
+1 Syphon Mind
+1 Will of the Jeskai
+1 Invasion of Kaldheim
+1 Barbarian Ring
+1 Cabal Pit
+1 Command Tower
+1 Dragonskull Summit
+1 Graven Cairns
+1 Ifnir Deadlands
+7 Mountain
+1 Peat Bog
+1 Ramunap Ruins
+1 Sandstone Needle
+1 Sulfurous Springs
+8 Swamp
+1 Tarnished Citadel
+Sideboard
+1 Rowan, Scion of War

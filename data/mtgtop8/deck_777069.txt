@@ -1,0 +1,90 @@
+1 Academy Manufactor
+1 Aerith, Last Ancient
+1 Astrid Peth
+1 Birds of Paradise
+1 Bloodthirsty Conqueror
+1 Elanor Gardner
+1 Enduring Tenacity
+1 Enduring Vitality
+1 Esper Sentinel
+1 Farmer Cotton
+1 Felidar Sovereign
+1 Gilded Goose
+1 Gyome, Master Chef
+1 Hazel's Brewmaster
+1 Kodama of the East Tree
+1 Mirkwood Bats
+1 Ocelot Pride
+1 Peregrin Took
+1 Prize Pig
+1 Reclamation Sage
+1 Sorin of House Markov
+1 The Gaffer
+1 Tireless Provisioner
+1 Vito, Thorn of the Dusk Rose
+1 Ygra, Eater of All
+1 Aetherflux Reservoir
+1 Alhammarret's Archive
+1 Arcane Signet
+1 Chromatic Lantern
+1 Mithril Coat
+1 Nuka-Cola Vending Machine
+1 Sol Ring
+1 The One Ring
+1 Well of Lost Dreams
+1 Anguished Unmaking
+1 Collected Company
+1 Dawn Charm
+1 Flare of Fortitude
+1 Go for the Throat
+1 Mortify
+1 Orim's Chant
+1 Path to Exile
+1 Swords to Plowshares
+1 Withering Torment
+1 Worldly Tutor
+1 Cultivate
+1 Diabolic Intent
+1 Farseek
+1 Fumigate
+1 Grim Tutor
+1 Kodama's Reach
+1 Night's Whisper
+1 Revive the Shire
+1 Toxic Deluge
+1 Doubling Season
+1 Exquisite Blood
+1 Land Tax
+1 Parallel Lives
+1 Sanguine Bond
+1 Sylvan Library
+1 Elspeth, Storm Slayer
+1 Ash Barrens
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+6 Forest
+1 Ghost Quarter
+1 Graypelt Refuge
+1 Hushwood Verge
+1 Isolated Chapel
+1 Necroblossom Snarl
+1 Overgrown Tomb
+1 Path of Ancestry
+4 Plains
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sandsteppe Citadel
+1 Scattered Groves
+1 Scoured Barrens
+1 Shifting Woodland
+1 Shineshadow Snarl
+1 Sunpetal Grove
+4 Swamp
+1 Windswept Heath
+1 Woodland Cemetery
+Sideboard
+1 Frodo, Adventurous Hobbit
+1 Sam, Loyal Attendant

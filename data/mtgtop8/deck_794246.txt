@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Kinnan, Bonder Prodigy
+1 Noble Hierarch
+1 Shrieking Drake
+1 Ranger-Captain of Eos
+1 Valley Floodcaller
+1 Derevi, Empyrial Tactician
+1 Displacer Kitten
+1 Lavinia, Azorius Renegade
+1 Emiel the Blessed
+1 Grand Abolisher
+1 Mockingbird
+1 Kutzil, Malamet Exemplar
+1 Boromir, Warden of the Tower
+1 Eternal Witness
+1 Phyrexian Metamorph
+1 Delighted Halfling
+1 Faerie Mastermind
+1 Hullbreaker Horror
+1 Whitemane Lion
+1 Bloom Tender
+1 Esper Sentinel
+1 Mana Vault
+1 Talisman of Progress
+1 Grim Monolith
+1 Mox Amber
+1 Springleaf Drum
+1 Mox Diamond
+1 Chrome Mox
+1 The One Ring
+1 Defense Grid
+1 Mox Opal
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Agatha's Soul Cauldron
+1 Lotus Petal
+1 Enlightened Tutor
+1 Crop Rotation
+1 Chain of Vapor
+1 Force of Will
+1 Chord of Calling
+1 Pact of Negation
+1 Flusterstorm
+1 Brainstorm
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Swords to Plowshares
+1 Mindbreak Trap
+1 Force of Negation
+1 Cyclonic Rift
+1 Snap
+1 Path to Exile
+1 Frantic Search
+1 Worldly Tutor
+1 Swan Song
+1 Retraction Helix
+1 Fierce Guardianship
+1 Eladamri's Call
+1 Silence
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Strix Serenade
+1 Into the Flood Maw
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Sevinne's Reclamation
+1 Urza's Saga
+1 Mystic Remora
+1 Aluren
+1 Blind Obedience
+1 Rhystic Study
+1 Smothering Tithe
+1 Teferi, Time Raveler
+1 Gemstone Caverns
+1 Tropical Island
+1 Hallowed Fountain
+1 Sea of Clouds
+1 Temple Garden
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Ancient Tomb
+1 Command Tower
+1 Exotic Orchard
+1 City of Brass
+1 Arid Mesa
+1 Windswept Heath
+1 Forest
+1 Verdant Catacombs
+1 Flooded Strand
+1 Marsh Flats
+1 Mana Confluence
+1 Polluted Delta
+1 Tundra
+1 Savannah
+1 Scalding Tarn
+1 Plains
+1 Emergence Zone
+1 Gaea's Cradle
+Sideboard
+1 Ms. Bumbleflower

@@ -1,0 +1,92 @@
+1 Eternal Witness
+1 Sakura-Tribe Elder
+1 Wonder
+1 Reclamation Sage
+1 Wood Elves
+1 Skull Prophet
+1 Elves of Deep Shadow
+1 Golgari Grave-Troll
+1 Kiora's Follower
+1 Nezahal, Primal Tide
+1 Farhaven Elf
+1 Tormod, the Desecrator
+1 Araumi of the Dead Tide
+1 Meteor Golem
+1 Angel of Suffering
+1 Kagha, Shadow Archdruid
+1 Sidisi, Brood Tyrant
+1 Millikin
+1 Infernal Sovereign
+1 Alpha Deathclaw
+1 Aftermath Analyst
+1 Syr Konrad, the Grim
+1 Raul, Trouble Shooter
+1 Glowing One
+1 Screeching Scorchbeast
+1 Tato Farmer
+1 Mirelurk Queen
+1 Six
+1 Grist, Voracious Larva
+1 Ramunap Excavator
+1 Winter, Cynical Opportunist
+1 Marvin, Murderous Mimic
+1 Noxious Gearhulk
+1 Nyx Weaver
+1 Muldrotha, the Gravetide
+1 Dreadhound
+1 The Wise Mothman
+1 Mesmeric Orb
+1 Swiftfoot Boots
+1 Sol Ring
+1 Lightning Greaves
+1 Sting, the Glinting Dagger
+1 Arcane Signet
+1 Perpetual Timepiece
+1 Hedge Shredder
+1 Brainstorm
+1 Beast Within
+1 Reality Shift
+1 Assassin's Trophy
+1 Farseek
+1 Rampant Growth
+1 Dread Return
+1 Nuclear Fallout
+1 Culling Ritual
+1 Cultivate
+1 Guardian Project
+1 Elemental Bond
+1 Wild Growth
+1 Insidious Roots
+1 Ripples of Undeath
+1 Animate Dead
+1 Ashiok, Dream Render
+1 Tyvar, Jubilant Brawler
+1 Opulent Palace
+1 Woodland Cemetery
+1 Haunted Mire
+1 Choked Estuary
+1 Command Tower
+1 Necroblossom Snarl
+1 Darkwater Catacombs
+1 Mariposa Military Base
+1 Tainted Isle
+1 Shifting Woodland
+1 Foreboding Landscape
+1 Path of Ancestry
+1 Tainted Wood
+1 Viridescent Bog
+1 Llanowar Wastes
+1 Dreamroot Cascade
+1 Hinterland Harbor
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Exotic Orchard
+1 Drowned Catacomb
+1 Fetid Pools
+1 Sunken Hollow
+1 Underground River
+6 Forest
+3 Island
+3 Swamp
+Sideboard
+1 The Master, Transcendent

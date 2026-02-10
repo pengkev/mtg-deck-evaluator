@@ -1,0 +1,87 @@
+1 Birgi, God of Storytelling
+1 Disciple of the Vault
+1 Dragon's Rage Channeler
+1 Goldspan Dragon
+1 Magus of the Wheel
+1 Mayhem Devil
+1 Merchant of the Vale
+1 Nadier's Nightblade
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Reckless Fireweaver
+1 Treasonous Ogre
+1 Unlucky Witness
+1 Xorn
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Ashnod's Altar
+1 Experimental Synthesizer
+1 Fellwar Stone
+1 Helm of Awakening
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mox Opal
+1 Rakdos Signet
+1 Ruby Medallion
+1 Sol Ring
+1 Talisman of Indulgence
+1 Wayfarer's Bauble
+1 Wishclaw Talisman
+1 Abrade
+1 Cabal Ritual
+1 Commune with Lava
+1 Culling the Weak
+1 Dark Ritual
+1 Entomb
+1 Faithless Salvaging
+1 Gut Shot
+1 Malakir Rebirth
+1 March of Reckless Joy
+1 Seething Song
+1 You Find Some Prisoners
+1 Act on Impulse
+1 Apex of Power
+1 Bonus Round
+1 Bubbling Muck
+1 Faithless Looting
+1 Galvanic Relay
+1 Gamble
+1 Ignite the Future
+1 Infernal Plunge
+1 Inspired Tinkering
+1 Jeska's Will
+1 Light Up the Stage
+1 Malicious Malfunction
+1 Mana Geyser
+1 Past in Flames
+1 Peer into the Abyss
+1 Praetor's Grasp
+1 Profane Tutor
+1 Reanimate
+1 Reckless Impulse
+1 Rite of Flame
+1 Scheming Symmetry
+1 Tendrils of Agony
+1 Wheel of Misfortune
+1 Underworld Breach
+1 Ancient Tomb
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cabal Coffers
+1 Command Tower
+1 Dragonskull Summit
+1 Emergence Zone
+1 Gemstone Caverns
+1 Graven Cairns
+1 Haunted Ridge
+1 Luxury Suite
+1 Shadowblood Ridge
+1 Smoldering Marsh
+8 Snow-Covered Mountain
+8 Snow-Covered Swamp
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Prosper, Tome-Bound

@@ -1,0 +1,79 @@
+1 Elvish Mystic
+1 Satyr Enchanter
+1 Satsuki, the Living Lore
+1 Glissa Sunslayer
+1 Composer of Spring
+1 Herald of the Pantheon
+1 Mesa Enchantress
+1 Setessan Champion
+1 Verduran Enchantress
+1 Neva, Stalked by Nightmares
+1 Yenna, Redtooth Regent
+1 Archon of Sun's Grace
+1 Eidolon of Blossoms
+1 Jukai Naturalist
+1 Sythis, Harvest's Hand
+1 Thrull Parasite
+1 Ondu Spiritdancer
+1 Auramancer
+1 Starfield Mystic
+1 Eternal Witness
+1 Weaver of Harmony
+1 Enduring Tenacity
+1 Anikthea, Hand of Erebos
+1 Arcane Signet
+1 Sol Ring
+1 Cleansing Meditation
+1 Brilliant Restoration
+1 Kodama's Reach
+1 Farseek
+1 Rampant Growth
+1 Elspeth Conquers Death
+1 The First Iroan Games
+1 Enchantress's Presence
+1 Sterling Grove
+1 Firja's Retribution
+1 The Weatherseed Treaty
+1 Braids's Frightful Return
+1 Historian's Boon
+1 The Cruelty of Gix
+1 Phyrexian Scriptures
+1 Tale of Tinúviel
+1 Battle at the Helvault
+1 Love Song of Night and Day
+1 Font of Fertility
+1 The Binding of the Titans
+1 Death in Heaven
+1 Three Blind Mice
+1 The Princess Takes Flight
+1 The Witch's Vanity
+1 Seal of Cleansing
+1 Vault 75: Middle School
+1 The Mending of Dominaria
+1 The Aesir Escape Valhalla
+1 Fall of the First Civilization
+1 Elspeth's Nightmare
+1 Ghostly Prison
+1 Sigil of the Empty Throne
+1 The Eldest Reborn
+1 Binding the Old Gods
+1 Valgavoth's Lair
+1 Battle for Bretagard
+1 The War in Heaven
+1 One Ring to Rule Them All
+1 Calix, Destiny's Hand
+1 Sandsteppe Citadel
+1 Nesting Grounds
+1 Reliquary Tower
+1 Canopy Vista
+1 Haunted Mire
+1 Sunlit Marsh
+1 Terramorphic Expanse
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+7 Swamp
+9 Plains
+9 Forest
+Sideboard
+1 Narci, Fable Singer

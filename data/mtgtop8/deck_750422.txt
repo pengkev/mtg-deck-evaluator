@@ -1,0 +1,100 @@
+1 Ancient Brass Dragon
+1 Ancient Silver Dragon
+1 Animate Dead
+1 Arcane Signet
+1 Archfiend of Despair
+1 Auton Soldier
+1 Blightsteel Colossus
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brainstorm
+1 Cavern of Souls
+1 Changeling Outcast
+1 Choked Estuary
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Consecrated Sphinx
+1 Contaminated Aquifer
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Dauthi Voidwalker
+1 Demonic Tutor
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Disentomb
+1 Dismal Backwater
+1 Escape Tunnel
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fetid Pools
+1 Fierce Guardianship
+1 Flooded Strand
+1 Force of Negation
+1 Gingerbrute
+1 Gudul Lurker
+1 Hullbreaker Horror
+1 Invisible Stalker
+2 Island
+1 It That Betrays
+1 Jin-Gitaxias, Core Augur
+1 Jin-Gitaxias, Progress Tyrant
+1 Lightning Greaves
+1 Lotus Petal
+1 Malakir Rebirth
+1 Mana Drain
+1 Mana Vault
+1 March of Swirling Mist
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Sanctuary
+1 Nezahal, Primal Tide
+1 Notion Thief
+1 Noxious Gearhulk
+1 Orcish Bowmasters
+1 Ornithopter
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Peregrine Drake
+1 Polluted Delta
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Reflecting Pool
+1 Rhystic Study
+1 Scalding Tarn
+1 Sheoldred, Whispering One
+1 Shizo, Death's Storehouse
+1 Silent Hallcreeper
+1 Slip Through Space
+1 Slither Blade
+1 Snap
+1 Sol Ring
+1 Sphinx of the Second Sun
+1 Sunken Hollow
+1 Swamp
+1 Swan Song
+1 Swiftfoot Boots
+1 Tainted Isle
+1 Talisman of Dominance
+1 Terramorphic Expanse
+1 The Meathook Massacre
+1 Tidespout Tyrant
+1 Tormented Soul
+1 Toxrill, the Corrosive
+1 Undercity Sewers
+1 Underground River
+1 Valgavoth, Terror Eater
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Victimize
+1 Vilis, Broker of Blood
+1 Void Winnower
+1 Watery Grave
+1 Whip of Erebos
+Sideboard
+1 Satoru Umezawa

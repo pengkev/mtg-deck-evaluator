@@ -1,0 +1,98 @@
+1 Adeline, Resplendent Cathar
+1 Agate Instigator
+1 Ainok Strike Leader
+1 Ajani, Nacatl Pariah
+1 Arcane Signet
+1 Arid Mesa
+1 Aura Mutation
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Basking Broodscale
+1 Beastmaster Ascension
+1 Birds of Paradise
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Bridgeworks Battle
+1 Brushland
+1 Cadira, Caller of the Small
+1 Call the Coppercoats
+1 Caretaker's Talent
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Cryptolith Rite
+1 Dazzling Theater/Prop Room
+1 Delighted Halfling
+1 Dollmaker's Shop/Porcelain Gallery
+1 Dusk/Dawn
+1 Eldritch Evolution
+1 Emergence Zone
+1 Enduring Innocence
+1 Esper Sentinel
+1 Exotic Orchard
+1 Fellwar Stone
+1 Finale of Devastation
+1 Flare of Fortitude
+1 Flawless Maneuver
+2 Forest
+1 Galadriel's Dismissal
+1 Generous Gift
+1 Goblin Bombardment
+1 Grand Crescendo
+1 Halo Fountain
+1 Heroic Intervention
+1 Horizon Canopy
+1 Hour of Reckoning
+1 Hushwood Verge
+1 Invasion of Ikoria
+1 Ivy Lane Denizen
+1 Jacked Rabbit
+1 Jaheira, Friend of the Forest
+1 Jetmir, Nexus of Revels
+1 Jetmir's Garden
+1 Kiki-Jiki, Mirror Breaker
+1 Mana Confluence
+1 Mondrak, Glory Dominus
+1 Moogles' Valor
+1 Mother of Runes
+1 Mountain
+1 Path to Exile
+3 Plains
+1 Prosperous Partnership
+1 Pyrogoyf
+1 Quest for Renewal
+1 Restoration Magic
+1 Rosie Cotton of South Lane
+1 Sacred Foundry
+1 Scurry Oak
+1 Seedborn Muse
+1 Skyclave Apparition
+1 Smothering Tithe
+1 Sol Ring
+1 Spectator Seating
+1 Spire Garden
+1 Split Up
+1 Starlight Spectacular
+1 Stomping Ground
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Sylvan Safekeeper
+1 Temple Garden
+1 Tender Wildguide
+1 Tendershoot Dryad
+1 The Jolly Balloon Man
+1 The Shire
+1 Thornspire Verge
+1 Thraben Charm
+1 Trouble in Pairs
+1 Twitching Doll
+1 Village Bell-Ringer
+1 Will of the Mardu
+1 Windswept Heath
+1 Witch Enchanter
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Baylen, the Haymaker

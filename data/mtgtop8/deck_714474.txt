@@ -1,0 +1,101 @@
+1 Teferi, Time Raveler
+1 Rhystic Study
+1 Food Chain
+1 Mystic Remora
+1 Smothering Tithe
+1 Survival of the Fittest
+1 Carpet of Flowers
+1 Nature's Rhythm
+1 Eldritch Evolution
+1 Another Round
+1 Sevinne's Reclamation
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Flusterstorm
+1 Silence
+1 Nature's Claim
+1 Path to Exile
+1 Mindbreak Trap
+1 Chord of Calling
+1 Fierce Guardianship
+1 Swan Song
+1 Borne Upon a Wind
+1 Enlightened Tutor
+1 An Offer You Can't Refuse
+1 Pact of Negation
+1 Force of Will
+1 Noxious Revival
+1 Mental Misstep
+1 Force of Negation
+1 Intuition
+1 Gifts Ungiven
+1 Sol Ring
+1 The One Ring
+1 Chrome Mox
+1 Birthing Pod
+1 Mana Vault
+1 Lotus Petal
+1 Hullbreaker Horror
+1 High Fae Trickster
+1 Kutzil, Malamet Exemplar
+1 Delighted Halfling
+1 Fyndhorn Elves
+1 Phyrexian Metamorph
+1 Voice of Victory
+1 Brightglass Gearhulk
+1 Archivist of Oghma
+1 Mockingbird
+1 Volatile Stormdrake
+1 Ranger-Captain of Eos
+1 Danny Pink
+1 Boromir, Warden of the Tower
+1 Faerie Mastermind
+1 Whitemane Lion
+1 Elvish Spirit Guide
+1 Cloud of Faeries
+1 Faeburrow Elder
+1 Eternal Witness
+1 Displacer Kitten
+1 Esper Sentinel
+1 Bloom Tender
+1 Laboratory Maniac
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Kinnan, Bonder Prodigy
+1 Noble Hierarch
+1 Grand Abolisher
+1 Glint Hawk
+1 Walking Ballista
+1 Fauna Shaman
+1 Eternal Scourge
+1 Orochi Leafcaller
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Temple Garden
+1 Hallowed Fountain
+1 Shifting Woodland
+1 Windswept Heath
+1 Polluted Delta
+1 Meticulous Archive
+1 Lush Portico
+1 Hedge Maze
+1 City of Brass
+1 Boseiju, Who Endures
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Marsh Flats
+1 Misty Rainforest
+1 Arid Mesa
+1 Dryad Arbor
+1 Command Tower
+1 Wooded Foothills
+1 Flooded Strand
+1 Tundra
+1 Tropical Island
+1 Savannah
+1 Gaea's Cradle
+1 Breeding Pool
+1 Urza's Saga
+Sideboard
+1 Galadriel, Light of Valinor

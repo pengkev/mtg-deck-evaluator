@@ -1,0 +1,92 @@
+1 Reckless Fireweaver
+1 Glint-Horn Buccaneer
+1 Imperial Recruiter
+1 Drift of Phantasms
+1 Imagecrafter
+1 Lightning-Rig Crew
+1 Amoeboid Changeling
+1 Amphin Mutineer
+1 Magda, Brazen Outlaw
+1 Goldspan Dragon
+1 Yusri, Fortune's Flame
+1 Xorn
+1 Hedron Detonator
+1 Scalding Viper
+1 Malcolm, Alluring Scoundrel
+1 Kitesail Larcenist
+1 Siren Stormtamer
+1 Sunshot Militia
+1 Crime Novelist
+1 Hydroelectric Specimen
+1 Shao Jun
+1 Teferi, Mage of Zhalfir
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Izzet Signet
+1 Talisman of Creativity
+1 Pyre of Heroes
+1 Braided Net
+1 The Indomitable
+1 Maskwood Nexus
+1 Idol of Oblivion
+1 Brainstorm
+1 Counterspell
+1 Frantic Search
+1 Mana Leak
+1 Memory Lapse
+1 Boomerang
+1 Negate
+1 Misdirection
+1 Dispel
+1 Whirlwind Denial
+1 Artificial Evolution
+1 Trickery Charm
+1 Arcane Denial
+1 Lookout's Dispersal
+1 Siren's Ruse
+1 Spell Pierce
+1 Blink of an Eye
+1 Borne Upon a Wind
+1 Reality Shift
+1 Muddle the Mixture
+1 Unexpected Windfall
+1 Sink into Stupor
+1 Invert Polarity
+1 Into the Flood Maw
+1 Shore Up
+1 Untimely Malfunction
+1 Disallow
+1 Drain Power
+1 Eagle Vision
+1 Curiosity
+1 Diplomatic Immunity
+1 Storm the Vault
+1 Arcane Adaptation
+1 Street Urchin
+1 Powerbalance
+1 Utter Insignificance
+1 Leyline of Transformation
+1 Frostcliff Siege
+7 Island
+4 Mountain
+1 Command Tower
+1 Swiftwater Cliffs
+1 Unclaimed Territory
+1 Temple of Epiphany
+1 Exotic Orchard
+1 Izzet Boilerworks
+1 Emergence Zone
+1 Path of Ancestry
+1 Frostboil Snarl
+1 Halimar Depths
+1 Spire of Industry
+1 Sulfur Falls
+1 Treasure Vault
+1 Archway of Innovation
+1 Shivan Reef
+1 Amonkhet Raceway
+1 Muraganda Raceway
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Kediss, Emberclaw Familiar

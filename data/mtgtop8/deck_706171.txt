@@ -1,0 +1,82 @@
+1 Baral, Chief of Compliance
+1 Spark Double
+1 Guttersnipe
+1 Lier, Disciple of the Drowned
+1 Jin-Gitaxias, Progress Tyrant
+1 Ledger Shredder
+1 Fog Bank
+1 Urabrask
+1 Storm-Kiln Artist
+1 Tishana's Tidebinder
+1 Bonehoard Dracosaur
+1 Slickshot Show-Off
+1 Ashling, Flame Dancer
+1 Screaming Nemesis
+1 Niv-Mizzet, Visionary
+1 Archmage of Runes
+1 Twinflame Tyrant
+1 High Fae Trickster
+1 Mu Yanling, Wind Rider
+1 Lightning Greaves
+1 Decanter of Endless Water
+1 RMS Titanic
+1 Izzet Signet
+1 Sol Ring
+1 Arcane Signet
+1 Sword of Wealth and Power
+1 Talisman of Creativity
+1 Lotus Petal
+1 Thrill of Possibility
+1 Desperate Ritual
+1 Fierce Guardianship
+1 Brainstorm
+1 Cyclonic Rift
+1 Mana Drain
+1 Teach by Example
+1 Frantic Search
+1 Flame of Anor
+1 Counterspell
+1 Consider
+1 Strix Serenade
+1 An Offer You Can't Refuse
+1 Snap
+1 Get Out
+1 Reality Shift
+1 Time Spiral
+1 Crackle with Power
+1 Mana Geyser
+1 Personal Tutor
+1 Ponder
+1 Echo of Eons
+1 Winds of Change
+1 Boltwave
+1 Temporal Mastery
+1 Mystic Remora
+1 Rhystic Study
+1 Curiosity
+1 Wizard Class
+1 Ophidian Eye
+1 Chandra, Hope's Beacon
+1 Chandra, Flame's Catalyst
+1 Ral, Crackling Wit
+1 Myriad Landscape
+1 Steam Vents
+1 Riverglide Pathway
+1 Riptide Laboratory
+1 Sokenzan, Crucible of Defiance
+1 Command Tower
+1 Reliquary Tower
+1 Mystic Sanctuary
+1 Silverbluff Bridge
+1 Temple of Epiphany
+1 Eroded Canyon
+1 Spirebluff Canal
+1 Shivan Reef
+1 Izzet Boilerworks
+1 Halimar Depths
+1 Peculiar Lighthouse
+1 Riverpyre Verge
+11 Mountain
+10 Island
+Sideboard
+1 Niv-Mizzet, Parun

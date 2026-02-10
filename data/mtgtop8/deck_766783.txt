@@ -1,0 +1,88 @@
+1 Aphetto Alchemist
+1 Displacer Kitten
+1 Filigree Sages
+1 Flesh Duplicate
+1 Gilded Drake
+1 Imagecrafter
+1 Kitsa, Otterball Elite
+1 Laboratory Maniac
+1 Mockingbird
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Quistis Trepe
+1 Snapcaster Mage
+1 Spellseeker
+1 Stern Proctor
+1 Teferi, Mage of Zhalfir
+1 Thassa's Oracle
+1 Tishana's Tidebinder
+1 Trinket Mage
+1 Valley Floodcaller
+1 Vedalken Aethermage
+1 Aether Vial
+1 Arcane Signet
+1 Chromatic Orrery
+1 Chrome Mox
+1 Fellwar Stone
+1 Gilded Lotus
+1 Grim Monolith
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Nyx Lotus
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Voltaic Key
+1 Banishing Knack
+1 Chain of Vapor
+1 Daze
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Sink into Stupor
+1 Stifle
+1 Swan Song
+1 Trickbind
+1 Paradigm Shift
+1 Step Through
+1 Timetwister
+1 Transmute Artifact
+1 Copy Artifact
+1 Counterbalance
+1 Mind Over Matter
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Traitors
+1 Demolition Field
+1 Gemstone Caverns
+14 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Workshop
+1 Mutavault
+1 Nykthos, Shrine to Nyx
+1 Otawara, Soaring City
+1 Talon Gates of Madara
+Sideboard
+1 Azami, Lady of Scrolls

@@ -1,0 +1,80 @@
+1 Stinkweed Imp
+1 Blood Celebrant
+1 Blood Pet
+1 Viscera Seer
+1 Skirge Familiar
+1 Vile Entomber
+1 Asmodeus the Archfiend
+1 Necrotic Ooze
+1 Braids, Arisen Nightmare
+1 Activated Sleeper
+1 Vilis, Broker of Blood
+1 Priest of Gix
+1 Body Snatcher
+1 Hoarding Broodlord
+1 Chainer, Dementia Master
+1 Greedy Freebooter
+1 Dimir House Guard
+1 Forsaken Miner
+1 Grim Servant
+1 Warren Soultrader
+1 Faerie Macabre
+1 Vengeful Bloodwitch
+1 Cynical Loner
+1 Gray Merchant of Asphodel
+1 Ruthless Technomancer
+1 Pitiless Plunderer
+1 Blood Artist
+1 Ashnod's Altar
+1 Moonsilver Key
+1 Springleaf Drum
+1 Sol Ring
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Darkblast
+1 Entomb
+1 Grasp of Darkness
+1 Defile
+1 Songs of the Damned
+1 Sacrifice
+1 Dark Ritual
+1 Wake the Dead
+1 Bitter Triumph
+1 It Doesn't Add Up
+1 Consuming Corruption
+1 Saw in Half
+1 Culling the Weak
+1 Rain of Filth
+1 Withering Torment
+1 Stitch Together
+1 Unearth
+1 Toxic Deluge
+1 Final Parting
+1 Beseech the Queen
+1 Unmarked Grave
+1 Bone Shards
+1 Persist
+1 Reanimate
+1 Dread Return
+1 Nuclear Fallout
+1 Lively Dirge
+1 Insatiable Avarice
+1 Diabolic Tutor
+1 Buried Alive
+1 Cruelclaw's Heist
+1 Feed the Swarm
+1 Demonic Counsel
+1 Tortured Existence
+1 Animate Dead
+1 Necromancy
+1 Chthonian Nightmare
+1 Nowhere to Run
+1 Emergence Zone
+1 Crystal Vein
+1 Geier Reach Sanitarium
+22 Swamp
+1 Conduit Pylons
+1 Blast Zone
+1 Barren Moor
+Sideboard
+1 K'rrik, Son of Yawgmoth

@@ -1,0 +1,79 @@
+1 Agate Instigator
+1 Ancient Copper Dragon
+1 Anger
+1 Aspiring Champion
+1 Cavern-Hoard Dragon
+1 Dragonhawk, Fate's Tempest
+1 Fable of the Mirror-Breaker
+1 Feldon of the Third Path
+1 Fury
+1 Ganax, Astral Hunter
+1 Grenzo, Havoc Raiser
+1 Harmonic Prodigy
+1 Headliner Scarlett
+1 Imperial Recruiter
+1 Jaxis, the Troublemaker
+1 Karlach, Fury of Avernus
+1 Kiki-Jiki, Mirror Breaker
+1 Malignus
+1 Parapet Thrasher
+1 Pinnacle Monk
+1 Port Razer
+1 Professional Face-Breaker
+1 Purphoros, God of the Forge
+1 Ragavan, Nimble Pilferer
+1 Redoubled Stormsinger
+1 Rionya, Fire Dancer
+1 Rose, Cutthroat Raider
+1 Sawhorn Nemesis
+1 Solemn Simulacrum
+1 Terror of the Peaks
+1 Trumpeting Carnosaur
+1 Twinflame Tyrant
+1 Urabrask the Hidden
+1 Wyll, Blade of Frontiers
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Commander's Plate
+1 Dolmen Gate
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Mithril Coat
+1 Ruby Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Irencrag
+1 Throne of Eldraine
+1 Vexing Puzzlebox
+1 Chaos Warp
+1 Deflecting Swat
+1 Guff Rewrites History
+1 Valakut Awakening
+1 Wild Magic Surge
+1 Blasphemous Act
+1 Jeska's Will
+1 Wheel of Misfortune
+1 Aggravated Assault
+1 Barbarian Class
+1 Goblin Bombardment
+1 Impact Tremors
+1 Powerbalance
+1 Rising of the Day
+1 Sneak Attack
+1 Spiteful Banditry
+1 Urza's Saga
+1 Wild Wasteland
+1 Access Tunnel
+1 Ancient Tomb
+1 Arena of Glory
+1 Command Beacon
+1 Hall of the Bandit Lord
+1 Maze of Ith
+23 Mountain
+1 Nykthos, Shrine to Nyx
+1 Rogue's Passage
+1 Shinka, the Bloodsoaked Keep
+1 Valakut, the Molten Pinnacle
+1 War Room
+Sideboard
+1 Delina, Wild Mage

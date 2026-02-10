@@ -1,0 +1,80 @@
+1 Highspire Mantis
+1 Militant Inquisitor
+1 Razia, Boros Archangel
+1 Boros Challenger
+1 Skyknight Legionnaire
+1 Basandra, Battle Seraph
+1 Sunhome Enforcer
+1 Thundersong Trumpeter
+1 Soldier Replica
+1 Vulshok Battlemaster
+1 Prava of the Steel Legion
+1 Jor Kadeen, First Goldwarden
+1 Adriana, Captain of the Guard
+1 Jor Kadeen, the Prevailer
+1 Phantom General
+1 Rohirrim Chargers
+1 Ojer Taq, Deepest Foundation
+1 Boros Guildmage
+1 Firemane Avenger
+1 Mentor of the Meek
+1 Siege-Gang Commander
+1 Goldnight Commander
+1 Healer's Headdress
+1 Sparring Collar
+1 No-Dachi
+1 Warlord's Axe
+1 Leonin Bola
+1 Ronin Warclub
+1 Prying Blade
+1 Sunbeam Spellbomb
+1 Dragonwing Glider
+1 Bladehold War-Whip
+1 Vulshok Splitter
+1 Vulshok Factory
+1 Hexgold Halberd
+1 Hexgold Hoverwings
+1 Mirran Bardiche
+1 Goldwarden's Helm
+1 Barbed Batterfist
+1 Mace of the Valiant
+1 Arcane Signet
+1 Fireshrieker
+1 Pyrite Spellbomb
+1 Sol Ring
+1 Commander's Sphere
+1 Boros Signet
+1 Raise the Alarm
+1 Trostani's Judgment
+1 War Flare
+1 Boros Fury-Shield
+1 Rally the Righteous
+1 Charge
+1 White Sun's Zenith
+1 Midnight Haunting
+1 Lightning Helix
+1 Krenko's Command
+1 Rip Apart
+1 Increasing Devotion
+1 Martial Coup
+1 Heroic Reinforcements
+1 Vessel of Volatility
+1 Intangible Virtue
+1 Glorious Anthem
+1 Gleam of Battle
+1 Assemble the Legion
+1 War Effort
+1 Nahiri, Storm of Stone
+1 Elspeth, Sun's Nemesis
+1 Gideon Jura
+1 Boros Garrison
+1 Myriad Landscape
+1 Command Tower
+1 Sunbillow Verge
+1 Evolving Wilds
+1 Path of Ancestry
+1 Castle Ardenvale
+13 Plains
+10 Mountain
+Sideboard
+1 Neyali, Suns' Vanguard

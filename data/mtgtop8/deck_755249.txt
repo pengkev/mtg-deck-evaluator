@@ -1,0 +1,90 @@
+1 Aegis of the Gods
+1 Alseid of Life's Bounty
+1 Archon of Sun's Grace
+1 Eidolon of Rhetoric
+1 Grim Guardian
+1 Hanna, Ship's Navigator
+1 Spirit of the Labyrinth
+1 Sun Titan
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Orzhov Signet
+1 Rishadan Pawnshop
+1 Sol Ring
+1 Spear of Heliod
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Tel-Jilad Stylus
+1 Counterspell
+1 Dovin's Veto
+1 Hindering Light
+1 Mortify
+1 Negate
+1 Restoration Magic
+1 Swords to Plowshares
+1 Turn Aside
+1 Diabolic Tutor
+1 Divine Reckoning
+1 Ringsight
+1 Suppression Ray
+1 Winds of Rath
+1 All That Glitters
+1 Banishing Light
+1 Blind Obedience
+1 Call of the Ring
+1 Combat Research
+1 Crackdown
+1 Curator's Ward
+1 Darksteel Mutation
+1 Diplomatic Immunity
+1 Douse
+1 Energy Field
+1 Energy Flux
+1 Estrid's Invocation
+1 Ethereal Armor
+1 Grasp of Fate
+1 Hesitation
+1 Hour of Victory
+1 Imprisoned in the Moon
+1 Intimidation Campaign
+1 Karmic Justice
+1 Kaya's Ghostform
+1 Nowhere to Run
+1 Propaganda
+1 Rest in Peace
+1 Rule of Law
+1 Seal from Existence
+1 Seal of Cleansing
+1 Staggering Insight
+1 Stasis
+1 Steel of the Godhead
+1 Vanishing
+1 Virulent Plague
+1 Web of Inertia
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Bojuka Bog
+1 Caves of Koilos
+1 Celestial Colonnade
+1 Command Tower
+1 Contaminated Landscape
+1 Darkwater Catacombs
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+5 Island
+1 Isolated Chapel
+1 Mistveil Plains
+1 Path of Ancestry
+5 Plains
+1 Port Town
+1 Prairie Stream
+1 Skycloud Expanse
+1 Sunken Hollow
+4 Swamp
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Silence
+Sideboard
+1 Zur the Enchanter

@@ -1,0 +1,90 @@
+1 Deepglow Skate
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Chrome Mox
+1 Gatewatch Beacon
+1 Ichormoon Gauntlet
+1 Knowledge Pool
+1 Liquimetal Torque
+1 Lithoform Engine
+1 Lotus Petal
+1 Mana Vault
+1 Midnight Clock
+1 Mox Amber
+1 Mox Opal
+1 Mycosynth Lattice
+1 Nevinyrral's Disk
+1 Pearl Medallion
+1 Proteus Staff
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Teferi's Puzzle Box
+1 Vexing Bauble
+1 Brainstorm
+1 Cyclonic Rift
+1 Dispatch
+1 Dovin's Veto
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Negation
+1 Mana Drain
+1 Mystical Tutor
+1 Reality Shift
+1 Resculpt
+1 Ripples of Potential
+1 Sink into Stupor
+1 Soul Partition
+1 Swan Song
+1 Teferi's Protection
+1 Day's Undoing
+1 Emeria's Call
+1 Sea Gate Restoration
+1 Search for Glory
+1 Supreme Verdict
+1 Vanquish the Horde
+1 Authority of the Consuls
+1 Dawn of Hope
+1 Elspeth Conquers Death
+1 Ever-Watching Threshold
+1 Inexorable Tide
+1 Land Tax
+1 Mystic Remora
+1 Oath of Gideon
+1 Oath of Teferi
+1 Out of Time
+1 Rhystic Study
+1 Smothering Tithe
+1 Sphere of Safety
+1 Teferi's Ageless Insight
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Temporal Pilgrim
+1 Teferi, Time Raveler
+1 Teferi, Who Slows the Sunset
+1 Academy Ruins
+1 Ancient Den
+1 Ancient Tomb
+1 Azorius Chancery
+1 Blast Zone
+1 Blasted Landscape
+1 Eiganjo, Seat of the Empire
+1 Flagstones of Trokair
+1 Flooded Strand
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Inventors' Fair
+1 Lotus Field
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Seat of the Synod
+8 Snow-Covered Island
+5 Snow-Covered Plains
+1 Tolaria West
+1 Tundra
+1 Wasteland
+Sideboard
+1 Lavinia, Azorius Renegade

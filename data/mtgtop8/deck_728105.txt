@@ -1,0 +1,91 @@
+1 Giant Killer
+1 Containment Priest
+1 Knight Exemplar
+1 Mangara, the Diplomat
+1 Frontline Medic
+1 Thraben Doomsayer
+1 Devout Chaplain
+1 Odric, Master Tactician
+1 Odric, Lunarch Marshal
+1 Reinforced Ronin
+1 Professional Face-Breaker
+1 Loran of the Third Path
+1 Michiko Konda, Truth Seeker
+1 Boromir, Warden of the Tower
+1 Eowyn, Fearless Knight
+1 Beregond of the Guard
+1 Boromir, Gondor's Hope
+1 Eomer, King of Rohan
+1 Lossarnach Captain
+1 Gilraen, Dúnedain Protector
+1 Weathered Wayfarer
+1 Verge Rangers
+1 Metallic Mimic
+1 Selfless Squire
+1 Witch Enchanter
+1 Hydroelectric Specimen
+1 Combat Celebrant
+1 The Jolly Balloon Man
+1 Star Athlete
+1 Thalia, Heretic Cathar
+1 Mentor of the Meek
+1 Fiend Hunter
+1 Adeline, Resplendent Cathar
+1 Thalia, Guardian of Thraben
+1 Coppercoat Vanguard
+1 Boros Signet
+1 Herald's Horn
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Talisman of Conviction
+1 Horn of Gondor
+1 Banner of Kinship
+1 Talisman of Progress
+1 Pearl Medallion
+1 Boros Charm
+1 Path to Exile
+1 Dovin's Veto
+1 Counterspell
+1 Sejiri Shelter
+1 Kabira Takedown
+1 Negate
+1 Swords to Plowshares
+1 Generous Gift
+1 Legion Leadership
+1 Razorgrass Ambush
+1 Untimely Malfunction
+1 Stroke of Midnight
+1 Mass Appeal
+1 Irenicus's Vile Duplication
+1 Darksteel Mutation
+1 Breath of Fury
+1 Kindred Discovery
+1 Shared Animosity
+1 Outlaws' Merriment
+1 Propaganda
+1 Cathars' Crusade
+1 Dazzling Theater/Prop Room
+1 Authority of the Consuls
+1 Reliquary Tower
+1 Command Tower
+1 Exotic Orchard
+1 Minas Tirith
+1 Unclaimed Territory
+1 Windbrisk Heights
+1 Perilous Landscape
+1 Path of Ancestry
+1 Secluded Courtyard
+1 Shivan Reef
+1 Mystic Monastery
+1 Castle Ardenvale
+1 Battlefield Forge
+1 Rugged Prairie
+1 Scavenger Grounds
+1 Glacial Fortress
+6 Plains
+4 Mountain
+1 Stormcarved Coast
+3 Island
+Sideboard
+1 Eowyn, Shieldmaiden

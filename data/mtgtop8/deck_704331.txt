@@ -1,0 +1,77 @@
+1 Chasm Skulker
+1 Clever Impersonator
+1 Jace's Archivist
+1 Niv-Mizzet, Parun
+1 Magus of the Wheel
+1 Psychosis Crawler
+1 Dakra Mystic
+1 Cryptoplasm
+1 Kami of the Crescent Moon
+1 Zurzoth, Chaos Rider
+1 Lore Broker
+1 Fatespinner
+1 Howling Golem
+1 Ghostly Pilferer
+1 Alandra, Sky Dreamer
+1 Zenith Chronicler
+1 Red Death, Shipwrecker
+1 Humble Defector
+1 Mockingbird
+1 Razorkin Needlehead
+1 Scrawling Crawler
+1 Mischievous Mystic
+1 Temple Bell
+1 Howling Mine
+1 Talisman of Creativity
+1 Ebony Owl Netsuke
+1 Thought Vessel
+1 Sol Ring
+1 Mind Stone
+1 Izzet Signet
+1 Helm of Awakening
+1 Arcane Signet
+1 Midnight Clock
+1 Fellwar Stone
+1 Reverberate
+1 Brand
+1 Muddle the Mixture
+1 Swan Song
+1 Vision Skeins
+1 Reins of Power
+1 Return the Favor
+1 Sink into Stupor
+1 Untimely Malfunction
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Mana Geyser
+1 Skyscribing
+1 Time Reversal
+1 Role Reversal
+1 Fabricate
+1 Windfall
+1 Prosperity
+1 Eternal Dominion
+1 Spectral Deluge
+1 Consuming Tide
+1 Reckless Handling
+1 Fevered Visions
+1 Dictate of Kruphix
+1 Chaosphere
+1 Telepathy
+1 Hive Mind
+1 Exchange of Words
+1 Forced Fruition
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Exotic Orchard
+1 Command Tower
+1 Cascade Bluffs
+1 Frostboil Snarl
+1 Ferrous Lake
+1 Stormcarved Coast
+1 Shivan Reef
+1 Sulfur Falls
+17 Island
+9 Mountain
+Sideboard
+1 Ian Malcolm, Chaotician

@@ -1,0 +1,97 @@
+1 Adeline, Resplendent Cathar
+1 Agate Instigator
+1 Ainok Strike Leader
+1 Alexios, Deimos of Kosmos
+1 Alseid of Life's Bounty
+1 Angrath's Marauders
+1 Anim Pakal, Thousandth Moon
+1 Arabella, Abandoned Doll
+1 Archetype of Aggression
+1 Archon of Emeria
+1 Auratouched Mage
+1 Aven Mindcensor
+1 Aya of Alexandria
+1 Beregond of the Guard
+1 Blade Historian
+1 Boromir, Warden of the Tower
+1 Captain of the Watch
+1 Celestine, the Living Saint
+1 Charismatic Conqueror
+1 Clarion Conqueror
+1 Delney, Streetwise Lookout
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eidolon of the Great Revel
+1 Erkenbrand, Lord of Westfold
+1 Ethersworn Canonist
+1 Evangel of Heliod
+1 Geist-Honored Monk
+1 General Kreat, the Boltbringer
+1 Giver of Runes
+1 Goldnight Commander
+1 Greymond, Avacyn's Stalwart
+1 Imperial Recruiter
+1 Jacked Rabbit
+1 Jor Kadeen, the Prevailer
+1 Krenko, Tin Street Kingpin
+1 Legion Loyalist
+1 Lena, Selfless Champion
+1 Lightning, Army of One
+1 Magebane Lizard
+1 Magus of the Moon
+1 Myrel, Shield of Argive
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Censor
+1 Phyrexian Walker
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Rionya, Fire Dancer
+1 Rug of Smothering
+1 Serra Ascendant
+1 Skrelv, Defector Mite
+1 Skyclave Apparition
+1 Thalia, Guardian of Thraben
+1 Vryn Wingmare
+1 White Plume Adventurer
+1 Witch Enchanter
+1 Chrome Mox
+1 Cursed Totem
+1 Lotus Petal
+1 Mana Vault
+1 Mox Opal
+1 Sol Ring
+1 Deflecting Swat
+1 Flare of Fortitude
+1 Sejiri Shelter
+1 Spikefield Hazard
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Blood Moon
+1 Breath of Fury
+1 Deafening Silence
+1 High Noon
+1 Rest in Peace
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Blinkmoth Nexus
+1 Cavern of Souls
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Den of the Bugbear
+1 Eiganjo, Seat of the Empire
+1 Gemstone Caverns
+1 Great Furnace
+1 Mishra's Factory
+2 Mountain
+1 Needleverge Pathway
+4 Plains
+1 Sacred Foundry
+1 Sokenzan, Crucible of Defiance
+1 Spectator Seating
+1 Sunbillow Verge
+Sideboard
+1 Winota, Joiner of Forces

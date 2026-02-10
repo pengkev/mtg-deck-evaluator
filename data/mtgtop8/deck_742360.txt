@@ -1,0 +1,85 @@
+1 Ashcoat of the Shadow Swarm
+1 Ayara, First of Locthwain
+1 Burglar Rat
+1 Chittering Witch
+1 Crashing Drawbridge
+1 Crypt Ghast
+1 Engine Rat
+1 Gnat Miser
+1 Gnawing Vermin
+1 Ink-Eyes, Servant of Oni
+1 Karumonix, the Rat King
+1 Lord Skitter, Sewer King
+1 Marvin, Murderous Mimic
+1 Mirkwood Bats
+1 Nashi, Moon Sage's Scion
+1 Nezumi Informant
+1 Ogre Slumlord
+1 Old Flitterfang
+1 Pack Rat
+1 Persistent Marshstalker
+1 Piper of the Swarm
+1 Rat Colony
+1 Ratcatcher
+1 Refurbished Familiar
+1 Roaming Throne
+1 Species Specialist
+1 Tangled Colony
+1 Typhoid Rats
+1 Wave of Rats
+1 Altar of the Brood
+1 Jet Medallion
+1 Lightning Greaves
+1 Patriar's Seal
+1 Skullclamp
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Throne of Eldraine
+1 Dark Ritual
+1 Deadly Rollick
+1 Fell the Profane
+1 Flare of Malice
+1 Imp's Mischief
+1 Malakir Rebirth
+1 Rat Out
+1 Snuff Out
+1 Vampiric Tutor
+1 Withering Torment
+1 Agadeem's Awakening
+1 Beseech the Mirror
+1 Blasphemous Edict
+1 Demonic Tutor
+1 Feed the Swarm
+1 Kindred Dominance
+1 Living Death
+1 Patriarch's Bidding
+1 Plague of Vermin
+1 Swarmyard Massacre
+1 Toxic Deluge
+1 Black Market Connections
+1 Dictate of Erebos
+1 Grave Pact
+1 Haunted One
+1 Phyrexian Arena
+1 The Meathook Massacre
+1 Bojuka Bog
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Cavern of Souls
+1 Mudflat Village
+1 Mutavault
+1 Nykthos, Shrine to Nyx
+1 Path of Ancestry
+1 Phyrexian Tower
+1 Reliquary Tower
+1 Spymaster's Vault
+17 Swamp
+1 Swarmyard
+1 Takenuma, Abandoned Mire
+1 Three Tree City
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+Sideboard
+1 Marrow-Gnawer

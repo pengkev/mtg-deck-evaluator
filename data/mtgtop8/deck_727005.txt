@@ -1,0 +1,101 @@
+1 Chancellor of the Annex
+1 Elesh Norn, Grand Cenobite
+1 Recruiter of the Guard
+1 Captain Sisay
+1 Duskwatch Recruiter
+1 Linvala, Keeper of Silence
+1 Yisan, the Wanderer Bard
+1 Avacyn's Pilgrim
+1 Fauna Shaman
+1 Angel of Glory's Rise
+1 Birds of Paradise
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Planar Guide
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Elvish Spirit Guide
+1 Hermit Druid
+1 Llanowar Elves
+1 Ulvenwald Tracker
+1 Sylvan Safekeeper
+1 Shaman of Forgotten Ways
+1 Seedcradle Witch
+1 Pulsemage Advocate
+1 Devoted Caretaker
+1 Fyndhorn Elves
+1 Aven Mindcensor
+1 Solitude
+1 Esper Sentinel
+1 Cathar Commando
+1 Heronblade Elite
+1 Torens, Fist of the Angels
+1 Thalia, Guardian of Thraben
+1 Mother of Runes
+1 Emiel the Blessed
+1 Torsten, Founder of Benalia
+1 Recruitment Officer
+1 Eternal Witness
+1 Loran of the Third Path
+1 Elesh Norn, Mother of Machines
+1 Surrak and Goreclaw
+1 Sigarda, Font of Blessings
+1 Delighted Halfling
+1 Boromir, Warden of the Tower
+1 Weathered Wayfarer
+1 Village Bell-Ringer
+1 Elvish Mystic
+1 Dauntless Dismantler
+1 Emrakul, the World Anew
+1 Aven Interrupter
+1 Disciple of Freyalise
+1 Witch Enchanter
+1 Sowing Mycospawn
+1 Magus of the Candelabra
+1 Tax Collector
+1 Collector Ouphe
+1 Emrakul, the Promised End
+1 Beastrider Vanguard
+1 Voice of Victory
+1 Lotus Petal
+1 Null Rod
+1 Collector's Cage
+1 Chord of Calling
+1 Eladamri's Call
+1 Worldly Tutor
+1 Collected Company
+1 Sevinne's Reclamation
+1 Nature's Rhythm
+1 Survival of the Fittest
+1 Root Maze
+1 Lurking Predators
+1 Concordant Crossroads
+1 Leyline of Abundance
+1 Growing Rites of Itlimoc
+1 Deafening Silence
+1 Stony Silence
+1 Vivien, Monsters' Advocate
+1 Gaea's Cradle
+1 Savannah
+1 Wooded Foothills
+1 Windswept Heath
+1 Temple Garden
+1 Wooded Bastion
+1 Branchloft Pathway
+1 Marsh Flats
+1 Verdant Catacombs
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Mana Confluence
+1 City of Brass
+1 Brushland
+1 Command Tower
+1 Razorverge Thicket
+1 Cavern of Souls
+1 Gemstone Caverns
+1 Horizon Canopy
+1 Lush Portico
+1 Hushwood Verge
+Sideboard
+1 Katilda, Dawnhart Prime

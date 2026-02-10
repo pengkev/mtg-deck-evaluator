@@ -1,0 +1,101 @@
+1 Academy Rector
+1 Angel of Indemnity
+1 Archivist of Oghma
+1 Arena Rector
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Delighted Halfling
+1 Delney, Streetwise Lookout
+1 Disciple of Freyalise
+1 Drannith Magistrate
+1 Elesh Norn, Mother of Machines
+1 Elvish Spirit Guide
+1 Endurance
+1 Esper Sentinel
+1 Felidar Guardian
+1 Grand Abolisher
+1 Hermit Druid
+1 Hermit of the Natterknolls
+1 Insidious Fungus
+1 Karmic Guide
+1 Oswald Fiddlebender
+1 Ranger-Captain of Eos
+1 Renegade Rallier
+1 Restoration Angel
+1 Reveillark
+1 Starved Rusalka
+1 Tataru Taru
+1 Voice of Victory
+1 Werefox Bodyguard
+1 Witch Enchanter
+1 Altar of Dementia
+1 Arcane Signet
+1 Birthing Pod
+1 Blasting Station
+1 Chrome Mox
+1 Damping Sphere
+1 Disruptor Flute
+1 Jeweled Amulet
+1 Lotus Bloom
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Unity
+1 The One Ring
+1 Vexing Bauble
+1 Chord of Calling
+1 Enlightened Tutor
+1 Force of Vigor
+1 March of Otherworldly Light
+1 Nature's Claim
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Sevinne's Reclamation
+1 Angelic Renewal
+1 Carpet of Flowers
+1 Charitable Levy
+1 Compost
+1 Greater Good
+1 Kenrith's Transformation
+1 Pattern of Rebirth
+1 Survival of the Fittest
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Vessel of Nascency
+1 Wild Growth
+1 Vivien on the Hunt
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Horizon Canopy
+1 Horizon of Progress
+1 Hushwood Verge
+1 Lush Portico
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Monumental Henge
+1 Razorverge Thicket
+1 Savannah
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Saffi Eriksdotter

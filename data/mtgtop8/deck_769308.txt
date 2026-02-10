@@ -1,0 +1,77 @@
+1 Alseid of Life's Bounty
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Courser of Kruphix
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Heliod, Sun-Crowned
+1 Herald of the Pantheon
+1 Jukai Naturalist
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Moon-Blessed Cleric
+1 Pearl-Ear, Imperial Advisor
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Shigeki, Jukai Visionary
+1 Summon: Fenrir
+1 Trickster's Elk
+1 Walking Ballista
+1 Weaver of Harmony
+1 Path to Exile
+1 Reprieve
+1 Swords to Plowshares
+1 Abundant Growth
+1 All That Glitters
+1 Aura of Silence
+1 Authority of the Consuls
+1 Banishing Light
+1 Blind Obedience
+1 Darksteel Mutation
+1 Dog Umbra
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Feather of Flight
+1 Felidar Umbra
+1 Flickering Ward
+1 Force of Virtue
+1 Ghostly Prison
+1 Grasp of Fate
+1 Greater Auramancy
+1 Hallowed Haunting
+1 Kenrith's Transformation
+1 Lignify
+1 Oath of Nissa
+1 Ossification
+1 Planar Disruption
+1 Rancor
+1 Realmbreaker's Grasp
+1 Rest in Peace
+1 Sage's Reverie
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Sentinel's Eyes
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Soul Snare
+1 Spider Umbra
+1 Spirit Link
+1 Sterling Grove
+1 Stony Silence
+1 Strength of the Harvest
+1 Titania's Song
+1 Touch the Spirit Realm
+1 Utopia Sprawl
+1 Whip Silk
+1 Wild Growth
+1 Brushland
+1 Command Tower
+13 Forest
+1 Fortified Village
+13 Plains
+1 Sunpetal Grove
+Sideboard
+1 Sythis, Harvest's Hand

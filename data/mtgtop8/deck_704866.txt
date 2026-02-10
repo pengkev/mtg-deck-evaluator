@@ -1,0 +1,82 @@
+1 Aetherflux Reservoir
+1 Amphibian Downpour
+1 Arcane Signet
+1 Azusa, Lost but Seeking
+1 Birgi, God of Storytelling
+1 Bountiful Landscape
+1 Bramble Familiar
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Case of the Locked Hothouse
+1 Chromatic Lantern
+1 Command Tower
+1 Commander's Sphere
+1 Delighted Halfling
+1 Desperate Ritual
+1 Entish Restoration
+1 Eruth, Tormented Prophet
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Fabricate
+1 Fellwar Stone
+7 Forest
+1 Foundry Inspector
+1 Fountainport Bell
+1 Galvanic Relay
+1 Grapeshot
+1 Grow from the Ashes
+1 Gruul Signet
+1 Harrow
+1 Helm of Awakening
+1 Hugs, Grisly Guardian
+1 Impulsive Pilferer
+7 Island
+1 Izzet Signet
+1 Jace, Wielder of Mysteries
+1 Jhoira's Familiar
+1 Kellan, Inquisitive Prodigy
+1 Laboratory Maniac
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Maestros Theater
+1 Malcolm, the Eyes
+1 Mana Flare
+1 Memnite
+1 Mind Stone
+1 Mishra's Bauble
+7 Mountain
+1 Obscura Storefront
+1 Oracle of Mul Daya
+1 Ornithopter
+1 Path of Ancestry
+1 Pongify
+1 Radiant Lotus
+1 Ral, Crackling Wit
+1 Reconstruction
+1 Riverpyre Verge
+1 Riveteers Overlook
+1 Seething Song
+1 Simic Signet
+1 Sol Ring
+1 Solve the Equation
+1 Stella Lee, Wild Card
+1 Strike It Rich
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Impulse
+1 Thornspire Verge
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Tormod's Crypt
+1 Twinferno
+1 Uro, Titan of Nature's Wrath
+1 Utopia Sprawl
+1 Wandering Archaic
+1 War Room
+1 Welding Jar
+1 Wild Growth
+1 Willowrush Verge
+Sideboard
+1 Flubs, the Fool

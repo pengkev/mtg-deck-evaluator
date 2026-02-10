@@ -1,0 +1,101 @@
+1 Aftermath Analyst
+1 Atraxa, Grand Unifier
+1 Blossoming Tortoise
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Grand Abolisher
+1 Hedron Crab
+1 Icetill Explorer
+1 Krosan Wayfarer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Nissa, Resurgent Animist
+1 Ranger-Captain of Eos
+1 Sylvan Safekeeper
+1 Vexing Shusher
+1 Amulet of Vigor
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Zuran Orb
+1 Ad Nauseam
+1 Brain Freeze
+1 Chain of Vapor
+1 Crop Rotation
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 Mystical Tutor
+1 Pact of Negation
+1 Rain of Filth
+1 Realms Uncharted
+1 Silence
+1 Summoner's Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Reanimate
+1 Scapeshift
+1 Sevinne's Reclamation
+1 Splendid Reclamation
+1 Summer Bloom
+1 Exploration
+1 Manabond
+1 Mystic Remora
+1 Rhystic Study
+1 Squandered Resources
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Boseiju, Who Endures
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Crumbling Vestige
+1 Echoing Deeps
+1 Emergence Zone
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Golgari Rot Farm
+1 Horizon of Progress
+1 Lotus Field
+1 Mana Confluence
+1 Mirrorpool
+1 Misty Rainforest
+1 Mount Doom
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Port of Karfell
+1 Raucous Theater
+1 Remote Farm
+1 Scalding Tarn
+1 Shifting Woodland
+1 Simic Growth Chamber
+1 Starting Town
+1 Taiga
+1 Talon Gates of Madara
+1 Tarnished Citadel
+1 Thundering Falls
+1 Tolaria West
+1 Tropical Island
+1 Urza's Cave
+1 Valakut, the Molten Pinnacle
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Ziatora's Proving Ground
+Sideboard
+1 The Wandering Minstrel

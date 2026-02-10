@@ -1,0 +1,101 @@
+1 Nyxbloom Ancient
+1 Llanowar Elves
+1 Clever Impersonator
+1 Glen Elendra Archmage
+1 Trophy Mage
+1 Void Winnower
+1 Elvish Mystic
+1 Spellskite
+1 Nezahal, Primal Tide
+1 Drift of Phantasms
+1 Fyndhorn Elves
+1 Wandering Archaic
+1 Endurance
+1 Birds of Paradise
+1 Elvish Spirit Guide
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Tidespout Tyrant
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Enduring Vitality
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Thrasios, Triton Hero
+1 Consecrated Sphinx
+1 Arcane Signet
+1 Lotus Petal
+1 Basalt Monolith
+1 Sol Ring
+1 Mana Vault
+1 Mox Opal
+1 Grim Monolith
+1 Talisman of Curiosity
+1 Chrome Mox
+1 Springleaf Drum
+1 Mox Diamond
+1 Fellwar Stone
+1 Mox Amber
+1 Simic Signet
+1 Imposter Mech
+1 Mirage Mirror
+1 The One Ring
+1 Veil of Summer
+1 Pact of Negation
+1 Flusterstorm
+1 Force of Vigor
+1 Force of Negation
+1 Dispel
+1 Chord of Calling
+1 Crop Rotation
+1 Force of Will
+1 Dramatic Reversal
+1 Noxious Revival
+1 Swan Song
+1 Mana Drain
+1 Mindbreak Trap
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Chain of Vapor
+1 Mental Misstep
+1 Fierce Guardianship
+1 Transmute Artifact
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Mirrormade
+1 Rhystic Study
+1 Copy Artifact
+1 Mystic Remora
+1 Copy Enchantment
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Command Tower
+1 Yavimaya Coast
+1 Verdant Catacombs
+1 City of Brass
+1 Ancient Tomb
+1 Emergence Zone
+1 Scalding Tarn
+1 Mana Confluence
+1 Forest
+1 Gaea's Cradle
+1 Tropical Island
+1 Island
+1 Rejuvenating Springs
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Waterlogged Grove
+1 Polluted Delta
+1 Wooded Foothills
+1 Treasure Vault
+1 Cephalid Coliseum
+1 Mistrise Village
+1 Breeding Pool
+Sideboard
+1 Kinnan, Bonder Prodigy

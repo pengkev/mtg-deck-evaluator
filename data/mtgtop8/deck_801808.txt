@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Dauthi Voidwalker
+1 Dire Fleet Daredevil
+1 Dragon's Rage Channeler
+1 Esper Sentinel
+1 Flamescroll Celebrant
+1 Goblin Engineer
+1 Goblin Welder
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Tataru Taru
+1 Voice of Victory
+1 Walking Ballista
+1 Aether Vial
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Chrome Mox
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Abrade
+1 Ad Nauseam
+1 Angel's Grace
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Entomb
+1 Fatal Push
+1 Fire Covenant
+1 Flare of Duplication
+1 Flare of Fortitude
+1 Get Lost
+1 Lightning Bolt
+1 Path to Exile
+1 Pyroblast
+1 Red Elemental Blast
+1 Reprieve
+1 Silence
+1 Swords to Plowshares
+1 Tainted Pact
+1 Tibalt's Trickery
+1 Vampiric Tutor
+1 Damn
+1 Demonic Tutor
+1 Diabolic Intent
+1 Faithless Looting
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Praetor's Grasp
+1 Reanimate
+1 Sevinne's Reclamation
+1 Unearth
+1 Wheel of Fortune
+1 Animate Dead
+1 Dance of the Dead
+1 Powerbalance
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blackcleave Cliffs
+1 Bleachbone Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Gemstone Caverns
+1 Godless Shrine
+1 Great Furnace
+1 Luxury Suite
+1 Marsh Flats
+1 Mountain
+1 Phyrexian Tower
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Raucous Theater
+1 Reflecting Pool
+1 Sacred Foundry
+1 Scrubland
+1 Spectator Seating
+1 Swamp
+1 Vault of Champions
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Akiri, Line-Slinger
+1 Francisco, Fowl Marauder

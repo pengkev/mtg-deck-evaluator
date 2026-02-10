@@ -1,0 +1,101 @@
+1 The Meathook Massacre
+1 Trouble in Pairs
+1 Smothering Tithe
+1 Call of the Ring
+1 Dance of the Dead
+1 Necromancy
+1 Animate Dead
+1 Lively Dirge
+1 Toxic Deluge
+1 Sevinne's Reclamation
+1 Diabolic Intent
+1 Imperial Seal
+1 Reanimate
+1 Bitter Ordeal
+1 Demonic Tutor
+1 Flare of Malice
+1 Flare of Fortitude
+1 Fell the Profane
+1 Entomb
+1 Deadly Dispute
+1 Swords to Plowshares
+1 Saw in Half
+1 Tainted Pact
+1 Dark Ritual
+1 Vampiric Tutor
+1 Sacrifice
+1 Silence
+1 Enlightened Tutor
+1 Cabal Ritual
+1 Culling the Weak
+1 Lotus Petal
+1 Arcane Signet
+1 The One Ring
+1 Blasting Station
+1 Mox Amber
+1 Skullclamp
+1 Talisman of Hierarchy
+1 Relic of Legends
+1 Sol Ring
+1 Mana Vault
+1 Phyrexian Altar
+1 Manifold Key
+1 Fellwar Stone
+1 Mox Diamond
+1 Mox Opal
+1 Chrome Mox
+1 Altar of Dementia
+1 Grim Monolith
+1 Wishclaw Talisman
+1 Samwise the Stouthearted
+1 Gollum, Patient Plotter
+1 Voice of Victory
+1 Vengeful Bloodwitch
+1 Warren Soultrader
+1 Witch Enchanter
+1 Forsaken Miner
+1 Bartolomé del Presidio
+1 Lotho, Corrupt Shirriff
+1 Nazgul
+1 Orcish Bowmasters
+1 Boromir, Warden of the Tower
+1 Yawgmoth, Thran Physician
+1 Elas il-Kor, Sadistic Pilgrim
+1 Archivist of Oghma
+1 Abdel Adrian, Gorion's Ward
+1 Ao, the Dawn Sky
+1 Esper Sentinel
+1 Viscera Seer
+1 Opposition Agent
+1 Gravecrawler
+1 Sidisi, Undead Vizier
+1 Thoughtpicker Witch
+1 Ranger-Captain of Eos
+1 Zulaport Cutthroat
+1 Plains
+1 Swamp
+1 Lazotep Quarry
+1 Bloodstained Mire
+1 Shadowy Backstreet
+1 Gemstone Caverns
+1 Urborg, Tomb of Yawgmoth
+1 Ancient Tomb
+1 Command Tower
+1 Plaza of Heroes
+1 City of Brass
+1 Takenuma, Abandoned Mire
+1 Phyrexian Tower
+1 Verdant Catacombs
+1 Marsh Flats
+1 Arid Mesa
+1 Caves of Koilos
+1 Vault of Champions
+1 Tarnished Citadel
+1 Scrubland
+1 Mana Confluence
+1 Silent Clearing
+1 Godless Shrine
+1 City of Traitors
+1 Urza's Saga
+Sideboard
+1 Ratadrabik of Urborg

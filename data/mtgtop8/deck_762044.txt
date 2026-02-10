@@ -1,0 +1,77 @@
+1 Akki Drillmaster
+1 Battle Cry Goblin
+1 Battle Squadron
+1 Beetleback Chief
+1 Cheering Fanatic
+1 Conspicuous Snoop
+1 Dark-Dweller Oracle
+1 Foundry Street Denizen
+1 Goblin Bushwhacker
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+1 Goblin Instigator
+1 Goblin King
+1 Goblin Lookout
+1 Goblin Matron
+1 Goblin Motivator
+1 Goblin Piledriver
+1 Goblin Recruiter
+1 Goblin Ringleader
+1 Goblin Sledder
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Goblin Wardriver
+1 Hellraiser Goblin
+1 Hobgoblin Bandit Lord
+1 Impulsive Pilferer
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Tin Street Kingpin
+1 Mogg Fanatic
+1 Mogg War Marshal
+1 Ogre Battledriver
+1 Pashalik Mons
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Torch Courier
+1 Volley Veteran
+1 Battlemage's Bracers
+1 Chrome Mox
+1 Coat of Arms
+1 Eldrazi Monument
+1 Lotus Bloom
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 The One Ring
+1 Thousand-Year Elixir
+1 Brightstone Ritual
+1 Deflecting Swat
+1 Massive Raid
+1 Outnumber
+1 Pyroblast
+1 Tibalt's Trickery
+1 You See a Pair of Goblins
+1 Burn at the Stake
+1 Dragon Fodder
+1 Gamble
+1 Goblin Rally
+1 Goblin War Party
+1 Goblin War Strike
+1 Hordeling Outburst
+1 Krenko's Command
+1 Shenanigans
+1 Goblin Bombardment
+1 Impact Tremors
+1 Outpost Siege
+1 Quest for the Goblin Lord
+1 Shared Animosity
+1 Ancient Tomb
+1 Hall of the Bandit Lord
+25 Mountain
+1 Three Tree City
+Sideboard
+1 Krenko, Mob Boss

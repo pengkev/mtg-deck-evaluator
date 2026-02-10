@@ -1,0 +1,86 @@
+1 Aether Chaser
+1 Aether Swooper
+1 Phyrexian Metamorph
+1 Birds of Paradise
+1 Bristling Hydra
+1 Cultivator of Blades
+1 Empyreal Voyager
+1 Whirler Rogue
+1 Rampant Rejuvenator
+1 Schema Thief
+1 Thought Monitor
+1 Volatile Stormdrake
+1 Roil Cartographer
+1 Aurora Shifter
+1 Cyclops Superconductor
+1 Smelted Chargebug
+1 Octomancer
+1 Nissa, Worldsoul Speaker
+1 Peema Trailblazer
+1 Territorial Aetherkite
+1 Architect of the Untamed
+1 Rogue Refiner
+1 Combustible Gearhulk
+1 Solemn Simulacrum
+1 Oviya, Automech Artisan
+1 Wurmcoil Engine
+1 Whirler Virtuoso
+1 Skullclamp
+1 Talisman of Creativity
+1 Decoction Module
+1 Sol Ring
+1 Fellwar Stone
+1 Lightning Greaves
+1 Arcane Signet
+1 The Everflowing Well
+1 Aether Refinery
+1 Izzet Generatorium
+1 Unstable Amulet
+1 Solar Transformer
+1 Conversion Apparatus
+1 Talisman of Impulse
+1 Aetheric Amplifier
+1 Aetherflux Conduit
+1 Talisman of Curiosity
+1 Lumbering Worldwagon
+1 Aetherworks Marvel
+1 Gonti's Aether Heart
+1 Beast Within
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Chaos Warp
+1 Reality Shift
+1 Attune with Aether
+1 Blasphemous Act
+1 Wheel of Potential
+1 Explosive Vegetation
+1 Doubling Season
+1 Temur Ascendancy
+1 Primal Prayers
+1 Aether Revolt
+1 Greater Good
+1 Garruk's Uprising
+1 Aether Hub
+1 Path of Ancestry
+1 Command Tower
+1 Sheltered Thicket
+1 Treasure Vault
+1 Academy Ruins
+1 Frontier Bivouac
+1 Frostboil Snarl
+1 Hinterland Harbor
+1 Karplusan Forest
+1 Overflowing Basin
+1 Rootbound Crag
+1 Spire of Industry
+1 Sulfur Falls
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Exotic Orchard
+1 Shivan Reef
+7 Island
+5 Mountain
+6 Forest
+Sideboard
+1 Saheeli, Radiant Creator

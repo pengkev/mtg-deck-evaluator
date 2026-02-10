@@ -1,0 +1,67 @@
+1 Gluttonous Slime
+1 Dowsing Shaman
+1 Inexorable Blob
+1 Humbler of Mortals
+1 Gobbling Ooze
+1 Nylea's Forerunner
+1 Manaplasm
+1 Splitting Slime
+1 Corrosive Ooze
+1 Anara, Wolvid Familiar
+1 Biowaste Blob
+1 Aeve, Progenitor Ooze
+1 Ochre Jelly
+1 Consuming Blob
+1 Myojin of Towering Might
+1 Spearbreaker Behemoth
+1 Mitotic Slime
+1 Iridescent Hornbeetle
+1 Renata, Called to the Hunt
+1 Slurrk, All-Ingesting
+1 Dinosaur Egg
+1 Verdant Sun's Avatar
+1 Shifting Ceratops
+1 Printlifter Ooze
+1 Temperamental Oozewagg
+1 Annoyed Altisaur
+1 Predator Ooze
+1 Ivy Lane Denizen
+1 Oran-Rief Ooze
+1 Quakestrider Ceratops
+1 Natural Connection
+1 Strength of Cedars
+1 Swell of Growth
+1 Sudden Reclamation
+1 Evolution Charm
+1 Choose Your Weapon
+1 Season of Renewal
+1 Natural Reclamation
+1 Gaea's Might
+1 Gaea's Gift
+1 Fertilid's Favor
+1 Invigorating Surge
+1 Inspiring Call
+1 Grapple with the Past
+1 Slime Molding
+1 Reviving Melody
+1 Gelatinous Genesis
+1 Miming Slime
+1 Exponential Growth
+1 Roar of Challenge
+1 Ooze Flux
+1 Ooze Garden
+1 Triumph of Ferocity
+1 Bonds of Mortality
+1 Gutter Grime
+1 Death's Presence
+1 One with the Kami
+1 Hardy Outlander
+1 Case of the Trampled Garden
+1 Colossal Majesty
+1 Monstrous Vortex
+1 Hunter's Talent
+1 Sylvan Scavenging
+1 Garruk's Uprising
+35 Forest
+Sideboard
+1 Terrian, World Tyrant

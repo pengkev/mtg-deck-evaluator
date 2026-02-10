@@ -1,0 +1,96 @@
+1 Atarka, World Render
+1 Betor, Kin to All
+1 Bladewing the Risen
+1 Broodcaller Scourge
+1 Deceptive Frostkite
+1 Dragonlord Dromoka
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Frenzied Baloth
+1 Ganax, Astral Hunter
+1 Goblin Anarchomancer
+1 Goldspan Dragon
+1 Hellkite Courser
+1 Karrthus, Tyrant of Jund
+1 Klauth, Unrivaled Ancient
+1 Lathliss, Dragon Queen
+1 Miirym, Sentinel Wyrm
+1 Morophon, the Boundless
+1 Old Gnawbone
+1 Ramos, Dragon Engine
+1 Rith, Liberated Primeval
+1 Sarkhan, Soul Aflame
+1 Stormscale Scion
+1 Temur Battlecrier
+1 Terror of the Peaks
+1 Thrakkus the Butcher
+1 Thundermane Dragon
+1 Tiamat
+1 Ureni of the Unwritten
+1 Utvara Hellkite
+1 Wrathful Red Dragon
+1 Arcane Signet
+1 Chromatic Orrery
+1 Cloud Key
+1 Emerald Medallion
+1 Fellwar Stone
+1 Fist of Suns
+1 Helm of Awakening
+1 Herald's Horn
+1 Ruby Medallion
+1 Sol Ring
+1 The Fire Crystal
+1 Urza's Incubator
+1 Heroic Intervention
+1 Vampiric Tutor
+1 Crux of Fate
+1 Cultivate
+1 Demonic Tutor
+1 Eerie Ultimatum
+1 Farseek
+1 Kodama's Reach
+1 Rampant Growth
+1 Selvala's Stampede
+1 Three Visits
+1 Call the Spirit Dragons
+1 Dracogenesis
+1 Dragon Tempest
+1 Garruk's Uprising
+1 Leyline of Mutation
+1 Omniscience
+1 Rhystic Study
+1 Temur Ascendancy
+1 Up the Beanstalk
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+2 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Haven of the Spirit Dragon
+2 Island
+1 Marsh Flats
+1 Mistrise Village
+2 Mountain
+1 Overgrown Tomb
+2 Plains
+1 Reflecting Pool
+1 Sacred Foundry
+1 Scalding Tarn
+1 Steam Vents
+1 Stomping Ground
+2 Swamp
+1 Temple Garden
+1 Terramorphic Expanse
+1 Verdant Catacombs
+1 Watery Grave
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 The Ur-Dragon

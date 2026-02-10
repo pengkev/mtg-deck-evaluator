@@ -1,0 +1,94 @@
+1 Basking Broodscale
+1 Birds of Paradise
+1 Blood Artist
+1 Dark Confidant
+1 Darkstar Augur
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Gilded Goose
+1 Glissa Sunslayer
+1 Hazel's Brewmaster
+1 Jadar, Ghoulcaller of Nephalia
+1 Marionette Apprentice
+1 Pitiless Plunderer
+1 Prosperous Innkeeper
+1 Protean Hulk
+1 Rev, Tithe Extractor
+1 Ruthless Knave
+1 Sephiroth, Fabled SOLDIER
+1 Six
+1 Viscera Seer
+1 Warren Soultrader
+1 Witherbloom Apprentice
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Disruptor Flute
+1 Lotus Petal
+1 Mox Amber
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Resilience
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Beast Within
+1 Chord of Calling
+1 Dark Ritual
+1 Deadly Rollick
+1 Entomb
+1 Force of Vigor
+1 Imp's Mischief
+1 Noxious Revival
+1 Revitalizing Repast
+1 Veil of Summer
+1 Beseech the Mirror
+1 Chain of Smog
+1 Culling Ritual
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Grim Tutor
+1 Maelstrom Pulse
+1 Nature's Rhythm
+1 Praetor's Grasp
+1 Toxic Deluge
+1 Unmarked Grave
+1 Animate Dead
+1 Black Market Connections
+1 Dance of the Dead
+1 Necromancy
+1 Phyrexian Arena
+1 Sylvan Library
+1 The Meathook Massacre
+1 Urza's Saga
+1 Invasion of Ikoria
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Castle Locthwain
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Crystal Vein
+1 Exotic Orchard
+5 Forest
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Necroblossom Snarl
+1 Polluted Delta
+1 Shifting Woodland
+1 Snow-Covered Swamp
+4 Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Woodland Cemetery
+Sideboard
+1 Chatterfang, Squirrel General

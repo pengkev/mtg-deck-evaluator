@@ -1,0 +1,73 @@
+1 Alexios, Deimos of Kosmos
+1 Alseid of Life's Bounty
+1 Archon of Emeria
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Baird, Steward of Argive
+1 Benevolent Bodyguard
+1 Blade Historian
+1 Captain of the Watch
+1 Cathar Commando
+1 Cavalry Pegasus
+1 Cliffside Rescuer
+1 Combat Celebrant
+1 Dauntless Dismantler
+1 Doorkeeper Thrull
+1 Eomer, King of Rohan
+1 Ethersworn Canonist
+1 Evangel of Heliod
+1 Fiend Hunter
+1 Geist-Honored Monk
+1 Gingerbrute
+1 Goblin Rabblemaster
+1 Goldnight Commander
+1 Grand Abolisher
+1 Keen-Eared Sentry
+1 Legion Loyalist
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Lightstall Inquisitor
+1 Loran of the Third Path
+1 Luxknight Breacher
+1 Magus of the Moon
+1 Mirage Phalanx
+1 Mirror Entity
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Pia and Kiran Nalaar
+1 Rograkh, Son of Rohgahh
+1 Sanctum Prelate
+1 Selfless Savior
+1 Selfless Spirit
+1 Sephiroth, Fallen Hero
+1 Skyclave Apparition
+1 Thalia, Heretic Cathar
+1 Thopter Engineer
+1 Vincent, Vengeful Atoner
+1 Vryn Wingmare
+1 Werefox Bodyguard
+1 Arcane Signet
+1 Boros Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Clever Concealment
+1 Dawn's Truce
+1 Frontline Rush
+1 Generous Gift
+1 Path to Exile
+1 Silence
+1 Swords to Plowshares
+1 Midnight Mayhem
+1 Authority of the Consuls
+1 Blind Obedience
+1 Deafening Silence
+1 Reconnaissance
+1 Touch the Spirit Realm
+1 Windcrag Siege
+1 Command Tower
+1 Mishra's Foundry
+15 Mountain
+15 Plains
+Sideboard
+1 Winota, Joiner of Forces

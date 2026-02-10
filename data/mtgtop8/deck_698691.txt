@@ -1,0 +1,101 @@
+1 Dosan the Falling Leaf
+1 Zulaport Cutthroat
+1 Manglehorn
+1 Arbor Elf
+1 Gravecrawler
+1 Viscera Seer
+1 Academy Manufactor
+1 Devoted Druid
+1 Blood Artist
+1 Pitiless Plunderer
+1 Elvish Mystic
+1 Hazel's Brewmaster
+1 Rev, Tithe Extractor
+1 Disciple of the Vault
+1 Elves of Deep Shadow
+1 Witherbloom Apprentice
+1 Yawgmoth, Thran Physician
+1 Orcish Bowmasters
+1 Deathrite Shaman
+1 Protean Hulk
+1 Endurance
+1 Marionette Apprentice
+1 Warren Soultrader
+1 Ravenous Squirrel
+1 Gilded Goose
+1 Birds of Paradise
+1 Llanowar Elves
+1 Allosaurus Shepherd
+1 Skullclamp
+1 Mana Vault
+1 Nuka-Cola Vending Machine
+1 Ashnod's Altar
+1 Sol Ring
+1 Chrome Mox
+1 Mox Amber
+1 The One Ring
+1 Arcane Signet
+1 Lotus Petal
+1 Mox Opal
+1 Culling the Weak
+1 Nature's Claim
+1 Assassin's Trophy
+1 Slaughter Pact
+1 Noxious Revival
+1 Withering Boon
+1 Dark Ritual
+1 Tainted Pact
+1 Veil of Summer
+1 Body Count
+1 Cut Down
+1 Abrupt Decay
+1 Chord of Calling
+1 Crop Rotation
+1 Force of Vigor
+1 Deadly Dispute
+1 Vampiric Tutor
+1 Deadly Rollick
+1 Toxic Deluge
+1 Reanimate
+1 Chain of Smog
+1 Diabolic Intent
+1 Green Sun's Zenith
+1 Praetor's Grasp
+1 Demonic Tutor
+1 Culling Ritual
+1 Beseech the Mirror
+1 Natural Order
+1 Finale of Devastation
+1 Pattern of Rebirth
+1 Black Market Connections
+1 Urza's Saga
+1 Invasion of Ikoria
+1 Tevesh Szat, Doom of Fools
+1 Ancient Tomb
+1 Emergence Zone
+1 Crystal Vein
+1 Bayou
+1 Undergrowth Stadium
+1 Gemstone Caverns
+1 Command Tower
+1 Phyrexian Tower
+1 Wastewood Verge
+1 Cavern of Souls
+1 Gaea's Cradle
+1 Prismatic Vista
+1 Marsh Flats
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Llanowar Wastes
+1 The Shire
+1 Overgrown Tomb
+1 Underground Mortuary
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Polluted Delta
+1 Spymaster's Vault
+1 Forest
+1 Swamp
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Chatterfang, Squirrel General

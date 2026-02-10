@@ -1,0 +1,101 @@
+1 Crimson Kobolds
+1 Crookshank Kobolds
+1 Phyrexian Walker
+1 Tinder Wall
+1 Memnite
+1 Vexing Shusher
+1 Birds of Paradise
+1 Shield Sphere
+1 Simian Spirit Guide
+1 Rograkh, Son of Rohgahh
+1 Birgi, God of Storytelling
+1 Eruth, Tormented Prophet
+1 Cloud of Faeries
+1 Ornithopter
+1 Wild Cantor
+1 Thassa's Oracle
+1 Dragon's Rage Channeler
+1 Elvish Spirit Guide
+1 Kobolds of Kher Keep
+1 Containment Construct
+1 Hermit Druid
+1 Laboratory Maniac
+1 Six
+1 Tormod's Crypt
+1 Fountain of Youth
+1 Chrome Mox
+1 Cathar's Shield
+1 Claws of Gix
+1 Mana Vault
+1 Mox Opal
+1 Kite Shield
+1 Herbal Poultice
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Dark Sphere
+1 Gustha's Scepter
+1 Mox Diamond
+1 Accorder's Shield
+1 Spidersilk Net
+1 Bone Saw
+1 Mox Amber
+1 Welding Jar
+1 Spellbook
+1 Delif's Cone
+1 Zuran Orb
+1 Mishra's Bauble
+1 Defense Grid
+1 Cloudstone Curio
+1 Arcane Signet
+1 Everflowing Chalice
+1 Lotus Petal
+1 Urza's Bauble
+1 Paradise Mantle
+1 Sol Ring
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Crop Rotation
+1 Natural State
+1 Dramatic Reversal
+1 Memory's Journey
+1 Mystical Tutor
+1 Worldly Tutor
+1 Brain Freeze
+1 Final Fortune
+1 Life from the Loam
+1 Mana Severance
+1 Grapeshot
+1 Jeska's Will
+1 Rite of Flame
+1 Faithless Looting
+1 City of Solitude
+1 Song of Creation
+1 Exploration
+1 Wild Growth
+1 Underworld Breach
+1 Breeding Pool
+1 Stomping Ground
+1 Misty Rainforest
+1 Scalding Tarn
+1 Emergence Zone
+1 Steam Vents
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Wooded Foothills
+1 Grove of the Burnwillows
+1 Command Tower
+1 Training Center
+1 Cavern of Souls
+1 Fiery Islet
+1 Thundering Falls
+1 Exotic Orchard
+1 Cephalid Coliseum
+1 Shifting Woodland
+1 Flooded Grove
+1 Riverpyre Verge
+1 Shivan Reef
+1 Yavimaya Coast
+Sideboard
+1 Flubs, the Fool

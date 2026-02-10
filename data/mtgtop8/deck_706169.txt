@@ -1,0 +1,99 @@
+1 Greater Auramancy
+1 Amphibian Downpour
+1 Ghostly Prison
+1 Blind Obedience
+1 Rest in Peace
+1 Rhystic Study
+1 Island Sanctuary
+1 Day's Undoing
+1 Portent of Calamity
+1 Lunar Insight
+1 Solve the Equation
+1 Windfall
+1 Merchant Scroll
+1 Cut a Deal
+1 Idyllic Tutor
+1 Reshape
+1 Tales of the Ancestors
+1 Winds of Abandon
+1 Prosperity
+1 Delay
+1 Paradoxical Outcome
+1 Into the Flood Maw
+1 Arcane Denial
+1 Swords to Plowshares
+1 Silence
+1 Frantic Search
+1 Essence Scatter
+1 Reins of Power
+1 Domineering Will
+1 Even the Score
+1 Snap
+1 Fateful Absence
+1 Words of Wisdom
+1 Unwind
+1 Heliod's Intervention
+1 Vision Skeins
+1 Lotus Petal
+1 Sculpting Steel
+1 Sol Ring
+1 Mana Vault
+1 Memory Jar
+1 Coveted Jewel
+1 Thought Vessel
+1 Arcane Signet
+1 Chromatic Orrery
+1 Azorius Signet
+1 Fellwar Stone
+1 Talisman of Progress
+1 Machine God's Effigy
+1 Relic of Legends
+1 Decanter of Endless Water
+1 Moonsilver Key
+1 Scroll Rack
+1 Aetherflux Reservoir
+1 Mox Opal
+1 Veilstone Amulet
+1 Grafdigger's Cage
+1 Hullbreaker Horror
+1 Transit Mage
+1 Displacer Kitten
+1 Ledger Shredder
+1 Hydroelectric Specimen
+1 Recruiter of the Guard
+1 Glaring Fleshraker
+1 Witch Enchanter
+1 Mangara, the Diplomat
+1 Spellseeker
+1 Faerie Mastermind
+1 Elesh Norn, Mother of Machines
+1 Malevolent Hermit
+1 Spellskite
+1 Ancestral Statue
+1 Phyrexian Metamorph
+1 Reliquary Tower
+1 Boseiju, Who Shelters All
+1 Floodfarm Verge
+1 Talon Gates of Madara
+1 Command Tower
+1 Cavern of Souls
+1 Minamo, School at Water's Edge
+1 Plaza of Heroes
+1 Adarkar Wastes
+1 City of Brass
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Hallowed Fountain
+1 Ancient Tomb
+1 Polluted Delta
+1 Flooded Strand
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Sea of Clouds
+1 Scalding Tarn
+1 Urza's Saga
+2 Plains
+2 Island
+Sideboard
+1 Heliod, the Radiant Dawn

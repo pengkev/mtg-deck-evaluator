@@ -1,0 +1,101 @@
+1 Thieves' Guild Enforcer
+1 Street Wraith
+1 Fourth Bridge Prowler
+1 Wingcrafter
+1 Mothdust Changeling
+1 Changeling Outcast
+1 Faerie Seer
+1 Ingenious Infiltrator
+1 Mistblade Shinobi
+1 Skullsnatcher
+1 Ornithopter
+1 Silver-Fur Master
+1 Thousand-Faced Shadow
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Shadow of Mortality
+1 Thassa's Oracle
+1 Braids, Arisen Nightmare
+1 Roaming Throne
+1 Satoru, the Infiltrator
+1 Grief
+1 Subtlety
+1 Boggart Trawler
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Sakashima's Student
+1 Memnite
+1 Phyrexian Walker
+1 Ghostly Pilferer
+1 Ancient Cellarspawn
+1 Universal Automaton
+1 Aether Vial
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Cabal Ritual
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Commandeer
+1 Gush
+1 Misdirection
+1 Snuff Out
+1 Dark Triumph
+1 Submerge
+1 Force of Despair
+1 Dismember
+1 Disrupting Shoal
+1 Sickening Shoal
+1 Archive Trap
+1 Brainstorm
+1 Dark Ritual
+1 Tainted Pact
+1 Force of Will
+1 Lim-Dul's Vault
+1 Mental Misstep
+1 Deadly Rollick
+1 Mindbreak Trap
+1 Flare of Denial
+1 Flusterstorm
+1 Flare of Malice
+1 Sink into Stupor
+1 Fell the Profane
+1 Demonic Consultation
+1 Fierce Guardianship
+1 Contagion
+1 Ravenous Trap
+1 Force of Negation
+1 Massacre
+1 Gitaxian Probe
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Demonic Tutor
+1 Imperial Seal
+1 Temporal Trespass
+1 Doomsday
+1 Rhystic Study
+1 Mystic Remora
+1 Bloodchief Ascension
+1 Verity Circle
+1 Kaito, Bane of Nightmares
+1 Island
+1 Swamp
+1 Misty Rainforest
+1 Marsh Flats
+1 Polluted Delta
+1 Bloodstained Mire
+1 Verdant Catacombs
+1 Watery Grave
+1 Flooded Strand
+1 Prismatic Vista
+1 Cephalid Coliseum
+1 Shizo, Death's Storehouse
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Morphic Pool
+1 Underground River
+1 Command Tower
+1 Snow-Covered Island
+1 Underground Sea
+Sideboard
+1 Yuriko, the Tiger's Shadow

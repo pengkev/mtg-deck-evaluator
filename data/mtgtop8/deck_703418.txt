@@ -1,0 +1,79 @@
+1 Animar, Soul of Elements
+1 Kiki-Jiki, Mirror Breaker
+1 Shardless Agent
+1 Giant Adephage
+1 Etali, Primal Storm
+1 Rashmi, Eternities Crafter
+1 Nyxbloom Ancient
+1 Progenitor Mimic
+1 Sphinx Ambassador
+1 Shaman of Forgotten Ways
+1 Aggressive Mammoth
+1 Magus of the Mind
+1 Averna, the Chaos Bloom
+1 Aurora Phoenix
+1 Imoti, Celebrant of Bounty
+1 Sakashima's Protege
+1 Avenger of Zendikar
+1 Diluvian Primordial
+1 Old Gnawbone
+1 Malignus
+1 Karlach, Fury of Avernus
+1 Goreclaw, Terror of Qal Sisma
+1 Arcanis the Omnipotent
+1 Inferno Titan
+1 Thryx, the Sudden Storm
+1 Lara Croft, Tomb Raider
+1 Apex Devastator
+1 Goldspan Dragon
+1 Kodama of the East Tree
+1 Clever Impersonator
+1 Zealous Conscripts
+1 Elder Gargaroth
+1 Thran Dynamo
+1 Sol Ring
+1 Gilded Lotus
+1 Brainstorm
+1 Mystical Tutor
+1 Release to the Wind
+1 Cultivate
+1 Explore
+1 Rampant Growth
+1 Disaster Radius
+1 Unexpected Results
+1 Skyshroud Claim
+1 Mind's Desire
+1 Genesis Ultimatum
+1 Karn's Temporal Sundering
+1 Boundless Realms
+1 Ranger's Path
+1 Alrund's Epiphany
+1 Time Warp
+1 Majestic Genesis
+1 Traverse the Outlands
+1 Slimefoot's Survey
+1 Tooth and Nail
+1 Fiery Emancipation
+1 Warstorm Surge
+1 The World Spell
+1 Storm of Saruman
+1 Rain of Riches
+1 Jace, the Mind Sculptor
+1 Garruk Wildspeaker
+7 Island
+1 Command Tower
+1 Evolving Wilds
+1 Frontier Bivouac
+1 Lotus Field
+1 Exotic Orchard
+1 Myriad Landscape
+1 Sanctum of Eternity
+1 Mosswort Bridge
+1 Frostboil Snarl
+1 Misty Rainforest
+1 Dreamroot Cascade
+1 Command Beacon
+12 Forest
+6 Mountain
+Sideboard
+1 Maelstrom Wanderer

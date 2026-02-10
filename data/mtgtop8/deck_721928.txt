@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Allosaurus Shepherd
+1 Pili-Pala
+1 Wandering Archaic
+1 Esper Sentinel
+1 Endurance
+1 Oswald Fiddlebender
+1 Archivist of Oghma
+1 Delighted Halfling
+1 Destiny Spinner
+1 Kutzil, Malamet Exemplar
+1 Runic Armasaur
+1 Ranger-Captain of Eos
+1 Grand Abolisher
+1 Llanowar Elves
+1 Elvish Spirit Guide
+1 Haywire Mite
+1 Marvin, Murderous Mimic
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Thousand-Year Elixir
+1 Mox Opal
+1 Mox Diamond
+1 Mox Amber
+1 Birthing Pod
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Talisman of Unity
+1 Lavaspur Boots
+1 Vexing Bauble
+1 Umbral Mantle
+1 Lightning Greaves
+1 Chrome Mox
+1 Selesnya Signet
+1 Veil of Summer
+1 Mandate of Peace
+1 Chord of Calling
+1 Silence
+1 Crop Rotation
+1 Congregation at Dawn
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Vitalize
+1 Worldly Tutor
+1 Legolas's Quick Reflexes
+1 Path to Exile
+1 Angel's Grace
+1 Force of Vigor
+1 Swords to Plowshares
+1 Steelshaper's Gift
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Sevinne's Reclamation
+1 Mobilize
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Sylvan Library
+1 Concordant Crossroads
+1 Survival of the Fittest
+1 Instill Energy
+1 Nature's Chosen
+1 Urza's Saga
+1 Smothering Tithe
+1 Utopia Sprawl
+1 Carpet of Flowers
+1 Trouble in Pairs
+1 Wild Growth
+1 Birthing Ritual
+1 Invasion of Ikoria
+1 City of Brass
+1 Verdant Catacombs
+1 Emergence Zone
+1 Mana Confluence
+1 Temple Garden
+1 Winding Canyons
+1 Gaea's Cradle
+1 Strip Mine
+1 Savannah
+1 Gemstone Caverns
+1 Forbidden Orchard
+1 Arid Mesa
+1 Misty Rainforest
+1 Ancient Den
+1 Command Tower
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Branchloft Pathway
+1 Cavern of Souls
+1 War Room
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Tree of Tales
+1 Forest
+1 Plains
+Sideboard
+1 Selvala, Explorer Returned

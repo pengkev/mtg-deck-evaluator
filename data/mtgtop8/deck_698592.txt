@@ -1,0 +1,102 @@
+1 Ghostly Pilferer
+1 Razaketh, the Foulblooded
+1 Ranger-Captain of Eos
+1 Chancellor of the Annex
+1 Spellskite
+1 Consecrated Sphinx
+1 Gilded Drake
+1 Drannith Magistrate
+1 Notion Thief
+1 Leveler
+1 Tireless Tribe
+1 Trinket Mage
+1 Esper Sentinel
+1 Ledger Shredder
+1 Archivist of Oghma
+1 Thassa's Oracle
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Grand Abolisher
+1 Psychic Frog
+1 Opposition Agent
+1 Mockingbird
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Mana Vault
+1 Talisman of Hierarchy
+1 Lion's Eye Diamond
+1 Sol Ring
+1 Chrome Mox
+1 Fellwar Stone
+1 Mox Diamond
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Arcane Signet
+1 Mox Amber
+1 Springleaf Drum
+1 The One Ring
+1 Mox Opal
+1 Mana Drain
+1 Culling the Weak
+1 Pact of Negation
+1 Silence
+1 Stifle
+1 Dark Ritual
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Demonic Consultation
+1 Swords to Plowshares
+1 Dispel
+1 Swan Song
+1 Flusterstorm
+1 Spell Pierce
+1 Tainted Pact
+1 Soul Partition
+1 Sink into Stupor
+1 Force of Negation
+1 Fierce Guardianship
+1 Mental Misstep
+1 Force of Will
+1 Deadly Rollick
+1 Mindbreak Trap
+1 Diabolic Intent
+1 Reanimate
+1 Demonic Tutor
+1 Sunset Revelry
+1 Praetor's Grasp
+1 Smothering Tithe
+1 Rhystic Study
+1 Necropotence
+1 Urza's Saga
+1 Mystic Remora
+1 Forbidden Orchard
+1 Exotic Orchard
+1 Morphic Pool
+1 Sea of Clouds
+1 Godless Shrine
+1 Watery Grave
+1 Spire of Industry
+1 Ancient Tomb
+1 City of Brass
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Gemstone Caverns
+1 Windswept Heath
+1 Verdant Catacombs
+1 Vault of Champions
+1 Hallowed Fountain
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Command Tower
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Undercity Sewers
+1 Island
+Sideboard
+1 Hashaton, Scarab's Fist

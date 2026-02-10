@@ -1,0 +1,83 @@
+1 Suspicious Bookcase
+1 Overgrown Battlement
+1 Wall of Tanglecord
+1 Vine Trellis
+1 Indomitable Ancients
+1 Wall of Omens
+1 Welcoming Vampire
+1 Doran, the Siege Tower
+1 Nethroi, Apex of Death
+1 Walking Bulwark
+1 Bedrock Tortoise
+1 MacCready, Lamplight Mayor
+1 Crystal Barricade
+1 Tree of Perdition
+1 Baldin, Century Herdmaster
+1 Arbor Adherent
+1 Canopy Gargantuan
+1 Rampart Architect
+1 Tree of Redemption
+1 Crashing Drawbridge
+1 Sylvan Caryatid
+1 Wall of Blossoms
+1 Weathered Sentinels
+1 Dragonlord Dromoka
+1 Carven Caryatid
+1 Ikra Shidiqi, the Usurper
+1 Wall of Roots
+1 Towering Titan
+1 Axebane Guardian
+1 Zetalpa, Primal Dawn
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Sol Ring
+1 Arcane Signet
+1 Orzhov Signet
+1 Talisman of Unity
+1 Colfenor's Urn
+1 Golgari Charm
+1 Riot Control
+1 Fracture
+1 Path to Exile
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Stroke of Midnight
+1 Slaughter the Strong
+1 Cultivate
+1 Farseek
+1 Last March of the Ents
+1 Diresight
+1 Dusk/Dawn
+1 Reunion of the House
+1 Tip the Scales
+1 Will of the Abzan
+1 Expel the Interlopers
+1 Treefolk Umbra
+1 Unnatural Growth
+1 Stoneskin
+1 Smuggler's Share
+1 Phyrexian Arena
+1 Jaws of Defeat
+1 Behind the Scenes
+1 Assault Formation
+1 Sunpetal Grove
+1 Bojuka Bog
+1 Woodland Cemetery
+1 Access Tunnel
+1 Exotic Orchard
+1 Command Tower
+1 Canopy Vista
+1 Fortified Village
+1 Sungrass Prairie
+1 Overgrown Farmland
+1 Wastewood Verge
+1 Isolated Chapel
+1 Fetid Heath
+1 Sandsteppe Citadel
+1 Deceptive Landscape
+1 Twilight Mire
+8 Forest
+7 Plains
+6 Swamp
+Sideboard
+1 Felothar the Steadfast

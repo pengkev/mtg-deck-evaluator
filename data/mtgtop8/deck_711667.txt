@@ -1,0 +1,82 @@
+1 Akroma's Will
+1 All That Glitters
+1 Alpha Authority
+1 Alseid of Life's Bounty
+1 Ancestral Mask
+1 Angel's Grace
+1 Arcane Signet
+1 Armadillo Cloak
+1 Audacity
+1 Aura of Silence
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Blind Obedience
+1 Bountiful Promenade
+1 Brushland
+1 Calix, Destiny's Hand
+1 Canopy Cover
+1 Canopy Vista
+1 Command Tower
+1 Composer of Spring
+1 Delighted Halfling
+1 Destiny Spinner
+1 Doubling Season
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Esper Sentinel
+1 Ethereal Armor
+1 Flawless Maneuver
+10 Forest
+1 Ghostly Prison
+1 Grand Abolisher
+1 Grasp of Fate
+1 Gryff's Boon
+1 Hall of Heliod's Generosity
+1 Hallowed Haunting
+1 Helm of the Gods
+1 Herald of the Pantheon
+1 Hurricane
+1 Hushwood Verge
+1 Hyena Umbra
+1 Instill Energy
+1 Jukai Naturalist
+1 Kor Spiritdancer
+1 Kutzil, Malamet Exemplar
+1 Legolas's Quick Reflexes
+1 Light-Paws, Emperor's Voice
+1 Lotus Petal
+1 Mantle of the Ancients
+1 Mark of Sakiko
+1 Nature's Claim
+1 Overgrown Farmland
+1 Paladin Class
+1 Pearl-Ear, Imperial Advisor
+11 Plains
+1 Rancor
+1 Resurgent Belief
+1 Sage's Reverie
+1 Sanctum Weaver
+1 Season of Growth
+1 Second Harvest
+1 Setessan Champion
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Shield of the Oversoul
+1 Silence
+1 Sol Ring
+1 Spirit Mantle
+1 Sram, Senior Edificer
+1 Sterling Grove
+1 Strength of the Harvest
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 Temple Garden
+1 Tyvar's Stand
+1 Unflinching Courage
+1 Utopia Sprawl
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Calix, Guided by Fate

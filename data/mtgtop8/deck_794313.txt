@@ -1,0 +1,90 @@
+1 Gix, Yawgmoth Praetor
+1 Kardur, Doomscourge
+1 Squall, Gunblade Duelist
+1 Kambal, Profiteering Mayor
+1 Shadrix Silverquill
+1 Mathas, Fiend Seeker
+1 Gonti, Night Minister
+1 Locke, Treasure Hunter
+1 The Lord of Pain
+1 Humble Defector
+1 Decadent Dragon
+1 Kain, Traitorous Dragoon
+1 Loran of the Third Path
+1 Olivia, Opulent Outlaw
+1 Selfless Squire
+1 Nelly Borca, Impulsive Accuser
+1 Breena, the Demagogue
+1 Generous Plunderer
+1 Mangara, the Diplomat
+1 Professional Face-Breaker
+1 Lotho, Corrupt Shirriff
+1 Combat Calligrapher
+1 Keen Duelist
+1 Carmen, Cruel Skymarcher
+1 Gisela, Blade of Goldnight
+1 Kunoros, Hound of Athreos
+1 Brash Taunter
+1 Arcane Signet
+1 Sol Ring
+1 Archaeomancer's Map
+1 Talisman of Indulgence
+1 Sunforger
+1 Wishclaw Talisman
+1 Fellwar Stone
+1 Talisman of Hierarchy
+1 Talisman of Conviction
+1 Inevitable Defeat
+1 Path to Exile
+1 Reprieve
+1 Wild Ricochet
+1 Swords to Plowshares
+1 Boros Charm
+1 Comeuppance
+1 Deflecting Palm
+1 Olorin's Searing Light
+1 Take the Bait
+1 Anguished Unmaking
+1 Riot Control
+1 Generous Gift
+1 Return the Favor
+1 Untimely Malfunction
+1 Crackling Doom
+1 Rakdos Charm
+1 Blasphemous Act
+1 Ruinous Ultimatum
+1 Promise of Loyalty
+1 Forging the Tyrite Sword
+1 Curse of Opulence
+1 Parker Luck
+1 Street Urchin
+1 Cunning Rhetoric
+1 Duelist's Heritage
+1 The Eternal Wanderer
+1 Rakdos Carnarium
+4 Swamp
+1 Rugged Prairie
+1 Fetid Heath
+1 Labyrinth of Skophos
+1 Isolated Chapel
+1 Caves of Koilos
+1 Sulfurous Springs
+1 Path of Ancestry
+1 Clifftop Retreat
+1 Shadowblood Ridge
+1 Exotic Orchard
+1 Orzhov Basilica
+1 Nomad Outpost
+1 Graven Cairns
+5 Mountain
+1 Command Tower
+1 Bojuka Bog
+5 Plains
+1 Canyon Slough
+1 Battlefield Forge
+1 Shattered Landscape
+1 Dragonskull Summit
+1 Desolate Mire
+1 Boros Garrison
+Sideboard
+1 Queen Marchesa

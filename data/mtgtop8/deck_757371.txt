@@ -1,0 +1,95 @@
+1 Baral, Chief of Compliance
+1 Birgi, God of Storytelling
+1 Clever Impersonator
+1 Faerie Mastermind
+1 Firebrand Archer
+1 Harmonic Prodigy
+1 High Fae Trickster
+1 Kraum, Ludevic's Opus
+1 Marvin, Murderous Mimic
+1 Mockingbird
+1 Pollywog Prodigy
+1 Ragavan, Nimble Pilferer
+1 Razorkin Needlehead
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Tandem Lookout
+1 Triskaidekaphile
+1 Valley Floodcaller
+1 Wandering Archaic
+1 Arcane Signet
+1 Commander's Sphere
+1 Grinding Station
+1 Izzet Signet
+1 Lotus Petal
+1 Mox Amber
+1 Mox Opal
+1 Paradise Mantle
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Creativity
+1 The Ozolith
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Brainstorm
+1 Counterspell
+1 Dramatic Reversal
+1 Final Fortune
+1 Flame of Anor
+1 Flusterstorm
+1 Force of Negation
+1 Frantic Search
+1 Increasing Vengeance
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Opt
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Retraction Helix
+1 Seething Song
+1 Snap
+1 Swan Song
+1 Displacement Wave
+1 Echo of Eons
+1 Gitaxian Probe
+1 Rite of Flame
+1 Strike It Rich
+1 Timetwister
+1 Vandalblast
+1 Wheel of Fortune
+1 Windfall
+1 Copy Enchantment
+1 Curiosity
+1 Mystic Remora
+1 Ophidian Eye
+1 Ral, Crackling Wit
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Frostboil Snarl
+1 Gemstone Caverns
+4 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+4 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverglide Pathway
+1 Scalding Tarn
+1 Starting Town
+1 Steam Vents
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Vivi Ornitier

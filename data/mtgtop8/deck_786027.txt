@@ -1,0 +1,101 @@
+1 Consecrated Sphinx
+1 Dauthi Voidwalker
+1 Faerie Mastermind
+1 Mockingbird
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phyrexian Metamorph
+1 Rug of Smothering
+1 Sakashima the Impostor
+1 Scrawling Crawler
+1 Sheoldred, the Apocalypse
+1 Snapcaster Mage
+1 Spark Double
+1 Thassa's Oracle
+1 Dimir Signet
+1 Grafdigger's Cage
+1 Mana Vault
+1 Mishra's Bauble
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Teferi's Puzzle Box
+1 The One Ring
+1 Tormod's Crypt
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Delay
+1 Demonic Consultation
+1 Dispel
+1 Drown in the Loch
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Memory Lapse
+1 Mental Misstep
+1 Mystical Tutor
+1 Negate
+1 Pongify
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Waterlogged Teachings
+1 Cruelclaw's Heist
+1 Dark Deal
+1 Demonic Tutor
+1 Toxic Deluge
+1 Whispering Madness
+1 Bitterblossom
+1 Bloodchief Ascension
+1 Imprisoned in the Moon
+1 Liliana's Caress
+1 Mystic Remora
+1 Rhystic Study
+1 The Meathook Massacre
+1 Ashiok, Dream Render
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Ancient Tomb
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Cabal Coffers
+1 Cascading Cataracts
+1 Cephalid Coliseum
+1 Darkslick Shores
+1 Exotic Orchard
+1 Fabled Passage
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Hive of the Eye Tyrant
+1 Island
+1 Minamo, School at Water's Edge
+1 Oboro, Palace in the Clouds
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Seat of the Synod
+1 Shipwreck Marsh
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Strip Mine
+1 Sunken Hollow
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Terramorphic Expanse
+1 Underground River
+1 Urborg
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Watery Grave
+Sideboard
+1 Talion, the Kindly Lord

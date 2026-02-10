@@ -1,0 +1,84 @@
+1 Archivist of Oghma
+1 Deep Gnome Terramancer
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Foundry Inspector
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Liberator, Urza's Battlethopter
+1 Marvin, Murderous Mimic
+1 Myr Retriever
+1 Myr Welder
+1 Ranger-Captain of Eos
+1 Scrap Trawler
+1 Shimmer Myr
+1 Skittering Cicada
+1 Voice of Victory
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Clock of Omens
+1 Cloud Key
+1 Commander's Plate
+1 Damping Sphere
+1 Defense Grid
+1 Everflowing Chalice
+1 Expedition Map
+1 Fellwar Stone
+1 Goblin Cannon
+1 Grim Monolith
+1 Illusionist's Bracers
+1 Krark-Clan Ironworks
+1 Liquimetal Torque
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Patriar's Seal
+1 Portable Hole
+1 Rings of Brighthearth
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 The One Ring
+1 Thousand-Year Elixir
+1 Thran Dynamo
+1 Trinisphere
+1 Unwinding Clock
+1 Vexing Bauble
+1 Voltaic Key
+1 Winter Moon
+1 Disenchant
+1 Enlightened Tutor
+1 Silence
+1 Swords to Plowshares
+1 Tithe
+1 Blind Obedience
+1 Land Tax
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 Urza's Saga
+1 Ancient Den
+1 Ancient Tomb
+1 City of Traitors
+1 Darksteel Citadel
+1 Emergence Zone
+1 Fomori Vault
+1 Gemstone Caverns
+1 Mishra's Workshop
+18 Plains
+1 Strip Mine
+1 The Mycosynth Gardens
+1 Treasure Vault
+Sideboard
+1 Oswald Fiddlebender

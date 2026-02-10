@@ -1,0 +1,101 @@
+1 Urza, Lord High Artificer
+1 Palladium Myr
+1 Voltaic Construct
+1 Arcum Dagsson
+1 Silver Myr
+1 Kinnan, Bonder Prodigy
+1 Plague Myr
+1 Phyrexian Metamorph
+1 Ethersworn Canonist
+1 Copper Myr
+1 Kuldotha Forgemaster
+1 Leaden Myr
+1 Etherium Sculptor
+1 Iron Myr
+1 Metalworker
+1 Treasure Nabber
+1 Myr Convert
+1 Shimmer Myr
+1 The Reality Chip
+1 Gold Myr
+1 Myr Galvanizer
+1 Esper Sentinel
+1 Filigree Sages
+1 Oswald Fiddlebender
+1 Displacer Kitten
+1 Dusk Rose Reliquary
+1 Thousand-Year Elixir
+1 Repurposing Bay
+1 Wishclaw Talisman
+1 Clock of Omens
+1 Portable Hole
+1 Chromatic Orrery
+1 Sensei's Divining Top
+1 Mox Opal
+1 Timeless Lotus
+1 Krark-Clan Ironworks
+1 Mana Vault
+1 Grim Monolith
+1 Lotus Petal
+1 The One Ring
+1 Voltaic Key
+1 Rings of Brighthearth
+1 Agatha's Soul Cauldron
+1 Manifold Key
+1 Unwinding Clock
+1 Time Sieve
+1 Semblance Anvil
+1 Arcane Signet
+1 Vexing Bauble
+1 Crystal Skull, Isu Spyglass
+1 Birthing Pod
+1 Lightning Greaves
+1 Sol Ring
+1 Isochron Scepter
+1 Basalt Monolith
+1 Sonic Screwdriver
+1 Myr Turbine
+1 Staff of Domination
+1 Mystic Forge
+1 Elixir of Immortality
+1 An Offer You Can't Refuse
+1 Mana Drain
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Silence
+1 Muddle the Mixture
+1 Arcane Denial
+1 Demonic Tutor
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Crystal Quarry
+1 Forest
+1 Forbidden Orchard
+1 Island
+1 Mishra's Workshop
+1 Treasure Vault
+1 Mountain
+1 Exotic Orchard
+1 Starting Town
+1 Spire of Industry
+1 City of Brass
+1 Inventors' Fair
+1 Cascading Cataracts
+1 Command Tower
+1 Plains
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Prismatic Vista
+1 The Mycosynth Gardens
+1 Boseiju, Who Endures
+1 Fomori Vault
+1 Swamp
+1 Ancient Tomb
+1 Glimmervoid
+Sideboard
+1 Urtet, Remnant of Memnarch

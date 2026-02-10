@@ -1,0 +1,96 @@
+1 Kenrith, the Returned King
+1 Birds of Paradise
+1 Bloom Tender
+1 Selvala, Heart of the Wilds
+1 Kethis, the Hidden Hand
+1 Najeela, the Blade-Blossom
+1 Kari Zev, Skyship Raider
+1 Sisay, Weatherlight Captain
+1 Faeburrow Elder
+1 Samut, Voice of Dissent
+1 Jegantha, the Wellspring
+1 Surrak Dragonclaw
+1 Linvala, Shield of Sea Gate
+1 Rograkh, Son of Rohgahh
+1 Esika, God of the Tree
+1 Elesh Norn, Grand Cenobite
+1 Etali, Primal Storm
+1 Halana and Alena, Partners
+1 Jacob Hauken, Inspector
+1 Jin-Gitaxias, Progress Tyrant
+1 Jetmir, Nexus of Revels
+1 Ratadrabik of Urborg
+1 Mishra, Tamer of Mak Fawa
+1 Jhoira, Weatherlight Captain
+1 Ashnod, Flesh Mechanist
+1 Gwenna, Eyes of Gaea
+1 Inga and Esika
+1 Djeru and Hazoret
+1 Boromir, Warden of the Tower
+1 Aragorn, the Uniter
+1 Pippin, Guard of the Citadel
+1 Ruby, Daring Tracker
+1 Shalai, Voice of Plenty
+1 Kutzil, Malamet Exemplar
+1 Kellan, the Kid
+1 Satoru, the Infiltrator
+1 Kudo, King Among Bears
+1 Captain Sisay
+1 Arcane Signet
+1 Chromatic Lantern
+1 Sol Ring
+1 Helm of the Host
+1 Swiftfoot Boots
+1 Blackblade Reforged
+1 Relic of Legends
+1 Heroes' Podium
+1 Despark
+1 Path to Exile
+1 Deflecting Palm
+1 Void Rend
+1 Anguished Unmaking
+1 Cultivate
+1 Kodama's Reach
+1 Blasphemous Act
+1 Primevals' Glorious Rebirth
+1 Urza's Ruinous Blast
+1 Ruinous Ultimatum
+1 Land Tax
+1 Maelstrom Nexus
+1 Mirari's Wake
+1 Leyline of the Guildpact
+1 Rakdos Joins Up
+1 Annie Joins Up
+1 Invasion of Fiora
+1 Nicol Bolas, Dragon-God
+1 Kaya the Inexorable
+2 Island
+2 Mountain
+2 Plains
+2 Swamp
+2 Forest
+1 Orzhov Basilica
+1 Azorius Chancery
+1 Dimir Aqueduct
+1 Boros Garrison
+1 Command Tower
+1 Exotic Orchard
+1 Izzet Boilerworks
+1 Selesnya Sanctuary
+1 Yavimaya Coast
+1 Path of Ancestry
+1 The World Tree
+1 Tyrite Sanctum
+1 Rockfall Vale
+1 Sokenzan, Crucible of Defiance
+1 Plaza of Heroes
+1 Maze of Ith
+1 Botanical Sanctum
+1 Reliquary Tower
+1 Karplusan Forest
+1 Caves of Koilos
+1 Shattered Sanctum
+1 Dreamroot Cascade
+1 Llanowar Wastes
+Sideboard
+1 Jodah, the Unifier

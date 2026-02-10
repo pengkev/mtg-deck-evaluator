@@ -1,0 +1,91 @@
+1 Hanweir Militia Captain
+1 Bounty Agent
+1 Species Specialist
+1 Xathrid Necromancer
+1 Angel of Glory's Rise
+1 Champion of the Parish
+1 General Kudro of Drannith
+1 Jerren, Corrupted Bishop
+1 Thalia's Lieutenant
+1 High Priest of Penance
+1 Bloodsoaked Champion
+1 Zulaport Cutthroat
+1 Alesha, Who Smiles at Death
+1 Hero of Precinct One
+1 Thalia, Guardian of Thraben
+1 Denethor, Ruling Steward
+1 Eomer, King of Rohan
+1 Frontline Medic
+1 Judith, the Scourge Diva
+1 Tithe Taker
+1 General's Enforcer
+1 Loran of the Third Path
+1 Verge Rangers
+1 Thalia, Heretic Cathar
+1 Fiend Hunter
+1 Mentor of the Meek
+1 Mardu Devotee
+1 Adeline, Resplendent Cathar
+1 Selfless Spirit
+1 Brutal Cathar
+1 Boromir, Warden of the Tower
+1 Grand Abolisher
+1 Alesha, Who Laughs at Fate
+1 Skullclamp
+1 Herald's Horn
+1 Commander's Sphere
+1 Arcane Signet
+1 Sol Ring
+1 Lightning Greaves
+1 Horn of Gondor
+1 Repel the Abominable
+1 Chance for Glory
+1 Dire Tactics
+1 Call the Coppercoats
+1 Despark
+1 Akroma's Will
+1 Village Rites
+1 Flare of Fortitude
+1 Mortify
+1 Flawless Maneuver
+1 Duty Beyond Death
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Boros Charm
+1 Increasing Devotion
+1 Ruinous Ultimatum
+1 Dusk/Dawn
+1 Vigilante Justice
+1 Caretaker's Talent
+1 Bastion of Remembrance
+1 Warleader's Call
+1 Wedding Announcement
+1 Elspeth, Storm Slayer
+3 Mountain
+3 Swamp
+7 Plains
+1 Godless Shrine
+1 Spinerock Knoll
+1 Minas Tirith
+1 Rakdos Carnarium
+1 Orzhov Basilica
+1 Unclaimed Territory
+1 Fabled Passage
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Temple of Malice
+1 Command Tower
+1 Scoured Barrens
+1 Wind-Scarred Crag
+1 Exotic Orchard
+1 Battlefield Forge
+1 Evolving Wilds
+1 Path of Ancestry
+1 Bojuka Bog
+1 Caves of Koilos
+1 Nomad Outpost
+1 Castle Ardenvale
+1 Windbrisk Heights
+1 Terramorphic Expanse
+Sideboard
+1 Caesar, Legion's Emperor

@@ -1,0 +1,79 @@
+1 Altar of the Wretched
+1 Avenger of Zendikar
+1 Clackbridge Troll
+1 Daemogoth Titan
+1 Daemogoth Woe-Eater
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Grim Wanderer
+1 Honest Rutstein
+1 Hunted Bonebrute
+1 Hunted Horror
+1 Jarad, Golgari Lich Lord
+1 Multani, Yavimaya's Avatar
+1 Ob Nixilis, the Fallen
+1 Old Man Willow
+1 Outcaster Trailblazer
+1 Phytotitan
+1 Psychosis Crawler
+1 Pugnacious Hammerskull
+1 Railway Brawler
+1 Rampaging Baloths
+1 Rampant Frogantua
+1 Rotting Regisaur
+1 Ruthless Technomancer
+1 Sakura-Tribe Elder
+1 Shakedown Heavy
+1 Topiary Stomper
+1 Vindictive Lich
+1 Wayward Swordtooth
+1 Yargle and Multani
+1 Yargle, Glutton of Urborg
+1 Zopandrel, Hunger Dominus
+1 Arcane Signet
+1 Basilisk Collar
+1 Lightning Greaves
+1 Sol Ring
+1 Talisman of Resilience
+1 The Skullspore Nexus
+1 Thought Vessel
+1 Whispersilk Cloak
+1 Assassin's Trophy
+1 Force of Vigor
+1 Not Dead After All
+1 Putrefy
+1 Rushed Rebirth
+1 Supernatural Stamina
+1 Tear Asunder
+1 Undying Malice
+1 Bala Ged Recovery
+1 Culling Ritual
+1 Cultivate
+1 Exsanguinate
+1 Pillage the Bog
+1 Rampant Growth
+1 Rise of the Witch-King
+1 Rishkar's Expertise
+1 Rite of Consumption
+1 Skyshroud Claim
+1 Abundance
+1 Death's Presence
+1 Garruk's Uprising
+1 Kaya's Ghostform
+1 Retreat to Hagra
+1 Spelunking
+1 Unnatural Growth
+1 Blighted Woodland
+1 Blooming Marsh
+1 Command Tower
+1 Exotic Orchard
+11 Forest
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+13 Swamp
+1 Woodland Chasm
+Sideboard
+1 The Gitrog, Ravenous Ride

@@ -1,0 +1,99 @@
+1 Accursed Marauder
+1 Activated Sleeper
+1 Allosaurus Shepherd
+1 Apprentice Necromancer
+1 Badgermole Cub
+1 Birds of Paradise
+1 Braids, Arisen Nightmare
+1 Carrion Feeder
+1 Collector Ouphe
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Endurance
+1 Eternal Witness
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Haywire Mite
+1 Llanowar Elves
+1 Mikaeus, the Unhallowed
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Plaguecrafter
+1 Protean Hulk
+1 Sylvan Safekeeper
+1 Viscera Seer
+1 Walking Ballista
+1 Witherbloom Apprentice
+1 Yawgmoth, Thran Physician
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Skullclamp
+1 Sol Ring
+1 The One Ring
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Culling the Weak
+1 Dark Ritual
+1 Entomb
+1 Noxious Revival
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Buried Alive
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Footsteps of the Goryo
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Life/Death
+1 Natural Order
+1 Reanimate
+1 Toxic Deluge
+1 Unmarked Grave
+1 Animate Dead
+1 Necromancy
+1 Necropotence
+1 Pattern of Rebirth
+1 Root Maze
+1 Survival of the Fittest
+1 Sylvan Library
+1 Urza's Saga
+1 Wild Growth
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Command Tower
+1 Dryad Arbor
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 High Market
+1 Llanowar Wastes
+1 Marsh Flats
+1 Misty Rainforest
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Prismatic Vista
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Meren of Clan Nel Toth

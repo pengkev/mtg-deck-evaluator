@@ -1,0 +1,81 @@
+1 Grapeshot
+1 Heat Shimmer
+1 Gitaxian Probe
+1 Twinflame
+1 Void Snare
+1 Renegade Tactics
+1 An Offer You Can't Refuse
+1 Unsubstantiate
+1 Might of the Meek
+1 Consider
+1 Remand
+1 Quicken
+1 Muddle the Mixture
+1 Borne Upon a Wind
+1 Prologue to Phyresis
+1 Snap
+1 Disrupt
+1 Underworld Breach
+1 Electroduplicate
+1 Solve the Equation
+1 Faithless Looting
+1 Molten Duplication
+1 Preordain
+1 Sleight of Hand
+1 Overmaster
+1 Gamble
+1 End the Festivities
+1 Strike It Rich
+1 Step Through
+1 Rite of Flame
+1 Frantic Search
+1 Izzet Signet
+1 Arcane Signet
+1 Springleaf Drum
+1 Sol Ring
+1 Relic of Legends
+1 Lightning Bolt
+1 Invoke Calamity
+1 Mogg Salvage
+1 High Tide
+1 Negate
+1 Opt
+1 Fury Storm
+1 Expedite
+1 Talisman of Creativity
+1 Brightstone Ritual
+1 Stern Dismissal
+1 Mizzium Skin
+1 Brainstorm
+1 Gut Shot
+1 Peek
+1 Mission Briefing
+1 Desperate Ritual
+1 Miscast
+1 Thought Scour
+1 Mana Leak
+1 Archmage of Runes
+1 Pinnacle Monk
+1 Ashling, Flame Dancer
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Harmonic Prodigy
+1 Archmage Emeritus
+1 Veyran, Voice of Duality
+1 Simian Spirit Guide
+1 Esior, Wardwing Familiar
+1 Dualcaster Mage
+1 Runaway Steam-Kin
+1 Guttersnipe
+1 Drift of Phantasms
+1 Forgotten Cave
+1 Shivan Reef
+1 Lonely Sandbar
+1 Sulfur Falls
+1 Command Tower
+1 Mystic Sanctuary
+11 Island
+11 Mountain
+Sideboard
+1 Sakashima of a Thousand Faces
+1 Krark, the Thumbless

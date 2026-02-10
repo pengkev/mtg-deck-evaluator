@@ -1,0 +1,92 @@
+1 Agatha's Soul Cauldron
+1 Badlands
+1 Barkform Harvester
+1 Battle Cry Goblin
+1 Blackcleave Cliffs
+1 Blightstep Pathway
+1 Blood Crypt
+1 Boggart Trawler
+1 Braid of Fire
+1 Brash Taunter
+1 Castle Embereth
+1 Cavern of Souls
+1 Chthonian Nightmare
+1 Command Tower
+1 Conspicuous Snoop
+1 Deadly Rollick
+1 Deflecting Swat
+1 Draconautics Engineer
+1 Dragonskull Summit
+1 Ember Hauler
+1 Exotic Orchard
+1 Fatal Push
+1 Frogtosser Banneret
+1 Fury
+1 Gempalm Incinerator
+1 Ghostfire Slice
+1 Go for the Throat
+1 Goblin Bombardment
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+1 Goblin Grenade
+1 Goblin King
+1 Goblin Lackey
+1 Goblin Lookout
+1 Goblin Matron
+1 Goblin Recruiter
+1 Goblin Sharpshooter
+1 Goblin Sledder
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Graven Cairns
+1 Haunted Ridge
+1 Hobgoblin Bandit Lord
+1 Howlsquad Heavy
+1 Imperial Recruiter
+1 Impulsive Pilferer
+1 Infernal Grasp
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Legion Loyalist
+1 Legion Warboss
+1 Lightning Bolt
+1 Luxury Suite
+1 Mad Auntie
+1 Mana Echoes
+1 Metallic Mimic
+1 Mogg Raider
+6 Mountain
+1 Mox Amber
+1 Munitions Expert
+1 Murderous Redcap
+1 Nykthos, Shrine to Nyx
+1 Orcish Bowmasters
+1 Pashalik Mons
+1 Path of Ancestry
+1 Patriarch's Bidding
+1 Pyroblast
+1 Red Elemental Blast
+1 Reflecting Pool
+1 Secluded Courtyard
+1 Shinka, the Bloodsoaked Keep
+1 Shizo, Death's Storehouse
+1 Skirk Prospector
+1 Skullclamp
+1 Sling-Gang Lieutenant
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Spikeshot Goblin
+1 Stalactite Stalker
+1 Sulfurous Springs
+5 Swamp
+1 Takenuma, Abandoned Mire
+1 Thran Turbine
+1 Tin Street Dodger
+1 Tragic Slip
+1 Unclaimed Territory
+1 Unearth
+1 Warren Instigator
+1 Withering Torment
+Sideboard
+1 Grenzo, Dungeon Warden

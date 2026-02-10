@@ -1,0 +1,97 @@
+1 Eternal Scourge
+1 Zulaport Cutthroat
+1 Mikaeus, the Unhallowed
+1 Birds of Paradise
+1 Collector Ouphe
+1 Manglehorn
+1 Elves of Deep Shadow
+1 Orcish Lumberjack
+1 Allosaurus Shepherd
+1 Protean Hulk
+1 Purphoros, God of the Forge
+1 Arbor Elf
+1 Bloom Tender
+1 Opposition Agent
+1 Fyndhorn Elves
+1 Simian Spirit Guide
+1 Wandering Archaic
+1 Ragavan, Nimble Pilferer
+1 Endurance
+1 Magus of the Moon
+1 Squee, the Immortal
+1 Eternal Witness
+1 Delighted Halfling
+1 Destiny Spinner
+1 Elvish Mystic
+1 Ignoble Hierarch
+1 Selvala, Heart of the Wilds
+1 Llanowar Elves
+1 Agate Instigator
+1 Deathrite Shaman
+1 Blood Artist
+1 Mayhem Devil
+1 Priest of Gix
+1 Somberwald Sage
+1 Dauthi Voidwalker
+1 Walking Ballista
+1 Mana Vault
+1 Uba Mask
+1 Torpor Orb
+1 Nihil Spellbomb
+1 Aether Vial
+1 Umbral Mantle
+1 Sol Ring
+1 Skullclamp
+1 Pyroblast
+1 Dark Ritual
+1 Fire Covenant
+1 Chord of Calling
+1 Nature's Claim
+1 Worldly Tutor
+1 Orcish Cannonade
+1 Vampiric Tutor
+1 Valakut Awakening
+1 Chaos Warp
+1 Abrupt Decay
+1 Noxious Revival
+1 Beast Within
+1 Demonic Tutor
+1 Bitter Ordeal
+1 Dimir Machinations
+1 Green Sun's Zenith
+1 Gamble
+1 Finale of Devastation
+1 Defense of the Heart
+1 Sylvan Library
+1 Food Chain
+1 Wild Growth
+1 Necropotence
+1 Carpet of Flowers
+1 Beastmaster Ascension
+1 Invasion of Ikoria
+1 Domri, Anarch of Bolas
+1 Stomping Ground
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
+1 Blood Crypt
+1 Overgrown Tomb
+1 Swamp
+1 Gaea's Cradle
+1 Badlands
+1 Bayou
+1 Taiga
+1 Bloodstained Mire
+1 Mikokoro, Center of the Sea
+1 Ancient Tomb
+1 Cavern of Souls
+5 Forest
+1 Mountain
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Dryad Arbor
+1 Command Tower
+Sideboard
+1 Prossh, Skyraider of Kher

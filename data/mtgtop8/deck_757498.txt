@@ -1,0 +1,101 @@
+1 Aerith Gainsborough
+1 Boromir, Warden of the Tower
+1 Delighted Halfling
+1 Delney, Streetwise Lookout
+1 Derevi, Empyrial Tactician
+1 Devoted Druid
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Heliod, Sun-Crowned
+1 Hermit Druid
+1 Hullbreaker Horror
+1 Kinnan, Bonder Prodigy
+1 Kutzil, Malamet Exemplar
+1 Laboratory Maniac
+1 Lavinia, Azorius Renegade
+1 Mockingbird
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Thassa's Oracle
+1 Voice of Victory
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 The One Ring
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Dovin's Veto
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Orim's Chant
+1 Path to Exile
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Veil of Summer
+1 Culling Ritual
+1 Demonic Tutor
+1 Grim Tutor
+1 Preordain
+1 Sylvan Tutor
+1 Toxic Deluge
+1 Carpet of Flowers
+1 Darksteel Mutation
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Swift Reconfiguration
+1 Arid Mesa
+1 Bayou
+1 Breeding Pool
+1 Command Tower
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Lush Portico
+1 Marsh Flats
+1 Meticulous Archive
+1 Mistrise Village
+1 Misty Rainforest
+1 Morphic Pool
+1 Overgrown Tomb
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Savannah
+1 Scrubland
+1 Shadowy Backstreet
+1 Starting Town
+1 Takenuma, Abandoned Mire
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Underground Mortuary
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+Sideboard
+1 Thrasios, Triton Hero
+1 Tymna the Weaver

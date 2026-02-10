@@ -1,0 +1,88 @@
+1 Chasm Skulker
+1 Jolrael, Mwonvuli Recluse
+1 Jace's Archivist
+1 Veteran Explorer
+1 Psychosis Crawler
+1 Humble Defector
+1 Heartwood Storyteller
+1 Zenith Chronicler
+1 Magus of the Wheel
+1 Adrix and Nev, Twincasters
+1 Esix, Fractal Bloom
+1 Junk Winder
+1 Sakura-Tribe Elder
+1 Red Death, Shipwrecker
+1 Skullwinder
+1 Scrapshooter
+1 Octomancer
+1 Prosperous Innkeeper
+1 Agate Instigator
+1 Arasta of the Endless Web
+1 Enduring Courage
+1 Scrawling Crawler
+1 Skyserpent Seeker
+1 Gala Greeters
+1 Folio of Fancies
+1 Sol Ring
+1 Howling Mine
+1 Lightning Greaves
+1 Thought Vessel
+1 Thran Dynamo
+1 Arcane Signet
+1 Artifact Mutation
+1 Split Decision
+1 Reins of Power
+1 Harrow
+1 Mystic Reflection
+1 Commit/Memory
+1 Dream Fracture
+1 Theoretical Duplication
+1 Collective Resistance
+1 Long River's Pull
+1 Overprotect
+1 Perplexing Test
+1 Arcane Denial
+1 Molten Psyche
+1 Burning Inquiry
+1 Whelming Wave
+1 Day's Undoing
+1 Windfall
+1 Sundering Eruption
+1 Bridgeworks Battle
+1 Wear Down
+1 Tempt with Discovery
+1 Ezuri's Predation
+1 Goblin Bombardment
+1 Curse of Opulence
+1 Beastmaster Ascension
+1 Curse of Verbosity
+1 Roar of Resistance
+1 Impact Tremors
+1 Court of Embereth
+1 Rites of Flourishing
+1 Evolving Wilds
+1 Oran-Rief, the Vastwood
+1 Reliquary Tower
+1 Cinder Glade
+1 Command Tower
+1 Temple of the False God
+1 Alchemist's Refuge
+1 Bountiful Landscape
+1 Dreamroot Cascade
+1 Ferrous Lake
+1 Terramorphic Expanse
+1 Stormcarved Coast
+1 Frontier Bivouac
+1 Hinterland Harbor
+1 Karplusan Forest
+1 Rootbound Crag
+1 Path of Ancestry
+1 Shivan Reef
+1 Sulfur Falls
+1 Yavimaya Coast
+1 Exotic Orchard
+6 Forest
+7 Island
+3 Mountain
+Sideboard
+1 Xyris, the Writhing Storm

@@ -1,0 +1,101 @@
+1 Aftermath Analyst
+1 Birds of Paradise
+1 Dryad of the Ilysian Grove
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Ramunap Excavator
+1 Six
+1 Sylvan Safekeeper
+1 The Gitrog Monster
+1 Tireless Provisioner
+1 Amulet of Vigor
+1 Chrome Mox
+1 Crucible of Worlds
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Zuran Orb
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Assassin's Trophy
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Crop Rotation
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pyroblast
+1 Rain of Filth
+1 Silence
+1 Strix Serenade
+1 Summoner's Pact
+1 Swan Song
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Veil of Summer
+1 Demonic Tutor
+1 Diabolic Intent
+1 Finale of Devastation
+1 Gamble
+1 Green Sun's Zenith
+1 Life from the Loam
+1 Scapeshift
+1 Sevinne's Reclamation
+1 Splendid Reclamation
+1 Exploration
+1 Manabond
+1 Mystic Remora
+1 Rhystic Study
+1 Squandered Resources
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Dakmor Salvage
+1 Dimir Aqueduct
+1 Emergence Zone
+1 Exotic Orchard
+1 Field of the Dead
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hedge Maze
+1 Lotus Field
+1 Lush Portico
+1 Mana Confluence
+1 Marsh Flats
+1 Mirrorpool
+1 Mount Doom
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Port of Karfell
+1 Raucous Theater
+1 Scalding Tarn
+1 Shifting Woodland
+1 Simic Growth Chamber
+1 Starting Town
+1 Taiga
+1 Tropical Island
+1 Undercity Sewers
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 The Wandering Minstrel

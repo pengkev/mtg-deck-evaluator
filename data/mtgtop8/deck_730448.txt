@@ -1,0 +1,79 @@
+1 Adventurer's Inn
+1 Brightclimb Pathway
+1 Sorin of House Markov
+1 Amalia Benavides Aguirre
+1 Angel of Vitality
+1 Angel's Grace
+1 Anguished Unmaking
+1 Arcane Signet
+1 Archangel of Thune
+1 Archangel of Tithes
+1 Authority of the Consuls
+1 Battle Angels of Tyr
+1 Black Market Connections
+1 Blind Obedience
+1 Blitzball
+1 Caves of Koilos
+1 Charitable Levy
+1 Cliffhaven Vampire
+1 Cloudshift
+1 Command Tower
+1 Commander's Sphere
+1 Crypt Ghast
+1 Damnation
+1 Dazzling Angel
+1 Debt to the Deathless
+1 Drana and Linvala
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elesh Norn, Grand Cenobite
+1 Enduring Tenacity
+1 Essence Channeler
+1 Excalibur II
+1 Flare of Fortitude
+1 Giada, Font of Hope
+1 Gray Merchant of Asphodel
+1 Healer's Hawk
+1 Indulging Patrician
+1 Kambal, Consul of Allocation
+1 Liesa, Forgotten Archangel
+1 Lightning Greaves
+1 Lotho, Corrupt Shirriff
+1 Marauding Blight-Priest
+1 Mind Stone
+1 Mortify
+1 Night's Whisper
+1 Orzhov Signet
+1 Path to Exile
+1 Phyrexian Arena
+14 Plains
+1 Planar Cleansing
+1 Resplendent Angel
+1 Revitalize
+1 Righteous Valkyrie
+1 Rodolf Duskbringer
+1 Sanguine Bond
+1 Scoured Barrens
+1 Seraph Sanctuary
+1 Shineshadow Snarl
+1 Smuggler's Share
+1 Sol Ring
+1 Sorin Markov
+1 Soul Warden
+1 Soul's Attendant
+1 Starting Town
+1 Suture Priest
+10 Swamp
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Talisman of Hierarchy
+1 Terramorphic Expanse
+1 Thalia, Guardian of Thraben
+1 The Grey Havens
+1 Thought Vessel
+1 Urza's Incubator
+1 Vault of Champions
+1 Vito, Thorn of the Dusk Rose
+1 Vizkopa Guildmage
+1 Wrath of God
+Sideboard
+1 Liesa, Shroud of Dusk

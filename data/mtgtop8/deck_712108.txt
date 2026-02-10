@@ -1,0 +1,101 @@
+1 Deathrite Shaman
+1 Zulaport Cutthroat
+1 Glen Elendra Archmage
+1 Elves of Deep Shadow
+1 Stinkweed Imp
+1 Gilded Drake
+1 Sidisi, Undead Vizier
+1 Llanowar Elves
+1 Arbor Elf
+1 Birds of Paradise
+1 Malevolent Hermit
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Eternal Witness
+1 Haywire Mite
+1 Apprentice Necromancer
+1 Muldrotha, the Gravetide
+1 Bloom Tender
+1 Laboratory Maniac
+1 Kotis, Sibsig Champion
+1 Colossal Grave-Reaver
+1 Gravecrawler
+1 Dauthi Voidwalker
+1 Kheru Goldkeeper
+1 Lotuslight Dancers
+1 Six
+1 Phyrexian Altar
+1 Altar of Dementia
+1 Birthing Pod
+1 Arcane Signet
+1 The One Ring
+1 Sol Ring
+1 Fellwar Stone
+1 Lightning Greaves
+1 Crop Rotation
+1 Stubborn Denial
+1 Mana Drain
+1 Rushed Rebirth
+1 Counterspell
+1 Assassin's Trophy
+1 Abrupt Decay
+1 Mindbreak Trap
+1 Into the Flood Maw
+1 Noxious Revival
+1 Veil of Summer
+1 Spell Pierce
+1 Rapid Hybridization
+1 Entomb
+1 Flusterstorm
+1 Demonic Tutor
+1 Neoform
+1 Windfall
+1 Yawgmoth's Will
+1 Dread Return
+1 Reanimate
+1 Beseech the Mirror
+1 Culling Ritual
+1 Eldritch Evolution
+1 Life from the Loam
+1 Living Death
+1 Animate Dead
+1 Yawgmoth's Edict
+1 Chthonian Nightmare
+1 Greater Good
+1 Teval's Judgment
+1 Oko, Thief of Crowns
+1 Ashiok, Dream Render
+1 Jace, Wielder of Mysteries
+1 Grist, the Hunger Tide
+1 Breeding Pool
+1 Nurturing Peatland
+1 Mana Confluence
+1 Overgrown Tomb
+1 Gaea's Cradle
+1 Bayou
+1 Field of the Dead
+1 Zagoth Triome
+1 Phyrexian Tower
+1 Underground Sea
+1 Bloodstained Mire
+1 Polluted Delta
+1 Watery Grave
+1 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Exotic Orchard
+1 Rejuvenating Springs
+1 Command Tower
+1 Waterlogged Grove
+1 Shipwreck Marsh
+1 Drowned Catacomb
+1 Dakmor Salvage
+1 Underground River
+1 Deathcap Glade
+1 Cephalid Coliseum
+1 Dreamroot Cascade
+1 Woodland Cemetery
+1 Llanowar Wastes
+Sideboard
+1 Teval, the Balanced Scale

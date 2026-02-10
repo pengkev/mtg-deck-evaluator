@@ -1,0 +1,78 @@
+1 Anzrag, the Quake-Mole
+1 Combat Celebrant
+1 Drakuseth, Maw of Flames
+1 Elvish Mystic
+1 Etali, Primal Storm
+1 Firbolg Flutist
+1 Garruk's Harbinger
+1 Garruk's Horde
+1 Heartless Hidetsugu
+1 Llanowar Elves
+1 Loot, Exuberant Explorer
+1 Mina and Denn, Wildborn
+1 Molten Primordial
+1 Nylea, God of the Hunt
+1 Proud Wildbonder
+1 Quartzwood Crasher
+1 Quirion Elves
+1 Radha, Heir to Keld
+1 Ravenous Tyrannosaurus
+1 Ruby, Daring Tracker
+1 Ruric Thar, the Unbowed
+1 Ryusei, the Falling Star
+1 Savage Ventmaw
+1 Tattermunge Witch
+1 Tornado Elemental
+1 Tuktuk Rubblefort
+1 Xenagos, God of Revels
+1 Zhur-Taa Ancient
+1 Zhur-Taa Druid
+1 Zilortha, Strength Incarnate
+1 Arcane Signet
+1 Hammer of Purphoros
+1 Sol Ring
+1 Sword of the Animist
+1 Thought Vessel
+1 Thran Dynamo
+1 Abundant Harvest
+1 Adventurous Impulse
+1 Chain Reaction
+1 Chandra's Ignition
+1 Commune with Nature
+1 Cultivate
+1 Decimate
+1 Hull Breach
+1 Migration Path
+1 Rampant Growth
+1 Stump Stomp
+1 Wear Down
+1 Winds of Change
+1 Abundance
+1 Aggravated Assault
+1 Berserkers' Onslaught
+1 Druids' Repository
+1 Exploration
+1 Fervor
+1 Fiery Emancipation
+1 Fires of Yavimaya
+1 Gratuitous Violence
+1 Magistrate's Veto
+1 Primal Rage
+1 Ranger Class
+1 Repercussion
+1 Rising of the Day
+1 Unnatural Growth
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+13 Forest
+1 Gnottvold Slumbermound
+1 Gruul Turf
+12 Mountain
+1 Rootbound Crag
+1 Temple of Abandon
+1 Temple of the False God
+1 Thornspire Verge
+1 Wooded Foothills
+Sideboard
+1 Hugs, Grisly Guardian

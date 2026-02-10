@@ -1,0 +1,84 @@
+1 Aether Channeler
+1 Brago, King Eternal
+1 Charming Prince
+1 Cloud of Faeries
+1 Crashing Drawbridge
+1 Dour Port-Mage
+1 Fblthp, the Lost
+1 Goldnight Commander
+1 Harbin, Vanguard Aviator
+1 Hydroelectric Specimen
+1 Karmic Guide
+1 Knight of the White Orchid
+1 Lavinia of the Tenth
+1 Moon-Blessed Cleric
+1 Oji, the Exquisite Blade
+1 Overlord of the Floodpits
+1 Pegasus Guardian
+1 Peregrine Drake
+1 Recruiter of the Guard
+1 Reflector Mage
+1 Reveillark
+1 Riptide Gearhulk
+1 Skyclave Apparition
+1 Soulherder
+1 Tax Collector
+1 Valiant Veteran
+1 Venser, Shaper Savant
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Cryogen Relic
+1 Fellwar Stone
+1 Mind Stone
+1 Pearl Medallion
+1 Sol Ring
+1 Talisman of Progress
+1 The Irencrag
+1 The Seriema
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Cloudshift
+1 Dawn Charm
+1 Ephemerate
+1 Essence Flux
+1 Flare of Fortitude
+1 Flicker of Fate
+1 Getaway Glamer
+1 Harmonized Crescendo
+1 Justiciar's Portal
+1 Momentary Blink
+1 Muddle the Mixture
+1 Negate
+1 Parting Gust
+1 Personify
+1 Swords to Plowshares
+1 Suppression Ray
+1 Airbender Ascension
+1 Case of the Gateway Express
+1 Chakra Meditation
+1 Champions from Beyond
+1 Confounding Conundrum
+1 Moonlit Meditation
+1 Omen of the Sea
+1 Reality Acid
+1 Roiling Dragonstorm
+1 Adarkar Wastes
+1 Ash Barrens
+1 Command Tower
+1 Demolition Field
+1 Deserted Beach
+1 Exotic Orchard
+1 Glacial Fortress
+1 Irrigated Farmland
+8 Island
+1 Myriad Landscape
+1 Mystic Gate
+1 Path of Ancestry
+11 Plains
+1 Prairie Stream
+1 Scavenger Grounds
+1 Skycloud Expanse
+Sideboard
+1 Abdel Adrian, Gorion's Ward
+1 Candlekeep Sage

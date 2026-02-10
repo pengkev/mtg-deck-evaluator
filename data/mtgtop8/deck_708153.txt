@@ -1,0 +1,90 @@
+1 Woe Strider
+1 Ayara, First of Locthwain
+1 Athreos, God of Passage
+1 Blood Artist
+1 Gravecrawler
+1 Reassembling Skeleton
+1 Grim Haruspex
+1 Overseer of the Damned
+1 Phyrexian Ghoul
+1 Nirkana Revenant
+1 Pawn of Ulamog
+1 Viscera Seer
+1 Teysa Karlov
+1 Vindictive Vampire
+1 Zulaport Cutthroat
+1 Midnight Reaper
+1 Yahenni, Undying Partisan
+1 Falkenrath Noble
+1 Cruel Celebrant
+1 Yawgmoth, Thran Physician
+1 Abyssal Persecutor
+1 Nether Traitor
+1 Bloodsoaked Champion
+1 Sifter of Skulls
+1 Painter's Servant
+1 Oathsworn Vampire
+1 Pitiless Plunderer
+1 Elas il-Kor, Sadistic Pilgrim
+1 Poxwalkers
+1 Sanguinary Priest
+1 Mirkwood Bats
+1 Arcane Signet
+1 Ashnod's Altar
+1 Skullclamp
+1 Sol Ring
+1 Thought Vessel
+1 Phyrexian Altar
+1 Blasting Station
+1 Crawlspace
+1 Altar of Dementia
+1 Jet Medallion
+1 Bontu's Monument
+1 Dark Ritual
+1 Path to Exile
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Anguished Unmaking
+1 Valorous Stance
+1 Harsh Sustenance
+1 Demonic Tutor
+1 Torment of Hailfire
+1 Buried Alive
+1 Reanimate
+1 Toxic Deluge
+1 Diabolic Intent
+1 Vindicate
+1 Austere Command
+1 Praetor's Grasp
+1 Damn
+1 Shadow of the Enemy
+1 Black Market
+1 Dictate of Erebos
+1 Bitterblossom
+1 Vampiric Rites
+1 Light of Day
+1 Darkest Hour
+1 Bastion of Remembrance
+1 Carnival of Souls
+1 Urza's Saga
+1 Ob Nixilis Reignited
+1 Liliana Vess
+1 Tevesh Szat, Doom of Fools
+1 Sorin the Mirthless
+5 Plains
+8 Swamp
+1 Command Tower
+1 Orzhov Basilica
+1 Reliquary Tower
+1 Cabal Coffers
+1 Godless Shrine
+1 Urborg, Tomb of Yawgmoth
+1 Phyrexian Tower
+1 Fetid Heath
+1 Caves of Koilos
+1 Isolated Chapel
+1 Nykthos, Shrine to Nyx
+1 Vault of Champions
+1 Takenuma, Abandoned Mire
+Sideboard
+1 Teysa, Orzhov Scion

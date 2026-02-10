@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Deathrite Shaman
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Imperial Recruiter
+1 Orcish Bowmasters
+1 Professional Face-Breaker
+1 Squee, the Immortal
+1 Tinder Wall
+1 Vexing Shusher
+1 Witherbloom Apprentice
+1 Worldgorger Dragon
+1 Arcane Signet
+1 Chrome Mox
+1 Conqueror's Flail
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Mox Tantalite
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 The One Ring
+1 Abrupt Decay
+1 Ad Nauseam
+1 Assassin's Trophy
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Dash Hopes
+1 Deadly Rollick
+1 Deflecting Swat
+1 Dismember
+1 Entomb
+1 Imp's Mischief
+1 Lightning Bolt
+1 Nature's Claim
+1 Noxious Revival
+1 Pyretic Ritual
+1 Pyroblast
+1 Rain of Filth
+1 Red Elemental Blast
+1 Reiterate
+1 Tainted Pact
+1 Tibalt's Trickery
+1 Vampiric Tutor
+1 Veil of Summer
+1 Withering Boon
+1 Beseech the Mirror
+1 Chain of Smog
+1 Demonic Tutor
+1 Diabolic Intent
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Overmaster
+1 Retrieve
+1 Vandalblast
+1 Animate Dead
+1 Food Chain
+1 Impact Tremors
+1 Mirri's Guile
+1 Necropotence
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Emergence Zone
+1 Forest
+1 Mana Confluence
+1 Mount Doom
+1 Mountain
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Prismatic Vista
+1 Raucous Theater
+1 Reliquary Tower
+1 Starting Town
+1 Stomping Ground
+1 Swamp
+1 Taiga
+1 Underground Mortuary
+1 Urza's Cave
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Reyhan, Last of the Abzan
+1 Rograkh, Son of Rohgahh

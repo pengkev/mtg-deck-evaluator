@@ -1,0 +1,100 @@
+1 Sire of Insanity
+1 Valgavoth, Terror Eater
+1 Arcane Signet
+1 Basalt Monolith
+1 Chalice of the Void
+1 Chimil, the Inner Sun
+1 Chrome Mox
+1 Coveted Jewel
+1 Damping Sphere
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Rings of Brighthearth
+1 Sol Ring
+1 Sphere of Resistance
+1 Springleaf Drum
+1 Tangle Wire
+1 The One Ring
+1 The Soul Stone
+1 Thran Dynamo
+1 Trinisphere
+1 Vexing Bauble
+1 Voltaic Key
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Divergent Transformations
+1 Fell the Profane
+1 Fire Covenant
+1 Fire Magic
+1 Flare of Duplication
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Blasphemous Act
+1 Demonic Tutor
+1 Diabolic Intent
+1 Gamble
+1 Imperial Seal
+1 Infernal Plunge
+1 Jeska's Will
+1 Obliterate
+1 Reality Scramble
+1 Rite of Flame
+1 Ruination
+1 Shatterskull Smashing
+1 Toxic Deluge
+1 Transmogrify
+1 Will of the Jeskai
+1 Blood Moon
+1 Contamination
+1 Nether Void
+1 Stranglehold
+1 Urza's Saga
+1 Chandra, Torch of Defiance
+1 Jeska, Thrice Reborn
+1 Karn, the Great Creator
+1 Lukka, Coppercoat Outcast
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Mishra's Workshop
+1 Mount Doom
+1 Mountain
+1 Phyrexian Tower
+1 Prismatic Vista
+1 Scalding Tarn
+1 Spire of Industry
+1 Sulfurous Springs
+2 Swamp
+1 Verdant Catacombs
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Tevesh Szat, Doom of Fools

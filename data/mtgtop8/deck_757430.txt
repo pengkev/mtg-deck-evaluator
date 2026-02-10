@@ -1,0 +1,81 @@
+1 Abdel Adrian, Gorion's Ward
+1 Aether Channeler
+1 Agent of Treachery
+1 Anticausal Vestige
+1 Archaeomancer
+1 Archmage Emeritus
+1 Beza, the Bounding Spring
+1 Cloud of Faeries
+1 Displacer Kitten
+1 Dour Port-Mage
+1 Helpful Hunter
+1 Monastery Mentor
+1 Moonshaker Cavalry
+1 Mulldrifter
+1 Peregrine Drake
+1 Preston, the Vanisher
+1 Recruiter of the Guard
+1 Shield Broker
+1 Skyclave Apparition
+1 Soulherder
+1 Spellseeker
+1 Spirited Companion
+1 Talrand, Sky Summoner
+1 Wall of Omens
+1 Witch Enchanter
+1 Azorius Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Panharmonicon
+1 Sol Ring
+1 Talisman of Progress
+1 Thought Vessel
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Consider
+1 Counterspell
+1 Deliberate
+1 Disallow
+1 Disdainful Stroke
+1 Eerie Interlude
+1 Ephemerate
+1 Hithlain Knots
+1 Momentary Blink
+1 Narset's Reversal
+1 Opt
+1 Path to Exile
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Tale's End
+1 Telling Time
+1 Virtue of Knowledge
+1 Gitaxian Probe
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Sleight of Hand
+1 Starfall Invocation
+1 Time Wipe
+1 Darksteel Mutation
+1 Dollmaker's Shop/Porcelain Gallery
+1 Mystic Remora
+1 Rhystic Study
+1 Arch of Orazca
+1 Azorius Chancery
+1 Command Tower
+1 Hallowed Fountain
+1 Irrigated Farmland
+11 Island
+1 Lonely Sandbar
+1 Otawara, Soaring City
+11 Plains
+1 Port Town
+1 Secluded Steppe
+1 Sejiri Refuge
+1 Spire of Industry
+1 Temple of Enlightenment
+1 Tranquil Cove
+Sideboard
+1 Kykar, Zephyr Awakener

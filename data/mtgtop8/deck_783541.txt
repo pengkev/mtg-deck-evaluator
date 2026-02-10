@@ -1,0 +1,91 @@
+1 Angelic Wall
+1 Axebane Guardian
+1 Corrupted Shapeshifter
+1 Crashing Drawbridge
+1 Crystal Barricade
+1 Hover Barrier
+1 Jeskai Barricade
+1 Overgrown Battlement
+1 Perimeter Captain
+1 Seedborn Muse
+1 Shield-Wall Sentinel
+1 Stalwart Shield-Bearers
+1 Steel Wall
+1 Sunscape Familiar
+1 Sylvan Caryatid
+1 Tetsuko Umezawa, Fugitive
+1 The Pride of Hull Clade
+1 The Walls of Ba Sing Se
+1 Towering Titan
+1 Towering Viewpoint
+1 Tree of Redemption
+1 Walking Bulwark
+1 Wall of Denial
+1 Wall of Frost
+1 Wall of Glare
+1 Wall of Junk
+1 Wall of Omens
+1 Wall of Stolen Identity
+1 Wall of Tears
+1 Weathered Sentinels
+1 Wingmantle Chaplain
+1 Arcane Signet
+1 Azorius Signet
+1 Lightning Greaves
+1 Meekstone
+1 Simic Signet
+1 Sol Ring
+1 Thought Vessel
+1 Akroma's Will
+1 Arcane Denial
+1 Bar the Door
+1 Beast Within
+1 Counterspell
+1 Cyclonic Rift
+1 Heroic Intervention
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Tower Defense
+1 Cultivate
+1 Destined Confrontation
+1 Expel the Interlopers
+1 Farseek
+1 Fell the Mighty
+1 Last March of the Ents
+1 Raise the Past
+1 Rampant Growth
+1 Slaughter the Strong
+1 Angelic Chorus
+1 Assault Formation
+1 Brave the Sands
+1 High Alert
+1 Rolling Stones
+1 Stoneskin
+1 Unnatural Growth
+1 Access Tunnel
+1 Barkchannel Pathway
+1 Branchloft Pathway
+1 Breeding Pool
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+3 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hedge Maze
+1 Hinterland Harbor
+5 Island
+1 Lush Portico
+1 Meticulous Archive
+1 Misty Rainforest
+5 Plains
+1 Reliquary Tower
+1 Spara's Headquarters
+1 Sunpetal Grove
+1 Temple Garden
+1 Temple of the False God
+1 Tranquil Landscape
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Arcades, the Strategist

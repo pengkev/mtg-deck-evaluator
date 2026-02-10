@@ -1,0 +1,93 @@
+3 Mountain
+7 Forest
+1 Thornspire Verge
+1 Restless Ridgeline
+1 Sulfur Falls
+1 Shivan Reef
+1 Rootbound Crag
+1 Overflowing Basin
+1 Island
+1 Ferrous Lake
+1 Riveteers Overlook
+1 Vesuva
+1 Thespian's Stage
+1 Bountiful Landscape
+1 Flooded Grove
+1 Temple of Abandon
+1 Mossfire Valley
+1 Commercial District
+1 Hinterland Harbor
+1 Exotic Orchard
+1 Rockfall Vale
+1 Dreamroot Cascade
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Maestros Theater
+1 Game Trail
+1 Command Tower
+1 Valakut, the Molten Pinnacle
+1 Minsc & Boo, Timeless Heroes
+1 Oko, the Ringleader
+1 Xenagos, the Reveler
+1 Vivien, Champion of the Wilds
+1 Chandra, Torch of Defiance
+1 Invasion of Pyrulea
+1 Walk-In Closet/Forgotten Cellar
+1 The Rollercrusher Ride
+1 Innkeeper's Talent
+1 Fortune Teller's Talent
+1 Stolen Strategy
+1 Wild Wasteland
+1 Prismatic Omen
+1 City on Fire
+1 Exploration
+1 Shameless Charlatan
+1 Outpost Siege
+1 Valakut Exploration
+1 Abundance
+1 Stump Stomp
+1 Cultivate
+1 Kodama's Reach
+1 Chaos Warp
+1 Planar Genesis
+1 Delayed Blast Fireball
+1 Flusterstorm
+1 Crop Rotation
+1 Monument to Endurance
+1 Chainsaw
+1 Sol Ring
+1 Chaos Wand
+1 Wand of Wonder
+1 Faldorn, Dread Wolf Herald
+1 Solemn Simulacrum
+1 Pyrewood Gearhulk
+1 Spinner of Souls
+1 Kellan, Planar Trailblazer
+1 Lotus Cobra
+1 Arasta of the Endless Web
+1 Ramunap Excavator
+1 Dryad of the Ilysian Grove
+1 Six
+1 Sage of the Beyond
+1 Doc Aurlock, Grizzled Genius
+1 Laelia, the Blade Reforged
+1 Veronica, Dissident Scribe
+1 Sakura-Tribe Elder
+1 Flaming Tyrannosaurus
+1 Iraxxa, Empress of Mars
+1 Questing Druid
+1 Ornithopter
+1 Perennial Behemoth
+1 Oracle of Mul Daya
+1 Tlincalli Hunter
+1 Urabrask, Heretic Praetor
+1 Containment Construct
+1 Eruth, Tormented Prophet
+1 Wild-Magic Sorcerer
+1 Tireless Provisioner
+1 Conspiracy Theorist
+1 Birgi, God of Storytelling
+1 Azusa, Lost but Seeking
+1 Omnath, Locus of Rage
+Sideboard
+1 Loot, the Key to Everything

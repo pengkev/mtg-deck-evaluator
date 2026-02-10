@@ -1,0 +1,67 @@
+1 Body of Knowledge
+1 Chasm Skulker
+1 Disciple of Freyalise
+1 Frilled Mystic
+1 Gadwick, the Wizened
+1 Hydroelectric Specimen
+1 Jadzi, Oracle of Arcavios
+1 Jolrael, Voice of Zhalfir
+1 Laboratory Maniac
+1 Mystic Snake
+1 Psychosis Crawler
+1 Sage of Ancient Lore
+1 Tatyova, Benthic Druid
+1 Tishana, Voice of Thunder
+1 Twenty-Toed Toad
+1 Hand of Vecna
+1 Loxodon Warhammer
+1 Beast Within
+1 Commander's Insight
+1 Drown in Dreams
+1 Even the Score
+1 Foil
+1 Plasm Capture
+1 Stroke of Genius
+1 Thwart
+1 Voidslime
+1 Bridgeworks Battle
+1 Circuitous Route
+1 Devastation Tide
+1 Explosive Vegetation
+1 Ezuri's Predation
+1 Genesis Wave
+1 Hunting Wilds
+1 Ingenious Mastery
+1 Map the Frontier
+1 Migration Path
+1 Oversimplify
+1 Path of the Animist
+1 Praetor's Counsel
+1 Ravenform
+1 Reach the Horizon
+1 Skyshroud Claim
+1 Terramorph
+1 Vastwood Surge
+1 Verdant Mastery
+1 Virtue of Strength
+1 Amphibian Downpour
+1 Dictate of Karametra
+1 Encroaching Dragonstorm
+1 Heartbeat of Spring
+1 Imprisoned in the Moon
+1 Mana Reflection
+1 Zendikar Resurgent
+1 Invasion of Zendikar
+1 Command Tower
+1 Dreamroot Cascade
+1 Flooded Grove
+18 Forest
+1 Hinterland Harbor
+18 Island
+1 Kishla Village
+1 Overflowing Basin
+1 Reliquary Tower
+1 Rogue's Passage
+1 Yavimaya Coast
+Sideboard
+1 Kellan, Inquisitive Prodigy

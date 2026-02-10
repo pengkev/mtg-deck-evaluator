@@ -1,0 +1,90 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Emry, Lurker of the Loch
+1 Enthusiastic Mechanaut
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Liberator, Urza's Battlethopter
+1 Ornithopter
+1 Phyrexian Metamorph
+1 Ragavan, Nimble Pilferer
+1 Spellskite
+1 The Reality Chip
+1 Urza, Lord High Artificer
+1 Aether Spellbomb
+1 Aetherflux Reservoir
+1 Altar of the Brood
+1 Arcane Signet
+1 Cloud Key
+1 Codex Shredder
+1 Crystal Skull, Isu Spyglass
+1 Cursed Totem
+1 Fellwar Stone
+1 Golem's Heart
+1 Imposter Mech
+1 Krark-Clan Ironworks
+1 Liquimetal Torque
+1 Meekstone
+1 Mishra's Bauble
+1 Mox Opal
+1 Mystic Forge
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Spellbook
+1 Springleaf Drum
+1 Stone of Erech
+1 Swiftfoot Boots
+1 The One Ring
+1 Thought Vessel
+1 Tormod's Crypt
+1 Torpor Orb
+1 Welding Jar
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Counterspell
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Hurkyl's Recall
+1 Machine Over Matter
+1 March of Swirling Mist
+1 Paradoxical Outcome
+1 Pongify
+1 Wash Away
+1 Blasphemous Act
+1 Fabricate
+1 Grapeshot
+1 Vandalblast
+1 Mystic Remora
+1 Urza's Saga
+1 Jace, Wielder of Mysteries
+1 Karn, the Great Creator
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Command Tower
+1 Fabled Passage
+1 Fomori Vault
+1 Inventors' Fair
+9 Island
+4 Mountain
+1 Plaza of Heroes
+1 Reliquary Tower
+1 Riverpyre Verge
+1 Shivan Reef
+1 Spirebluff Canal
+1 Steam Vents
+1 Stormcarved Coast
+1 The Tabernacle at Pendrell Vale
+1 Training Center
+1 Uthros, Titanic Godcore
+1 Volcanic Island
+Sideboard
+1 Jhoira, Weatherlight Captain

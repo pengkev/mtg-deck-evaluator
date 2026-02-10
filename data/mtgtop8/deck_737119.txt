@@ -1,0 +1,80 @@
+1 Ascendant Packleader
+1 Avabruck Caretaker
+1 Breakneck Rider
+1 Burly Breaker
+1 Cemetery Prowler
+1 Child of the Pack
+1 Daybreak Ranger
+1 Halana and Alena, Partners
+1 Hollowhenge Overlord
+1 Hound Tamer
+1 Howlpack Piper
+1 Huntmaster of the Fells
+1 Ill-Tempered Loner
+1 Instigator Gang
+1 Kruin Outlaw
+1 Mayor of Avabruck
+1 Mondronen Shaman
+1 Nightpack Ambusher
+1 Outland Liberator
+1 Packsong Pup
+1 Primal Adversary
+1 Reckless Stormseeker
+1 Sage of Ancient Lore
+1 Scorned Villager
+1 Summon: Fenrir
+1 Timber Wolves
+1 Torgal, A Fine Hound
+1 Tovolar's Huntmaster
+1 Ulrich of the Krallenhorde
+1 Village Messenger
+1 Village Watch
+1 Volatile Arsonist
+1 Weaver of Blossoms
+1 Werewolf Pack Leader
+1 Wolfkin Outcast
+1 Arcane Signet
+1 Herald's Horn
+1 The Celestus
+1 Great Train Heist
+1 Heroic Intervention
+1 Inscription of Abundance
+1 Moonlight Hunt
+1 Ram Through
+1 Ruinous Intrusion
+1 Contest of Claws
+1 Decimate
+1 Eldritch Evolution
+1 Hull Breach
+1 Rabid Bite
+1 Stump Stomp
+1 Arni Slays the Troll
+1 Beastmaster Ascension
+1 Full Moon's Rise
+1 Howling Moon
+1 Howlpack Resurgence
+1 Nature's Will
+1 Ranger Class
+1 Rhythm of the Wild
+1 Shadow in the Warp
+1 Unnatural Growth
+1 Wild Growth
+1 Arlinn Kord
+1 Arlinn, the Pack's Hope
+1 Domri, Anarch of Bolas
+1 Castle Embereth
+1 Castle Garenbrig
+1 Cinder Glade
+1 Command Tower
+1 Cragcrown Pathway
+11 Forest
+1 Game Trail
+1 Grand Coliseum
+1 Kessig Wolf Run
+1 Mosswort Bridge
+12 Mountain
+1 Mountain Valley
+1 Rootbound Crag
+1 Sheltered Thicket
+Sideboard
+1 Tovolar, Dire Overlord

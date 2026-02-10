@@ -1,0 +1,101 @@
+1 Kaito, Bane of Nightmares
+1 Mystic Remora
+1 Aqueous Form
+1 Ancestral Knowledge
+1 Rhystic Study
+1 Imperial Seal
+1 Agadeem's Awakening
+1 Sea Gate Restoration
+1 Treasure Cruise
+1 Temporal Mastery
+1 Temporal Trespass
+1 Demonic Tutor
+1 Nexus of Fate
+1 Into the Flood Maw
+1 Fell the Profane
+1 Sink into Stupor
+1 Flare of Malice
+1 Flare of Denial
+1 Snuff Out
+1 Cyclonic Rift
+1 Mystical Tutor
+1 Force of Will
+1 Force of Negation
+1 An Offer You Can't Refuse
+1 Vampiric Tutor
+1 Mindbreak Trap
+1 Swan Song
+1 Brainstorm
+1 Dig Through Time
+1 Trickbind
+1 Lim-Dul's Vault
+1 Arcane Denial
+1 Mental Misstep
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Force of Despair
+1 Flusterstorm
+1 Submerge
+1 Commandeer
+1 Consign/Oblivion
+1 Misdirection
+1 Lotus Petal
+1 Sensei's Divining Top
+1 Cursed Totem
+1 Scroll Rack
+1 Mox Diamond
+1 Chrome Mox
+1 Null Rod
+1 Grafdigger's Cage
+1 Mockingbird
+1 Hydroelectric Specimen
+1 Boggart Trawler
+1 Satoru, the Infiltrator
+1 Roaming Throne
+1 Orcish Bowmasters
+1 Faerie Mastermind
+1 Ornithopter
+1 Triton Shorestalker
+1 Faerie Seer
+1 Ulamog, the Infinite Gyre
+1 Shadow of Mortality
+1 Dokuchi Silencer
+1 Prosperous Thief
+1 Thousand-Faced Shadow
+1 Dauthi Voidwalker
+1 Opposition Agent
+1 Gudul Lurker
+1 Wingcrafter
+1 Mothdust Changeling
+1 Mistblade Shinobi
+1 Slither Blade
+1 Ingenious Infiltrator
+1 Changeling Outcast
+1 Emrakul, the Promised End
+1 Sakashima's Student
+1 Ninja of the Deep Hours
+1 Gingerbrute
+1 Talon Gates of Madara
+1 Undercity Sewers
+1 Clearwater Pathway
+1 Underground River
+1 Command Tower
+1 Shizo, Death's Storehouse
+1 Morphic Pool
+1 Island
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Scalding Tarn
+1 Marsh Flats
+1 Snow-Covered Island
+1 City of Brass
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Gemstone Caverns
+1 Underground Sea
+1 Mana Confluence
+1 Watery Grave
+1 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

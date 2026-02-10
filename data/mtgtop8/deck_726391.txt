@@ -1,0 +1,101 @@
+1 Sire of Insanity
+1 Valgavoth, Terror Eater
+1 Trinisphere
+1 Thran Dynamo
+1 Tangle Wire
+1 Mox Diamond
+1 Chalice of the Void
+1 Basalt Monolith
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Opal
+1 Manifold Key
+1 Arcane Signet
+1 Mox Amber
+1 Springleaf Drum
+1 The One Ring
+1 Skullclamp
+1 Grim Monolith
+1 God-Pharaoh's Statue
+1 Voltaic Key
+1 Lion's Eye Diamond
+1 Damping Sphere
+1 Vexing Bauble
+1 Sol Ring
+1 Pyroblast
+1 Cabal Ritual
+1 Red Elemental Blast
+1 Seething Song
+1 Tainted Pact
+1 Soul Shatter
+1 Fire Covenant
+1 Dark Ritual
+1 Vampiric Tutor
+1 Sheoldred's Edict
+1 Deadly Rollick
+1 Flare of Duplication
+1 Culling the Weak
+1 Fell the Profane
+1 Deflecting Swat
+1 Divergent Transformations
+1 Transmogrify
+1 Obliterate
+1 Wheel of Fortune
+1 Rite of Flame
+1 Massacre
+1 Demonic Tutor
+1 Blasphemous Act
+1 Reanimate
+1 Brotherhood's End
+1 Gamble
+1 Pyroclasm
+1 Beseech the Mirror
+1 Meltdown
+1 Ruination
+1 Toxic Deluge
+1 Diabolic Intent
+1 Cave-In
+1 Yawgmoth's Will
+1 Reality Scramble
+1 Infernal Plunge
+1 Jeska's Will
+1 Chain of Smog
+1 Will of the Jeskai
+1 Imperial Seal
+1 Stranglehold
+1 Blood Moon
+1 Nether Void
+1 Urza's Saga
+1 Chandra, Awakened Inferno
+1 Lukka, Coppercoat Outcast
+1 Karn, the Great Creator
+1 Professor Onyx
+1 Geier Reach Sanitarium
+1 Ancient Tomb
+1 Crystal Vein
+1 Mountain
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Swamp
+1 Mana Confluence
+1 Gemstone Caverns
+1 Blood Crypt
+1 Mount Doom
+1 Command Tower
+1 Bloodstained Mire
+1 Polluted Delta
+1 Sulfurous Springs
+1 City of Traitors
+1 Luxury Suite
+1 Phyrexian Tower
+1 Badlands
+1 Blightstep Pathway
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Raucous Theater
+Sideboard
+1 Tevesh Szat, Doom of Fools
+1 Rograkh, Son of Rohgahh

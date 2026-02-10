@@ -1,0 +1,89 @@
+1 Shambling Suit
+1 Arcbound Ravager
+1 Ornithopter
+1 Padeem, Consul of Innovation
+1 Memnite
+1 Arcbound Worker
+1 Arcbound Reclaimer
+1 Arcbound Hybrid
+1 Arcbound Stinger
+1 Arcbound Slith
+1 Etherium Sculptor
+1 Vedalken Archmage
+1 Foundry Inspector
+1 Arcbound Mouser
+1 Filigree Attendant
+1 Arcbound Javelineer
+1 Arcbound Prototype
+1 Ornithopter of Paradise
+1 Iron Apprentice
+1 Master of Etherium
+1 Urza, Prince of Kroog
+1 Cephalopod Sentry
+1 Gold-Forged Thopteryx
+1 Syr Ginger, the Meal Ender
+1 Gingerbrute
+1 Ethersworn Canonist
+1 Giggling Skitterspike
+1 Marvin, Murderous Mimic
+1 Thought Monitor
+1 Vnwxt, Verbose Host
+1 Marketback Walker
+1 Interface Ace
+1 Guidelight Synergist
+1 Guidelight Optimizer
+1 Voyager Quickwelder
+1 Starting Column
+1 Radiant Lotus
+1 Salvation Engine
+1 Sol Ring
+1 Thought Vessel
+1 Colossal Plow
+1 Swiftfoot Boots
+1 Trading Post
+1 Arcane Signet
+1 Brotherhood Vertibird
+1 Talisman of Progress
+1 Bident of Thassa
+1 Repurposing Bay
+1 Valor's Flagship
+1 Adaptive Omnitool
+1 Aetheric Amplifier
+1 Perilous Snare
+1 Racers' Scoreboard
+1 Alacrian Armory
+1 Spectral Interference
+1 Path to Exile
+1 Stoic Rebuttal
+1 Counterspell
+1 Reality Heist
+1 Disruption Protocol
+1 No More Lies
+1 Disallow
+1 Wrath of God
+1 Voyage Home
+1 Thoughtcast
+1 Open the Vaults
+1 Tune Up
+1 The Antiquities War
+1 Unstoppable Plan
+1 Idyllic Beachfront
+1 Ancient Den
+1 Sunscorched Desert
+1 Darksteel Citadel
+1 Reliquary Tower
+1 Seat of the Synod
+1 Command Tower
+1 Razortide Bridge
+1 Power Depot
+1 Port Town
+1 Prairie Stream
+1 Lonely Arroyo
+1 Azorius Chancery
+1 Muraganda Raceway
+1 Irrigated Farmland
+1 Glacial Fortress
+7 Island
+7 Plains
+Sideboard
+1 Mendicant Core, Guidelight

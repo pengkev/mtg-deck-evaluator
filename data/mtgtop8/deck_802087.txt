@@ -1,0 +1,96 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Archon of the Wild Rose
+1 Ashaya, Soul of the Wild
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Boromir, Warden of the Tower
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Containment Priest
+1 Delighted Halfling
+1 Destiny Spinner
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Endurance
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Fanatic of Rhonas
+1 Formidable Speaker
+1 Frenzied Baloth
+1 Gilded Goose
+1 Halvar, God of Battle
+1 Hushbringer
+1 Kinscaer Sentry
+1 Kodama of the West Tree
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Ocelot Pride
+1 Phelia, Exuberant Shepherd
+1 Ranger-Captain of Eos
+1 Sanctum Weaver
+1 Sigarda, Font of Blessings
+1 Solitude
+1 Soulless Jailer
+1 Sylvan Safekeeper
+1 Thalia, Guardian of Thraben
+1 Witch Enchanter
+1 Yasharn, Implacable Earth
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Sol Ring
+1 Weathered Runestone
+1 Angel's Grace
+1 Crop Rotation
+1 Dawn's Truce
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Legolas's Quick Reflexes
+1 Reprieve
+1 Reverent Mantra
+1 Silence
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Last March of the Ents
+1 Carpet of Flowers
+1 Deafening Silence
+1 Greater Auramancy
+1 Rest in Peace
+1 Sheltered by Ghosts
+1 Stony Silence
+1 Survival of the Fittest
+1 Touch the Spirit Realm
+1 Wild Growth
+1 Abandoned Air Temple
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Strand
+4 Forest
+1 Gaea's Cradle
+1 Marsh Flats
+1 Multiversal Passage
+1 Overgrown Farmland
+3 Plains
+1 Reflecting Pool
+1 Savannah
+1 Serra's Sanctum
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+Sideboard
+1 Ellivere of the Wild Court

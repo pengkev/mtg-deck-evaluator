@@ -1,0 +1,101 @@
+1 Bloom Tender
+1 Selvala, Heart of the Wilds
+1 Karmic Guide
+1 Felidar Guardian
+1 Renegade Rallier
+1 Avacyn's Pilgrim
+1 Collector Ouphe
+1 Lesser Masticore
+1 Ranger-Captain of Eos
+1 Manglehorn
+1 Drannith Magistrate
+1 Imperial Recruiter
+1 Vexing Shusher
+1 Recruiter of the Guard
+1 Saffi Eriksdotter
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Thalia, Guardian of Thraben
+1 Kiki-Jiki, Mirror Breaker
+1 Archivist of Oghma
+1 Birds of Paradise
+1 Loran of the Third Path
+1 Delighted Halfling
+1 Boromir, Warden of the Tower
+1 Loyal Retainers
+1 Kutzil, Malamet Exemplar
+1 Grand Abolisher
+1 Phlage, Titan of Fire's Fury
+1 Faeburrow Elder
+1 Arcane Signet
+1 Lotus Petal
+1 Blasting Station
+1 Chrome Mox
+1 Mana Vault
+1 Grim Monolith
+1 Altar of Dementia
+1 Mox Amber
+1 Phyrexian Altar
+1 Relic of Legends
+1 Birthing Pod
+1 The One Ring
+1 Sol Ring
+1 The Great Henge
+1 Vexing Bauble
+1 Swords to Plowshares
+1 Veil of Summer
+1 Eladamri's Call
+1 Guttural Response
+1 Pyroblast
+1 Chord of Calling
+1 Enlightened Tutor
+1 Silence
+1 Noxious Revival
+1 Force of Vigor
+1 Sevinne's Reclamation
+1 Finale of Devastation
+1 Time of Need
+1 Eldritch Evolution
+1 Deafening Silence
+1 Goblin Bombardment
+1 Impact Tremors
+1 Survival of the Fittest
+1 Sylvan Library
+1 Utopia Sprawl
+1 Blind Obedience
+1 Warleader's Call
+1 Trouble in Pairs
+1 Stranglehold
+1 Invasion of Ikoria
+1 Minsc & Boo, Timeless Heroes
+1 Vivien on the Hunt
+1 Command Tower
+1 Spire Garden
+1 Stomping Ground
+1 Ancient Tomb
+1 Cavern of Souls
+1 Sacred Foundry
+1 Temple Garden
+1 Verdant Catacombs
+1 Emergence Zone
+1 Mana Confluence
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Spectator Seating
+1 Gemstone Caverns
+1 Arid Mesa
+1 Misty Rainforest
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Arena of Glory
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Havi, the All-Father

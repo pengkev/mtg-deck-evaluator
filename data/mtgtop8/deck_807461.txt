@@ -1,0 +1,101 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Blood Pet
+1 Boggart Trawler
+1 Gwenom, Remorseless
+1 Hexing Squelcher
+1 Imperial Recruiter
+1 Opposition Agent
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Spider-Punk
+1 Storm-Kiln Artist
+1 Street Wraith
+1 Torch Courier
+1 Treasonous Ogre
+1 Aetherflux Reservoir
+1 Bolas's Citadel
+1 Chrome Mox
+1 Cursed Mirror
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Sensei's Divining Top
+1 Sol Ring
+1 Vexing Bauble
+1 Big Score
+1 Burnt Offering
+1 Crimson Wisps
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Dismember
+1 Display of Power
+1 Flare of Duplication
+1 Gut Shot
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Reiterate
+1 Searing Touch
+1 Snuff Out
+1 Surgical Extraction
+1 Tibalt's Trickery
+1 Vampiric Tutor
+1 Vendetta
+1 Behold the Beyond
+1 Beseech the Queen
+1 Coveted Prize
+1 Dark Petition
+1 Demonic Tutor
+1 Diabolic Intent
+1 Final Parting
+1 Ignite the Future
+1 Illicit Shipment
+1 Increasing Ambition
+1 Inspired Tinkering
+1 Jeska's Will
+1 Megaton's Fate
+1 Past in Flames
+1 Peer into the Abyss
+1 Postmortem Lunge
+1 Rite of Flame
+1 Snort
+1 Sorceress's Schemes
+1 Sundering Eruption
+1 Tendrils of Agony
+1 Torment of Hailfire
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Invasion of Kaldheim
+1 Necropotence
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Barbarian Ring
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cabal Pit
+1 City of Brass
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Multiversal Passage
+1 Peat Bog
+1 Polluted Delta
+1 Raucous Theater
+1 Sandstone Needle
+1 Starting Town
+1 Sulfurous Springs
+1 Tarnished Citadel
+1 Wooded Foothills
+Sideboard
+1 Rowan, Scion of War

@@ -1,0 +1,91 @@
+1 Tranquil Cove
+1 Spire of Industry
+1 Seat of the Synod
+1 Reliquary Tower
+1 Reef Roads
+1 Razortide Bridge
+1 Prairie Stream
+1 Power Depot
+1 Port Town
+5 Plains
+1 Muraganda Raceway
+1 Lonely Arroyo
+7 Island
+1 Irrigated Farmland
+1 Idyllic Beachfront
+1 Glacial Fortress
+1 Darksteel Citadel
+1 Country Roads
+1 Command Tower
+1 Avishkar Raceway
+1 Ancient Den
+1 Amonkhet Raceway
+1 Adarkar Wastes
+1 Unstoppable Plan
+1 Voyage Home
+1 Tune Up
+1 Open the Vaults
+1 One with the Machine
+1 Reality Shift
+1 Reality Heist
+1 Disruption Protocol
+1 Dispatch
+1 Disallow
+1 Winged Boots
+1 Voyager Glidecar
+1 Valor's Flagship
+1 Uthros Research Craft
+1 Thran Dynamo
+1 Thopter Fabricator
+1 The Aetherspark
+1 Talisman of Progress
+1 Starting Column
+1 Sonic Screwdriver
+1 Sol Ring
+1 Salvation Engine
+1 Retrofitter Foundry
+1 Repurposing Bay
+1 Radiant Lotus
+1 Racers' Scoreboard
+1 Possession Engine
+1 Perilous Snare
+1 Parhelion II
+1 Mobilizer Mech
+1 Mind Stone
+1 Lotus Petal
+1 Hulldrifter
+1 Guidelight Pathmaker
+1 Guidelight Matrix
+1 Broadcast Rambler
+1 Arcane Signet
+1 Alacrian Armory
+1 Adaptive Omnitool
+1 Whirler Rogue
+1 Voyager Quickwelder
+1 Vnwxt, Verbose Host
+1 Thought Monitor
+1 Stridehangar Automaton
+1 Steelswarm Operator
+1 Solemn Simulacrum
+1 Riptide Gearhulk
+1 Palladium Myr
+1 Ornithopter of Paradise
+1 Nesting Bot
+1 Mu Yanling, Wind Rider
+1 Memory Guardian
+1 Marketback Walker
+1 Jhoira's Familiar
+1 Interface Ace
+1 Guidelight Synergist
+1 Gold-Forged Thopteryx
+1 Gingerbrute
+1 Foundry Inspector
+1 Etherium Sculptor
+1 Emry, Lurker of the Loch
+1 Diversion Unit
+1 Cybermen Squadron
+1 Cyberman Patrol
+1 Cryptothrall
+1 Bronze Guardian
+Sideboard
+1 Mendicant Core, Guidelight

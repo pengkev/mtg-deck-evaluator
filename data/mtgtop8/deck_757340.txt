@@ -1,0 +1,89 @@
+1 Aven Courier
+1 Avenging Huntbonder
+1 Bribe Taker
+1 Crystalline Giant
+1 Deepglow Skate
+1 Denry Klin, Editor in Chief
+1 Evolution Sage
+1 Evolving Adaptive
+1 Faithbound Judge
+1 Falco Spara, Pactweaver
+1 Forgotten Ancient
+1 Goldberry, River-Daughter
+1 Guide of Souls
+1 Intrepid Adversary
+1 Lae'zel, Vlaakith's Champion
+1 Luminous Broodmoth
+1 Malcolm, Alluring Scoundrel
+1 Metastatic Evangel
+1 Norn's Choirmaster
+1 Park Heights Maverick
+1 Reluctant Role Model
+1 Roalesk, Apex Hybrid
+1 Scavenged Brawler
+1 Skyboon Evangelist
+1 Slippery Bogbonder
+1 Summon: Knights of Round
+1 Tanazir Quandrix
+1 Tekuthal, Inquiry Dominus
+1 Thrummingbird
+1 Zimone, Paradox Sculptor
+1 Agent's Toolkit
+1 Commander's Sphere
+1 Contagion Engine
+1 Everflowing Chalice
+1 Gavel of the Righteous
+1 Luxior, Giada's Gift
+1 Midnight Clock
+1 Replicating Ring
+1 Ring of Three Wishes
+1 Sol Ring
+1 Swiftfoot Boots
+1 Contractual Safeguard
+1 Exotic Pets
+1 Generous Gift
+1 Gift of the Viper
+1 Prologue to Phyresis
+1 Ripples of Potential
+1 Storm of Forms
+1 Damning Verdict
+1 Rishkar's Expertise
+1 Tezzeret's Gambit
+1 Vivisurgeon's Insight
+1 Beastmaster Ascension
+1 Brokers Ascendancy
+1 Communal Brewing
+1 Dawn of a New Age
+1 Family's Favor
+1 Resourceful Defense
+1 Simic Ascendancy
+1 Together Forever
+1 Elspeth Resplendent
+1 Vivien, Monsters' Advocate
+1 Brokers Hideout
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Grove
+5 Forest
+1 Fortified Village
+1 Gavony Township
+5 Island
+1 Karn's Bastion
+1 Littjara Mirrorlake
+1 Llanowar Reborn
+1 Nesting Grounds
+1 Obscura Storefront
+1 Path of Ancestry
+5 Plains
+1 Port Town
+1 Prairie Stream
+1 Seaside Citadel
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Temple of Mystery
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Meadow
+Sideboard
+1 Perrie, the Pulverizer

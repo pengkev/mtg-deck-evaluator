@@ -1,0 +1,101 @@
+1 Ancestral Statue
+1 Ancient Ziggurat
+1 Archdruid's Charm
+1 Arid Mesa
+1 Augur of Autumn
+1 Beast Whisperer
+1 Beastcaller Savant
+1 Birds of Paradise
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Breeding Pool
+1 City of Brass
+1 Clement, the Worrywort
+1 Cloud of Faeries
+1 Cloudstone Curio
+1 Command Tower
+1 Delighted Halfling
+1 Destiny Spinner
+1 Disciple of Freyalise
+1 Dour Port-Mage
+1 Dreamroot Cascade
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Exotic Orchard
+1 Fanatic of Rhonas
+1 Fauna Shaman
+1 Fierce Empath
+1 Fiery Islet
+1 Finale of Devastation
+1 Flesh Duplicate
+1 Flooded Strand
+1 Gaea's Cradle
+1 Generous Patron
+1 Hedge Maze
+1 Hellraiser Goblin
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Imperial Recruiter
+1 Invasion of Ikoria
+1 Island
+1 Kozilek, Butcher of Truth
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Manglehorn
+1 Misty Rainforest
+1 Mulldrifter
+1 Neoform
+1 Nulldrifter
+1 Oblivion Sower
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Painter's Servant
+1 Peregrine Drake
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Pollywog Prodigy
+1 Priest of Titania
+1 Purphoros, God of the Forge
+1 Radagast the Brown
+1 Ragavan, Nimble Pilferer
+1 Reclamation Sage
+1 Rejuvenating Springs
+1 Rockfall Vale
+1 Scalding Tarn
+1 Sea Gate Oracle
+1 Shivan Reef
+1 Sicarian Infiltrator
+1 Simian Spirit Guide
+1 Soul of the Harvest
+1 Sowing Mycospawn
+1 Spellseeker
+1 Spire Garden
+1 Starfield Vocalist
+1 Steam Vents
+1 Stomping Ground
+1 Stormcarved Coast
+1 Summoner's Pact
+1 Survival of the Fittest
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Sylvan Tutor
+1 Terror of the Peaks
+1 Tidespout Tyrant
+1 Tishana, Voice of Thunder
+1 Toski, Bearer of Secrets
+1 Training Center
+1 Transit Mage
+1 Trophy Mage
+1 Ulamog, the Ceaseless Hunger
+1 Wall of Roots
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Animar, Soul of Elements

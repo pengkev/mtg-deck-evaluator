@@ -1,0 +1,82 @@
+1 Agent of Treachery
+1 Kokusho, the Evening Star
+1 Tribute Mage
+1 Spellskite
+1 Sakashima the Impostor
+1 Archaeomancer
+1 Gray Merchant of Asphodel
+1 Deranged Assistant
+1 Underworld Hermit
+1 Vile Entomber
+1 Sepulchral Primordial
+1 Yawgmoth, Thran Physician
+1 Cloud of Faeries
+1 Peregrine Drake
+1 Millikin
+1 Mirkwood Bats
+1 Vizier of Tumbling Sands
+1 Demon's Disciple
+1 Viscera Seer
+1 Doom Whisperer
+1 Mulldrifter
+1 Phyrexian Metamorph
+1 Ravenous Chupacabra
+1 Volatile Stormdrake
+1 Rottenmouth Viper
+1 Pitiless Plunderer
+1 Fatestitcher
+1 Solemn Simulacrum
+1 Syr Konrad, the Grim
+1 Massacre Wurm
+1 Doomed Necromancer
+1 Fleshbag Marauder
+1 Dauthi Voidwalker
+1 Stitcher's Supplier
+1 Junji, the Midnight Sky
+1 Codex Shredder
+1 Altar of Dementia
+1 Mesmeric Orb
+1 Dimir Signet
+1 Talisman of Dominance
+1 Arcane Signet
+1 Tarrian's Journal
+1 Swiftfoot Boots
+1 Sol Ring
+1 Panharmonicon
+1 Epiphany at the Drownyard
+1 Thought Scour
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Fact or Fiction
+1 Frantic Search
+1 Counterspell
+1 Withering Torment
+1 Consider
+1 Pongify
+1 Saw in Half
+1 Unearth
+1 Windfall
+1 Buried Alive
+1 Victimize
+1 Rhystic Study
+1 Mystic Remora
+1 Ashiok, Dream Render
+1 Tezzeret the Seeker
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Dimir Aqueduct
+1 Geier Reach Sanitarium
+1 Sunken Hollow
+1 Undercity Sewers
+1 Darkwater Catacombs
+1 Command Tower
+1 Temple of Deceit
+1 Bojuka Bog
+1 Castle Vantress
+1 Exotic Orchard
+1 Cephalid Coliseum
+11 Island
+10 Swamp
+Sideboard
+1 Araumi of the Dead Tide

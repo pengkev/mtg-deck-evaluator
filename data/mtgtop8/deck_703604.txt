@@ -1,0 +1,101 @@
+1 Flooded Strand
+1 Underground River
+1 Island
+1 Gemstone Mine
+1 City of Brass
+1 Phyrexian Tower
+1 Command Tower
+1 Cavern of Souls
+1 Minamo, School at Water's Edge
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Ancient Tomb
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Scalding Tarn
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Polluted Delta
+1 Bloodstained Mire
+1 Gemstone Caverns
+1 Underground Sea
+1 Mana Confluence
+1 Exotic Orchard
+1 Marsh Flats
+1 Watery Grave
+1 Mystic Remora
+1 Rhystic Study
+1 Doomsday
+1 Diabolic Intent
+1 Imperial Seal
+1 Demonic Tutor
+1 Unmarked Grave
+1 Gitaxian Probe
+1 Transmute Artifact
+1 Spell Pierce
+1 Rain of Filth
+1 Lim-Dul's Vault
+1 Mental Misstep
+1 Culling the Weak
+1 Cabal Ritual
+1 Pact of Negation
+1 Chain of Vapor
+1 Daze
+1 An Offer You Can't Refuse
+1 Flare of Denial
+1 Swan Song
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Entomb
+1 Force of Negation
+1 March of Swirling Mist
+1 March of Wretched Sorrow
+1 Tainted Pact
+1 Divert
+1 Brainstorm
+1 Muddle the Mixture
+1 Sacrifice
+1 Demonic Consultation
+1 Abjure
+1 Ad Nauseam
+1 Dispel
+1 Fierce Guardianship
+1 Flusterstorm
+1 Dark Ritual
+1 Slaughter Pact
+1 Vampiric Tutor
+1 Miscast
+1 Snap
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Urza's Bauble
+1 Sensei's Divining Top
+1 Sol Ring
+1 Vexing Bauble
+1 Agatha's Soul Cauldron
+1 Defense Grid
+1 Mishra's Bauble
+1 Manifold Key
+1 Darkwater Egg
+1 Mox Amber
+1 Mox Diamond
+1 Jeweled Amulet
+1 Mox Opal
+1 Mana Vault
+1 Voltaic Key
+1 Chrome Mox
+1 Spectral Sailor
+1 Mothdust Changeling
+1 Walking Ballista
+1 Thassa's Oracle
+1 Greedy Freebooter
+1 Siren Stormtamer
+1 Spyglass Siren
+1 Changeling Outcast
+1 Cloud Pirates
+1 Deadeye Tracker
+1 Grasping Scoundrel
+Sideboard
+1 Francisco, Fowl Marauder
+1 Malcolm, Keen-Eyed Navigator

@@ -1,0 +1,74 @@
+1 Khalni Ambush
+1 Bala Ged Recovery
+1 Bridgeworks Battle
+1 Bushwhack
+1 Contest of Claws
+1 Monstrous Onslaught
+1 Nature's Way
+1 Season of Gathering
+1 Arbor Elf
+1 Birds of Paradise
+1 Delighted Halfling
+1 Elvish Mystic
+1 Forgotten Ancient
+1 Fyndhorn Elves
+1 Gemrazer
+1 Giggling Skitterspike
+1 Llanowar Elves
+1 Managorger Hydra
+1 Sawtusk Demolisher
+1 Ancient Animus
+1 Archdruid's Charm
+1 Collective Resistance
+1 Crop Rotation
+1 Defend the Rider
+1 Hunter's Insight
+1 Inscription of Abundance
+1 Invigorating Surge
+1 Lifestream's Blessing
+1 Once and Future
+1 Pair o' Dice Lost
+1 Return of the Wildspeaker
+1 Royal Treatment
+1 Ruinous Intrusion
+1 Snakeskin Veil
+1 Solidarity of Heroes
+1 Tamiyo's Safekeeping
+1 Tyvar's Stand
+1 Windswift Slice
+1 Emerald Medallion
+1 Herd Heirloom
+1 Mithril Coat
+1 Mox Amber
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 Swiftfoot Boots
+1 The One Ring
+1 The Ozolith
+1 Alpha Authority
+1 Bear Umbra
+1 Canopy Cover
+1 Family's Favor
+1 Keen Sense
+1 Kenrith's Transformation
+1 Lion Umbra
+1 Season of Growth
+1 Sixth Sense
+1 Snake Umbra
+1 Spider Umbra
+1 Terrasymbiosis
+1 Thickest in the Thicket
+1 Utopia Sprawl
+1 Whip Silk
+1 Wild Growth
+1 Boseiju, Who Endures
+1 Command Beacon
+28 Forest
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Talon Gates of Madara
+1 Urza's Saga
+1 War Room
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Legolas, Master Archer

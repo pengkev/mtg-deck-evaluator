@@ -1,0 +1,76 @@
+1 Ashling, Flame Dancer
+1 Elvish Mystic
+1 Goblin Anarchomancer
+1 Goblin Matron
+1 Krark, the Thumbless
+1 Llanowar Elves
+1 Storm-Kiln Artist
+1 Vexing Shusher
+1 Young Pyromancer
+1 Sol Ring
+1 Thought Vessel
+1 Ancient Grudge
+1 Battle Hymn
+1 Desperate Ritual
+1 Early Harvest
+1 Electric Revelation
+1 Fungal Rebirth
+1 Harrow
+1 Heartfire
+1 Krosan Grip
+1 Laughing Mad
+1 Massive Raid
+1 Pyretic Ritual
+1 Return to Nature
+1 Roiling Regrowth
+1 Scatter the Seeds
+1 Second Harvest
+1 Seething Song
+1 Thrill of Possibility
+1 Verdant Command
+1 You See a Pair of Goblins
+1 Banefire
+1 Burn at the Stake
+1 Cathartic Reunion
+1 Chatterstorm
+1 Crackle with Power
+1 Cultivate
+1 Dragon Fodder
+1 Edge of Autumn
+1 Emergent Sequence
+1 Empty the Warrens
+1 Faithless Looting
+1 Fireball
+1 Harvest Season
+1 Hordeling Outburst
+1 Hour of Promise
+1 Jeska's Will
+1 Kodama's Reach
+1 Krenko's Command
+1 Mana Geyser
+1 Molten Birth
+1 Nature's Lore
+1 Past in Flames
+1 Rampant Growth
+1 Saproling Migration
+1 Saproling Symbiosis
+1 Search for Tomorrow
+1 Seize the Spoils
+1 Suplex
+1 Tormenting Voice
+1 Vastwood Surge
+1 City on Fire
+1 Goblin Bombardment
+1 Goblinslide
+1 Impact Tremors
+1 Primal Vigor
+1 Song of Freyalise
+1 Underworld Breach
+1 Chandra, Hope's Beacon
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+15 Forest
+12 Mountain
+Sideboard
+1 Wort, the Raidmother

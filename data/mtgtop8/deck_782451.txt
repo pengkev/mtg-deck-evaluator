@@ -1,0 +1,76 @@
+1 Ankle Shanker
+1 Archivist of Oghma
+1 Avenger of the Fallen
+1 Beckoning Will-o'-Wisp
+1 Bishop of Rebirth
+1 Bone-Cairn Butcher
+1 Brutal Hordechief
+1 Chief of the Edge
+1 Chief of the Scale
+1 Crashing Drawbridge
+1 Dalkovan Packbeasts
+1 Dockside Chef
+1 Dragonback Lancer
+1 Elas il-Kor, Sadistic Pilgrim
+1 Hardened Tactician
+1 Mardu Siegebreaker
+1 Mardu Strike Leader
+1 Marshal of the Lost
+1 Mentor of the Meek
+1 Mindblade Render
+1 Nightblade Brigade
+1 Reigning Victor
+1 Shock Brigade
+1 Stadium Headliner
+1 Starry-Eyed Skyrider
+1 Sunpearl Kirin
+1 Underfoot Underdogs
+1 Venerated Stormsinger
+1 Voice of Victory
+1 Zurgo Helmsmasher
+1 Zurgo's Vanguard
+1 Arcane Signet
+1 Boros Locket
+1 Boros Signet
+1 Commander's Sphere
+1 Decanter of Endless Water
+1 Hammer of Purphoros
+1 Orzhov Signet
+1 Patriar's Seal
+1 Rakdos Cluestone
+1 Skullclamp
+1 Sol Ring
+1 Stormbeacon Blade
+1 Sundial of the Infinite
+1 Alesha's Legacy
+1 Cruel Truths
+1 Desperate Measures
+1 Duty Beyond Death
+1 Feign Death
+1 Generous Gift
+1 Maximum Overdrive
+1 Mortify
+1 Path to Exile
+1 Seize Opportunity
+1 Swords to Plowshares
+1 Undying Malice
+1 Salt Road Skirmish
+1 Darksteel Mutation
+1 Goblin Bombardment
+1 War Effort
+1 Warstorm Surge
+1 Windcrag Siege
+1 Boros Garrison
+1 Command Tower
+1 Evolving Wilds
+1 Idyllic Grange
+1 Mistveil Plains
+10 Mountain
+1 Nomad Outpost
+1 Opal Palace
+8 Plains
+1 Rakdos Carnarium
+10 Swamp
+1 Terramorphic Expanse
+Sideboard
+1 Zurgo, Thunder's Decree

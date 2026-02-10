@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Esper Sentinel
+1 Displacer Kitten
+1 Helm of Awakening
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Talisman of Conviction
+1 Lion's Eye Diamond
+1 Azorius Signet
+1 Mox Diamond
+1 Fellwar Stone
+1 Talisman of Progress
+1 Talisman of Creativity
+1 Cursed Totem
+1 Arcane Signet
+1 Imposter Mech
+1 Sol Ring
+1 Mana Vault
+1 The One Ring
+1 Lotus Petal
+1 Mox Opal
+1 Brainstorm
+1 Enlightened Tutor
+1 Whir of Invention
+1 Pact of Negation
+1 Intuition
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Mental Misstep
+1 Final Fortune
+1 Mystical Tutor
+1 Swords to Plowshares
+1 Red Elemental Blast
+1 Chain of Vapor
+1 Stubborn Denial
+1 Rending Volley
+1 Swan Song
+1 Path to Exile
+1 Flusterstorm
+1 Brain Freeze
+1 Silence
+1 March of Otherworldly Light
+1 An Offer You Can't Refuse
+1 Mana Drain
+1 Force of Negation
+1 Force of Will
+1 Soul Partition
+1 Snap
+1 Deflecting Swat
+1 Mindbreak Trap
+1 Strix Serenade
+1 Sink into Stupor
+1 Ghostfire Slice
+1 Sevinne's Reclamation
+1 Gamble
+1 Grapeshot
+1 Reshape
+1 Gitaxian Probe
+1 Ponder
+1 Rolling Earthquake
+1 Jeska's Will
+1 Counterbalance
+1 Rhystic Study
+1 Ancestral Knowledge
+1 Mystic Remora
+1 Underworld Breach
+1 Urza's Saga
+1 Smothering Tithe
+1 Blind Obedience
+1 Powerbalance
+1 Teferi, Time Raveler
+1 Jace, Wielder of Mysteries
+1 Marsh Flats
+1 Island
+1 Plains
+1 City of Brass
+1 Ancient Tomb
+1 Prismatic Vista
+1 Mana Confluence
+1 Hallowed Fountain
+1 Steam Vents
+1 Plateau
+1 Tundra
+1 Volcanic Island
+1 Sacred Foundry
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Command Tower
+1 Mountain
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Thundering Falls
+Sideboard
+1 Elsha of the Infinite

@@ -1,0 +1,77 @@
+1 Battered Golem
+1 The Reality Chip
+1 Spellskite
+1 Ornithopter
+1 Kitesail Larcenist
+1 Tidespout Tyrant
+1 Forensic Gadgeteer
+1 Volatile Stormdrake
+1 Hydroelectric Specimen
+1 Shrieking Drake
+1 Valley Floodcaller
+1 Thassa's Oracle
+1 Walking Ballista
+1 Thought Monitor
+1 Venser, Shaper Savant
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Sai, Master Thopterist
+1 Vedalken Shackles
+1 Grafdigger's Cage
+1 Claws of Gix
+1 Chimeric Mass
+1 Darksteel Relic
+1 Herbal Poultice
+1 Welding Jar
+1 Lodestone Bauble
+1 Briber's Purse
+1 Aether Spellbomb
+1 Fountain of Youth
+1 Delif's Cone
+1 Weathered Runestone
+1 Spellbook
+1 Zuran Orb
+1 Pithing Needle
+1 Unwinding Clock
+1 Tormod's Crypt
+1 Basalt Monolith
+1 Everflowing Chalice
+1 Isochron Scepter
+1 Mishra's Bauble
+1 Urza's Bauble
+1 Static Orb
+1 Prophetic Prism
+1 Soul-Guide Lantern
+1 Sol Ring
+1 Arcane Signet
+1 Thirst for Knowledge
+1 Flusterstorm
+1 Dispel
+1 Dramatic Reversal
+1 Retraction Helix
+1 Banishing Knack
+1 March of Swirling Mist
+1 Spell Pierce
+1 Machine Over Matter
+1 Swan Song
+1 Resculpt
+1 Ice Out
+1 Strix Serenade
+1 Into the Flood Maw
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Whir of Invention
+1 Frantic Search
+1 Pongify
+1 Rapid Hybridization
+1 Reshape
+1 Jace, Wielder of Mysteries
+1 Narset, Parter of Veils
+1 Saprazzan Cove
+25 Island
+1 Archway of Innovation
+1 Seat of the Synod
+1 Cephalid Coliseum
+Sideboard
+1 Urza, Lord High Artificer

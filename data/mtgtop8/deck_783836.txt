@@ -1,0 +1,93 @@
+1 Academy Manufactor
+1 Adrix and Nev, Twincasters
+1 Crime Novelist
+1 Danny Pink
+1 Displaced Dinosaurs
+1 Duggan, Private Detective
+1 Elmar, Ulvenwald Informant
+1 Erdwal Illuminator
+1 Ethereal Investigator
+1 Forensic Gadgeteer
+1 Forgotten Ancient
+1 Halana and Alena, Partners
+1 Ingenious Artillerist
+1 Jaheira, Friend of the Forest
+1 Kami of Whispered Hopes
+1 Kappa Cannoneer
+1 Kellan, Inquisitive Prodigy
+1 Knuckles the Echidna
+1 Lonis, Genetics Expert
+1 Malcolm, the Eyes
+1 Mm'menon, Uthros Exile
+1 Nyssa of Traken
+1 Reckless Fireweaver
+1 Steelswarm Operator
+1 The Goose Mother
+1 The Third Doctor
+1 The Thirteenth Doctor
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Wavesifter
+1 Arcane Signet
+1 Inspiring Statuary
+1 Sol Ring
+1 Talisman of Curiosity
+1 Tamiyo's Journal
+1 Tarrian's Soulcleaver
+1 The Earth Crystal
+1 Beast Within
+1 Bite Down
+1 Chaos Warp
+1 Counterspell
+1 Decisive Denial
+1 Deduce
+1 Demand Answers
+1 Fall of the Hammer
+1 Growth Spiral
+1 Inspiring Call
+1 Ram Through
+1 Temur Charm
+1 Animist's Might
+1 Blasphemous Act
+1 Bridgeworks Battle
+1 Cultivate
+1 Farseek
+1 Last Night Together
+1 Stump Stomp
+1 Branching Evolution
+1 Hardened Scales
+1 Heaven Sent
+1 Moonlit Meditation
+1 Ongoing Investigation
+1 Storm the Vault
+1 Tezzeret, Betrayer of Flesh
+1 Botanical Sanctum
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Fiery Islet
+1 Fire-Lit Thicket
+1 Flooded Grove
+4 Forest
+1 Frontier Bivouac
+1 Frostboil Snarl
+1 Hinterland Harbor
+4 Island
+1 Izzet Boilerworks
+3 Mountain
+1 Path of Ancestry
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rogue's Passage
+1 Simic Growth Chamber
+1 Spirebluff Canal
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Vineglimmer Snarl
+1 Waterlogged Grove
+1 Willowrush Verge
+1 Yavimaya Coast
+Sideboard
+1 Jenny Flint
+1 Madame Vastra

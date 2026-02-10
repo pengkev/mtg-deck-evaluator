@@ -1,0 +1,78 @@
+1 Archmage Emeritus
+1 Faerie Mastermind
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Spellseeker
+1 Storm-Kiln Artist
+1 Vivi Ornitier
+1 Arcane Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Sol Ring
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Big Score
+1 Brain Freeze
+1 Brainstorm
+1 Cerulean Wisps
+1 Chaos Charm
+1 Crimson Wisps
+1 Daze
+1 Desperate Ritual
+1 Dispel
+1 Divert Disaster
+1 Dramatic Reversal
+1 Expedite
+1 Gut Shot
+1 Long River's Pull
+1 Miscalculation
+1 Miscast
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Quicken
+1 Radical Idea
+1 Refocus
+1 Samut's Sprint
+1 Select for Inspection
+1 Shore Up
+1 Spell Pierce
+1 Swallowed by Leviathan
+1 Swan Song
+1 Thrill of Possibility
+1 Twitch
+1 Unnatural Speed
+1 You See a Guard Approach
+1 Cathartic Reunion
+1 Faithless Looting
+1 Gitaxian Probe
+1 Highway Robbery
+1 Jeska's Will
+1 Merchant Scroll
+1 Pirate's Pillage
+1 Ponder
+1 Preordain
+1 Rite of Flame
+1 Serum Visions
+1 Solve the Equation
+1 Splash Portal
+1 Strike It Rich
+1 Twisted Fealty
+1 Bitter Reunion
+1 Curiosity
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Cascade Bluffs
+1 Command Tower
+1 Fabled Passage
+1 Ferrous Lake
+1 Frostboil Snarl
+15 Island
+1 Izzet Boilerworks
+10 Mountain
+1 Mystic Sanctuary
+1 Shivan Reef
+1 Sulfur Falls
+Sideboard
+1 Stella Lee, Wild Card

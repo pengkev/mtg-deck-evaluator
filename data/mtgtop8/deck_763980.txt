@@ -1,0 +1,95 @@
+1 Beatrix, Loyal General
+1 Brass Squire
+1 Codsworth, Handy Helper
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Gingerbrute
+1 Guidelight Synergist
+1 Kappa Cannoneer
+1 Leonin Elder
+1 Leonin Shikari
+1 Mm'menon, the Right Hand
+1 Myr Retriever
+1 Puresteel Paladin
+1 Sai, Master Thopterist
+1 Scrap Trawler
+1 Solemn Simulacrum
+1 Stridehangar Automaton
+1 Vedalken Archmage
+1 Virulent Silencer
+1 Vnwxt, Verbose Host
+1 Voyager Quickwelder
+1 Workshop Assistant
+1 Adaptive Omnitool
+1 Arcane Signet
+1 Basilisk Collar
+1 Bloodforged Battle-Axe
+1 Champion's Helm
+1 Colossus Hammer
+1 Grafted Exoskeleton
+1 Isochron Scepter
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Masterwork of Ingenuity
+1 Mirage Mirror
+1 Mirrorworks
+1 Mystic Forge
+1 Salvation Engine
+1 Sensei's Divining Top
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 The Endstone
+1 Thought Vessel
+1 Trailblazer's Boots
+1 Unwinding Clock
+1 Voltaic Key
+1 Whispersilk Cloak
+1 White Auracite
+1 Path to Exile
+1 Swords to Plowshares
+1 Curse of the Swine
+1 Open the Armory
+1 Promise of Loyalty
+1 Single Combat
+1 Steelshaper's Gift
+1 Thoughtcast
+1 All That Glitters
+1 Idolized
+1 Mantle of the Ancients
+1 Mechanized Production
+1 Sigarda's Aid
+1 True Conviction
+1 Academy Ruins
+1 Adarkar Wastes
+1 Ancient Den
+1 Azorius Chancery
+1 Blast Zone
+1 Buried Ruin
+1 Command Tower
+1 Darksteel Citadel
+1 Exotic Orchard
+1 Glacial Fortress
+1 Inventors' Fair
+4 Island
+1 Minamo, School at Water's Edge
+1 Path of Ancestry
+4 Plains
+1 Planar Nexus
+1 Prairie Stream
+1 Razortide Bridge
+1 Reliquary Tower
+1 Rogue's Passage
+1 Seachrome Coast
+1 Seat of the Synod
+1 Spire of Industry
+1 Temple of Enlightenment
+1 Temple of the False God
+1 Treasure Vault
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+Sideboard
+1 Mendicant Core, Guidelight

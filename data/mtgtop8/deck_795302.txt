@@ -1,0 +1,101 @@
+1 Kozilek, Butcher of Truth
+1 Glint-Horn Buccaneer
+1 Harmonic Prodigy
+1 Imperial Recruiter
+1 Treasonous Ogre
+1 Magus of the Moon
+1 Simian Spirit Guide
+1 Dualcaster Mage
+1 Storm-Kiln Artist
+1 Pinnacle Monk
+1 Cursed Totem
+1 Null Rod
+1 Mox Opal
+1 Lotus Petal
+1 Torpor Orb
+1 Mana Vault
+1 Sol Ring
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Mox Diamond
+1 Arcane Signet
+1 Ghostfire Slice
+1 Pyrokinesis
+1 Demand Answers
+1 Tibalt's Trickery
+1 Pyretic Ritual
+1 Chaos Warp
+1 Fury Storm
+1 Red Elemental Blast
+1 Zoyowa's Justice
+1 Shock
+1 Redirect Lightning
+1 Desperate Ritual
+1 Ricochet Trap
+1 Sazacap's Brew
+1 Valakut Awakening
+1 Bolt Bend
+1 Wild Magic Surge
+1 Pyroblast
+1 Lightning Bolt
+1 Deflecting Swat
+1 Fiery Temper
+1 Dual Strike
+1 Return the Favor
+1 Seething Song
+1 Reverberate
+1 Fork
+1 Reiterate
+1 Burnout
+1 Thunderclap
+1 Display of Power
+1 Flare of Duplication
+1 Increasing Vengeance
+1 Shenanigans
+1 Suplex
+1 Gamble
+1 Wheel of Fortune
+1 Sundering Eruption
+1 Jeska's Will
+1 Fervent Mastery
+1 Shattering Spree
+1 Vandalblast
+1 Reforge the Soul
+1 Highway Robbery
+1 Will of the Jeskai
+1 Shatterskull Smashing
+1 Past in Flames
+1 Faithless Looting
+1 Wheel of Misfortune
+1 Rite of Flame
+1 Reckless Handling
+1 Blood Moon
+1 Stranglehold
+1 Braid of Fire
+1 Dual Casting
+1 Ramunap Ruins
+1 Reflecting Pool
+1 Forbidden Orchard
+1 Holdout Settlement
+1 Barbarian Ring
+1 Wasteland
+1 Ancient Tomb
+1 Snow-Covered Mountain
+1 City of Brass
+1 Strip Mine
+1 Shinka, the Bloodsoaked Keep
+1 Tarnished Citadel
+1 Sokenzan, Crucible of Defiance
+1 Wastes
+1 Sandstone Needle
+1 Emergence Zone
+1 Hammerheim
+1 Scavenger Grounds
+1 Survivors' Encampment
+1 Mountain
+1 Command Tower
+1 Mana Confluence
+1 Darksteel Citadel
+1 Great Furnace
+Sideboard
+1 Ashling, Flame Dancer

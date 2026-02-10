@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Opposition Agent
+1 Street Wraith
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Grand Abolisher
+1 Ranger-Captain of Eos
+1 Mockingbird
+1 Laboratory Maniac
+1 Voice of Victory
+1 Judge's Familiar
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Diamond
+1 Mirror of Fate
+1 Sol Ring
+1 Mana Vault
+1 Defense Grid
+1 Mox Amber
+1 The One Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Talisman of Dominance
+1 Lotus Petal
+1 Gush
+1 Sudden Substitution
+1 Culling the Weak
+1 Cabal Ritual
+1 Fatal Push
+1 Ertai's Meddling
+1 Flusterstorm
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Mental Misstep
+1 Abjure
+1 Mystical Tutor
+1 Demonic Consultation
+1 Ad Nauseam
+1 Force of Will
+1 Lim-Dul's Vault
+1 Chain of Vapor
+1 Silence
+1 Pact of Negation
+1 Brainstorm
+1 Tainted Pact
+1 Force of Negation
+1 Spell Pierce
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Consider
+1 Mindbreak Trap
+1 Into the Flood Maw
+1 Dark Ritual
+1 Flare of Denial
+1 An Offer You Can't Refuse
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Doomsday
+1 Yawgmoth's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Reanimate
+1 Unmask
+1 Rhystic Study
+1 Mystic Remora
+1 Morphic Pool
+1 Scalding Tarn
+1 City of Brass
+1 Scrubland
+1 Tundra
+1 Bazaar of Baghdad
+1 Flooded Strand
+1 Polluted Delta
+1 Underground River
+1 Underground Sea
+1 Tarnished Citadel
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Mana Confluence
+1 Gemstone Mine
+1 Command Tower
+1 Watery Grave
+1 Cavern of Souls
+1 Meticulous Archive
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Island
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Otawara, Soaring City
+1 Gemstone Caverns
+1 Spire of Industry
+Sideboard
+1 Tymna the Weaver
+1 Esior, Wardwing Familiar

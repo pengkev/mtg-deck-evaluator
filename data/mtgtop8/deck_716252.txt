@@ -1,0 +1,93 @@
+1 Aetherstorm Roc
+1 Electrostatic Pummeler
+1 Protean Raider
+1 Cephalid Facetaker
+1 Professional Face-Breaker
+1 Nesting Dovehawk
+1 Trumpeting Carnosaur
+1 Siren Stormtamer
+1 Aerial Extortionist
+1 Brotherhood Scribe
+1 Behemoth of Vault 0
+1 Witch Enchanter
+1 Roil Cartographer
+1 Guide of Souls
+1 Blaster Hulk
+1 Aurora Shifter
+1 Sphinx of the Revelation
+1 Lightning Runner
+1 Skyclave Apparition
+1 Salvation Colossus
+1 Razorfield Ripper
+1 Curiosity Crafter
+1 Cloudblazer
+1 Selfless Spirit
+1 Silent Hallcreeper
+1 Cathar Commando
+1 Territorial Aetherkite
+1 Whirler Virtuoso
+1 Ironwill Forger
+1 Solemn Simulacrum
+1 Protector of the Wastes
+1 Platoon Dispenser
+1 Emissary of Soulfire
+1 Flamehold Grappler
+1 Arcane Signet
+1 Sol Ring
+1 Automated Assembly Line
+1 Cursed Mirror
+1 Aether Refinery
+1 Izzet Generatorium
+1 Solar Transformer
+1 Conversion Apparatus
+1 Stone Idol Generator
+1 Decoction Module
+1 Gonti's Aether Heart
+1 Aetherflux Conduit
+1 Midnight Clock
+1 Wayfarer's Bauble
+1 Idol of Oblivion
+1 Aetherworks Marvel
+1 Rootborn Defenses
+1 Path to Exile
+1 Swords to Plowshares
+1 Rush of Inspiration
+1 Razorgrass Ambush
+1 Akroma's Will
+1 Austere Command
+1 Suppression Ray
+1 Localized Destruction
+1 Wheel of Potential
+1 Aether Revolt
+1 Static Prison
+1 Reconnaissance
+1 Caretaker's Talent
+1 Legion Loyalty
+1 Aether Hub
+1 Azorius Chancery
+1 Izzet Boilerworks
+1 Shivan Reef
+1 Myriad Landscape
+1 Command Tower
+1 HELIOS One
+1 Furycalm Snarl
+1 Mystic Gate
+1 Port Town
+1 Terramorphic Expanse
+1 Frostboil Snarl
+1 Adarkar Wastes
+1 Perilous Landscape
+1 Prairie Stream
+1 Battlefield Forge
+1 Skycloud Expanse
+1 Temple of Triumph
+1 Evolving Wilds
+1 Mystic Monastery
+1 Temple of Epiphany
+1 Temple of Enlightenment
+1 Wind-Scarred Crag
+3 Island
+3 Plains
+5 Mountain
+Sideboard
+1 Satya, Aetherflux Genius

@@ -1,0 +1,96 @@
+1 Blood Pet
+1 Conspicuous Snoop
+1 Dualcaster Mage
+1 Frogtosser Banneret
+1 Goblin Chieftain
+1 Goblin Engineer
+1 Goblin Lackey
+1 Goblin Matron
+1 Goblin Recruiter
+1 Goblin Sharpshooter
+1 Goblin Sledder
+1 Grenzo, Havoc Raiser
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 Kiki-Jiki, Mirror Breaker
+1 Orcish Bowmasters
+1 Overeager Apprentice
+1 Priest of Gix
+1 Priest of Urabrask
+1 Putrid Goblin
+1 Skirk Prospector
+1 Sling-Gang Lieutenant
+1 Torch Courier
+1 Treasonous Ogre
+1 Walking Ballista
+1 Warren Soultrader
+1 Zealous Conscripts
+1 Agatha's Soul Cauldron
+1 Altar of the Brood
+1 Arcane Signet
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Reito Lantern
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Burnt Offering
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Entomb
+1 Fire Covenant
+1 Imp's Mischief
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Vampiric Tutor
+1 Claim the Firstborn
+1 Demonic Tutor
+1 Doomsday
+1 Dread Return
+1 Feed the Swarm
+1 Gamble
+1 Grab the Prize
+1 Imperial Seal
+1 Jeska's Will
+1 Lively Dirge
+1 Rite of Flame
+1 Twinflame
+1 Animate Dead
+1 Blood Moon
+1 Chthonian Nightmare
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Barad-dur
+1 Blackcleave Cliffs
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cavern of Souls
+1 Fomori Vault
+1 Gemstone Caverns
+1 Great Furnace
+1 Haunted Ridge
+1 Luxury Suite
+1 Mines of Moria
+4 Mountain
+1 Opal Palace
+1 Raucous Theater
+1 Shinka, the Bloodsoaked Keep
+1 Sulfurous Springs
+3 Swamp
+1 Three Tree City
+Sideboard
+1 Grenzo, Dungeon Warden

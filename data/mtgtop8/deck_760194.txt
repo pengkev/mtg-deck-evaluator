@@ -1,0 +1,88 @@
+1 Allosaurus Shepherd
+1 Apex Altisaur
+1 Ashaya, Soul of the Wild
+1 Avacyn, Angel of Hope
+1 Avacyn's Pilgrim
+1 Bane of Progress
+1 Birds of Paradise
+1 Collector Ouphe
+1 Delighted Halfling
+1 Drannith Magistrate
+1 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Mother of Machines
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Eternal Witness
+1 Gaddock Teeg
+1 Ghalta, Stampede Tyrant
+1 Kodama of the East Tree
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Nissa, Resurgent Animist
+1 Nyxbloom Ancient
+1 Ojer Kaslem, Deepest Growth
+1 Questing Beast
+1 Regal Force
+1 Scryb Ranger
+1 Selvala, Heart of the Wilds
+1 Surrak and Goreclaw
+1 Temur Sabertooth
+1 Terastodon
+1 Thorn Mammoth
+1 Vorinclex
+1 Vorinclex, Voice of Hunger
+1 Wandering Archaic
+1 Yasharn, Implacable Earth
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Sol Ring
+1 The One Ring
+1 Akroma's Will
+1 Autumn's Veil
+1 Chord of Calling
+1 Crop Rotation
+1 Dawn's Truce
+1 Eladamri's Call
+1 Force of Vigor
+1 Heroic Intervention
+1 Legolas's Quick Reflexes
+1 Reprieve
+1 Seedtime
+1 Silence
+1 Teferi's Protection
+1 Veil of Summer
+1 Finale of Devastation
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Last March of the Ents
+1 Natural Order
+1 Nature's Rhythm
+1 Season of Gathering
+1 Selvala's Stampede
+1 Wave of Vitriol
+1 Lurking Predators
+1 Utopia Sprawl
+1 Wild Growth
+1 Invasion of Ikoria
+1 Nissa, Genesis Mage
+1 Ancient Tomb
+1 Bountiful Promenade
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+9 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Homeward Path
+1 Nykthos, Shrine to Nyx
+6 Plains
+1 Prismatic Vista
+1 Savannah
+1 Temple Garden
+1 Windswept Heath
+1 Wirewood Lodge
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Selvala, Explorer Returned

@@ -1,0 +1,78 @@
+1 Balustrade Wurm
+1 Beanstalk Wurm
+1 Bellowing Tanglewurm
+1 Boneyard Wurm
+1 Bookwurm
+1 Bramble Wurm
+1 Carnage Wurm
+1 Colossal Rattlewurm
+1 Deathcoil Wurm
+1 Defiler of Vigor
+1 Dirtcowl Wurm
+1 Eladamri, Korvecdal
+1 Elderscale Wurm
+1 Elfhame Wurm
+1 Elvish Mystic
+1 Emergent Woodwurm
+1 Engulfing Slagwurm
+1 Fanatic of Rhonas
+1 Garruk's Packleader
+1 Goreclaw, Terror of Qal Sisma
+1 Greater Sandwurm
+1 Grothama, All-Devouring
+1 Gwenna, Eyes of Gaea
+1 Impervious Greatwurm
+1 Karametra's Acolyte
+1 Kona, Rescue Beastie
+1 Llanowar Elves
+1 Ouroboroid
+1 Panglacial Wurm
+1 Pelakka Wurm
+1 Penumbra Wurm
+1 Plated Slagwurm
+1 Quilled Greatwurm
+1 Runadi, Behemoth Caller
+1 Sifter Wurm
+1 Soul Swallower
+1 Symbiotic Wurm
+1 Worldspine Wurm
+1 Wurmcoil Engine
+1 Arcane Signet
+1 Emerald Medallion
+1 Herald's Horn
+1 Monster Manual
+1 Nyx Lotus
+1 Patchwork Banner
+1 Rhonas's Monument
+1 Sol Ring
+1 Beast Within
+1 Fog
+1 Krosan Grip
+1 Ram Through
+1 Return of the Wildspeaker
+1 Return to Nature
+1 Snakeskin Veil
+1 Bushwhack
+1 Crush of Wurms
+1 Cultivate
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Roar of the Wurm
+1 Wurmcalling
+1 Colossal Majesty
+1 Garruk's Uprising
+1 Monstrous Vortex
+1 Sandwurm Convergence
+1 Unnatural Growth
+1 Up the Beanstalk
+1 Wild Growth
+1 Garruk, Primal Hunter
+1 Wrenn and Seven
+1 Castle Garenbrig
+24 Forest
+1 Mosswort Bridge
+1 Reliquary Tower
+1 Temple of the False God
+Sideboard
+1 Baru, Wurmspeaker

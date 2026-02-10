@@ -1,0 +1,84 @@
+1 Avabruck Caretaker
+1 Bloodspore Thrinax
+1 Bloodtracker
+1 Champion of Lambholt
+1 Conclave Sledge-Captain
+1 Corpsejack Menace
+1 Disciple of Bolas
+1 Disciple of Freyalise
+1 Disciple of Griselbrand
+1 Duskshell Crawler
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Evolution Witness
+1 Feral Ghoul
+1 Forgotten Ancient
+1 Ghalta, Primal Hunger
+1 Gyre Sage
+1 Hagra Constrictor
+1 Hancock, Ghoulish Mayor
+1 Harold and Bob, First Numens
+1 Host of the Hereafter
+1 Incubation Druid
+1 Insidious Fungus
+1 Jarad, Golgari Lich Lord
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Lumbering Megasloth
+1 Managorger Hydra
+1 Reyhan, Last of the Abzan
+1 Rishkar, Peema Renegade
+1 Sakura-Tribe Elder
+1 Servant of the Scale
+1 Shadowheart, Dark Justiciar
+1 Stalwart Successor
+1 Summon: Fenrir
+1 Tyrant Guard
+1 Umbral Collar Zealot
+1 Verdurous Gearhulk
+1 Winding Constrictor
+1 Yahenni, Undying Partisan
+1 Young Deathclaws
+1 Hunter's Bow
+1 Mask of Griselbrand
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Assassin's Trophy
+1 Atomize
+1 Beast Within
+1 Inspiring Call
+1 Putrefy
+1 Revitalizing Repast
+1 Village Rites
+1 Farseek
+1 Find/Finality
+1 Rampant Growth
+1 Victimize
+1 Zero Point Ballad
+1 Branching Evolution
+1 Communal Brewing
+1 Dark Privilege
+1 Greater Good
+1 Hardened Scales
+1 Hollowmurk Siege
+1 Loading Zone
+1 Terrasymbiosis
+1 Command Tower
+1 Deathcap Glade
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+10 Forest
+1 High Market
+1 Llanowar Wastes
+1 Myriad Landscape
+1 Overgrown Tomb
+1 Reliquary Tower
+9 Swamp
+1 Tainted Wood
+1 Temple of Malady
+1 Tyrite Sanctum
+1 Woodland Cemetery
+Sideboard
+1 Jenova, Ancient Calamity

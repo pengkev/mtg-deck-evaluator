@@ -1,0 +1,75 @@
+1 Adelbert Steiner
+1 Aerith Gainsborough
+1 Auton Soldier
+1 Danitha, Benalia's Hope
+1 Delivery Moogle
+1 Drogskol Reaver
+1 Gogo, Master of Mimicry
+1 Gold-Forged Thopteryx
+1 Healer's Hawk
+1 Mockingbird
+1 Mother of Runes
+1 Naga Fleshcrafter
+1 Pippin, Guard of the Citadel
+1 Rhox Faithmender
+1 Serra Ascendant
+1 Sovereigns of Lost Alara
+1 Spark Double
+1 Visage Bandit
+1 Weapons Vendor
+1 Will, Scion of Peace
+1 Y'shtola Rhul
+1 Arcane Signet
+1 Azorius Signet
+1 Blackblade Reforged
+1 Caduceus, Staff of Hermes
+1 Celestial Armor
+1 Champion's Helm
+1 Dragonfire Blade
+1 Excalibur II
+1 Fireshrieker
+1 Helm of the Host
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Key to the Vault
+1 The Wind Crystal
+1 Trailblazer's Boots
+1 Archive Trap
+1 Counterspell
+1 Dovin's Veto
+1 Eject
+1 Heliod's Intervention
+1 Ice Magic
+1 Magic Damper
+1 Negate
+1 Path to Exile
+1 Restoration Magic
+1 Riot Control
+1 Slash of Light
+1 Spell Rupture
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Ishgard, the Holy See
+1 Jidoor, Aristocratic Capital
+1 Relm's Sketching
+1 Space-Time Anomaly
+1 Stolen Identity
+1 Aether Tunnel
+1 Aqueous Form
+1 Combat Research
+1 Eldrazi Conscription
+1 Sleep Magic
+1 Spirit Mantle
+1 Steel of the Godhead
+1 Stuck in Summoner's Sanctum
+1 Adarkar Wastes
+1 Adventurer's Inn
+1 Command Tower
+1 Exotic Orchard
+1 Glacial Fortress
+14 Island
+14 Plains
+1 Rogue's Passage
+1 Tranquil Cove
+Sideboard
+1 Hope Estheim

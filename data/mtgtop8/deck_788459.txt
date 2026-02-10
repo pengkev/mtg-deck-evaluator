@@ -1,0 +1,83 @@
+1 Academy Manufactor
+1 Bakersbane Duo
+1 Bloodroot Apothecary
+1 Camellia, the Seedmiser
+1 Chatterfang, Squirrel General
+1 Curious Forager
+1 Deep Forest Hermit
+1 Drey Keeper
+1 End-Raze Forerunners
+1 Gilded Goose
+1 Hazel's Brewmaster
+1 Honored Dreyleader
+1 Mirkwood Bats
+1 Osteomancer Adept
+1 Prosperous Innkeeper
+1 Ravenous Squirrel
+1 Rottenmouth Viper
+1 Scurry of Squirrels
+1 Squirrel Mob
+1 Squirrel Sovereign
+1 The Odd Acorn Gang
+1 Thornvault Forager
+1 Toski, Bearer of Secrets
+1 Valley Rotcaller
+1 Vinereap Mentor
+1 Warren Soultrader
+1 Ygra, Eater of All
+1 Arcane Signet
+1 Banner of Kinship
+1 Chitterspitter
+1 Golgari Signet
+1 Helm of the Host
+1 Idol of Oblivion
+1 Maskwood Nexus
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Cache Grab
+1 Consumed by Greed
+1 Deadly Dispute
+1 Peerless Recycling
+1 Saw in Half
+1 Second Harvest
+1 Windgrace's Judgment
+1 Casualties of War
+1 Chatter of the Squirrel
+1 Coiling Rebirth
+1 For the Common Good
+1 Harmonize
+1 Rootcast Apprenticeship
+1 Season of Loss
+1 Swarmyard Massacre
+1 Beastmaster Ascension
+1 Doubling Season
+1 Greater Good
+1 Insidious Roots
+1 Moldervine Reclamation
+1 Scavenger's Talent
+1 Squirrel Nest
+1 Garruk, Cursed Huntsman
+1 Barren Moor
+1 Bojuka Bog
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+11 Forest
+1 Fountainport
+1 Golgari Rot Farm
+1 Llanowar Wastes
+1 Mudflat Village
+1 Necroblossom Snarl
+1 Oakhollow Village
+1 Oran-Rief, the Vastwood
+9 Swamp
+1 Swarmyard
+1 Terramorphic Expanse
+1 Three Tree City
+1 Tranquil Thicket
+1 Twilight Mire
+1 Viridescent Bog
+Sideboard
+1 Hazel of the Rootbloom

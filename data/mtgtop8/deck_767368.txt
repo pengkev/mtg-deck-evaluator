@@ -1,0 +1,97 @@
+1 Asmodeus the Archfiend
+1 Birgi, God of Storytelling
+1 Boggart Trawler
+1 Dark Confidant
+1 Doom Whisperer
+1 Dualcaster Mage
+1 Gray Merchant of Asphodel
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 K'rrik, Son of Yawgmoth
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Priest of Gix
+1 Priest of Urabrask
+1 Ragavan, Nimble Pilferer
+1 Skirge Familiar
+1 Storm-Kiln Artist
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Thought Vessel
+1 Ad Nauseam
+1 Burnt Offering
+1 Cabal Ritual
+1 Commune with Lava
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Display of Power
+1 Entomb
+1 Fell the Profane
+1 Fire Covenant
+1 Imp's Mischief
+1 Lightning Bolt
+1 Plunge into Darkness
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Snuff Out
+1 Vampiric Tutor
+1 Apex of Power
+1 Claim the Firstborn
+1 Crackle with Power
+1 Damnable Pact
+1 Demonic Tutor
+1 Electroduplicate
+1 Exsanguinate
+1 Faithless Looting
+1 Feed the Swarm
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Night's Whisper
+1 Past in Flames
+1 Peer into the Abyss
+1 Reanimate
+1 Repay in Kind
+1 Sundering Eruption
+1 Torment of Hailfire
+1 Twinflame
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Black Market Connections
+1 Necropotence
+1 Underworld Breach
+1 Ancient Tomb
+1 Badlands
+1 Barbarian Ring
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Beacon
+1 Command Tower
+1 Dragonskull Summit
+1 Foreboding Ruins
+1 Gemstone Caverns
+1 Graven Cairns
+1 Haunted Ridge
+1 Luxury Suite
+1 Marsh Flats
+3 Mountain
+1 Polluted Delta
+1 Reliquary Tower
+1 Scalding Tarn
+3 Swamp
+1 Wooded Foothills
+Sideboard
+1 Rowan, Scion of War

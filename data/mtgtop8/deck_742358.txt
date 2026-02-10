@@ -1,0 +1,92 @@
+1 Academy Manufactor
+1 Banquet Guests
+1 Baylen, the Haymaker
+1 Beanstalk Giant
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Curious Pair
+1 Displaced Dinosaurs
+1 Etali, Primal Conqueror
+1 Feasting Hobbit
+1 Giant Killer
+1 Gilded Goose
+1 Gingerbrute
+1 Guardian Naga
+1 Hugs, Grisly Guardian
+1 Jaheira, Friend of the Forest
+1 Kami of Whispered Hopes
+1 Peregrin Took
+1 Prize Pig
+1 Questing Druid
+1 Realm-Cloaked Giant
+1 Sam, Loyal Attendant
+1 Samwise Gamgee
+1 Syr Ginger, the Meal Ender
+1 Thornvault Forager
+1 Tireless Provisioner
+1 Tlincalli Hunter
+1 Tough Cookie
+1 Woodland Acolyte
+1 Arcane Signet
+1 Candy Trail
+1 Eriette's Tempting Apple
+1 Lembas
+1 Sculpting Steel
+1 Sol Ring
+1 Clever Concealment
+1 Delayed Blast Fireball
+1 Guff Rewrites History
+1 Heroic Intervention
+1 Soul Partition
+1 Swords to Plowshares
+1 Virtue of Courage
+1 Zoyowa's Justice
+1 Doomskar
+1 Escape to the Wilds
+1 For the Common Good
+1 Jeska's Will
+1 Late to Dinner
+1 Many Partings
+1 Nature's Lore
+1 Three Visits
+1 Ultimate Magic: Meteor
+1 Charred Foyer/Warped Space
+1 Exploration
+1 Ghirapur Aether Grid
+1 Invigorating Hot Spring
+1 Night of the Sweets' Revenge
+1 Prosperous Partnership
+1 Rising of the Day
+1 Smothering Tithe
+1 Trail of Crumbs
+1 Valakut Exploration
+1 Quintorius Kand
+1 Arid Mesa
+1 Branchloft Pathway
+1 Command Tower
+1 Commercial District
+1 Cori Mountain Monastery
+1 Cragcrown Pathway
+1 Elegant Parlor
+6 Forest
+1 Gingerbread Cabin
+1 Hidden Courtyard
+1 Hidden Nursery
+1 Hidden Volcano
+1 Jetmir's Garden
+1 Jungle Shrine
+1 Krosan Verge
+1 Lush Portico
+1 Mines of Moria
+2 Mountain
+1 Needleverge Pathway
+1 Ominous Cemetery
+4 Plains
+1 Sacred Foundry
+1 Stomping Ground
+1 Temple Garden
+1 The Shire
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Rocco, Street Chef

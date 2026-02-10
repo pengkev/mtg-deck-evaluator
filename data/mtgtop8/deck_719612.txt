@@ -1,0 +1,95 @@
+1 Arcane Signet
+1 Everflowing Chalice
+1 Mox Diamond
+1 Fellwar Stone
+1 Urza's Bauble
+1 Jeweled Amulet
+1 Voltaic Key
+1 Winter Orb
+1 Basalt Monolith
+1 Static Orb
+1 Manifold Key
+1 Imposter Mech
+1 Chrome Mox
+1 Unwinding Clock
+1 Tormod's Crypt
+1 Ghost Vacuum
+1 Sol Ring
+1 Mox Opal
+1 Whir of Invention
+1 Retraction Helix
+1 Swan Song
+1 March of Swirling Mist
+1 Grim Monolith
+1 Banishing Knack
+1 Codex Shredder
+1 Isochron Scepter
+1 Aether Spellbomb
+1 Rings of Brighthearth
+1 Prized Statue
+1 Mishra's Bauble
+1 The One Ring
+1 Repurposing Bay
+1 Mana Vault
+1 Lotus Petal
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Power Artifact
+1 Rhystic Study
+1 Mystic Remora
+1 Tezzeret the Seeker
+1 Sea Gate Restoration
+1 An Offer You Can't Refuse
+1 Dramatic Reversal
+1 Resculpt
+1 Flusterstorm
+1 Mana Drain
+1 Mystical Tutor
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Pact of Negation
+1 Mental Misstep
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 Force of Negation
+1 Sink into Stupor
+1 Delay
+1 Muddle the Mixture
+1 Reshape
+1 Fabricate
+1 Timetwister
+1 Transmute Artifact
+1 Merchant Scroll
+1 Force of Will
+1 Walking Ballista
+1 Spellskite
+1 Hullbreaker Horror
+1 Faerie Mastermind
+1 Valley Floodcaller
+1 Forensic Gadgeteer
+1 Pollywog Prodigy
+1 Phyrexian Metamorph
+1 Hydroelectric Specimen
+1 The Reality Chip
+1 Battered Golem
+1 Minamo, School at Water's Edge
+1 Inventors' Fair
+1 Cephalid Coliseum
+1 Prismatic Vista
+1 Gemstone Caverns
+1 Saprazzan Skerry
+1 Emergence Zone
+1 Oboro, Palace in the Clouds
+1 Flooded Strand
+1 Polluted Delta
+1 Misty Rainforest
+1 Scalding Tarn
+1 Ancient Tomb
+1 Seat of the Synod
+1 Crystal Vein
+1 Otawara, Soaring City
+1 City of Traitors
+1 Urza's Saga
+7 Island
+Sideboard
+1 Urza, Lord High Artificer

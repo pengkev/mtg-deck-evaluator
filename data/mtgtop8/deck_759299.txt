@@ -1,0 +1,85 @@
+1 Anger
+1 Baleful Strix
+1 Deadeye Navigator
+1 Deadpool, Trading Card
+1 Displacer Kitten
+1 Emet-Selch, Unsundered
+1 Gogo, Master of Mimicry
+1 Harmonic Prodigy
+1 Kefka, Dancing Mad
+1 Kuja, Genome Sorcerer
+1 Magus of the Wheel
+1 Nekusar, the Mindrazer
+1 Nightscape Familiar
+1 Psychosis Crawler
+1 Razorkin Needlehead
+1 Scrawling Crawler
+1 Solemn Simulacrum
+1 Spark Double
+1 Tergrid, God of Fright
+1 Tinybones, Bauble Burglar
+1 Vivi Ornitier
+1 Wonder
+1 Y'shtola Rhul
+1 Arcane Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Geth's Grimoire
+1 Izzet Signet
+1 Lightning Greaves
+1 Monument to Endurance
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Chaos Warp
+1 Counterspell
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Essence Flux
+1 Ghostly Flicker
+1 Negate
+1 Planar Incision
+1 Saw in Half
+1 Teferi's Time Twist
+1 Blasphemous Act
+1 Damnation
+1 Dark Deal
+1 Feed the Swarm
+1 Reanimate
+1 Toxic Deluge
+1 Vandalblast
+1 Victimize
+1 Windfall
+1 Liliana's Caress
+1 Painful Quandary
+1 Rhystic Study
+1 Tinybones Joins Up
+1 Waste Not
+1 Ash Barrens
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+6 Island
+6 Mountain
+1 Path of Ancestry
+1 Reliquary Tower
+1 Seething Landscape
+1 Shivan Reef
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+7 Swamp
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 Underground River
+Sideboard
+1 Kefka, Court Mage

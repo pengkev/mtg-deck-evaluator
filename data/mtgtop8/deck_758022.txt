@@ -1,0 +1,86 @@
+1 Birds of Paradise
+1 Bladegriff Prototype
+1 Diamond Weapon
+1 Dryad of the Ilysian Grove
+1 Enduring Courage
+1 Giggling Skitterspike
+1 Hellkite Tyrant
+1 Jhoira's Familiar
+1 Kodama of the East Tree
+1 Llanowar Loamspeaker
+1 Mishra's Self-Replicator
+1 Nylea, God of the Hunt
+1 Nyxbloom Ancient
+1 Overlord of the Hauntwoods
+1 Oviya, Automech Artisan
+1 Pyreswipe Hawk
+1 Railway Brawler
+1 Roaming Throne
+1 Scavenged Brawler
+1 Stuffy Doll
+1 Tannuk, Steadfast Second
+1 Tender Wildguide
+1 Thopter Assembly
+1 Wandertale Mentor
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Atmospheric Greenhouse
+1 Dawnsire, Sunstar Dreadnought
+1 Esika's Chariot
+1 Extinguisher Battleship
+1 Fellwar Stone
+1 Gilded Lotus
+1 Lightning Greaves
+1 Nautiloid Ship
+1 Rolling Hamsphere
+1 Sol Ring
+1 The Earth Crystal
+1 The Eternity Elevator
+1 The One Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Unwinding Clock
+1 Archdruid's Charm
+1 Band Together
+1 Beast Within
+1 Starstorm
+1 Blasphemous Act
+1 Cultivate
+1 Decimate
+1 Nature's Rhythm
+1 Pick Your Poison
+1 Berserkers' Onslaught
+1 Gratuitous Violence
+1 Greenhouse/Rickety Gazebo
+1 Growing Rites of Itlimoc
+1 Gruul War Chant
+1 Nature's Will
+1 Pain for All
+1 Primeval Bounty
+1 Stranglehold
+1 Sunbird's Invocation
+1 Unnatural Growth
+1 Warstorm Surge
+1 Arcane Lighthouse
+1 Cinder Glade
+1 Command Beacon
+1 Command Tower
+1 Copperline Gorge
+1 Evendo, Waking Haven
+1 Exotic Orchard
+1 Fomori Vault
+8 Forest
+1 Game Trail
+1 Gruul Turf
+1 Mossfire Valley
+1 Mosswort Bridge
+9 Mountain
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rootbound Crag
+1 Rugged Highlands
+1 Sheltered Thicket
+1 Shifting Woodland
+1 Temple of Abandon
+Sideboard
+1 Bello, Bard of the Brambles

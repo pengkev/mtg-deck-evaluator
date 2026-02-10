@@ -1,0 +1,101 @@
+1 Gitaxian Probe
+1 Necrodominance
+1 Underworld Breach
+1 Mystic Remora
+1 Carpet of Flowers
+1 Necropotence
+1 Rhystic Study
+1 Warrior's Oath
+1 Gamble
+1 Beseech the Mirror
+1 Praetor's Grasp
+1 Inevitable Betrayal
+1 Profane Tutor
+1 Culling Ritual
+1 Wheel of Fate
+1 Jeska's Will
+1 Imperial Seal
+1 Demonic Tutor
+1 Wheel of Fortune
+1 Rite of Flame
+1 Flusterstorm
+1 Borne Upon a Wind
+1 Mental Misstep
+1 Demonic Consultation
+1 An Offer You Can't Refuse
+1 Veil of Summer
+1 Snap
+1 Brain Freeze
+1 Tainted Pact
+1 Dark Ritual
+1 Crop Rotation
+1 Red Elemental Blast
+1 Pact of Negation
+1 Brainstorm
+1 Cabal Ritual
+1 Dramatic Reversal
+1 Manamorphose
+1 Force of Will
+1 Ad Nauseam
+1 Pyroblast
+1 Mystical Tutor
+1 Daze
+1 Deflecting Swat
+1 Vampiric Tutor
+1 Final Fortune
+1 Chain of Vapor
+1 Noxious Revival
+1 Lotus Petal
+1 Talisman of Indulgence
+1 Talisman of Dominance
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Mox Opal
+1 Wishclaw Talisman
+1 Mana Vault
+1 The One Ring
+1 Mox Diamond
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Valley Floodcaller
+1 Wild Cantor
+1 Delighted Halfling
+1 Thassa's Oracle
+1 Ragavan, Nimble Pilferer
+1 Elvish Spirit Guide
+1 Ignoble Hierarch
+1 Simian Spirit Guide
+1 Deathrite Shaman
+1 Dosan the Falling Leaf
+1 Birds of Paradise
+1 Tinder Wall
+1 City of Brass
+1 Forbidden Orchard
+1 Shifting Woodland
+1 Boseiju, Who Endures
+1 Emergence Zone
+1 Exotic Orchard
+1 Otawara, Soaring City
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Scalding Tarn
+1 Marsh Flats
+1 Arid Mesa
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Command Tower
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Tropical Island
+1 Volcanic Island
+1 Taiga
+1 Underground Sea
+1 Badlands
+1 Bayou
+1 Mana Confluence
+1 City of Traitors
+Sideboard
+1 Yidris, Maelstrom Wielder

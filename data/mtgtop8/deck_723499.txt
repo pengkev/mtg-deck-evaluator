@@ -1,0 +1,101 @@
+1 Kederekt Parasite
+1 Firebrand Archer
+1 Walking Ballista
+1 Goblin Engineer
+1 Reckless Fireweaver
+1 Simian Spirit Guide
+1 Birgi, God of Storytelling
+1 Ragavan, Nimble Pilferer
+1 Prosper, Tome-Bound
+1 Kessig Flamebreather
+1 Orcish Bowmasters
+1 Party Thrasher
+1 Coruscation Mage
+1 Razorkin Needlehead
+1 Mayhem Devil
+1 Scrawling Crawler
+1 Dragon's Rage Channeler
+1 Wishclaw Talisman
+1 Grinding Station
+1 Lotus Petal
+1 Lightning Greaves
+1 Mox Opal
+1 Mox Diamond
+1 Rakdos Signet
+1 Mana Vault
+1 Sensei's Divining Top
+1 Talisman of Indulgence
+1 Fellwar Stone
+1 Mox Amber
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Sol Ring
+1 Unstable Amulet
+1 Vexing Bauble
+1 Chrome Mox
+1 Fatal Push
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Bolt Bend
+1 Entomb
+1 Pyroblast
+1 Rending Volley
+1 Red Elemental Blast
+1 Seething Song
+1 Dark Ritual
+1 Tainted Pact
+1 Vampiric Tutor
+1 Deadly Rollick
+1 Abrade
+1 Lightning Bolt
+1 Culling the Weak
+1 Rain of Filth
+1 Dismember
+1 Cabal Ritual
+1 Untimely Malfunction
+1 Delayed Blast Fireball
+1 Deflecting Swat
+1 Imperial Seal
+1 Demonic Tutor
+1 Yawgmoth's Will
+1 Wheel of Fortune
+1 Rite of Flame
+1 Diabolic Intent
+1 Grapeshot
+1 Gamble
+1 Molten Duplication
+1 Toxic Deluge
+1 Jeska's Will
+1 Necropotence
+1 Powerbalance
+1 Artist's Talent
+1 All Will Be One
+1 Underworld Breach
+1 Karn, the Great Creator
+1 City of Traitors
+1 Mountain
+1 Swamp
+1 Ancient Tomb
+1 Blood Crypt
+1 Graven Cairns
+1 Mana Confluence
+1 Polluted Delta
+1 Bloodstained Mire
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Snow-Covered Swamp
+1 Badlands
+1 Great Furnace
+1 Cabal Pit
+1 City of Brass
+1 Luxury Suite
+1 Arid Mesa
+1 Exotic Orchard
+1 Sulfurous Springs
+1 Gemstone Caverns
+1 Mount Doom
+1 Command Tower
+1 Raucous Theater
+1 Blazemire Verge
+Sideboard
+1 Ob Nixilis, Captive Kingpin

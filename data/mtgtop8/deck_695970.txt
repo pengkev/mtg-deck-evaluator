@@ -1,0 +1,91 @@
+1 Dualcaster Mage
+1 Magus of the Wheel
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Infinite Gyre
+1 Imperial Recruiter
+1 Birgi, God of Storytelling
+1 Storm-Kiln Artist
+1 Wandering Archaic
+1 Simian Spirit Guide
+1 Harmonic Prodigy
+1 Ragavan, Nimble Pilferer
+1 Containment Construct
+1 Crackling Spellslinger
+1 Pinnacle Monk
+1 Treasonous Ogre
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Mana Vault
+1 Ruby Medallion
+1 Chrome Mox
+1 Mox Diamond
+1 Grim Monolith
+1 Twinning Staff
+1 Lion's Eye Diamond
+1 Mox Amber
+1 The One Ring
+1 Phial of Galadriel
+1 Mox Opal
+1 Chaos Warp
+1 Lightning Bolt
+1 Red Elemental Blast
+1 Fork
+1 Increasing Vengeance
+1 Pyroblast
+1 Radiate
+1 Pyromatics
+1 Pyretic Ritual
+1 Reverberate
+1 Seething Song
+1 Scattershot
+1 Desperate Ritual
+1 Fury Storm
+1 Lava Dart
+1 Wild Slash
+1 Chain of Plasma
+1 Reiterate
+1 Tibalt's Trickery
+1 Dual Strike
+1 Invoke Calamity
+1 Wild Magic Surge
+1 Delayed Blast Fireball
+1 Twinferno
+1 Valakut Awakening
+1 Return the Favor
+1 Flare of Duplication
+1 Ghostfire Slice
+1 Untimely Malfunction
+1 Tempt with Mayhem
+1 Deflecting Swat
+1 Dangerous Wager
+1 Display of Power
+1 Shattering Spree
+1 Winds of Change
+1 Wheel of Fortune
+1 Bonus Round
+1 Gamble
+1 Past in Flames
+1 Rite of Flame
+1 Reforge the Soul
+1 Jeska's Will
+1 Wheel of Misfortune
+1 Strike It Rich
+1 Underworld Breach
+1 Artist's Talent
+11 Mountain
+1 Great Furnace
+1 Shinka, the Bloodsoaked Keep
+1 Homeward Path
+1 Command Beacon
+1 Cavern of Souls
+1 Ancient Tomb
+1 Blast Zone
+1 Gemstone Caverns
+1 Emergence Zone
+1 Sokenzan, Crucible of Defiance
+1 Plaza of Heroes
+1 Urza's Cave
+1 Talon Gates of Madara
+Sideboard
+1 Ashling, Flame Dancer

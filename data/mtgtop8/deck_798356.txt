@@ -1,0 +1,101 @@
+1 Elvish Spirit Guide
+1 Voice of Victory
+1 Enduring Vitality
+1 Delighted Halfling
+1 Devoted Druid
+1 Spellseeker
+1 Esper Sentinel
+1 Walking Ballista
+1 Bloom Tender
+1 Valley Floodcaller
+1 Biomancer's Familiar
+1 High Fae Trickster
+1 Noble Hierarch
+1 Six
+1 Cloud of Faeries
+1 Badgermole Cub
+1 Birds of Paradise
+1 Emiel the Blessed
+1 Faerie Mastermind
+1 Wan Shi Tong, Librarian
+1 Sowing Mycospawn
+1 Grand Abolisher
+1 Eternal Witness
+1 Oboro Breezecaller
+1 Charismatic Conqueror
+1 Kinnan, Bonder Prodigy
+1 Seedborn Muse
+1 Derevi, Empyrial Tactician
+1 Lotus Petal
+1 The One Ring
+1 Mox Opal
+1 Basalt Monolith
+1 Machine God's Effigy
+1 Mana Vault
+1 Mox Amber
+1 Candelabra of Tawnos
+1 Mox Diamond
+1 Grim Monolith
+1 Chrome Mox
+1 Sol Ring
+1 Noxious Revival
+1 Pact of Negation
+1 Swords to Plowshares
+1 Into the Flood Maw
+1 Fierce Guardianship
+1 Force of Negation
+1 Flusterstorm
+1 Silence
+1 Snap
+1 Gifts Ungiven
+1 Swan Song
+1 Mental Misstep
+1 Force of Will
+1 Intuition
+1 Mindbreak Trap
+1 Chord of Calling
+1 Crop Rotation
+1 Enlightened Tutor
+1 Sevinne's Reclamation
+1 Sylvan Scrying
+1 Green Sun's Zenith
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Wargate
+1 Swift Reconfiguration
+1 Training Grounds
+1 Nature's Chosen
+1 Rhystic Study
+1 Mystic Remora
+1 Cryptolith Rite
+1 Smothering Tithe
+1 Growing Rites of Itlimoc
+1 Talon Gates of Madara
+1 City of Brass
+1 Plains
+1 Tropical Island
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tundra
+1 Command Tower
+1 Breeding Pool
+1 Ancient Tomb
+1 Savannah
+1 Marsh Flats
+1 Scalding Tarn
+1 Hallowed Fountain
+1 Forest
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
+1 Deserted Temple
+1 Windswept Heath
+1 Misty Rainforest
+1 Flooded Strand
+1 Minamo, School at Water's Edge
+1 Boseiju, Who Endures
+1 Gemstone Caverns
+1 Island
+Sideboard
+1 Yoshimaru, Ever Faithful
+1 Thrasios, Triton Hero

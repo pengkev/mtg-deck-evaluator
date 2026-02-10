@@ -1,0 +1,94 @@
+1 Accursed Marauder
+1 Angel of Invention
+1 Aven Mindcensor
+1 Braids, Arisen Nightmare
+1 Charming Prince
+1 Dauthi Voidwalker
+1 Disciple of Bolas
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Flickerwisp
+1 Goldspan Dragon
+1 Grand Abolisher
+1 Greymond, Avacyn's Stalwart
+1 Haliya, Guided by Light
+1 Marionette Apprentice
+1 Mirkwood Bats
+1 Mondrak, Glory Dominus
+1 Morbid Opportunist
+1 Nadier's Nightblade
+1 Platinum Angel
+1 Rankle and Torbran
+1 Reckless Fireweaver
+1 Sheoldred
+1 Sheoldred, Whispering One
+1 Syr Vondam, Sunstar Exemplar
+1 Tergrid, God of Fright
+1 The Jolly Balloon Man
+1 Void Winnower
+1 Witch Enchanter
+1 Arcane Signet
+1 Blade of Selves
+1 Chainsaw
+1 Gisa's Favorite Shovel
+1 Jet Medallion
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The Endstone
+1 The Reaver Cleaver
+1 Clever Concealment
+1 Cloudshift
+1 Dark Ritual
+1 Deadly Dispute
+1 Generous Gift
+1 Ghostway
+1 Mortify
+1 Orim's Chant
+1 Sejiri Shelter
+1 Sudden Edict
+1 Vona's Hunger
+1 Vraska's Fall
+1 Blasphemous Edict
+1 Damn
+1 Demonic Tutor
+1 Feed the Swarm
+1 Rankle's Prank
+1 Reanimate
+1 Authority of the Consuls
+1 Meathook Massacre II
+1 Painful Quandary
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+1 Revel in Riches
+1 Smothering Tithe
+1 Teleportation Circle
+1 Windcrag Siege
+1 Arena of Glory
+1 Blazemire Verge
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Caves of Koilos
+1 Command Tower
+1 Dragonskull Summit
+1 Echoing Deeps
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Godless Shrine
+1 Graven Cairns
+1 Haunted Ridge
+1 Inspiring Vantage
+1 Isolated Chapel
+2 Mountain
+1 Needleverge Pathway
+2 Plains
+1 Plaza of Heroes
+1 Radiant Summit
+1 Rugged Prairie
+1 Sacred Foundry
+1 Smoldering Marsh
+1 Spectator Seating
+6 Swamp
+1 Temple of Malice
+1 Temple of Triumph
+Sideboard
+1 Malik, Grim Manipulator

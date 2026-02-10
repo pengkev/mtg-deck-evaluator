@@ -1,0 +1,86 @@
+1 Questing Beast
+1 Joraga Treespeaker
+1 Karmic Guide
+1 Knight of Autumn
+1 Resolute Archangel
+1 Boreal Druid
+1 Birds of Paradise
+1 Emiel the Blessed
+1 Saffi Eriksdotter
+1 Avacyn's Pilgrim
+1 Kodama of the East Tree
+1 Fyndhorn Elves
+1 Farhaven Elf
+1 Abdel Adrian, Gorion's Ward
+1 Restoration Angel
+1 Trostani Discordant
+1 Eternal Witness
+1 Guardian of Ghirapur
+1 Delighted Halfling
+1 Boromir, Warden of the Tower
+1 Wood Elves
+1 Elvish Mystic
+1 Moonshaker Cavalry
+1 Topiary Stomper
+1 Disciple of Freyalise
+1 Llanowar Elves
+1 Clifftop Lookout
+1 Spore Frog
+1 Realm-Cloaked Giant
+1 Skyclave Apparition
+1 Solemn Simulacrum
+1 Sakura-Tribe Elder
+1 Charming Prince
+1 Somberwald Sage
+1 Cavalier of Dawn
+1 Voice of Victory
+1 Craterhoof Behemoth
+1 Springbloom Druid
+1 Timeless Witness
+1 Shalai, Voice of Plenty
+1 Dragonlord Dromoka
+1 Beast Whisperer
+1 Kogla, the Titan Ape
+1 Gwenna, Eyes of Gaea
+1 Angel of the Ruins
+1 Panharmonicon
+1 Sol Ring
+1 Thought Vessel
+1 Lightning Greaves
+1 Birthing Pod
+1 Ephemerate
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Beast Within
+1 Farewell
+1 Eldritch Evolution
+1 Mirari's Wake
+1 Kenrith's Transformation
+1 Growing Rites of Itlimoc
+1 Birthing Ritual
+1 Guardian Project
+1 Temple Garden
+1 Windswept Heath
+1 High Market
+1 Command Tower
+1 Grasslands
+1 Horizon Canopy
+1 Windbrisk Heights
+1 Lush Portico
+1 Mosswort Bridge
+1 Canopy Vista
+1 Sungrass Prairie
+1 Creosote Heath
+1 Demolition Field
+1 Brushland
+1 Fabled Passage
+1 Reliquary Tower
+1 Sunpetal Grove
+1 Overgrown Farmland
+1 Fortified Village
+11 Forest
+6 Plains
+Sideboard
+1 Torsten, Founder of Benalia

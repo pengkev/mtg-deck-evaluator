@@ -1,0 +1,101 @@
+1 Teferi, Time Raveler
+1 Tyvar, Jubilant Brawler
+1 Dihada, Binder of Wills
+1 Aminatou, the Fateshifter
+1 Saheeli Rai
+1 Nicol Bolas, Dragon-God
+1 Cultist of the Absolute
+1 Touch the Spirit Realm
+1 Rhystic Study
+1 Oath of Teferi
+1 Mystic Remora
+1 Smothering Tithe
+1 Finale of Devastation
+1 Demonic Tutor
+1 Deflecting Swat
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Abrupt Decay
+1 Mindbreak Trap
+1 Into the Flood Maw
+1 Strix Serenade
+1 Legolas's Quick Reflexes
+1 Swan Song
+1 Force of Negation
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Cyclonic Rift
+1 Silence
+1 Force of Will
+1 Fierce Guardianship
+1 Flusterstorm
+1 Vampiric Tutor
+1 Dismember
+1 Lotus Petal
+1 Sol Ring
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Mox Amber
+1 Relic of Legends
+1 Fellwar Stone
+1 Mox Diamond
+1 Mox Opal
+1 Chrome Mox
+1 Chromatic Orrery
+1 Bloom Tender
+1 Enduring Vitality
+1 Marvin, Murderous Mimic
+1 Noble Hierarch
+1 Ignoble Hierarch
+1 Chainer, Nightmare Adept
+1 Elvish Spirit Guide
+1 Faeburrow Elder
+1 Ragavan, Nimble Pilferer
+1 Phelia, Exuberant Shepherd
+1 Esper Sentinel
+1 Kutzil, Malamet Exemplar
+1 Lotho, Corrupt Shirriff
+1 Ioreth of the Healing House
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Kinnan, Bonder Prodigy
+1 Ertai Resurrected
+1 Colossal Skyturtle
+1 Esika, God of the Tree
+1 Derevi, Empyrial Tactician
+1 Selvala, Heart of the Wilds
+1 Emiel the Blessed
+1 Sakashima the Impostor
+1 Birds of Paradise
+1 Tarnished Citadel
+1 Flooded Strand
+1 Windswept Heath
+1 Polluted Delta
+1 Bloodstained Mire
+1 Mount Doom
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Ancient Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 Command Tower
+1 Verdant Catacombs
+1 Steam Vents
+1 Forbidden Orchard
+1 Wooded Foothills
+1 Gemstone Caverns
+1 Gaea's Cradle
+1 Temple Garden
+1 Overgrown Tomb
+1 Mana Confluence
+1 Marsh Flats
+1 Arid Mesa
+1 Stomping Ground
+1 Godless Shrine
+1 Hallowed Fountain
+1 Watery Grave
+1 Breeding Pool
+1 City of Brass
+Sideboard
+1 Sisay, Weatherlight Captain

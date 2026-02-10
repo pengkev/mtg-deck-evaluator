@@ -1,0 +1,101 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Coruscation Mage
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Firespitter Whelp
+1 Guttersnipe
+1 Kessig Flamebreather
+1 Laboratory Maniac
+1 Ragavan, Nimble Pilferer
+1 Scalding Viper
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Treasonous Ogre
+1 Vivi Ornitier
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Izzet Signet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Jasper
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Desperate Ritual
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Galvanic Blast
+1 Ghostfire Slice
+1 Into the Flood Maw
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pact of Negation
+1 Price of Progress
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Sink into Stupor
+1 Stern Dismissal
+1 Swan Song
+1 Valakut Awakening
+1 Boltwave
+1 Cave-In
+1 End the Festivities
+1 Flame Rift
+1 Gamble
+1 Grapeshot
+1 Inner Fire
+1 Jeska's Will
+1 Rite of Flame
+1 Strike It Rich
+1 Tectonic Hazard
+1 Curiosity
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Talon Gates of Madara
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Niv-Mizzet, Visionary

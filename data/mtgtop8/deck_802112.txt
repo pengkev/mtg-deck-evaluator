@@ -1,0 +1,101 @@
+1 Ranger-Captain of Eos
+1 Hoarding Broodlord
+1 Abdel Adrian, Gorion's Ward
+1 Grand Abolisher
+1 Simian Spirit Guide
+1 Dualcaster Mage
+1 Murderous Redcap
+1 Dragon's Rage Channeler
+1 Putrid Goblin
+1 Voice of Victory
+1 Pinnacle Monk
+1 Imperial Recruiter
+1 Skirk Prospector
+1 Lesser Masticore
+1 Harmonic Prodigy
+1 Ornithopter of Paradise
+1 Lotho, Corrupt Shirriff
+1 Archivist of Oghma
+1 Talisman of Indulgence
+1 Arcane Signet
+1 Talisman of Hierarchy
+1 Lotus Petal
+1 Fellwar Stone
+1 Altar of Dementia
+1 Talisman of Conviction
+1 Springleaf Drum
+1 Sol Ring
+1 Defense Grid
+1 Wishclaw Talisman
+1 Rakdos Signet
+1 Enlightened Tutor
+1 Silence
+1 Dark Ritual
+1 Cloudshift
+1 Redirect Lightning
+1 Soul Partition
+1 Demonic Consultation
+1 Red Elemental Blast
+1 Pyroblast
+1 Saw in Half
+1 Sacrifice
+1 Entomb
+1 Malakir Rebirth
+1 Tainted Pact
+1 Culling the Weak
+1 Vampiric Tutor
+1 Ephemerate
+1 Path to Exile
+1 Tibalt's Trickery
+1 Cabal Ritual
+1 Wear/Tear
+1 Burnt Offering
+1 Swords to Plowshares
+1 Blasphemous Act
+1 Lively Dirge
+1 Diabolic Intent
+1 Unmarked Grave
+1 Persist
+1 Beseech the Mirror
+1 Praetor's Grasp
+1 Sevinne's Reclamation
+1 Reanimate
+1 Twinflame
+1 Insatiable Avarice
+1 Faithless Looting
+1 Scheming Symmetry
+1 Rite of Flame
+1 Buried Alive
+1 Smothering Tithe
+1 Necromancy
+1 Animate Dead
+1 Goblin Bombardment
+1 Verdant Catacombs
+1 Godless Shrine
+1 Swamp
+1 Luxury Suite
+1 Caves of Koilos
+1 Gemstone Mine
+1 Command Tower
+1 Arid Mesa
+1 Phyrexian Tower
+1 Wooded Foothills
+1 Mountain
+1 Exotic Orchard
+1 City of Brass
+1 Polluted Delta
+1 Tarnished Citadel
+1 Raucous Theater
+1 Bleachbone Verge
+1 Forbidden Orchard
+1 Marsh Flats
+1 Plains
+1 Sulfurous Springs
+1 Takenuma, Abandoned Mire
+1 Shadowy Backstreet
+1 Scalding Tarn
+1 Blood Crypt
+1 Bloodstained Mire
+1 Blazemire Verge
+Sideboard
+1 Celes, Rune Knight

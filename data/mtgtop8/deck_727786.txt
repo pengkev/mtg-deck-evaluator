@@ -1,0 +1,101 @@
+1 Tishana, Voice of Thunder
+1 Razaketh, the Foulblooded
+1 Llanowar Elves
+1 Deadeye Navigator
+1 Birds of Paradise
+1 Eternal Witness
+1 Prime Speaker Zegana
+1 Fyndhorn Elves
+1 Phantasmal Image
+1 Arbor Elf
+1 Woodland Bellower
+1 Great Whale
+1 Peregrine Drake
+1 Cloud of Faeries
+1 Palinchron
+1 Phyrexian Metamorph
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Oboro Breezecaller
+1 Fierce Empath
+1 Devoted Druid
+1 Gigantoplasm
+1 Stunt Double
+1 Avatar of Growth
+1 Kinnan, Bonder Prodigy
+1 Gyruda, Doom of Depths
+1 Glasspool Mimic
+1 Kodama of the East Tree
+1 Beledros Witherbloom
+1 Chatterfang, Squirrel General
+1 Ruthless Technomancer
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Flesh Duplicate
+1 Ghalta, Stampede Tyrant
+1 Grim Servant
+1 Warren Soultrader
+1 Sowing Mycospawn
+1 Disciple of Freyalise
+1 Hazel's Brewmaster
+1 Enduring Vitality
+1 Colossal Grave-Reaver
+1 Mana Vault
+1 Sol Ring
+1 Chrome Mox
+1 Mox Diamond
+1 Force of Will
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Culling the Weak
+1 Dark Ritual
+1 Snap
+1 Crop Rotation
+1 Trickbind
+1 Flusterstorm
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Sylvan Scrying
+1 Demonic Tutor
+1 Imperial Seal
+1 Genesis Storm
+1 Incarnation Technique
+1 Last March of the Ents
+1 Wild Growth
+1 Utopia Sprawl
+1 Earthcraft
+1 Overgrowth
+1 Sunscorched Desert
+1 Island
+1 Swamp
+1 Forest
+1 Snow-Covered Island
+1 Breeding Pool
+1 Watery Grave
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Phyrexian Tower
+1 Overgrown Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Prismatic Vista
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Horizon of Progress
+1 Talon Gates of Madara
+Sideboard
+1 Thrasios, Triton Hero
+1 Tevesh Szat, Doom of Fools

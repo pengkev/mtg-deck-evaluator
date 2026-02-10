@@ -1,0 +1,101 @@
+1 Jace, Vryn's Prodigy
+1 Obeka, Brute Chronologist
+1 Opposition Agent
+1 Simian Spirit Guide
+1 Snapcaster Mage
+1 Thassa's Oracle
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Isochron Scepter
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Tantalite
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Cabal Ritual
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Delay
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Final Fortune
+1 Flame of Anor
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Fork
+1 Intuition
+1 Mana Drain
+1 Mental Misstep
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Pongify
+1 Pyroblast
+1 Red Elemental Blast
+1 Stifle
+1 Swan Song
+1 Tainted Pact
+1 Terminate
+1 Vampiric Tutor
+1 Whir of Invention
+1 Demonic Tutor
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Ponder
+1 Preordain
+1 Reanimate
+1 Rite of Flame
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Time Warp
+1 Windfall
+1 Counterbalance
+1 Mystic Remora
+1 Phyrexian Arena
+1 Powerbalance
+1 Rhystic Study
+1 Jace, the Mind Sculptor
+1 Jace, Wielder of Mysteries
+1 Narset, Parter of Veils
+1 Ancient Tomb
+1 Arid Mesa
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Fabled Passage
+1 Fetid Pools
+1 Flooded Strand
+1 Gloomlake Verge
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Sulfur Falls
+1 Swamp
+1 Underground River
+1 Verdant Catacombs
+1 Watery Grave
+1 Wooded Foothills
+1 Xander's Lounge
+Sideboard
+1 Kess, Dissident Mage

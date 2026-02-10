@@ -1,0 +1,88 @@
+1 Dovin's Veto
+1 Negate
+1 Counterspell
+1 Opt
+1 Dimir Signet
+1 Azorius Signet
+1 Arcane Signet
+1 Orzhov Signet
+1 Well of Lost Dreams
+1 Sol Ring
+1 Decanter of Endless Water
+1 Thought Vessel
+1 Teferi's Puzzle Box
+1 Lightning Greaves
+1 Laboratory Maniac
+1 Marauding Blight-Priest
+1 Scrawling Crawler
+1 Starscape Cleric
+1 Talion, the Kindly Lord
+1 Lotho, Corrupt Shirriff
+1 Faerie Mastermind
+1 Gixian Puppeteer
+1 Sheoldred, the Apocalypse
+1 Drogskol Reaver
+1 The Council of Four
+1 Esper Sentinel
+1 Notion Thief
+1 Cliffhaven Vampire
+1 Vilis, Broker of Blood
+1 Psychosis Crawler
+1 Baleful Strix
+1 Jace's Archivist
+1 Vito, Thorn of the Dusk Rose
+1 Chasm Skulker
+1 Brainstorm
+1 Swan Song
+1 Tolarian Winds
+1 Arcane Denial
+1 Commit/Memory
+1 Path to Exile
+1 Swords to Plowshares
+1 Frantic Search
+1 Get Lost
+1 Anguished Unmaking
+1 Void Rend
+1 Strix Serenade
+1 Stroke of Midnight
+1 An Offer You Can't Refuse
+1 Peer into the Abyss
+1 Whispering Madness
+1 Dark Deal
+1 Ponder
+1 Windfall
+1 Preordain
+1 Painful Truths
+1 Toxic Deluge
+1 Teferi's Ageless Insight
+1 Sanguine Bond
+1 Rhystic Study
+1 Mystic Remora
+1 Ominous Seas
+1 Lich's Mastery
+1 Wizard Class
+1 Phyrexian Arena
+5 Plains
+1 Silent Clearing
+1 Sunken Ruins
+1 Reliquary Tower
+1 Exotic Orchard
+6 Island
+5 Swamp
+1 Caves of Koilos
+1 Port Town
+1 Command Tower
+1 Shineshadow Snarl
+1 Contaminated Landscape
+1 Mystic Gate
+1 Prairie Stream
+1 Gloomlake Verge
+1 Terramorphic Expanse
+1 Shipwreck Marsh
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Arcane Sanctum
+1 Underground River
+1 Fetid Heath
+Sideboard
+1 Queza, Augur of Agonies

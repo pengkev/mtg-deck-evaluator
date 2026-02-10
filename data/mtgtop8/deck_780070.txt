@@ -1,0 +1,101 @@
+1 Archfiend of Ifnir
+1 Jin-Gitaxias, Core Augur
+1 Jin-Gitaxias, Progress Tyrant
+1 Laboratory Maniac
+1 Maha, Its Feathers Night
+1 Mindslicer
+1 Obsessive Stitcher
+1 Razaketh, the Foulblooded
+1 Shadowgrange Archfiend
+1 Sheoldred, the Apocalypse
+1 Teferi, Mage of Zhalfir
+1 Toxrill, the Corrosive
+1 Unctus, Grand Metatect
+1 Vilis, Broker of Blood
+1 Vohar, Vodalian Desecrator
+1 Yawgmoth, Thran Physician
+1 Arcane Signet
+1 Basalt Monolith
+1 Crawlspace
+1 Fellwar Stone
+1 Lotus Petal
+1 Matzalantli, the Great Door
+1 Mindcrank
+1 Monument to Endurance
+1 Mox Amber
+1 Relic of Legends
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Cabal Ritual
+1 Culling the Weak
+1 Cut Down
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Dismember
+1 Entomb
+1 Force of Negation
+1 Mana Drain
+1 Mindbreak Trap
+1 Sacrifice
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Blasphemous Edict
+1 Damnation
+1 Demonic Counsel
+1 Diabolic Intent
+1 Exhume
+1 Feed the Swarm
+1 Final Act
+1 Grim Tutor
+1 Malicious Malfunction
+1 Profane Tutor
+1 Reanimate
+1 Ringsight
+1 Stitch Together
+1 Toxic Deluge
+1 Victimize
+1 Windfall
+1 Animate Dead
+1 Black Market Connections
+1 Bloodchief Ascension
+1 Mirrormade
+1 Mystic Remora
+1 Necromancy
+1 No Mercy
+1 Oppression
+1 Rhystic Study
+1 The Meathook Massacre
+1 Ashiok, Dream Render
+1 Jace, Wielder of Mysteries
+1 Boseiju, Who Shelters All
+1 Cabal Stronghold
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Darkslick Shores
+1 Drowned Catacomb
+1 Flooded Strand
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Island
+1 Lake of the Dead
+1 Marsh Flats
+1 Mistrise Village
+1 Misty Rainforest
+1 Polluted Delta
+1 Reliquary Tower
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Swamp
+1 Temple of the False God
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Rona, Herald of Invasion

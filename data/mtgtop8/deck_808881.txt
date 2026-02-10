@@ -1,0 +1,89 @@
+1 Alela, Cunning Conqueror
+1 Bitterbloom Bearer
+1 Bloom Tender
+1 Brazen Borrower
+1 Champions of the Perfect
+1 Chomping Changeling
+1 Cloud of Faeries
+1 Deadeye Navigator
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Warmaster
+1 Faerie Mastermind
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Glen Elendra Archmage
+1 Glen Elendra Guardian
+1 High Fae Trickster
+1 High Perfect Morcant
+1 Hullbreaker Horror
+1 Lathril, Blade of the Elves
+1 Llanowar Elves
+1 Obyra, Dreaming Duelist
+1 Priest of Titania
+1 Quickling
+1 Scion of Oona
+1 Selfless Safewright
+1 Slitherwisp
+1 Sower of Temptation
+1 Spellstutter Sprite
+1 Starfield Vocalist
+1 Talion, the Kindly Lord
+1 Tegwyll, Duke of Splendor
+1 Valley Floodcaller
+1 Virulent Emissary
+1 Arcane Signet
+1 Chronicle of Victory
+1 Maskwood Nexus
+1 Sol Ring
+1 The Immortal Sun
+1 Abrupt Decay
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Assassin's Trophy
+1 Borne Upon a Wind
+1 Consider
+1 Counterspell
+1 Glen Elendra's Answer
+1 Harmonized Crescendo
+1 Sink into Stupor
+1 Spell Stutter
+1 Spider-Sense
+1 Veil of Summer
+1 Dream Harvest
+1 Farseek
+1 Kindred Dominance
+1 Nature's Lore
+1 Rise of the Dark Realms
+1 Toxic Deluge
+1 Bitterblossom
+1 Elven Chorus
+1 Reflections of Littjara
+1 Rhystic Study
+1 Bojuka Bog
+1 Botanical Sanctum
+1 Breeding Pool
+1 Command Tower
+1 Darkslick Shores
+1 Dreamroot Cascade
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fabled Passage
+7 Forest
+1 Hinterland Harbor
+5 Island
+1 Llanowar Wastes
+1 Opulent Palace
+1 Overgrown Tomb
+1 Reliquary Tower
+1 Secluded Glen
+1 Shipwreck Marsh
+1 Sunken Hollow
+3 Swamp
+1 Watery Grave
+1 Woodland Cemetery
+1 Yavimaya Coast
+Sideboard
+1 Maralen, Fae Ascendant

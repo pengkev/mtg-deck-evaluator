@@ -1,0 +1,101 @@
+1 Academy Rector
+1 Activated Sleeper
+1 Allosaurus Shepherd
+1 Archivist of Oghma
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Blood Artist
+1 Body Launderer
+1 Body Snatcher
+1 Boromir, Warden of the Tower
+1 Carrion Feeder
+1 Cartel Aristocrat
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Grand Abolisher
+1 Karmic Guide
+1 Llanowar Elves
+1 Lotho, Corrupt Shirriff
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Protean Hulk
+1 Ranger-Captain of Eos
+1 Reveillark
+1 Saffi Eriksdotter
+1 Skyclave Apparition
+1 Sylvan Safekeeper
+1 Viscera Seer
+1 Voice of Victory
+1 Altar of Dementia
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Entomb
+1 Force of Vigor
+1 Silence
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Imperial Seal
+1 Natural Order
+1 Reanimate
+1 Unmarked Grave
+1 Animate Dead
+1 Carpet of Flowers
+1 Necromancy
+1 Pattern of Rebirth
+1 Smothering Tithe
+1 Survival of the Fittest
+1 Touch the Spirit Realm
+1 Ancient Tomb
+1 Arid Mesa
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Godless Shrine
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Plains
+1 Savannah
+1 Scrubland
+1 Shifting Woodland
+1 Temple Garden
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Halana, Kessig Ranger
+1 Tymna the Weaver

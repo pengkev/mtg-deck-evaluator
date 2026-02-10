@@ -1,0 +1,89 @@
+1 Adric, Mathematical Genius
+1 An Offer You Can't Refuse
+1 Arcane Signet
+1 Archaeomancer
+1 Ashnod's Altar
+1 Baleful Mastery
+1 Basal Thrull
+1 Beacon of Unrest
+1 Blood Pet
+1 Brainstorm
+1 Cabal Ritual
+1 Careful Study
+1 Carrion Feeder
+1 Cavern of Souls
+1 Chrome Mox
+1 Clearwater Pathway
+1 Command Tower
+1 Commandeer
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Dismember
+1 Doomsday
+1 Drowned Catacomb
+1 Enter the Infinite
+1 Ever After
+1 Expropriate
+1 Fell the Profane
+1 Fellwar Stone
+1 Flare of Denial
+1 Flare of Malice
+1 Flesh Duplicate
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Glasspool Mimic
+1 Gloomlake Verge
+1 High Market
+1 Hydroelectric Specimen
+1 Innocent Blood
+1 Into the Flood Maw
+8 Island
+1 Lim-Dul's Vault
+1 Lotus Petal
+1 Malakir Rebirth
+1 Malevolent Hermit
+1 Mana Drain
+1 Meldweb Curator
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Nexus of Fate
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Peat Bog
+1 Personal Tutor
+1 Phantasmal Image
+1 Phyrexian Tower
+1 Polluted Delta
+1 Pongify
+1 Quasiduplicate
+1 Reanimate
+1 Repository Skaab
+1 Rhystic Study
+1 Rise of the Dark Realms
+1 Rise of the Eldrazi
+1 Sacrifice
+1 Saw in Half
+1 Shambling Ghast
+1 Sink into Stupor
+1 Snuff Out
+1 Sol Ring
+1 Spell Pierce
+1 Spell Swindle
+1 Strix Serenade
+6 Swamp
+1 Swan Song
+1 Tale's End
+1 Talisman of Dominance
+1 Thassa's Oracle
+1 Time Stretch
+1 Vampiric Tutor
+1 Viscera Seer
+1 Watery Grave
+Sideboard
+1 Hidetsugu and Kairi

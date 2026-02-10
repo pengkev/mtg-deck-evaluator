@@ -1,0 +1,92 @@
+1 Arasta of the Endless Web
+1 Baba Lysaga, Night Witch
+1 Copper Myr
+1 Courser of Kruphix
+1 Demolisher Spawn
+1 Destiny Spinner
+1 Dockside Chef
+1 Dryad of the Ilysian Grove
+1 Enduring Vitality
+1 Gloomshrieker
+1 Haywire Mite
+1 Leaden Myr
+1 Massacre Wurm
+1 Necron Deathmark
+1 Nightmare Shepherd
+1 Noxious Gearhulk
+1 Nylea, Keen-Eyed
+1 Ohran Frostfang
+1 Ornithopter of Paradise
+1 Overlord of the Hauntwoods
+1 Palladium Myr
+1 Pygmy Kavu
+1 Roaming Throne
+1 Solemn Simulacrum
+1 Species Specialist
+1 Summon: Fenrir
+1 Toski, Bearer of Secrets
+1 Twitching Doll
+1 Wickerfolk Thresher
+1 Arcane Signet
+1 Coat of Arms
+1 Golgari Signet
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Patchwork Banner
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Resilience
+1 Whip of Erebos
+1 Arachnogenesis
+1 Assassin's Trophy
+1 Beast Within
+1 Drag to the Roots
+1 Heroic Intervention
+1 Reap
+1 Revitalizing Repast
+1 Vampiric Tutor
+1 Culling Ritual
+1 Cultivate
+1 Demonic Tutor
+1 Ezuri's Predation
+1 Kodama's Reach
+1 Skyshroud Claim
+1 Torment of Hailfire
+1 Beastmaster Ascension
+1 Bitterblossom
+1 Deathreap Ritual
+1 Guardian Project
+1 Lignify
+1 Primal Vigor
+1 Sandwurm Convergence
+1 Tarmogoyf Nest
+1 Valgavoth's Lair
+1 Ancient Tomb
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Command Tower
+1 Darkmoss Bridge
+1 Darksteel Citadel
+1 Deathcap Glade
+1 Dryad Arbor
+6 Forest
+1 Golgari Rot Farm
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Power Depot
+1 Reliquary Tower
+1 Scene of the Crime
+5 Swamp
+1 Tainted Wood
+1 Temple of the False God
+1 Treasure Vault
+1 Tree of Tales
+1 Twilight Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Vault of Whispers
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Woodland Cemetery
+Sideboard
+1 Rendmaw, Creaking Nest

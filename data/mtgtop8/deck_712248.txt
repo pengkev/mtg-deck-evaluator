@@ -1,0 +1,84 @@
+1 Gyre Engineer
+1 Tribute Mage
+1 Manglehorn
+1 Prophet of Distortion
+1 Trophy Mage
+1 Mindshrieker
+1 Eternal Witness
+1 Colossal Skyturtle
+1 Jin-Gitaxias, Core Augur
+1 Cogwork Assembler
+1 Armored Scrapgorger
+1 Ilysian Caryatid
+1 Elvish Mystic
+1 Maraleaf Pixie
+1 Nezahal, Primal Tide
+1 Tidespout Tyrant
+1 Drift of Phantasms
+1 Koma, Cosmos Serpent
+1 Terastodon
+1 Llanowar Elves
+1 Devoted Druid
+1 Ornithopter of Paradise
+1 Quirion Elves
+1 Twitching Doll
+1 Paradise Druid
+1 Reclamation Sage
+1 Sanctum Weaver
+1 Hullbreaker Horror
+1 Aesi, Tyrant of Gyre Strait
+1 Kogla, the Titan Ape
+1 Staff of Domination
+1 Moonsilver Key
+1 Machine God's Effigy
+1 Springleaf Drum
+1 Basalt Monolith
+1 Everflowing Chalice
+1 Isochron Scepter
+1 Mind Stone
+1 Simic Signet
+1 Talisman of Curiosity
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Miscast
+1 Nature's Claim
+1 Dispel
+1 Dramatic Reversal
+1 Mana Leak
+1 Negate
+1 Mystical Tutor
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Disallow
+1 Reality Shift
+1 Rapid Hybridization
+1 Beast Within
+1 Muddle the Mixture
+1 Neoform
+1 Fabricate
+1 Solve the Equation
+1 Windfall
+1 Finale of Revelation
+1 Eldritch Evolution
+1 Nature's Rhythm
+1 Leyline of Abundance
+1 Amphibian Downpour
+1 Freed from the Real
+1 Mystic Remora
+1 Narset, Parter of Veils
+10 Island
+9 Forest
+1 Flooded Grove
+1 Overflowing Basin
+1 Command Tower
+1 Exotic Orchard
+1 Reliquary Tower
+1 Dreamroot Cascade
+1 Hinterland Harbor
+1 Temple of Mystery
+1 Yavimaya Coast
+1 Fabled Passage
+Sideboard
+1 Kinnan, Bonder Prodigy

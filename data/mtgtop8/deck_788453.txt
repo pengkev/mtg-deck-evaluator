@@ -1,0 +1,88 @@
+1 Akki Ember-Keeper
+1 Badgermole Cub
+1 Baloth Prime
+1 Bumi, Unleashed
+1 Disciple of Freyalise
+1 Evendo Brushrazer
+1 Goblin Anarchomancer
+1 Greater Gargadon
+1 Hissing Iguanar
+1 Horizon Explorer
+1 Insidious Fungus
+1 Meltstrider Eulogist
+1 Nissa, Resurgent Animist
+1 Omnath, Locus of Rage
+1 Orcish Lumberjack
+1 Pinnacle Monk
+1 Sabotender
+1 Scute Swarm
+1 Skittering Precursor
+1 Spinner of Souls
+1 Spiteful Prankster
+1 Springheart Nantuko
+1 Sylvan Safekeeper
+1 Tannuk, Memorial Ensign
+1 Thermopod
+1 Titania, Protector of Argoth
+1 Tributary Instructor
+1 Tunneling Geopede
+1 Turntimber Sower
+1 Yedora, Grave Gardener
+1 Ashnod's Altar
+1 Emerald Medallion
+1 Skullclamp
+1 Sol Ring
+1 Zuran Orb
+1 Abrade
+1 Beast Within
+1 Collective Resistance
+1 Crop Rotation
+1 Cycle of Renewal
+1 Entish Restoration
+1 Lightning Bolt
+1 Nature's Claim
+1 Noxious Revival
+1 Obscuring Haze
+1 Origin of Metalbending
+1 Tibalt's Trickery
+1 Worldly Tutor
+1 Bala Ged Recovery
+1 Farseek
+1 Gamble
+1 Nahiri's Lithoforming
+1 Nature's Lore
+1 Seismic Sense
+1 Shared Roots
+1 Three Visits
+1 True Ancestry
+1 Aggressive Mining
+1 Earthbender Ascension
+1 Evolutionary Leap
+1 Fecundity
+1 Spelunking
+1 Terrasymbiosis
+1 Valakut Exploration
+1 Ba Sing Se
+1 Bloodstained Mire
+1 Bristling Backwoods
+1 Command Tower
+1 Commercial District
+1 Crystal Vein
+1 Evolving Wilds
+1 Fabled Passage
+10 Forest
+1 Ghost Quarter
+1 High Market
+1 Misty Rainforest
+1 Mosswort Bridge
+5 Mountain
+1 Rumble Arena
+1 Talon Gates of Madara
+1 Temple of Abandon
+1 Terramorphic Expanse
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Toph, Hardheaded Teacher

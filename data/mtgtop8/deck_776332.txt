@@ -1,0 +1,85 @@
+1 An Offer You Can't Refuse
+1 Arcane Signet
+1 Brainstorm
+1 Cathartic Reunion
+1 Cerulean Wisps
+1 Chain Stasis
+1 Command Tower
+1 Concerted Defense
+1 Consider
+1 Daze
+1 Demand Answers
+1 Discover the Impossible
+1 Dispel
+1 Dramatic Reversal
+1 Everflowing Chalice
+1 Expedite
+1 Fellwar Stone
+1 Ferrous Lake
+1 Fiery Islet
+1 Finale of Promise
+1 Fire Diamond
+1 Force Spike
+1 Frantic Search
+1 Frostboil Snarl
+1 Gamble
+1 Hidden Strings
+1 Highway Robbery
+1 Impulse
+11 Island
+1 Izzet Charm
+1 Izzet Signet
+1 Lightning Bolt
+1 Magic Damper
+1 Mana Leak
+1 Merchant Scroll
+1 Mind Stone
+1 Mine Collapse
+1 Miscast
+1 Mogg Salvage
+7 Mountain
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Overmaster
+1 Peek
+1 Pentad Prism
+1 Personal Tutor
+1 Ponder
+1 Portent
+1 Preordain
+1 Prismatic Lens
+1 Pyrokinesis
+1 Quicken
+1 Rapid Hybridization
+1 Refocus
+1 Rite of Flame
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Serum Visions
+1 Shivan Reef
+1 Shore Up
+1 Simian Spirit Guide
+1 Sky Diamond
+1 Sleight of Hand
+1 Snap
+1 Snapback
+1 Sol Ring
+1 Solve the Equation
+1 Spell Pierce
+1 Star Compass
+1 Stern Dismissal
+1 Strike It Rich
+1 Sulfur Falls
+1 Talisman of Creativity
+1 The Irencrag
+1 Thrill of Possibility
+1 Thunderclap
+1 Tidal Bore
+1 Twisted Fealty
+1 Twitch
+1 Unsubstantiate
+1 Vengeful Possession
+Sideboard
+1 Stella Lee, Wild Card

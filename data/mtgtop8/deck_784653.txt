@@ -1,0 +1,76 @@
+1 Adeline, Resplendent Cathar
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Beregond of the Guard
+1 Boromir, Warden of the Tower
+1 Captain of the Watch
+1 Clarion Conqueror
+1 Combat Celebrant
+1 Coppercoat Vanguard
+1 Dauntless Dismantler
+1 Eidolon of Rhetoric
+1 Eomer, King of Rohan
+1 Eowyn, Fearless Knight
+1 Ethersworn Canonist
+1 Frontline Medic
+1 Geist-Honored Monk
+1 Gingerbrute
+1 Goblin Rabblemaster
+1 Goldhound
+1 Goldnight Commander
+1 Howlsquad Heavy
+1 Kataki, War's Wage
+1 Keeper of the Accord
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Lossarnach Captain
+1 Loyal Apprentice
+1 Mirage Phalanx
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Paladin Elizabeth Taggerdy
+1 Phoenix Chick
+1 Phyrexian Revoker
+1 Phyrexian Walker
+1 Professional Face-Breaker
+1 Rograkh, Son of Rohgahh
+1 Selfless Spirit
+1 Signal Pest
+1 Simian Spirit Guide
+1 Skyclave Apparition
+1 Soulless Jailer
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 The Wandering Rescuer
+1 Théoden, King of Rohan
+1 Vryn Wingmare
+1 Arcane Signet
+1 Cursed Totem
+1 Elixir of Immortality
+1 Sol Ring
+1 Stone of Erech
+1 Abrade
+1 Calamity's Wake
+1 Chaos Warp
+1 Razorgrass Ambush
+1 Restoration Magic
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Ultimate Magic: Holy
+1 Unbreakable Formation
+1 Sundering Eruption
+1 Deafening Silence
+1 High Noon
+1 Touch the Spirit Realm
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Mishra's Foundry
+13 Mountain
+14 Plains
+1 Rugged Prairie
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Winota, Joiner of Forces

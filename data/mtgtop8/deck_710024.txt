@@ -1,0 +1,86 @@
+1 Accursed Marauder
+1 Ayara, First of Locthwain
+1 Azure Beastbinder
+1 Braids, Arisen Nightmare
+1 Chittering Witch
+1 Crypt Rats
+1 Demon's Disciple
+1 Fleshbag Marauder
+1 Karumonix, the Rat King
+1 Lord Skitter, Sewer King
+1 Merciless Executioner
+1 Ogre Slumlord
+1 Pack Rat
+1 Persistent Marshstalker
+1 Piper of the Swarm
+1 Plaguecrafter
+1 Priest of Forgotten Gods
+1 Rankle, Master of Pranks
+1 Shoreline Looter
+1 Tangled Colony
+1 Valley Rotcaller
+1 Arcane Signet
+1 Bident of Thassa
+1 Commander's Sphere
+1 Dimir Signet
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Mind Stone
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Thought Vessel
+1 Tithing Blade
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Baleful Mastery
+1 Counterspell
+1 Countersquall
+1 Flare of Malice
+1 Go for the Throat
+1 Infernal Grasp
+1 Negate
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Sheoldred's Edict
+1 Tragic Slip
+1 Vona's Hunger
+1 Vraska's Fall
+1 Distant Melody
+1 Feed the Swarm
+1 Innocent Blood
+1 Mire in Misery
+1 Night's Whisper
+1 Rankle's Prank
+1 Rush of Dread
+1 Season of Loss
+1 Sign in Blood
+1 Swarmyard Massacre
+1 Victimize
+1 Kindred Discovery
+1 Phyrexian Arena
+1 Propaganda
+1 Liliana, Dreadhorde General
+1 Bojuka Bog
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Exotic Orchard
+1 Fetid Pools
+6 Island
+1 Lilypad Village
+1 Mudflat Village
+1 Path of Ancestry
+1 Reliquary Tower
+1 Sunken Hollow
+11 Swamp
+1 Swarmyard
+1 Tainted Isle
+1 Temple of Deceit
+1 Terramorphic Expanse
+Sideboard
+1 Vren, the Relentless

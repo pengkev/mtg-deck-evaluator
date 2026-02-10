@@ -1,0 +1,101 @@
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Biomancer's Familiar
+1 Necrotic Ooze
+1 Grand Abolisher
+1 Walking Ballista
+1 Birds of Paradise
+1 Selvala, Heart of the Wilds
+1 Pili-Pala
+1 Kinnan, Bonder Prodigy
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Agatha of the Vile Cauldron
+1 Talion, the Kindly Lord
+1 Tishana's Tidebinder
+1 Kutzil, Malamet Exemplar
+1 Esper Sentinel
+1 Ranger-Captain of Eos
+1 Faeburrow Elder
+1 Thassa's Oracle
+1 Deathrite Shaman
+1 Dauthi Voidwalker
+1 Enduring Vitality
+1 High Fae Trickster
+1 Bloom Tender
+1 Hermit Druid
+1 Chrome Mox
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 The One Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Dominance
+1 Intuition
+1 Dark Ritual
+1 Flusterstorm
+1 Force of Will
+1 Mana Drain
+1 Tainted Pact
+1 Entomb
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Swan Song
+1 Fierce Guardianship
+1 Swords to Plowshares
+1 Chord of Calling
+1 Mindbreak Trap
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Pact of Negation
+1 Pyroblast
+1 Abrupt Decay
+1 Brain Freeze
+1 Deflecting Swat
+1 Finale of Devastation
+1 Wheel of Fortune
+1 Demonic Tutor
+1 Imperial Seal
+1 Gamble
+1 Sevinne's Reclamation
+1 Buried Alive
+1 Eldritch Evolution
+1 Rhystic Study
+1 Training Grounds
+1 Smothering Tithe
+1 Mystic Remora
+1 Pemmin's Aura
+1 Underworld Breach
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Gaea's Cradle
+1 Badlands
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Underground Sea
+1 Volcanic Island
+1 Bloodstained Mire
+1 Polluted Delta
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Command Tower
+1 Exotic Orchard
+1 Windswept Heath
+1 City of Brass
+1 Flooded Strand
+1 Wooded Foothills
+Sideboard
+1 Kenrith, the Returned King

@@ -1,0 +1,81 @@
+1 Ashaya, Soul of the Wild
+1 Delighted Halfling
+1 Fanatic of Rhonas
+1 Llanowar Elves
+1 Ohran Frostfang
+1 Outcaster Trailblazer
+1 Raggadragga, Goreguts Boss
+1 Roaming Throne
+1 Solemn Simulacrum
+1 Toski, Bearer of Secrets
+1 Akroma's Memorial
+1 Arcane Signet
+1 Chromatic Orrery
+1 Coveted Jewel
+1 Fellwar Stone
+1 Gilded Lotus
+1 Hedron Archive
+1 Horizon Stone
+1 Ichor Elixir
+1 Lightning Greaves
+1 Mithril Coat
+1 Nevinyrral's Disk
+1 Rolling Hamsphere
+1 Sceptre of Eternal Glory
+1 Sisay's Ring
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 The Immortal Sun
+1 Thought Vessel
+1 Thran Dynamo
+1 Ur-Golem's Eye
+1 Beast Within
+1 Benefactor's Draught
+1 Chaos Warp
+1 Heroic Intervention
+1 Nature's Claim
+1 Savage Beating
+1 Vitalize
+1 Blasphemous Act
+1 Fade from History
+1 Farseek
+1 Fury of the Horde
+1 Nature's Lore
+1 Relentless Assault
+1 Three Visits
+1 Virtue of Strength
+1 World at War
+1 Aggravated Assault
+1 Asceticism
+1 City on Fire
+1 Dual Nature
+1 Elemental Bond
+1 Garruk's Uprising
+1 Gratuitous Violence
+1 Grim Reaper's Sprint
+1 Guardian Project
+1 Mana Echoes
+1 Mana Reflection
+1 March of the World Ooze
+1 Molten Echoes
+1 Nature's Will
+1 Tribute to the World Tree
+1 Unnatural Growth
+1 Warstorm Surge
+1 Cinder Glade
+1 Command Tower
+1 Fabled Passage
+12 Forest
+1 Game Trail
+1 Mosswort Bridge
+10 Mountain
+1 Reliquary Tower
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shifting Woodland
+1 Stomping Ground
+1 Temple of Abandon
+1 Wooded Foothills
+Sideboard
+1 Bello, Bard of the Brambles

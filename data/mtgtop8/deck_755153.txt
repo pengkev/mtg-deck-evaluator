@@ -1,0 +1,85 @@
+1 Llanowar Elves
+1 Elvish Mystic
+1 Arbor Elf
+1 Horned Kavu
+1 Destiny Spinner
+1 Goblin Anarchomancer
+1 Sakura-Tribe Elder
+1 Memory Worm
+1 Dualcaster Mage
+1 Farhaven Elf
+1 Prowling Serpopard
+1 Wood Elves
+1 Invasive Species
+1 Temur Sabertooth
+1 Solemn Simulacrum
+1 Ancestral Statue
+1 Jaxis, the Troublemaker
+1 Pinnacle Monk
+1 Disciple of Freyalise
+1 Oblivion Sower
+1 Keeper of Secrets
+1 Flaming Tyrannosaurus
+1 Sol Ring
+1 Unstable Amulet
+1 Talisman of Impulse
+1 Arcane Signet
+1 Blade of Selves
+1 Cursed Mirror
+1 Golden Argosy
+1 Panharmonicon
+1 Erratic Portal
+1 The Fire Crystal
+1 Aetherflux Reservoir
+1 Conjurer's Closet
+1 Pyroblast
+1 Red Elemental Blast
+1 Null Elemental Blast
+1 Untimely Malfunction
+1 Return to Nature
+1 Reverberate
+1 Heritage Reclamation
+1 Peerless Recycling
+1 Return the Favor
+1 Beast Within
+1 Chaos Warp
+1 Eldrazi Confluence
+1 Ricochet Trap
+1 Devastating Onslaught
+1 Metamorphosis
+1 Rampant Growth
+1 Nature's Lore
+1 Reckless Handling
+1 Farseek
+1 Twinflame
+1 Sylvan Scrying
+1 Stump Stomp
+1 Bala Ged Recovery
+1 Electroduplicate
+1 Bridgeworks Battle
+1 Reap and Sow
+1 Utopia Sprawl
+1 Wild Growth
+1 Wolfwillow Haven
+1 Fertile Ground
+1 Rhythm of the Wild
+1 Count on Luck
+1 Wild Wasteland
+1 Warstorm Surge
+1 Mirror March
+1 Domri, Anarch of Bolas
+1 Scavenger Grounds
+1 Sunscorched Desert
+1 Buried Ruin
+1 Bristling Backwoods
+10 Mountain
+1 Command Tower
+1 Endless Sands
+1 Myriad Landscape
+8 Forest
+1 Mirrorpool
+1 Sanctum of Eternity
+1 Geier Reach Sanitarium
+1 Mikokoro, Center of the Sea
+Sideboard
+1 Etali, Primal Conqueror

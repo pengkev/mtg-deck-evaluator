@@ -1,0 +1,91 @@
+1 Thalisse, Reverent Medium
+1 Academy Manufactor
+1 Jadar, Ghoulcaller of Nephalia
+1 Cyberdrive Awakener
+1 Wernog, Rider's Chaplain
+1 Rosie Cotton of South Lane
+1 Mirkwood Bats
+1 Lotho, Corrupt Shirriff
+1 Martha Jones
+1 Alquist Proft, Master Sleuth
+1 Novice Inspector
+1 Teysa, Opulent Oligarch
+1 Lavinia, Foil to Conspiracy
+1 Lazav, Wearer of Faces
+1 Forensic Gadgeteer
+1 Tangletrove Kelp
+1 Detective of the Month
+1 Ethereal Investigator
+1 Piper Wright, Publick Reporter
+1 Kambal, Profiteering Mayor
+1 Ophiomancer
+1 Junk Winder
+1 Pitiless Plunderer
+1 Nadir Kraken
+1 Thraben Inspector
+1 Eloise, Nephalia Sleuth
+1 Tivit, Seller of Secrets
+1 Inquisitor Greyfax
+1 Sarah Jane Smith
+1 Ashnod's Altar
+1 Talisman of Dominance
+1 Sol Ring
+1 Shorikai, Genesis Engine
+1 Fellwar Stone
+1 Arcane Signet
+1 Tamiyo's Journal
+1 Inspiring Statuary
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Negate
+1 Swords to Plowshares
+1 Generous Gift
+1 Officious Interrogation
+1 Deadly Dispute
+1 Disorder in the Court
+1 Anguished Unmaking
+1 Void Rend
+1 In Garruk's Wake
+1 Rise and Shine
+1 Damn
+1 Search the Premises
+1 Thorough Investigation
+1 Thopter Spy Network
+1 Armed with Proof
+1 Mechanized Production
+1 Propaganda
+1 Black Market Connections
+1 Leyline of Sanctity
+1 Monologue Tax
+1 Tezzeret, Betrayer of Flesh
+1 Ancient Den
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Reliquary Tower
+1 Drowned Catacomb
+1 Seat of the Synod
+1 Vault of Whispers
+1 Havengul Laboratory
+1 Command Tower
+1 Exotic Orchard
+1 Temple of Deceit
+1 Bojuka Bog
+1 Prairie Stream
+1 Archway of Innovation
+1 Contaminated Landscape
+1 Path of Ancestry
+1 Temple of Silence
+1 Temple of Enlightenment
+1 Adarkar Wastes
+1 Underground River
+1 Isolated Chapel
+1 Sunken Hollow
+1 Glacial Fortress
+3 Swamp
+5 Island
+5 Plains
+1 Gemstone Mine
+Sideboard
+1 Marneus Calgar

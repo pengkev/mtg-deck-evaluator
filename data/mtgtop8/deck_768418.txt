@@ -1,0 +1,92 @@
+1 Anger
+1 Archfiend of Ifnir
+1 Bone Miser
+1 Captain Howler, Sea Scourge
+1 Chainer, Nightmare Adept
+1 Emet-Selch of the Third Seat
+1 Emet-Selch, Unsundered
+1 Glint-Horn Buccaneer
+1 Green Goblin, Nemesis
+1 High Fae Trickster
+1 Hydroelectric Specimen
+1 Kefka, Court Mage
+1 Likeness Looter
+1 Magmakin Artillerist
+1 Malcolm, Alluring Scoundrel
+1 Nightscape Familiar
+1 Notion Thief
+1 Pinnacle Monk
+1 Psychic Frog
+1 Rielle, the Everwise
+1 River Kelpie
+1 Rona, Herald of Invasion
+1 Surly Badgersaur
+1 Toxrill, the Corrosive
+1 Ultimate Green Goblin
+1 Vohar, Vodalian Desecrator
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Cryptcaller Chariot
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Lightning Greaves
+1 Monument to Endurance
+1 Relic of Sauron
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 An Offer You Can't Refuse
+1 Big Score
+1 Counterspell
+1 Cyclonic Rift
+1 Fateful Showdown
+1 Fell the Profane
+1 Frantic Search
+1 Lethal Scheme
+1 Negate
+1 Pongify
+1 Rapid Hybridization
+1 Sink into Stupor
+1 Strix Serenade
+1 Untimely Malfunction
+1 Withering Torment
+1 Behold the Sinister Six!
+1 Faithless Looting
+1 Snort
+1 Toxic Deluge
+1 Victimize
+1 Will of the Jeskai
+1 Windfall
+1 Black Market Connections
+1 Burning Vengeance
+1 Propaganda
+1 Rhystic Study
+1 Secrets of the Dead
+1 Shadow of the Goblin
+1 Teval's Judgment
+1 Arcane Lighthouse
+1 Command Beacon
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fiery Islet
+1 Haunted Ridge
+5 Island
+1 Luxury Suite
+3 Mountain
+1 Oscorp Industries
+1 Reflecting Pool
+1 Seething Landscape
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sulfurous Springs
+4 Swamp
+1 Tainted Isle
+1 Watery Grave
+Sideboard
+1 Norman Osborn

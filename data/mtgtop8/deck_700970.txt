@@ -1,0 +1,101 @@
+1 Laboratory Maniac
+1 Sire of Stagnation
+1 Containment Priest
+1 Ranger-Captain of Eos
+1 Elesh Norn, Grand Cenobite
+1 Kozilek, Butcher of Truth
+1 Thassa's Oracle
+1 Drannith Magistrate
+1 Rona, Disciple of Gix
+1 Tireless Tribe
+1 Leveler
+1 Diamond Lion
+1 Esper Sentinel
+1 Dauthi Voidwalker
+1 Ledger Shredder
+1 Archivist of Oghma
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Psychic Frog
+1 Opposition Agent
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Kitsa, Otterball Elite
+1 Clever Impersonator
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Mox Amber
+1 Sol Ring
+1 The Underworld Cookbook
+1 Fellwar Stone
+1 Talisman of Progress
+1 Talisman of Dominance
+1 Arcane Signet
+1 The One Ring
+1 Angel's Grace
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Dispel
+1 Mental Misstep
+1 Demonic Consultation
+1 Cyclonic Rift
+1 Silence
+1 Retraction Helix
+1 Flusterstorm
+1 Swan Song
+1 Mindbreak Trap
+1 Vampiric Tutor
+1 Mana Drain
+1 Swords to Plowshares
+1 Tainted Pact
+1 Force of Negation
+1 Force of Will
+1 Dark Ritual
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Path to Exile
+1 Borne Upon a Wind
+1 Delay
+1 Demonic Tutor
+1 Praetor's Grasp
+1 Yawgmoth's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Toxic Deluge
+1 Oblivion Crown
+1 Smothering Tithe
+1 Rhystic Study
+1 Tortured Existence
+1 Dress Down
+1 Mystic Remora
+1 Godless Shrine
+1 Watery Grave
+1 Hallowed Fountain
+1 Ancient Tomb
+1 City of Brass
+1 Mana Confluence
+1 Scrubland
+1 Tundra
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Forbidden Orchard
+1 Verdant Catacombs
+1 Command Tower
+1 Marsh Flats
+1 Scalding Tarn
+1 Misty Rainforest
+1 Urborg, Tomb of Yawgmoth
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Sea of Clouds
+1 Minamo, School at Water's Edge
+Sideboard
+1 Hashaton, Scarab's Fist

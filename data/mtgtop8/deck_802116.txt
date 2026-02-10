@@ -1,0 +1,83 @@
+1 Beetleback Chief
+1 Birgi, God of Storytelling
+1 Fable of the Mirror-Breaker
+1 Goblin Engineer
+1 Goblin Instigator
+1 Goblin Matron
+1 Grinning Ignus
+1 Howlsquad Heavy
+1 Impulsive Pilferer
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Merchant of the Vale
+1 Mogg War Marshal
+1 Molten Gatekeeper
+1 Norin, Swift Survivalist
+1 Orthion, Hero of Lavabrink
+1 Pashalik Mons
+1 Priest of Urabrask
+1 Professional Face-Breaker
+1 Redcap Gutter-Dweller
+1 Reinforced Ronin
+1 Scampering Scorcher
+1 Siege-Gang Commander
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Solphim, Mayhem Dominus
+1 Squee, Dubious Monarch
+1 Squee, Goblin Nabob
+1 Squee, the Immortal
+1 Sunspine Lynx
+1 Terror of the Peaks
+1 Torbran, Thane of Red Fell
+1 Underfoot Underdogs
+1 Zurzoth, Chaos Rider
+1 Arcane Signet
+1 Ashnod's Altar
+1 Crucible of Worlds
+1 Hazoret's Monument
+1 Liquimetal Torque
+1 Matzalantli, the Great Door
+1 Mind Stone
+1 Nim Deathmantle
+1 Panharmonicon
+1 Prismatic Lens
+1 Ruby Medallion
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 The One Ring
+1 Thought Vessel
+1 Urabrask's Forge
+1 Brand
+1 Chaos Warp
+1 Null Elemental Blast
+1 Pyroblast
+1 Red Elemental Blast
+1 Return the Favor
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Blasphemous Act
+1 Faithless Looting
+1 Jeska's Will
+1 Fated Firepower
+1 Goblin Bombardment
+1 Impact Tremors
+1 Mechanized Warfare
+1 Powerbalance
+1 Shadow of the Goblin
+1 Spiked Corridor/Torture Pit
+1 Ancient Tomb
+1 Den of the Bugbear
+1 Dwarven Mine
+1 Great Furnace
+1 Inventors' Fair
+1 Kher Keep
+1 Mikokoro, Center of the Sea
+19 Mountain
+1 Ramunap Ruins
+1 Spawning Bed
+1 Treasure Vault
+Sideboard
+1 Purphoros, God of the Forge

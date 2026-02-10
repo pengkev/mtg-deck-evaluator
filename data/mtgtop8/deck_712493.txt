@@ -1,0 +1,92 @@
+1 Palladium Myr
+1 Frogmite
+1 Pygmy Kavu
+1 Dryad of the Ilysian Grove
+1 Courser of Kruphix
+1 Poison-Tip Archer
+1 Manakin
+1 Copper Myr
+1 Leaden Myr
+1 Myr Retriever
+1 Nighthowler
+1 Howling Golem
+1 Gloomshrieker
+1 Dockside Chef
+1 Arasta of the Endless Web
+1 Baba Lysaga, Night Witch
+1 Rug of Smothering
+1 Marching Duodrone
+1 Massacre Wurm
+1 Noxious Gearhulk
+1 Erebos, Bleak-Hearted
+1 Shimmer Myr
+1 Dalek Squadron
+1 Roaming Throne
+1 Beast Whisperer
+1 Toski, Bearer of Secrets
+1 Trickster's Elk
+1 Refurbished Familiar
+1 Haywire Mite
+1 Twitching Doll
+1 Enduring Vitality
+1 Nyx Weaver
+1 Ornithopter of Paradise
+1 Solemn Simulacrum
+1 Stonecoil Serpent
+1 Gala Greeters
+1 Swiftfoot Boots
+1 Whip of Erebos
+1 Semblance Anvil
+1 Idol of Oblivion
+1 Might of the Masses
+1 Nature's Claim
+1 Echoing Courage
+1 Reap
+1 Nameless Inversion
+1 Golgari Charm
+1 Fog
+1 Deadly Dispute
+1 Eyeblight's Ending
+1 Veil of Summer
+1 Arachnogenesis
+1 Wing Storm
+1 Shamanic Revelation
+1 Crippling Fear
+1 Ezuri's Predation
+1 Maelstrom Pulse
+1 Convert to Slime
+1 Culling Ritual
+1 Primal Vigor
+1 Guardian Project
+1 Lure
+1 Lignify
+1 Growing Rites of Itlimoc
+1 Tarmogoyf Nest
+1 Grist, the Hunger Tide
+1 Barren Moor
+1 Golgari Rot Farm
+1 Llanowar Wastes
+1 Darksteel Citadel
+1 Tranquil Thicket
+1 Woodland Cemetery
+1 Bojuka Bog
+1 Tree of Tales
+1 Vault of Whispers
+1 Command Tower
+1 Darkmoss Bridge
+1 Necroblossom Snarl
+1 Restless Cottage
+1 Buried Ruin
+1 Temple of Malady
+1 Tainted Wood
+1 Twilight Mire
+1 Dryad Arbor
+1 Ash Barrens
+1 Grim Backwoods
+1 Viridescent Bog
+1 Treasure Vault
+1 Exotic Orchard
+8 Forest
+3 Swamp
+Sideboard
+1 Rendmaw, Creaking Nest

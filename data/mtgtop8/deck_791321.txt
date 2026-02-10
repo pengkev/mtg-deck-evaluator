@@ -1,0 +1,83 @@
+1 Alexios, Deimos of Kosmos
+1 Alseid of Life's Bounty
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Auratouched Mage
+1 Avalanche of Sector 7
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Benevolent Bodyguard
+1 Blade Historian
+1 Boromir, Warden of the Tower
+1 Captain of the Watch
+1 Clarion Conqueror
+1 Cliffside Rescuer
+1 Combat Celebrant
+1 Dauntless Dismantler
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eomer, King of Rohan
+1 Eomer, Marshal of Rohan
+1 Ethersworn Canonist
+1 Flamescroll Celebrant
+1 Gingerbrute
+1 Giver of Runes
+1 Goblin Rabblemaster
+1 Gold Myr
+1 Goldhound
+1 Grand Abolisher
+1 Hope of Ghirapur
+1 Howlsquad Heavy
+1 Hushbringer
+1 Jor Kadeen, the Prevailer
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Loyal Apprentice
+1 Mirage Phalanx
+1 Myr Convert
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phoenix Chick
+1 Phyrexian Revoker
+1 Phyrexian Walker
+1 Pia and Kiran Nalaar
+1 Professional Face-Breaker
+1 Rionya, Fire Dancer
+1 Rograkh, Son of Rohgahh
+1 Samurai of the Pale Curtain
+1 Sanctum Prelate
+1 Signal Pest
+1 Simian Spirit Guide
+1 Skrelv, Defector Mite
+1 Skyclave Apparition
+1 Soulless Jailer
+1 Spirit of the Labyrinth
+1 Thalia, Guardian of Thraben
+1 The Wandering Rescuer
+1 Yuffie, Materia Hunter
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Conviction
+1 Chance for Glory
+1 Razorgrass Ambush
+1 Silence
+1 Swords to Plowshares
+1 Sundering Eruption
+1 Breath of Fury
+1 Charitable Levy
+1 Deafening Silence
+1 High Noon
+1 Touch the Spirit Realm
+1 Battlefield Forge
+1 Blinkmoth Nexus
+1 Clifftop Retreat
+1 Command Tower
+1 Great Furnace
+1 Mishra's Factory
+10 Mountain
+10 Plains
+1 Rugged Prairie
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Winota, Joiner of Forces

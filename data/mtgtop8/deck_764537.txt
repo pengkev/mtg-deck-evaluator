@@ -1,0 +1,81 @@
+1 Alseid of Life's Bounty
+1 Delivery Moogle
+1 Dimir Infiltrator
+1 Hanna, Ship's Navigator
+1 Squall, SeeD Mercenary
+1 Sun Titan
+1 Tameshi, Reality Architect
+1 Trinket Mage
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Orzhov Signet
+1 Prismatic Lens
+1 Rishadan Pawnshop
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Tel-Jilad Stylus
+1 Cancel
+1 Hindering Light
+1 Keep Safe
+1 Lose Focus
+1 Mana Leak
+1 Muddle the Mixture
+1 Negate
+1 Perplex
+1 Saw It Coming
+1 Scour for Scrap
+1 Shelter
+1 Turn Aside
+1 Diabolic Tutor
+1 Divine Reckoning
+1 Sevinne's Reclamation
+1 Single Combat
+1 Winds of Rath
+1 Aether Tunnel
+1 All That Glitters
+1 Aqueous Form
+1 Combat Research
+1 Diplomatic Immunity
+1 Energy Field
+1 Gauntlets of Light
+1 Grasp of Fate
+1 Imprisoned in the Moon
+1 Mystic Veil
+1 Necrogen Communion
+1 Phyrexian Unlife
+1 Rest in Peace
+1 Seal from Existence
+1 Second Chance
+1 Sleeper's Robe
+1 Soul Channeling
+1 Staggering Insight
+1 Steel of the Godhead
+1 Stoneskin
+1 Treacherous Blessing
+1 Twinblade Blessing
+1 Unspeakable Symbol
+1 Vanishing
+1 Adarkar Wastes
+1 Ancient Spring
+1 Caves of Koilos
+1 Command Tower
+1 Darkwater Catacombs
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+7 Island
+1 Isolated Chapel
+1 Mistveil Plains
+8 Plains
+1 Prairie Stream
+1 Skycloud Expanse
+1 Sunken Hollow
+1 Svyelunite Temple
+8 Swamp
+1 Terramorphic Expanse
+Sideboard
+1 Zur the Enchanter

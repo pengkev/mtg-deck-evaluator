@@ -1,0 +1,101 @@
+1 Grand Abolisher
+1 Thassa's Oracle
+1 Drannith Magistrate
+1 Children of Korlis
+1 Opposition Agent
+1 Esper Sentinel
+1 Orcish Bowmasters
+1 Valley Floodcaller
+1 Snapcaster Mage
+1 Wishclaw Talisman
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Mana Vault
+1 Azorius Signet
+1 Dimir Signet
+1 Orzhov Signet
+1 Isochron Scepter
+1 Mox Diamond
+1 Chrome Mox
+1 Grim Monolith
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Arcane Signet
+1 Bolas's Citadel
+1 Aetherflux Reservoir
+1 The One Ring
+1 Imposter Mech
+1 Fellwar Stone
+1 Cabal Ritual
+1 Mana Drain
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Angel's Grace
+1 Gifts Ungiven
+1 Pact of Negation
+1 Force of Negation
+1 Enlightened Tutor
+1 Force of Will
+1 Cyclonic Rift
+1 Mental Misstep
+1 Ad Nauseam
+1 Chain of Vapor
+1 Silence
+1 Dispel
+1 Dramatic Reversal
+1 Flusterstorm
+1 Swan Song
+1 Tainted Pact
+1 Dark Ritual
+1 Swords to Plowshares
+1 An Offer You Can't Refuse
+1 Demonic Consultation
+1 Borne Upon a Wind
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 Strix Serenade
+1 Shallow Grave
+1 Imperial Seal
+1 Demonic Tutor
+1 Necropotence
+1 Rhystic Study
+1 Mystic Remora
+1 Steal Enchantment
+1 Necromancy
+1 Copy Artifact
+1 Paladin Class
+1 Copy Enchantment
+1 Hall of the Bandit Lord
+1 Morphic Pool
+1 Sea of Clouds
+1 Hallowed Fountain
+1 Godless Shrine
+1 Watery Grave
+1 Command Tower
+1 Emergence Zone
+1 Mana Confluence
+1 Ancient Tomb
+1 Cavern of Souls
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Exotic Orchard
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Island
+1 Swamp
+1 Plains
+1 Otawara, Soaring City
+1 Scrubland
+1 Tundra
+1 Underground Sea
+Sideboard
+1 Zur the Enchanter

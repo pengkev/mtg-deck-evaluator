@@ -1,0 +1,87 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Electro, Assaulting Battery
+1 Hexing Squelcher
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Stormsplitter
+1 Treasonous Ogre
+1 Vindictive Flamestoker
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Ruby Medallion
+1 Sentinel Tower
+1 Sol Ring
+1 Staff of Compleation
+1 Throne of Geth
+1 Abrade
+1 Bolt Bend
+1 Crimson Wisps
+1 Deflecting Swat
+1 Demand Answers
+1 Desperate Ritual
+1 Expedite
+1 Final Fortune
+1 Flare of Duplication
+1 Lightning Bolt
+1 Might of the Meek
+1 Needle Drop
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Ricochet Trap
+1 Seething Song
+1 Thrill of Possibility
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Virtue of Courage
+1 Wild Magic Surge
+1 Ancestral Anger
+1 Crash Through
+1 Faithless Looting
+1 Flame Slash
+1 Gamble
+1 Grapeshot
+1 Highway Robbery
+1 Jeska's Will
+1 Last Chance
+1 Light Up the Stage
+1 Magmatic Insight
+1 Meltdown
+1 Molten Duplication
+1 Overmaster
+1 Reckless Impulse
+1 Renegade Tactics
+1 Rile
+1 Rite of Flame
+1 Rob the Archives
+1 Romantic Rendezvous
+1 Shatterskull Smashing
+1 Spark of Creativity
+1 Twinflame
+1 Warlord's Fury
+1 Warrior's Oath
+1 Wheel of Fortune
+1 Wrenn's Resolve
+1 Blood Moon
+1 Fiery Inscription
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Emergence Zone
+1 Gemstone Caverns
+15 Mountain
+1 Prismatic Vista
+1 Scalding Tarn
+1 War Room
+1 Wooded Foothills
+Sideboard
+1 Urabrask

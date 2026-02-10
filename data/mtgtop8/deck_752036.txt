@@ -1,0 +1,83 @@
+1 Academy Manufactor
+1 An Offer You Can't Refuse
+1 Ancient Stone Idol
+1 Arcane Signet
+1 Armix, Filigree Thrasher
+1 Baleful Strix
+1 Bolas's Citadel
+1 Broodstar
+1 Buried Alive
+1 Charcoal Diamond
+1 Choked Estuary
+1 Collector's Vault
+1 Command Tower
+1 Commander's Sphere
+1 Consider
+1 Counterspell
+1 Cranial Plating
+1 Darksteel Citadel
+1 Darksteel Juggernaut
+1 Darkwater Catacombs
+1 Deadly Dispute
+1 Death's Shadow
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Drowned Catacomb
+1 Efficient Construction
+1 Emry, Lurker of the Loch
+1 Enhanced Surveillance
+1 Etherium Sculptor
+1 Everflowing Chalice
+1 Evolving Wilds
+1 Feed the Swarm
+1 Fellwar Stone
+1 Filigree Attendant
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Frantic Search
+1 Haunt the Network
+10 Island
+1 Kappa Cannoneer
+1 Master of Etherium
+1 Matoya, Archon Elder
+1 Metalwork Colossus
+1 Mind Stone
+1 Mirrodin Besieged
+1 Mistvault Bridge
+1 Myr Battlesphere
+1 Mystic Forge
+1 Negate
+1 Noxious Gearhulk
+1 Ornithopter of Paradise
+1 Overkill
+1 Reality Shift
+1 Riddlesmith
+1 Rook Turret
+1 Sai, Master Thopterist
+1 Sculpting Steel
+1 Seat of the Synod
+1 Sky Diamond
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sunken Hollow
+10 Swamp
+1 Swiftfoot Boots
+1 Syr Konrad, the Grim
+1 Tainted Isle
+1 Talisman of Dominance
+1 Temple of Deceit
+1 Tezzeret, Master of the Bridge
+1 The Underworld Cookbook
+1 Thirst for Knowledge
+1 Thopter Spy Network
+1 Thought Monitor
+1 Thought Vessel
+1 Thoughtcast
+1 Treasure Vault
+1 Triplicate Titan
+1 Troll of Khazad-dum
+1 Vault of Whispers
+1 Windfall
+1 Y'shtola Rhul
+Sideboard
+1 Golbez, Crystal Collector

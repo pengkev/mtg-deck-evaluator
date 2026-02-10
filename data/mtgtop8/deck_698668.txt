@@ -1,0 +1,101 @@
+1 Walking Ballista
+1 Void Winnower
+1 Palladium Myr
+1 Endbringer
+1 Platinum Angel
+1 Metalworker
+1 Lodestone Golem
+1 Liberator, Urza's Battlethopter
+1 Scrap Trawler
+1 Darksteel Colossus
+1 Soulless Jailer
+1 Karn, Legacy Reforged
+1 Mystic Forge
+1 Mana Vault
+1 Krark-Clan Ironworks
+1 Trinisphere
+1 Nevinyrral's Disk
+1 Sensei's Divining Top
+1 Winter Orb
+1 Semblance Anvil
+1 Tangle Wire
+1 Lotus Petal
+1 Static Orb
+1 Crawlspace
+1 Grim Monolith
+1 Meekstone
+1 God-Pharaoh's Statue
+1 Omen Machine
+1 Torpor Orb
+1 Voltaic Key
+1 Basalt Monolith
+1 Ensnaring Bridge
+1 Mox Diamond
+1 Darksteel Forge
+1 Chalice of the Void
+1 Damping Sphere
+1 Thought Vessel
+1 Ward of Bones
+1 Forsaken Monument
+1 Rings of Brighthearth
+1 Everflowing Chalice
+1 Eye of Vecna
+1 Umbral Mantle
+1 Oracle's Vault
+1 Sol Ring
+1 Manifold Key
+1 Dreamstone Hedron
+1 Hedron Archive
+1 Spine of Ish Sah
+1 Thran Dynamo
+1 Portal to Phyrexia
+1 The Stasis Coffin
+1 Cloud Key
+1 Defense Grid
+1 Aetherflux Reservoir
+1 Unwinding Clock
+1 Mycosynth Lattice
+1 The One Ring
+1 Chimil, the Inner Sun
+1 Winter Moon
+1 Heartstone
+1 Warping Wail
+1 Spatial Contortion
+1 Kozilek's Command
+1 All Is Dust
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Karn, Living Legacy
+1 Field of the Dead
+1 Mishra's Workshop
+1 City of Traitors
+1 Thespian's Stage
+1 Sanctum of Ugin
+1 Shrine of the Forsaken Gods
+1 Urborg, Tomb of Yawgmoth
+1 Ghost Town
+1 Strip Mine
+1 Emergence Zone
+1 Karn's Bastion
+1 Eldrazi Temple
+1 Scorched Ruins
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Mine
+1 Inventors' Fair
+1 Zhalfirin Void
+1 Homeward Path
+1 Ancient Tomb
+1 War Room
+1 Gemstone Caverns
+1 Wastes
+1 Reliquary Tower
+1 Buried Ruin
+1 Urza's Workshop
+1 Maze of Ith
+1 Ugin's Labyrinth
+1 Crystal Vein
+Sideboard
+1 Karn, Silver Golem

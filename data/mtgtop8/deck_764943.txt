@@ -1,0 +1,99 @@
+1 Birgi, God of Storytelling
+1 Coruscation Mage
+1 Disciple of the Vault
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Firebrand Archer
+1 Imperial Recruiter
+1 Kederekt Parasite
+1 Kessig Flamebreather
+1 Mayhem Devil
+1 Obstinate Familiar
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Prosper, Tome-Bound
+1 Razorkin Needlehead
+1 Reckless Fireweaver
+1 Scrawling Crawler
+1 Shadow the Hedgehog
+1 Shocking Sharpshooter
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Walking Ballista
+1 Aetherflux Reservoir
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Black Mage's Rod
+1 Chrome Mox
+1 Conqueror's Flail
+1 Jet Medallion
+1 Lightning Greaves
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Ruby Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Unstable Amulet
+1 Ad Nauseam
+1 Bolt Bend
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Entomb
+1 Lava Dart
+1 Lightning Bolt
+1 Lindblum, Industrial Regency
+1 Rakdos Charm
+1 Red Elemental Blast
+1 Saw in Half
+1 Seething Song
+1 Snuff Out
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Gamble
+1 Grapeshot
+1 Imperial Seal
+1 Jeska's Will
+1 Molten Duplication
+1 Reanimate
+1 Rite of Flame
+1 Twinflame
+1 Vandalblast
+1 Vicious Rumors
+1 Wheel of Fortune
+1 Winds of Change
+1 You've Been Caught Stealing
+1 All Will Be One
+1 Underworld Breach
+1 Urza's Saga
+1 Badlands
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Graven Cairns
+1 Marsh Flats
+1 Phyrexian Tower
+1 Scalding Tarn
+1 Shadowblood Ridge
+1 Shizo, Death's Storehouse
+2 Snow-Covered Mountain
+2 Snow-Covered Swamp
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Ob Nixilis, Captive Kingpin

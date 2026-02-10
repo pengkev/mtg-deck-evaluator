@@ -1,0 +1,100 @@
+1 Biomancer's Familiar
+1 Birds of Paradise
+1 Caelorna, Coral Tyrant
+1 Champion of Lambholt
+1 Crashing Drawbridge
+1 Delighted Halfling
+1 Devoted Druid
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Fecund Greenshell
+1 Forgotten Ancient
+1 Fyndhorn Elves
+1 Hullbreaker Horror
+1 Ledger Shredder
+1 Llanowar Elves
+1 Managorger Hydra
+1 Overgrown Battlement
+1 Phyrexian Walker
+1 Pollywog Prodigy
+1 Runic Armasaur
+1 Saruli Caretaker
+1 Shield Sphere
+1 Shigeki, Jukai Visionary
+1 Sidisi's Faithful
+1 Spellskite
+1 Treefolk Harbinger
+1 Vnwxt, Verbose Host
+1 Walking Ballista
+1 Walking Bulwark
+1 Wall of Junk
+1 Wall of Runes
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Chord of Calling
+1 Crop Rotation
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Sink into Stupor
+1 Strix Serenade
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Metamorphosis
+1 Natural Order
+1 Rush of Knowledge
+1 Traverse Eternity
+1 Assault Formation
+1 Defense of the Heart
+1 Food Chain
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Urza's Saga
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Hedge Maze
+1 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Shifting Woodland
+1 Snow-Covered Island
+1 Talon Gates of Madara
+1 Tropical Island
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Yavimaya Coast
+Sideboard
+1 The Pride of Hull Clade

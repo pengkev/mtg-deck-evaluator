@@ -1,0 +1,101 @@
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Goblin Charbelcher
+1 Grim Monolith
+1 Jack-o'-Lantern
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Mana Vault
+1 Pentad Prism
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Lotus Petal
+1 Demonic Tutor
+1 Destroy the Evidence
+1 Dread Return
+1 Gamble
+1 Gitaxian Probe
+1 Grim Tutor
+1 Imperial Seal
+1 Insatiable Avarice
+1 Lively Dirge
+1 Pelakka Predation
+1 Reanimate
+1 Fell the Profane
+1 Sea Gate Restoration
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Stump Stomp
+1 Sundering Eruption
+1 Sylvan Tutor
+1 Turntimber Symbiosis
+1 Bridge from Below
+1 Carpet of Flowers
+1 Leyline of Anticipation
+1 Leyline of the Guildpact
+1 Wild Growth
+1 Rite of Flame
+1 Force of Will
+1 Hagra Mauling
+1 Lim-Dul's Vault
+1 Malakir Rebirth
+1 Memory's Journey
+1 Mental Misstep
+1 Misdirection
+1 Pact of Negation
+1 Rain of Filth
+1 Revitalizing Repast
+1 Sink into Stupor
+1 Cabal Therapy
+1 Turn the Earth
+1 Vampiric Tutor
+1 Vastwood Fortification
+1 Veil of Summer
+1 Waterlogged Teachings
+1 Worldly Tutor
+1 Agadeem's Awakening
+1 Bala Ged Recovery
+1 Beseech the Mirror
+1 Bloodsoaked Insight
+1 Bridgeworks Battle
+1 Bring to Light
+1 Summoner's Pact
+1 Tinder Wall
+1 Undercity Informer
+1 Wild Cantor
+1 Balustrade Spy
+1 Birds of Paradise
+1 Blackbloom Rogue
+1 Bloodghast
+1 Boggart Trawler
+1 Chancellor of the Tangle
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Drowner of Truth
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Thassa's Oracle
+1 Gilded Goose
+1 Hermit Druid
+1 Hydroelectric Specimen
+1 Ignoble Hierarch
+1 Kazandu Mammoth
+1 Narcomoeba
+1 Noble Hierarch
+1 Pinnacle Monk
+1 Poxwalkers
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Tangled Florahedron
+1 Fatestitcher
+Sideboard
+1 Najeela, the Blade-Blossom

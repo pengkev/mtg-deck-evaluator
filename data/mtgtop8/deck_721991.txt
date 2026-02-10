@@ -1,0 +1,87 @@
+1 Academy Manufactor
+1 Agent of Treachery
+1 Aminatou's Augury
+1 An Offer You Can't Refuse
+1 Arbor Elf
+1 Arcane Signet
+1 Archway of Innovation
+1 Barkchannel Pathway
+1 Birds of Paradise
+1 Boseiju, Who Endures
+1 Chord of Calling
+1 Clone
+1 Command Tower
+1 Counterspell
+1 Cryptolith Rite
+1 Deadeye Navigator
+1 Delighted Halfling
+1 Displacer Kitten
+1 Dour Port-Mage
+1 Eternal Witness
+1 Exploration
+1 Fabled Passage
+1 Faerie Mastermind
+1 Familiar's Ruse
+1 Finale of Devastation
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+8 Forest
+1 Freed from the Real
+1 Gemstone Caverns
+1 Guardian Project
+1 Hedge Maze
+1 Heroic Intervention
+1 Hullbreaker Horror
+8 Island
+1 Krosan Grip
+1 Last March of the Ents
+1 Llanowar Elves
+1 Machine God's Effigy
+1 Mana Confluence
+1 Mana Drain
+1 Maskwood Nexus
+1 Mirror Room/Fractured Realm
+1 Misty Rainforest
+1 Mox Amber
+1 Mystic Remora
+1 Naga Fleshcrafter
+1 Nissa, Who Shakes the World
+1 Overlord of the Hauntwoods
+1 Panharmonicon
+1 Pemmin's Aura
+1 Peregrin Took
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Pongify
+1 Prowling Serpopard
+1 Reflections of Littjara
+1 Rejuvenating Springs
+1 Roaming Throne
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Shrieking Drake
+1 Sol Ring
+1 Spark Double
+1 Strix Serenade
+1 Sylvan Library
+1 Tamiyo, Compleated Sage
+1 Temple of Mystery
+1 The Reality Chip
+1 The Shire
+1 Tidespout Tyrant
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Tishana's Tidebinder
+1 Tribute to the World Tree
+1 Undercover Operative
+1 Urza's Saga
+1 Verdant Catacombs
+1 Vesuvan Shapeshifter
+1 Virtue of Knowledge
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Lonis, Cryptozoologist

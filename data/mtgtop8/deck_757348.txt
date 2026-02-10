@@ -1,0 +1,90 @@
+1 Silundi Vision
+1 City on Fire
+1 Impact Tremors
+1 Skullcrack
+1 Dig Through Time
+1 Echo of Eons
+1 Gush
+1 Memory Deluge
+1 Memory Jar
+1 Overmaster
+1 Reforge the Soul
+1 The One Ring
+1 Thoughtcast
+1 Time Reversal
+1 Windfall
+1 Winds of Change
+1 Aetherflux Reservoir
+1 Mizzix's Mastery
+1 Past in Flames
+1 Sorceress's Schemes
+1 Coat of Arms
+1 Shared Animosity
+1 Dualcaster Mage
+1 Roaming Throne
+1 Overpowering Attack
+1 Tears of Rage
+1 Conqueror's Flail
+1 Aetherize
+1 Aetherspouts
+1 Arcane Denial
+1 Commit/Memory
+1 Foil
+1 Negate
+1 Sublime Epiphany
+1 Supreme Will
+1 Three Steps Ahead
+1 Warstorm Surge
+1 Ral, Crackling Wit
+1 Tempt with Vengeance
+1 Ring of the Lucii
+1 Remand
+1 Ancient Tomb
+1 Arid Mesa
+1 Boseiju, Who Shelters All
+1 Cascade Bluffs
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Ferrous Lake
+1 Flooded Strand
+7 Island
+1 Mana Confluence
+1 Misty Rainforest
+6 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Reflecting Pool
+1 Riverpyre Verge
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Spirebluff Canal
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Wooded Foothills
+1 Arcane Signet
+1 Ashnod's Altar
+1 Desperate Ritual
+1 Fellwar Stone
+1 Gilded Lotus
+1 Hedron Archive
+1 Heraldic Banner
+1 Mind Stone
+1 Patchwork Banner
+1 Phyrexian Altar
+1 Rousing Refrain
+1 Seething Song
+1 Skirk Prospector
+1 Sol Ring
+1 Thran Dynamo
+1 Unstable Obelisk
+1 Worn Powerstone
+1 Goblin Bombardment
+1 Mystical Tutor
+1 Tezzeret the Seeker
+Sideboard
+1 Ovika, Enigma Goliath

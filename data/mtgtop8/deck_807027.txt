@@ -1,0 +1,96 @@
+1 Bonny Pall, Clearcutter
+1 Colossal Skyturtle
+1 Ertai Resurrected
+1 Faeburrow Elder
+1 Gatecreeper Vine
+1 General Ferrous Rokiric
+1 Gladiolus Amicitia
+1 Glissa Sunslayer
+1 Halo Forager
+1 Hugs, Grisly Guardian
+1 Joshua, Phoenix's Dominant
+1 Kellan, Inquisitive Prodigy
+1 Kiora's Follower
+1 Klothys, God of Destiny
+1 Knight of Autumn
+1 Lotho, Corrupt Shirriff
+1 Mawloc
+1 Mina and Denn, Wildborn
+1 Nine-Fingers Keene
+1 Niv-Mizzet, Supreme
+1 Overlord of the Hauntwoods
+1 Sage of the Maze
+1 Skyserpent Seeker
+1 Sylvan Caryatid
+1 Talion, the Kindly Lord
+1 Tannuk, Memorial Ensign
+1 Tatyova, Benthic Druid
+1 Wight of the Reliquary
+1 Arcane Signet
+1 Chromatic Lantern
+1 Coalition Relic
+1 Expedition Map
+1 Fellwar Stone
+1 Navigation Orb
+1 Shorikai, Genesis Engine
+1 Sol Ring
+1 Cosmic Rebirth
+1 Counterflux
+1 Countersquall
+1 Despark
+1 Dovin's Veto
+1 Expansion/Explosion
+1 Growth Spiral
+1 Prismari Command
+1 Rakdos Charm
+1 Wear/Tear
+1 Circuitous Route
+1 Decimate
+1 Explore the Underdark
+1 Gates Ablaze
+1 Merciless Eviction
+1 Molten Collapse
+1 Tempt with Discovery
+1 Time Wipe
+1 Vindicate
+1 Case of the Locked Hothouse
+1 Crackling Perimeter
+1 Frostcliff Siege
+1 Guild Summit
+1 Invasion of Tolvada
+1 Spelunking
+1 Domri, Anarch of Bolas
+1 Azorius Guildgate
+1 Baldur's Gate
+1 Basilisk Gate
+1 Black Dragon Gate
+1 Boros Guildgate
+1 Citadel Gate
+1 Cliffgate
+1 Command Tower
+1 Dimir Guildgate
+1 Exotic Orchard
+2 Forest
+1 Gateway Plaza
+1 Golgari Guildgate
+1 Gond Gate
+1 Gruul Guildgate
+1 Heap Gate
+2 Island
+1 Izzet Guildgate
+1 Manor Gate
+1 Maze's End
+2 Mountain
+1 Orzhov Guildgate
+2 Plains
+1 Plaza of Harmony
+1 Rakdos Guildgate
+1 Sea Gate
+1 Selesnya Guildgate
+1 Simic Guildgate
+2 Swamp
+1 Thespian's Stage
+1 Thran Portal
+1 Tolaria West
+Sideboard
+1 Niv-Mizzet Reborn

@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Consecrated Sphinx
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Delighted Halfling
+1 High Fae Trickster
+1 Kitsa, Otterball Elite
+1 Ledger Shredder
+1 Mockingbird
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Psychic Frog
+1 Seedborn Muse
+1 Spellseeker
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Wandering Archaic
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Dominance
+1 The One Ring
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Assassin's Trophy
+1 Crop Rotation
+1 Deadly Rollick
+1 Demonic Consultation
+1 Drag to the Roots
+1 Fell the Profane
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mystical Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Waterlogged Teachings
+1 Worldly Tutor
+1 Beseech the Mirror
+1 Demonic Counsel
+1 Demonic Tutor
+1 Nature's Rhythm
+1 Toxic Deluge
+1 Traverse the Ulvenwald
+1 Amphibian Downpour
+1 Exploration
+1 Mystic Remora
+1 Necrodominance
+1 Rhystic Study
+1 Urza's Saga
+1 Walk-In Closet/Forgotten Cellar
+1 Jace, Wielder of Mysteries
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+1 Forest
+1 Gemstone Caverns
+1 Hinterland Harbor
+1 Island
+1 Llanowar Wastes
+1 Marsh Flats
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Swamp
+1 Wastewood Verge
+1 Waterlogged Grove
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Zagoth Triome
+Sideboard
+1 Glarb, Calamity's Augur

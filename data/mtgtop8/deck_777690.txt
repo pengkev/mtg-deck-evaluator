@@ -1,0 +1,100 @@
+1 "Name Sticker" Goblin
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Evendo Brushrazer
+1 Fable of the Mirror-Breaker
+1 Fear of Missing Out
+1 Goblin Engineer
+1 Goblin Welder
+1 Hope of Ghirapur
+1 Imperial Recruiter
+1 Impulsive Pilferer
+1 Knuckles the Echidna
+1 Magda, Brazen Outlaw
+1 Memnite
+1 Metalworker
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Spider-Punk
+1 Thermopod
+1 Treasonous Ogre
+1 Altar of Dementia
+1 Apple of Eden, Isu Relic
+1 Arcane Signet
+1 Chrome Mox
+1 Defense Grid
+1 Grim Monolith
+1 Grinding Station
+1 Lavaspur Boots
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Memory Jar
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Phyrexian Altar
+1 Prized Statue
+1 Relic of Legends
+1 Ruby Medallion
+1 Sol Ring
+1 The Endstone
+1 The One Ring
+1 Vexing Bauble
+1 Deflecting Swat
+1 Desperate Ritual
+1 Final Fortune
+1 Flare of Duplication
+1 Pyretic Ritual
+1 Seething Song
+1 Untimely Malfunction
+1 Claim the Firstborn
+1 Faithless Looting
+1 Fire Giant's Fury
+1 Gamble
+1 Infernal Plunge
+1 Jeska's Will
+1 Molten Duplication
+1 Reckless Handling
+1 Reckless Impulse
+1 Rite of Flame
+1 Seize the Spotlight
+1 Shatterskull Smashing
+1 Sundering Eruption
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Wrenn's Resolve
+1 Zenith Festival
+1 Bitter Reunion
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Traitors
+1 Crystal Vein
+1 Fomori Vault
+1 Gemstone Caverns
+1 Great Furnace
+1 Inventors' Fair
+1 Mishra's Workshop
+2 Mountain
+1 Prismatic Vista
+1 Scalding Tarn
+1 Snow-Covered Mountain
+1 Sokenzan, Crucible of Defiance
+1 Treasure Vault
+1 Wooded Foothills
+Sideboard
+1 Dargo, the Shipwrecker
+1 Jeska, Thrice Reborn

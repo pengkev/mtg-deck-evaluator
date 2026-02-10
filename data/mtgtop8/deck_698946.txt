@@ -1,0 +1,100 @@
+1 Tidespout Tyrant
+1 Hullbreaker Horror
+1 Grim Monolith
+1 Isochron Scepter
+1 Voltaic Key
+1 Mox Diamond
+1 Basalt Monolith
+1 Cursed Totem
+1 Imposter Mech
+1 Azorius Signet
+1 Unwinding Clock
+1 The One Ring
+1 Sol Ring
+1 Lotus Petal
+1 Proteus Staff
+1 Chrome Mox
+1 Mox Opal
+1 Manifold Key
+1 Thought Vessel
+1 Mana Vault
+1 Fellwar Stone
+1 Arcane Signet
+1 Torpor Orb
+1 Talisman of Progress
+1 Narset's Reversal
+1 Dramatic Reversal
+1 Permission Denied
+1 Chain of Vapor
+1 Mindbreak Trap
+1 Dovin's Veto
+1 Tale's End
+1 Force of Will
+1 Muddle the Mixture
+1 Counterspell
+1 Whir of Invention
+1 Brainstorm
+1 Brain Freeze
+1 Mana Drain
+1 Force of Negation
+1 Mental Misstep
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Pact of Negation
+1 Silence
+1 Borne Upon a Wind
+1 Cyclonic Rift
+1 Swords to Plowshares
+1 Flusterstorm
+1 Trickbind
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Sevinne's Reclamation
+1 Transmute Artifact
+1 Gitaxian Probe
+1 Reshape
+1 Polymorph
+1 Terminus
+1 Supreme Verdict
+1 Copy Artifact
+1 Humility
+1 Out of Time
+1 Mystic Remora
+1 Smothering Tithe
+1 Blind Obedience
+1 Rhystic Study
+1 Urza's Saga
+1 Unstoppable Plan
+1 Tezzeret the Seeker
+1 Karn, the Great Creator
+1 Teferi, Time Raveler
+1 Mishra's Workshop
+1 The Tabernacle at Pendrell Vale
+1 Tundra
+1 Plains
+1 Academy Ruins
+1 Command Tower
+1 Ancient Tomb
+1 Arid Mesa
+1 Misty Rainforest
+1 Marsh Flats
+1 Scalding Tarn
+1 Ancient Den
+1 Seat of the Synod
+1 Hallowed Fountain
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 City of Brass
+1 Gemstone Caverns
+1 Minamo, School at Water's Edge
+1 Exotic Orchard
+1 Glacial Fortress
+1 Meticulous Archive
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Spire of Industry
+2 Island
+Sideboard
+1 Shorikai, Genesis Engine

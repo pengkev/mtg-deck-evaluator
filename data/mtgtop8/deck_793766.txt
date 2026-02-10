@@ -1,0 +1,101 @@
+1 Auriok Salvagers
+1 Birgi, God of Storytelling
+1 Emry, Lurker of the Loch
+1 Esper Sentinel
+1 Mockingbird
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Valley Floodcaller
+1 Walking Ballista
+1 Arcane Signet
+1 Astral Cornucopia
+1 Azorius Signet
+1 Chrome Mox
+1 Engineered Explosives
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Grim Monolith
+1 Gustha's Scepter
+1 Izzet Signet
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lodestone Bauble
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Pentad Prism
+1 Sol Ring
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dramatic Reversal
+1 Dream's Grip
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Filter Out
+1 Final Fortune
+1 Flusterstorm
+1 Force of Will
+1 Gut Shot
+1 Intuition
+1 Mental Misstep
+1 Pact of Negation
+1 Pyretic Ritual
+1 Repeal
+1 Retract
+1 Silence
+1 Sink into Stupor
+1 Snap
+1 Boomerang Basics
+1 Claim the Firstborn
+1 Gamble
+1 Gitaxian Probe
+1 Hidden Strings
+1 Jeska's Will
+1 Past in Flames
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Strike It Rich
+1 Mystic Remora
+1 Rhystic Study
+1 Steal Enchantment
+1 Underworld Breach
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Mana Confluence
+1 Mishra's Workshop
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plateau
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+1 Tarnished Citadel
+1 Thundering Falls
+1 Tundra
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Narset, Jeskai Waymaster

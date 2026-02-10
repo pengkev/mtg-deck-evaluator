@@ -1,0 +1,88 @@
+1 Sol Ring
+1 Talisman of Resilience
+1 Birthing Pod
+1 Golgari Signet
+1 Skullclamp
+1 Swiftfoot Boots
+1 Arcane Signet
+1 Whip of Erebos
+1 Shadow in the Warp
+1 Fellwar Stone
+1 Doors of Durin
+1 Beast Within
+1 Malakir Rebirth
+1 Undying Malice
+1 Nasty End
+1 Chaos Warp
+1 Untimely Malfunction
+1 Nature's Lore
+1 Evolutionary Leap
+1 Cultivate
+1 Farseek
+1 Rise of the Witch-King
+1 Rise of the Dark Realms
+1 Victimize
+1 Electroduplicate
+1 Eldritch Evolution
+1 Garruk's Uprising
+1 Riveteers Ascendancy
+1 Living Death
+1 Junji, the Midnight Sky
+1 Aspiring Champion
+1 Gamekeeper
+1 Kethek, Crucible Goliath
+1 Archpriest of Shadows
+1 Doomskar Warrior
+1 Goreclaw, Terror of Qal Sisma
+1 Inferno Titan
+1 Witch-king, Sky Scourge
+1 Bringer of the Last Gift
+1 Ziatora, the Incinerator
+1 Solemn Simulacrum
+1 Primeval Herald
+1 Birds of Paradise
+1 Ravenous Chupacabra
+1 Protean Hulk
+1 Greater Harvester
+1 Ilharg, the Raze-Boar
+1 Disciple of Bolas
+1 Champion of Rhonas
+1 Seedguide Ash
+1 Deathbringer Regent
+1 Daemogoth Woe-Eater
+1 Ignoble Hierarch
+1 Chainer, Nightmare Adept
+1 Gorex, the Tombshell
+1 Ognis, the Dragon's Lash
+1 Ziatora's Envoy
+1 Treeshaker Chimera
+1 Giant Adephage
+1 Greenwarden of Murasa
+1 Jaxis, the Troublemaker
+1 Etali, Primal Storm
+1 Braids, Arisen Nightmare
+1 Timeless Witness
+1 Mikaeus, the Unhallowed
+1 Woodland Cemetery
+1 Temple of Malady
+1 Llanowar Wastes
+1 Shadowblood Ridge
+1 Savage Lands
+1 Rootbound Crag
+1 Reliquary Tower
+1 Blazemire Verge
+1 Rockfall Vale
+1 Riveteers Overlook
+1 Smoldering Marsh
+1 Evolving Wilds
+1 Haunted Mire
+1 Command Tower
+1 Path of Ancestry
+1 Sulfurous Springs
+1 Ash Barrens
+1 Terramorphic Expanse
+5 Swamp
+5 Mountain
+6 Forest
+Sideboard
+1 Henzie "Toolbox" Torre

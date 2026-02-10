@@ -1,0 +1,93 @@
+1 Hushbringer
+1 Weathered Wayfarer
+1 Containment Priest
+1 Linvala, Keeper of Silence
+1 Aven Mindcensor
+1 Eidolon of Rhetoric
+1 Dryad Militant
+1 Drannith Magistrate
+1 Grand Abolisher
+1 Yasharn, Implacable Earth
+1 Archon of Emeria
+1 Esper Sentinel
+1 Sanctum Weaver
+1 Endurance
+1 Elesh Norn, Grand Cenobite
+1 Kodama of the West Tree
+1 Archivist of Oghma
+1 Deep Gnome Terramancer
+1 Green Slime
+1 Birds of Paradise
+1 Collector Ouphe
+1 Avacyn's Pilgrim
+1 Soulless Jailer
+1 Leonin Arbiter
+1 Phyrexian Censor
+1 Sigarda, Font of Blessings
+1 Delighted Halfling
+1 Composer of Spring
+1 Destiny Spinner
+1 Setessan Champion
+1 Dauntless Dismantler
+1 Doorkeeper Thrull
+1 Phelia, Exuberant Shepherd
+1 Springheart Nantuko
+1 Ethersworn Canonist
+1 Kataki, War's Wage
+1 Enduring Vitality
+1 Clarion Conqueror
+1 Null Rod
+1 Pithing Needle
+1 Damping Sphere
+1 Winter Moon
+1 Disruptor Flute
+1 Vexing Bauble
+1 Grafdigger's Cage
+1 Eladamri's Call
+1 Swords to Plowshares
+1 Congregation at Dawn
+1 Silence
+1 Nature's Claim
+1 Worldly Tutor
+1 Crop Rotation
+1 Enlightened Tutor
+1 Path to Exile
+1 Deafening Silence
+1 Survival of the Fittest
+1 Stony Silence
+1 Burgeoning
+1 Suppression Field
+1 Shapers' Sanctuary
+1 Aura of Silence
+1 Greater Auramancy
+1 Touch the Spirit Realm
+1 Wild Growth
+1 Land Tax
+1 Rest in Peace
+1 Utopia Sprawl
+1 Blind Obedience
+1 Carpet of Flowers
+1 Birthing Ritual
+1 Static Prison
+6 Plains
+1 Exotic Orchard
+1 City of Brass
+1 Ancient Tomb
+1 Temple Garden
+1 Gaea's Cradle
+1 Serra's Sanctum
+1 Savannah
+1 Branchloft Pathway
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Command Tower
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Lush Portico
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Brushland
+1 Wooded Bastion
+4 Forest
+Sideboard
+1 Ellivere of the Wild Court

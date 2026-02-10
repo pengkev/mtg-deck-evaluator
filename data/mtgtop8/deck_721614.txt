@@ -1,0 +1,92 @@
+10 Mountain
+1 Volatile Fault
+1 Talon Gates of Madara
+1 Arena of Glory
+1 Command Beacon
+1 Mines of Moria
+1 Great Furnace
+1 Plaza of Heroes
+1 Mutavault
+1 Treasure Vault
+1 Gemstone Caverns
+1 Homeward Path
+1 Cavern of Souls
+1 Blast Zone
+1 Ancient Tomb
+1 Shinka, the Bloodsoaked Keep
+1 City of Traitors
+1 Strip Mine
+1 Sticky Fingers
+1 Urza's Saga
+1 Sundering Eruption
+1 Shatterskull Smashing
+1 Rite of Flame
+1 Gamble
+1 Untimely Malfunction
+1 Flare of Duplication
+1 Explosive Derailment
+1 Great Train Heist
+1 Chaos Warp
+1 Tibalt's Trickery
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Final Fortune
+1 Abrade
+1 Deflecting Swat
+1 Pyroblast
+1 Burner Rocket
+1 Lifecraft Engine
+1 Clown Car
+1 Unlicensed Hearse
+1 High-Speed Hoverbike
+1 Sphere of Resistance
+1 Sculpting Steel
+1 Chrome Mox
+1 Spine of Ish Sah
+1 Tangle Wire
+1 Possessed Portal
+1 Vexing Bauble
+1 The One Ring
+1 Springleaf Drum
+1 Mox Amber
+1 Portal to Phyrexia
+1 Arcane Signet
+1 Sol Ring
+1 Clock of Omens
+1 Damping Sphere
+1 Torpor Orb
+1 Mox Opal
+1 Mana Vault
+1 Lotus Petal
+1 Trinisphere
+1 Grinding Station
+1 Ashnod's Transmogrant
+1 Grafdigger's Cage
+1 Three Tree Mascot
+1 Barkform Harvester
+1 Gimli of the Glittering Caves
+1 Xorn
+1 Plundering Barbarian
+1 Dwarven Scorcher
+1 Simian Spirit Guide
+1 Axgard Cavalry
+1 Magda, the Hoardmaster
+1 Roaming Throne
+1 Cavern-Hoard Dragon
+1 Professional Face-Breaker
+1 Twinshot Sniper
+1 Fury
+1 Ragavan, Nimble Pilferer
+1 Bloodline Pretender
+1 Dwarven Armorer
+1 Dwarven Trader
+1 Spark Mage
+1 Dwarven Grunt
+1 Liberated Dwarf
+1 Bloodfire Dwarf
+1 Adaptive Automaton
+1 Universal Automaton
+1 Metallic Mimic
+1 Enslaved Dwarf
+Sideboard
+1 Magda, Brazen Outlaw

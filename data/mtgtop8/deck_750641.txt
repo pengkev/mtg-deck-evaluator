@@ -1,0 +1,91 @@
+1 Academy Manufactor
+1 Barkform Harvester
+1 Bonebind Orator
+1 Bonecache Overseer
+1 Bristlebud Farmer
+1 Chatterfang, Squirrel General
+1 Curious Forager
+1 Deep Forest Hermit
+1 Drey Keeper
+1 Elanor Gardner
+1 Gilded Goose
+1 Greta, Sweettooth Scourge
+1 Haywire Mite
+1 Hazel of the Rootbloom
+1 Hazel's Brewmaster
+1 Honored Dreyleader
+1 Insatiable Frugivore
+1 Meriadoc Brandybuck
+1 Ohran Frostfang
+1 Old Flitterfang
+1 Osteomancer Adept
+1 Peregrin Took
+1 Pippin, Warden of Isengard
+1 Provisions Merchant
+1 Rapacious Guest
+1 Ravenous Squirrel
+1 Savvy Hunter
+1 Scurry of Squirrels
+1 Squirrel Sovereign
+1 The Odd Acorn Gang
+1 Thornvault Forager
+1 Tireless Provisioner
+1 Toski, Bearer of Secrets
+1 Valley Rotcaller
+1 Vinereap Mentor
+1 Yathan Tombguard
+1 Arcane Signet
+1 Chitterspitter
+1 Heaped Harvest
+1 Idol of Oblivion
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Vat of Rebirth
+1 Cache Grab
+1 Inspiring Call
+1 Revitalizing Repast
+1 Second Harvest
+1 Tear Asunder
+1 Verdant Command
+1 Decree of Pain
+1 Nature's Lore
+1 Preposterous Proportions
+1 Rootcast Apprenticeship
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Spider Food
+1 Swarmyard Massacre
+1 Beastmaster Ascension
+1 Chthonian Nightmare
+1 Cloakwood Hermit
+1 Hollowmurk Siege
+1 Night of the Sweets' Revenge
+1 Scavenger's Talent
+1 Squirrel Nest
+1 Trail of Crumbs
+1 Bojuka Bog
+1 Command Tower
+8 Forest
+1 Gingerbread Cabin
+1 Golgari Rot Farm
+1 Haunted Mire
+1 Jungle Hollow
+1 Llanowar Wastes
+1 Mudflat Village
+1 Myriad Landscape
+1 Necroblossom Snarl
+1 Oakhollow Village
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Restless Cottage
+4 Swamp
+1 Swarmyard
+1 Tainted Wood
+1 Temple of Malady
+1 The Shire
+1 Twilight Mire
+1 Viridescent Bog
+1 Woodland Cemetery
+Sideboard
+1 Camellia, the Seedmiser

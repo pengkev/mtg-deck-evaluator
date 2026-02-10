@@ -1,0 +1,97 @@
+1 Spellseeker
+1 Primal Druid
+1 Deathrite Shaman
+1 Eternal Witness
+1 Sakura-Tribe Scout
+1 Uro, Titan of Nature's Wrath
+1 Veteran Explorer
+1 Viridian Emissary
+1 Lotus Cobra
+1 Scryb Ranger
+1 Quirion Ranger
+1 Ledger Shredder
+1 Birds of Paradise
+1 Haywire Mite
+1 Glen Elendra Archmage
+1 Jolrael, Mwonvuli Recluse
+1 Koma, Cosmos Serpent
+1 Iridescent Vinelasher
+1 Morbid Opportunist
+1 Thassa's Oracle
+1 Scute Swarm
+1 Tatyova, Benthic Druid
+1 Bloodghast
+1 Arboreal Grazer
+1 Thousand-Year Elixir
+1 Swiftfoot Boots
+1 Winged Boots
+1 Heroic Intervention
+1 Chord of Calling
+1 Abrupt Decay
+1 Perplex
+1 Twincast
+1 Pact of Negation
+1 Nature's Claim
+1 Swan Song
+1 Entomb
+1 Wash Away
+1 An Offer You Can't Refuse
+1 Vampiric Tutor
+1 Crop Rotation
+1 Borne Upon a Wind
+1 Assassin's Trophy
+1 Archdruid's Charm
+1 Demonic Consultation
+1 Harrow
+1 Mortality Spear
+1 Defabricate
+1 Life from the Loam
+1 Thoughtseize
+1 Nature's Lore
+1 Three Visits
+1 Reanimate
+1 Lively Dirge
+1 Pest Infestation
+1 Unmarked Grave
+1 Retreat to Coralhelm
+1 Mystic Remora
+1 Intruder Alarm
+1 Teferi's Ageless Insight
+1 Swamp
+1 Llanowar Wastes
+1 Simic Growth Chamber
+1 Prismatic Vista
+1 Mana Confluence
+1 Overgrown Tomb
+1 Golgari Rot Farm
+1 Drowned Catacomb
+1 Gaea's Cradle
+1 Field of the Dead
+1 Flooded Grove
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Yavimaya Coast
+1 Twilight Mire
+1 Woodland Cemetery
+1 Rejuvenating Springs
+1 Snow-Covered Forest
+1 Watery Grave
+1 Dimir Aqueduct
+1 Command Tower
+1 Darkbore Pathway
+1 Undergrowth Stadium
+1 Breeding Pool
+1 Alchemist's Refuge
+1 Bojuka Bog
+1 Hedge Maze
+1 Undercity Sewers
+1 Underground Mortuary
+1 Polluted Delta
+1 Botanical Sanctum
+1 Dust Bowl
+4 Forest
+2 Island
+1 Wooded Foothills
+Sideboard
+1 Zimone and Dina

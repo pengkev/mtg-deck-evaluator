@@ -1,0 +1,84 @@
+1 Arcane Signet
+1 Atarka, World Render
+1 Birds of Paradise
+1 Blasphemous Act
+1 Breaching Dragonstorm
+1 Broodcaller Scourge
+1 Chromatic Lantern
+1 Cinder Glade
+1 Command Tower
+1 Cultivate
+1 Cursed Mirror
+1 Dragon Tempest
+1 Dragon's Hoard
+1 Dragonhawk, Fate's Tempest
+1 Dragonlord Atarka
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Drakuseth, Maw of Flames
+1 Dreamroot Cascade
+1 Earthquake
+1 Earthquake Dragon
+1 Eldritch Evolution
+1 Elemental Bond
+1 Exotic Orchard
+1 Farseek
+1 Fellwar Stone
+6 Forest
+1 Frostboil Snarl
+1 Ganax, Astral Hunter
+1 Garruk's Uprising
+1 Goldspan Dragon
+1 Hammerhead Tyrant
+1 Haven of the Spirit Dragon
+1 Hellkite Charger
+1 Hellkite Tyrant
+1 Hinterland Harbor
+1 Ilysian Caryatid
+4 Island
+1 Karplusan Forest
+1 Kiora, Behemoth Beckoner
+1 Kura, the Boundless Sky
+1 Lathliss, Dragon Queen
+1 Maelstrom of the Spirit Dragon
+1 Magmatic Hellkite
+1 Mosswort Bridge
+10 Mountain
+1 Nature's Lore
+1 Negate
+1 Neoform
+1 Opportunistic Dragon
+1 Panharmonicon
+1 Parapet Thrasher
+1 Rampant Growth
+1 Rattleclaw Mystic
+1 Red Dragon
+1 Rishkar's Expertise
+1 Rockfall Vale
+1 Roiling Dragonstorm
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Sarkhan, Soul Aflame
+1 Scourge of Valkas
+1 Shivan Reef
+1 Sol Ring
+1 Spectral Denial
+1 Sulfur Falls
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Temur Ascendancy
+1 Temur Battlecrier
+1 Thrakkus the Butcher
+1 Three Visits
+1 Thunderbreak Regent
+1 Thundermane Dragon
+1 Tyrant of Kher Ridges
+1 Vengeful Ancestor
+1 Verix Bladewing
+1 Vineglimmer Snarl
+1 Whisperer of the Wilds
+1 Will of the Temur
+1 Wrathful Red Dragon
+1 Yavimaya Coast
+Sideboard
+1 Miirym, Sentinel Wyrm

@@ -1,0 +1,97 @@
+1 Nylea, Keen-Eyed
+1 Pangosaur
+1 Birds of Paradise
+1 Chandra's Incinerator
+1 Temur Sabertooth
+1 Uro, Titan of Nature's Wrath
+1 Kogla, the Titan Ape
+1 Animar, Soul of Elements
+1 Topiary Stomper
+1 Chaos Dragon
+1 Silverback Elder
+1 Gwenna, Eyes of Gaea
+1 Maelstrom Wanderer
+1 Spitebellows
+1 Goreclaw, Terror of Qal Sisma
+1 Pugnacious Hammerskull
+1 Trumpeting Carnosaur
+1 Anzrag, the Quake-Mole
+1 Outcaster Trailblazer
+1 Dreamtide Whale
+1 Selvala, Heart of the Wilds
+1 Llanowar Elves
+1 Arixmethes, Slumbering Isle
+1 High Fae Trickster
+1 Ghalta, Primal Hunger
+1 Vexing Devil
+1 Agonasaur Rex
+1 Temur Battlecrier
+1 Hammerhead Tyrant
+1 Territorial Hellkite
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Thought Vessel
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Impulse
+1 Talisman of Curiosity
+1 Herd Heirloom
+1 Counterspell
+1 Beast Within
+1 Chaos Warp
+1 Smuggler's Surprise
+1 Untimely Malfunction
+1 Snakeskin Veil
+1 Spectral Denial
+1 Rapid Hybridization
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Blasphemous Act
+1 Farseek
+1 Rishkar's Expertise
+1 Stump Stomp
+1 Sundering Eruption
+1 Chandra's Ignition
+1 Dragonclaw Strike
+1 Rhythm of the Wild
+1 Pandemonium
+1 Monstrous Vortex
+1 Greater Good
+1 Garruk's Uprising
+1 Frostcliff Siege
+1 Temur Ascendancy
+1 Kiora, Behemoth Beckoner
+1 Rogue's Passage
+1 Stomping Ground
+1 Island
+1 Ketria Triome
+1 Reliquary Tower
+1 Scalding Tarn
+1 Steam Vents
+1 Cragcrown Pathway
+1 Barkchannel Pathway
+1 Yavimaya, Cradle of Growth
+1 Exotic Orchard
+1 Boseiju, Who Endures
+1 Command Tower
+1 Scavenger Grounds
+1 Shifting Woodland
+1 Yavimaya Coast
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Willowrush Verge
+1 Frostboil Snarl
+1 Hinterland Harbor
+1 Rootbound Crag
+1 Shivan Reef
+1 Sulfur Falls
+1 Frontier Bivouac
+1 Mistrise Village
+1 Mosswort Bridge
+1 Cinder Glade
+1 Bountiful Landscape
+1 Kessig Wolf Run
+4 Forest
+2 Mountain
+Sideboard
+1 Eshki, Temur's Roar

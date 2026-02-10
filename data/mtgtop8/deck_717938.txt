@@ -1,0 +1,88 @@
+1 Arcane Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Counterspell
+1 Beast Within
+1 Krosan Grip
+1 Deadly Rollick
+1 Vivien, Monsters' Advocate
+1 Arcane Denial
+1 Aetherize
+1 Dredge the Mire
+1 Deadly Tempest
+1 Find/Finality
+1 Kodama's Reach
+1 Mythos of Brokkos
+1 Farseek
+1 Nature's Lore
+1 Asceticism
+1 Propaganda
+1 Zendikar Resurgent
+1 Primal Empathy
+1 Vesuvan Duplimancy
+1 Colossal Majesty
+1 Abundance
+1 Season of Growth
+1 Putrefy
+1 Extravagant Replication
+1 Pouncing Shoreshark
+1 Sea-Dasher Octopus
+1 Trumpeting Gnarr
+1 Gladecover Scout
+1 Ivy, Gleeful Spellthief
+1 Venomthrope
+1 Saiba Cryptomancer
+1 Vashta Nerada
+1 Nightveil Predator
+1 Barbed Servitor
+1 Honest Rutstein
+1 Silhana Ledgewalker
+1 Toski, Bearer of Secrets
+1 Ukkima, Stalking Shadow
+1 Parcelbeast
+1 Elusive Tormentor
+1 Cold-Eyed Selkie
+1 Mindleecher
+1 Predator Ooze
+1 Sawtusk Demolisher
+1 Silent Arbiter
+1 Souvenir Snatcher
+1 Archipelagore
+1 Auspicious Starrix
+1 Brokkos, Apex of Forever
+1 Chittering Harvester
+1 Cavern Whisperer
+1 Essence Symbiote
+1 Dirge Bat
+1 Dreamtail Heron
+1 Gemrazer
+1 Glowstone Recluse
+1 Insatiable Hemophage
+1 Migratory Greathorn
+1 Pollywog Symbiote
+1 Boneyard Lurker
+1 Slippery Bogle
+1 Command Tower
+1 Endless Sands
+1 Exotic Orchard
+1 Llanowar Wastes
+1 Myriad Landscape
+1 Mortuary Mire
+1 Opulent Palace
+1 Rogue's Passage
+1 Temple of the False God
+1 Rimewood Falls
+1 Woodland Chasm
+1 Ice Tunnel
+1 Contaminated Aquifer
+1 Tangled Islet
+1 Restless Cottage
+1 Restless Vinestalk
+1 Restless Reef
+1 Haunted Mire
+1 Sunken Hollow
+4 Island
+5 Swamp
+7 Forest
+Sideboard
+1 Otrimi, the Ever-Playful

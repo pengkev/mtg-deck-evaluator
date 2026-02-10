@@ -1,0 +1,84 @@
+1 Alexios, Deimos of Kosmos
+1 Ardenn, Intrepid Archaeologist
+1 Balan, Wandering Knight
+1 Bruenor Battlehammer
+1 Cid, Freeflier Pilot
+1 Cloud, Midgar Mercenary
+1 Codsworth, Handy Helper
+1 Esper Sentinel
+1 Freya Crescent
+1 Gilgamesh, Master-at-Arms
+1 Godo, Bandit Warlord
+1 Imperial Recruiter
+1 Kediss, Emberclaw Familiar
+1 Lightning, Army of One
+1 Puresteel Paladin
+1 Raubahn, Bull of Ala Mhigo
+1 Sram, Senior Edificer
+1 Stoneforge Mystic
+1 Vincent, Vengeful Atoner
+1 Zack Fair
+1 Aettir and Priwen
+1 Arcane Signet
+1 Bitterthorn, Nissa's Animus
+1 Blackblade Reforged
+1 Boros Signet
+1 Caduceus, Staff of Hermes
+1 Colossus Hammer
+1 Commander's Plate
+1 Conqueror's Flail
+1 Fireshrieker
+1 Genji Glove
+1 Infiltration Lens
+1 Inquisitor's Flail
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Machinist's Arsenal
+1 Mask of Memory
+1 Mind Stone
+1 Sol Ring
+1 Sunforger
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Forge and Frontier
+1 Sword of Hearth and Home
+1 Sword of Wealth and Power
+1 Trailblazer's Boots
+1 Akroma's Will
+1 Boros Charm
+1 Enlightened Tutor
+1 Mana Tithe
+1 Razorgrass Ambush
+1 Restoration Magic
+1 Return the Favor
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Austere Command
+1 Chandra's Ignition
+1 Divine Reckoning
+1 Open the Armory
+1 Steelshaper's Gift
+1 Forge Anew
+1 High Noon
+1 Reconnaissance
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Bonders' Enclave
+1 Clifftop Retreat
+1 Command Beacon
+1 Command Tower
+1 Demolition Field
+1 Elegant Parlor
+1 Flooded Strand
+1 Inspiring Vantage
+1 Monumental Henge
+12 Mountain
+7 Plains
+1 Radiant Summit
+1 Rugged Prairie
+1 Sacred Foundry
+1 Secluded Starforge
+1 Spectator Seating
+Sideboard
+1 Amy Rose

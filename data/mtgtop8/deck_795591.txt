@@ -1,0 +1,78 @@
+1 Ayli, Eternal Pilgrim
+1 Bartolomé del Presidio
+1 Blood Artist
+1 Blood Bairn
+1 Cartel Aristocrat
+1 Corpse Knight
+1 Cruel Celebrant
+1 Disciple of Bolas
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elenda, the Dusk Rose
+1 Elenda's Hierophant
+1 Endrek Sahr, Master Breeder
+1 Epicure of Blood
+1 Falkenrath Noble
+1 God-Eternal Bontu
+1 Grim Haruspex
+1 Kambal, Consul of Allocation
+1 Liliana's Standard Bearer
+1 Marsh Flitter
+1 Midnight Reaper
+1 Mirkwood Bats
+1 Nantuko Husk
+1 Ogre Slumlord
+1 Phyrexian Delver
+1 Pitiless Plunderer
+1 Sengir Autocrat
+1 Soul Warden
+1 Sun Titan
+1 Suture Priest
+1 Syr Konrad, the Grim
+1 Teysa Karlov
+1 Thalia, Heretic Cathar
+1 Thalisse, Reverent Medium
+1 Vampire Aristocrat
+1 Vindictive Vampire
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Whisper, Blood Liturgist
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Sculpting Steel
+1 Skullclamp
+1 Sol Ring
+1 Thought Vessel
+1 Anguished Unmaking
+1 Brought Back
+1 Call the Coppercoats
+1 Disenchant
+1 Fracture
+1 Path to Exile
+1 Swords to Plowshares
+1 Army of the Damned
+1 Damn
+1 Exsanguinate
+1 Fumigate
+1 Kaya's Wrath
+1 Revival/Revenge
+1 Unearth
+1 Victimize
+1 Bastion of Remembrance
+1 Dark Prophecy
+1 Kaya's Ghostform
+1 Phyrexian Arena
+1 Blighted Steppe
+1 Command Tower
+1 Concealed Courtyard
+1 Exotic Orchard
+1 Fetid Heath
+1 Isolated Chapel
+12 Plains
+1 Shineshadow Snarl
+13 Swamp
+1 Tainted Field
+1 Temple of the False God
+1 Vault of the Archangel
+Sideboard
+1 Teysa, Orzhov Scion

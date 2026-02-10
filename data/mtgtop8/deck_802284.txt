@@ -1,0 +1,72 @@
+1 Agitator Ant
+1 Alexios, Deimos of Kosmos
+1 Brash Taunter
+1 Combustion Man
+1 Etali, Primal Storm
+1 Fiendish Duo
+1 Frontier Warmonger
+1 Geode Rager
+1 Gimli, Counter of Kills
+1 Gornog, the Red Reaper
+1 Grenzo, Havoc Raiser
+1 Clive, Ifrit's Dominant
+1 Kazuul, Tyrant of the Cliffs
+1 Neheb, Dreadhorde Champion
+1 Nesting Dragon
+1 Parapet Thrasher
+1 Professional Face-Breaker
+1 Rampaging Ferocidon
+1 Silent Arbiter
+1 Star Athlete
+1 Steel Hellkite
+1 Torbran, Thane of Red Fell
+1 Vengeful Ancestor
+1 Angel's Trumpet
+1 Arcane Signet
+1 Crawlspace
+1 Heraldic Banner
+1 Horn of the Mark
+1 Key to the City
+1 Lightning Greaves
+1 Mirror Shield
+1 Mjölnir, Storm Hammer
+1 Ruby Medallion
+1 Sol Ring
+1 Tarrian's Soulcleaver
+1 The Fire Crystal
+1 Tome of Legends
+1 Chaos Warp
+1 Demand Answers
+1 Electric Revelation
+1 End-Blaze Epiphany
+1 Laughing Mad
+1 Sazacap's Brew
+1 Solstice Revelations
+1 Wild Magic Surge
+1 Disrupt Decorum
+1 Embrace the Unknown
+1 Grab the Prize
+1 Highway Robbery
+1 Romantic Rendezvous
+1 Spectacular Showdown
+1 Sundering Eruption
+1 Brazen Cannonade
+1 Circle of Flame
+1 Connecting the Dots
+1 Curse of Opulence
+1 Guild Artisan
+1 Maximum Carnage
+1 Mechanized Warfare
+1 Popular Entertainer
+1 Pyrohemia
+1 Sulfuric Vortex
+1 Uphill Battle
+1 Castle Embereth
+1 Demolition Field
+1 Forgotten Cave
+30 Mountain
+1 Secret Tunnel
+1 Spinerock Knoll
+1 Tyrite Sanctum
+Sideboard
+1 Kratos, God of War

@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Bronze Bombshell
+1 Collector Ouphe
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Dragon Mage
+1 Eater of Days
+1 Ignoble Hierarch
+1 Inverter of Truth
+1 Leveler
+1 Manglehorn
+1 Master of Cruelties
+1 Merchant of the Vale
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ox of Agonas
+1 Ragavan, Nimble Pilferer
+1 Sire of Insanity
+1 Soulgorger Orgg
+1 Witherbloom Apprentice
+1 Worldgorger Dragon
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Sol Ring
+1 Thornbite Staff
+1 Void Mirror
+1 Abrade
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Beast Within
+1 Cabal Ritual
+1 Cathartic Pyre
+1 Dark Ritual
+1 Deflecting Swat
+1 Entomb
+1 Go for the Throat
+1 Grisly Salvage
+1 Infernal Grasp
+1 Nature's Claim
+1 Noxious Revival
+1 Red Elemental Blast
+1 Thrill of Possibility
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Buried Alive
+1 Cathartic Reunion
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Faithless Looting
+1 Gamble
+1 Life from the Loam
+1 Rite of Flame
+1 Three Visits
+1 Toxic Deluge
+1 Unmarked Grave
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Animate Dead
+1 Carpet of Flowers
+1 Necromancy
+1 Survival of the Fittest
+1 Sylvan Library
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Forest
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Spire Garden
+1 Stomping Ground
+1 Sunscorched Desert
+1 Swamp
+1 Taiga
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 The Beamtown Bullies

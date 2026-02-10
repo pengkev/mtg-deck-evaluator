@@ -1,0 +1,85 @@
+1 Archmage Emeritus
+1 Gogo, Master of Mimicry
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Hydroelectric Specimen
+1 Pinnacle Monk
+1 Prompto Argentum
+1 Spark Double
+1 The Emperor of Palamecia
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Young Pyromancer
+1 Arcane Signet
+1 Ashnod's Altar
+1 Everflowing Chalice
+1 Gilded Lotus
+1 Hedron Archive
+1 Izzet Signet
+1 Skullclamp
+1 Sol Ring
+1 Stonespeaker Crystal
+1 The Regalia
+1 Thought Vessel
+1 Thran Dynamo
+1 Aetherize
+1 Arcane Denial
+1 Big Score
+1 Brainstorm
+1 Comet Storm
+1 Cryptic Command
+1 Cyclonic Rift
+1 Expansion/Explosion
+1 Gifts Ungiven
+1 Ice Magic
+1 Lightning Bolt
+1 Lindblum, Industrial Regency
+1 Magic Damper
+1 March of Swirling Mist
+1 Mystic Confluence
+1 Pongify
+1 Rewind
+1 Snap
+1 Swan Song
+1 Turnabout
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Baral's Expertise
+1 Brass's Bounty
+1 Crackle with Power
+1 Curse of the Swine
+1 Fiery Confluence
+1 Finale of Revelation
+1 Fireball
+1 Hell to Pay
+1 Jaya's Immolating Inferno
+1 Mana Geyser
+1 Memories Returning
+1 Mizzix's Mastery
+1 Nanogene Conversion
+1 Ponder
+1 Preordain
+1 Relm's Sketching
+1 Sorceress's Schemes
+1 Time Stretch
+1 Vandalblast
+1 City on Fire
+1 Sorcerer Class
+1 Baron, Airship Kingdom
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Ferrous Lake
+1 Frostboil Snarl
+9 Island
+9 Mountain
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Riptide Laboratory
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Tellah, Great Sage

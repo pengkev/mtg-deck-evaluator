@@ -1,0 +1,82 @@
+1 Ranger of Eos
+1 Mother of Runes
+1 Soul Warden
+1 Serra Ascendant
+1 Soul's Attendant
+1 Kambal, Consul of Allocation
+1 Rhox Faithmender
+1 Grand Abolisher
+1 Karlov of the Ghost Council
+1 Ranger-Captain of Eos
+1 Academy Manufactor
+1 Lotho, Corrupt Shirriff
+1 The Gaffer
+1 Vexilus Praetor
+1 Loran of the Third Path
+1 Amalia Benavides Aguirre
+1 Ocelot Pride
+1 Starscape Cleric
+1 Bloodthirsty Conqueror
+1 Enduring Tenacity
+1 Elenda, Saint of Dusk
+1 Vito, Thorn of the Dusk Rose
+1 Kambal, Profiteering Mayor
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Well of Lost Dreams
+1 Bolas's Citadel
+1 The One Ring
+1 Beacon of Immortality
+1 Path to Exile
+1 Swords to Plowshares
+1 Orzhov Charm
+1 Fell the Profane
+1 Razorgrass Ambush
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Anguished Unmaking
+1 Dawn's Truce
+1 Baleful Mastery
+1 Night's Whisper
+1 Toxic Deluge
+1 Damn
+1 Farewell
+1 Cut a Deal
+1 Beseech the Mirror
+1 Diresight
+1 Exsanguinate
+1 Revival/Revenge
+1 Profane Tutor
+1 Darksteel Mutation
+1 Blind Obedience
+1 Sanguine Bond
+1 Authority of the Consuls
+1 Oath of Kaya
+1 Exquisite Blood
+1 Black Market Connections
+1 Deification
+1 Trouble in Pairs
+1 Lunar Convocation
+1 Ajani, Strength of the Pride
+1 Sorin, Vengeful Bloodlord
+13 Plains
+8 Swamp
+1 Bojuka Bog
+1 Command Tower
+1 Temple of Silence
+1 Exotic Orchard
+1 Godless Shrine
+1 Fetid Heath
+1 Caves of Koilos
+1 Isolated Chapel
+1 Vault of Champions
+1 Brightclimb Pathway
+1 Silent Clearing
+1 Shineshadow Snarl
+1 Fabled Passage
+1 Flooded Strand
+1 Concealed Courtyard
+1 Shadowy Backstreet
+Sideboard
+1 Sorin of House Markov

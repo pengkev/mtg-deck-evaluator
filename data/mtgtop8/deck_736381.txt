@@ -1,0 +1,86 @@
+1 Archon of Sun's Grace
+1 Aura Thief
+1 Auramancer
+1 Aven Mindcensor
+1 Desolation Angel
+1 Michiko's Reign of Truth
+1 Ondu Spiritdancer
+1 Order of the Sacred Torch
+1 Sun Titan
+1 The Restoration of Eiganjo
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Key to the City
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Counterspell
+1 Dispel
+1 Dovin's Veto
+1 Negate
+1 Obscura Charm
+1 Rebuff the Wicked
+1 Remand
+1 Turn Aside
+1 Diabolic Tutor
+1 Recall
+1 Traumatize
+1 Aether Tunnel
+1 All That Glitters
+1 Arcane Laboratory
+1 Aura of Silence
+1 Banishing Light
+1 Battle Mastery
+1 Blind Obedience
+1 Combat Research
+1 Copy Enchantment
+1 Curator's Ward
+1 Darksteel Mutation
+1 Diplomatic Immunity
+1 Enchanted Evening
+1 Energy Flux
+1 Estrid's Invocation
+1 Ethereal Armor
+1 Fraying Sanity
+1 Hesitation
+1 Imprisoned in the Moon
+1 Karmic Justice
+1 Mana Breach
+1 Martyr's Bond
+1 Minimus Containment
+1 Mirrormade
+1 Monastery Siege
+1 Nevermore
+1 Nine Lives
+1 Oblivion Ring
+1 Rest in Peace
+1 Shielded by Faith
+1 Sigil of the Empty Throne
+1 Solemnity
+1 Solitary Confinement
+1 Underworld Dreams
+1 Arcane Sanctum
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Caves of Koilos
+1 Command Tower
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Forsaken Sanctuary
+7 Island
+1 Orzhov Basilica
+5 Plains
+1 Prairie Stream
+1 Sejiri Refuge
+1 Sunken Hollow
+6 Swamp
+1 Thriving Heath
+1 Thriving Isle
+1 Thriving Moor
+1 Tranquil Cove
+Sideboard
+1 Zur the Enchanter

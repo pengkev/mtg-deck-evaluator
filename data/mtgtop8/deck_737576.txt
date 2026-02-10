@@ -1,0 +1,78 @@
+1 Akki Battle Squad
+1 Combat Celebrant
+1 Dualcaster Mage
+1 Firion, Wild Rose Warrior
+1 Godo, Bandit Warlord
+1 Gogo, Mysterious Mime
+1 Karlach, Fury of Avernus
+1 Plargg and Nassari
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Raubahn, Bull of Ala Mhigo
+1 Roaming Throne
+1 Simian Spirit Guide
+1 Yuffie, Materia Hunter
+1 Adaptive Omnitool
+1 Arcane Signet
+1 Buster Sword
+1 Chrome Mox
+1 Colossus Hammer
+1 Commander's Plate
+1 Conqueror's Flail
+1 Cursed Mirror
+1 Cursed Totem
+1 Damping Sphere
+1 Fellwar Stone
+1 Genji Glove
+1 Hammer of Nazahn
+1 Haunted Cloak
+1 Helm of the Host
+1 Leyline Axe
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mana Vault
+1 Mind Stone
+1 Mithril Coat
+1 Nazgul Battle-Mace
+1 Nettlecyst
+1 Scroll Rack
+1 Sol Ring
+1 Sword of Light and Shadow
+1 Sword of Sinew and Steel
+1 The One Ring
+1 The Reaver Cleaver
+1 Throne of Eldraine
+1 Umezawa's Jitte
+1 Whispersilk Cloak
+1 Abrade
+1 Chaos Warp
+1 Deflecting Swat
+1 Desperate Ritual
+1 Great Train Heist
+1 Lightning Bolt
+1 Magnetic Theft
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Seething Song
+1 Skullcrack
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Geosurge
+1 Jeska's Will
+1 Molten Duplication
+1 Nibelheim Aflame
+1 Rite of Flame
+1 Seize the Day
+1 Twinflame
+1 Vandalblast
+1 Blood Moon
+1 Rising of the Day
+1 Urza's Saga
+1 Ancient Tomb
+1 Arena of Glory
+1 Cavern of Souls
+24 Mountain
+Sideboard
+1 Gilgamesh, Master-at-Arms

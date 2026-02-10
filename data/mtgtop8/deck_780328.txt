@@ -1,0 +1,90 @@
+1 Accomplished Alchemist
+1 Bastion Protector
+1 Beast Whisperer
+1 Bedrock Tortoise
+1 Birds of Paradise
+1 Champion of Lambholt
+1 Children of Korlis
+1 Enduring Vitality
+1 Essence Warden
+1 Faeburrow Elder
+1 Gollum, Obsessed Stalker
+1 Heartless Hidetsugu
+1 Ignoble Hierarch
+1 Lathiel, the Bounteous Dawn
+1 Llanowar Elves
+1 Nykthos Paragon
+1 Odric, Lunarch Marshal
+1 Professional Face-Breaker
+1 Soul Warden
+1 Thunderfoot Baloth
+1 Timeless Witness
+1 Treebeard, Gracious Host
+1 Vito, Thorn of the Dusk Rose
+1 Vizkopa Guildmage
+1 Willowdusk, Essence Seer
+1 Witch Enchanter
+1 Witch of the Moors
+1 Arcane Signet
+1 Chromatic Lantern
+1 Pestilent Cauldron
+1 Sol Ring
+1 Swiftfoot Boots
+1 Tainted Sigil
+1 Assassin's Trophy
+1 Beast Within
+1 Boros Charm
+1 Chaos Warp
+1 Fire Covenant
+1 Heroic Intervention
+1 Krosan Grip
+1 Mortality Spear
+1 Path to Exile
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Austere Command
+1 Cultivate
+1 Diabolic Tutor
+1 Diresight
+1 Fumigate
+1 Harmonize
+1 Kodama's Reach
+1 Nature's Lore
+1 Night's Whisper
+1 Painful Truths
+1 Read the Bones
+1 Season of Gathering
+1 Victimize
+1 Authority of the Consuls
+1 Greed
+1 Reconnaissance
+1 Sanguine Bond
+1 Battlefield Forge
+1 Bojuka Bog
+1 Canopy Vista
+1 Caves of Koilos
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+5 Forest
+1 Isolated Chapel
+1 Krosan Verge
+1 Llanowar Wastes
+3 Mountain
+1 Murmuring Bosk
+1 Path of Ancestry
+4 Plains
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sulfurous Springs
+1 Sungrass Prairie
+1 Sunscorched Divide
+3 Swamp
+1 Tainted Field
+1 Vault of the Archangel
+1 Viridescent Bog
+1 Woodland Cemetery
+Sideboard
+1 Bruse Tarl, Boorish Herder
+1 Ikra Shidiqi, the Usurper

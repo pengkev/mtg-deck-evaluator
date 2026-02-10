@@ -1,0 +1,86 @@
+1 Phantom Blade
+7 Island
+1 Shipwreck Marsh
+10 Swamp
+1 Sunken Hollow
+1 Fetid Pools
+1 Path of Ancestry
+1 Drowned Catacomb
+1 Command Tower
+1 Exotic Orchard
+1 Dismal Backwater
+1 Dimir Guildgate
+1 Rogue's Passage
+1 Tainted Isle
+1 Brotherhood Headquarters
+1 Choked Estuary
+1 Dimir Aqueduct
+1 Jace, Unraveler of Secrets
+1 Coastal Piracy
+1 Double Down
+1 Wizard Class
+1 The Revelations of Ezio
+1 Rooftop Bypass
+1 Propaganda
+1 Cover of Darkness
+1 Warlock Class
+1 Feed the Swarm
+1 Tranquilize
+1 Restart Sequence
+1 Eagle Vision
+1 Auditore Ambush
+1 Petty Larceny
+1 Desynchronization
+1 Negate
+1 Fatal Push
+1 Murder
+1 Go for the Throat
+1 Escape Detection
+1 Become Anonymous
+1 Chain Assassination
+1 Waterlogged Teachings
+1 Counterspell
+1 Assassin Gauntlet
+1 Brotherhood Regalia
+1 Smoke Bomb
+1 Rover Blades
+1 Talisman of Dominance
+1 Dimir Signet
+1 Arcane Signet
+1 Fishing Pole
+1 Scroll of Fate
+1 Adrestia
+1 Hidden Blade
+1 Sol Ring
+1 The Everflowing Well
+1 Bident of Thassa
+1 Swiftfoot Boots
+1 Basim Ibn Ishaq
+1 Royal Assassin
+1 Loyal Inventor
+1 Desmond Miles
+1 Ezio, Blade of Vengeance
+1 Etrata, Deadly Fugitive
+1 Vindictive Vampire
+1 Agate-Blade Assassin
+1 Poison-Blade Mentor
+1 Merciless Harlequin
+1 Hookblade Veteran
+1 Brotherhood Spy
+1 Assassin Initiate
+1 Lydia Frye
+1 Adéwalé, Breaker of Chains
+1 Achilles Davenport
+1 Roshan, Hidden Magister
+1 Mari, the Killing Quill
+1 Massacre Girl
+1 Thorn of the Black Rose
+1 Krydle of Baldur's Gate
+1 Aven Heartstabber
+1 Dark Impostor
+1 Nightshade Assassin
+1 Big Game Hunter
+1 Etrata, the Silencer
+Sideboard
+1 Evie Frye
+1 Jacob Frye

@@ -1,0 +1,82 @@
+1 Aerial Extortionist
+1 Archaeomancer
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Clarion Conqueror
+1 Containment Priest
+1 Donal, Herald of Wings
+1 Eidolon of Rhetoric
+1 Grand Arbiter Augustin IV
+1 Identity Thief
+1 Jubilant Skybonder
+1 Kitesail Larcenist
+1 Lavinia, Azorius Renegade
+1 Leonin Arbiter
+1 Magus of the Moat
+1 Phantom Steed
+1 Pippin, Guard of the Citadel
+1 Siren Stormtamer
+1 Teferi, Mage of Zhalfir
+1 Thalia, Guardian of Thraben
+1 Timestream Navigator
+1 Vryn Wingmare
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Helm of the Host
+1 Kefnet's Monument
+1 Knowledge Pool
+1 Lightning Greaves
+1 Sapphire Medallion
+1 Sol Ring
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Wand of the Worldsoul
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Disenchant
+1 Dovin's Veto
+1 Generous Gift
+1 Lofty Denial
+1 Mana Leak
+1 Muddle the Mixture
+1 No More Lies
+1 Opt
+1 Path to Exile
+1 Reality Shift
+1 Render Silent
+1 Spell Pierce
+1 Sphinx's Revelation
+1 Swords to Plowshares
+1 Unsummon
+1 Approach of the Second Sun
+1 Mind Spring
+1 Open the Armory
+1 Personal Tutor
+1 Walk the Aeons
+1 Coastal Piracy
+1 Monologue Tax
+1 Rule of Law
+1 Dovin, Hand of Control
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Adarkar Wastes
+1 Command Tower
+1 Crossroads Village
+1 Irrigated Farmland
+10 Island
+1 Mystic Sanctuary
+11 Plains
+1 Port Town
+1 Prairie Stream
+1 Reliquary Tower
+1 Sejiri Refuge
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Tranquil Cove
+Sideboard
+1 Medomai the Ageless

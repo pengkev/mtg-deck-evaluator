@@ -1,0 +1,89 @@
+1 Ashling, Rekindled
+1 Brighthearth Banneret
+1 Cavalier of Thorns
+1 Champion of the Path
+1 Flamebraider
+1 Foundation Breaker
+1 Foundry Champion
+1 Fury
+1 Graveshifter
+1 Greenwarden of Murasa
+1 Horde of Notions
+1 Impulsivity
+1 Incandescent Soulstoke
+1 Jubilation
+1 Lamentation
+1 Lord of Extinction
+1 Maelstrom Wanderer
+1 Mass of Mysteries
+1 Muldrotha, the Gravetide
+1 Mulldrifter
+1 Omnath, Locus of Rage
+1 Risen Reef
+1 Rumbleweed
+1 Selvala, Heart of the Wilds
+1 Shimmercreep
+1 Shriekmaw
+1 Slithermuse
+1 Smokebraider
+1 Subterfuge
+1 Sunderflock
+1 Titan of Industry
+1 Twinflame Travelers
+1 Yarok, the Desecrated
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Gathering Stone
+1 Herald's Horn
+1 Sol Ring
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Beast Within
+1 Druid's Deliverance
+1 Kindred Summons
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Swan Song
+1 Unbury
+1 Blasphemous Act
+1 Distant Melody
+1 Farseek
+1 Kodama's Reach
+1 Soul Immolation
+1 Collective Inferno
+1 Death's Presence
+1 Descendants' Fury
+1 Elemental Bond
+1 Garruk's Uprising
+1 Parallel Lives
+1 Prismatic Undercurrents
+1 Reflections of Littjara
+1 Valkyrie's Call
+1 Abundant Countryside
+1 Ancient Ziggurat
+1 Blood Crypt
+1 Command Tower
+1 Eclipsed Realms
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flamekin Village
+5 Forest
+2 Island
+4 Mountain
+3 Plains
+1 Primal Beyond
+1 Rain-Slicked Copse
+1 Sacred Foundry
+1 Secluded Courtyard
+1 Shipwreck Marsh
+1 Sodden Verdure
+1 Steam Vents
+1 Stomping Ground
+3 Swamp
+1 Temple Garden
+1 The Grey Havens
+1 Unclaimed Territory
+1 Woodland Cemetery
+Sideboard
+1 Ashling, the Limitless

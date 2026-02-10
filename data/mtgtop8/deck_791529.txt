@@ -1,0 +1,80 @@
+1 Anger
+1 Blood Artist
+1 Braids, Arisen Nightmare
+1 Carrion Feeder
+1 Chaos Defiler
+1 Grave Titan
+1 Hunted Dragon
+1 Hunted Horror
+1 Ingot Chewer
+1 Kroxa, Titan of Death's Hunger
+1 Life of the Party
+1 Liliana, Heretical Healer
+1 Master of Cruelties
+1 Morbid Opportunist
+1 Nettling Nuisance
+1 Noxious Gearhulk
+1 Oliphaunt
+1 Slaughter Specialist
+1 Solemn Simulacrum
+1 Squee, Goblin Nabob
+1 Stuffy Doll
+1 Syr Konrad, the Grim
+1 Troll of Khazad-dum
+1 Valki, God of Lies
+1 Varragoth, Bloodsky Sire
+1 Vengeful Ancestor
+1 Viscera Seer
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Bloodthirsty Blade
+1 Conjurer's Closet
+1 Genesis Chamber
+1 Rakdos Signet
+1 Sol Ring
+1 Tarrian's Journal
+1 Bedevil
+1 Chaos Warp
+1 Dark Ritual
+1 Go for the Throat
+1 Imp's Mischief
+1 Mausoleum Secrets
+1 Rakdos Charm
+1 Terminate
+1 Untimely Malfunction
+1 Village Rites
+1 Withering Torment
+1 Blasphemous Act
+1 Buried Alive
+1 Chain Reaction
+1 Deadly Tempest
+1 Disrupt Decorum
+1 Feed the Swarm
+1 Mana Geyser
+1 Mutinous Massacre
+1 Twinflame
+1 Vandalblast
+1 Victimize
+1 Goblin Bombardment
+1 Oversold Cemetery
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+1 Tortured Existence
+1 Ash Barrens
+1 Bojuka Bog
+1 Canyon Slough
+1 Command Tower
+1 Dragonskull Summit
+1 Foreboding Ruins
+1 Ghost Quarter
+1 Graven Cairns
+11 Mountain
+1 Rakdos Carnarium
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfurous Springs
+12 Swamp
+1 Tainted Peak
+1 Temple of Malice
+Sideboard
+1 Kardur, Doomscourge

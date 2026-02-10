@@ -1,0 +1,87 @@
+1 Agent of Treachery
+1 Clone
+1 Consecrated Sphinx
+1 Displacer Kitten
+1 Forensic Gadgeteer
+1 Gilded Drake
+1 Harbinger of the Seas
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Marvin, Murderous Mimic
+1 Mockingbird
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Spellskite
+1 Thassa, Deep-Dwelling
+1 Thassa's Oracle
+1 The Reality Chip
+1 Tishana's Tidebinder
+1 Walking Ballista
+1 Y'shtola Rhul
+1 Agatha's Soul Cauldron
+1 Basalt Monolith
+1 Chalice of the Void
+1 Glasses of Urza
+1 Grafdigger's Cage
+1 Imposter Mech
+1 Isochron Scepter
+1 Lotus Petal
+1 Manifold Key
+1 Mirage Mirror
+1 Mycosynth Lattice
+1 Rings of Brighthearth
+1 Sapphire Medallion
+1 Sol Ring
+1 Spellbook
+1 The One Ring
+1 Unwinding Clock
+1 Winter Moon
+1 Blur
+1 Cancel
+1 Capsize
+1 Counterspell
+1 Cyclonic Rift
+1 Dissipate
+1 Dissolve
+1 Dramatic Reversal
+1 Flusterstorm
+1 Forbid
+1 Force of Negation
+1 Force of Will
+1 High Tide
+1 Hoodwink
+1 Mana Drain
+1 Mana Leak
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Pact of Negation
+1 Snap
+1 Spell Snare
+1 Stifle
+1 Swan Song
+1 Unsummon
+1 Wash Out
+1 Back to Basics
+1 Mirrormade
+1 Rhystic Study
+1 Telepathy
+1 Training Grounds
+1 Urza's Saga
+1 Jace, Wielder of Mysteries
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Dust Bowl
+1 Fabled Passage
+1 Flooded Strand
+15 Island
+1 Maze of Ith
+1 Minamo, School at Water's Edge
+1 Polluted Delta
+1 Reliquary Tower
+1 Seat of the Synod
+1 Strip Mine
+1 Treasure Vault
+1 Wasteland
+Sideboard
+1 Urza, Lord High Artificer

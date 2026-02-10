@@ -1,0 +1,68 @@
+17 Forest
+18 Mountain
+1 Wayfarer's Bauble
+1 Sticky Fingers
+1 Fog
+1 Diamond Pick-Axe
+1 Tifa's Limit Break
+1 Dragonkin Berserker
+1 Goblin Anarchomancer
+1 Rampant Growth
+1 Titanic Growth
+1 Scaled Nurturer
+1 Zhur-Taa Druid
+1 Dragon's Fire
+1 Thrill of Possibility
+1 Connecting the Dots
+1 Mask of Memory
+1 Magmaquake
+1 Bower Passage
+1 Prizefight
+1 Return to Nature
+1 Friendly Rivalry
+1 Druid's Deliverance
+1 Dragonlord's Servant
+1 Winds of Qal Sisma
+1 Glimpse the Core
+1 Seize the Spoils
+1 Broken Wings
+1 Kolaghan Warmonger
+1 Lifecrafter's Bestiary
+1 Spit Flame
+1 Swashbuckler Extraordinaire
+1 Carnelian Orb of Dragonkind
+1 Jade Orb of Dragonkind
+1 Patron of the Arts
+1 Hunter's Insight
+1 Nissa's Pilgrimage
+1 Tavern Brawler
+1 Outpost Siege
+1 Ambitious Dragonborn
+1 Harmonize
+1 Draconic Muralists
+1 Verix Bladewing
+1 Harbinger of the Hunt
+1 Nesting Dragon
+1 Rapacious Dragon
+1 Garruk, Primal Hunter
+1 Keeper of Fables
+1 Hunter's Prowess
+1 Glorybringer
+1 Shamanic Revelation
+1 Skanos Dragonheart
+1 Thrakkus the Butcher
+1 Jaheira's Respite
+1 Savage Ventmaw
+1 Forgestoker Dragon
+1 Steel Hellkite
+1 Mordant Dragon
+1 Flameblast Dragon
+1 Scourge of the Throne
+1 Atarka, World Render
+1 Furnace Hellkite
+1 Dragon Mage
+1 Drakuseth, Maw of Flames
+1 Tyrant's Familiar
+Sideboard
+1 Ganax, Astral Hunter
+1 Acolyte of Bahamut

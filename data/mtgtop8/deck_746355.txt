@@ -1,0 +1,99 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Dosan the Falling Leaf
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fyndhorn Elves
+1 Goblin Anarchomancer
+1 Hyrax Tower Scout
+1 Imperial Recruiter
+1 Joraga Treespeaker
+1 Kiki-Jiki, Mirror Breaker
+1 Llanowar Elves
+1 Priest of Titania
+1 Purphoros, God of the Forge
+1 Quirion Ranger
+1 Ragavan, Nimble Pilferer
+1 Ruby, Daring Tracker
+1 Sanctum Weaver
+1 Simian Spirit Guide
+1 Tinder Wall
+1 Wall of Roots
+1 Zealous Conscripts
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Impulse
+1 The Great Henge
+1 The One Ring
+1 Archdruid's Charm
+1 Autumn's Veil
+1 Chord of Calling
+1 Crop Rotation
+1 Deflecting Swat
+1 Force of Vigor
+1 Guttural Response
+1 Legolas's Quick Reflexes
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Summoner's Pact
+1 Tibalt's Trickery
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Glimpse of Nature
+1 Green Sun's Zenith
+1 Jeska's Will
+1 Natural Order
+1 Nature's Rhythm
+1 Shatterskull Smashing
+1 Time of Need
+1 Tooth and Nail
+1 Guardian Project
+1 Survival of the Fittest
+1 Utopia Sprawl
+1 Wild Growth
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Arid Mesa
+1 Barbarian Ring
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Cragcrown Pathway
+1 Fire-Lit Thicket
+3 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Grove of the Burnwillows
+1 Karplusan Forest
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Scalding Tarn
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Minsc & Boo, Timeless Heroes

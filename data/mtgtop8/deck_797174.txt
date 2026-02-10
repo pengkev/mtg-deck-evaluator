@@ -1,0 +1,101 @@
+1 Wan Shi Tong, Librarian
+1 Flash Thompson, Spider-Fan
+1 Badgermole Cub
+1 Deadpool, Trading Card
+1 Magda, Brazen Outlaw
+1 Delighted Halfling
+1 Kutzil, Malamet Exemplar
+1 Cavern-Hoard Dragon
+1 Esika, God of the Tree
+1 Olivia, Mobilized for War
+1 Knuckles the Echidna
+1 Aang, Swift Savior
+1 The Peregrine Dynamo
+1 Simian Spirit Guide
+1 Selvala, Heart of the Wilds
+1 Tataru Taru
+1 Jegantha, the Wellspring
+1 Faeburrow Elder
+1 Ignoble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Gran-Gran
+1 Kambal, Profiteering Mayor
+1 Noble Hierarch
+1 Esper Sentinel
+1 Derevi, Empyrial Tactician
+1 Bloom Tender
+1 Lotho, Corrupt Shirriff
+1 Ertai Resurrected
+1 Birds of Paradise
+1 Elvish Spirit Guide
+1 Tinder Wall
+1 The Cabbage Merchant
+1 Emiel the Blessed
+1 Delney, Streetwise Lookout
+1 Kinnan, Bonder Prodigy
+1 Rishkar, Peema Renegade
+1 Relic of Legends
+1 Hidden Footblade
+1 Chromatic Orrery
+1 Sol Ring
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Agatha's Soul Cauldron
+1 Mox Amber
+1 Arcane Signet
+1 Chrome Mox
+1 Imposter Mech
+1 Mox Opal
+1 Mental Misstep
+1 Vampiric Tutor
+1 Abrupt Decay
+1 Fierce Guardianship
+1 Force of Will
+1 Swords to Plowshares
+1 Silence
+1 Mindbreak Trap
+1 Trickbind
+1 Legolas's Quick Reflexes
+1 Deflecting Swat
+1 Swan Song
+1 Flusterstorm
+1 Green Sun's Zenith
+1 Smothering Tithe
+1 Touch the Spirit Realm
+1 Rhystic Study
+1 Mystic Remora
+1 Teferi, Time Raveler
+1 Teferi, Who Slows the Sunset
+1 Tyvar, Jubilant Brawler
+1 Dihada, Binder of Wills
+1 Tundra
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Volcanic Island
+1 Bayou
+1 City of Brass
+1 Gemstone Caverns
+1 Underground Sea
+1 Verdant Catacombs
+1 Tarnished Citadel
+1 Scrubland
+1 Taiga
+1 Misty Rainforest
+1 Wooded Foothills
+1 Flooded Strand
+1 Ancient Tomb
+1 Command Tower
+1 Mount Doom
+1 Polluted Delta
+1 Tropical Island
+1 Arid Mesa
+1 Starting Town
+1 Gaea's Cradle
+1 Boseiju, Who Endures
+1 Scalding Tarn
+1 Savannah
+1 Plateau
+1 Windswept Heath
+Sideboard
+1 Sisay, Weatherlight Captain

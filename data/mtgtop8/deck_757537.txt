@@ -1,0 +1,101 @@
+1 Consecrated Sphinx
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 Emet-Selch of the Third Seat
+1 Faerie Mastermind
+1 Grim Hireling
+1 Hedron Crab
+1 Jin-Gitaxias, Core Augur
+1 Ledger Shredder
+1 Likeness Looter
+1 Malevolent Hermit
+1 Mockingbird
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Walking Ballista
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Sol Ring
+1 Springleaf Drum
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cabal Ritual
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Mana Drain
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Slaughter Pact
+1 Spell Pierce
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Buried Alive
+1 Demonic Tutor
+1 Diabolic Intent
+1 Exhume
+1 Glimpse the Unthinkable
+1 Grim Tutor
+1 Imperial Seal
+1 Praetor's Grasp
+1 Reanimate
+1 Traumatize
+1 Yawgmoth's Will
+1 Animate Dead
+1 Leyline of Anticipation
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Ashiok, Dream Render
+1 Ancient Tomb
+1 Cabal Pit
+1 Cephalid Coliseum
+1 City of Brass
+1 Clearwater Pathway
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Ipnu Rivulet
+1 Island
+1 Mana Confluence
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Phyrexian Tower
+1 Polluted Delta
+1 Seat of the Synod
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Starting Town
+1 Sunken Ruins
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Tarnished Citadel
+1 Underground River
+1 Vault of Whispers
+1 Watery Grave
+Sideboard
+1 Emet-Selch, Unsundered

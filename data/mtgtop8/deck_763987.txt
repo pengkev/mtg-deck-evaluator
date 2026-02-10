@@ -1,0 +1,101 @@
+1 Ao, the Dawn Sky
+1 Archivist of Oghma
+1 Boromir, Warden of the Tower
+1 Dauthi Voidwalker
+1 Delney, Streetwise Lookout
+1 Elas il-Kor, Sadistic Pilgrim
+1 Esper Sentinel
+1 Forsaken Miner
+1 Gollum, Patient Plotter
+1 Gwenom, Remorseless
+1 Lotho, Corrupt Shirriff
+1 Lurrus of the Dream-Den
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phelia, Exuberant Shepherd
+1 Ranger-Captain of Eos
+1 Samwise the Stouthearted
+1 Sephiroth, Fabled SOLDIER
+1 Sidisi, Undead Vizier
+1 Susurian Voidborn
+1 Tataru Taru
+1 Thoughtpicker Witch
+1 Tymna the Weaver
+1 Umbral Collar Zealot
+1 Voice of Victory
+1 Warren Soultrader
+1 Witch Enchanter
+1 Yawgmoth, Thran Physician
+1 Altar of Dementia
+1 Altar of the Brood
+1 Arcane Signet
+1 Blasting Station
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Orzhov Signet
+1 Phyrexian Altar
+1 Relic of Legends
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Enlightened Tutor
+1 Entomb
+1 Goryo's Vengeance
+1 Orim's Chant
+1 Sacrifice
+1 Silence
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Imperial Seal
+1 Incarnation Technique
+1 Lively Dirge
+1 Reanimate
+1 Sevinne's Reclamation
+1 Unearth
+1 Animate Dead
+1 Call of the Ring
+1 Dance of the Dead
+1 Heartless Summoning
+1 Necromancy
+1 Necropotence
+1 Ancient Tomb
+1 Arid Mesa
+1 Bleachbone Verge
+1 Bloodstained Mire
+1 Caves of Koilos
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Gemstone Caverns
+1 Godless Shrine
+1 Lazotep Quarry
+1 Mana Confluence
+1 Marsh Flats
+1 Phyrexian Tower
+1 Plaza of Heroes
+1 Scrubland
+1 Shadowy Backstreet
+1 Silent Clearing
+1 Starting Town
+1 Takenuma, Abandoned Mire
+1 Tarnished Citadel
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 Verdant Catacombs
+Sideboard
+1 Ratadrabik of Urborg

@@ -1,0 +1,80 @@
+1 Benevolent Bodyguard
+1 Mother of Runes
+1 Skrelv, Defector Mite
+1 Signal Pest
+1 Alseid of Life's Bounty
+1 Hope of Ghirapur
+1 Grand Abolisher
+1 Thalia, Guardian of Thraben
+1 Cliffside Rescuer
+1 Gold Myr
+1 Oreskos Explorer
+1 Manakin
+1 Goblin Cratermaker
+1 Selfless Spirit
+1 Ornithopter of Paradise
+1 Cathar Commando
+1 Myr Convert
+1 Ethersworn Canonist
+1 Iron Myr
+1 Phyrexian Revoker
+1 Loyal Apprentice
+1 Legion Warboss
+1 Archon of Emeria
+1 Fiend Hunter
+1 Goblin Rabblemaster
+1 Skyclave Apparition
+1 Combat Celebrant
+1 Boromir, Warden of the Tower
+1 Howlsquad Heavy
+1 Banisher Priest
+1 Gerrard, Weatherlight Hero
+1 Pia and Kiran Nalaar
+1 Blade Historian
+1 Flamescroll Celebrant
+1 Eomer, Marshal of Rohan
+1 Alexios, Deimos of Kosmos
+1 Goldnight Commander
+1 Ranger of Eos
+1 Eomer, King of Rohan
+1 Thalia's Lancers
+1 Rionya, Fire Dancer
+1 Geist-Honored Monk
+1 Flamerush Rider
+1 Silverwing Squadron
+1 Lena, Selfless Champion
+1 Duke Ulder Ravengard
+1 Mirage Phalanx
+1 Captain of the Watch
+1 Auratouched Mage
+1 Angrath's Marauders
+1 Sol Ring
+1 Conqueror's Flail
+1 Brave the Elements
+1 Silence
+1 Surge of Salvation
+1 Secure the Wastes
+1 Mana Tithe
+1 Red Elemental Blast
+1 Pyroblast
+1 Calamity's Wake
+1 Frontline Rush
+1 Benevolent Offering
+1 Bolt Bend
+1 Hop to It
+1 Glimpse the Impossible
+1 Legion's Landing
+1 Touch the Spirit Realm
+1 Breath of Fury
+1 Path of Ancestry
+12 Plains
+1 Command Tower
+1 Battlefield Forge
+11 Mountain
+1 Tectonic Edge
+1 Kher Keep
+1 Sunscorched Divide
+1 Boros Garrison
+1 Mishra's Factory
+Sideboard
+1 Winota, Joiner of Forces

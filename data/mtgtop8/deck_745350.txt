@@ -1,0 +1,87 @@
+1 Alexios, Deimos of Kosmos
+1 Birds of Paradise
+1 Cankerbloom
+1 Conspicuous Snoop
+1 Destiny Spinner
+1 Elvish Mystic
+1 Eternal Witness
+1 Freestrider Lookout
+1 Fyndhorn Elves
+1 Gilded Goose
+1 Goblin Recruiter
+1 Hardbristle Bandit
+1 Hyrax Tower Scout
+1 Impulsive Pilferer
+1 Insidious Fungus
+1 Kiki-Jiki, Mirror Breaker
+1 Llanowar Elves
+1 Loyal Apprentice
+1 Magda, the Hoardmaster
+1 Magus of the Order
+1 Manglehorn
+1 Mina and Denn, Wildborn
+1 Orcish Lumberjack
+1 Outland Liberator
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Protean Hulk
+1 Skirk Prospector
+1 Springheart Nantuko
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Torch Courier
+1 Undermountain Adventurer
+1 Brass's Tunnel-Grinder
+1 Collector's Vault
+1 Damping Sphere
+1 Grafdigger's Cage
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Torpor Orb
+1 Ancient Grudge
+1 Chaos Warp
+1 Chord of Calling
+1 Collective Resistance
+1 Crop Rotation
+1 Heritage Reclamation
+1 Krosan Grip
+1 Mogg Salvage
+1 Nature's Claim
+1 Pyroblast
+1 Red Elemental Blast
+1 Siege Smash
+1 Untimely Malfunction
+1 Wild Magic Surge
+1 Zoyowa's Justice
+1 Analyze the Pollen
+1 Bridgeworks Battle
+1 Eldritch Evolution
+1 Stump Stomp
+1 Sundering Eruption
+1 Cindervines
+1 Guild Artisan
+1 Pattern of Rebirth
+1 The Huntsman's Redemption
+1 Cinder Glade
+1 Command Tower
+1 Cryptic Caves
+1 Darksteel Citadel
+1 Demolition Field
+1 Exotic Orchard
+1 Fabled Passage
+9 Forest
+1 Great Furnace
+1 Jund Panorama
+1 Mossfire Valley
+7 Mountain
+1 Naya Panorama
+1 Promising Vein
+1 Rootbound Crag
+1 Shire Terrace
+1 Slagwoods Bridge
+1 Tree of Tales
+1 Urza's Cave
+Sideboard
+1 Erinis, Gloom Stalker
+1 Street Urchin

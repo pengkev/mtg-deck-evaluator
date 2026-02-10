@@ -1,0 +1,100 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Fierce Empath
+1 Man-o'-War
+1 Phyrexian Metamorph
+1 Ohran Frostfang
+1 Eternal Witness
+1 Kozilek, Butcher of Truth
+1 Beast Whisperer
+1 Phantasmal Image
+1 Reclamation Sage
+1 Gilded Drake
+1 Tinder Wall
+1 Imperial Recruiter
+1 Spellskite
+1 Ancestral Statue
+1 Painter's Servant
+1 Simian Spirit Guide
+1 Wandering Archaic
+1 Ragavan, Nimble Pilferer
+1 Endurance
+1 Grazilaxx, Illithid Scholar
+1 Mulldrifter
+1 Consecrated Sphinx
+1 Sicarian Infiltrator
+1 Walking Ballista
+1 Cloud of Faeries
+1 Peregrine Drake
+1 Elvish Spirit Guide
+1 Soulless Jailer
+1 Spellseeker
+1 Sylvan Safekeeper
+1 Shrieking Drake
+1 Agate Instigator
+1 Pollywog Prodigy
+1 Haywire Mite
+1 Destiny Spinner
+1 High Fae Trickster
+1 Transit Mage
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Mana Vault
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Mox Diamond
+1 Fellwar Stone
+1 Cloudstone Curio
+1 Talisman of Impulse
+1 Chrome Mox
+1 Flusterstorm
+1 Force of Negation
+1 Red Elemental Blast
+1 Chord of Calling
+1 Force of Will
+1 Pact of Negation
+1 Lightning Bolt
+1 Worldly Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Fierce Guardianship
+1 Mental Misstep
+1 Veil of Summer
+1 An Offer You Can't Refuse
+1 Deflecting Swat
+1 Finale of Devastation
+1 Neoform
+1 Eldritch Evolution
+1 Rhystic Study
+1 Survival of the Fittest
+1 Sylvan Library
+1 Mystic Remora
+2 Island
+1 Forest
+1 Command Tower
+1 Stomping Ground
+1 Ancient Tomb
+1 Cavern of Souls
+1 Steam Vents
+1 Arid Mesa
+1 Prismatic Vista
+1 Mana Confluence
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 City of Brass
+1 Tarnished Citadel
+Sideboard
+1 Animar, Soul of Elements

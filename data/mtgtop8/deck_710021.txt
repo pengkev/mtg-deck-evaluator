@@ -1,0 +1,82 @@
+1 Braids, Arisen Nightmare
+1 Butcher of Malakir
+1 Colossal Grave-Reaver
+1 Combustible Gearhulk
+1 Coram, the Undertaker
+1 Daemogoth Titan
+1 Disciple of Bolas
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Flayer of the Hatebound
+1 Gilded Goose
+1 Hoarding Broodlord
+1 Ignoble Hierarch
+1 Junji, the Midnight Sky
+1 Lumra, Bellow of the Woods
+1 Mayhem Devil
+1 Millikin
+1 Nemata, Primeval Warden
+1 Pitiless Plunderer
+1 Plaguecrafter
+1 Ruric Thar, the Unbowed
+1 Ruthless Technomancer
+1 Sakura-Tribe Elder
+1 Skull Prophet
+1 Slimefoot, the Stowaway
+1 Sprouting Thrinax
+1 Terastodon
+1 Undercellar Myconid
+1 Vindictive Vampire
+1 Viscera Seer
+1 Woe Strider
+1 Yargle and Multani
+1 Ziatora, the Incinerator
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Golgari Signet
+1 Rakdos Signet
+1 Artifact Mutation
+1 Beast Within
+1 Bitter Triumph
+1 Corrupted Conviction
+1 Demand Answers
+1 Flare of Malice
+1 Nasty End
+1 Overwhelming Remorse
+1 Return to Nature
+1 Sazacap's Brew
+1 Terminate
+1 Thrill of Possibility
+1 Village Rites
+1 Annihilating Glare
+1 Blasphemous Act
+1 Buried Alive
+1 Demonic Counsel
+1 Eaten Alive
+1 Faithless Looting
+1 Flare of Cultivation
+1 Lively Dirge
+1 Living Death
+1 Rise of the Witch-King
+1 Victimize
+1 Goblin Bombardment
+1 Greater Good
+1 Ripples of Undeath
+1 Utopia Sprawl
+1 Grist, the Hunger Tide
+1 Cinder Glade
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Foreboding Ruins
+8 Forest
+1 Game Trail
+1 Mossfire Valley
+7 Mountain
+1 Smoldering Marsh
+7 Swamp
+1 Tainted Wood
+1 Temple of Malice
+1 Twisted Landscape
+Sideboard
+1 Slimefoot and Squee

@@ -1,0 +1,101 @@
+1 Ardent Elementalist
+1 Birgi, God of Storytelling
+1 Bladewing the Risen
+1 Changeling Berserker
+1 Dualcaster Mage
+1 Goldspan Dragon
+1 Grim Servant
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Priest of Gix
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Terror of the Peaks
+1 Treasonous Ogre
+1 Valki, God of Lies
+1 Chrome Mox
+1 Defense Grid
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Fell the Profane
+1 Final Fortune
+1 Flare of Duplication
+1 Fury Storm
+1 Lightning Bolt
+1 Pyretic Ritual
+1 Pyroblast
+1 Reiterate
+1 Sacrifice
+1 Saw in Half
+1 Searing Touch
+1 Seething Song
+1 Untimely Malfunction
+1 Vampiric Tutor
+1 Agadeem's Awakening
+1 Dark Petition
+1 Demonic Tutor
+1 Devastating Onslaught
+1 Diabolic Intent
+1 Diabolic Revelation
+1 Dragonstorm
+1 Feed the Swarm
+1 Fervent Mastery
+1 Gamble
+1 Grim Tutor
+1 Increasing Ambition
+1 Inspired Tinkering
+1 Jeska's Will
+1 Lively Dirge
+1 Past in Flames
+1 Path of the Pyromancer
+1 Peer into the Abyss
+1 Reanimate
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Sorceress's Schemes
+1 Strike It Rich
+1 Sundering Eruption
+1 Wheel of Fortune
+1 Will of the Jeskai
+1 Yawgmoth's Will
+1 Zenith Festival
+1 Black Market Connections
+1 Chthonian Nightmare
+1 Underworld Breach
+1 Professor Onyx
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Barbarian Ring
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Shelters All
+1 City of Brass
+1 City of Traitors
+1 Gemstone Caverns
+1 Hall of the Bandit Lord
+1 Mana Confluence
+1 Mount Doom
+1 Mountain
+1 Polluted Delta
+1 Starting Town
+1 Sulfurous Springs
+1 Swamp
+1 Tarnished Citadel
+Sideboard
+1 Rowan, Scion of War

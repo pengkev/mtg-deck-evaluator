@@ -1,0 +1,88 @@
+1 Apex Devastator
+1 Arbor Elf
+1 Birds of Paradise
+1 Boarding Party
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Elvish Mystic
+1 Elvish Regrower
+1 Endurance
+1 Eternal Witness
+1 Hellkite Courser
+1 Llanowar Elves
+1 Nyxbloom Ancient
+1 Orcish Lumberjack
+1 Reclamation Sage
+1 Riftsweeper
+1 Rionya, Fire Dancer
+1 Roaming Throne
+1 Sakura-Tribe Elder
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Tinder Wall
+1 Treasonous Ogre
+1 Arcane Signet
+1 Ashnod's Altar
+1 Cloudstone Curio
+1 Cursed Mirror
+1 Lotus Petal
+1 Panharmonicon
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Archdruid's Charm
+1 Flare of Duplication
+1 Guttural Response
+1 Veil of Summer
+1 Bala Ged Recovery
+1 Blasphemous Act
+1 Cultivate
+1 Devastating Onslaught
+1 Electroduplicate
+1 Gamble
+1 Green Sun's Zenith
+1 Heat Shimmer
+1 Hit the Mother Lode
+1 Jeska's Will
+1 Molten Duplication
+1 Nature's Rhythm
+1 Rampant Growth
+1 Regrowth
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Three Visits
+1 Twinflame
+1 Vandalblast
+1 Carpet of Flowers
+1 Fertile Ground
+1 Food Chain
+1 Greater Good
+1 Growing Rites of Itlimoc
+1 Sylvan Library
+1 Urza's Saga
+1 Utopia Sprawl
+1 Wild Growth
+1 Chandra, Flameshaper
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cabaretti Courtyard
+1 Castle Garenbrig
+1 Command Tower
+1 Copperline Gorge
+1 Dryad Arbor
+1 Evendo, Waking Haven
+1 Evolving Wilds
+7 Forest
+1 Gemstone Caverns
+1 Grove of the Burnwillows
+8 Mountain
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Wooded Ridgeline
+Sideboard
+1 Etali, Primal Conqueror

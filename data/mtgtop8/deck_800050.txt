@@ -1,0 +1,88 @@
+1 Aether Membrane
+1 Alexios, Deimos of Kosmos
+1 Birds of Paradise
+1 Boldwyr Heavyweights
+1 Brash Taunter
+1 Captivating Crew
+1 Claim Jumper
+1 Druid of Purification
+1 Dualcaster Mage
+1 Firbolg Flutist
+1 Hornet Nest
+1 Humble Defector
+1 Llanowar Elves
+1 Magus of the Wheel
+1 Mangara, the Diplomat
+1 Nightshade Dryad
+1 Ornithopter of Paradise
+1 Sand Scout
+1 Selvala, Explorer Returned
+1 Skullwinder
+1 Solemn Simulacrum
+1 Soulbright Flamekin
+1 Stalking Leonin
+1 Tempting Wurm
+1 Treasure Nabber
+1 Twitching Doll
+1 Verge Rangers
+1 Witch Enchanter
+1 Zurzoth, Chaos Rider
+1 Arcane Signet
+1 Bender's Waterskin
+1 Bloodthirsty Blade
+1 Coveted Jewel
+1 Cursed Mirror
+1 Gilded Lotus
+1 Mimic Vat
+1 Blood Frenzy
+1 Boros Fury-Shield
+1 Comeuppance
+1 Condemn
+1 Contraband Livestock
+1 Gorilla War Cry
+1 Immortal Obligation
+1 Legion Leadership
+1 Olorin's Searing Light
+1 Razorgrass Ambush
+1 Take the Bait
+1 Transforming Flourish
+1 Unexplained Absence
+1 Winds of Qal Sisma
+1 Call for Aid
+1 Cut a Deal
+1 Disrupt Decorum
+1 Mob Rule
+1 Secret Rendezvous
+1 Seize the Spotlight
+1 Solar Blaze
+1 Spectacular Showdown
+1 Sundering Eruption
+1 Buried in the Garden
+1 Dictate of the Twin Gods
+1 Duelist's Heritage
+1 Repercussion
+1 Share the Spoils
+1 Spiteful Banditry
+1 The Akroan War
+1 The Sound of Drums
+1 Arid Archway
+1 Battlefield Forge
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Desert
+1 Exotic Orchard
+1 Forbidding Watchtower
+7 Forest
+1 Jungle Shrine
+1 Maze of Ith
+5 Mountain
+1 Path of Ancestry
+4 Plains
+1 Rugged Prairie
+1 Scattered Groves
+1 Scavenger Grounds
+1 Sheltered Thicket
+1 Sheltering Landscape
+Sideboard
+1 Rocco, Cabaretti Caterer

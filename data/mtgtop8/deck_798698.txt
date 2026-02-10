@@ -1,0 +1,93 @@
+1 Pitiless Plunderer
+1 Enduring Courage
+1 Priest of Forgotten Gods
+1 Hardened Tactician
+1 Loyal Apprentice
+1 Legion Warboss
+1 Charismatic Conqueror
+1 Cruel Celebrant
+1 Kambal, Profiteering Mayor
+1 Anim Pakal, Thousandth Moon
+1 Viscera Seer
+1 Warren Soultrader
+1 Bone-Cairn Butcher
+1 Ophiomancer
+1 Gix, Yawgmoth Praetor
+1 Avenger of the Fallen
+1 Neriv, Heart of the Storm
+1 Redoubled Stormsinger
+1 Blood Artist
+1 Adeline, Resplendent Cathar
+1 Morbid Opportunist
+1 Mardu Siegebreaker
+1 Voice of Victory
+1 Cruel Administrator
+1 Elas il-Kor, Sadistic Pilgrim
+1 Zurgo, Thunder's Decree
+1 Thalisse, Reverent Medium
+1 Ironwill Forger
+1 Enduring Innocence
+1 Umbral Collar Zealot
+1 Hero of Bladehold
+1 Goldlust Triad
+1 Ainok Strike Leader
+1 Infantry Shield
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Talisman of Hierarchy
+1 Dolmen Gate
+1 Talisman of Conviction
+1 Skullclamp
+1 Lightning Greaves
+1 Arcane Signet
+1 Sol Ring
+1 Deadly Dispute
+1 Corrupted Conviction
+1 Swords to Plowshares
+1 Will of the Mardu
+1 Grand Crescendo
+1 Anguished Unmaking
+1 Duty Beyond Death
+1 Worthy Cost
+1 Blasphemous Edict
+1 Toxic Deluge
+1 Tempt with Vengeance
+1 Within Range
+1 Anointed Procession
+1 Warleader's Call
+1 Impact Tremors
+1 Bastion of Remembrance
+1 Tocasia's Welcome
+1 All-Out Assault
+1 Vampiric Rites
+1 Firebender Ascension
+1 Windcrag Siege
+1 Vault of the Archangel
+1 Sulfurous Springs
+1 Caves of Koilos
+1 Tainted Field
+1 Haunted Ridge
+1 Radiant Summit
+1 Shattered Sanctum
+1 Savai Triome
+1 Battlefield Forge
+4 Plains
+1 Rogue's Passage
+1 Blackcleave Cliffs
+1 Nomad Outpost
+1 Sundown Pass
+1 Command Tower
+1 Isolated Chapel
+1 Clifftop Retreat
+2 Mountain
+1 Exotic Orchard
+1 Smoldering Marsh
+1 Canyon Slough
+1 Glittering Massif
+1 Concealed Courtyard
+5 Swamp
+1 Dragonskull Summit
+1 Tainted Peak
+1 Inspiring Vantage
+Sideboard
+1 Zurgo Stormrender

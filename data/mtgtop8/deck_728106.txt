@@ -1,0 +1,99 @@
+1 Palladium Myr
+1 Copper Myr
+1 Darksteel Myr
+1 Ichorclaw Myr
+1 Iron Myr
+1 Myr Battlesphere
+1 Myr Propagator
+1 Myr Galvanizer
+1 Alloy Myr
+1 Myrsmith
+1 Hovermyr
+1 Plague Myr
+1 Gold Myr
+1 Leaden Myr
+1 Lodestone Myr
+1 Myr Enforcer
+1 Myr Retriever
+1 Silver Myr
+1 Perilous Myr
+1 Research Thief
+1 Mirror Entity
+1 Canoptek Spyder
+1 Jhoira, Weatherlight Captain
+1 Drafna, Founder of Lat-Nam
+1 Myr Convert
+1 Knighted Myr
+1 Metallic Mimic
+1 Marcus, Mutant Mayor
+1 Brudiclad, Telchor Engineer
+1 Envoy of the Ancestors
+1 Thought Monitor
+1 Padeem, Consul of Innovation
+1 Chromatic Lantern
+1 Myr Reservoir
+1 Myr Matrix
+1 Myr Turbine
+1 Scourglass
+1 Lightning Greaves
+1 Sol Ring
+1 Mystic Forge
+1 Patchwork Banner
+1 Chaos Warp
+1 Crib Swap
+1 Boros Charm
+1 Paradoxical Outcome
+1 Inspiring Call
+1 Beyeen Veil
+1 Blood Pact
+1 Anguished Unmaking
+1 Desynchronization
+1 Stroke of Midnight
+1 Duty Beyond Death
+1 Thoughtcast
+1 Monumental Corruption
+1 Distant Melody
+1 Wake the Past
+1 Sundering Eruption
+1 Voyage Home
+1 Mirrodin Besieged
+1 Brokers Ascendancy
+1 Kindred Discovery
+1 Thopter Spy Network
+1 Dazzling Theater/Prop Room
+1 Unstoppable Plan
+1 All-Out Assault
+1 Caves of Koilos
+1 Glimmervoid
+1 Forest
+1 Swamp
+1 Gavony Township
+1 Mountain
+1 Guildless Commons
+1 Command Tower
+1 Exotic Orchard
+1 Shire Terrace
+1 Pit of Offerings
+1 Vault of the Archangel
+1 Bojuka Bog
+1 Prairie Stream
+1 Demolition Field
+1 Yavimaya Coast
+1 Cascading Cataracts
+1 Path of Ancestry
+1 Tomb of the Spirit Dragon
+1 Hinterland Harbor
+1 Shivan Reef
+1 Adarkar Wastes
+1 Underground River
+1 Brushland
+1 Battlefield Forge
+1 Cinder Glade
+1 Spire of Industry
+1 Smoldering Marsh
+1 Glacial Fortress
+2 Island
+2 Plains
+1 Monumental Henge
+Sideboard
+1 Urtet, Remnant of Memnarch

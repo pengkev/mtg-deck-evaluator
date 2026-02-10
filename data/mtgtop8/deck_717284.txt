@@ -1,0 +1,85 @@
+1 Wonder
+1 Kess, Dissident Mage
+1 Merciless Executioner
+1 Sauron, the Dark Lord
+1 Oliphaunt
+1 The Mouth of Sauron
+1 Monstrosity of the Lake
+1 Shelob, Dread Weaver
+1 Rampaging War Mammoth
+1 The Balrog of Moria
+1 Moria Scavenger
+1 Knollspine Dragon
+1 Colossal Whale
+1 Treasure Nabber
+1 Port Razer
+1 Hostage Taker
+1 Rakdos, Patron of Chaos
+1 Etali, Primal Storm
+1 Anger
+1 Inferno Titan
+1 Combustible Gearhulk
+1 Scourge of the Throne
+1 Sheoldred, Whispering One
+1 Saruman, the White Hand
+1 Sol Ring
+1 Relic of Sauron
+1 Collector's Vault
+1 Arcane Signet
+1 Worn Powerstone
+1 Commander's Sphere
+1 Counterspell
+1 Unexpected Windfall
+1 Consider
+1 Black Sun's Twilight
+1 Sauron's Ransom
+1 Forbidden Alchemy
+1 Thrill of Possibility
+1 Arcane Denial
+1 Big Score
+1 Windfall
+1 Stitch Together
+1 Incarnation Technique
+1 Blasphemous Act
+1 Persist
+1 Extract from Darkness
+1 Breach the Multiverse
+1 Ringsight
+1 Subjugate the Hobbits
+1 Summons of Saruman
+1 Too Greedily, Too Deep
+1 Virtue of Persistence
+1 Buried Alive
+1 Cathartic Reunion
+1 Decree of Pain
+1 Faithless Looting
+1 Living Death
+1 Victimize
+1 Feed the Swarm
+1 Revenge of Ravens
+1 Shiny Impetus
+1 In the Darkness Bind Them
+1 Animate Dead
+1 Jace Reawakened
+1 Crumbling Necropolis
+1 Shivan Reef
+1 Field of Ruin
+1 The Grey Havens
+1 Desolate Lighthouse
+1 Rogue's Passage
+1 Choked Estuary
+1 Command Tower
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Frostboil Snarl
+1 Sulfur Falls
+1 Temple of the False God
+1 Evolving Wilds
+1 Dragonskull Summit
+1 Smoldering Marsh
+1 Sunken Hollow
+6 Island
+6 Mountain
+7 Swamp
+Sideboard
+1 Sauron, Lord of the Rings

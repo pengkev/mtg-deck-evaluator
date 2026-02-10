@@ -1,0 +1,81 @@
+1 Amoeboid Changeling
+1 Dragon's Rage Channeler
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Goblin Matron
+1 Imagecrafter
+1 Kessig Flamebreather
+1 Mysidian Elder
+1 Reckless Fireweaver
+1 Shao Jun
+1 Thermo-Alchemist
+1 Unruly Catapult
+1 Weftstalker Ardent
+1 Amorphous Axe
+1 Arcane Signet
+1 Captain's Hook
+1 Isochron Scepter
+1 Runed Stalactite
+1 Sol Ring
+1 Blades of Velis Vel
+1 Borne Upon a Wind
+1 Brainstorm
+1 Cerulean Wisps
+1 Chemister's Insight
+1 Demand Answers
+1 Dramatic Reversal
+1 Frantic Search
+1 Impulse
+1 Into the Flood Maw
+1 Into the Roil
+1 Izzet Charm
+1 Lindblum, Industrial Regency
+1 Magic Damper
+1 Narset's Reversal
+1 Oona's Grace
+1 Opt
+1 Radical Idea
+1 Red Elemental Blast
+1 Shore Up
+1 Silundi Vision
+1 Swan Song
+1 Think Twice
+1 Trickery Charm
+1 Unauthorized Exit
+1 Unexpected Windfall
+1 Valakut Awakening
+1 Volatile Claws
+1 Wings of Velis Vel
+1 Chart a Course
+1 Deep Analysis
+1 Faithless Looting
+1 Gitaxian Probe
+1 Glimpse the Cosmos
+1 Maximize Altitude
+1 Maximize Velocity
+1 Past in Flames
+1 Preordain
+1 Sleight of Hand
+1 Solve the Equation
+1 Sorceress's Schemes
+1 Step Through
+1 Curiosity
+1 Leyline of Transformation
+1 Mistform Mask
+1 Cavern of Souls
+1 Command Tower
+1 Fiery Islet
+14 Island
+1 Mistrise Village
+8 Mountain
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Sulfur Falls
+1 Training Center
+1 Volcanic Island
+Sideboard
+1 Breeches, Brazen Plunderer
+1 Malcolm, Keen-Eyed Navigator

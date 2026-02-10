@@ -1,0 +1,99 @@
+1 Blood Pet
+1 Coruscation Mage
+1 Disciple of the Vault
+1 Dualcaster Mage
+1 Gleeful Arsonist
+1 Grim Hireling
+1 Kederekt Parasite
+1 Kessig Flamebreather
+1 Marionette Apprentice
+1 Mayhem Devil
+1 Orcish Bowmasters
+1 Professional Face-Breaker
+1 Prosper, Tome-Bound
+1 Ragavan, Nimble Pilferer
+1 Razorkin Needlehead
+1 Reckless Fireweaver
+1 Scrawling Crawler
+1 Shadow the Hedgehog
+1 Storm-Kiln Artist
+1 Walking Ballista
+1 Weftstalker Ardent
+1 Aetherflux Reservoir
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Defense Grid
+1 Grinding Station
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Indulgence
+1 The Reaver Cleaver
+1 Unstable Amulet
+1 Wishclaw Talisman
+1 Bolt Bend
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Final Fortune
+1 Flare of Duplication
+1 Gut Shot
+1 Pyretic Ritual
+1 Pyroblast
+1 Rakdos Charm
+1 Red Elemental Blast
+1 Snuff Out
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Dark Petition
+1 Demonic Tutor
+1 Diabolic Intent
+1 Feed the Swarm
+1 Grapeshot
+1 Heat Shimmer
+1 Imperial Seal
+1 Jeska's Will
+1 Molten Duplication
+1 Praetor's Grasp
+1 Rite of Flame
+1 All Will Be One
+1 Goblin Bombardment
+1 Necropotence
+1 Roiling Vortex
+1 Shadow of the Goblin
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Emergence Zone
+1 Gemstone Caverns
+1 Luxury Suite
+1 Marsh Flats
+1 Mount Doom
+2 Mountain
+1 Phyrexian Tower
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Sulfurous Springs
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Ob Nixilis, Captive Kingpin

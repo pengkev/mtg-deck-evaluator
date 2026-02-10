@@ -1,0 +1,101 @@
+1 Invasion of Ikoria
+1 Survival of the Fittest
+1 Earthcraft
+1 Utopia Sprawl
+1 Wild Growth
+1 Underworld Breach
+1 Song of Creation
+1 Food Chain
+1 Abundance
+1 Exploration
+1 Rite of Flame
+1 Jeska's Will
+1 Strike It Rich
+1 Step Through
+1 Gamble
+1 Wheel of Fortune
+1 Breakthrough
+1 Careful Study
+1 Sylvan Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Faithless Looting
+1 Infernal Plunge
+1 Neoform
+1 Land Grant
+1 Noxious Revival
+1 Brain Freeze
+1 Worldly Tutor
+1 Reclaim
+1 Mystical Tutor
+1 Chord of Calling
+1 Crop Rotation
+1 Jeweled Amulet
+1 Chrome Mox
+1 Urza's Bauble
+1 Sensei's Divining Top
+1 Sol Ring
+1 Mana Vault
+1 Springleaf Drum
+1 Cloudstone Curio
+1 Mox Amber
+1 Mishra's Bauble
+1 Paradise Mantle
+1 Gustha's Scepter
+1 Mox Opal
+1 Lotus Petal
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Displacer Kitten
+1 Etali, Primal Conqueror
+1 Phyrexian Walker
+1 Timeless Witness
+1 Shrieking Drake
+1 Wild Cantor
+1 Shield Sphere
+1 Memnite
+1 Skirk Prospector
+1 Tinder Wall
+1 Kobolds of Kher Keep
+1 Six
+1 Walking Ballista
+1 Dragon's Rage Channeler
+1 Squee, the Immortal
+1 Lotus Cobra
+1 Birds of Paradise
+1 "Name Sticker" Goblin
+1 Rograkh, Son of Rohgahh
+1 Eruth, Tormented Prophet
+1 Birgi, God of Storytelling
+1 Ornithopter
+1 Crimson Kobolds
+1 Cloud of Faeries
+1 Noose Constrictor
+1 Crookshank Kobolds
+1 Mana Confluence
+1 Gaea's Cradle
+1 Taiga
+1 Volcanic Island
+1 Tropical Island
+1 Windswept Heath
+1 Breeding Pool
+1 Forbidden Orchard
+1 Flooded Strand
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Island
+1 Shifting Woodland
+1 Stomping Ground
+1 Steam Vents
+1 Commercial District
+1 Gemstone Caverns
+1 Mountain
+1 Polluted Delta
+1 Verdant Catacombs
+1 Arid Mesa
+1 Scalding Tarn
+1 Misty Rainforest
+1 Forest
+Sideboard
+1 Flubs, the Fool

@@ -1,0 +1,75 @@
+1 Barbed Servitor
+1 Emry, Lurker of the Loch
+1 Esior, Wardwing Familiar
+1 Etherium Sculptor
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Grazilaxx, Illithid Scholar
+1 K-9, Mark I
+1 Lobelia Sackville-Baggins
+1 Mari, the Killing Quill
+1 Notion Thief
+1 Sai, Master Thopterist
+1 Shimmer Myr
+1 Vren, the Relentless
+1 Andúril, Flame of the West
+1 Bident of Thassa
+1 Blackblade Reforged
+1 Brass Knuckles
+1 Champion's Helm
+1 Cranial Plating
+1 Crawlspace
+1 Hand of Vecna
+1 Hero's Heirloom
+1 Hidden Blade
+1 Hithlain Rope
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Mithril Coat
+1 Nettlecyst
+1 Pact Weapon
+1 Racers' Scoreboard
+1 Smoke Bomb
+1 Sol Ring
+1 Springleaf Drum
+1 Strength-Testing Hammer
+1 Swiftfoot Boots
+1 Tarrian's Soulcleaver
+1 Thran Power Suit
+1 Tome of Legends
+1 Vexing Bauble
+1 Vorpal Sword
+1 Wayfarer's Bauble
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Bane's Contingency
+1 Counterspell
+1 Drown in the Loch
+1 Foil
+1 Go for the Throat
+1 Long Goodbye
+1 Long River's Pull
+1 Negate
+1 Not Dead After All
+1 Perplexing Test
+1 Shore Up
+1 Spell Pierce
+1 Tainted Strike
+1 Undying Malice
+1 V.A.T.S.
+1 Wash Away
+1 Waterlogged Teachings
+1 You See a Guard Approach
+1 Combat Research
+1 King Narfi's Betrayal
+1 Proft's Eidetic Memory
+1 Propaganda
+1 Teferi's Ageless Insight
+1 Amonkhet Raceway
+1 Bojuka Bog
+15 Island
+1 Muraganda Raceway
+1 Scavenger Grounds
+13 Swamp
+Sideboard
+1 Basim Ibn Ishaq

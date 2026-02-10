@@ -1,0 +1,101 @@
+1 Treasure Vault
+1 Tree of Tales
+1 City of Brass
+1 Horizon of Progress
+1 Talon Gates of Madara
+1 Yavimaya Coast
+1 Shifting Woodland
+1 Waterlogged Grove
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Misty Rainforest
+1 Gemstone Caverns
+1 Barkchannel Pathway
+1 Rejuvenating Springs
+1 Seat of the Synod
+1 Tropical Island
+1 Gaea's Cradle
+1 Mana Confluence
+1 Emergence Zone
+1 Ancient Tomb
+1 Breeding Pool
+1 Minamo, School at Water's Edge
+1 Command Tower
+1 Forest
+1 Island
+1 Tezzeret the Seeker
+1 Mystic Remora
+1 Sylvan Library
+1 Urza's Saga
+1 Copy Artifact
+1 Rhystic Study
+1 Mirrormade
+1 Fabricate
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Transmute Artifact
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Into the Flood Maw
+1 Sink into Stupor
+1 Mindbreak Trap
+1 Fierce Guardianship
+1 Swan Song
+1 Worldly Tutor
+1 Whir of Invention
+1 Pact of Negation
+1 Mana Drain
+1 Force of Will
+1 Cyclonic Rift
+1 Chord of Calling
+1 Force of Negation
+1 Flusterstorm
+1 Crop Rotation
+1 Chrome Mox
+1 Simic Signet
+1 Mirage Mirror
+1 The One Ring
+1 Machine God's Effigy
+1 Fellwar Stone
+1 Basalt Monolith
+1 Mox Amber
+1 Mox Diamond
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 Mana Vault
+1 Grim Monolith
+1 Mox Opal
+1 Sol Ring
+1 Arcane Signet
+1 Hullbreaker Horror
+1 High Fae Trickster
+1 Enduring Vitality
+1 Clever Impersonator
+1 Fanatic of Rhonas
+1 Tidespout Tyrant
+1 Tishana's Tidebinder
+1 Thrasios, Triton Hero
+1 Faerie Mastermind
+1 Walking Ballista
+1 Devoted Druid
+1 Consecrated Sphinx
+1 Ledger Shredder
+1 Void Winnower
+1 Colossal Skyturtle
+1 Endurance
+1 Wandering Archaic
+1 Fyndhorn Elves
+1 Nezahal, Primal Tide
+1 Elvish Mystic
+1 Kogla, the Titan Ape
+1 Thassa's Oracle
+1 Gilded Drake
+1 Glen Elendra Archmage
+1 Seedborn Muse
+1 Phyrexian Metamorph
+1 Llanowar Elves
+1 Bloom Tender
+1 Birds of Paradise
+1 Thorn Mammoth
+Sideboard
+1 Kinnan, Bonder Prodigy

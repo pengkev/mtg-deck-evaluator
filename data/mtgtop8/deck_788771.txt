@@ -1,0 +1,73 @@
+1 Agitator Ant
+1 Alexios, Deimos of Kosmos
+1 Bothersome Quasit
+1 Chaos Dragon
+1 Dragonspeaker Shaman
+1 Drakuseth, Maw of Flames
+1 Goldspan Dragon
+1 Grenzo, Havoc Raiser
+1 Hellkite Tyrant
+1 Hunted Dragon
+1 Kairi, the Swirling Sky
+1 Lathliss, Dragon Queen
+1 Life of the Party
+1 Lozhan, Dragons' Legacy
+1 Parapet Thrasher
+1 Ryusei, the Falling Star
+1 Sarkhan, Soul Aflame
+1 Scourge of the Throne
+1 Scourge of Valkas
+1 Territorial Hellkite
+1 Thunderbreak Regent
+1 Tyrant's Familiar
+1 Vengeful Ancestor
+1 Wrathful Red Dragon
+1 Arcane Signet
+1 Bloodthirsty Blade
+1 Carnelian Orb of Dragonkind
+1 Commander's Sphere
+1 Dragon's Hoard
+1 Dragonstorm Globe
+1 Gilded Lotus
+1 Izzet Signet
+1 Lapis Orb of Dragonkind
+1 Sol Ring
+1 Sonic Screwdriver
+1 Talisman of Creativity
+1 The Fire Crystal
+1 Thran Dynamo
+1 Wayfarer's Bauble
+1 Bolt Bend
+1 Chaos Warp
+1 Counterspell
+1 Jwari Disruption
+1 Magmaquake
+1 Resculpt
+1 Blasphemous Act
+1 Compulsive Research
+1 Disrupt Decorum
+1 Isengard Unleashed
+1 Mizzium Mortars
+1 Spectacular Showdown
+1 Stock Up
+1 Curse of Opulence
+1 Curse of Verbosity
+1 Dragon Tempest
+1 Popular Entertainer
+1 Psychic Impetus
+1 Public Enemy
+1 Rite of the Raging Storm
+1 The Sound of Drums
+1 Bonders' Enclave
+1 Cascade Bluffs
+1 Frostboil Snarl
+14 Island
+1 Mariposa Military Base
+16 Mountain
+1 Myriad Landscape
+1 Path of Ancestry
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Firkraag, Cunning Instigator

@@ -1,0 +1,79 @@
+1 Crypt Ghast
+1 Disciple of the Vault
+1 Foundry Inspector
+1 Golem Artisan
+1 Jhoira's Familiar
+1 Kuldotha Forgemaster
+1 Leaden Myr
+1 Masticore
+1 Millikin
+1 Myr Retriever
+1 Necrotic Ooze
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Phyrexian Devourer
+1 Pili-Pala
+1 Plague Myr
+1 Scrap Trawler
+1 Stitcher's Supplier
+1 Triskelion
+1 Voltaic Construct
+1 Walking Ballista
+1 Arcane Signet
+1 Basalt Monolith
+1 Bolas's Citadel
+1 Clock of Omens
+1 Codex Shredder
+1 Coveted Jewel
+1 Currency Converter
+1 Elixir of Immortality
+1 Expedition Map
+1 Fellwar Stone
+1 Grinding Station
+1 Helm of Awakening
+1 Krark-Clan Ironworks
+1 Lightning Greaves
+1 Manifold Key
+1 Mind Stone
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mystic Forge
+1 Nevinyrral's Disk
+1 Perpetual Timepiece
+1 Retrofitter Foundry
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 Voltaic Key
+1 Dark Ritual
+1 Deadly Dispute
+1 Defile
+1 Entomb
+1 Infernal Grasp
+1 Vincent's Limit Break
+1 Buried Alive
+1 Dread Return
+1 Exsanguinate
+1 Feed the Swarm
+1 Lively Dirge
+1 Night's Whisper
+1 Reanimate
+1 Resentful Revelation
+1 Sign in Blood
+1 Syphon Mind
+1 Toxic Deluge
+1 Unmarked Grave
+1 Kaya's Ghostform
+1 Necropotence
+1 Zombie Infestation
+1 Karn, Scion of Urza
+1 Ugin, the Ineffable
+1 Bojuka Bog
+1 Buried Ruin
+1 Darksteel Citadel
+1 Inventors' Fair
+23 Swamp
+1 Treasure Vault
+1 Vault of Whispers
+Sideboard
+1 Trazyn the Infinite

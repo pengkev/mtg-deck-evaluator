@@ -1,0 +1,88 @@
+1 Junk Winder
+1 Noise Marine
+1 Kykar, Zephyr Awakener
+1 Alisaie Leveilleur
+1 Pinnacle Monk
+1 Alphinaud Leveilleur
+1 Archmage Emeritus
+1 Guttersnipe
+1 Lyse Hext
+1 Alania, Divergent Storm
+1 Coruscation Mage
+1 Bria, Riptide Rogue
+1 Storm-Kiln Artist
+1 Shiko and Narset, Unified
+1 Midnight Clock
+1 Skullclamp
+1 Talisman of Progress
+1 Arcane Signet
+1 Long-Range Sensor
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Wayfarer's Bauble
+1 Bident of Thassa
+1 Sol Ring
+1 Cursed Mirror
+1 White Auracite
+1 Return the Favor
+1 Chaos Warp
+1 Big Score
+1 Abrade
+1 Unexpected Windfall
+1 Reverberate
+1 Lightning Bolt
+1 Opt
+1 Pongify
+1 Dig Through Time
+1 Lindblum, Industrial Regency
+1 Electrodominance
+1 Call Forth the Tempest
+1 Gitaxian Probe
+1 Treasure Cruise
+1 Sorceress's Schemes
+1 Vandalblast
+1 Orbital Plunge
+1 Will of the Temur
+1 Seize the Spoils
+1 Volcanic Torrent
+1 Irenicus's Vile Duplication
+1 Pirate's Prize
+1 Let the Galaxy Burn
+1 Blasphemous Act
+1 Preordain
+1 Imprisoned in the Moon
+1 Tempest Technique
+1 Amphibian Downpour
+1 Arcane Bombardment
+1 Observed Stasis
+1 Repercussion
+1 Authority of the Consuls
+1 Coastal Piracy
+1 Champions from Beyond
+1 Shared Animosity
+1 Count on Luck
+1 Ral, Crackling Wit
+1 Clifftop Retreat
+1 Sulfur Falls
+1 Fiery Islet
+5 Island
+1 Azorius Chancery
+1 Battlefield Forge
+1 Skycloud Expanse
+6 Mountain
+1 Exotic Orchard
+5 Plains
+1 Glacial Fortress
+1 Cori Mountain Monastery
+1 Path of Ancestry
+1 Mystic Monastery
+1 Ash Barrens
+1 Temple of Enlightenment
+1 Prairie Stream
+1 Command Tower
+1 Izzet Boilerworks
+1 Evolving Wilds
+1 Sunscorched Divide
+1 Rugged Prairie
+Sideboard
+1 Kykar, Wind's Fury

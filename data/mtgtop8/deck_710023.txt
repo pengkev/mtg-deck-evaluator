@@ -1,0 +1,70 @@
+1 Acidic Slime
+1 Arbor Elf
+1 Argothian Elder
+1 Ashaya, Soul of the Wild
+1 Augur of Autumn
+1 Cankerbloom
+1 Circle of Dreams Druid
+1 Disciple of Freyalise
+1 Duskwatch Recruiter
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Visionary
+1 End-Raze Forerunners
+1 Eternal Witness
+1 Farhaven Elf
+1 Fauna Shaman
+1 Fierce Empath
+1 Fyndhorn Elves
+1 Great Oak Guardian
+1 Hyrax Tower Scout
+1 Insidious Fungus
+1 Karametra's Acolyte
+1 Kogla, the Titan Ape
+1 Kraul Harpooner
+1 Llanowar Elves
+1 Llanowar Scout
+1 Manglehorn
+1 Marvin, Murderous Mimic
+1 Phyrexian Revoker
+1 Pollenbright Druid
+1 Priest of Titania
+1 Quirion Ranger
+1 Reclamation Sage
+1 Regal Force
+1 Scryb Ranger
+1 Seedborn Muse
+1 Somberwald Stag
+1 Spore Frog
+1 Sylvan Safekeeper
+1 Temur Sabertooth
+1 Timeless Witness
+1 Ulvenwald Oddity
+1 Whisperwood Elemental
+1 Wirewood Symbiote
+1 Wood Elves
+1 Woodland Bellower
+1 Yedora, Grave Gardener
+1 Yeva, Nature's Herald
+1 Freestrider Lookout
+1 Hardbristle Bandit
+1 Scavenging Ooze
+1 Birthing Pod
+1 Sol Ring
+1 Staff of Domination
+1 Beast Within
+1 Bouncer's Beatdown
+1 Chord of Calling
+1 Heritage Reclamation
+1 Infectious Bite
+1 Nature's Claim
+1 Ram Through
+1 Shower of Arrows
+1 Birthing Ritual
+1 Elvish Guidance
+1 Sylvan Anthem
+1 Utopia Sprawl
+1 Wild Growth
+32 Forest
+Sideboard
+1 Yisan, the Wanderer Bard

@@ -1,0 +1,101 @@
+1 Sandstone Oracle
+1 "Name Sticker" Goblin
+1 Tataru Taru
+1 Walking Ballista
+1 Goblin Engineer
+1 Auriok Salvagers
+1 Myrel, Shield of Argive
+1 Ragavan, Nimble Pilferer
+1 Delivery Moogle
+1 Imperial Recruiter
+1 Esper Sentinel
+1 Ranger-Captain of Eos
+1 Bomat Courier
+1 Glaring Fleshraker
+1 Voice of Victory
+1 Zabaz, the Glimmerwasp
+1 Birgi, God of Storytelling
+1 Flamescroll Celebrant
+1 Simian Spirit Guide
+1 The Endstone
+1 Mox Opal
+1 Sensei's Divining Top
+1 Mox Amber
+1 Chromatic Orrery
+1 Expedition Map
+1 Chrome Mox
+1 Liquimetal Torque
+1 Mystic Forge
+1 Lion's Eye Diamond
+1 Pyrite Spellbomb
+1 Voltaic Key
+1 Mind Stone
+1 World Map
+1 Portable Hole
+1 Talisman of Conviction
+1 Energy Refractor
+1 The One Ring
+1 Manifold Key
+1 Fellwar Stone
+1 Chimil, the Inner Sun
+1 Bender's Waterskin
+1 Mana Vault
+1 Mishra's Research Desk
+1 Agatha's Soul Cauldron
+1 Grim Monolith
+1 Codex Shredder
+1 Memorial Vault
+1 Sol Ring
+1 Arcane Signet
+1 Moonsilver Key
+1 Boros Signet
+1 Lotus Petal
+1 Coveted Jewel
+1 Enlightened Tutor
+1 Silence
+1 Siege Smash
+1 Deflecting Swat
+1 Wear/Tear
+1 Abeyance
+1 Leave/Chance
+1 Commune with Lava
+1 Orim's Chant
+1 Devastating Onslaught
+1 Rite of Flame
+1 Inspired Tinkering
+1 Jeska's Will
+1 Ignite the Future
+1 Strike It Rich
+1 Sevinne's Reclamation
+1 Faithless Looting
+1 Smothering Tithe
+1 Urza's Saga
+1 Meticulous Excavation
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Karn, the Great Creator
+1 City of Brass
+1 City of Traitors
+1 Urza's Power Plant
+1 Treasure Vault
+1 Ancient Tomb
+1 Sunbaked Canyon
+1 Talon Gates of Madara
+1 Gemstone Caverns
+1 Spectator Seating
+1 Glimmervoid
+1 Urza's Tower
+1 Sacred Foundry
+1 Plateau
+1 Urza's Cave
+1 Great Furnace
+1 Spire of Industry
+1 Ancient Den
+1 Planar Nexus
+1 Urza's Mine
+1 Abstergo Entertainment
+1 Command Tower
+1 Urza's Workshop
+1 Inventors' Fair
+Sideboard
+1 Sami, Wildcat Captain

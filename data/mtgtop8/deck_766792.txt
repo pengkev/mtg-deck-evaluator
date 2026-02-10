@@ -1,0 +1,98 @@
+1 Anticausal Vestige
+1 Birds of Paradise
+1 Bloodroot Apothecary
+1 Cemetery Prowler
+1 Clever Impersonator
+1 Cloud of Faeries
+1 Consecrated Sphinx
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Drift of Phantasms
+1 Enduring Curiosity
+1 Errant, Street Artist
+1 Eternal Scourge
+1 Faerie Mastermind
+1 Fanatic of Rhonas
+1 Flesh Duplicate
+1 Gilded Drake
+1 Green Slime
+1 High Fae Trickster
+1 Hydroelectric Specimen
+1 Kinnan, Bonder Prodigy
+1 Lotus Cobra
+1 Man-o'-War
+1 Misthollow Griffin
+1 Mockingbird
+1 Overcharged Amalgam
+1 Peregrine Drake
+1 Phyrexian Metamorph
+1 Pollywog Prodigy
+1 Sanctum Weaver
+1 Soul of the Harvest
+1 Soulless Jailer
+1 Spark Double
+1 Thassa's Oracle
+1 Uro, Titan of Nature's Wrath
+1 Wall of Roots
+1 Wandering Archaic
+1 Watchful Radstag
+1 Arcane Signet
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Curiosity
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Noxious Revival
+1 Sink into Stupor
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Neoform
+1 Carpet of Flowers
+1 Elven Chorus
+1 Evolutionary Leap
+1 Food Chain
+1 Intruder Alarm
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Ancient Tomb
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Dryad Arbor
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Grove
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+2 Snow-Covered Forest
+3 Snow-Covered Island
+1 Tropical Island
+1 Wooded Foothills
+1 Yavimaya Coast
+Sideboard
+1 Volo, Guide to Monsters

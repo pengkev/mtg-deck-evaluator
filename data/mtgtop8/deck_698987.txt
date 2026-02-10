@@ -1,0 +1,91 @@
+1 Vilis, Broker of Blood
+1 Putrid Imp
+1 Blood Celebrant
+1 Xiahou Dun, the One-Eyed
+1 Sidisi, Undead Vizier
+1 Gray Merchant of Asphodel
+1 Blood Pet
+1 Opposition Agent
+1 Skirge Familiar
+1 Vile Entomber
+1 Asmodeus the Archfiend
+1 Balthor the Defiled
+1 Necrotic Ooze
+1 Chainer, Dementia Master
+1 Dimir House Guard
+1 Dauthi Voidwalker
+1 Arcane Signet
+1 Aetherflux Reservoir
+1 Helm of Awakening
+1 Lotus Petal
+1 Sol Ring
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Everflowing Chalice
+1 Mox Amber
+1 Defense Grid
+1 Jet Medallion
+1 Sensei's Divining Top
+1 Bolas's Citadel
+1 Wishclaw Talisman
+1 Chrome Mox
+1 Grasp of Darkness
+1 Dark Ritual
+1 Entomb
+1 Corpse Dance
+1 Deadly Rollick
+1 Shallow Grave
+1 Songs of the Damned
+1 Sacrifice
+1 Ad Nauseam
+1 Vampiric Tutor
+1 March of Wretched Sorrow
+1 Imp's Mischief
+1 Saw in Half
+1 Cabal Ritual
+1 Culling the Weak
+1 Rain of Filth
+1 Demonic Tutor
+1 Peer into the Abyss
+1 Diabolic Tutor
+1 Praetor's Grasp
+1 Dimir Machinations
+1 Dark Petition
+1 Mastermind's Acquisition
+1 Final Parting
+1 Thoughtseize
+1 Feed the Swarm
+1 Beseech the Queen
+1 Unmarked Grave
+1 Imperial Seal
+1 Grim Tutor
+1 Reanimate
+1 Beseech the Mirror
+1 Buried Alive
+1 Bubbling Muck
+1 Dance of the Dead
+1 Urza's Saga
+1 Necropotence
+1 Animate Dead
+1 Necromancy
+1 Heartless Summoning
+11 Swamp
+1 Radiant Fountain
+1 City of Traitors
+1 High Market
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Urborg, Tomb of Yawgmoth
+1 Emergence Zone
+1 Lake of the Dead
+1 Homeward Path
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Takenuma, Abandoned Mire
+1 Boseiju, Who Shelters All
+1 Cavern of Souls
+1 Command Beacon
+1 Crystal Vein
+Sideboard
+1 K'rrik, Son of Yawgmoth

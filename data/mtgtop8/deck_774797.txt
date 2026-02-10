@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Dauthi Voidwalker
+1 Faerie Mastermind
+1 Grim Hireling
+1 Hullbreaker Horror
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Pollywog Prodigy
+1 Rev, Tithe Extractor
+1 Siren Stormtamer
+1 Spectral Sailor
+1 Talion, the Kindly Lord
+1 Thassa's Oracle
+1 Thopter Assembly
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Dominance
+1 The One Ring
+1 Time Sieve
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Cabal Ritual
+1 Counterspell
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Imp's Mischief
+1 Louisoix's Sacrifice
+1 Mana Drain
+1 Mental Misstep
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Negate
+1 Pact of Negation
+1 Snap
+1 Spell Pierce
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Whir of Invention
+1 Demonic Tutor
+1 Diabolic Intent
+1 Imperial Seal
+1 Reshape
+1 Toxic Deluge
+1 Counterbalance
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Ancient Tomb
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Shizo, Death's Storehouse
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Swamp
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Francisco, Fowl Marauder
+1 Malcolm, Keen-Eyed Navigator

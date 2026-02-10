@@ -1,0 +1,79 @@
+1 Amped Raptor
+1 Birgi, God of Storytelling
+1 Charming Scoundrel
+1 Goblin Bushwhacker
+1 Goblin Cratermaker
+1 Goblin Instigator
+1 Impulsive Pilferer
+1 Iron Myr
+1 Krark, the Thumbless
+1 Manakin
+1 Millikin
+1 Mogg War Marshal
+1 Monastery Swiftspear
+1 Myr Convert
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Pinnacle Monk
+1 Plague Myr
+1 Rograkh, Son of Rohgahh
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Storm-Kiln Artist
+1 Sunset Strikemaster
+1 Young Pyromancer
+1 Helm of Awakening
+1 Lotus Petal
+1 Ruby Medallion
+1 Sol Ring
+1 Accelerate
+1 Ancestors' Aid
+1 Battle Hymn
+1 Blazing Crescendo
+1 Boiling Blood
+1 Brightstone Ritual
+1 Brute Force
+1 Chaotic Strike
+1 Crimson Wisps
+1 Expedite
+1 Felonious Rage
+1 Fists of Flame
+1 Flick a Coin
+1 Haste Magic
+1 Infuriate
+1 Might of the Meek
+1 Monstrous Rage
+1 Siege Smash
+1 Stun
+1 Sudden Breakthrough
+1 Temur Battle Rage
+1 Titan's Strength
+1 Unleash Fury
+1 Ancestral Anger
+1 Dragon Fodder
+1 Electroduplicate
+1 Glimpse the Impossible
+1 Hordeling Outburst
+1 Jeska's Will
+1 Kick in the Door
+1 Krenko's Command
+1 Reckless Charge
+1 Renegade Tactics
+1 Spark of Creativity
+1 Twinflame
+1 Witch's Mark
+1 Frontline Heroism
+1 Chandra, Acolyte of Flame
+1 Ancient Tomb
+1 Crystal Vein
+1 Den of the Bugbear
+1 Dwarven Mine
+1 Dwarven Ruins
+1 Forgotten Cave
+1 Kher Keep
+1 Mishra's Factory
+23 Mountain
+1 Sandstone Needle
+Sideboard
+1 Zada, Hedron Grinder

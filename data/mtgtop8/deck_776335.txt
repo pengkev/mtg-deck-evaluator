@@ -1,0 +1,82 @@
+1 Adventuring Gear
+1 Restore
+1 Primal Bellow
+1 Blanchwood Armor
+1 Blossoming Defense
+1 Brokers Hideout
+1 Centaur Garden
+1 Crop Rotation
+1 Cultivate
+1 Collective Resistance
+1 Elvish Mystic
+1 Llanowar Augur
+1 Elvish Spirit Guide
+1 Embiggen
+1 Entish Restoration
+1 Escape Tunnel
+1 Evolving Wilds
+1 Expedition Map
+1 Explore
+1 Explorer's Scope
+1 Leaf-Crowned Visionary
+1 Fyndhorn Elves
+1 Wild Might
+1 Harmonize
+1 Harrow
+1 Hashep Oasis
+1 Hickory Woodlot
+1 Hunter's Insight
+1 Invigorate
+1 Khalni Heart Expedition
+1 Nissa's Pilgrimage
+1 Llanowar Elves
+1 Mask of Memory
+1 Might of Old Krosa
+1 Scryb Ranger
+1 Momentous Fall
+1 Nature's Lore
+1 Oracle of Mul Daya
+1 Phytoburst
+1 Priest of Titania
+1 Primal Growth
+1 Promising Vein
+1 Quirion Ranger
+1 Ram Through
+1 Rancor
+1 Riveteers Overlook
+1 Sakura-Tribe Elder
+1 Scale Up
+1 Scute Swarm
+1 Seal of Strength
+1 Season of Growth
+1 Skullclamp
+1 Skyshroud Claim
+1 Skyshroud Ranger
+1 Snakeskin Veil
+1 Sol Ring
+1 Stonewood Invocation
+1 Beast Within
+1 Sylvan Safekeeper
+1 Terramorphic Expanse
+1 Three Visits
+1 Tamiyo's Safekeeping
+1 Timberwatch Elf
+1 Tireless Tracker
+1 Titanic Growth
+1 Reclamation Sage
+1 Tyvar's Stand
+1 Veil of Summer
+1 Vibrant Cityscape
+1 Vines of Vastwood
+1 Well Rested
+1 Wild Shape
+20 Forest
+1 Cabaretti Courtyard
+1 Jund Panorama
+1 Naya Panorama
+1 Petrified Field
+1 Loot, Exuberant Explorer
+1 Overprotect
+1 Royal Treatment
+Sideboard
+1 Tifa Lockhart

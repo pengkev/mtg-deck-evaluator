@@ -1,0 +1,87 @@
+1 Unknown Card
+1 Chromatic Lantern
+1 Gruul Signet
+1 Sol Ring
+1 Shorikai, Genesis Engine
+1 Arcane Signet
+1 The Skullspore Nexus
+1 Lumbering Worldwagon
+1 Selesnya Signet
+1 Bolt Bend
+1 Beast Within
+1 Swords to Plowshares
+1 Semester's End
+1 Demand Answers
+1 Guff Rewrites History
+1 Guardian Project
+1 Mana Reflection
+1 Extravagant Replication
+1 Insidious Roots
+1 Refute
+1 Kodama's Reach
+1 Emergent Ultimatum
+1 Farseek
+1 Blasphemous Act
+1 Expand the Sphere
+1 Dance with Calamity
+1 Fractured Identity
+1 Brass's Bounty
+1 Faithless Looting
+1 Cultivate
+1 Genesis Wave
+1 Cathars' Crusade
+1 Mirari's Wake
+1 Bigger on the Inside
+1 Spelunking
+1 Anguished Unmaking
+1 Leyline of the Guildpact
+1 Nazar, the Velvet Fang
+1 Sab-Sunen, Luxa Embodied
+1 Marketback Walker
+1 Faeburrow Elder
+1 Abaddon the Despoiler
+1 Plargg and Nassari
+1 Sokrates, Athenian Teacher
+1 Lunarch Veteran
+1 Vito, Thorn of the Dusk Rose
+1 Solemn Simulacrum
+1 Essence Warden
+1 Yusri, Fortune's Flame
+1 Ornithopter of Paradise
+1 Elas il-Kor, Sadistic Pilgrim
+1 Plague Drone
+1 Khârn the Betrayer
+1 Urza, Chief Artificer
+1 Inga and Esika
+1 Aragorn, the Uniter
+1 Saruman of Many Colors
+1 Bilbo, Birthday Celebrant
+1 Dryad of the Ilysian Grove
+1 The Dalek Emperor
+1 Prime Speaker Zegana
+1 Kellogg, Dangerous Mind
+1 Gilded Goose
+1 Winter, Misanthropic Guide
+1 Ramos, Dragon Engine
+1 Zirda, the Dawnwaker
+1 Rockfall Vale
+1 Exotic Orchard
+1 Necroblossom Snarl
+1 Fiery Islet
+1 Waterlogged Grove
+1 Canopy Vista
+1 Command Tower
+1 Fortified Village
+1 Sungrass Prairie
+1 Shivan Reef
+1 Arcane Sanctum
+1 Frontier Bivouac
+1 Sandsteppe Citadel
+1 Crumbling Necropolis
+3 Plains
+4 Forest
+4 Mountain
+4 Island
+4 Swamp
+Sideboard
+1 Kenrith, the Returned King

@@ -1,0 +1,72 @@
+1 Academy Manufactor
+1 Adaptive Automaton
+1 Axgard Cavalry
+1 Barkform Harvester
+1 Battered Golem
+1 Bloodfire Dwarf
+1 Bloodline Pretender
+1 Dwarven Blastminer
+1 Dwarven Grunt
+1 Dwarven Miner
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Fearless Liberator
+1 Flamekin Harbinger
+1 Gadrak, the Crown-Scourge
+1 Gimli of the Glittering Caves
+1 Liberated Dwarf
+1 Magda, the Hoardmaster
+1 Metallic Mimic
+1 Plundering Barbarian
+1 Professional Face-Breaker
+1 Simian Spirit Guide
+1 Taurean Mauler
+1 Three Tree Mascot
+1 Twinshot Sniper
+1 Universal Automaton
+1 Vault Robber
+1 Xorn
+1 Arcane Signet
+1 Ashnod's Transmogrant
+1 Careening Mine Cart
+1 Clock of Omens
+1 Clown Car
+1 Cultivator's Caravan
+1 Damping Sphere
+1 Elixir of Immortality
+1 Flywheel Racer
+1 God-Pharaoh's Statue
+1 Grafdigger's Cage
+1 High-Speed Hoverbike
+1 Honor-Worn Shaku
+1 Lifecraft Engine
+1 Liquimetal Torque
+1 Maskwood Nexus
+1 Mighty Servant of Leuk-o
+1 Mind Stone
+1 Reckoner Bankbuster
+1 Sculpting Steel
+1 Sphere of Resistance
+1 Springleaf Drum
+1 Thorn of Amethyst
+1 Thran Forge
+1 Unlicensed Hearse
+1 Abrade
+1 Bottle-Cap Blast
+1 Chaos Warp
+1 Lightning Bolt
+1 Thunderclap
+1 Pirate's Pillage
+1 Season of the Bold
+1 Seize the Spoils
+1 Epiphany Storm
+1 Impact Tremors
+1 Rain of Riches
+1 Sticky Fingers
+1 Buried Ruin
+1 Holdout Settlement
+30 Mountain
+1 Survivors' Encampment
+Sideboard
+1 Magda, Brazen Outlaw

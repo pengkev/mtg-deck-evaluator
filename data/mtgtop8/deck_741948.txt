@@ -1,0 +1,89 @@
+1 Aethersquall Ancient
+1 Aetherstorm Roc
+1 Amped Raptor
+1 Assaultron Dominator
+1 Aurora Shifter
+1 Behemoth of Vault 0
+1 Blaster Hulk
+1 Brotherhood Scribe
+1 Brudiclad, Telchor Engineer
+1 Burnished Hart
+1 Combustible Gearhulk
+1 Cyclops Superconductor
+1 Dire Fleet Daredevil
+1 Dr. Madison Li
+1 Eomer, Marshal of Rohan
+1 Guide of Souls
+1 Inspired Inventor
+1 Junk Winder
+1 Liberty Prime, Recharged
+1 Lightning Runner
+1 Overclocked Electromancer
+1 Razorfield Ripper
+1 Riddle Gate Gargoyle
+1 Robobrain War Mind
+1 Roil Cartographer
+1 Rumor Gatherer
+1 Salvation Colossus
+1 Solemn Simulacrum
+1 Sphinx of the Revelation
+1 The Motherlode, Excavator
+1 Volatile Stormdrake
+1 Aether Refinery
+1 Aetherworks Marvel
+1 Arcane Signet
+1 Coalition Relic
+1 Decoction Module
+1 Fabrication Module
+1 Gonti's Aether Heart
+1 Panharmonicon
+1 Sol Ring
+1 Solar Transformer
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Akroma's Will
+1 Electrosiphon
+1 Generous Gift
+1 Glimmer of Genius
+1 Invert Polarity
+1 Path to Exile
+1 Rush of Inspiration
+1 Swords to Plowshares
+1 Tune the Narrative
+1 Confiscation Coup
+1 Farewell
+1 Jolted Awake
+1 Localized Destruction
+1 Suppression Ray
+1 Wheel of Potential
+1 Wrath of the Skies
+1 Aether Revolt
+1 All Will Be One
+1 Era of Innovation
+1 Adarkar Wastes
+1 Aether Hub
+1 Azorius Chancery
+1 Battlefield Forge
+1 Castle Vantress
+1 Clifftop Retreat
+1 Command Tower
+1 Demolition Field
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Glacial Fortress
+1 HELIOS One
+4 Island
+1 Izzet Boilerworks
+5 Mountain
+1 Mystic Gate
+1 Mystic Monastery
+6 Plains
+1 Port Town
+1 Prairie Stream
+1 Shivan Reef
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+Sideboard
+1 Satya, Aetherflux Genius

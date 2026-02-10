@@ -1,0 +1,72 @@
+1 Alaundo the Seer
+1 Aminatou, Veil Piercer
+1 Anikthea, Hand of Erebos
+1 Archon of Sun's Grace
+1 Bello, Bard of the Brambles
+1 Daxos, Blessed by the Sun
+1 Deadpool, Trading Card
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Enduring Curiosity
+1 Enduring Tenacity
+1 Enduring Vitality
+1 Fear of Impostors
+1 Fear of Sleep Paralysis
+1 Gremlin Tamer
+1 Herald of the Pantheon
+1 Jukai Naturalist
+1 Mesa Enchantress
+1 Overlord of the Boilerbilges
+1 Sanctum Weaver
+1 Sythis, Harvest's Hand
+1 Weaver of Harmony
+1 Wildsear, Scouring Maw
+1 Zur, Eternal Schemer
+1 Chromatic Lantern
+1 Decanter of Endless Water
+1 Break Down the Door
+1 Deadly Rollick
+1 Guiding Bolt
+1 Path to Exile
+1 Saw in Half
+1 Swords to Plowshares
+1 Unwanted Remake
+1 Cultivate
+1 Diabolic Tutor
+1 Idyllic Tutor
+1 Split Up
+1 Central Elevator/Promising Stairs
+1 Charred Foyer/Warped Space
+1 Copy Enchantment
+1 Dazzling Theater/Prop Room
+1 Defiled Crypt/Cadaver Lab
+1 Enchanted Evening
+1 Ethereal Armor
+1 Extravagant Replication
+1 Funeral Room/Awakening Hall
+1 Greenhouse/Rickety Gazebo
+1 Invasion of Shandalar
+1 Leyline of the Guildpact
+1 Mirror Room/Fractured Realm
+1 Moldering Gym/Weight Room
+1 Omniscience
+1 Painter's Studio/Defaced Gallery
+1 Pemmin's Aura
+1 Polluted Cistern/Dim Oubliette
+1 Propaganda
+1 Restricted Office/Lecture Hall
+1 Roaring Furnace/Steaming Sauna
+1 Smoky Lounge/Misty Salon
+1 Sphere of Safety
+1 Trapped in the Screen
+1 Walk-In Closet/Forgotten Cellar
+1 Evolving Wilds
+6 Forest
+7 Island
+6 Mountain
+8 Plains
+7 Swamp
+1 Terramorphic Expanse
+Sideboard
+1 Marina Vendrell

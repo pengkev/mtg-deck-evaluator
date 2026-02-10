@@ -1,0 +1,80 @@
+1 Beanstalk Giant
+1 Bloomvine Regent
+1 Goblin Anarchomancer
+1 Goblin Chirurgeon
+1 Guttersnipe
+1 Krark, the Thumbless
+1 Pinnacle Monk
+1 Storm-Kiln Artist
+1 Young Pyromancer
+1 Cursed Recording
+1 Pyromancer's Goggles
+1 Skullclamp
+1 Arachnogenesis
+1 Artifact Mutation
+1 Beast Within
+1 Big Score
+1 Divergent Transformations
+1 Galadhrim Ambush
+1 Increasing Vengeance
+1 Invoke Calamity
+1 Origin of Metalbending
+1 Price of Progress
+1 Reverberate
+1 Scatter the Seeds
+1 Seething Song
+1 Spore Swarm
+1 Twinferno
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Wyll's Reversal
+1 You See a Pair of Goblins
+1 Audience with Trostani
+1 Bala Ged Recovery
+1 Cultivate
+1 Dance of the Tumbleweeds
+1 Dragon Fodder
+1 Ensnared by the Mara
+1 Escape to the Wilds
+1 Farseek
+1 Fiery Gambit
+1 Goblin Grenade
+1 Goblin Rally
+1 Goblin War Party
+1 Grab the Prize
+1 Growth Spasm
+1 Hordeling Outburst
+1 Howl of the Horde
+1 Inspired Tinkering
+1 Into the North
+1 Jaya's Immolating Inferno
+1 Krenko's Command
+1 Migration Path
+1 Mob Verdict
+1 Nature's Lore
+1 Pest Infestation
+1 Primal Growth
+1 Prisoner's Dilemma
+1 Rampant Growth
+1 Seize the Spoils
+1 Seize the Spotlight
+1 Skyshroud Claim
+1 Tempt with Discovery
+1 Dual Casting
+1 Glacial Crevasses
+1 Powerbalance
+1 Xenagos, the Reveler
+1 Cinder Glade
+1 Command Tower
+1 Dwarven Mine
+12 Forest
+1 Game Trail
+1 Highland Forest
+1 Kessig Wolf Run
+1 Khalni Garden
+1 Kher Keep
+1 Rootbound Crag
+11 Snow-Covered Mountain
+1 Thornspire Verge
+Sideboard
+1 Wort, the Raidmother

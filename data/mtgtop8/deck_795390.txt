@@ -1,0 +1,101 @@
+1 Harmonic Prodigy
+1 Anger
+1 Emet-Selch, Unsundered
+1 Urza, Lord High Artificer
+1 Dualcaster Mage
+1 Thassa's Oracle
+1 Wan Shi Tong, Librarian
+1 Opposition Agent
+1 Carnage, Crimson Chaos
+1 Faerie Mastermind
+1 Nimble Obstructionist
+1 Notion Thief
+1 Dauthi Voidwalker
+1 Stunt Double
+1 Ledger Shredder
+1 Clever Impersonator
+1 Chameleon, Master of Disguise
+1 The Unagi of Kyoshi Island
+1 Lotus Petal
+1 Mana Vault
+1 Fellwar Stone
+1 Mox Diamond
+1 Monument to Endurance
+1 Sol Ring
+1 Chrome Mox
+1 Talisman of Dominance
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Arcane Signet
+1 Brainstone
+1 Brain Freeze
+1 Redirect Lightning
+1 Trickbind
+1 Swan Song
+1 Dispel
+1 An Offer You Can't Refuse
+1 Izzet Charm
+1 Deflecting Swat
+1 Mystical Tutor
+1 Mental Misstep
+1 Arcane Denial
+1 Stern Scolding
+1 Pongify
+1 Counterspell
+1 Vampiric Tutor
+1 Muddle the Mixture
+1 Force of Will
+1 Force of Negation
+1 Cyclonic Rift
+1 Spider-Sense
+1 Fierce Guardianship
+1 Saw in Half
+1 Mindbreak Trap
+1 Demonic Consultation
+1 Tainted Pact
+1 Reality Shift
+1 Twinflame
+1 Molten Duplication
+1 Imperial Seal
+1 Demonic Tutor
+1 Toxic Deluge
+1 Rhystic Study
+1 Telepathy
+1 Animate Dead
+1 Mystic Remora
+1 Dance of the Dead
+1 Waste Not
+1 Necromancy
+1 Underworld Breach
+1 Urza's Saga
+1 Narset, Parter of Veils
+1 Karn, the Great Creator
+1 Riverglide Pathway
+1 Mines of Moria
+1 Scalding Tarn
+1 Polluted Delta
+1 Bloodstained Mire
+1 Exotic Orchard
+1 Steam Vents
+1 Morphic Pool
+1 Cavern of Souls
+1 Clearwater Pathway
+1 Underground River
+1 Cephalid Coliseum
+1 Watery Grave
+1 Underground Sea
+1 Blood Crypt
+1 Shivan Reef
+1 Tolaria West
+1 Forbidden Orchard
+1 Blightstep Pathway
+1 Flooded Strand
+1 Training Center
+1 Fiery Islet
+1 Command Tower
+1 Mistrise Village
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Geier Reach Sanitarium
+Sideboard
+1 Kefka, Court Mage

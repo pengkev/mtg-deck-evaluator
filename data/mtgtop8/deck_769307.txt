@@ -1,0 +1,83 @@
+1 Adriana, Captain of the Guard
+1 Alexios, Deimos of Kosmos
+1 Alseid of Life's Bounty
+1 Anax, Hardened in the Forge
+1 Angrath's Marauders
+1 Archon of Emeria
+1 Auratouched Mage
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Blade Historian
+1 Bonecrusher Giant
+1 Boromir, Warden of the Tower
+1 Captain of the Watch
+1 Cathar Commando
+1 Clarion Conqueror
+1 Combat Celebrant
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 Flamescroll Celebrant
+1 Gerrard, Weatherlight Hero
+1 Gingerbrute
+1 Giver of Runes
+1 Goblin Cratermaker
+1 Goblin Rabblemaster
+1 Gogo, Mysterious Mime
+1 Gold Myr
+1 Goldhound
+1 Hope of Ghirapur
+1 Inspiring Paladin
+1 Iron Myr
+1 Keeper of the Accord
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Loyal Apprentice
+1 Magebane Lizard
+1 Mirage Phalanx
+1 Mother of Runes
+1 Myr Convert
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phyrexian Revoker
+1 Phyrexian Walker
+1 Professional Face-Breaker
+1 Razorkin Needlehead
+1 Remorseful Cleric
+1 Rionya, Fire Dancer
+1 Rograkh, Son of Rohgahh
+1 Sanctum Prelate
+1 Sardian Avenger
+1 Selfless Spirit
+1 Signal Pest
+1 Simian Spirit Guide
+1 Skrelv, Defector Mite
+1 Skyclave Apparition
+1 Slicer, Hired Muscle
+1 Spirit of the Labyrinth
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 Tori D'Avenant, Fury Rider
+1 Vryn Wingmare
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Conviction
+1 Red Elemental Blast
+1 Swords to Plowshares
+1 Breath of Fury
+1 Deafening Silence
+1 Rule of Law
+1 Touch the Spirit Realm
+1 Windcrag Siege
+1 Battlefield Forge
+1 Boros Garrison
+1 Clifftop Retreat
+1 Command Tower
+1 Mishra's Factory
+11 Mountain
+1 Needleverge Pathway
+9 Plains
+1 Rugged Prairie
+1 Sokenzan, Crucible of Defiance
+1 Temple of Triumph
+Sideboard
+1 Winota, Joiner of Forces

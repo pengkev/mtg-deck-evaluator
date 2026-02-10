@@ -1,0 +1,93 @@
+1 Yarok, the Desecrated
+1 Venomthrope
+1 Gurmag Swiftwing
+1 Glissa Sunslayer
+1 Vampire Nighthawk
+1 Genesis
+1 Sheoldred, Whispering One
+1 Tower Winder
+1 Ulvenwald Oddity
+1 Master Biomancer
+1 Uchbenbak, the Great Mistake
+1 Rhonas the Indomitable
+1 Wilson, Refined Grizzly
+1 Poison Dart Frog
+1 Elder Gargaroth
+1 Triplicate Titan
+1 Alpha Deathclaw
+1 The Mimeoplasm
+1 Nullpriest of Oblivion
+1 Kefnet the Mindful
+1 Stonehoof Chieftain
+1 Sylvan Caryatid
+1 Topiary Stomper
+1 Scavenged Brawler
+1 Mirri the Cursed
+1 Vorapede
+1 Railway Brawler
+1 Cragplate Baloth
+1 Slippery Bogbonder
+1 Weathered Sentinels
+1 Birds of Paradise
+1 Nightveil Predator
+1 End-Raze Forerunners
+1 Toski, Bearer of Secrets
+1 Nighthawk Scavenger
+1 Leyline Prowler
+1 Biophagus
+1 Nightshade Dryad
+1 Urborg Scavengers
+1 Weeping Angel
+1 Silumgar, the Drifting Death
+1 Goldvein Hydra
+1 Nevinyrral's Disk
+1 Sol Ring
+1 Arcane Signet
+1 Oblivion Stone
+1 Return of the Wildspeaker
+1 Revitalizing Repast
+1 Deadly Rollick
+1 Bridgeworks Battle
+1 Kodama's Reach
+1 Cultivate
+1 Living Death
+1 Gaze of Granite
+1 Selective Adaptation
+1 Mandate of Abaddon
+1 Rishkar's Expertise
+1 Culling Ritual
+1 Oversold Cemetery
+1 Mighty Emergence
+1 Garruk's Uprising
+1 Pernicious Deed
+1 Twists and Turns
+1 Vraska Joins Up
+1 Command Beacon
+1 Darkbore Pathway
+1 Breeding Pool
+1 Undergrowth Stadium
+1 Manor Gate
+1 Opal Palace
+1 Necroblossom Snarl
+1 Overgrown Tomb
+1 Golgari Rot Farm
+1 Wooded Foothills
+1 Exotic Orchard
+1 Polluted Delta
+1 Opulent Palace
+1 Island
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Llanowar Wastes
+7 Forest
+1 Dreamroot Cascade
+3 Swamp
+1 Twilight Mire
+1 Command Tower
+1 Woodland Chasm
+1 Temple of Mystery
+1 Temple of Malady
+1 Woodland Cemetery
+1 Viridescent Bog
+Sideboard
+1 Indominus Rex, Alpha

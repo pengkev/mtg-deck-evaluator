@@ -1,0 +1,86 @@
+1 Tin Street Dodger
+1 Legion Loyalist
+1 Changeling Outcast
+1 Fallen Shinobi
+1 Gingerbrute
+1 Scourge of Valkas
+1 Goblin Tunneler
+1 Thundermaw Hellkite
+1 Triton Shorestalker
+1 Sygg, River Cutthroat
+1 Impulsive Pilferer
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Nashi, Moon Sage's Scion
+1 Thousand-Faced Shadow
+1 Professional Face-Breaker
+1 Alora, Merry Thief
+1 Wrathful Red Dragon
+1 Goldspan Dragon
+1 Shivan Devastator
+1 Phoenix Chick
+1 Krenko, Mob Boss
+1 Orthion, Hero of Lavabrink
+1 Saheeli, the Sun's Brilliance
+1 Dimir House Guard
+1 Brudiclad, Telchor Engineer
+1 Tetsuko Umezawa, Fugitive
+1 Dimir Infiltrator
+1 Mistblade Shinobi
+1 Enduring Courage
+1 Silent Hallcreeper
+1 Axgard Cavalry
+1 Vnwxt, Verbose Host
+1 Hazoret, Godseeker
+1 Draconautics Engineer
+1 Loyal Apprentice
+1 Howlsquad Heavy
+1 Firkraag, Cunning Instigator
+1 Dragon's Hoard
+1 Cursed Mirror
+1 Sol Ring
+1 Arcane Signet
+1 Blade of Selves
+1 Terminate
+1 Rakdos Charm
+1 Snap
+1 Counterspell
+1 Reality Shift
+1 Last One Standing
+1 Fury of the Horde
+1 Relentless Assault
+1 Predators' Hour
+1 Last Chance
+1 Chain Reaction
+1 Hazardous Blast
+1 Feed the Swarm
+1 Blasphemous Act
+1 Breath of Fury
+1 Military Intelligence
+1 Sticky Fingers
+1 Mirror Room/Fractured Realm
+1 Mass Hysteria
+1 Maestros Theater
+1 Sulfurous Springs
+1 Choked Estuary
+1 Command Tower
+1 Dragonskull Summit
+1 Smoldering Marsh
+1 Crumbling Necropolis
+1 Sunken Hollow
+1 Terramorphic Expanse
+1 Drowned Catacomb
+1 Cascade Bluffs
+1 Evolving Wilds
+1 Stormcarved Coast
+1 Muraganda Raceway
+1 Frostboil Snarl
+1 Shivan Reef
+1 Sulfur Falls
+1 Exotic Orchard
+1 Path of Ancestry
+8 Mountain
+6 Island
+4 Swamp
+Sideboard
+1 Goro-Goro and Satoru

@@ -1,0 +1,101 @@
+1 Baleful Strix
+1 Blightsteel Colossus
+1 Changeling Outcast
+1 Dauthi Voidwalker
+1 Emrakul, the Promised End
+1 Gilded Drake
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Hydroelectric Specimen
+1 Mistblade Shinobi
+1 Mockingbird
+1 Mothdust Changeling
+1 Ninja of the Deep Hours
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phyrexian Walker
+1 Prosperous Thief
+1 Roaming Throne
+1 Sakashima's Student
+1 Shadow of Mortality
+1 Sheoldred, the Apocalypse
+1 Silver-Fur Master
+1 Snapcaster Mage
+1 Spectral Sailor
+1 Tetsuko Umezawa, Fugitive
+1 Thassa's Oracle
+1 Universal Automaton
+1 Valley Floodcaller
+1 Wingcrafter
+1 Wonder
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Borne Upon a Wind
+1 Brainstorm
+1 Commandeer
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Dig Through Time
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Insidious Dreams
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Sink into Stupor
+1 Tainted Pact
+1 Vampiric Tutor
+1 Waterlogged Teachings
+1 Demonic Tutor
+1 Enter the Enigma
+1 Imperial Seal
+1 Personal Tutor
+1 Reanimate
+1 Sea Gate Restoration
+1 Temporal Trespass
+1 Bloodchief Ascension
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Kaito, Bane of Nightmares
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Gloomlake Verge
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Shizo, Death's Storehouse
+1 Swamp
+1 Underground River
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+Sideboard
+1 Yuriko, the Tiger's Shadow

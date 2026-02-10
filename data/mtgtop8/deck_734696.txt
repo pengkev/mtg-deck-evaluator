@@ -1,0 +1,80 @@
+1 Amphibian Downpour
+1 Arbor Elf
+1 Arcane Denial
+1 Arcane Signet
+1 Beast Within
+1 Biomancer's Familiar
+1 Blighted Burgeoning
+1 Borne Upon a Wind
+1 Capsize
+1 Chord of Calling
+1 Colossal Skyturtle
+1 Command Tower
+1 Crop Rotation
+1 Dawn's Reflection
+1 Devastation Tide
+1 Dramatic Reversal
+1 Drift of Phantasms
+1 Eternal Witness
+1 Fertile Ground
+1 Flooded Grove
+1 Foil
+12 Forest
+1 Frantic Search
+1 Freed from the Real
+1 Galvanic Alchemist
+1 Glittering Frost
+1 Hinterland Harbor
+1 Into the Roil
+11 Island
+1 Isochron Scepter
+1 Kiora's Follower
+1 Krosan Restorer
+1 Laboratory Maniac
+1 Ley Weaver
+1 Lightning Greaves
+1 Lush Oasis
+1 Market Festival
+1 Marvin, Murderous Mimic
+1 Muddle the Mixture
+1 Nature's Claim
+1 Nature's Rhythm
+1 Negate
+1 Oboro Breezecaller
+1 Overflowing Basin
+1 Overgrowth
+1 Path of Ancestry
+1 Pemmin's Aura
+1 Pit of Offerings
+1 Portent Tracker
+1 Reliquary Tower
+1 Resculpt
+1 Sage of the Maze
+1 Sanctum Weaver
+1 Seedborn Muse
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Sol Ring
+1 Spelunking
+1 Stone-Seeder Hierophant
+1 Summoner's Pact
+1 Tatyova, Benthic Druid
+1 Teferi, Mage of Zhalfir
+1 Thornwood Falls
+1 Tolaria West
+1 Training Grounds
+1 Turnabout
+1 Unwind
+1 Utopia Sprawl
+1 Utter Insignificance
+1 Verdant Haven
+1 Vineglimmer Snarl
+1 Voidslime
+1 Voyaging Satyr
+1 Wash Away
+1 Waterlogged Grove
+1 Wild Growth
+1 Wolfwillow Haven
+1 Yavimaya Coast
+Sideboard
+1 Gretchen Titchwillow

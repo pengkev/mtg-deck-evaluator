@@ -1,0 +1,83 @@
+1 Benthic Biomancer
+1 Cold-Eyed Selkie
+1 Cosi's Trickster
+1 Deeproot Elite
+1 Emperor Mihail II
+1 Forerunner of the Heralds
+1 Hakbal of the Surging Soul
+1 Herald of Secret Streams
+1 Jadelight Spelunker
+1 Kiora, the Rising Tide
+1 Kiora's Follower
+1 Kopala, Warden of Waves
+1 Kumena's Speaker
+1 Lord of Atlantis
+1 Master of the Pearl Trident
+1 Merfolk Mistbinder
+1 Merfolk Sovereign
+1 Merrow Harbinger
+1 Merrow Reejerey
+1 Metallic Mimic
+1 Mist Dancer
+1 Mist-Cloaked Herald
+1 Prime Speaker Zegana
+1 Realmwalker
+1 Seafloor Oracle
+1 Seahunter
+1 Singer of Swift Rivers
+1 Stonybrook Banneret
+1 Summon: Leviathan
+1 Svyelun of Sea and Sky
+1 Thieving Skydiver
+1 Tidal Warrior
+1 Tide Shaper
+1 Tideshaper Mystic
+1 Tishana's Tidebinder
+1 Triton Shorestalker
+1 Vodalian Hexcatcher
+1 Arcane Signet
+1 Simic Signet
+1 Sol Ring
+1 Arcane Denial
+1 Auroral Procession
+1 Counterspell
+1 Foil
+1 Inspiring Call
+1 Mystical Dispute
+1 Rapid Hybridization
+1 Ripples of Potential
+1 Spell Pierce
+1 Aquitect's Will
+1 Crashing Tide
+1 Cultivate
+1 Explore
+1 Nature's Lore
+1 Rampant Growth
+1 Wave Goodbye
+1 Branching Evolution
+1 Court of Garenbrig
+1 Curiosity
+1 Deeproot Pilgrimage
+1 Deeproot Waters
+1 Hardened Scales
+1 Kindred Discovery
+1 Merrow Commerce
+1 Unstoppable Plan
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+7 Forest
+1 Hinterland Harbor
+13 Island
+1 Karn's Bastion
+1 Mistrise Village
+1 Path of Ancestry
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Secluded Courtyard
+1 Tangled Islet
+1 Unclaimed Territory
+1 Willowrush Verge
+1 Yavimaya Coast
+Sideboard
+1 Kumena, Tyrant of Orazca

@@ -1,0 +1,86 @@
+1 Adeline, Resplendent Cathar
+1 Battle Angels of Tyr
+1 Boggart Trawler
+1 Breathless Knight
+1 Cavalier of Dawn
+1 Cavalier of Night
+1 Changeling Outcast
+1 Dion, Bahamut's Dominant
+1 Ethersworn Adjudicator
+1 Exsanguinator Cavalry
+1 Faerie Mastermind
+1 Forsworn Paladin
+1 Glen Elendra Liege
+1 Haakon, Stromgald Scourge
+1 Haytham Kenway
+1 Herald of Hoofbeats
+1 Hero of Bladehold
+1 Kinsbaile Cavalier
+1 Knight Exemplar
+1 Knight of Dusk's Shadow
+1 Kwende, Pride of Femeref
+1 Moonshaker Cavalry
+1 Mother of Runes
+1 Murderous Rider
+1 Silverblade Paladin
+1 Skyhunter Strike Force
+1 Summon: Knights of Round
+1 Summon: Primal Odin
+1 Suppressor Skyguard
+1 Syr Vondam, Sunstar Exemplar
+1 Thistledown Liege
+1 Valiant Knight
+1 Vodalian Wave-Knight
+1 Werefox Bodyguard
+1 Arcane Signet
+1 Conjurer's Mantle
+1 Dimir Signet
+1 Lightning Greaves
+1 Orzhov Signet
+1 Patchwork Banner
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The Everflowing Well
+1 Urza's Incubator
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Fell the Profane
+1 Infernal Grasp
+1 Path to Exile
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Virtue of Loyalty
+1 Damn
+1 Patriarch's Bidding
+1 Raise the Palisade
+1 Reanimate
+1 Supreme Verdict
+1 Windfall
+1 Chivalric Alliance
+1 Rhystic Study
+1 Invasion of New Phyrexia
+1 Arcane Sanctum
+1 Command Tower
+1 Dakmor Salvage
+1 Darkwater Catacombs
+1 Deserted Beach
+1 Desolate Mire
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Godless Shrine
+6 Island
+1 Isolated Chapel
+8 Plains
+1 Prairie Stream
+1 Secluded Courtyard
+1 Shipwreck Marsh
+1 Skycloud Expanse
+4 Swamp
+1 Watery Grave
+Sideboard
+1 Sidar Jabari of Zhalfir

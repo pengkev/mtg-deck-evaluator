@@ -1,0 +1,101 @@
+1 Angel of Glory's Rise
+1 Balustrade Spy
+1 Birds of Paradise
+1 Boggart Trawler
+1 Combat Courier
+1 Deathrite Shaman
+1 Disciple of Freyalise
+1 Drowner of Truth
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Grand Abolisher
+1 Hermit Druid
+1 Hogaak, Arisen Necropolis
+1 Hydroelectric Specimen
+1 Ignoble Hierarch
+1 Imperial Recruiter
+1 Laboratory Maniac
+1 Narcomoeba
+1 Noble Hierarch
+1 Phantasmagorian
+1 Pinnacle Monk
+1 Poxwalkers
+1 Simian Spirit Guide
+1 Spellseeker
+1 Thassa's Oracle
+1 Tinder Wall
+1 Undercity Informer
+1 Voice of Victory
+1 Wild Cantor
+1 Witch Enchanter
+1 Yawgmoth, Thran Physician
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Jack-o'-Lantern
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Paradise Mantle
+1 Pentad Prism
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Abrupt Decay
+1 Ancient Grudge
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Fell the Profane
+1 Fierce Guardianship
+1 Force of Will
+1 Malakir Rebirth
+1 Memory's Journey
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Pact of Negation
+1 Rain of Filth
+1 Razorgrass Ambush
+1 Revitalizing Repast
+1 Rush of Inspiration
+1 Silence
+1 Sink into Stupor
+1 Turn the Earth
+1 Vampiric Tutor
+1 Veil of Summer
+1 Waterlogged Teachings
+1 Worldly Tutor
+1 Agadeem's Awakening
+1 Beseech the Mirror
+1 Bloodsoaked Insight
+1 Bridgeworks Battle
+1 Cabal Therapy
+1 Demonic Tutor
+1 Destroy the Evidence
+1 Diabolic Intent
+1 Dread Return
+1 Eldritch Evolution
+1 Emeria's Call
+1 Imperial Seal
+1 Lively Dirge
+1 Neoform
+1 Reanimate
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Shatterskull Smashing
+1 Stump Stomp
+1 Sundering Eruption
+1 Turntimber Symbiosis
+1 Unburial Rites
+1 Bridge from Below
+1 Carpet of Flowers
+1 Glasswing Grace
+Sideboard
+1 Ezio Auditore da Firenze

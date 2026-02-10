@@ -1,0 +1,97 @@
+1 Aftermath Analyst
+1 Angel of Suffering
+1 Arcane Signet
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Avoid Fate
+1 Birds of Paradise
+1 Bitter Triumph
+1 Blasphemous Act
+1 Blasphemous Edict
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boggart Trawler
+1 Boseiju, Who Endures
+1 Bronze Bombshell
+1 Buried Alive
+1 Cathartic Reunion
+1 Collector Ouphe
+1 Command Tower
+1 Commercial District
+1 Conduit of Worlds
+1 Dakmor Salvage
+1 Damnation
+1 Dark Ritual
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Doom Whisperer
+1 Eater of Days
+1 Elves of Deep Shadow
+1 Entomb
+1 Eternal Witness
+1 Faithless Looting
+1 Fell the Profane
+3 Forest
+1 Ghostfire Slice
+1 Golgari Grave-Troll
+1 Golgari Thug
+1 Grisly Salvage
+1 Hermit Druid
+1 Heroic Intervention
+1 Ignoble Hierarch
+1 Inverter of Truth
+1 Karplusan Forest
+1 Lava Dart
+1 Lightning Greaves
+1 Llanowar Wastes
+1 Lotus Petal
+1 Magewright's Stone
+1 Marsh Flats
+1 Marvin, Murderous Mimic
+1 Mesmeric Orb
+1 Misty Rainforest
+1 Mithril Coat
+2 Mountain
+1 Night's Whisper
+1 Orcish Lumberjack
+1 Overgrown Tomb
+1 Phyrexian Negator
+1 Pillage the Bog
+1 Polluted Delta
+1 Prismatic Vista
+1 Pyroblast
+1 Quest for Renewal
+1 Raucous Theater
+1 Red Elemental Blast
+1 Riftsweeper
+1 Rockfall Vale
+1 Scalding Tarn
+1 Shifting Woodland
+1 Six
+1 Smuggler's Surprise
+1 Sol Ring
+1 Soulgorger Orgg
+1 Sting, the Glinting Dagger
+1 Stinkweed Imp
+1 Stitcher's Supplier
+1 Stomping Ground
+1 Sulfurous Springs
+2 Swamp
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Takenuma, Abandoned Mire
+1 Tamiyo's Safekeeping
+1 Thornbite Staff
+1 Toxic Deluge
+1 Tyvar's Stand
+1 Underground Mortuary
+1 Unmarked Grave
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Wild Growth
+1 Wooded Foothills
+1 World Shaper
+1 Ziatora's Proving Ground
+Sideboard
+1 The Beamtown Bullies

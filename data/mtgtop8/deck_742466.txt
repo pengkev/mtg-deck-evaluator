@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Deathrite Shaman
+1 Devoted Druid
+1 Displacer Kitten
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Glarb, Calamity's Augur
+1 Hullbreaker Horror
+1 Kinnan, Bonder Prodigy
+1 Nezahal, Primal Tide
+1 Opposition Agent
+1 Phantasmal Image
+1 Razaketh, the Foulblooded
+1 Seedborn Muse
+1 Spellseeker
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Isochron Scepter
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Sol Ring
+1 Abrupt Decay
+1 An Offer You Can't Refuse
+1 Assassin's Trophy
+1 Borne Upon a Wind
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Gifts Ungiven
+1 Lim-Dul's Vault
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Noxious Revival
+1 Sacrifice
+1 Sink into Stupor
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Life/Death
+1 Neoform
+1 Reanimate
+1 Toxic Deluge
+1 Animate Dead
+1 Carpet of Flowers
+1 Copy Enchantment
+1 Mirrormade
+1 Mystic Remora
+1 Necromancy
+1 Rhystic Study
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Overgrown Tomb
+1 Polluted Delta
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Tasigur, the Golden Fang

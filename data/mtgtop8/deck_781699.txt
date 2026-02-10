@@ -1,0 +1,101 @@
+1 "Name Sticker" Goblin
+1 Altar of the Wretched
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Deadpool, Trading Card
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Fyndhorn Elves
+1 Gilded Goose
+1 Ignoble Hierarch
+1 Impulsive Pilferer
+1 Llanowar Elves
+1 Orcish Lumberjack
+1 Ragavan, Nimble Pilferer
+1 Rakdos, the Muscle
+1 Razaketh, the Foulblooded
+1 Ruthless Technomancer
+1 Simian Spirit Guide
+1 Spider Manifestation
+1 Spider-Punk
+1 Tinder Wall
+1 Wild Cantor
+1 Altar of Dementia
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Prized Statue
+1 Relic of Legends
+1 Sol Ring
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Ad Nauseam
+1 Autumn's Veil
+1 Burnt Offering
+1 Cabal Ritual
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Entomb
+1 Final Fortune
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Sacrifice
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Mirror
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Gamble
+1 Imperial Seal
+1 Infernal Plunge
+1 Nature's Rhythm
+1 Reanimate
+1 Rite of Flame
+1 Wheel of Fortune
+1 Goblin Bombardment
+1 Greater Good
+1 Necropotence
+1 Pattern of Rebirth
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Mana Confluence
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Dargo, the Shipwrecker
+1 Reyhan, Last of the Abzan

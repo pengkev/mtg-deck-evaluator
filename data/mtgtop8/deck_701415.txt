@@ -1,0 +1,101 @@
+1 Spellskite
+1 Aphetto Alchemist
+1 Teardrop Kami
+1 Snapcaster Mage
+1 Yusri, Fortune's Flame
+1 Fury
+1 Ragavan, Nimble Pilferer
+1 Spellseeker
+1 Simian Spirit Guide
+1 Ral, Monsoon Mage
+1 Kitsa, Otterball Elite
+1 Marvin, Murderous Mimic
+1 Faerie Mastermind
+1 Mox Opal
+1 Jeweled Amulet
+1 Mana Vault
+1 Fellwar Stone
+1 Mox Diamond
+1 Mox Amber
+1 Chrome Mox
+1 Mishra's Bauble
+1 Sol Ring
+1 The One Ring
+1 Talisman of Creativity
+1 Arcane Signet
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Defense Grid
+1 Swan Song
+1 Expedite
+1 Pyretic Ritual
+1 Peek
+1 Thunderclap
+1 Tidal Bore
+1 Snap
+1 Gut Shot
+1 Refocus
+1 Daze
+1 Jolt
+1 Red Elemental Blast
+1 Chain of Vapor
+1 Pact of Negation
+1 Cerulean Wisps
+1 Mystical Tutor
+1 An Offer You Can't Refuse
+1 Deflecting Swat
+1 Pyroblast
+1 Brainstorm
+1 Expansion/Explosion
+1 Mindbreak Trap
+1 Commandeer
+1 Sink into Stupor
+1 Shore Up
+1 Mental Misstep
+1 Twitch
+1 Dramatic Reversal
+1 Borne Upon a Wind
+1 Flusterstorm
+1 Force of Will
+1 Fierce Guardianship
+1 Rite of Flame
+1 Hidden Strings
+1 Merchant Scroll
+1 Sea Gate Restoration
+1 Jeska's Will
+1 Solve the Equation
+1 Strike It Rich
+1 Personal Tutor
+1 Twisted Fealty
+1 Ponder
+1 Finale of Promise
+1 Gitaxian Probe
+1 Rhystic Study
+1 Mystic Remora
+1 Minamo, School at Water's Edge
+1 City of Brass
+1 Fiery Islet
+1 Mana Confluence
+1 Volcanic Island
+1 City of Traitors
+1 Polluted Delta
+1 Training Center
+1 Misty Rainforest
+1 Arid Mesa
+1 Flooded Strand
+1 Bloodstained Mire
+1 Ancient Tomb
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Shivan Reef
+1 Gemstone Caverns
+1 Steam Vents
+1 Thundering Falls
+1 Exotic Orchard
+1 Command Tower
+1 Mountain
+1 Island
+1 Arena of Glory
+1 Forbidden Orchard
+Sideboard
+1 Stella Lee, Wild Card

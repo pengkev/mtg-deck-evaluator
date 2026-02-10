@@ -1,0 +1,79 @@
+1 Archetype of Imagination
+1 Magus of the Moat
+1 Warden of Evos Isle
+1 Aven Gagglemaster
+1 Watcher of the Spheres
+1 Empyrean Eagle
+1 Sephara, Sky's Blade
+1 Thunderclap Wyvern
+1 Archon of Redemption
+1 Steel-Plume Marshal
+1 Windreader Sphinx
+1 Jubilant Skybonder
+1 Skycat Sovereign
+1 Pride of the Clouds
+1 Remorseful Cleric
+1 Kangee's Lieutenant
+1 Donal, Herald of Wings
+1 Defiler of Dreams
+1 Errant and Giada
+1 Kitesail Larcenist
+1 Siren Stormtamer
+1 Aerial Extortionist
+1 Harrier Strix
+1 Arcane Signet
+1 Lightning Greaves
+1 Commander's Sphere
+1 Hedron Archive
+1 Azorius Signet
+1 Sol Ring
+1 Kefnet's Monument
+1 Swiftfoot Boots
+1 Bident of Thassa
+1 Lavaspur Boots
+1 Pearl Medallion
+1 Sapphire Medallion
+1 Conjurer's Closet
+1 Cancel
+1 Counterspell
+1 Disenchant
+1 Swords to Plowshares
+1 Absorb
+1 Crush Contraband
+1 Path to Exile
+1 Negate
+1 Condemn
+1 Rally of Wings
+1 Brainstorm
+1 Deluge
+1 Aetherize
+1 Generous Gift
+1 Sphinx's Revelation
+1 Essence Flux
+1 Approach of the Second Sun
+1 Contingency Plan
+1 Winged Words
+1 Storm Herd
+1 Time Wipe
+1 Cleansing Nova
+1 Alrund's Epiphany
+1 Irenicus's Vile Duplication
+1 True Conviction
+1 Staggering Insight
+1 Favorable Winds
+1 Ever-Watching Threshold
+1 Coastal Piracy
+12 Island
+12 Plains
+1 Temple of Enlightenment
+1 Command Tower
+1 Reliquary Tower
+1 Sejiri Refuge
+1 Tranquil Cove
+1 Prairie Stream
+1 Meandering River
+1 Moorland Haunt
+1 Port Town
+1 Coastal Tower
+Sideboard
+1 Medomai the Ageless

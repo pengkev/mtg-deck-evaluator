@@ -1,0 +1,85 @@
+1 Clever Impersonator
+1 Duskmantle Guildmage
+1 Grazilaxx, Illithid Scholar
+1 Grim Servant
+1 Hullbreaker Horror
+1 Kitesail Larcenist
+1 Laboratory Maniac
+1 Malcolm, Keen-Eyed Navigator
+1 Malevolent Hermit
+1 Notion Thief
+1 Rug of Smothering
+1 Siren Stormtamer
+1 Thassa's Oracle
+1 Thief of Sanity
+1 Vnwxt, Verbose Host
+1 Volatile Stormdrake
+1 Aether Syphon
+1 Arcane Signet
+1 Bident of Thassa
+1 Conqueror's Flail
+1 Cursed Totem
+1 Fellwar Stone
+1 Mindcrank
+1 Mirage Mirror
+1 Racers' Scoreboard
+1 Riverchurn Monument
+1 Sol Ring
+1 Starting Column
+1 Talisman of Dominance
+1 Weathered Runestone
+1 Wishclaw Talisman
+1 Alchemist's Retrieval
+1 Boomerang
+1 Borne Upon a Wind
+1 Counterspell
+1 Countersquall
+1 Dark Ritual
+1 Demonic Consultation
+1 Disdainful Stroke
+1 Dispel
+1 Drown in the Loch
+1 Flusterstorm
+1 Frantic Search
+1 Muddle the Mixture
+1 Mystical Dispute
+1 Negate
+1 Resculpt
+1 Spell Stutter
+1 Stern Scolding
+1 Strix Serenade
+1 Trickbind
+1 Inevitable Betrayal
+1 Lively Dirge
+1 Massacre
+1 Profane Tutor
+1 Ringsight
+1 Windfall
+1 Yahenni's Expertise
+1 Amphibian Downpour
+1 Bloodchief Ascension
+1 Dress Down
+1 Hour of Victory
+1 Leyline of Anticipation
+1 Seal of Removal
+1 Telepathy
+1 Narset, Parter of Veils
+1 Bojuka Bog
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Halimar Depths
+10 Island
+1 Muraganda Raceway
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Sinister Hideout
+1 Sunken Hollow
+8 Swamp
+1 Tainted Isle
+1 Thriving Isle
+1 Underground River
+Sideboard
+1 Talion, the Kindly Lord

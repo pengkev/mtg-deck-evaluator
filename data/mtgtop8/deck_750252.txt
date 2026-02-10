@@ -1,0 +1,101 @@
+1 Basal Sliver
+1 Belligerent Sliver
+1 Blur Sliver
+1 Bonescythe Sliver
+1 Brood Sliver
+1 Capricious Sliver
+1 Cleaving Sliver
+1 Clot Sliver
+1 Cloudshredder Sliver
+1 Constricting Sliver
+1 Crypt Sliver
+1 Crystalline Sliver
+1 Elvish Spirit Guide
+1 Firewake Sliver
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Hatchery Sliver
+1 Lancer Sliver
+1 Manaweft Sliver
+1 Megantic Sliver
+1 Might Sliver
+1 Mockingbird
+1 Muscle Sliver
+1 Opaline Sliver
+1 Predatory Sliver
+1 Quick Sliver
+1 Reflex Sliver
+1 Root Sliver
+1 Sentinel Sliver
+1 Shadow Sliver
+1 Shifting Sliver
+1 Simian Spirit Guide
+1 Sinew Sliver
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Spinneret Sliver
+1 Striking Sliver
+1 Synapse Sliver
+1 The First Sliver
+1 Two-Headed Sliver
+1 Venom Sliver
+1 Virulent Sliver
+1 Winged Sliver
+1 Arcane Signet
+1 Herald's Horn
+1 Lotus Petal
+1 Semblance Anvil
+1 Sol Ring
+1 Thrumming Hivepool
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Mana Drain
+1 Seething Song
+1 Diabolic Intent
+1 Gitaxian Probe
+1 Grim Tutor
+1 Metamorphosis
+1 Rite of Flame
+1 Curiosity
+1 Elven Chorus
+1 Mystic Remora
+1 Sylvan Library
+1 Urza's Saga
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Cavern of Souls
+1 Crystal Vein
+1 Elegant Parlor
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Hedge Maze
+1 Lush Portico
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Raucous Theater
+1 Sacred Foundry
+1 Scalding Tarn
+1 Shadowy Backstreet
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 Thundering Falls
+1 Undercity Sewers
+1 Underground Mortuary
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Morophon, the Boundless

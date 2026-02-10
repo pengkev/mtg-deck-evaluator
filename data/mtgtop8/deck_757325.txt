@@ -1,0 +1,73 @@
+1 Anax, Hardened in the Forge
+1 Anger
+1 Archetype of Aggression
+1 Brallin, Skyshark Rider
+1 Cavalier of Flame
+1 Combat Celebrant
+1 Conspiracy Theorist
+1 Defiler of Instinct
+1 Fanatic of Mogis
+1 Feldon of the Third Path
+1 Glint-Horn Buccaneer
+1 Inti, Seneschal of the Sun
+1 Ivora, Insatiable Heir
+1 Jaxis, the Troublemaker
+1 Marauding Mako
+1 Neheb, the Eternal
+1 Pinnacle Monk
+1 Purphoros, Bronze-Blooded
+1 Runaway Steam-Kin
+1 Sabin, Master Monk
+1 Summon: Esper Valigarmanda
+1 Surly Badgersaur
+1 Terrapact Intimidator
+1 Tersa Lightshatter
+1 Torbran, Thane of Red Fell
+1 Zookeeper Mechan
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Conjurer's Closet
+1 Feldon's Cane
+1 Hazoret's Monument
+1 Monument to Endurance
+1 Nyx Lotus
+1 Ruby Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Fire Crystal
+1 Thought Vessel
+1 Big Score
+1 Bolt Bend
+1 Chaos Warp
+1 Laughing Mad
+1 Lightning Bolt
+1 Return the Favor
+1 Untimely Malfunction
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Disrupt Decorum
+1 Electroduplicate
+1 Faithless Looting
+1 Rousing Refrain
+1 Snort
+1 Sorceress's Schemes
+1 Sundering Eruption
+1 Vandalblast
+1 Visions of Ruin
+1 Charred Foyer/Warped Space
+1 Count on Luck
+1 Gratuitous Violence
+1 Rising of the Day
+1 Triple Triad
+1 Warstorm Surge
+1 Chandra, Torch of Defiance
+1 Command Beacon
+1 Evolving Wilds
+29 Mountain
+1 Reliquary Tower
+1 Rogue's Passage
+1 Terramorphic Expanse
+1 War Room
+1 Witch's Clinic
+Sideboard
+1 Clive, Ifrit's Dominant

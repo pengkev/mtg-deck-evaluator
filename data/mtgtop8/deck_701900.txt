@@ -1,0 +1,73 @@
+1 Merfolk Secretkeeper
+1 Cephalid Constable
+1 Nascent Metamorph
+1 Invisible Stalker
+1 Windrider Wizard
+1 Siren Stormtamer
+1 Looter il-Kor
+1 Wonder
+1 Ornithopter of Paradise
+1 Mercurial Spelldancer
+1 Chrome Host Seedshark
+1 Picklock Prankster
+1 Slither Blade
+1 Ghostly Pilferer
+1 Shoreline Looter
+1 Azure Beastbinder
+1 Silent Hallcreeper
+1 Deranged Assistant
+1 The Magic Mirror
+1 Runechanter's Pike
+1 Thought Vessel
+1 Shadow Rift
+1 Muddle the Mixture
+1 Think Twice
+1 Trickbind
+1 Stubborn Denial
+1 Dramatic Reversal
+1 Opt
+1 Swan Song
+1 Counterspell
+1 Gigadrowse
+1 Defy Gravity
+1 Mental Note
+1 Jwari Disruption
+1 Consider
+1 An Offer You Can't Refuse
+1 Thought Scour
+1 Brainstorm
+1 Snap
+1 Frantic Search
+1 Radical Idea
+1 Rapid Hybridization
+1 Mission Briefing
+1 Sink into Stupor
+1 Arcane Denial
+1 Reality Shift
+1 Otherworldly Gaze
+1 Whelming Wave
+1 Serum Visions
+1 Quiet Speculation
+1 Artful Dodge
+1 Preordain
+1 Bond of Insight
+1 Train of Thought
+1 Gitaxian Probe
+1 Ponder
+1 Slip Through Space
+1 Windfall
+1 Cloak of Feathers
+1 Spectral Deluge
+1 Consuming Tide
+1 Deep Analysis
+1 Enter the Enigma
+1 Mystic Remora
+1 Invasion of Segovia
+1 Mystic Sanctuary
+1 Faerie Conclave
+1 Reliquary Tower
+1 Rogue's Passage
+1 Arcane Lighthouse
+29 Island
+Sideboard
+1 Octavia, Living Thesis

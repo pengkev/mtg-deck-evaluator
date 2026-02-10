@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Faerie Mastermind
+1 Pinnacle Monk
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Valley Floodcaller
+1 Vivi Ornitier
+1 Arcane Signet
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Creativity
+1 Big Score
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Complete the Circuit
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Desperate Ritual
+1 Electrodominance
+1 Ertai's Meddling
+1 Fierce Guardianship
+1 Final Fortune
+1 Flash of Insight
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Fury Storm
+1 Ghostly Flicker
+1 Gifts Ungiven
+1 Increasing Vengeance
+1 Intuition
+1 Invert/Invent
+1 Invoke Calamity
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Narset's Reversal
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Reiterate
+1 Return the Favor
+1 Seething Song
+1 Sink into Stupor
+1 Snap
+1 Swan Song
+1 Trickbind
+1 Bond of Insight
+1 Gamble
+1 Gitaxian Probe
+1 Inspired Tinkering
+1 Jeska's Will
+1 Lock and Load
+1 Merchant Scroll
+1 Mizzix's Mastery
+1 Mystic Retrieval
+1 Overmaster
+1 Past in Flames
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Shatterskull Smashing
+1 Solve the Equation
+1 Sorceress's Schemes
+1 Tezzeret's Gambit
+1 Will of the Jeskai
+1 Zenith Festival
+1 Clout of the Dominus
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 Cephalid Coliseum
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Fiery Islet
+1 Gemstone Caverns
+1 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverglide Pathway
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+Sideboard
+1 Mizzix of the Izmagnus

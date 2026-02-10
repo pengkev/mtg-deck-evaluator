@@ -1,0 +1,80 @@
+1 Goblin Fireslinger
+1 Fanatical Firebrand
+1 Reckless Lackey
+1 Monastery Swiftspear
+1 Grim Lavamancer
+1 Mogg Fanatic
+1 Bloodthirsty Adversary
+1 Loyal Apprentice
+1 Eidolon of the Great Revel
+1 Feldon, Ronom Excavator
+1 Inti, Seneschal of the Sun
+1 Kari Zev, Skyship Raider
+1 Charming Scoundrel
+1 Viashino Pyromancer
+1 Generous Plunderer
+1 Keldon Marauders
+1 Breeches, Eager Pillager
+1 Broadside Bombardiers
+1 Captain Lannery Storm
+1 Bonecrusher Giant
+1 Professional Face-Breaker
+1 Tersa Lightshatter
+1 Urabrask
+1 Fury
+1 Bedlam Reveler
+1 Goldhound
+1 Mishra's Bauble
+1 Urza's Bauble
+1 Scrabbling Claws
+1 Play with Fire
+1 Unholy Heat
+1 Shock
+1 Galvanic Discharge
+1 Burst Lightning
+1 Galvanic Blast
+1 Lightning Bolt
+1 Wild Slash
+1 Abrade
+1 Lightning Strike
+1 Incinerate
+1 Searing Blaze
+1 Searing Spear
+1 Skullcrack
+1 Searing Blood
+1 Flames of the Blood Hand
+1 Volcanic Fallout
+1 Ghostfire Slice
+1 Mine Collapse
+1 Fireblast
+1 Lava Spike
+1 Strike It Rich
+1 Flame Slash
+1 Forked Bolt
+1 Chain Lightning
+1 Lithomantic Barrage
+1 Wrenn's Resolve
+1 Roil Eruption
+1 Reckless Impulse
+1 Scorching Shot
+1 Skewer the Critics
+1 Molten Rain
+1 Exquisite Firecraft
+1 Light Up the Stage
+1 Rift Bolt
+1 Fiery Confluence
+1 Seal of Fire
+1 Roiling Vortex
+1 Chandra, Dressed to Kill
+1 Castle Embereth
+1 Amonkhet Raceway
+1 Tectonic Edge
+1 Den of the Bugbear
+1 Sunscorched Desert
+1 Mishra's Factory
+22 Mountain
+1 Barbarian Ring
+1 Ramunap Ruins
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Magda, the Hoardmaster

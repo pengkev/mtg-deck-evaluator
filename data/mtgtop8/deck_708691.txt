@@ -1,0 +1,87 @@
+1 Nightveil Specter
+1 Nightscape Familiar
+1 Breeches, Brazen Plunderer
+1 Malcolm, Keen-Eyed Navigator
+1 Xanathar, Guild Kingpin
+1 Professional Face-Breaker
+1 Brainstealer Dragon
+1 Ramirez DePietro, Pillager
+1 Plargg and Nassari
+1 Grima, Saruman's Footman
+1 Decadent Dragon
+1 Coercive Recruiter
+1 Dire Fleet Daredevil
+1 Hostage Taker
+1 Laughing Jasper Flint
+1 Thieving Varmint
+1 Dazzling Sphinx
+1 Nashi, Moon Sage's Scion
+1 Thieving Amalgam
+1 Thief of Sanity
+1 Hydroelectric Specimen
+1 Grenzo, Havoc Raiser
+1 Pinnacle Monk
+1 Elder Brain
+1 Breeches, Eager Pillager
+1 Swiftfoot Boots
+1 Rakdos Signet
+1 Talisman of Creativity
+1 Lightning Greaves
+1 Sol Ring
+1 Arcane Signet
+1 Dimir Signet
+1 Talisman of Dominance
+1 Fellwar Stone
+1 Izzet Signet
+1 Wand of Wonder
+1 Negate
+1 Counterspell
+1 Hurl Through Hell
+1 Outrageous Robbery
+1 Siphon Insight
+1 Fell the Profane
+1 Invert Polarity
+1 Untimely Malfunction
+1 Withering Torment
+1 Abrade
+1 Pongify
+1 Bribery
+1 Insurrection
+1 Blasphemous Act
+1 Fevered Suspicion
+1 Breach the Multiverse
+1 Seize the Spotlight
+1 Extract Brain
+1 Cruelclaw's Heist
+1 Animate Dead
+1 King Narfi's Betrayal
+1 Propaganda
+1 Leyline of Anticipation
+1 Court of Locthwain
+1 Stolen Strategy
+1 Cunning Rhetoric
+1 Black Market Connections
+1 Rain of Riches
+1 Crumbling Necropolis
+1 Smoldering Marsh
+1 Bojuka Bog
+1 Reliquary Tower
+1 Mortuary Mire
+1 Exotic Orchard
+1 Command Tower
+1 Frostboil Snarl
+1 Haunted Ridge
+1 Darkwater Catacombs
+1 Foreboding Ruins
+1 Seething Landscape
+1 Shivan Reef
+1 Drowned Catacomb
+1 Sulfur Falls
+1 Dragonskull Summit
+1 Sunken Hollow
+6 Swamp
+6 Island
+5 Mountain
+1 Stormcarved Coast
+Sideboard
+1 Don Andres, the Renegade

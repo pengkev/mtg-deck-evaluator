@@ -1,0 +1,99 @@
+1 Displacer Kitten
+1 Dragon's Rage Channeler
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Grand Abolisher
+1 Imperial Recruiter
+1 Party Thrasher
+1 Professional Face-Breaker
+1 Simian Spirit Guide
+1 Spellseeker
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Arcane Signet
+1 Chrome Mox
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Opal
+1 Skullclamp
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The One Ring
+1 Torpor Orb
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 March of Swirling Mist
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Pyroblast
+1 Rapid Hybridization
+1 Reprieve
+1 Siege Smash
+1 Silence
+1 Snap
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Fabricate
+1 Faithless Looting
+1 Gamble
+1 Idyllic Tutor
+1 Jeska's Will
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Step Through
+1 Strike It Rich
+1 Windfall
+1 Blind Obedience
+1 Dress Down
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Gemstone Caverns
+1 Hallowed Fountain
+3 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Riverglide Pathway
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sokenzan, Crucible of Defiance
+1 Steam Vents
+1 Windswept Heath
+Sideboard
+1 Kykar, Wind's Fury

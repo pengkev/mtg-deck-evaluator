@@ -1,0 +1,89 @@
+1 Academy Manufactor
+1 Archivist of Oghma
+1 Aurelia, the Warleader
+1 Brazen Borrower
+1 Danny Pink
+1 Enduring Curiosity
+1 Faerie Mastermind
+1 Goldspan Dragon
+1 Guardian of Faith
+1 Hellkite Tyrant
+1 Herald of Secret Streams
+1 Knuckles the Echidna
+1 Krark-Clan Shaman
+1 Legion Loyalist
+1 Magda, Brazen Outlaw
+1 Magda, the Hoardmaster
+1 Masako the Humorless
+1 Merry, Esquire of Rohan
+1 Monastery Swiftspear
+1 Phoenix Chick
+1 Plumecreed Escort
+1 Rabbit Battery
+1 Reckless Fireweaver
+1 Reckless Lackey
+1 Screaming Nemesis
+1 Sentinel Sarah Lyons
+1 Spectacular Spider-Man
+1 Spectral Sailor
+1 Subtlety
+1 The Wandering Rescuer
+1 Thundering Raiju
+1 Urabrask the Hidden
+1 Winged Hive Tyrant
+1 Arcane Signet
+1 Caltrops
+1 Fellwar Stone
+1 Lightning Greaves
+1 Lotus Petal
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 An Offer You Can't Refuse
+1 Cinderclasm
+1 Counterspell
+1 Fire Magic
+1 Flawless Maneuver
+1 Seismic Shudder
+1 Swan Song
+1 Unwind
+1 Fabricate
+1 Full Throttle
+1 Open the Armory
+1 Rolling Earthquake
+1 Split Up
+1 All Will Be One
+1 Frostcliff Siege
+1 Military Intelligence
+1 Pyrohemia
+1 Reconnaissance
+1 Rest in Peace
+1 Super State
+1 Unstoppable Plan
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Command Tower
+1 Deserted Beach
+1 Fabled Passage
+1 Fiery Islet
+1 Flooded Strand
+1 Hallowed Fountain
+5 Island
+1 Minas Tirith
+6 Mountain
+1 Mystic Gate
+4 Plains
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scavenger Grounds
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sunbaked Canyon
+1 Sundown Pass
+Sideboard
+1 Sonic the Hedgehog

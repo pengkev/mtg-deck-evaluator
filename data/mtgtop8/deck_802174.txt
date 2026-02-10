@@ -1,0 +1,78 @@
+1 Armored Scrapgorger
+1 Birds of Paradise
+1 Bloom Tender
+1 Colossal Skyturtle
+1 Devoted Druid
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Enduring Vitality
+1 Eternal Witness
+1 Frilled Mystic
+1 Fyndhorn Elves
+1 Gene Pollinator
+1 Gyre Engineer
+1 Hullbreaker Horror
+1 Ilysian Caryatid
+1 Incubation Druid
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Manglehorn
+1 Maraleaf Pixie
+1 Ornithopter of Paradise
+1 Paradise Druid
+1 Perplexing Chimera
+1 Phyrexian Metamorph
+1 Poison Dart Frog
+1 Prismite
+1 Prophet of Distortion
+1 Reclamation Sage
+1 Seedborn Muse
+1 Spectral Sailor
+1 Sylvan Caryatid
+1 The Unagi of Kyoshi Island
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Wandering Archaic
+1 Arcane Signet
+1 Basalt Monolith
+1 Energy Refractor
+1 Fellwar Stone
+1 Machine God's Effigy
+1 Mirage Mirror
+1 Moonsilver Key
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 Urn of Godfire
+1 Arcane Denial
+1 Beast Within
+1 Chord of Calling
+1 Counterspell
+1 Mana Leak
+1 March of Swirling Mist
+1 Miscast
+1 Muddle the Mixture
+1 Negate
+1 Pongify
+1 Stroke of Genius
+1 Whir of Invention
+1 Fabricate
+1 Nature's Rhythm
+1 Neoform
+1 Regrowth
+1 Freed from the Real
+1 Leyline of Abundance
+1 Pemmin's Aura
+1 Unstoppable Plan
+1 Exotic Orchard
+12 Forest
+1 Hinterland Harbor
+13 Island
+1 Treasure Vault
+1 Waterlogged Grove
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,80 @@
+1 Faerie Harbinger
+1 Wavebreak Hippocamp
+1 Cunning Nightbonder
+1 Consuming Aberration
+1 Glen Elendra Pranksters
+1 Obyra, Dreaming Duelist
+1 Mocking Sprite
+1 Spellscorn Coven
+1 Picklock Prankster
+1 Blightwing Bandit
+1 Archmage of Echoes
+1 Malleable Impostor
+1 Faerie Seer
+1 Glen Elendra Archmage
+1 Nightveil Sprite
+1 Quickling
+1 Scion of Oona
+1 Brazen Borrower
+1 Glen Elendra Liege
+1 Hullbreaker Horror
+1 Hypnotic Sprite
+1 Nymris, Oona's Trickster
+1 Oona, Queen of the Fae
+1 Spellstutter Sprite
+1 Likeness Looter
+1 Tegwyll, Duke of Splendor
+1 Misleading Signpost
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Talisman of Dominance
+1 Thought Vessel
+1 Sapphire Medallion
+1 Patchwork Banner
+1 Brainstorm
+1 Infernal Grasp
+1 Spell Stutter
+1 Snap
+1 Arcane Denial
+1 Illusionist's Gambit
+1 Consider
+1 Fact or Fiction
+1 Frantic Search
+1 Keep Watch
+1 Opt
+1 Perplexing Test
+1 Run Away Together
+1 Repulse
+1 Thrilling Encore
+1 Aetherize
+1 Waterlogged Teachings
+1 Refute
+1 Tegwyll's Scouring
+1 Distant Melody
+1 Kindred Dominance
+1 Nightmare Unmaking
+1 Bitterblossom
+1 Reconnaissance Mission
+1 Reflections of Littjara
+1 Propaganda
+1 Dire Undercurrents
+1 Secluded Glen
+1 Faerie Conclave
+1 Bojuka Bog
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Exotic Orchard
+1 Myriad Landscape
+1 Path of Ancestry
+1 Sunken Hollow
+1 Tainted Isle
+1 Temple of Deceit
+1 Temple of the False God
+12 Island
+11 Swamp
+Sideboard
+1 Alela, Cunning Conqueror

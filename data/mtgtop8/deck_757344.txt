@@ -1,0 +1,99 @@
+1 Ajani, Nacatl Pariah
+1 Sundering Eruption
+1 Witch Enchanter
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Blinkmoth Nexus
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Crystal Vein
+1 Eiganjo, Seat of the Empire
+1 Flooded Strand
+1 Gemstone Caverns
+1 Inkmoth Nexus
+1 Inspiring Vantage
+1 Marsh Flats
+1 Mishra's Factory
+2 Mountain
+2 Plains
+1 Plateau
+1 Prismatic Vista
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sokenzan, Crucible of Defiance
+1 Sunbillow Verge
+1 Windswept Heath
+1 Wooded Foothills
+1 Angrath's Marauders
+1 Magebane Lizard
+1 Razorkin Needlehead
+1 Gingerbrute
+1 Ornithopter
+1 Alseid of Life's Bounty
+1 Benevolent Bodyguard
+1 Boromir, Warden of the Tower
+1 Flawless Maneuver
+1 Grand Abolisher
+1 Guardian of Faith
+1 Hope of Ghirapur
+1 Orim's Chant
+1 Reverent Mantra
+1 Selfless Spirit
+1 Skrelv, Defector Mite
+1 The Wandering Rescuer
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Clarion Conqueror
+1 Deafening Silence
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 High Noon
+1 Sanctum Prelate
+1 Soulless Jailer
+1 Thalia, Guardian of Thraben
+1 Geist-Honored Monk
+1 Goblin Rabblemaster
+1 Legion Warboss
+1 Lena, Selfless Champion
+1 Loyal Apprentice
+1 Myrel, Shield of Argive
+1 Ocelot Pride
+1 Rograkh, Son of Rohgahh
+1 Stadium Headliner
+1 Voice of Victory
+1 Arcane Signet
+1 Lotus Petal
+1 Mox Amber
+1 Ornithopter of Paradise
+1 Phyrexian Walker
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Sol Ring
+1 Talisman of Conviction
+1 Alexios, Deimos of Kosmos
+1 Combat Celebrant
+1 Avalanche of Sector 7
+1 Lightning, Army of One
+1 Blade Historian
+1 Goldnight Commander
+1 Jor Kadeen, the Prevailer
+1 Signal Pest
+1 Phelia, Exuberant Shepherd
+1 Archivist of Oghma
+1 Esper Sentinel
+1 Senu, Keen-Eyed Protector
+1 Aven Interrupter
+1 Cathar Commando
+1 Eomer, King of Rohan
+1 Red Elemental Blast
+1 Solitude
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+Sideboard
+1 Winota, Joiner of Forces

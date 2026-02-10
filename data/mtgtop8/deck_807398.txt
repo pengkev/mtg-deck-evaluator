@@ -1,0 +1,94 @@
+1 Combat Courier
+1 Corridor Monitor
+1 Crashing Drawbridge
+1 Faerie Mastermind
+1 Filigree Sages
+1 Hydroelectric Specimen
+1 Liberator, Urza's Battlethopter
+1 Manakin
+1 Marvin, Murderous Mimic
+1 Memnite
+1 Metalworker
+1 Myr Convert
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Plague Myr
+1 Shield Sphere
+1 Silver Myr
+1 Spellskite
+1 Tomb Trawler
+1 Voltaic Servant
+1 Walking Ballista
+1 Chromatic Orrery
+1 Chrome Mox
+1 Clock of Omens
+1 Damping Sphere
+1 Encroaching Mycosynth
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Imposter Mech
+1 Invasion Submersible
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Mox Opal
+1 Nexus of Becoming
+1 Night Scythe
+1 Peter Parker's Camera
+1 Portal to Phyrexia
+1 Repurposing Bay
+1 Sculpting Steel
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Staff of Domination
+1 The One Ring
+1 Thousand-Year Elixir
+1 Voltaic Key
+1 Commandeer
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Magic Damper
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Pact of Negation
+1 Pongify
+1 Shore Up
+1 Sink into Stupor
+1 Swan Song
+1 Sea Gate Restoration
+1 Transmute Artifact
+1 Mind Over Matter
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Blinkmoth Nexus
+1 Cavern of Souls
+1 City of Traitors
+1 Crystal Vein
+1 Gemstone Caverns
+1 Hall of the Bandit Lord
+1 Inkmoth Nexus
+8 Island
+1 Minamo, School at Water's Edge
+1 Mirrex
+1 Mishra's Factory
+1 Mishra's Workshop
+1 Otawara, Soaring City
+1 Seat of the Synod
+1 Talon Gates of Madara
+Sideboard
+1 Arcum Dagsson

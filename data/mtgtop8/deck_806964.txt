@@ -1,0 +1,101 @@
+1 Emry, Lurker of the Loch
+1 Ertai, the Corrupted
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Filigree Sages
+1 Hexing Squelcher
+1 Kuldotha Forgemaster
+1 Shimmer Myr
+1 Stoneforge Mystic
+1 Thopter Assembly
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chromatic Lantern
+1 Chromatic Orrery
+1 Commander's Sphere
+1 Fellwar Stone
+1 Izzet Signet
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Mana Vault
+1 Mycosynth Lattice
+1 Nim Deathmantle
+1 Orzhov Signet
+1 Sol Ring
+1 Sword of the Meek
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Talisman of Progress
+1 Thopter Foundry
+1 Thought Vessel
+1 Thran Dynamo
+1 Time Sieve
+1 Unwinding Clock
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Fateful Absence
+1 Mana Drain
+1 Mindbreak Trap
+1 Silence
+1 Slaughter Pact
+1 Strix Serenade
+1 Swords to Plowshares
+1 Tainted Pact
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Whir of Invention
+1 Whirlwind Denial
+1 Beseech the Mirror
+1 Day of Judgment
+1 Fabricate
+1 Final Parting
+1 Grim Tutor
+1 Insatiable Avarice
+1 Impact Tremors
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Weapons Manufacturing
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Ancient Den
+1 Badlands
+1 Battlefield Forge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Buried Ruin
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Godless Shrine
+1 Great Furnace
+1 Hallowed Fountain
+1 Inventors' Fair
+1 Island
+1 Marsh Flats
+1 Mountain
+1 Plains
+1 Polluted Delta
+1 Reliquary Tower
+1 Sacred Foundry
+1 Scrubland
+1 Seat of the Synod
+1 Shivan Reef
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Steam Vents
+1 Swamp
+1 Tundra
+1 Underground Sea
+1 Vault of Whispers
+1 Watery Grave
+Sideboard
+1 Breya, Etherium Shaper

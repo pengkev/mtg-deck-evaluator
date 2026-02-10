@@ -1,0 +1,83 @@
+1 Lovestruck Beast
+1 Fierce Empath
+1 Llanowar Elves
+1 Scavenging Ooze
+1 Aggressive Mammoth
+1 Sakura-Tribe Elder
+1 Seedborn Muse
+1 Khalni Hydra
+1 Eternal Witness
+1 Elvish Mystic
+1 Reclamation Sage
+1 Nylea, Keen-Eyed
+1 Oracle of Mul Daya
+1 Soul of the Harvest
+1 Archetype of Endurance
+1 Shaman of Forgotten Ways
+1 Gigantosaurus
+1 Ashaya, Soul of the Wild
+1 Relic Golem
+1 Toski, Bearer of Secrets
+1 Beast Whisperer
+1 Circle of Dreams Druid
+1 Impervious Greatwurm
+1 Birds of Paradise
+1 Fauna Shaman
+1 Prowling Serpopard
+1 Zopandrel, Hunger Dominus
+1 Surrak and Goreclaw
+1 Ghalta, Primal Hunger
+1 Tireless Provisioner
+1 Wayward Swordtooth
+1 Pugnacious Hammerskull
+1 Hulking Raptor
+1 Apex Altisaur
+1 Yeva, Nature's Herald
+1 Worldspine Wurm
+1 Disciple of Freyalise
+1 Six
+1 Apex Devastator
+1 Elvish Spirit Guide
+1 Vizier of the Menagerie
+1 Quilled Greatwurm
+1 Loot, Exuberant Explorer
+1 Lupine Prototype
+1 Craterhoof Behemoth
+1 Lotus Petal
+1 Sol Ring
+1 Thousand-Year Elixir
+1 Staff of Domination
+1 Sensei's Divining Top
+1 Umbral Mantle
+1 Worldly Tutor
+1 Peerless Recycling
+1 Cultivate
+1 Tempt with Discovery
+1 Skyshroud Claim
+1 Finale of Devastation
+1 Genesis Wave
+1 Tooth and Nail
+1 Nature's Rhythm
+1 Defense of the Heart
+1 Greater Good
+1 Exploration
+1 Growing Rites of Itlimoc
+1 Castle Garenbrig
+19 Forest
+1 Reliquary Tower
+1 Misty Rainforest
+1 Mikokoro, Center of the Sea
+1 Nykthos, Shrine to Nyx
+1 Dryad Arbor
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 War Room
+1 Windswept Heath
+1 Wooded Foothills
+1 Deserted Temple
+1 Fabled Passage
+1 Soulstone Sanctuary
+1 Bonders' Enclave
+Sideboard
+1 Selvala, Heart of the Wilds

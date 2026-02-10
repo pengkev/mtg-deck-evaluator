@@ -1,0 +1,101 @@
+1 Firebrand Archer
+1 Reckless Fireweaver
+1 Skirk Prospector
+1 Walking Ballista
+1 Kederekt Parasite
+1 Electrostatic Field
+1 Blood Pet
+1 Goblin Engineer
+1 Imperial Recruiter
+1 Birgi, God of Storytelling
+1 Storm-Kiln Artist
+1 Dragon's Rage Channeler
+1 Ragavan, Nimble Pilferer
+1 Dauthi Voidwalker
+1 Kessig Flamebreather
+1 Urabrask
+1 Hedron Detonator
+1 Orcish Bowmasters
+1 Party Thrasher
+1 Coruscation Mage
+1 Razorkin Needlehead
+1 Gleeful Arsonist
+1 Prosper, Tome-Bound
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Everflowing Chalice
+1 Grinding Station
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Rakdos Signet
+1 Mox Diamond
+1 Mox Opal
+1 Grim Monolith
+1 Talisman of Indulgence
+1 Lion's Eye Diamond
+1 Jeweled Amulet
+1 Mox Amber
+1 Agatha's Soul Cauldron
+1 Unstable Amulet
+1 Gut Shot
+1 Lightning Bolt
+1 Red Elemental Blast
+1 Desperate Ritual
+1 Pyroblast
+1 Dark Ritual
+1 Cabal Ritual
+1 Fire Covenant
+1 Vampiric Tutor
+1 Pyretic Ritual
+1 Final Fortune
+1 Bolt Bend
+1 Deflecting Swat
+1 Seething Song
+1 Ricochet Trap
+1 Grapeshot
+1 Peer into the Abyss
+1 Demonic Tutor
+1 Imperial Seal
+1 Gamble
+1 Light Up the Stage
+1 Rite of Flame
+1 Yawgmoth's Will
+1 Jeska's Will
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Reckless Handling
+1 Underworld Breach
+1 Pyrohemia
+1 Urza's Saga
+1 All Will Be One
+1 Command Tower
+1 Exotic Orchard
+1 Badlands
+1 City of Brass
+1 Sulfurous Springs
+1 City of Traitors
+1 Bloodstained Mire
+1 Shadowblood Ridge
+1 Ancient Tomb
+1 Blood Crypt
+1 Spire of Industry
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Wooded Foothills
+1 Sunscorched Desert
+1 Shivan Gorge
+1 Gemstone Caverns
+1 Blightstep Pathway
+1 Sokenzan, Crucible of Defiance
+1 Mount Doom
+1 Luxury Suite
+Sideboard
+1 Ob Nixilis, Captive Kingpin

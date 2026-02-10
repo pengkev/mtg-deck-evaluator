@@ -1,0 +1,86 @@
+1 Ingenious Infiltrator
+1 Universal Automaton
+1 Signal Pest
+1 Wingcrafter
+1 Memnite
+1 Slither Blade
+1 Thousand-Faced Shadow
+1 Dokuchi Silencer
+1 Fallen Shinobi
+1 Shadow of Mortality
+1 Street Wraith
+1 Troll of Khazad-dum
+1 Faerie Dreamthief
+1 Gingerbrute
+1 Baleful Strix
+1 Changeling Outcast
+1 Boggart Trawler
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Tetsuko Umezawa, Fugitive
+1 Faerie Seer
+1 Mistblade Shinobi
+1 Mothdust Changeling
+1 Skullsnatcher
+1 Moonsnare Specialist
+1 Moon-Circuit Hacker
+1 Ninja of the Deep Hours
+1 Prosperous Thief
+1 Spectral Sailor
+1 Silver-Fur Master
+1 Ornithopter
+1 Satoru, the Infiltrator
+1 Grafdigger's Cage
+1 Cursed Totem
+1 Into the Story
+1 Foil
+1 Consign/Oblivion
+1 Dismember
+1 Abjure
+1 Murderous Cut
+1 Misdirection
+1 Far/Away
+1 March of Swirling Mist
+1 An Offer You Can't Refuse
+1 Commit/Memory
+1 Mystical Tutor
+1 Hagra Mauling
+1 Counterspell
+1 Snuff Out
+1 Commandeer
+1 Baleful Mastery
+1 Curtains' Call
+1 Brainsurge
+1 Fell the Profane
+1 Contagion
+1 Lim-Dul's Vault
+1 Submerge
+1 Dig Through Time
+1 Brainstorm
+1 Opt
+1 Arcane Denial
+1 Spell Pierce
+1 Karn's Temporal Sundering
+1 Personal Tutor
+1 Lorien Revealed
+1 Preordain
+1 Insatiable Avarice
+1 Treasure Cruise
+1 Eagle Vision
+1 Portent
+1 Temporal Trespass
+1 Nowhere to Run
+1 Mirror Room/Fractured Realm
+1 Kaito, Bane of Nightmares
+1 Mystic Sanctuary
+1 Sunken Hollow
+1 Darkwater Catacombs
+1 Tainted Isle
+1 Secluded Courtyard
+1 Command Tower
+1 Drowned Catacomb
+9 Island
+1 Shipwreck Marsh
+8 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

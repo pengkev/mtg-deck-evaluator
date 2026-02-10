@@ -1,0 +1,39 @@
+1 Doc Aurlock, Grizzled Genius
+1 Explorer's Scope
+1 Wayfarer's Bauble
+1 Decisive Denial
+1 Gaea's Gift
+1 Growth Spiral
+1 Memory Lapse
+1 Negate
+1 Repulsive Mutation
+1 Road/Ruin
+1 Royal Treatment
+1 Spell Rupture
+1 Temur Battle Rage
+1 Temur Charm
+1 Veil of Secrecy
+1 Broken Bond
+1 Chain Reaction
+1 Enter the Unknown
+1 Explore
+1 Growth Spasm
+1 Rampant Growth
+1 Search for Tomorrow
+1 Summer Bloom
+1 Aboshan's Desire
+1 Aqueous Form
+1 Fae Flight
+1 Fertile Ground
+1 Font of Fertility
+1 Omen of the Hunt
+1 Overgrowth
+1 Sword Coast Sailor
+1 Utopia Sprawl
+1 Wild Growth
+25 Forest
+21 Island
+19 Mountain
+Sideboard
+1 Haldan, Avid Arcanist
+1 Pako, Arcane Retriever

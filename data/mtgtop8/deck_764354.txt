@@ -1,0 +1,101 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 Changeling Outcast
+1 Chrome Mox
+1 City of Brass
+1 Clearwater Pathway
+1 Command Tower
+1 Commandeer
+1 Cover of Darkness
+1 Crippling Fear
+1 Cursed Totem
+1 Darkslick Shores
+1 Demonic Consultation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dokuchi Silencer
+1 Ertai Resurrected
+1 Faerie Dreamthief
+1 Faerie Seer
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flare of Malice
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gifts Ungiven
+1 Gloomlake Verge
+1 Gravelighter
+1 Illvoi Galeblade
+1 Imperial Seal
+1 Ingenious Infiltrator
+1 Ingenious Prodigy
+1 Island
+1 Kaito, Bane of Nightmares
+1 Kitesail Larcenist
+1 Lim-Dul's Vault
+1 Mana Confluence
+1 Mana Drain
+1 Marsh Flats
+1 Memnite
+1 Misdirection
+1 Misty Rainforest
+1 Mockingbird
+1 Moon-Circuit Hacker
+1 Morphic Pool
+1 Mothdust Changeling
+1 Mox Amber
+1 Multiversal Passage
+1 Mystic Remora
+1 Mystical Tutor
+1 Ninja of the Deep Hours
+1 Notion Thief
+1 Opposition Agent
+1 Ornithopter
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Personal Tutor
+1 Phyrexian Tower
+1 Phyrexian Walker
+1 Polluted Delta
+1 Prismatic Vista
+1 Prosperous Thief
+1 Reanimate
+1 Rhystic Study
+1 Roaming Throne
+1 Sakashima's Student
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Shizo, Death's Storehouse
+1 Silver Raven
+1 Snapcaster Mage
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Snuff Out
+1 Sol Ring
+1 Spectral Sailor
+1 Spellseeker
+1 Spyglass Siren
+1 Starting Town
+1 Swamp
+1 Swan Song
+1 Sword Coast Sailor
+1 Tainted Pact
+1 Tetsuko Umezawa, Fugitive
+1 Thassa's Oracle
+1 Thieving Skydiver
+1 Thousand-Faced Shadow
+1 Tishana's Tidebinder
+1 Toxic Deluge
+1 Undercity Sewers
+1 Underground River
+1 Vampiric Tutor
+1 Venser, Shaper Savant
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Yuriko, the Tiger's Shadow

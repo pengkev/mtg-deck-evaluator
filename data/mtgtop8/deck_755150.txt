@@ -1,0 +1,82 @@
+1 Walking Ballista
+1 Llanowar Elves
+1 Elvish Mystic
+1 Spectral Sailor
+1 Prophet of Distortion
+1 Gilded Goose
+1 Fyndhorn Elves
+1 Prismite
+1 Quirion Elves
+1 Sylvan Caryatid
+1 Paradise Druid
+1 Incubation Druid
+1 Destiny Spinner
+1 Sanctum Weaver
+1 Devoted Druid
+1 Ornithopter of Paradise
+1 Trophy Mage
+1 Laboratory Maniac
+1 Eternal Witness
+1 Drift of Phantasms
+1 Forensic Gadgeteer
+1 Vigean Graftmage
+1 Tribute Mage
+1 Springleaf Drum
+1 Sol Ring
+1 Urn of Godfire
+1 Talisman of Curiosity
+1 Fellwar Stone
+1 Moonsilver Key
+1 Arcane Signet
+1 Energy Refractor
+1 Simic Signet
+1 Mirage Mirror
+1 Basalt Monolith
+1 Staff of Domination
+1 Midnight Clock
+1 Goblin Cannon
+1 Machine God's Effigy
+1 Spell Pierce
+1 Miscast
+1 Dispel
+1 Turn the Earth
+1 Autumn's Veil
+1 An Offer You Can't Refuse
+1 Nature's Claim
+1 Run Away Together
+1 Counterspell
+1 Dramatic Reversal
+1 Muddle the Mixture
+1 Reality Shift
+1 Defabricate
+1 Brainsurge
+1 Rebuild
+1 Whir of Invention
+1 Chord of Calling
+1 Gifts Ungiven
+1 Shared Summons
+1 Dig Through Time
+1 Preordain
+1 Ponder
+1 Reshape
+1 Neoform
+1 Eldritch Evolution
+1 Solve the Equation
+1 Fabricate
+1 Treasure Cruise
+1 Unable to Scream
+1 Dress Down
+1 Kenrith's Transformation
+1 Freed from the Real
+1 Pemmin's Aura
+1 Temple of Mystery
+1 Command Tower
+1 Treasure Vault
+1 Yavimaya Coast
+1 Waterlogged Grove
+1 Exotic Orchard
+13 Forest
+8 Island
+1 Halimar Depths
+Sideboard
+1 Kinnan, Bonder Prodigy

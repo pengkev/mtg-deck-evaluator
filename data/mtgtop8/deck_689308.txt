@@ -1,0 +1,101 @@
+1 Vivien on the Hunt
+1 High Noon
+1 Food Chain
+1 Deafening Silence
+1 Growing Rites of Itlimoc
+1 Eldritch Evolution
+1 Flare of Fortitude
+1 Worldly Tutor
+1 Force of Vigor
+1 Chord of Calling
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Lightning Bolt
+1 Crop Rotation
+1 Eladamri's Call
+1 Lotus Petal
+1 Agatha's Soul Cauldron
+1 Birthing Pod
+1 Chrome Mox
+1 Sol Ring
+1 Aether Vial
+1 Mana Vault
+1 Ranger-Captain of Eos
+1 Yisan, the Wanderer Bard
+1 Weathered Wayfarer
+1 Enduring Vitality
+1 Marvin, Murderous Mimic
+1 Insidious Fungus
+1 The Jolly Balloon Man
+1 Witch Enchanter
+1 Phelia, Exuberant Shepherd
+1 Aven Interrupter
+1 Roxanne, Starfall Savant
+1 Werefox Bodyguard
+1 Delighted Halfling
+1 Loran of the Third Path
+1 Katilda, Dawnhart Prime
+1 Moon-Blessed Cleric
+1 Endurance
+1 Esper Sentinel
+1 Squee, the Immortal
+1 Archon of Emeria
+1 Skyclave Apparition
+1 Emiel the Blessed
+1 Destiny Spinner
+1 Grand Abolisher
+1 Collector Ouphe
+1 Wirewood Symbiote
+1 Skullwinder
+1 Fyndhorn Elves
+1 Aven Mindcensor
+1 Arena Rector
+1 Karmic Guide
+1 Elvish Mystic
+1 Village Bell-Ringer
+1 Purphoros, God of the Forge
+1 Kiki-Jiki, Mirror Breaker
+1 Eternal Witness
+1 Bloom Tender
+1 Avacyn's Pilgrim
+1 Preston, the Vanisher
+1 Fallaji Wayfarer
+1 Shaman of Forgotten Ways
+1 Imperial Recruiter
+1 Drannith Magistrate
+1 Tinder Wall
+1 Academy Rector
+1 Felidar Guardian
+1 Birds of Paradise
+1 Faeburrow Elder
+1 Spectator Seating
+1 Lazotep Quarry
+1 Lush Portico
+1 Sunbaked Canyon
+1 Verdant Catacombs
+1 Temple Garden
+1 Cavern of Souls
+1 High Market
+1 Horizon Canopy
+1 Forbidden Orchard
+1 Spire Garden
+1 Stomping Ground
+1 Sacred Foundry
+1 Karplusan Forest
+1 Command Tower
+1 Forest
+1 Boseiju, Who Endures
+1 Gaea's Cradle
+1 Wooded Foothills
+1 Windswept Heath
+1 Mana Confluence
+1 Marsh Flats
+1 Arid Mesa
+1 Bountiful Promenade
+1 Sanctum of Eternity
+1 Taiga
+1 Savannah
+1 Plateau
+1 Plains
+Sideboard
+1 Rocco, Cabaretti Caterer

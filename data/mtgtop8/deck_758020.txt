@@ -1,0 +1,95 @@
+1 Ancient Brass Dragon
+1 Ancient Copper Dragon
+1 Atarka, World Render
+1 Balefire Dragon
+1 Betor, Kin to All
+1 Broodcaller Scourge
+1 Dragonlord Dromoka
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Ganax, Astral Hunter
+1 Goldspan Dragon
+1 Hellkite Courser
+1 Karrthus, Tyrant of Jund
+1 Klauth, Unrivaled Ancient
+1 Lathliss, Dragon Queen
+1 Miirym, Sentinel Wyrm
+1 Morophon, the Boundless
+1 Nogi, Draco-Zealot
+1 Old Gnawbone
+1 Ramos, Dragon Engine
+1 Rith, Liberated Primeval
+1 Rivaz of the Claw
+1 Roaming Throne
+1 Sarkhan, Soul Aflame
+1 Scalelord Reckoner
+1 Scourge of Valkas
+1 Terror of the Peaks
+1 Thrakkus the Butcher
+1 Tiamat
+1 Twinflame Tyrant
+1 Ureni of the Unwritten
+1 Arcane Signet
+1 Fellwar Stone
+1 Fist of Suns
+1 Helm of Awakening
+1 Herald's Horn
+1 Ruby Medallion
+1 Sol Ring
+1 Urza's Incubator
+1 An Offer You Can't Refuse
+1 Assassin's Trophy
+1 Beast Within
+1 Counterspell
+1 Heroic Intervention
+1 Mana Drain
+1 Path to Exile
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Crux of Fate
+1 Eerie Ultimatum
+1 Farseek
+1 Grim Tutor
+1 Nature's Lore
+1 Reanimate
+1 Skyshroud Claim
+1 Sylvan Scrying
+1 Three Visits
+1 Call the Spirit Dragons
+1 Dracogenesis
+1 Dragon Tempest
+1 Exploration
+1 Kindred Discovery
+1 Rhythm of the Wild
+1 Temur Ascendancy
+1 Sarkhan, Fireblood
+1 Blood Crypt
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Tower
+1 Evolving Wilds
+3 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Haven of the Spirit Dragon
+1 Indatha Triome
+2 Island
+1 Ketria Triome
+1 Maelstrom of the Spirit Dragon
+2 Mountain
+1 Overgrown Tomb
+2 Plains
+1 Raugrin Triome
+1 Reliquary Tower
+1 Sacred Foundry
+1 Savai Triome
+1 Steam Vents
+1 Stomping Ground
+2 Swamp
+1 Temple Garden
+1 Terramorphic Expanse
+1 The World Tree
+1 Watery Grave
+1 Zagoth Triome
+Sideboard
+1 The Ur-Dragon

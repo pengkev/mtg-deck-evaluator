@@ -1,0 +1,97 @@
+1 Knight of the Ebon Legion
+1 Vampire of the Dire Moon
+1 Indulgent Aristocrat
+1 Captivating Vampire
+1 Cruel Celebrant
+1 Rakish Heir
+1 Bloodline Keeper
+1 Viscera Seer
+1 Vampire Socialite
+1 Butcher of Malakir
+1 Blood Artist
+1 Anowon, the Ruin Sage
+1 Crossway Troublemakers
+1 Malakir Bloodwitch
+1 Scion of Opulence
+1 Stromkirk Captain
+1 Vampire Nighthawk
+1 Elenda, the Dusk Rose
+1 Vraan, Executioner Thane
+1 Markov Baron
+1 Bartolomé del Presidio
+1 Elenda's Hierophant
+1 Master of Dark Rites
+1 Welcoming Vampire
+1 Twilight Prophet
+1 Champion of Dusk
+1 Cordial Vampire
+1 Drana, Liberator of Malakir
+1 Mavren Fein, Dusk Apostle
+1 Nighthawk Scavenger
+1 Oathsworn Vampire
+1 Sanctum Seeker
+1 Legion Lieutenant
+1 Patron of the Vein
+1 Ruthless Lawbringer
+1 Baron Bertram Graywater
+1 Warren Soultrader
+1 Vito, Thorn of the Dusk Rose
+1 Chromatic Lantern
+1 Bontu's Monument
+1 Vanquisher's Banner
+1 Skullclamp
+1 Arcane Signet
+1 Commander's Sphere
+1 Sol Ring
+1 Door of Destinies
+1 Blade of the Bloodchief
+1 Herald's Horn
+1 Eldrazi Monument
+1 Path to Exile
+1 Swords to Plowshares
+1 Olivia's Wrath
+1 Pact of the Serpent
+1 Kindred Charge
+1 Blasphemous Act
+1 Rise of the Dark Realms
+1 Cathars' Crusade
+1 Legion's Landing
+1 Impact Tremors
+1 Radiant Destiny
+1 Shared Animosity
+1 Warleader's Call
+1 Sorin, Lord of Innistrad
+1 Temple of Triumph
+1 Mountain
+1 Caves of Koilos
+1 Phyrexian Tower
+1 Command Tower
+1 Shadowblood Ridge
+1 Windbrisk Heights
+1 Battlefield Forge
+1 Path of Ancestry
+1 Shineshadow Snarl
+1 Thriving Bluff
+1 Vault of the Archangel
+1 Voldaren Estate
+1 Furycalm Snarl
+1 Isolated Chapel
+1 Bloodstained Mire
+1 Fetid Heath
+1 Clifftop Retreat
+1 Rugged Prairie
+1 Unclaimed Territory
+1 Three Tree City
+1 Bojuka Bog
+1 Temple of Silence
+1 Tainted Field
+1 Foreboding Ruins
+1 Graven Cairns
+1 Smoldering Marsh
+1 Shattered Sanctum
+1 Sundown Pass
+1 Bleachbone Verge
+3 Swamp
+2 Plains
+Sideboard
+1 Edgar Markov

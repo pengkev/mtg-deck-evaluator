@@ -1,0 +1,72 @@
+1 Archivist of Oghma
+1 Beza, the Bounding Spring
+1 Blade Splicer
+1 Charming Prince
+1 Delney, Streetwise Lookout
+1 Elesh Norn
+1 Elesh Norn, Grand Cenobite
+1 Enduring Innocence
+1 Esper Sentinel
+1 Felidar Guardian
+1 Flickerwisp
+1 Grand Abolisher
+1 Helpful Hunter
+1 Karmic Guide
+1 Loran of the Third Path
+1 Moonshaker Cavalry
+1 Mother of Runes
+1 Ocelot Pride
+1 Overlord of the Mistmoors
+1 Phyrexian Vindicator
+1 Preston, the Vanisher
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Restoration Angel
+1 Serra Ascendant
+1 Skyclave Apparition
+1 Solemn Simulacrum
+1 Solitude
+1 Spirited Companion
+1 Sun Titan
+1 Toby, Beastie Befriender
+1 Wall of Omens
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Buster Sword
+1 Extraplanar Lens
+1 Mana Vault
+1 Mind Stone
+1 Nyx Lotus
+1 Oketra's Monument
+1 Panharmonicon
+1 Pearl Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Sword of Hearth and Home
+1 The One Ring
+1 Winter Moon
+1 Cloudshift
+1 Eerie Interlude
+1 Enlightened Tutor
+1 Ephemerate
+1 Path to Exile
+1 Reprieve
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Farewell
+1 Blind Obedience
+1 Cathars' Crusade
+1 Grasp of Fate
+1 Land Tax
+1 Sheltered by Ghosts
+1 Teleportation Circle
+1 Tocasia's Welcome
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 The Eternal Wanderer
+1 Ancient Tomb
+1 Eiganjo, Seat of the Empire
+1 Nykthos, Shrine to Nyx
+30 Plains
+Sideboard
+1 Elesh Norn, Mother of Machines

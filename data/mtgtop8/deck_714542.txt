@@ -1,0 +1,101 @@
+1 Corridor Monitor
+1 Master Transmuter
+1 Vizier of Tumbling Sands
+1 Spellskite
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Filigree Sages
+1 Aphetto Alchemist
+1 Treasure Mage
+1 Hydroelectric Specimen
+1 Iron Man, Titan of Innovation
+1 Transit Mage
+1 Mox Diamond
+1 Magewright's Stone
+1 Thousand-Year Elixir
+1 Sculpting Steel
+1 Rings of Brighthearth
+1 Voltaic Key
+1 Lithoform Engine
+1 Grafdigger's Cage
+1 Moonsilver Key
+1 Portal to Phyrexia
+1 Throne of Eldraine
+1 The One Ring
+1 Chromatic Orrery
+1 Sol Ring
+1 Coveted Jewel
+1 Apple of Eden, Isu Relic
+1 Repurposing Bay
+1 Basalt Monolith
+1 Memory Jar
+1 God-Pharaoh's Statue
+1 Imposter Mech
+1 Patriar's Seal
+1 The Mightstone and Weakstone
+1 Chrome Mox
+1 Machine God's Effigy
+1 Damping Sphere
+1 Chimil, the Inner Sun
+1 Lotus Petal
+1 Gifts Ungiven
+1 Flusterstorm
+1 Dramatic Reversal
+1 Swan Song
+1 Blue Sun's Zenith
+1 Force of Negation
+1 Twiddle
+1 Fierce Guardianship
+1 Red Elemental Blast
+1 Whir of Invention
+1 Refocus
+1 Mental Misstep
+1 Force of Will
+1 Chain of Vapor
+1 Intellectual Offering
+1 Mana Drain
+1 Mindbreak Trap
+1 Cerulean Wisps
+1 Dream's Grip
+1 Deflecting Swat
+1 Cyclonic Rift
+1 Sink into Stupor
+1 Shore Up
+1 Sea Gate Restoration
+1 Gamble
+1 Fabricate
+1 One with the Machine
+1 Transmute Artifact
+1 Stock Up
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Copy Artifact
+1 Mind Over Matter
+1 Tezzeret the Seeker
+1 Misty Rainforest
+1 Scalding Tarn
+1 Arid Mesa
+1 Mana Confluence
+1 Polluted Delta
+1 Flooded Strand
+1 Shivan Reef
+1 Forbidden Orchard
+1 Island
+1 City of Brass
+1 Gemstone Caverns
+1 Steam Vents
+1 Command Tower
+1 Fomori Vault
+1 Fiery Islet
+1 Inventors' Fair
+1 Mistrise Village
+1 Minamo, School at Water's Edge
+1 Volcanic Island
+1 Cephalid Coliseum
+1 Riverglide Pathway
+1 Otawara, Soaring City
+1 Plaza of Heroes
+1 Training Center
+Sideboard
+1 Jhoira, Ageless Innovator

@@ -1,0 +1,94 @@
+1 Godo, Bandit Warlord
+1 Treasonous Ogre
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Conqueror's Flail
+1 Defense Grid
+1 Hammer of Nazahn
+1 Helm of the Host
+1 Honor-Worn Shaku
+1 Krark's Thumb
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Opal
+1 Paradise Mantle
+1 Pithing Needle
+1 Relic of Legends
+1 Ruby Medallion
+1 Sculpting Steel
+1 Serum Powder
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 Thran Dynamo
+1 Trinisphere
+1 Vexing Bauble
+1 Voltaic Key
+1 Big Score
+1 Deflecting Swat
+1 Desperate Ritual
+1 Divergent Transformations
+1 Final Fortune
+1 Fire Prophecy
+1 Flare of Duplication
+1 Mogg Salvage
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Reverberate
+1 Ricochet Trap
+1 Seething Song
+1 Siege Smash
+1 Tibalt's Trickery
+1 Unexpected Windfall
+1 Valakut Awakening
+1 Volcanic Spite
+1 Bonus Round
+1 Chaotic Transformation
+1 Gamble
+1 Infernal Plunge
+1 Jeska's Will
+1 Last Chance
+1 Light Up the Stage
+1 Reality Scramble
+1 Reckless Handling
+1 Reforge the Soul
+1 Rite of Flame
+1 Shatterskull Smashing
+1 Strike It Rich
+1 Sundering Eruption
+1 Transmogrify
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Winds of Change
+1 Artist's Talent
+1 Blood Moon
+1 Guild Artisan
+1 Underworld Breach
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Lukka, Coppercoat Outcast
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Crystal Vein
+1 Emergence Zone
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Great Furnace
+1 Inventors' Fair
+1 Lazotep Quarry
+1 Mines of Moria
+8 Mountain
+1 Prismatic Vista
+1 Sandstone Needle
+1 Wooded Foothills
+Sideboard
+1 Krark, the Thumbless
+1 Rograkh, Son of Rohgahh

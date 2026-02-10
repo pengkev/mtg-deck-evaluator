@@ -1,0 +1,89 @@
+1 Tezzeret the Seeker
+1 Narset, Parter of Veils
+1 Rhystic Study
+1 Copy Artifact
+1 Mystic Remora
+1 Windfall
+1 Timetwister
+1 Fabricate
+1 Reshape
+1 Transmute Artifact
+1 Flusterstorm
+1 Misdirection
+1 Dramatic Reversal
+1 Force of Will
+1 Pongify
+1 Chain of Vapor
+1 Into the Flood Maw
+1 Sink into Stupor
+1 Flare of Denial
+1 Mindbreak Trap
+1 Fierce Guardianship
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Borne Upon a Wind
+1 Snap
+1 Force of Negation
+1 Alchemist's Retrieval
+1 Brain Freeze
+1 Spell Pierce
+1 Mental Misstep
+1 Winds of Rebuke
+1 Intuition
+1 Fellwar Stone
+1 The Everflowing Well
+1 Mesmeric Orb
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Aether Spellbomb
+1 Soul-Guide Lantern
+1 Mox Amber
+1 Chromatic Star
+1 Mishra's Bauble
+1 Arcane Signet
+1 Mana Vault
+1 Mystic Forge
+1 Manifold Key
+1 Imposter Mech
+1 Jack-o'-Lantern
+1 Moonsilver Key
+1 Mind Stone
+1 Dermotaxi
+1 Codex Shredder
+1 Chromatic Sphere
+1 Mox Diamond
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Grim Monolith
+1 Lotus Petal
+1 Voltaic Key
+1 Thousand-Year Elixir
+1 Sensei's Divining Top
+1 Conjurer's Bauble
+1 Basalt Monolith
+1 Lightning Greaves
+1 Walking Ballista
+1 Displacer Kitten
+1 Mockingbird
+1 Phyrexian Metamorph
+1 Forensic Gadgeteer
+1 Etherium Sculptor
+1 Hullbreaker Horror
+1 Aphetto Alchemist
+1 Fatestitcher
+1 Mirran Spy
+1 Minamo, School at Water's Edge
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Treasure Vault
+1 Otawara, Soaring City
+1 Gemstone Caverns
+1 Emergence Zone
+1 Seat of the Synod
+1 Ipnu Rivulet
+1 Mishra's Workshop
+1 Urza's Saga
+13 Island
+Sideboard
+1 Emry, Lurker of the Loch

@@ -1,0 +1,95 @@
+1 Aerial Extortionist
+1 Aether Channeler
+1 Agent of Treachery
+1 Anticausal Vestige
+1 Caves of Chaos Adventurer
+1 Chameleon, Master of Disguise
+1 Dire Fleet Daredevil
+1 Elesh Norn, Mother of Machines
+1 Elite Spellbinder
+1 Enduring Curiosity
+1 Exalted Sunborn
+1 Floodpits Drowner
+1 Glasspool Mimic
+1 Gogo, Mysterious Mime
+1 Imperial Recruiter
+1 Karmic Guide
+1 Knight of the White Orchid
+1 Lightning Runner
+1 Man-o'-War
+1 Overlord of the Floodpits
+1 Peregrine Drake
+1 Phyrexian Metamorph
+1 Port Razer
+1 Professional Face-Breaker
+1 Reflector Mage
+1 Reveillark
+1 Riptide Gearhulk
+1 Roaming Throne
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Silent Hallcreeper
+1 Skyclave Apparition
+1 Solemn Simulacrum
+1 Solitude
+1 Spark Double
+1 Starfield Vocalist
+1 Terror of the Peaks
+1 Volatile Stormdrake
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Fellwar Stone
+1 Hourglass of the Lost
+1 Midnight Clock
+1 Sol Ring
+1 Strionic Resonator
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Chaos Warp
+1 Dovin's Veto
+1 Galvanic Discharge
+1 Generous Gift
+1 Memory Lapse
+1 Negate
+1 Path to Exile
+1 Spider-Sense
+1 Swords to Plowshares
+1 Blasphemous Act
+1 Faithless Looting
+1 Farewell
+1 Gamble
+1 Windfall
+1 Mystic Remora
+1 Windcrag Siege
+1 Adarkar Wastes
+1 Aether Hub
+1 Battlefield Forge
+1 Cavern of Souls
+1 Clifftop Retreat
+1 Command Tower
+1 Demolition Field
+1 Exotic Orchard
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Glacial Fortress
+1 Hallowed Fountain
+3 Island
+4 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+2 Plains
+1 Port Town
+1 Prairie Stream
+1 Restless Anchorage
+1 Sacred Foundry
+1 Shivan Reef
+1 Steam Vents
+1 Sulfur Falls
+Sideboard
+1 Satya, Aetherflux Genius

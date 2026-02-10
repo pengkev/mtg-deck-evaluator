@@ -1,0 +1,93 @@
+1 Aragorn, King of Gondor
+1 Champions of Minas Tirith
+1 Cirdan the Shipwright
+1 Emberwilde Captain
+1 Faeburrow Elder
+1 Faramir, Prince of Ithilien
+1 Faramir, Steward of Gondor
+1 General Ferrous Rokiric
+1 Giltspire Avenger
+1 Gisela, Blade of Goldnight
+1 Humble Defector
+1 Jolrael, Mwonvuli Recluse
+1 Jolrael, Voice of Zhalfir
+1 Knight-Captain of Eos
+1 Kwain, Itinerant Meddler
+1 Loran of the Third Path
+1 Mangara, the Diplomat
+1 Omnath, Locus of Creation
+1 Selfless Squire
+1 Selvala, Explorer Returned
+1 Skyserpent Seeker
+1 Suppressor Skyguard
+1 Tannuk, Memorial Ensign
+1 Tatyova, Benthic Druid
+1 The Council of Four
+1 Trostani, Three Whispers
+1 Uro, Titan of Nature's Wrath
+1 Xyris, the Writhing Storm
+1 Arcane Signet
+1 Absorb
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Boros Fury-Shield
+1 Comeuppance
+1 Deflecting Palm
+1 Dovin's Veto
+1 Generous Gift
+1 Growth Spiral
+1 Illusionist's Gambit
+1 New Way Forward
+1 Perch Protection
+1 Sail into the West
+1 Stroke of Midnight
+1 Take the Bait
+1 Cultivate
+1 Explore
+1 Insurrection
+1 Kodama's Reach
+1 Oversimplify
+1 Promise of Loyalty
+1 Taunt from the Rampart
+1 Tempt with Bunnies
+1 Tempt with Discovery
+1 Urban Evolution
+1 Court of Ire
+1 Duelist's Heritage
+1 On the Trail
+1 Adarkar Wastes
+1 Azorius Chancery
+1 Battlefield Forge
+1 Boros Garrison
+1 Brushland
+1 Castle Ardenvale
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+3 Forest
+1 Frontier Bivouac
+1 Glacial Fortress
+1 Gruul Turf
+1 Hinterland Harbor
+2 Island
+1 Izzet Boilerworks
+1 Jungle Shrine
+1 Karplusan Forest
+3 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+4 Plains
+1 Rivendell
+1 Rootbound Crag
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Sulfur Falls
+1 Sunpetal Grove
+1 Terramorphic Expanse
+1 Yavimaya Coast
+Sideboard
+1 Kynaios and Tiro of Meletis

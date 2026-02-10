@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Blood Celebrant
+1 Dualcaster Mage
+1 Hoarding Broodlord
+1 Knollspine Dragon
+1 Pinnacle Monk
+1 Priest of Gix
+1 Priest of Urabrask
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Street Wraith
+1 Terror of the Peaks
+1 Treasonous Ogre
+1 Urabrask
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Big Score
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Dismember
+1 Fell the Profane
+1 Pyroblast
+1 Rain of Filth
+1 Red Elemental Blast
+1 Saw in Half
+1 Seething Song
+1 Snuff Out
+1 Untimely Malfunction
+1 Valakut Awakening
+1 Vampiric Tutor
+1 Agadeem's Awakening
+1 Ambition's Cost
+1 Ancient Craving
+1 Beseech the Mirror
+1 Beseech the Queen
+1 Chain of Smog
+1 Change of Fortune
+1 Coveted Prize
+1 Dark Petition
+1 Demonic Tutor
+1 Dragonstorm
+1 Exsanguinate
+1 Feed the Infection
+1 Imperial Seal
+1 Infernal Plunge
+1 Inner Fire
+1 Inspired Tinkering
+1 Into the Fire
+1 Jeska's Will
+1 Lively Dirge
+1 Mizzix's Mastery
+1 Molten Duplication
+1 Night's Whisper
+1 Past in Flames
+1 Path of the Pyromancer
+1 Peer into the Abyss
+1 Pirate's Pillage
+1 Reforge the Soul
+1 Seize the Spoils
+1 Shatterskull Smashing
+1 Shreds of Sanity
+1 Stargaze
+1 Sundering Eruption
+1 Syphon Mind
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Professor Onyx
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Badlands
+1 Barbarian Ring
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cabal Pit
+1 City of Brass
+1 Gemstone Caverns
+1 Horizon of Progress
+1 Ifnir Deadlands
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Polluted Delta
+1 Ramunap Ruins
+1 Scalding Tarn
+1 Sulfurous Springs
+1 Tarnished Citadel
+1 The Black Gate
+1 Tomb of Urami
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Rowan, Scion of War

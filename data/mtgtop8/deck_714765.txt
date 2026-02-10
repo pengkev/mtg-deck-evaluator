@@ -1,0 +1,100 @@
+1 Razaketh, the Foulblooded
+1 Elvish Mystic
+1 Mikaeus, the Unhallowed
+1 Protean Hulk
+1 Llanowar Elves
+1 Masked Vandal
+1 Endurance
+1 Vile Entomber
+1 Birds of Paradise
+1 Walking Ballista
+1 Orcish Bowmasters
+1 Opposition Agent
+1 Warren Soultrader
+1 Marionette Apprentice
+1 Eternal Witness
+1 Sunshower Druid
+1 Collector Ouphe
+1 Deathrite Shaman
+1 Elvish Spirit Guide
+1 Witherbloom Apprentice
+1 Blood Artist
+1 Haywire Mite
+1 Valgavoth, Terror Eater
+1 Bloodthirsty Conqueror
+1 Gravecrawler
+1 Dauthi Voidwalker
+1 Six
+1 Chrome Mox
+1 Mana Vault
+1 Mox Amber
+1 Arcane Signet
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Wishclaw Talisman
+1 Talisman of Resilience
+1 Sol Ring
+1 Lotus Petal
+1 Vampiric Tutor
+1 Chord of Calling
+1 Crop Rotation
+1 Dark Ritual
+1 Worldly Tutor
+1 Force of Vigor
+1 Abrupt Decay
+1 Culling the Weak
+1 Noxious Revival
+1 Veil of Summer
+1 Rain of Filth
+1 Entomb
+1 Goryo's Vengeance
+1 Demonic Tutor
+1 Exhume
+1 Reanimate
+1 Dread Return
+1 Unmarked Grave
+1 Chain of Smog
+1 Diabolic Intent
+1 Finale of Devastation
+1 Toxic Deluge
+1 Lively Dirge
+1 Buried Alive
+1 Culling Ritual
+1 Eldritch Evolution
+1 Animate Dead
+1 Sylvan Library
+1 Carpet of Flowers
+1 Necromancy
+1 Birthing Ritual
+1 Urza's Saga
+1 Ripples of Undeath
+1 Invasion of Ikoria
+1 City of Brass
+1 Marsh Flats
+1 Emergence Zone
+1 Reflecting Pool
+1 Overgrown Tomb
+1 Gaea's Cradle
+1 Bayou
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
+1 Undergrowth Stadium
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Command Tower
+1 Underground Mortuary
+1 Exotic Orchard
+1 Windswept Heath
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Yavimaya, Cradle of Growth
+1 Tarnished Citadel
+1 Llanowar Wastes
+1 Forest
+1 Wastewood Verge
+2 Swamp
+Sideboard
+1 Dina, Soul Steeper

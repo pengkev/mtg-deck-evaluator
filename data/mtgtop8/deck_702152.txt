@@ -1,0 +1,101 @@
+1 Underworld Breach
+1 Reanimate
+1 Demonic Tutor
+1 Rite of Flame
+1 Gamble
+1 Faithless Looting
+1 Light Up the Stage
+1 Molten Duplication
+1 Sevinne's Reclamation
+1 Beseech the Mirror
+1 Diabolic Intent
+1 Imperial Seal
+1 Strike It Rich
+1 Grapeshot
+1 Jeska's Will
+1 Shatterskull Smashing
+1 Wheel of Fortune
+1 Twinflame
+1 Deflecting Swat
+1 Deadly Rollick
+1 Flare of Duplication
+1 Tainted Pact
+1 Vampiric Tutor
+1 Cabal Ritual
+1 Swords to Plowshares
+1 Dark Ritual
+1 Enlightened Tutor
+1 Mogg Salvage
+1 Final Fortune
+1 Culling the Weak
+1 Saw in Half
+1 Pyroblast
+1 Entomb
+1 Silence
+1 Expedite
+1 Valakut Awakening
+1 Burnt Offering
+1 Gut Shot
+1 Red Elemental Blast
+1 Lotus Petal
+1 Arcane Signet
+1 The One Ring
+1 Mana Vault
+1 Chrome Mox
+1 Sol Ring
+1 Wishclaw Talisman
+1 Bolas's Citadel
+1 Grinding Station
+1 Vexing Bauble
+1 Talisman of Indulgence
+1 Springleaf Drum
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Esper Sentinel
+1 Grand Abolisher
+1 Delney, Streetwise Lookout
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Harmonic Prodigy
+1 Birgi, God of Storytelling
+1 Pinnacle Monk
+1 Ashling, Flame Dancer
+1 Ragavan, Nimble Pilferer
+1 Roaming Throne
+1 Storm-Kiln Artist
+1 Dragon's Rage Channeler
+1 Professional Face-Breaker
+1 Tavern Scoundrel
+1 Simian Spirit Guide
+1 Imperial Recruiter
+1 Dualcaster Mage
+1 Ranger-Captain of Eos
+1 Serra Ascendant
+1 City of Brass
+1 Scalding Tarn
+1 Command Tower
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Godless Shrine
+1 Sacred Foundry
+1 Blood Crypt
+1 Verdant Catacombs
+1 Windswept Heath
+1 Flooded Strand
+1 Arid Mesa
+1 Marsh Flats
+1 Mana Confluence
+1 Ancient Tomb
+1 Elegant Parlor
+1 Exotic Orchard
+1 Sulfurous Springs
+1 Swamp
+1 Bloodstained Mire
+1 Scrubland
+1 Plateau
+1 Badlands
+Sideboard
+1 Tymna the Weaver
+1 Krark, the Thumbless

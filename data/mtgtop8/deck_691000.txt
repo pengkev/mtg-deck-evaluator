@@ -1,0 +1,101 @@
+1 Sharuum the Hegemon
+1 Marionette Master
+1 Angel of the Ruins
+1 Third Path Iconoclast
+1 Emry, Lurker of the Loch
+1 Talion, the Kindly Lord
+1 Esper Sentinel
+1 Sire of Stagnation
+1 Phyrexian Metamorph
+1 Myr Battlesphere
+1 Myr Retriever
+1 Goblin Welder
+1 Urza, Lord High Artificer
+1 Enthusiastic Mechanaut
+1 Scrap Trawler
+1 Orcish Bowmasters
+1 Sai, Master Thopterist
+1 Forensic Gadgeteer
+1 Eldrazi Displacer
+1 Valley Floodcaller
+1 Mystic Forge
+1 Sensei's Divining Top
+1 Talisman of Conviction
+1 Urza's Bauble
+1 Mox Opal
+1 Skullclamp
+1 Nihil Spellbomb
+1 Mishra's Bauble
+1 Talisman of Progress
+1 Staff of the Storyteller
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Crystal Skull, Isu Spyglass
+1 Krark-Clan Ironworks
+1 Nim Deathmantle
+1 Sol Ring
+1 Ashnod's Altar
+1 Soul-Guide Lantern
+1 Chromatic Star
+1 Tormod's Crypt
+1 The One Ring
+1 Fabrication Foundry
+1 Arcane Signet
+1 Lotus Petal
+1 Retraction Helix
+1 Mana Drain
+1 Banishing Knack
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Officious Interrogation
+1 Mindbreak Trap
+1 Dovin's Veto
+1 Cyclonic Rift
+1 Swords to Plowshares
+1 Counterspell
+1 Supreme Verdict
+1 Reshape
+1 Demonic Tutor
+1 Prismatic Ending
+1 Rhystic Study
+1 Smothering Tithe
+1 Jeskai Ascendancy
+1 Mystic Remora
+1 Narset, Parter of Veils
+1 Saheeli, Sublime Artificer
+1 Tezzeret the Seeker
+1 Tezzeret, Master of the Bridge
+1 Command Tower
+1 Swamp
+1 Watery Grave
+1 Hallowed Fountain
+1 Steam Vents
+1 Marsh Flats
+1 Misty Rainforest
+1 Badlands
+1 Plateau
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Volcanic Island
+1 Raugrin Triome
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Ancient Tomb
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Raffine's Tower
+1 Morphic Pool
+1 Sea of Clouds
+1 Spire of Industry
+1 Training Center
+1 Polluted Delta
+1 Flooded Strand
+1 Windswept Heath
+1 Plains
+1 Island
+Sideboard
+1 Breya, Etherium Shaper

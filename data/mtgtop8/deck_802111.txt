@@ -1,0 +1,101 @@
+1 Dragonologist
+1 Faerie Mastermind
+1 Generous Plunderer
+1 Harmonic Prodigy
+1 Hexing Squelcher
+1 Hydroelectric Specimen
+1 Knuckles the Echidna
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Trinket Mage
+1 Vivi Ornitier
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Cursed Totem
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Izzet Signet
+1 Lotus Bloom
+1 Midnight Clock
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Bolt Bend
+1 Brainstorm
+1 Chain of Vapor
+1 Counterspell
+1 Cyclonic Rift
+1 Daze
+1 Deflecting Swat
+1 Delay
+1 Dispel
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Narset's Reversal
+1 Pact of Negation
+1 Pongify
+1 Pyroblast
+1 Pyrokinesis
+1 Rapid Hybridization
+1 Reality Shift
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Sink into Stupor
+1 Snap
+1 Spell Pierce
+1 Strix Serenade
+1 Submerge
+1 Swan Song
+1 Valakut Awakening
+1 Whir of Invention
+1 Blasphemous Act
+1 Reshape
+1 Strike It Rich
+1 Transmute Artifact
+1 Windfall
+1 Copy Enchantment
+1 Curiosity
+1 Curse of Opulence
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Steal Enchantment
+1 Urza's Saga
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 Castle Vantress
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverglide Pathway
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Niv-Mizzet, Parun

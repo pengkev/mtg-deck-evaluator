@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Displacer Kitten
+1 Esper Sentinel
+1 Grand Abolisher
+1 Kambal, Consul of Allocation
+1 Ledger Shredder
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Voice of Victory
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Bolas's Citadel
+1 Fellwar Stone
+1 Grim Monolith
+1 Isochron Scepter
+1 Lotus Petal
+1 Mana Vault
+1 Mind Stone
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The One Ring
+1 Thought Vessel
+1 Ad Nauseam
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Cabal Ritual
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Path to Exile
+1 Permission Denied
+1 Silence
+1 Sink into Stupor
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Damn
+1 Demonic Tutor
+1 Grim Tutor
+1 Imperial Seal
+1 Supreme Verdict
+1 Toxic Deluge
+1 Blind Obedience
+1 Counterbalance
+1 Humility
+1 Land Tax
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Smothering Tithe
+1 Urza's Saga
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Boseiju, Who Shelters All
+1 City of Brass
+1 Command Tower
+1 Drowned Catacomb
+1 Flooded Strand
+1 Gemstone Caverns
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Isolated Chapel
+1 Mana Confluence
+1 Marsh Flats
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Scrubland
+1 Sea of Clouds
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Swamp
+1 Tundra
+1 Underground Sea
+1 Vault of Champions
+1 Watery Grave
+Sideboard
+1 Zur the Enchanter

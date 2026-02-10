@@ -1,0 +1,84 @@
+1 Thassa's Oracle
+1 Vohar, Vodalian Desecrator
+1 Malcolm, Alluring Scoundrel
+1 Volatile Stormdrake
+1 Vedalken Aethermage
+1 Darkstar Augur
+1 Wavebreak Hippocamp
+1 Notion Thief
+1 Sol Ring
+1 Talisman of Dominance
+1 Star Compass
+1 Dimir Signet
+1 Cursed Totem
+1 Prismatic Lens
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Mind Stone
+1 Fellwar Stone
+1 An Offer You Can't Refuse
+1 Suspend
+1 Stern Dismissal
+1 Peek
+1 Cling to Dust
+1 Dispel
+1 Clairvoyance
+1 Demonic Consultation
+1 Mystical Tutor
+1 Dark Ritual
+1 Opt
+1 Disrupt
+1 Spell Pierce
+1 Counterspell
+1 Memory Lapse
+1 Plunge into Darkness
+1 Unauthorized Exit
+1 Borne Upon a Wind
+1 Change the Equation
+1 Shred Memory
+1 Snap
+1 Remand
+1 Resculpt
+1 Curate
+1 Snapback
+1 Lim-Dul's Vault
+1 Negate
+1 Unsubstantiate
+1 Mission Briefing
+1 Arcane Denial
+1 Run Away Together
+1 Muddle the Mixture
+1 Drown in the Loch
+1 Impulse
+1 Mystical Dispute
+1 Frantic Search
+1 Leadership Vacuum
+1 Silundi Vision
+1 Soul Shatter
+1 Brainsurge
+1 Gifts Ungiven
+1 Waterlogged Teachings
+1 Fact or Fiction
+1 Curtains' Call
+1 Dig Through Time
+1 Unearth
+1 Gitaxian Probe
+1 Scheming Symmetry
+1 Step Through
+1 Dark Tutelage
+1 Amphibian Downpour
+13 Island
+1 Command Tower
+1 Aether Hub
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Evolving Wilds
+1 Ash Barrens
+1 Cephalid Coliseum
+1 Drowned Catacomb
+1 Temple of Deceit
+6 Swamp
+1 River of Tears
+1 Sunken Hollow
+Sideboard
+1 Nymris, Oona's Trickster

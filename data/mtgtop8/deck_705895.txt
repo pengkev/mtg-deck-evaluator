@@ -1,0 +1,101 @@
+1 Bloom Tender
+1 Avenging Druid
+1 Undercity Informer
+1 Devoted Druid
+1 Necrotic Ooze
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Chancellor of the Tangle
+1 Tinder Wall
+1 Morselhoarder
+1 Phantasmagorian
+1 Simian Spirit Guide
+1 Wild Cantor
+1 Tangled Florahedron
+1 Blackbloom Rogue
+1 Kazandu Mammoth
+1 Ignoble Hierarch
+1 Goro-Goro, Disciple of Ryusei
+1 Balustrade Spy
+1 Poxwalkers
+1 Gravecrawler
+1 Elvish Spirit Guide
+1 Birds of Paradise
+1 Disciple of Freyalise
+1 Ragavan, Nimble Pilferer
+1 Warren Soultrader
+1 Boggart Trawler
+1 Pinnacle Monk
+1 Molten Gatekeeper
+1 Ornithopter of Paradise
+1 Hermit Druid
+1 Paradise Mantle
+1 Chrome Mox
+1 Mana Vault
+1 Sol Ring
+1 Jack-o'-Lantern
+1 Mox Amber
+1 Springleaf Drum
+1 Arcane Signet
+1 Talisman of Resilience
+1 Fellwar Stone
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Pentad Prism
+1 Veil of Summer
+1 Summoner's Pact
+1 Autumn's Veil
+1 Red Elemental Blast
+1 Deadly Rollick
+1 Noxious Revival
+1 Pyroblast
+1 Songs of the Damned
+1 Dark Ritual
+1 Guttural Response
+1 Valakut Awakening
+1 Spikefield Hazard
+1 Malakir Rebirth
+1 Ancient Grudge
+1 Turn the Earth
+1 Worldly Tutor
+1 Hagra Mauling
+1 Deflecting Swat
+1 Flare of Duplication
+1 Revitalizing Repast
+1 Fell the Profane
+1 Cabal Ritual
+1 Culling the Weak
+1 Entomb
+1 Vampiric Tutor
+1 Cabal Therapy
+1 Demonic Tutor
+1 Reanimate
+1 Diabolic Intent
+1 Destroy the Evidence
+1 Praetor's Grasp
+1 Rite of Flame
+1 Infernal Plunge
+1 Stitch Together
+1 Pelakka Predation
+1 Bala Ged Recovery
+1 Shatterskull Smashing
+1 Turntimber Symbiosis
+1 Agadeem's Awakening
+1 Diregraf Rebirth
+1 Jeska's Will
+1 Gamble
+1 Beseech the Mirror
+1 Stump Stomp
+1 Bloodsoaked Insight
+1 Sundering Eruption
+1 Bridgeworks Battle
+1 Culling Ritual
+1 Imperial Seal
+1 Dread Return
+1 Carpet of Flowers
+1 Bridge from Below
+1 Multani's Harmony
+1 Underworld Breach
+Sideboard
+1 Reyhan, Last of the Abzan
+1 Rograkh, Son of Rohgahh

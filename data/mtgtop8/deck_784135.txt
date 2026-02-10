@@ -1,0 +1,86 @@
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Boromir, Warden of the Tower
+1 Containment Priest
+1 Crystal Barricade
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Heliod's Pilgrim
+1 Hushbringer
+1 Intrepid Hero
+1 Kor Spiritdancer
+1 Pearl-Ear, Imperial Advisor
+1 Sram, Senior Edificer
+1 Tocatli Honor Guard
+1 Transcendent Envoy
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Haunted Cloak
+1 Lotus Petal
+1 Loxodon Warhammer
+1 Mana Vault
+1 Mox Amber
+1 Pearl Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Team Pennant
+1 Torpor Orb
+1 Airbending Lesson
+1 Akroma's Will
+1 Angel's Grace
+1 Enlightened Tutor
+1 Flare of Fortitude
+1 Generous Gift
+1 Rebuff the Wicked
+1 Return to Dust
+1 Silence
+1 Swords to Plowshares
+1 Avatar's Wrath
+1 Lay Down Arms
+1 Mass Calcify
+1 Ravnica at War
+1 All That Glitters
+1 Angelic Destiny
+1 Aura of Silence
+1 Authority of the Consuls
+1 Darksteel Mutation
+1 Detainment Spell
+1 Ethereal Armor
+1 Flickerform
+1 Gelid Shackles
+1 Ghostly Prison
+1 Guard Duty
+1 Heliod's Punishment
+1 Land Tax
+1 Leyline of Sanctity
+1 Mantle of the Ancients
+1 Mask of Law and Grace
+1 Monologue Tax
+1 Path to Redemption
+1 Reprobation
+1 Rest in Peace
+1 Sage's Reverie
+1 Shield of Duty and Reason
+1 Sigarda's Aid
+1 Stony Silence
+1 Swift Reconfiguration
+1 Timely Ward
+1 Twinblade Blessing
+1 Unquestioned Authority
+1 Urza's Saga
+1 With Great Power . . .
+1 Ancient Tomb
+1 Castle Ardenvale
+1 Conduit Pylons
+1 Evolving Wilds
+1 Hall of Heliod's Generosity
+1 Nykthos, Shrine to Nyx
+16 Plains
+1 Rumble Arena
+1 Serra's Sanctum
+1 Shire Terrace
+1 The Fair Basilica
+1 Urza's Cave
+1 Volatile Fault
+Sideboard
+1 Light-Paws, Emperor's Voice

@@ -1,0 +1,89 @@
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Glaring Fleshraker
+1 Liberator, Urza's Battlethopter
+1 Marvin, Murderous Mimic
+1 Metalworker
+1 Myr Retriever
+1 Myr Welder
+1 Pili-Pala
+1 Scrap Trawler
+1 Shimmer Myr
+1 Skrelv, Defector Mite
+1 Walking Ballista
+1 Witch Enchanter
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Chromatic Sphere
+1 Chromatic Star
+1 Codex Shredder
+1 Coveted Jewel
+1 Defense Grid
+1 Dusk Rose Reliquary
+1 Ensnaring Bridge
+1 Glasses of Urza
+1 Grafdigger's Cage
+1 Helm of Awakening
+1 Ichor Wellspring
+1 Krark-Clan Ironworks
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Lotus Petal
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Opal
+1 Mystic Forge
+1 Patriar's Seal
+1 Perilous Snare
+1 Peter Parker's Camera
+1 Pithing Needle
+1 Portable Hole
+1 Prized Statue
+1 Prophetic Prism
+1 Scale of Chiss-Goria
+1 Sculpting Steel
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Sphere of Resistance
+1 Staff of Domination
+1 Terrarion
+1 The One Ring
+1 Thousand-Year Elixir
+1 Tooth of Chiss-Goria
+1 Torpor Orb
+1 Urza's Bauble
+1 Vexing Bauble
+1 Voltaic Key
+1 Wizard's Rockets
+1 Bovine Intervention
+1 Enlightened Tutor
+1 Faith's Reward
+1 Path to Exile
+1 Silence
+1 Surge of Salvation
+1 Blind Obedience
+1 Tezzeret, Cruel Captain
+1 Ancient Den
+1 Arid Mesa
+1 Buried Ruin
+1 Darksteel Citadel
+1 Emergence Zone
+1 Flooded Strand
+1 Fomori Vault
+1 Gemstone Caverns
+1 Ghost Quarter
+1 Inventors' Fair
+1 Marsh Flats
+13 Plains
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Windswept Heath
+Sideboard
+1 Oswald Fiddlebender

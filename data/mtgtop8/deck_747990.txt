@@ -1,0 +1,91 @@
+1 Adeline, Resplendent Cathar
+1 Battle Angels of Tyr
+1 Breathless Knight
+1 Cavalier of Dawn
+1 Cavalier of Night
+1 Dion, Bahamut's Dominant
+1 Exsanguinator Cavalry
+1 Glen Elendra Liege
+1 Guardian of Faith
+1 Haakon, Stromgald Scourge
+1 Haytham Kenway
+1 Herald of Hoofbeats
+1 Kinsbaile Cavalier
+1 Knight Exemplar
+1 Marshal of Zhalfir
+1 Mirror Entity
+1 Moonshaker Cavalry
+1 Skyhunter Strike Force
+1 Squall, SeeD Mercenary
+1 Summon: Knights of Round
+1 Summon: Primal Odin
+1 Suppressor Skyguard
+1 The Council of Four
+1 Thistledown Liege
+1 Vodalian Wave-Knight
+1 Westfold Rider
+1 Wintermoor Commander
+1 Wonder
+1 Arcane Signet
+1 Herald's Horn
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Whip of Erebos
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Counterspell
+1 Dovin's Veto
+1 Flare of Fortitude
+1 Gideon's Sacrifice
+1 Long River's Pull
+1 Path to Exile
+1 Render Silent
+1 Unbreakable Formation
+1 Virtue of Loyalty
+1 Void Rend
+1 Austere Command
+1 Grim Tutor
+1 Split Up
+1 Toxic Deluge
+1 Cathars' Crusade
+1 Darksteel Mutation
+1 Ghostly Prison
+1 Imprisoned in the Moon
+1 Kaya's Ghostform
+1 Kindred Discovery
+1 Oversold Cemetery
+1 Propaganda
+1 Reconnaissance
+1 Reflections of Littjara
+1 Teferi's Ageless Insight
+1 Invasion of New Phyrexia
+1 Arcane Sanctum
+1 Bleachbone Verge
+1 Choked Estuary
+1 Command Tower
+1 Deserted Beach
+1 Drowned Catacomb
+1 Flooded Strand
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Godless Shrine
+2 Island
+1 Isolated Chapel
+1 Orzhov Basilica
+1 Path of Ancestry
+8 Plains
+1 Polluted Delta
+1 Port Town
+1 Prairie Stream
+1 Secluded Courtyard
+1 Shineshadow Snarl
+1 Shipwreck Marsh
+1 Skycloud Expanse
+1 Sunken Hollow
+2 Swamp
+1 Unclaimed Territory
+1 Watery Grave
+Sideboard
+1 Sidar Jabari of Zhalfir

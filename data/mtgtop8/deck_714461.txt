@@ -1,0 +1,101 @@
+1 Tandem Lookout
+1 Spellskite
+1 Clever Impersonator
+1 Lightning-Rig Crew
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 Colossal Skyturtle
+1 Kinnan, Bonder Prodigy
+1 Spellseeker
+1 Elvish Mystic
+1 Birds of Paradise
+1 Siren Stormtamer
+1 Professional Face-Breaker
+1 Pollywog Prodigy
+1 Snapcaster Mage
+1 Glint-Horn Buccaneer
+1 Simian Spirit Guide
+1 Fyndhorn Elves
+1 Elvish Spirit Guide
+1 Delighted Halfling
+1 Llanowar Elves
+1 Niv-Mizzet, Parun
+1 Reckless Fireweaver
+1 Tinder Wall
+1 Kediss, Emberclaw Familiar
+1 Lotus Petal
+1 Chrome Mox
+1 Mox Diamond
+1 Mana Vault
+1 The One Ring
+1 Sol Ring
+1 Pact of Negation
+1 Deflecting Swat
+1 Misdirection
+1 Mental Misstep
+1 Red Elemental Blast
+1 Trickery Charm
+1 Cyclonic Rift
+1 Pongify
+1 Force of Negation
+1 Worldly Tutor
+1 Swan Song
+1 Legolas's Quick Reflexes
+1 Archdruid's Charm
+1 Mana Drain
+1 Mindbreak Trap
+1 Commandeer
+1 Sink into Stupor
+1 Final Fortune
+1 Veil of Summer
+1 Fierce Guardianship
+1 Force of Will
+1 Mystical Tutor
+1 Chord of Calling
+1 Flusterstorm
+1 Force of Vigor
+1 Finale of Devastation
+1 Neoform
+1 Jeska's Will
+1 Timetwister
+1 Gamble
+1 Eldritch Evolution
+1 Rite of Flame
+1 Nature's Rhythm
+1 Survival of the Fittest
+1 Curiosity
+1 Amphibian Downpour
+1 Ophidian Eye
+1 Leyline of Transformation
+1 Rhystic Study
+1 Mystic Remora
+1 Invasion of Ikoria
+1 City of Traitors
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Polluted Delta
+1 Wooded Foothills
+1 Misty Rainforest
+1 Bloodstained Mire
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Breeding Pool
+1 Steam Vents
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 City of Brass
+1 Command Tower
+1 Windswept Heath
+1 Shifting Woodland
+1 Mistrise Village
+1 Mana Confluence
+1 Stomping Ground
+1 Hedge Maze
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Tana, the Bloodsower

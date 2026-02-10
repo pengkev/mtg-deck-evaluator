@@ -1,0 +1,90 @@
+1 Asmodeus the Archfiend
+1 Balthor the Defiled
+1 Blood Celebrant
+1 Blood Pet
+1 Chainer, Dementia Master
+1 Dauthi Voidwalker
+1 Elegy Acolyte
+1 Fleshwrither
+1 Gray Merchant of Asphodel
+1 Hoarding Broodlord
+1 Necrotic Ooze
+1 Nested Shambler
+1 Orcish Bowmasters
+1 Razaketh, the Foulblooded
+1 Sheoldred, the Apocalypse
+1 Sidisi, Undead Vizier
+1 Skirge Familiar
+1 Vile Entomber
+1 Vilis, Broker of Blood
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Grim Monolith
+1 Jet Medallion
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Amber
+1 Mox Diamond
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Voltaic Key
+1 Wishclaw Talisman
+1 Bile Blight
+1 Bitter Triumph
+1 Cabal Ritual
+1 Corpse Dance
+1 Culling the Weak
+1 Cut Down
+1 Dark Ritual
+1 Dismember
+1 Entomb
+1 Grasp of Darkness
+1 Sacrifice
+1 Saw in Half
+1 Shallow Grave
+1 Vampiric Tutor
+1 Victim of Night
+1 Beseech the Mirror
+1 Beseech the Queen
+1 Buried Alive
+1 Demonic Tutor
+1 Final Parting
+1 Grim Tutor
+1 Imperial Seal
+1 Peer into the Abyss
+1 Praetor's Grasp
+1 Reanimate
+1 Unmarked Grave
+1 Yawgmoth's Will
+1 Animate Dead
+1 Dance of the Dead
+1 Heartless Summoning
+1 Necromancy
+1 Necropotence
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Bazaar of Baghdad
+1 Blinkmoth Nexus
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Traitors
+1 Crystal Vein
+1 Emergence Zone
+1 Gemstone Caverns
+1 Lake of the Dead
+1 Marsh Flats
+1 Nykthos, Shrine to Nyx
+1 Peat Bog
+1 Phyrexian Tower
+1 Polluted Delta
+12 Swamp
+1 Verdant Catacombs
+Sideboard
+1 K'rrik, Son of Yawgmoth

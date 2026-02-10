@@ -1,0 +1,101 @@
+1 Faerie Macabre
+1 Mothdust Changeling
+1 Memnite
+1 Phyrexian Walker
+1 Ingenious Infiltrator
+1 Universal Automaton
+1 Thassa's Oracle
+1 Mistblade Shinobi
+1 Changeling Outcast
+1 Subtlety
+1 Thousand-Faced Shadow
+1 Moon-Circuit Hacker
+1 Prosperous Thief
+1 Sakashima's Student
+1 Ornithopter
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Troll of Khazad-dum
+1 Opposition Agent
+1 Volatile Stormdrake
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Skullsnatcher
+1 Dauthi Voidwalker
+1 Lotus Petal
+1 Sol Ring
+1 Chrome Mox
+1 Mox Diamond
+1 Spellbook
+1 Talisman of Dominance
+1 Mox Amber
+1 Mystical Dispute
+1 Arcane Denial
+1 Misdirection
+1 Dispel
+1 Thought Scour
+1 Dark Ritual
+1 Flusterstorm
+1 Force of Negation
+1 Fierce Guardianship
+1 Dismember
+1 Demonic Consultation
+1 Force of Will
+1 Spell Pierce
+1 Concerted Defense
+1 Tainted Pact
+1 Dig Through Time
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Stern Scolding
+1 Swan Song
+1 Deadly Rollick
+1 Snuff Out
+1 Mindbreak Trap
+1 Commandeer
+1 Flare of Denial
+1 Flare of Malice
+1 Sink into Stupor
+1 Mental Misstep
+1 Demonic Tutor
+1 Treasure Cruise
+1 Reanimate
+1 Gitaxian Probe
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Lorien Revealed
+1 Temporal Trespass
+1 Doomsday
+1 Rhystic Study
+1 Dress Down
+1 Mystic Remora
+1 Necropotence
+1 Jace, Wielder of Mysteries
+1 Island
+1 Swamp
+1 Command Tower
+1 Watery Grave
+1 Marsh Flats
+1 Prismatic Vista
+1 Snow-Covered Island
+1 Mana Confluence
+1 Underground Sea
+1 Sunken Ruins
+1 River of Tears
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Darkslick Shores
+1 Drowned Catacomb
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Gloomlake Verge
+1 Underground River
+1 Cephalid Coliseum
+Sideboard
+1 Yuriko, the Tiger's Shadow

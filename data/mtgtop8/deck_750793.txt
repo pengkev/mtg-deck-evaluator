@@ -1,0 +1,101 @@
+1 Allosaurus Shepherd
+1 Birds of Paradise
+1 Bloom Tender
+1 Cloud of Faeries
+1 Deadeye Navigator
+1 Delighted Halfling
+1 Destiny Spinner
+1 Displacer Kitten
+1 Dualcaster Mage
+1 Elvish Mystic
+1 Endurance
+1 Eternal Witness
+1 Faerie Mastermind
+1 Hullbreaker Horror
+1 Imperial Recruiter
+1 Kinnan, Bonder Prodigy
+1 Lilysplash Mentor
+1 Llanowar Elves
+1 Mockingbird
+1 Peregrine Drake
+1 Ragavan, Nimble Pilferer
+1 Spellseeker
+1 Squee, the Immortal
+1 Tinder Wall
+1 Weftstalker Ardent
+1 Arcane Signet
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Chord of Calling
+1 Consign to Memory
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Essence Flux
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Ghostly Flicker
+1 Legolas's Quick Reflexes
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Noxious Revival
+1 Pyroblast
+1 Red Elemental Blast
+1 Resculpt
+1 Sink into Stupor
+1 Snap
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Molten Duplication
+1 Neoform
+1 Warrior's Oath
+1 Carpet of Flowers
+1 Food Chain
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Underworld Breach
+1 Wild Growth
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Breeding Pool
+1 Command Tower
+1 Copperline Gorge
+1 Flooded Strand
+1 Forest
+1 Gemstone Caverns
+1 Island
+1 Karplusan Forest
+1 Ketria Triome
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Shifting Woodland
+1 Spirebluff Canal
+1 Steam Vents
+1 Stomping Ground
+1 Thornspire Verge
+1 Training Center
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Loot, the Pathfinder

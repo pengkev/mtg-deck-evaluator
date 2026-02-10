@@ -1,0 +1,86 @@
+1 Apex Altisaur
+1 Cacophodon
+1 Charging Tuskodon
+1 Curator of Sun's Creation
+1 Earthshaker Dreadmaw
+1 Etali, Primal Conqueror
+1 Etali, Primal Storm
+1 Forerunner of the Empire
+1 Ghalta and Mavren
+1 Ghalta, Stampede Tyrant
+1 Gishath, Sun's Avatar
+1 Goring Ceratops
+1 Huatli, Poet of Unity
+1 Hulking Raptor
+1 Hunting Velociraptor
+1 Intrepid Paleontologist
+1 Kinjalli's Caller
+1 Kinjalli's Sunwing
+1 Marauding Raptor
+1 Otepec Huntmaster
+1 Palani's Hatcher
+1 Quartzwood Crasher
+1 Ranging Raptors
+1 Regisaur Alpha
+1 Ripjaw Raptor
+1 Roaming Throne
+1 Runic Armasaur
+1 Scion of Calamity
+1 Scytheclaw Raptor
+1 Sunfrill Imitator
+1 Topiary Stomper
+1 Trumpeting Carnosaur
+1 Tyrranax Rex
+1 Verdant Sun's Avatar
+1 Wrathful Raptors
+1 Xenagos, God of Revels
+1 Zacama, Primal Calamity
+1 Arcane Signet
+1 Conjurer's Closet
+1 Gruul Signet
+1 Sol Ring
+1 Akroma's Will
+1 Entish Restoration
+1 Generous Gift
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Unbreakable Formation
+1 Worldly Tutor
+1 Chandra's Ignition
+1 Cultivate
+1 Farseek
+1 Fiery Confluence
+1 Migration Path
+1 Rampant Growth
+1 Rishkar's Expertise
+1 From the Rubble
+1 Garruk's Uprising
+1 Monstrous Vortex
+1 Poetic Ingenuity
+1 Rhythm of the Wild
+1 Spelunking
+1 Up the Beanstalk
+1 Invasion of Ikoria
+1 Huatli, Warrior Poet
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+8 Forest
+1 Fortified Village
+1 Game Trail
+1 Jungle Shrine
+1 Mosswort Bridge
+5 Mountain
+5 Plains
+1 Razorverge Thicket
+1 Secluded Courtyard
+1 Sheltering Landscape
+1 Sundown Pass
+1 Terramorphic Expanse
+1 Unclaimed Territory
+1 Windswept Heath
+Sideboard
+1 Pantlaza, Sun-Favored

@@ -1,0 +1,101 @@
+1 Hoarding Broodlord
+1 Aetherflux Reservoir
+1 Apple of Eden, Isu Relic
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Defense Grid
+1 Grim Monolith
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Ruby Medallion
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Desperate Ritual
+1 Divergent Transformations
+1 Entomb
+1 Final Fortune
+1 Flare of Duplication
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Ricochet Trap
+1 Sacrifice
+1 Saw in Half
+1 Seething Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Claim the Firstborn
+1 Demonic Tutor
+1 Faithless Looting
+1 Gamble
+1 Grim Tutor
+1 Imperial Seal
+1 Jeska's Will
+1 Last Chance
+1 Mizzix's Mastery
+1 Peer into the Abyss
+1 Praetor's Grasp
+1 Reality Scramble
+1 Reanimate
+1 Rite of Flame
+1 Strike It Rich
+1 Thoughtseize
+1 Transmogrify
+1 Warrior's Oath
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Will of the Jeskai
+1 Yawgmoth's Will
+1 Animate Dead
+1 Dance of the Dead
+1 Guild Artisan
+1 Necropotence
+1 Shifting Shadow
+1 Underworld Breach
+1 Vessel of Volatility
+1 Lukka, Coppercoat Outcast
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Peat Bog
+1 Polluted Delta
+1 Raucous Theater
+1 Sandstone Needle
+1 Scalding Tarn
+1 Starting Town
+1 Verdant Catacombs
+Sideboard
+1 Francisco, Fowl Marauder
+1 Rograkh, Son of Rohgahh

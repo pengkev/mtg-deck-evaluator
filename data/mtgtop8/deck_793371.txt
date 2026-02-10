@@ -1,0 +1,101 @@
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 Devourer of Destiny
+1 Goblin Engineer
+1 Goblin Welder
+1 Iron Myr
+1 Leaden Myr
+1 Liberator, Urza's Battlethopter
+1 Metalworker
+1 Ornithopter of Paradise
+1 Painter's Servant
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Voltaic Construct
+1 Voltaic Servant
+1 Walking Ballista
+1 Zookeeper Mechan
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Expedition Map
+1 Fellwar Stone
+1 Forsaken Monument
+1 Grim Monolith
+1 Grindstone
+1 Lion's Eye Diamond
+1 Liquimetal Torque
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Moonsilver Key
+1 Mox Diamond
+1 Mox Opal
+1 Rings of Brighthearth
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Unwinding Clock
+1 Voltaic Key
+1 Wishclaw Talisman
+1 Abrade
+1 Dark Ritual
+1 Deflecting Swat
+1 Fatal Push
+1 Fell the Profane
+1 Kozilek's Command
+1 Null Elemental Blast
+1 Pyroblast
+1 Red Elemental Blast
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Valakut Awakening
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Dimir Machinations
+1 Gamble
+1 Imperial Seal
+1 Insatiable Avarice
+1 Reforge the Soul
+1 Rite of Flame
+1 Vandalblast
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Black Market Connections
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Badlands
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Buried Ruin
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Darksteel Citadel
+1 Deserted Temple
+1 Emergence Zone
+1 Gemstone Caverns
+1 Glimmervoid
+1 Great Furnace
+1 Inventors' Fair
+1 Mount Doom
+1 Mountain
+1 Planar Nexus
+1 Scorched Ruins
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Sulfurous Springs
+1 Swamp
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Urza's Workshop
+1 Vault of Whispers
+1 Vesuva
+Sideboard
+1 Fire Lord Ozai

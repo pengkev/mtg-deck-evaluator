@@ -1,0 +1,101 @@
+1 Corridor Monitor
+1 Diversion Unit
+1 Filigree Sages
+1 Iron Man, Titan of Innovation
+1 Master Transmuter
+1 Myr Welder
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Spellskite
+1 Transit Mage
+1 Treasure Mage
+1 Twinshot Sniper
+1 Vizier of Tumbling Sands
+1 Basalt Monolith
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Esoteric Duplicator
+1 God-Pharaoh's Statue
+1 Imposter Mech
+1 Krark-Clan Ironworks
+1 Lithoform Engine
+1 Lotus Petal
+1 Machine God's Effigy
+1 Magewright's Stone
+1 Manifold Key
+1 Moonsilver Key
+1 Mox Diamond
+1 Patriar's Seal
+1 Repurposing Bay
+1 Rings of Brighthearth
+1 Sculpting Steel
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Thousand-Year Elixir
+1 Ugin's Nexus
+1 Unwinding Clock
+1 Voltaic Key
+1 An Offer You Can't Refuse
+1 Cerulean Wisps
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Sink into Stupor
+1 Strix Serenade
+1 Swan Song
+1 Twiddle
+1 Whir of Invention
+1 Argivian Restoration
+1 Fabricate
+1 Gamble
+1 Reckless Handling
+1 Sea Gate Restoration
+1 Transmute Artifact
+1 Trash for Treasure
+1 Mystic Remora
+1 Rhystic Study
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Buried Ruin
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Fomori Vault
+1 Gemstone Caverns
+1 Great Furnace
+1 Inventors' Fair
+1 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plaza of Heroes
+1 Polluted Delta
+1 Riverglide Pathway
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+Sideboard
+1 Jhoira, Ageless Innovator

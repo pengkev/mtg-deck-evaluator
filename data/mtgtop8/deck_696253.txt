@@ -1,0 +1,78 @@
+1 Phyrexian Delver
+1 Chainer, Dementia Master
+1 Crypt Ghast
+1 Viscera Seer
+1 Mikaeus, the Unhallowed
+1 Skirge Familiar
+1 Dark Impostor
+1 Magus of the Coffers
+1 Sidisi, Undead Vizier
+1 Stitcher's Supplier
+1 Opposition Agent
+1 Tergrid, God of Fright
+1 Dauthi Voidwalker
+1 Sheoldred, the Apocalypse
+1 Orcish Bowmasters
+1 Bloodletter of Aclazotz
+1 Unstoppable Slasher
+1 Ayara, First of Locthwain
+1 Syr Konrad, the Grim
+1 Carrion Feeder
+1 Gray Merchant of Asphodel
+1 Massacre Wurm
+1 Necrotic Ooze
+1 Walking Ballista
+1 Vilis, Broker of Blood
+1 Vito, Thorn of the Dusk Rose
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Whip of Erebos
+1 Mox Diamond
+1 Jet Medallion
+1 Bolas's Citadel
+1 Chaos Wand
+1 The One Ring
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Aetherflux Reservoir
+1 Ashnod's Altar
+1 Lightning Greaves
+1 Sol Ring
+1 Thought Vessel
+1 Mana Vault
+1 Swiftfoot Boots
+1 Entomb
+1 Sudden Spoiling
+1 Vampiric Tutor
+1 Hero's Downfall
+1 Deadly Rollick
+1 Withering Boon
+1 Vona's Hunger
+1 Dark Ritual
+1 Reanimate
+1 Toxic Deluge
+1 Tendrils of Agony
+1 Chain of Smog
+1 Mastermind's Acquisition
+1 Agadeem's Awakening
+1 Demonic Tutor
+1 Dread Return
+1 Peer into the Abyss
+1 Buried Alive
+1 Sanguine Bond
+1 Strands of Night
+1 Exquisite Blood
+1 Heartless Summoning
+1 Animate Dead
+1 Phyrexian Reclamation
+1 Leyline of the Void
+1 Professor Onyx
+1 Ancient Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Vesuva
+1 Nykthos, Shrine to Nyx
+1 Bojuka Bog
+1 Reliquary Tower
+24 Swamp
+Sideboard
+1 K'rrik, Son of Yawgmoth

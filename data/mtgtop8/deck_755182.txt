@@ -1,0 +1,90 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Archon of Emeria
+1 Birds of Paradise
+1 Dryad of the Ilysian Grove
+1 Faeburrow Elder
+1 Gluntch, the Bestower
+1 Kodama of the East Tree
+1 Loot, Exuberant Explorer
+1 Mangara, the Diplomat
+1 Omo, Queen of Vesuva
+1 Sakura-Tribe Scout
+1 Selfless Squire
+1 Selvala, Explorer Returned
+1 Sergeant John Benton
+1 Shattered Angel
+1 The Council of Four
+1 The Second Doctor
+1 Tireless Provisioner
+1 Windborn Muse
+1 Arcane Signet
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Angel's Grace
+1 Arachnogenesis
+1 Counterspell
+1 Dovin's Veto
+1 Equal Treatment
+1 Flare of Fortitude
+1 Fog
+1 Growth Spiral
+1 Lull
+1 Master Warcraft
+1 Moment's Peace
+1 Negate
+1 Obscuring Haze
+1 Permission Denied
+1 Swords to Plowshares
+1 Approach of the Second Sun
+1 Blasphemous Act
+1 Cultivate
+1 Disrupt Decorum
+1 Explore
+1 Fell the Mighty
+1 Open the Gates
+1 Part the Waterveil
+1 Play of the Game
+1 Reshape the Earth
+1 Tempt with Discovery
+1 Urban Evolution
+1 Venture Forth
+1 Arcane Laboratory
+1 Case of the Locked Hothouse
+1 Declaration of Naught
+1 Ghostly Prison
+1 Mirari's Wake
+1 Propaganda
+1 Rule of Law
+1 Smuggler's Share
+1 Spelunking
+1 Sylvan Library
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Baldur's Gate
+1 Boros Garrison
+1 Boros Guildgate
+1 Cascade Bluffs
+1 Citadel Gate
+1 Cliffgate
+1 Command Tower
+1 Flooded Grove
+6 Forest
+1 Gond Gate
+1 Gruul Guildgate
+1 Gruul Turf
+4 Island
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Labyrinth of Skophos
+1 Manor Gate
+1 Maze's End
+2 Mountain
+3 Plains
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Thran Portal
+Sideboard
+1 Kynaios and Tiro of Meletis

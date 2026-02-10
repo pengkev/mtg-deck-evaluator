@@ -1,0 +1,101 @@
+1 Aerith Gainsborough
+1 Archivist of Oghma
+1 Aven Mindcensor
+1 Birgi, God of Storytelling
+1 Containment Priest
+1 Dragon's Rage Channeler
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Malevolent Hermit
+1 Mockingbird
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Vivi Ornitier
+1 Voice of Victory
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Imposter Mech
+1 Library of Leng
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The One Ring
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Fire Magic
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Pact of Negation
+1 Path to Exile
+1 Retraction Helix
+1 Silence
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Gamble
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Mystic Remora
+1 Paladin Class
+1 Rhystic Study
+1 Seal of Cleansing
+1 Seal of Fire
+1 Smothering Tithe
+1 Telepathy
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Mistrise Village
+1 Mountain
+1 Otawara, Soaring City
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Raugrin Triome
+1 Scalding Tarn
+1 Starting Town
+1 Steam Vents
+1 Thundering Falls
+1 Tundra
+1 Volcanic Island
+Sideboard
+1 Narset, Jeskai Waymaster

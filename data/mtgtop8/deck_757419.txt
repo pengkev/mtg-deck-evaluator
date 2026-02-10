@@ -1,0 +1,79 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Balmor, Battlemage Captain
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Enduring Curiosity
+1 Frolicking Familiar
+1 Kitsa, Otterball Elite
+1 Ledger Shredder
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Third Path Iconoclast
+1 Valley Floodcaller
+1 Veyran, Voice of Duality
+1 Young Pyromancer
+1 Arcane Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Bulk Up
+1 Chaos Warp
+1 Consider
+1 Counterspell
+1 Demand Answers
+1 Flusterstorm
+1 Frantic Search
+1 Mental Misstep
+1 Mystical Tutor
+1 Opt
+1 Pongify
+1 Pyretic Ritual
+1 Rapid Hybridization
+1 Seething Song
+1 Snap
+1 Swan Song
+1 Tolarian Winds
+1 Twinferno
+1 Careful Study
+1 Expressive Iteration
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Haze of Rage
+1 Jeska's Will
+1 Last Chance
+1 Mana Geyser
+1 Mizzix's Mastery
+1 Pearl of Wisdom
+1 Personal Tutor
+1 Ponder
+1 Preordain
+1 Seize the Spotlight
+1 Sleight of Hand
+1 Solve the Equation
+1 Vandalblast
+1 Will of the Jeskai
+1 Windfall
+1 Case of the Ransacked Lab
+1 Frostcliff Siege
+1 Mystic Remora
+1 Command Tower
+1 Fiery Islet
+1 Frostboil Snarl
+14 Island
+10 Mountain
+1 Riverglide Pathway
+1 Riverpyre Verge
+1 Shivan Reef
+1 Spirebluff Canal
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Training Center
+Sideboard
+1 Bria, Riptide Rogue

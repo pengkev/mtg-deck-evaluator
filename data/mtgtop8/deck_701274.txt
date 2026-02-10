@@ -1,0 +1,92 @@
+6 Mountain
+5 Plains
+1 Exotic Orchard
+1 Temple of Triumph
+1 Abstergo Entertainment
+1 Horizon of Progress
+1 Vesuva
+1 Arena of Glory
+1 Sunscorched Divide
+1 Furycalm Snarl
+1 Echoing Deeps
+1 Pit of Offerings
+1 Hidden Courtyard
+1 Hidden Volcano
+1 Mines of Moria
+1 Petrified Field
+1 Needleverge Pathway
+1 Command Tower
+1 Crystal Vein
+1 Clifftop Retreat
+1 Sandstone Needle
+1 Remote Farm
+1 Battlefield Forge
+1 Maze of Ith
+1 Ruins of Trokair
+1 Dwarven Ruins
+1 Quintorius Kand
+1 Chandra, Torch of Defiance
+1 Reconnaissance
+1 Rest in Peace
+1 Wild Wasteland
+1 Valakut Exploration
+1 Fiery Emancipation
+1 Deafening Silence
+1 Wrenn's Resolve
+1 Farewell
+1 Flicker
+1 Anger of the Gods
+1 Relentless Assault
+1 Gamble
+1 Bonus Round
+1 Tibalt's Trickery
+1 Acrobatic Maneuver
+1 Ephemerate
+1 Path to Exile
+1 Swords to Plowshares
+1 Brotherhood Regalia
+1 Sonic Screwdriver
+1 Tome of Legends
+1 Psychic Paper
+1 Arcane Signet
+1 Wedding Ring
+1 TARDIS
+1 Talisman of Conviction
+1 Sword of Forge and Frontier
+1 Mind Stone
+1 Luxior, Giada's Gift
+1 Basilisk Collar
+1 Sol Talisman
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Whispersilk Cloak
+1 Boros Signet
+1 Sol Ring
+1 Spirit of the Labyrinth
+1 Grenzo, Havoc Raiser
+1 Party Thrasher
+1 Laelia, the Blade Reforged
+1 Inti, Seneschal of the Sun
+1 Bonehoard Dracosaur
+1 Clara Oswald
+1 Plargg and Nassari
+1 Solphim, Mayhem Dominus
+1 Lae'zel, Vlaakith's Champion
+1 Professional Face-Breaker
+1 Wild-Magic Sorcerer
+1 Imperial Recruiter
+1 Dualcaster Mage
+1 Biblioplex Assistant
+1 Magmatic Channeler
+1 Simian Spirit Guide
+1 Bastion Protector
+1 Knight of the White Orchid
+1 Walking Atlas
+1 Ruin Ghost
+1 Norin the Wary
+1 Goblin Engineer
+1 Giver of Runes
+1 Mother of Runes
+Sideboard
+1 Ryan Sinclair
+1 The War Doctor

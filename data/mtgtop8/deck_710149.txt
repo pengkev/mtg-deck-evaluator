@@ -1,0 +1,97 @@
+1 Gilded Goose
+1 Avacyn's Pilgrim
+1 Containment Priest
+1 Linvala, Keeper of Silence
+1 Ranger-Captain of Eos
+1 Archon of Valor's Reach
+1 Kataki, War's Wage
+1 Elesh Norn, Grand Cenobite
+1 Drannith Magistrate
+1 Elvish Spirit Guide
+1 Birds of Paradise
+1 Elvish Mystic
+1 Sanctum Prelate
+1 Serra Ascendant
+1 Sylvan Safekeeper
+1 Yasharn, Implacable Earth
+1 Archon of Emeria
+1 Fyndhorn Elves
+1 Halvar, God of Battle
+1 Solitude
+1 Esper Sentinel
+1 Sanctum Weaver
+1 Endurance
+1 Kodama of the West Tree
+1 Archivist of Oghma
+1 Leonin Arbiter
+1 Collector Ouphe
+1 Sigarda, Font of Blessings
+1 Delighted Halfling
+1 Boromir, Warden of the Tower
+1 Archon of the Wild Rose
+1 Doorkeeper Thrull
+1 Aven Interrupter
+1 Witch Enchanter
+1 Fanatic of Rhonas
+1 Ocelot Pride
+1 Gaddock Teeg
+1 Clarion Conqueror
+1 Llanowar Elves
+1 Aven Mindcensor
+1 Grafdigger's Cage
+1 Lotus Petal
+1 Sol Ring
+1 Null Rod
+1 Mox Diamond
+1 Chrome Mox
+1 Weathered Runestone
+1 Swords to Plowshares
+1 Silence
+1 Eladamri's Call
+1 Worldly Tutor
+1 Crop Rotation
+1 Path to Exile
+1 Enlightened Tutor
+1 Surge of Salvation
+1 Legolas's Quick Reflexes
+1 Galadriel's Dismissal
+1 Green Sun's Zenith
+1 Bridgeworks Battle
+1 Deafening Silence
+1 Survival of the Fittest
+1 Land Tax
+1 Stony Silence
+1 Root Maze
+1 Carpet of Flowers
+1 Exploration
+1 Suppression Field
+1 Rest in Peace
+1 Greater Auramancy
+1 Touch the Spirit Realm
+1 Wild Growth
+1 Homeward Path
+1 Ancient Tomb
+1 Temple Garden
+1 Cavern of Souls
+1 Serra's Sanctum
+1 Savannah
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Wooded Foothills
+1 Windswept Heath
+1 Marsh Flats
+1 Misty Rainforest
+1 Command Tower
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Bountiful Promenade
+1 City of Brass
+1 Brushland
+1 Branchloft Pathway
+1 Talon Gates of Madara
+1 Hushwood Verge
+1 Command Beacon
+3 Forest
+3 Plains
+Sideboard
+1 Ellivere of the Wild Court

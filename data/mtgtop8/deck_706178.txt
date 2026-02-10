@@ -1,0 +1,84 @@
+1 Felidar Guardian
+1 Brago, King Eternal
+1 Thalia's Lancers
+1 Trinket Mage
+1 Soulherder
+1 Tribute Mage
+1 Eidolon of Rhetoric
+1 Stonehorn Dignitary
+1 Inquisitor Exarch
+1 Reflector Mage
+1 Sea Gate Oracle
+1 Guardian of Faith
+1 Thalia, Guardian of Thraben
+1 Cloud of Faeries
+1 Peregrine Drake
+1 Lavinia, Azorius Renegade
+1 Loran of the Third Path
+1 Wall of Omens
+1 Phelia, Exuberant Shepherd
+1 Witch Enchanter
+1 Solemn Simulacrum
+1 Aether Channeler
+1 Restoration Angel
+1 Thassa's Oracle
+1 Dour Port-Mage
+1 Archon of Emeria
+1 Displacer Kitten
+1 Ethersworn Canonist
+1 Nevermaker
+1 Spirited Companion
+1 Laboratory Maniac
+1 Transit Mage
+1 Deadeye Navigator
+1 Prismatic Lens
+1 Fellwar Stone
+1 Sword of Hearth and Home
+1 Prized Statue
+1 The Mightstone and Weakstone
+1 Mycosynth Wellspring
+1 Ichor Wellspring
+1 Lembas
+1 Talisman of Progress
+1 Sol Ring
+1 Azorius Signet
+1 Thought Vessel
+1 Arcane Signet
+1 Panharmonicon
+1 Grafdigger's Cage
+1 Conjurer's Closet
+1 Ephemerate
+1 Cloudshift
+1 Planar Incision
+1 Lae'zel's Acrobatics
+1 Momentary Blink
+1 Virtue of Knowledge
+1 Essence Flux
+1 Rule of Law
+1 Smothering Tithe
+1 Omen of the Sea
+1 Reality Acid
+1 Rhystic Study
+1 Stony Silence
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Azorius Guildgate
+1 Evolving Wilds
+1 Nimbus Maze
+1 Command Tower
+1 Deserted Beach
+1 Port Town
+1 Temple of the False God
+1 Reliquary Tower
+1 Azorius Chancery
+1 Rogue's Passage
+1 Irrigated Farmland
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Path of Ancestry
+1 Prairie Stream
+9 Plains
+10 Island
+Sideboard
+1 Abdel Adrian, Gorion's Ward
+1 Candlekeep Sage

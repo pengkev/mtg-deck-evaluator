@@ -1,0 +1,98 @@
+1 Razaketh, the Foulblooded
+1 Thassa's Oracle
+1 Opposition Agent
+1 Ledger Shredder
+1 Toluz, Clever Conductor
+1 Ghostly Pilferer
+1 Notion Thief
+1 Lavinia, Azorius Renegade
+1 Esper Sentinel
+1 Aven Mindcensor
+1 Dauthi Voidwalker
+1 Mausoleum Wanderer
+1 Laboratory Maniac
+1 Grand Abolisher
+1 Lightning Greaves
+1 Chrome Mox
+1 Mox Opal
+1 Mox Diamond
+1 Sol Ring
+1 Mox Amber
+1 Sensei's Divining Top
+1 Swiftfoot Boots
+1 Arcane Signet
+1 Lotus Petal
+1 Dark Ritual
+1 Cabal Ritual
+1 Swords to Plowshares
+1 Intuition
+1 Dovin's Veto
+1 Demonic Consultation
+1 Force of Will
+1 Cyclonic Rift
+1 Brainstorm
+1 Negate
+1 Mana Drain
+1 Vampiric Tutor
+1 Void Rend
+1 Force of Negation
+1 Entomb
+1 Enlightened Tutor
+1 Mystical Tutor
+1 Swan Song
+1 Path to Exile
+1 Mindbreak Trap
+1 Sink into Stupor
+1 Mental Misstep
+1 Lim-Dul's Vault
+1 Narset's Reversal
+1 Teferi's Protection
+1 Demonic Tutor
+1 Supreme Verdict
+1 Grim Tutor
+1 Diabolic Tutor
+1 Doomsday
+1 Damnation
+1 Ponder
+1 Diabolic Intent
+1 Reanimate
+1 Damn
+1 Animate Dead
+1 Smothering Tithe
+1 Rhystic Study
+1 Aura of Silence
+1 Dance of the Dead
+1 Blind Obedience
+1 Necromancy
+1 Propaganda
+1 Ghostly Prison
+1 Mirrormade
+1 Leyline of the Void
+1 Mystic Remora
+1 Phyrexian Arena
+1 Watery Grave
+1 Hallowed Fountain
+1 Godless Shrine
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Bloodstained Mire
+1 Polluted Delta
+1 Verdant Catacombs
+1 Arid Mesa
+1 Gemstone Caverns
+1 Command Tower
+1 Reliquary Tower
+1 Meticulous Archive
+1 Undercity Sewers
+1 Windswept Heath
+1 Concealed Courtyard
+1 City of Brass
+2 Island
+2 Plains
+2 Swamp
+1 Shadowy Backstreet
+1 Flooded Strand
+Sideboard
+1 Raffine, Scheming Seer

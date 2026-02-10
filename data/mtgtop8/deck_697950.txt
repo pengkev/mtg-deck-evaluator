@@ -1,0 +1,56 @@
+1 Overwhelmed Apprentice
+1 Jace's Archivist
+1 Manic Scribe
+1 Dreamborn Muse
+1 Fleet Swallower
+1 Jace's Phantasm
+1 Undead Alchemist
+1 Terisian Mindbreaker
+1 Drift of Phantasms
+1 The Mindskinner
+20 Persistent Petitioners
+1 Arcane Signet
+1 Folio of Fancies
+1 Mind Stone
+1 Sol Ring
+1 Altar of the Brood
+1 Sapphire Medallion
+1 Thought Vessel
+1 Ghoulcaller's Bell
+1 Sky Diamond
+1 Decanter of Endless Water
+1 Grindstone
+1 Isochron Scepter
+1 Unsubstantiate
+1 Thought Scour
+1 Brainstorm
+1 Long-Term Plans
+1 Psychic Spiral
+1 Dramatic Reversal
+1 Counterspell
+1 Mystical Tutor
+1 Snap
+1 Aetherize
+1 Archive Trap
+1 Arcane Denial
+1 Pongify
+1 Mind Sculpt
+1 Portent
+1 Preordain
+1 Tome Scour
+1 Traumatize
+1 Maddening Cacophony
+1 Ponder
+1 Fractured Sanity
+1 Memory Erosion
+1 Sphinx's Tutelage
+1 Jace's Erasure
+1 Psychic Corrosion
+1 Dissipation Field
+1 Fraying Sanity
+27 Island
+1 Reliquary Tower
+1 Sunscorched Desert
+1 Mystic Sanctuary
+Sideboard
+1 Bruvac the Grandiloquent

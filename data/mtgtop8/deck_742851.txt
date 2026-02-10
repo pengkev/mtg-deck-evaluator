@@ -1,0 +1,69 @@
+1 Archfiend of Depravity
+1 Archfiend of Despair
+1 Archon of Cruelty
+1 Blood Artist
+1 Bloodgift Demon
+1 Bloodletter of Aclazotz
+1 Butcher of Malakir
+1 Crypt Ghast
+1 Desecration Demon
+1 Doom Whisperer
+1 Doomsday Excruciator
+1 Gray Merchant of Asphodel
+1 Great Unclean One
+1 Grim Hireling
+1 Harvester of Souls
+1 Indulgent Tormentor
+1 Lord of the Void
+1 Maha, Its Feathers Night
+1 Ob Nixilis, the Fallen
+1 Ob Nixilis, Unshackled
+1 Ophiomancer
+1 Overseer of the Damned
+1 Phyrexian Obliterator
+1 Pitiless Plunderer
+1 Rakshasa Debaser
+1 Shadowgrange Archfiend
+1 Sheoldred
+1 Sheoldred, the Apocalypse
+1 Sheoldred, Whispering One
+1 Summon: Primal Odin
+1 Valgavoth, Terror Eater
+1 Witch of the Moors
+1 Arcane Signet
+1 Lightning Greaves
+1 Quicksilver Amulet
+1 Sol Ring
+1 Strixhaven Stadium
+1 The Darkness Crystal
+1 Thought Vessel
+1 Dark Ritual
+1 Fake Your Own Death
+1 Hero's Downfall
+1 Malakir Rebirth
+1 Offer Immortality
+1 Overkill
+1 Return to Action
+1 Sacrifice
+1 Supernatural Stamina
+1 Buried Alive
+1 Ever After
+1 Exhume
+1 Reanimate
+1 Rise of the Dark Realms
+1 Writ of Return
+1 Animate Dead
+1 Black Market Connections
+1 Funeral Room/Awakening Hall
+1 Greed
+1 Phyrexian Reclamation
+1 Revel in Riches
+1 The Creation of Avacyn
+1 The Meathook Massacre
+1 Liliana of the Dark Realms
+1 Cabal Coffers
+1 Mortuary Mire
+1 Rogue's Passage
+33 Swamp
+Sideboard
+1 Ardyn, the Usurper

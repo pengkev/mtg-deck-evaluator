@@ -1,0 +1,78 @@
+1 Birds of Paradise
+1 Delina, Wild Mage
+1 Elvish Mystic
+1 Etali, Primal Storm
+1 Eternal Witness
+1 Flaming Tyrannosaurus
+1 Fyndhorn Elves
+1 Goblin Anarchomancer
+1 Goreclaw, Terror of Qal Sisma
+1 Hellkite Courser
+1 Jaxis, the Troublemaker
+1 Llanowar Elves
+1 Nalfeshnee
+1 Orthion, Hero of Lavabrink
+1 Plargg and Nassari
+1 Rionya, Fire Dancer
+1 Sakura-Tribe Elder
+1 Savage Ventmaw
+1 Somberwald Sage
+1 Temur Sabertooth
+1 Topiary Stomper
+1 Wood Elves
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Blade of Selves
+1 Conjurer's Closet
+1 Cursed Mirror
+1 Helm of the Host
+1 Mirror Box
+1 Panharmonicon
+1 Sol Ring
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 The Fire Crystal
+1 Voyager Staff
+1 Beast Within
+1 Chaos Warp
+1 Entish Restoration
+1 Heroic Intervention
+1 Krosan Grip
+1 Return of the Wildspeaker
+1 Tamiyo's Safekeeping
+1 Bala Ged Recovery
+1 Blasphemous Act
+1 Call Forth the Tempest
+1 Cultivate
+1 Electroduplicate
+1 Heat Shimmer
+1 Jeska's Will
+1 Kodama's Reach
+1 Mana Geyser
+1 Molten Duplication
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Three Visits
+1 Twinflame
+1 Vandalblast
+1 Virtue of Strength
+1 Flameshadow Conjuring
+1 Garruk's Uprising
+1 Mirror March
+1 Rhythm of the Wild
+1 Splinter Twin
+1 Tribute to the World Tree
+1 Invasion of Zendikar
+1 Cinder Glade
+1 Command Tower
+13 Forest
+1 Game Trail
+1 Highland Forest
+1 Karplusan Forest
+12 Mountain
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Wooded Ridgeline
+Sideboard
+1 Etali, Primal Conqueror

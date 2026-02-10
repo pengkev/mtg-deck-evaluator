@@ -1,0 +1,95 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Archon of Valor's Reach
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloodroot Apothecary
+1 Boreal Druid
+1 Boromir, Warden of the Tower
+1 Brightglass Gearhulk
+1 Calix, Guided by Fate
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Containment Priest
+1 Delighted Halfling
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Esper Sentinel
+1 Fauna Shaman
+1 Fyndhorn Elves
+1 Gaddock Teeg
+1 Gilded Goose
+1 Heliod, Sun-Crowned
+1 Kataki, War's Wage
+1 Knight of the Reliquary
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Loran of the Third Path
+1 Mirri, Weatherlight Duelist
+1 Mother of Runes
+1 Phyrexian Censor
+1 Ranger-Captain of Eos
+1 Sanctum Prelate
+1 Sanctum Weaver
+1 Sigarda, Font of Blessings
+1 Skyclave Apparition
+1 Solitude
+1 Walking Ballista
+1 Yasharn, Implacable Earth
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Mox Diamond
+1 Sol Ring
+1 Angel's Grace
+1 Chord of Calling
+1 Crop Rotation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Everybody Lives!
+1 Path to Exile
+1 Reprieve
+1 Silence
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Farewell
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Deafening Silence
+1 Greater Auramancy
+1 Rest in Peace
+1 Sheltered by Ghosts
+1 Smothering Tithe
+1 Stony Silence
+1 Survival of the Fittest
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Bountiful Promenade
+1 Brushland
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Dryad Arbor
+1 Eiganjo, Seat of the Empire
+4 Forest
+1 Gaea's Cradle
+1 Hall of Heliod's Generosity
+1 Hushwood Verge
+1 Minas Tirith
+1 Misty Rainforest
+4 Plains
+1 Savannah
+1 Serra's Sanctum
+1 Temple Garden
+1 Verdant Catacombs
+1 Wasteland
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Ellivere of the Wild Court

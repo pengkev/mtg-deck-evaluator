@@ -1,0 +1,101 @@
+1 Teferi, Time Raveler
+1 Karn, the Great Creator
+1 Amphibian Downpour
+1 Touch the Spirit Realm
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Blind Obedience
+1 Sevinne's Reclamation
+1 Imperial Seal
+1 Demonic Tutor
+1 Toxic Deluge
+1 Mnemonic Betrayal
+1 Transmute Artifact
+1 Flusterstorm
+1 Thraben Charm
+1 Final Showdown
+1 Fierce Guardianship
+1 Cyclonic Rift
+1 Force of Negation
+1 An Offer You Can't Refuse
+1 Tainted Pact
+1 Vanishing Verse
+1 Silence
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Mindbreak Trap
+1 Swan Song
+1 Force of Will
+1 Demonic Consultation
+1 Mental Misstep
+1 Pact of Negation
+1 Dark Ritual
+1 Counterspell
+1 Whir of Invention
+1 Delay
+1 Mana Drain
+1 Sol Ring
+1 Disruptor Flute
+1 Arcane Signet
+1 The One Ring
+1 Lotus Petal
+1 Talisman of Progress
+1 Talisman of Dominance
+1 Chrome Mox
+1 Time Sieve
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Wishclaw Talisman
+1 Rev, Tithe Extractor
+1 Mockingbird
+1 Opposition Agent
+1 Lotho, Corrupt Shirriff
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Archivist of Oghma
+1 Displacer Kitten
+1 Ranger-Captain of Eos
+1 Solitude
+1 Esper Sentinel
+1 Drannith Magistrate
+1 Thassa's Oracle
+1 Gilded Drake
+1 Grand Abolisher
+1 Containment Priest
+1 Urza, Lord High Artificer
+1 Stormscape Familiar
+1 Phyrexian Metamorph
+1 Talon Gates of Madara
+1 Meticulous Archive
+1 Exotic Orchard
+1 City of Brass
+1 Cavern of Souls
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Ancient Tomb
+1 Polluted Delta
+1 Flooded Strand
+1 Marsh Flats
+1 Sea of Clouds
+1 Scalding Tarn
+1 Vault of Champions
+1 Mana Confluence
+1 Command Tower
+1 Island
+1 Urborg, Tomb of Yawgmoth
+1 Gemstone Caverns
+1 Underground Sea
+1 Tundra
+1 Scrubland
+1 Hallowed Fountain
+1 Godless Shrine
+1 Watery Grave
+1 Minamo, School at Water's Edge
+1 Urza's Saga
+Sideboard
+1 Tivit, Seller of Secrets

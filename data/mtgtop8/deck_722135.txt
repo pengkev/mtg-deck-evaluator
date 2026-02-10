@@ -1,0 +1,82 @@
+1 Miscast
+1 Dispel
+1 Hydroblast
+1 Blue Elemental Blast
+1 Negate
+1 Unsummon
+1 Delay
+1 Dovin's Veto
+1 Spell Pierce
+1 Borne Upon a Wind
+1 Swan Song
+1 No More Lies
+1 Bovine Intervention
+1 Strix Serenade
+1 Sink into Stupor
+1 Razorgrass Ambush
+1 Path to Exile
+1 Mental Misstep
+1 Wash Away
+1 Foil
+1 An Offer You Can't Refuse
+1 Strionic Resonator
+1 Damping Sphere
+1 Fellwar Stone
+1 Scroll of Fate
+1 Soul-Guide Lantern
+1 Sol Ring
+1 Arcane Signet
+1 Azorius Signet
+1 Talisman of Progress
+1 Arcane Laboratory
+1 Omen of the Sea
+1 Darksteel Mutation
+1 Roiling Dragonstorm
+1 Confounding Conundrum
+1 Teferi, Time Raveler
+1 Narset, Parter of Veils
+1 Rest in Peace
+1 Arcane Denial
+1 Counterspell
+1 Disenchant
+1 Swords to Plowshares
+1 Narset's Reversal
+1 Muddle the Mixture
+1 Sunfall
+1 Wrath of God
+1 Supreme Verdict
+1 Sevinne's Reclamation
+1 Deafening Silence
+1 Rule of Law
+1 Stupefying Touch
+1 Stasis
+1 Induced Amnesia
+1 Rune of Sustenance
+1 Unwanted Remake
+1 Blind Obedience
+1 Drannith Magistrate
+1 Doorkeeper Thrull
+1 Ghostly Pilferer
+1 Aven Interrupter
+1 Archon of Emeria
+1 Ethersworn Canonist
+1 Hushbringer
+1 Aven Mindcensor
+1 Dour Port-Mage
+1 Thalia, Heretic Cathar
+1 Weathered Wayfarer
+1 Gemstone Mine
+1 Monumental Henge
+1 Port Town
+1 Tolaria West
+1 Exotic Orchard
+1 Command Tower
+1 Glacial Fortress
+1 Prairie Stream
+1 Adarkar Wastes
+1 War Room
+1 Mystic Sanctuary
+10 Island
+11 Plains
+Sideboard
+1 Brago, King Eternal

@@ -1,0 +1,81 @@
+1 Miasmic Mummy
+1 Nighthowler
+1 Plaguecrafter
+1 Rune-Scarred Demon
+1 Sakura-Tribe Elder
+1 Doomed Necromancer
+1 Grim Haruspex
+1 Llanowar Elves
+1 Lhurgoyf
+1 Slum Reaper
+1 Sylvan Ranger
+1 Satyr Wayfinder
+1 Burglar Rat
+1 Elvish Mystic
+1 Cunning Lethemancer
+1 Sidisi, Undead Vizier
+1 Dire Fleet Ravager
+1 Quillspike
+1 Harvester Druid
+1 Demon's Disciple
+1 Nullpriest of Oblivion
+1 Elderfang Disciple
+1 Witherbloom Apprentice
+1 Sedgemoor Witch
+1 Sheoldred, Whispering One
+1 Morbid Opportunist
+1 Reclusive Taxidermist
+1 Devoted Druid
+1 Bonecaller Cleric
+1 Fauna Shaman
+1 Merciless Executioner
+1 Golgari Grave-Troll
+1 Doom Whisperer
+1 Wight of the Reliquary
+1 Accursed Marauder
+1 Mortivore
+1 Splinterfright
+1 Bolas's Citadel
+1 Wishclaw Talisman
+1 Broodheart Engine
+1 Sol Ring
+1 Putrefy
+1 Village Rites
+1 Dark Ritual
+1 Liliana's Triumph
+1 Vona's Hunger
+1 Soul Shatter
+1 Infernal Grasp
+1 Beacon of Unrest
+1 Mire in Misery
+1 Innocent Blood
+1 Buried Alive
+1 Diabolic Tutor
+1 Unearth
+1 Smallpox
+1 Victimize
+1 Chain of Acid
+1 Dark Petition
+1 Dread Return
+1 Chain of Smog
+1 Syphon Mind
+1 Reanimate
+1 Stitch Together
+1 Night's Whisper
+1 Painful Quandary
+1 Phyrexian Arena
+1 Grave Pact
+11 Swamp
+11 Forest
+1 Bojuka Bog
+1 Darksteel Citadel
+1 Temple of Malady
+1 Evolving Wilds
+1 Golgari Rot Farm
+1 Overgrown Tomb
+1 Woodland Cemetery
+1 Twilight Mire
+1 Llanowar Wastes
+1 Command Tower
+Sideboard
+1 Jarad, Golgari Lich Lord

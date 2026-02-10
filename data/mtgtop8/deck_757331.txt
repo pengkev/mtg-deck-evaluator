@@ -1,0 +1,86 @@
+1 Abomination of Llanowar
+1 Arwen, Weaver of Hope
+1 Beast Whisperer
+1 Canopy Tactician
+1 Dina, Soul Steeper
+1 Dionus, Elvish Archdruid
+1 Dwynen, Gilt-Leaf Daen
+1 Eladamri, Korvecdal
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Vanguard
+1 Elvish Warmaster
+1 End-Raze Forerunners
+1 Ezuri, Renegade Leader
+1 Gala Greeters
+1 Gyre Sage
+1 Haldir, Lorien Lieutenant
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Ivy Lane Denizen
+1 Jagged-Scar Archers
+1 Joraga Treespeaker
+1 Joraga Warcaller
+1 Legolas Greenleaf
+1 Llanowar Tribe
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Nullmage Shepherd
+1 Poison-Tip Archer
+1 Realm Seekers
+1 Realmwalker
+1 Rhys the Exiled
+1 Ruthless Winnower
+1 Shaman of the Pack
+1 Skemfar Shadowsage
+1 Timberwatch Elf
+1 Tyvar the Bellicose
+1 Voice of the Woods
+1 Wildborn Preserver
+1 Wirewood Channeler
+1 Yeva, Nature's Herald
+1 Arcane Signet
+1 Instrument of the Bards
+1 Lothlorien Blade
+1 Sol Ring
+1 Tarrian's Soulcleaver
+1 Whispersilk Cloak
+1 Elven Ambush
+1 Galadhrim Ambush
+1 Putrefy
+1 Windswift Slice
+1 Bounty of Skemfar
+1 Elvish Promenade
+1 Genesis Wave
+1 Harvest Season
+1 Haunting Voyage
+1 Pact of the Serpent
+1 Return Upon the Tide
+1 Crown of Skemfar
+1 Elderfang Venom
+1 Elven Chorus
+1 Elvish Guidance
+1 Growing Rites of Itlimoc
+1 Moldervine Reclamation
+1 Painful Quandary
+1 Prowess of the Fair
+1 Quest for Renewal
+1 Song of Freyalise
+1 Command Tower
+1 Exotic Orchard
+9 Forest
+1 Foul Orchard
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Jungle Hollow
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Secluded Courtyard
+1 Skemfar Elderhall
+8 Swamp
+1 Unclaimed Territory
+1 Witch's Cottage
+Sideboard
+1 Lathril, Blade of the Elves

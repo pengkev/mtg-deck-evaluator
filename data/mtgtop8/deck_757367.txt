@@ -1,0 +1,88 @@
+1 Anzrag, the Quake-Mole
+1 Arbor Elf
+1 Bane of Progress
+1 Beast Whisperer
+1 Birds of Paradise
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Fauna Shaman
+1 Fyndhorn Elves
+1 Goblin Anarchomancer
+1 Goreclaw, Terror of Qal Sisma
+1 Karlach, Fury of Avernus
+1 Kiki-Jiki, Mirror Breaker
+1 Kogla, the Titan Ape
+1 Malignus
+1 Manglehorn
+1 Old Gnawbone
+1 Quartzwood Crasher
+1 Ragavan, Nimble Pilferer
+1 Sakura-Tribe Elder
+1 Savage Ventmaw
+1 Scourge of the Throne
+1 Selvala, Heart of the Wilds
+1 Tireless Provisioner
+1 Toralf, God of Fury
+1 Toski, Bearer of Secrets
+1 Vexing Shusher
+1 Woodland Bellower
+1 Zealous Conscripts
+1 Birthing Pod
+1 Sol Ring
+1 The Great Henge
+1 Berserk
+1 Heroic Intervention
+1 Noxious Revival
+1 Pyroblast
+1 Red Elemental Blast
+1 Shared Summons
+1 Summoner's Pact
+1 Veil of Summer
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Cultivate
+1 Farseek
+1 Glimpse the Core
+1 Green Sun's Zenith
+1 Into the North
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Sylvan Tutor
+1 Three Visits
+1 Tooth and Nail
+1 Aggravated Assault
+1 Defense of the Heart
+1 Greater Good
+1 Kenrith's Transformation
+1 Rhythm of the Wild
+1 Sneak Attack
+1 Song of the Dryads
+1 Sylvan Library
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cinder Glade
+1 Dryad Arbor
+6 Forest
+1 Kessig Wolf Run
+1 Misty Rainforest
+1 Mountain
+1 Scalding Tarn
+1 Scavenger Grounds
+3 Snow-Covered Forest
+7 Snow-Covered Mountain
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 War Room
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Xenagos, God of Revels

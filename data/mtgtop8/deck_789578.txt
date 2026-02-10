@@ -1,0 +1,81 @@
+1 Abzan Falconer
+1 Anara, Wolvid Familiar
+1 Arbor Elf
+1 Arcane Signet
+1 Arlinn Kord
+1 Armorcraft Judge
+1 Birchlore Rangers
+1 Birds of Paradise
+1 Cabaretti Courtyard
+1 Carpet of Flowers
+1 Chord of Calling
+1 Citanul Stalwart
+1 Command Tower
+1 Conclave Guildmage
+1 Copperhorn Scout
+1 Crashing Drawbridge
+1 Cultivate
+1 Cultivator of Blades
+1 Deafening Silence
+1 Destiny Spinner
+1 Devoted Druid
+1 Eldritch Evolution
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Evolution Sage
+1 Fabled Passage
+1 Faeburrow Elder
+1 Fauna Shaman
+1 Fellwar Stone
+1 Fight as One
+11 Forest
+1 Fyndhorn Elves
+1 Garruk's Uprising
+1 Generous Gift
+1 Harrow
+1 Hunter's Insight
+1 Kami of Whispered Hopes
+1 Kutzil, Malamet Exemplar
+1 Lavaspur Boots
+1 Lightfoot Technique
+1 Llanowar Druid
+1 Llanowar Elves
+1 Make a Stand
+1 Masked Vandal
+1 Mirror Entity
+6 Mountain
+1 Nature's Claim
+1 Path to Exile
+6 Plains
+1 Priest of Titania
+1 Primal Vigor
+1 Quirion Elves
+1 Ram Through
+1 Rampant Growth
+1 Realmwalker
+1 Reclamation Sage
+1 Rith's Grove
+1 Rocco, Cabaretti Caterer
+1 Royal Treatment
+1 Rugged Highlands
+1 Shamanic Revelation
+1 Snakeskin Veil
+1 Sol Ring
+1 Springbloom Druid
+1 Sungrass Prairie
+1 Swords to Plowshares
+1 Thalia, Heretic Cathar
+1 Torgal, A Fine Hound
+1 Toski, Bearer of Secrets
+1 Universal Automaton
+1 Utopia Sprawl
+1 Vanquish the Horde
+1 Veil of Summer
+1 Viridian Joiner
+1 Volatile Claws
+1 Wild Growth
+1 Wind-Scarred Crag
+1 Withstand Death
+1 Wood Elves
+Sideboard
+1 Voja, Jaws of the Conclave

@@ -1,0 +1,101 @@
+1 Ashling, Flame Dancer
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Delighted Halfling
+1 Electro, Assaulting Battery
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Eternal Witness
+1 Goblin Anarchomancer
+1 Harmonic Prodigy
+1 Izzet Guildmage
+1 Professional Face-Breaker
+1 Roaming Throne
+1 Seedborn Muse
+1 Simian Spirit Guide
+1 Spellseeker
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Tinder Wall
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Chrome Mox
+1 Krark's Thumb
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Relic of Legends
+1 Sol Ring
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Crimson Wisps
+1 Crop Rotation
+1 Deflecting Swat
+1 Emerald Charm
+1 Expedite
+1 Fierce Guardianship
+1 Flame of Anor
+1 Flusterstorm
+1 Gut Shot
+1 Into the Flood Maw
+1 Legolas's Quick Reflexes
+1 Lightning Bolt
+1 Manamorphose
+1 Mental Misstep
+1 Might of the Meek
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Noxious Revival
+1 Pact of Negation
+1 Pyroblast
+1 Red Elemental Blast
+1 Snap
+1 Submerge
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gitaxian Probe
+1 Jeska's Will
+1 Neoform
+1 Rite of Flame
+1 Twinflame
+1 Carpet of Flowers
+1 Cryptolith Rite
+1 Mystic Remora
+1 Rhystic Study
+1 Training Grounds
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Tropical Island
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Krark, the Thumbless
+1 Thrasios, Triton Hero

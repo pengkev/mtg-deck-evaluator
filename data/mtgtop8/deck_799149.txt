@@ -1,0 +1,92 @@
+1 Ainok Strike Leader
+1 Archon of Cruelty
+1 Lotho, Corrupt Shirriff
+1 Psychic Frog
+1 Dream Trawler
+1 Vnwxt, Verbose Host
+1 Adeline, Resplendent Cathar
+1 Containment Construct
+1 Lurrus of the Dream-Den
+1 Vengeful Pharaoh
+1 Chameleon, Master of Disguise
+1 Malcolm, Alluring Scoundrel
+1 Pollywog Prodigy
+1 Enduring Innocence
+1 Mockingbird
+1 Master of Death
+1 Enduring Curiosity
+1 Mischievous Mystic
+1 Ledger Shredder
+1 Volatile Stormdrake
+1 Gold-Forged Thopteryx
+1 Archfiend of Ifnir
+1 Scrounging Skyray
+1 Shoreline Looter
+1 Selfless Spirit
+1 Guide of Souls
+1 Spider-Woman, Stunning Savior
+1 Mausoleum Wanderer
+1 Absolute Virtue
+1 Bloodghast
+1 Arcane Signet
+1 Chromatic Lantern
+1 Dragonfire Blade
+1 Sol Ring
+1 Swords to Plowshares
+1 Restoration Magic
+1 Anguished Unmaking
+1 Lofty Denial
+1 Dovin's Veto
+1 An Offer You Can't Refuse
+1 Mana Leak
+1 Negate
+1 Unbreakable Formation
+1 Fracture
+1 Blacksmith's Skill
+1 Path to Exile
+1 Arcane Denial
+1 Void Rend
+1 Eagle Vision
+1 Stitch Together
+1 Deep Analysis
+1 Treasure Cruise
+1 Demonic Counsel
+1 Unearth
+1 Reanimate
+1 Sevinne's Reclamation
+1 Tragic Arrogance
+1 Living Death
+1 Buried Alive
+1 Unburial Rites
+1 Damn
+1 Victimize
+1 Animate Dead
+1 Teferi's Ageless Insight
+1 Deafening Silence
+1 Reconnaissance
+1 Darksteel Mutation
+1 Command Tower
+1 Exotic Orchard
+1 Adarkar Wastes
+1 Isolated Chapel
+1 Skycloud Expanse
+1 Godless Shrine
+1 Temple of Deceit
+1 Azorius Guildgate
+1 Reliquary Tower
+4 Island
+1 Choked Estuary
+1 Fetid Heath
+4 Swamp
+1 Watery Grave
+4 Plains
+1 Contaminated Landscape
+1 Drowned Catacomb
+1 Caves of Koilos
+1 Shineshadow Snarl
+1 Sunken Hollow
+1 Arcane Sanctum
+1 Underground River
+1 Glacial Fortress
+Sideboard
+1 Raffine, Scheming Seer

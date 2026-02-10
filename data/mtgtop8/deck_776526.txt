@@ -1,0 +1,95 @@
+1 Eutropia the Twice-Favored
+1 Felix Five-Boots
+1 Forgotten Ancient
+1 Gonti, Night Minister
+1 Llanowar Elves
+1 Qarsi Revenant
+1 Sanctum Weaver
+1 Superior Spider-Man
+1 Tender Wildguide
+1 Zenos yae Galvus
+1 Arcane Signet
+1 Fellwar Stone
+1 Herd Heirloom
+1 Inquisitor's Flail
+1 Lavaspur Boots
+1 Leyline Axe
+1 Sapphire Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Vengeance
+1 Astarion's Thirst
+1 Counterspell
+1 Disdainful Stroke
+1 Essence Scatter
+1 Fading Hope
+1 Go for the Throat
+1 Growth Spiral
+1 Into the Flood Maw
+1 Invigorating Surge
+1 Make Disappear
+1 Negate
+1 Ranger's Guile
+1 Repulsive Mutation
+1 Royal Treatment
+1 Sheoldred's Edict
+1 Strength of Will
+1 Summary Dismissal
+1 Blood Money
+1 Cultivate
+1 Deadly Cover-Up
+1 Demonic Tutor
+1 Farseek
+1 Fell
+1 Final Act
+1 Jidoor, Aristocratic Capital
+1 Primal Might
+1 Stock Up
+1 Aqueous Form
+1 Combat Research
+1 Curiosity
+1 Favor of the Overbeing
+1 Fear
+1 Hollowmurk Siege
+1 Hunter's Talent
+1 One with Nature
+1 Rancor
+1 Ride the Shoopuf
+1 Setessan Training
+1 Super State
+1 Unstoppable Plan
+1 Ashiok, Sculptor of Fears
+1 Mu Yanling
+1 Vivien Reid
+1 Bojuka Bog
+1 Cathedral of War
+1 Centaur Garden
+1 Command Tower
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Dreamroot Cascade
+1 Festering Thicket
+3 Forest
+1 Hinterland Harbor
+1 Hissing Quagmire
+3 Island
+1 Meteor Crater
+1 Multiversal Passage
+1 Necroblossom Snarl
+1 Opulent Palace
+1 Reliquary Tower
+1 Rogue's Passage
+1 Spymaster's Vault
+1 Sunken Hollow
+3 Swamp
+1 Tangled Islet
+1 Temple of Deceit
+1 Temple of Malady
+1 Temple of Mystery
+1 Thornwood Falls
+1 Undergrowth Stadium
+1 Woodland Cemetery
+1 Yavimaya Coast
+Sideboard
+1 Kotis, the Fangkeeper

@@ -1,0 +1,83 @@
+1 Liberated Dwarf
+1 Universal Automaton
+1 Dwarven Armorer
+1 Bloodfire Dwarf
+1 Dwarven Trader
+1 Spark Mage
+1 Dwarven Grunt
+1 Enslaved Dwarf
+1 Dwarven Scorcher
+1 Gilded Ghoda
+1 Reckless Fireweaver
+1 Three Tree Mascot
+1 Metallic Mimic
+1 Axgard Cavalry
+1 Xorn
+1 Barkform Harvester
+1 Dwarven Bloodboiler
+1 Gimli of the Glittering Caves
+1 Bloodline Pretender
+1 Battered Golem
+1 Dualcaster Mage
+1 Adaptive Automaton
+1 Storm-Kiln Artist
+1 Pinnacle Monk
+1 Realm-Scorcher Hellkite
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Springleaf Drum
+1 Diamond Pick-Axe
+1 Treasure Map
+1 Collector's Vault
+1 Bucknard's Everfull Purse
+1 Idol of Oblivion
+1 Liquimetal Torque
+1 Treasure Chest
+1 Tangle Wire
+1 Lifecraft Engine
+1 Trading Post
+1 Clock of Omens
+1 Jester's Cap
+1 Maskwood Nexus
+1 God-Pharaoh's Statue
+1 Spine of Ish Sah
+1 Pyroblast
+1 Red Elemental Blast
+1 Null Elemental Blast
+1 Reverberate
+1 Untimely Malfunction
+1 Return the Favor
+1 Tibalt's Trickery
+1 Chaos Warp
+1 Unexpected Windfall
+1 Big Score
+1 Fury Storm
+1 Ricochet Trap
+1 Bottle-Cap Blast
+1 Hell to Pay
+1 Molten Duplication
+1 Sundering Eruption
+1 Pirate's Pillage
+1 Season of the Bold
+1 Megaton's Fate
+1 Hit the Mother Lode
+1 Sticky Fingers
+1 Guild Artisan
+1 Descent into Avernus
+1 Dwarven Mine
+1 The Gold Saucer
+1 Volatile Fault
+1 Mines of Moria
+1 Treasure Vault
+19 Mountain
+1 Sunscorched Desert
+1 Buried Ruin
+1 Survivors' Encampment
+1 Holdout Settlement
+1 Scavenger Grounds
+1 Mikokoro, Center of the Sea
+1 Geier Reach Sanitarium
+1 Path of Ancestry
+1 Myriad Landscape
+Sideboard
+1 Magda, Brazen Outlaw

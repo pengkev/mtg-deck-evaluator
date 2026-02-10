@@ -1,0 +1,101 @@
+1 Felidar Guardian
+1 Emrakul, the Promised End
+1 Grand Abolisher
+1 Weathered Wayfarer
+1 Simian Spirit Guide
+1 Ranger-Captain of Eos
+1 Lurrus of the Dream-Den
+1 Opposition Agent
+1 Magda, Brazen Outlaw
+1 Flamescroll Celebrant
+1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
+1 Activated Sleeper
+1 Loran of the Third Path
+1 Orcish Bowmasters
+1 Imskir Iron-Eater
+1 Witch Enchanter
+1 Pinnacle Monk
+1 Valgavoth, Harrower of Souls
+1 The Speed Demon
+1 Aetherflux Reservoir
+1 Mox Amber
+1 Sensei's Divining Top
+1 Rakdos Signet
+1 Mana Vault
+1 Orzhov Signet
+1 Sol Ring
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Lotus Petal
+1 Boros Signet
+1 Mox Opal
+1 Mox Diamond
+1 Bolas's Citadel
+1 Wishclaw Talisman
+1 Staff of Compleation
+1 The One Ring
+1 Disruptor Flute
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Final Fortune
+1 Dark Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Swords to Plowshares
+1 Silence
+1 Abeyance
+1 Extirpate
+1 Orim's Chant
+1 Word of Seizing
+1 Deadly Rollick
+1 Deflecting Swat
+1 Tibalt's Trickery
+1 Soul Partition
+1 Get Lost
+1 V.A.T.S.
+1 Final Showdown
+1 Demonic Tutor
+1 Gamble
+1 Flicker
+1 Praetor's Grasp
+1 Imperial Seal
+1 Sevinne's Reclamation
+1 Jeska's Will
+1 Damn
+1 Beseech the Mirror
+1 Nuclear Fallout
+1 Demonic Counsel
+1 Underworld Breach
+1 Black Market Connections
+1 Chthonian Nightmare
+1 Teyo, Geometric Tactician
+1 Cavern of Souls
+1 Exotic Orchard
+1 Blood Crypt
+1 Godless Shrine
+1 Sacred Foundry
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Badlands
+1 Plateau
+1 Scrubland
+1 Arid Mesa
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Command Tower
+1 Silent Clearing
+1 Sunbaked Canyon
+1 Takenuma, Abandoned Mire
+1 Great Hall of the Citadel
+1 Mount Doom
+1 Fomori Vault
+1 Talon Gates of Madara
+Sideboard
+1 Dihada, Binder of Wills

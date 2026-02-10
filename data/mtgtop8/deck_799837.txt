@@ -1,0 +1,97 @@
+1 Alexios, Deimos of Kosmos
+1 Amber Gristle O'Maul
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Blade Historian
+1 Boromir, Warden of the Tower
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Generator Servant
+1 Giver of Runes
+1 Gogo, Mysterious Mime
+1 Goldhound
+1 Goldnight Commander
+1 Grand Abolisher
+1 Haliya, Guided by Light
+1 Imperial Recruiter
+1 Loran of the Third Path
+1 Mother of Runes
+1 Neyali, Suns' Vanguard
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Simian Spirit Guide
+1 Smellerbee, Rebel Fighter
+1 Winota, Joiner of Forces
+1 Witch Enchanter
+1 Arcane Signet
+1 Boros Signet
+1 Dragonfire Blade
+1 Fellwar Stone
+1 Lightning Greaves
+1 Lotus Petal
+1 Mana Vault
+1 Peter Parker's Camera
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Clever Concealment
+1 Deflecting Swat
+1 Desperate Ritual
+1 Final Fortune
+1 Final Showdown
+1 Open the Omenpaths
+1 Orim's Chant
+1 Pyretic Ritual
+1 Razorgrass Ambush
+1 Seething Song
+1 Silence
+1 Untimely Malfunction
+1 Avatar's Wrath
+1 Earthquake
+1 Overpowering Attack
+1 Rite of Flame
+1 Seize the Day
+1 Split Up
+1 Strike It Rich
+1 Sundering Eruption
+1 Tragic Arrogance
+1 Vandalblast
+1 Aura of Silence
+1 Blind Obedience
+1 Breath of Fury
+1 Cathars' Crusade
+1 Deafening Silence
+1 Goblin Bombardment
+1 Grim Reaper's Sprint
+1 High Noon
+1 Parallax Wave
+1 Smothering Tithe
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 City of Brass
+1 City of Traitors
+1 Command Beacon
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+3 Mountain
+1 Mutavault
+3 Plains
+1 Plaza of Heroes
+1 Remote Farm
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scalding Tarn
+1 Spectator Seating
+1 Sunbillow Verge
+Sideboard
+1 Otharri, Suns' Glory

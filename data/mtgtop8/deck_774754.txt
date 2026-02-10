@@ -1,0 +1,95 @@
+1 Arbor Elf
+1 Augur of Autumn
+1 Avacyn's Pilgrim
+1 Beast Whisperer
+1 Birds of Paradise
+1 Black Panther, Wakandan King
+1 Boreal Druid
+1 Boromir, Warden of the Tower
+1 Burrowguard Mentor
+1 Charismatic Conqueror
+1 Circle of Dreams Druid
+1 Cosmogrand Zenith
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Eladamri, Korvecdal
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Elvish Pioneer
+1 End-Raze Forerunners
+1 Enduring Innocence
+1 Enduring Vitality
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Gilded Goose
+1 God-Eternal Oketra
+1 Haliya, Guided by Light
+1 Kamahl, Heart of Krosa
+1 Karametra, God of Harvests
+1 Kudo, King Among Bears
+1 Llanowar Elves
+1 Loran of the Third Path
+1 Mangara, the Diplomat
+1 Mentor of the Meek
+1 Mirri, Weatherlight Duelist
+1 Mondrak, Glory Dominus
+1 Moonshaker Cavalry
+1 Ocelot Pride
+1 Ohran Frostfang
+1 Ojer Taq, Deepest Foundation
+1 Oltec Matterweaver
+1 Queen Allenal of Ruadach
+1 Quina, Qu Gourmet
+1 Sakura-Tribe Scout
+1 Selvala, Eager Trailblazer
+1 Serra Ascendant
+1 Spectacular Spider-Man
+1 Torens, Fist of the Angels
+1 Witch Enchanter
+1 Skullclamp
+1 Sol Ring
+1 The One Ring
+1 Akroma's Will
+1 Clever Concealment
+1 Flare of Fortitude
+1 Flawless Maneuver
+1 Teferi's Protection
+1 Overrun
+1 Overwhelming Stampede
+1 Champions from Beyond
+1 Elven Chorus
+1 Growing Rites of Itlimoc
+1 Trouble in Pairs
+1 Arid Mesa
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Brushland
+1 Canopy Vista
+1 Castle Garenbrig
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Evendo, Waking Haven
+1 Flooded Strand
+4 Forest
+1 Horizon Canopy
+1 Hushwood Verge
+1 Marsh Flats
+1 Minas Tirith
+1 Misty Rainforest
+1 Overgrown Farmland
+4 Plains
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple Garden
+1 Three Tree City
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Bastion
+Sideboard
+1 Silk, Web Weaver

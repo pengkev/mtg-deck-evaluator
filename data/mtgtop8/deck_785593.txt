@@ -1,0 +1,88 @@
+1 Den of the Bugbear
+1 Sunbaked Canyon
+1 Eiganjo, Seat of the Empire
+1 Mishra's Factory
+1 Battlefield Forge
+1 Boros Garrison
+1 Furycalm Snarl
+1 Spectator Seating
+6 Mountain
+1 Blinkmoth Nexus
+1 Fabled Passage
+9 Plains
+1 Exotic Orchard
+1 Rugged Prairie
+1 Clifftop Retreat
+1 Sunscorched Divide
+1 Command Tower
+1 Inspiring Vantage
+1 Alseid of Life's Bounty
+1 Sol Ring
+1 Serra Ascendant
+1 Vexing Bauble
+1 Giver of Runes
+1 Angel's Grace
+1 Benevolent Bodyguard
+1 Mother of Runes
+1 Skirk Prospector
+1 Rite of Flame
+1 Goldhound
+1 Deafening Silence
+1 Skrelv, Defector Mite
+1 Winds of Change
+1 Gamble
+1 Enlightened Tutor
+1 Gorilla Shaman
+1 Leonin Arbiter
+1 Grand Abolisher
+1 High Noon
+1 Loyal Apprentice
+1 Archivist of Oghma
+1 Skyseer's Chariot
+1 Ethersworn Canonist
+1 Soulless Jailer
+1 Rest in Peace
+1 Dauntless Dismantler
+1 Razorgrass Ambush
+1 Spirit of the Labyrinth
+1 Kataki, War's Wage
+1 Drannith Magistrate
+1 Blind Obedience
+1 Hushbringer
+1 Phyrexian Revoker
+1 Stony Silence
+1 Cliffside Rescuer
+1 Thalia, Guardian of Thraben
+1 Doorkeeper Thrull
+1 Voice of Victory
+1 Archon of Emeria
+1 Boromir, Warden of the Tower
+1 Howlsquad Heavy
+1 Combat Celebrant
+1 Phyrexian Censor
+1 Windcrag Siege
+1 Legion Warboss
+1 Clarion Conqueror
+1 Eidolon of Rhetoric
+1 Sundering Eruption
+1 Simian Spirit Guide
+1 Goblin Rabblemaster
+1 Lightning, Army of One
+1 Loran of the Third Path
+1 Blood Moon
+1 Magus of the Moon
+1 Aven Mindcensor
+1 Sanctum Prelate
+1 Professional Face-Breaker
+1 Rule of Law
+1 Thalia, Heretic Cathar
+1 Witch Enchanter
+1 Blade Historian
+1 Myrel, Shield of Argive
+1 Geist-Honored Monk
+1 Rionya, Fire Dancer
+1 Silverwing Squadron
+1 Lena, Selfless Champion
+1 Angrath's Marauders
+Sideboard
+1 Winota, Joiner of Forces

@@ -1,0 +1,101 @@
+1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
+1 Arena Rector
+1 Cryptic Trilobite
+1 Grand Abolisher
+1 Llanowar Elves
+1 Birds of Paradise
+1 Elvish Mystic
+1 Imperial Recruiter
+1 Avacyn's Pilgrim
+1 Academy Rector
+1 Fyndhorn Elves
+1 Endurance
+1 Karmic Guide
+1 Tadeas, Juniper Ascendant
+1 Kami of Whispered Hopes
+1 Village Bell-Ringer
+1 Delighted Halfling
+1 Weathered Wayfarer
+1 Kutzil, Malamet Exemplar
+1 Welcoming Vampire
+1 Selvala, Explorer Returned
+1 Ranger-Captain of Eos
+1 Esper Sentinel
+1 Sowing Mycospawn
+1 Faeburrow Elder
+1 Archivist of Oghma
+1 Aven Mindcensor
+1 The Jolly Balloon Man
+1 Enduring Vitality
+1 Enduring Innocence
+1 Brightglass Gearhulk
+1 Bloom Tender
+1 Chrome Mox
+1 Mana Vault
+1 Birthing Pod
+1 Mox Diamond
+1 The One Ring
+1 Expedition Map
+1 Sol Ring
+1 Silence
+1 Red Elemental Blast
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Crop Rotation
+1 Worldly Tutor
+1 Legolas's Quick Reflexes
+1 Chord of Calling
+1 Force of Vigor
+1 Flare of Fortitude
+1 Thraben Charm
+1 Pyroblast
+1 Final Fortune
+1 Swords to Plowshares
+1 Deflecting Swat
+1 Finale of Devastation
+1 Eldritch Evolution
+1 Sylvan Library
+1 Survival of the Fittest
+1 Smothering Tithe
+1 Unbound Flourishing
+1 Hardened Scales
+1 Tocasia's Welcome
+1 Wild Growth
+1 Utopia Sprawl
+1 Carpet of Flowers
+1 Trouble in Pairs
+1 Vivien on the Hunt
+1 Sacred Foundry
+1 Stomping Ground
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Temple Garden
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Gemstone Caverns
+1 Flooded Strand
+1 Wooded Foothills
+1 Windswept Heath
+1 Command Tower
+1 Marsh Flats
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Spire Garden
+1 Cavern of Souls
+1 Exotic Orchard
+1 Bloodstained Mire
+1 Shifting Woodland
+1 Lazotep Quarry
+1 Talon Gates of Madara
+1 Horizon of Progress
+1 City of Brass
+1 Plains
+1 Bountiful Promenade
+Sideboard
+1 Marath, Will of the Wild

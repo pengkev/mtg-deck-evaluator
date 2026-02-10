@@ -1,0 +1,86 @@
+1 Adarkar Wastes
+1 Amphibian Downpour
+1 An Offer You Can't Refuse
+1 Ancestral Knowledge
+1 Angel's Grace
+1 Approach of the Second Sun
+1 Arcane Denial
+1 Arcane Signet
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Azorius Chancery
+1 Bruvac the Grandiloquent
+1 Chaplain's Blessing
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterbalance
+1 Counterspell
+1 Darksteel Mutation
+1 Deafening Silence
+1 Diplomatic Immunity
+1 Dispel
+1 Dovin's Veto
+1 Drogskol Reaver
+1 Dust Bowl
+1 Eidolon of Rhetoric
+1 Elixir of Immortality
+1 Emergence Zone
+1 Esper Sentinel
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Generous Gift
+1 Ghost Quarter
+1 Gifts Ungiven
+1 Gitaxian Probe
+1 Glacial Fortress
+1 Grand Abolisher
+1 Hallowed Fountain
+1 Heliod, Sun-Crowned
+1 Helm of Obedience
+1 Hushwing Gryff
+1 Idyllic Tutor
+9 Island
+1 Lone Missionary
+1 Maddening Cacophony
+1 Marsh Flats
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misty Rainforest
+1 Mystic Remora
+1 Nimbus Maze
+1 Pact of Negation
+1 Path to Exile
+1 Phelia, Exuberant Shepherd
+8 Plains
+1 Polluted Delta
+1 Ranger-Captain of Eos
+1 Rapid Hybridization
+1 Reliquary Tower
+1 Rest for the Weary
+1 Rest in Peace
+1 Rule of Law
+1 Sensei's Divining Top
+1 Serra Ascendant
+1 Sevinne's Reclamation
+1 Silence
+1 Smothering Tithe
+1 Snap
+1 Snapcaster Mage
+1 Sol Ring
+1 Solve the Equation
+1 Spell Pierce
+1 Sphinx's Revelation
+1 Supreme Verdict
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teferi, Time Raveler
+1 Telepathy
+1 Thought Vessel
+1 Triskaidekaphile
+1 Walking Ballista
+1 White Orchid Phantom
+1 Winds of Abandon
+Sideboard
+1 Will, Scion of Peace

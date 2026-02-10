@@ -1,0 +1,95 @@
+1 Phyrexian Metamorph
+1 Goblin Engineer
+1 Etherium Sculptor
+1 Gilded Drake
+1 Thassa's Oracle
+1 Spellskite
+1 Goblin Welder
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Malevolent Hermit
+1 The Reality Chip
+1 Enthusiastic Mechanaut
+1 Soulless Jailer
+1 Lotus Petal
+1 Sol Ring
+1 Grafdigger's Cage
+1 Uba Mask
+1 Chrome Mox
+1 Mox Opal
+1 Aether Spellbomb
+1 Defense Grid
+1 Tangle Wire
+1 Grim Monolith
+1 Mana Vault
+1 Arcum's Astrolabe
+1 Talisman of Creativity
+1 Lion's Eye Diamond
+1 Sculpting Steel
+1 Mox Diamond
+1 Ugin's Nexus
+1 Mox Amber
+1 Cursed Totem
+1 Pithing Needle
+1 Moonsnare Prototype
+1 Imposter Mech
+1 Manifold Key
+1 Karn's Sylex
+1 Thorn of Amethyst
+1 Cloud Key
+1 Damping Sphere
+1 The One Ring
+1 Esoteric Duplicator
+1 Trinisphere
+1 Sphere of Resistance
+1 Winter Moon
+1 Crystal Skull, Isu Spyglass
+1 Sensei's Divining Top
+1 Grinding Station
+1 Krark-Clan Ironworks
+1 Arcane Signet
+1 Cyclonic Rift
+1 Red Elemental Blast
+1 Flusterstorm
+1 Force of Negation
+1 Pyroblast
+1 Galvanic Blast
+1 Force of Will
+1 Swan Song
+1 Fierce Guardianship
+1 Mana Drain
+1 Mindbreak Trap
+1 Sink into Stupor
+1 Chain of Vapor
+1 Mental Misstep
+1 Transmute Artifact
+1 Gamble
+1 Blasphemous Act
+1 Shatterskull Smashing
+1 Rhystic Study
+1 Steal Enchantment
+1 Mystic Remora
+1 Underworld Breach
+1 Urza's Saga
+1 Counterbalance
+1 Mishra's Workshop
+1 City of Traitors
+1 Minamo, School at Water's Edge
+1 Ancient Tomb
+1 Steam Vents
+1 Prismatic Vista
+1 Shivan Reef
+1 Volcanic Island
+1 Training Center
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Spire of Industry
+1 Seat of the Synod
+1 Great Furnace
+1 Fiery Islet
+1 Command Tower
+4 Snow-Covered Island
+4 Snow-Covered Mountain
+Sideboard
+1 Iron Man, Titan of Innovation

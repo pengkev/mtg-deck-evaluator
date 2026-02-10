@@ -1,0 +1,92 @@
+1 Basking Broodscale
+1 Birds of Paradise
+1 Bloom Tender
+1 Colossal Skyturtle
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Enduring Vitality
+1 Eternal Witness
+1 Faerie Mastermind
+1 Fyndhorn Elves
+1 Gilded Drake
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Llanowar Elves
+1 Mockingbird
+1 Nezahal, Primal Tide
+1 Phyrexian Metamorph
+1 Prophet of Distortion
+1 Seedborn Muse
+1 Thassa's Oracle
+1 Thrasios, Triton Hero
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Trygon Predator
+1 Void Winnower
+1 Walking Ballista
+1 Wandering Archaic
+1 Arcane Signet
+1 Basalt Monolith
+1 Blade of the Bloodchief
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Mana Drain
+1 Nature's Claim
+1 Stubborn Denial
+1 Swan Song
+1 Worldly Tutor
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Reshape
+1 Copy Artifact
+1 Freed from the Real
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Unstoppable Plan
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Breeding Pool
+1 Command Tower
+4 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hedge Maze
+7 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Treasure Vault
+1 Tropical Island
+1 Vineglimmer Snarl
+1 Wasteland
+1 Willowrush Verge
+Sideboard
+1 Kinnan, Bonder Prodigy

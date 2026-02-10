@@ -1,0 +1,96 @@
+1 Blightsteel Colossus
+1 Chief of the Foundry
+1 Cityscape Leveler
+1 Cogwork Assembler
+1 Darksteel Sentinel
+1 Howling Golem
+1 Ornithopter
+1 Phyrexian Triniform
+1 Pilgrim's Eye
+1 Platinum Angel
+1 Platinum Emperion
+1 Solemn Simulacrum
+1 Steel Hellkite
+1 Traxos, Scourge of Kroog
+1 Walking Ballista
+1 Wurmcoil Engine
+1 All-Fates Scroll
+1 Basalt Monolith
+1 Commander's Plate
+1 Crawlspace
+1 Damping Sphere
+1 Darksteel Forge
+1 Darksteel Plate
+1 Darksteel Relic
+1 Ensnaring Bridge
+1 Everflowing Chalice
+1 Expedition Map
+1 Forsaken Monument
+1 Gilded Lotus
+1 Golem's Heart
+1 Howling Mine
+1 Kaldra Compleat
+1 Lightning Greaves
+1 Mana Vault
+1 Mox Opal
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Orbs of Warding
+1 Pristine Talisman
+1 Rings of Brighthearth
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Sol Talisman
+1 Soul-Guide Lantern
+1 Thought Vessel
+1 Tormod's Crypt
+1 Torpor Orb
+1 Traveler's Amulet
+1 Unwinding Clock
+1 Winter Orb
+1 Worn Powerstone
+1 Desecrate Reality
+1 Not of This World
+1 Titan's Presence
+1 Warping Wail
+1 All Is Dust
+1 Rise of the Eldrazi
+1 Urza's Saga
+1 Karn Liberated
+1 Karn, Living Legacy
+1 Karn, Scion of Urza
+1 Karn, the Great Creator
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Ugin, the Spirit Dragon
+1 Ancient Tomb
+1 Blinkmoth Nexus
+1 Bonders' Enclave
+1 Darksteel Citadel
+1 Field of Ruin
+1 Glimmervoid
+1 Hall of Tagsin
+1 Inventors' Fair
+1 Maze of Ith
+1 Mishra's Foundry
+1 Mobilized District
+1 Mutavault
+1 Radiant Fountain
+1 Reliquary Tower
+1 Sanctum of Ugin
+1 Scavenger Grounds
+1 Shrine of the Forsaken Gods
+1 Spire of Industry
+1 Temple of the False God
+1 The Mycosynth Gardens
+1 Tomb of the Spirit Dragon
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+1 War Room
+1 Wasteland
+6 Wastes
+Sideboard
+1 Karn, Legacy Reforged

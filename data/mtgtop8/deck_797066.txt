@@ -1,0 +1,100 @@
+1 Umbral Collar Zealot
+1 Diamond Lion
+1 Blood Artist
+1 Viscera Seer
+1 Susurian Voidborn
+1 Woe Strider
+1 Ornithopter
+1 Blood Pet
+1 Warren Soultrader
+1 Forsaken Miner
+1 Yawgmoth, Thran Physician
+1 Faerie Dreamthief
+1 Phyrexian Walker
+1 Memnite
+1 Opposition Agent
+1 Crashing Drawbridge
+1 Vengeful Bloodwitch
+1 Boggart Trawler
+1 Overeager Apprentice
+1 Basal Sliver
+1 Gray Merchant of Asphodel
+1 Orcish Bowmasters
+1 Gravecrawler
+1 The Soul Stone
+1 Bolas's Citadel
+1 Aetherflux Reservoir
+1 Engineered Explosives
+1 The One Ring
+1 Grim Monolith
+1 Defense Grid
+1 Lightning Greaves
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Chrome Mox
+1 Conqueror's Flail
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Fellwar Stone
+1 Mox Diamond
+1 Codex Shredder
+1 Lavaspur Boots
+1 Arcane Signet
+1 Candy Trail
+1 Wishclaw Talisman
+1 Sol Ring
+1 Jet Medallion
+1 Culling the Weak
+1 Rain of Filth
+1 Withering Torment
+1 Vampiric Tutor
+1 Dismember
+1 Fatal Push
+1 Entomb
+1 Cabal Ritual
+1 Long Goodbye
+1 Tainted Pact
+1 Fell the Profane
+1 Dark Ritual
+1 Imperial Seal
+1 Insatiable Avarice
+1 Chain of Smog
+1 Dark Petition
+1 Agadeem's Awakening
+1 Toxic Deluge
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Foggy Swamp Visions
+1 Tendrils of Agony
+1 Praetor's Grasp
+1 Demonic Tutor
+1 Scheming Symmetry
+1 Necropotence
+1 Black Market Connections
+1 Ugin, Eye of the Storms
+1 Professor Onyx
+1 Tezzeret, Cruel Captain
+1 Marsh Flats
+1 Crystal Vein
+1 Phyrexian Tower
+1 Peat Bog
+1 Hall of the Bandit Lord
+1 Ebon Stronghold
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Talon Gates of Madara
+1 Blast Zone
+1 City of Traitors
+1 Verdant Catacombs
+1 Bloodstained Mire
+1 Prismatic Vista
+2 Swamp
+1 Snow-Covered Swamp
+1 Polluted Delta
+1 Cavern of Souls
+1 Ancient Tomb
+1 Vault of Whispers
+1 Gemstone Caverns
+Sideboard
+1 Gwenom, Remorseless

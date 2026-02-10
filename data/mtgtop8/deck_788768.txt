@@ -1,0 +1,88 @@
+1 Aragorn, Hornburg Hero
+1 Aragorn, King of Gondor
+1 Arwen Undomiel
+1 Boromir, Warden of the Tower
+1 Elrond, Master of Healing
+1 Eomer, Marshal of Rohan
+1 Eowyn, Fearless Knight
+1 Eowyn, Shieldmaiden
+1 Faeburrow Elder
+1 Fallaji Wayfarer
+1 Faramir, Prince of Ithilien
+1 Faramir, Steward of Gondor
+1 Frodo Baggins
+1 Galadriel of Lothlorien
+1 Gandalf the White
+1 General Ferrous Rokiric
+1 Hero of Precinct One
+1 Inga and Esika
+1 Jinnie Fay, Jetmir's Second
+1 Legolas, Counter of Kills
+1 Merry, Esquire of Rohan
+1 Pippin, Guard of the Citadel
+1 Prince Imrahil the Fair
+1 Samwise Gamgee
+1 Skrelv, Defector Mite
+1 Surrak Dragonclaw
+1 Théoden, King of Rohan
+1 Arcane Signet
+1 Bilbo's Ring
+1 Chromatic Lantern
+1 Doors of Durin
+1 Inherited Envelope
+1 Mithril Coat
+1 Relic of Legends
+1 Sol Ring
+1 Artifact Mutation
+1 Bant Charm
+1 Boros Charm
+1 Brokers Charm
+1 Cabaretti Charm
+1 Entish Restoration
+1 Friendly Rivalry
+1 Growth Spiral
+1 Izzet Charm
+1 Jeskai Charm
+1 Naya Charm
+1 Simic Charm
+1 Swords to Plowshares
+1 Temur Charm
+1 Cultivate
+1 Farseek
+1 Guided Passage
+1 Hull Breach
+1 Kodama's Reach
+1 Many Partings
+1 Rampant Growth
+1 Reborn Hope
+1 Rip Apart
+1 Annie Joins Up
+1 Brokers Ascendancy
+1 Flowering of the White Tree
+1 Jeskai Ascendancy
+1 Rising of the Day
+1 Whirlwind of Thought
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fire-Lit Thicket
+5 Forest
+1 Frontier Bivouac
+1 Great Hall of the Citadel
+3 Island
+1 Jungle Shrine
+1 Minas Tirith
+4 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+1 Pillar of the Paruns
+5 Plains
+1 Rivendell
+1 Seachrome Coast
+1 Seaside Citadel
+1 Shire Terrace
+1 Temple Garden
+1 Terramorphic Expanse
+1 The Grey Havens
+Sideboard
+1 Aragorn, the Uniter

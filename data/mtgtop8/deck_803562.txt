@@ -1,0 +1,101 @@
+1 Dismember
+1 Agatha's Soul Cauldron
+1 Aminatou, the Fateshifter
+1 An Offer You Can't Refuse
+1 Eladamri's Call
+1 Arcane Signet
+1 Arid Mesa
+1 Badgermole Cub
+1 Ancient Tomb
+1 Basim Ibn Ishaq
+1 Bayou
+1 City of Brass
+1 Birds of Paradise
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Lotus Petal
+1 Chromatic Orrery
+1 Chrome Mox
+1 Command Tower
+1 Cultist of the Absolute
+1 Cyclonic Rift
+1 Deadpool, Trading Card
+1 Deathrite Shaman
+1 Deflecting Swat
+1 Delighted Halfling
+1 Demonic Tutor
+1 Derevi, Empyrial Tactician
+1 Dihada, Binder of Wills
+1 Elvish Spirit Guide
+1 Emiel the Blessed
+1 Enduring Vitality
+1 Enlightened Tutor
+1 Ertai Resurrected
+1 Esika, God of the Tree
+1 Esper Sentinel
+1 Faeburrow Elder
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Ignoble Hierarch
+1 Into the Flood Maw
+1 Ioreth of the Healing House
+1 Kinnan, Bonder Prodigy
+1 Kutzil, Malamet Exemplar
+1 Lotho, Corrupt Shirriff
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Marvin, Murderous Mimic
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misty Rainforest
+1 Mount Doom
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Nicol Bolas, Dragon-God
+1 Noble Hierarch
+1 Oath of Teferi
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Pippin, Guard of the Citadel
+1 Plateau
+1 Polluted Delta
+1 Prismatic Lace
+1 Ragavan, Nimble Pilferer
+1 Relic of Legends
+1 Rhystic Study
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Selvala, Heart of the Wilds
+1 Simian Spirit Guide
+1 Skrelv, Defector Mite
+1 Smothering Tithe
+1 Sol Ring
+1 Starting Town
+1 Swan Song
+1 Taiga
+1 Tamiyo, Inquisitive Student
+1 Tarnished Citadel
+1 Tataru Taru
+1 Fellwar Stone
+1 The Cabbage Merchant
+1 Torgal, A Fine Hound
+1 Touch the Spirit Realm
+1 Tropical Island
+1 Tundra
+1 Tyvar, Jubilant Brawler
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Worldly Tutor
+Sideboard
+1 Sisay, Weatherlight Captain

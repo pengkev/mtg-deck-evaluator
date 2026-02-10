@@ -1,0 +1,101 @@
+1 Dauthi Voidwalker
+1 Delney, Streetwise Lookout
+1 Drana and Linvala
+1 Drannith Magistrate
+1 Enduring Tenacity
+1 Esper Sentinel
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ranger-Captain of Eos
+1 Sen Triplets
+1 Sheoldred, the Apocalypse
+1 Sygg, River Cutthroat
+1 Talion, the Kindly Lord
+1 Thassa's Oracle
+1 Tymna the Weaver
+1 Vilis, Broker of Blood
+1 Vito, Thorn of the Dusk Rose
+1 Zenos yae Galvus
+1 Arcane Signet
+1 Bolas's Citadel
+1 Chrome Mox
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Lightning Greaves
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Calamity's Wake
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Disallow
+1 Dovin's Veto
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Pact of Negation
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Void Rend
+1 Beseech the Mirror
+1 Damn
+1 Demonic Tutor
+1 Imperial Seal
+1 Toxic Deluge
+1 Windfall
+1 Bloodchief Ascension
+1 Exquisite Blood
+1 Helm of the Ghastlord
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Smothering Tithe
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Drowned Catacomb
+1 Fetid Heath
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Isolated Chapel
+1 Mana Confluence
+1 Marsh Flats
+1 Morphic Pool
+1 Mystic Gate
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Raffine's Tower
+1 Reliquary Tower
+1 Scrubland
+1 Sea of Clouds
+1 Starting Town
+1 Sunken Ruins
+1 Tundra
+1 Underground River
+1 Underground Sea
+1 Vault of Champions
+1 Watery Grave
+Sideboard
+1 Y'shtola, Night's Blessed

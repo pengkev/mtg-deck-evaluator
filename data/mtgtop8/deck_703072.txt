@@ -1,0 +1,86 @@
+1 Elves of Deep Shadow
+1 Biomancer's Familiar
+1 Eternal Witness
+1 Divining Witch
+1 Lesser Masticore
+1 Nimble Obstructionist
+1 Melira, Sylvok Outcast
+1 Disciple of the Vault
+1 Protean Hulk
+1 Viscera Seer
+1 Colossal Skyturtle
+1 Activated Sleeper
+1 Fauna Shaman
+1 Priest of Gix
+1 Elvish Spirit Guide
+1 Destiny Spinner
+1 Poison Dart Frog
+1 Sylvan Safekeeper
+1 Warren Soultrader
+1 Valley Floodcaller
+1 Azure Beastbinder
+1 Deathrite Shaman
+1 Blood Artist
+1 Gravecrawler
+1 Laboratory Maniac
+1 Arcane Signet
+1 Chromatic Lantern
+1 Thought Vessel
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Springleaf Drum
+1 Fellwar Stone
+1 Talisman of Resilience
+1 Energy Refractor
+1 Mystical Dispute
+1 Counterspell
+1 Unsubstantiate
+1 Dark Ritual
+1 Dispel
+1 Long-Term Plans
+1 Lazotep Plating
+1 Autumn's Veil
+1 Retraction Helix
+1 Arcane Denial
+1 Mystic Reflection
+1 Noxious Revival
+1 Tear Asunder
+1 Echoing Truth
+1 Defabricate
+1 Minor Misstep
+1 Borne Upon a Wind
+1 Assassin's Trophy
+1 Abrupt Decay
+1 Imp's Mischief
+1 Strix Serenade
+1 Lim-Dul's Vault
+1 Shared Summons
+1 An Offer You Can't Refuse
+1 Mind Grind
+1 Drain Power
+1 Neoform
+1 Dark Petition
+1 Culling Ritual
+1 Demonic Counsel
+1 Wild Growth
+1 Mystic Remora
+1 Leyline of Anticipation
+1 Chthonian Nightmare
+1 Oko, Thief of Crowns
+6 Island
+6 Swamp
+6 Forest
+1 Command Tower
+1 Ash Barrens
+1 Exotic Orchard
+1 Yavimaya Coast
+1 Opulent Palace
+1 Spire of Industry
+1 Flooded Grove
+1 Reliquary Tower
+1 Twilight Mire
+1 Foreboding Landscape
+Sideboard
+1 Tevesh Szat, Doom of Fools
+1 Thrasios, Triton Hero

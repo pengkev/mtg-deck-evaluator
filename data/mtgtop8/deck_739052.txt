@@ -1,0 +1,82 @@
+1 Lakeside Shack
+9 Forest
+8 Island
+1 Tangled Islet
+1 Haunted Mire
+5 Swamp
+1 Foreboding Landscape
+1 Opulent Palace
+1 Exotic Orchard
+1 Temple of Malady
+1 Temple of Deceit
+1 Temple of Mystery
+1 Evolving Wilds
+1 Command Tower
+1 Terramorphic Expanse
+1 Dispel
+1 Llanowar Elves
+1 Ruthless Ripper
+1 Fog
+1 Viscera Seer
+1 Voidmage Apprentice
+1 Silumgar Assassin
+1 Heartless Act
+1 Icefeather Aven
+1 Vengeful Bloodwitch
+1 Farseek
+1 Temur Charger
+1 Rampant Growth
+1 Stratus Dancer
+1 Dispersal Shield
+1 Exit Specialist
+1 Explore
+1 Mana Leak
+1 Planar Genesis
+1 Disdainful Stroke
+1 Doom Blade
+1 Lampad of Death's Vigil
+1 Keep Safe
+1 Negate
+1 Neoform
+1 Power Word Kill
+1 Den Protector
+1 Oblivious Bookworm
+1 Collective Resistance
+1 Dragon's Eye Savants
+1 Evolutionary Leap
+1 Kadena's Silencer
+1 Ainok Survivalist
+1 Willbender
+1 Trail of Mystery
+1 Overgrown Zealot
+1 Threats Undetected
+1 Bastion of Remembrance
+1 Search for Tomorrow
+1 Monastery Siege
+1 Cultivate
+1 Coveted Falcon
+1 Ravenous Harpy
+1 Honest Rutstein
+1 Morbid Opportunist
+1 Deathmist Raptor
+1 Ringsight
+1 Vivien, Champion of the Wilds
+1 Supreme Will
+1 Hide in Plain Sight
+1 Aetherize
+1 Nantuko Vigilante
+1 Consuming Tide
+1 Mythos of Brokkos
+1 Falkenrath Noble
+1 Jarad's Orders
+1 Roshan, Hidden Magister
+1 First Responder
+1 Primal Command
+1 Evacuation
+1 Ixidron
+1 Vesuvan Shapeshifter
+1 Mischievous Quanar
+1 Tatyova, Benthic Druid
+1 Yedora, Grave Gardener
+Sideboard
+1 Kadena, Slinking Sorcerer

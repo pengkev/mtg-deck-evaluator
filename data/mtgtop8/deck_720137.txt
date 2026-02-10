@@ -1,0 +1,82 @@
+1 Irencrag Pyromancer
+1 Windcaller Aven
+1 Glint-Horn Buccaneer
+1 Niv-Mizzet, Parun
+1 Cunning Survivor
+1 The Locust God
+1 Drannith Stinger
+1 Rielle, the Everwise
+1 Minn, Wily Illusionist
+1 Curator of Mysteries
+1 Ledger Shredder
+1 Alandra, Sky Dreamer
+1 Flameblade Adept
+1 Cloud of Faeries
+1 Inti, Seneschal of the Sun
+1 Psychosis Crawler
+1 Emrakul's Messenger
+1 Hydroelectric Specimen
+1 Homunculus Horde
+1 Ivora, Insatiable Heir
+1 Mischievous Mystic
+1 Kiora, the Rising Tide
+1 Marauding Mako
+1 Waxen Shapethief
+1 Scrounging Skyray
+1 Magmakin Artillerist
+1 Brallin, Skyshark Rider
+1 Izzet Signet
+1 Fluctuator
+1 Fellwar Stone
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Creativity
+1 Mind Stone
+1 Commander's Sphere
+1 Monument to Endurance
+1 Frantic Search
+1 Countervailing Winds
+1 Miscalculation
+1 Frostveil Ambush
+1 Neutralize
+1 Raking Claws
+1 Startling Development
+1 Mage's Guile
+1 Fuel the Flames
+1 Mizzix's Mastery
+1 Sweltering Suns
+1 Boon of the Wish-Giver
+1 Go for Blood
+1 Slip Through Space
+1 Step Through
+1 Lorien Revealed
+1 Trade the Helm
+1 Full Throttle
+1 Improbable Alliance
+1 Lay Claim
+1 Teferi's Ageless Insight
+1 Tectonic Reformation
+1 New Perspectives
+1 Ominous Seas
+1 Reconnaissance Mission
+1 Aether Tunnel
+1 Aqueous Form
+1 Unpredictable Cyclone
+1 Izzet Guildgate
+1 Forgotten Cave
+1 Lonely Sandbar
+1 Smoldering Crater
+1 Remote Isle
+1 Command Tower
+1 Evolving Wilds
+1 Cephalid Coliseum
+1 Arena of Glory
+1 Path of Ancestry
+1 Ash Barrens
+1 Riverpyre Verge
+11 Island
+10 Mountain
+Sideboard
+1 Captain Howler, Sea Scourge

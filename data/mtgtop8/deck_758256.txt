@@ -1,0 +1,96 @@
+1 Atsushi, the Blazing Sky
+1 Blood Pet
+1 Boggart Trawler
+1 Bygone Colossus
+1 Cathodion
+1 Charming Scoundrel
+1 Dargo, the Shipwrecker
+1 Deadpool, Trading Card
+1 Dualcaster Mage
+1 Flamekin Harbinger
+1 Forsaken Miner
+1 Fury
+1 Golgari Thug
+1 Greedy Freebooter
+1 Grief
+1 Impulsive Pilferer
+1 Ingot Chewer
+1 K'rrik, Son of Yawgmoth
+1 Master of Dark Rites
+1 Mindslicer
+1 Pinnacle Monk
+1 Poxwalkers
+1 Priest of Gix
+1 Priest of Urabrask
+1 Ragavan, Nimble Pilferer
+1 Reckless Barbarian
+1 Sephiroth, Fabled SOLDIER
+1 Shambling Ghast
+1 Shriekmaw
+1 Simian Spirit Guide
+1 Skittering Precursor
+1 Timeline Culler
+1 Treasure Nabber
+1 Umbral Collar Zealot
+1 Viscera Seer
+1 Warren Soultrader
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Entomb
+1 Flare of Duplication
+1 Flare of Malice
+1 Pyroblast
+1 Red Elemental Blast
+1 Sacrifice
+1 Saw in Half
+1 Songs of the Damned
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Diabolic Intent
+1 Gamble
+1 Imperial Seal
+1 Infernal Plunge
+1 Reanimate
+1 Rite of Flame
+1 Chthonian Nightmare
+1 Necropotence
+1 Underworld Breach
+1 Ancient Tomb
+1 Badlands
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Crystal Vein
+1 Dragonskull Summit
+1 Emergence Zone
+1 Gemstone Caverns
+1 Luxury Suite
+1 Mana Confluence
+1 Mount Doom
+3 Mountain
+1 Phyrexian Tower
+1 Plaza of Heroes
+1 Raucous Theater
+1 Sulfurous Springs
+3 Swamp
+Sideboard
+1 Rakdos, the Muscle

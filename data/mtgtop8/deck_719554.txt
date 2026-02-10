@@ -1,0 +1,81 @@
+1 Arcum Dagsson
+1 Jhoira's Familiar
+1 Deadeye Navigator
+1 Trinket Mage
+1 Vedalken Archmage
+1 Foundry Inspector
+1 Hullbreaker Horror
+1 Whirler Rogue
+1 Sai, Master Thopterist
+1 Muzzio, Visionary Architect
+1 Thought Monitor
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Master Transmuter
+1 Padeem, Consul of Innovation
+1 Drafna, Founder of Lat-Nam
+1 Spectrum Sentinel
+1 Mishra's Self-Replicator
+1 Shimmer Myr
+1 Mycosynth Golem
+1 Displacer Kitten
+1 Ashnod's Altar
+1 Genesis Chamber
+1 Mycosynth Lattice
+1 Winter Orb
+1 Isochron Scepter
+1 Tormod's Crypt
+1 Skullclamp
+1 Darksteel Forge
+1 Lightning Greaves
+1 Welding Jar
+1 Spellbook
+1 Swiftfoot Boots
+1 Arcane Signet
+1 Sword of the Animist
+1 Thought Vessel
+1 Mishra's Bauble
+1 Cloud Key
+1 The One Ring
+1 Sol Ring
+1 Everflowing Chalice
+1 Mystic Forge
+1 Simulacrum Synthesizer
+1 Sapphire Medallion
+1 Midnight Clock
+1 Crystal Skull, Isu Spyglass
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Urza's Bauble
+1 Basilisk Collar
+1 Unwinding Clock
+1 Counterspell
+1 Cyclonic Rift
+1 Pongify
+1 Dramatic Reversal
+1 Arcane Denial
+1 An Offer You Can't Refuse
+1 Mystical Tutor
+1 Rapid Hybridization
+1 Mana Drain
+1 Wash Away
+1 Reality Shift
+1 Nexus of Fate
+1 Time Warp
+1 Fabricate
+1 Leyline of Anticipation
+1 Imprisoned in the Moon
+1 Rhystic Study
+1 Propaganda
+1 Narset, Parter of Veils
+1 Urza's Tower
+1 Darksteel Citadel
+1 Seat of the Synod
+1 Reliquary Tower
+1 Halimar Depths
+1 Urza's Mine
+1 Urza's Power Plant
+1 Archway of Innovation
+21 Island
+Sideboard
+1 Urza, Lord High Artificer

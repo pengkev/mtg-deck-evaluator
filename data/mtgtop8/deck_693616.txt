@@ -1,0 +1,101 @@
+1 Bloom Tender
+1 Eternal Witness
+1 Jace's Archivist
+1 Phantasmal Image
+1 Spellskite
+1 Birds of Paradise
+1 Elvish Spirit Guide
+1 Purphoros, God of the Forge
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Magus of the Wheel
+1 Phyrexian Metamorph
+1 Volatile Stormdrake
+1 Valley Floodcaller
+1 Agate Instigator
+1 Gilded Goose
+1 Enduring Vitality
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Teferi's Puzzle Box
+1 Mox Amber
+1 Fellwar Stone
+1 Skullclamp
+1 Arcane Signet
+1 Lightning Greaves
+1 Swan Song
+1 Tale's End
+1 Pact of Negation
+1 Red Elemental Blast
+1 Force of Negation
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Nature's Claim
+1 Mental Misstep
+1 Manamorphose
+1 Cyclonic Rift
+1 Chain of Vapor
+1 Flusterstorm
+1 Mindbreak Trap
+1 Arcane Denial
+1 Veil of Summer
+1 Force of Will
+1 Crop Rotation
+1 Mystical Tutor
+1 Worldly Tutor
+1 Chord of Calling
+1 Muddle the Mixture
+1 An Offer You Can't Refuse
+1 Noxious Revival
+1 Snap
+1 Winds of Change
+1 Rite of Flame
+1 Neoform
+1 Wheel of Fortune
+1 Jeska's Will
+1 Gamble
+1 Finale of Devastation
+1 Windfall
+1 Eldritch Evolution
+1 Carpet of Flowers
+1 Survival of the Fittest
+1 Earthcraft
+1 Mystic Remora
+1 Sylvan Library
+1 Urza's Saga
+1 Rhystic Study
+1 Goblin Bombardment
+1 Impact Tremors
+1 Cryptolith Rite
+1 City of Brass
+1 Breeding Pool
+1 Stomping Ground
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Mana Confluence
+1 Steam Vents
+1 Gaea's Cradle
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Gemstone Caverns
+1 Polluted Delta
+1 Scalding Tarn
+1 Training Center
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Spire Garden
+1 Rejuvenating Springs
+1 Command Tower
+1 Flooded Strand
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Windswept Heath
+1 Island
+1 Exotic Orchard
+Sideboard
+1 Xyris, the Writhing Storm

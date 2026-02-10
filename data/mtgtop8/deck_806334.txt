@@ -1,0 +1,91 @@
+1 Archmage Emeritus
+1 Dualcaster Mage
+1 Electro, Assaulting Battery
+1 Generator Servant
+1 Glint-Horn Buccaneer
+1 High Fae Trickster
+1 Laboratory Maniac
+1 Nightscape Familiar
+1 Pinnacle Monk
+1 Simian Spirit Guide
+1 Spellskite
+1 Storm-Kiln Artist
+1 Torrential Gearhulk
+1 Arcane Signet
+1 Dimir Signet
+1 Izzet Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Wishclaw Talisman
+1 Abrade
+1 An Offer You Can't Refuse
+1 Big Score
+1 Borne Upon a Wind
+1 Comet Storm
+1 Consider
+1 Dark Ritual
+1 Deadly Dispute
+1 Delay
+1 Demand Answers
+1 Desperate Ritual
+1 Electrodominance
+1 Expedite
+1 Fervent Strike
+1 Firemind's Foresight
+1 Flare of Duplication
+1 Flusterstorm
+1 Frantic Search
+1 Imp's Mischief
+1 Increasing Vengeance
+1 Invoke Calamity
+1 Lightning Bolt
+1 Lim-Dul's Vault
+1 Memory Lapse
+1 Mystical Teachings
+1 Narset's Reversal
+1 Opt
+1 Prismari Command
+1 Redirect Lightning
+1 Reverberate
+1 Samut's Sprint
+1 Sazacap's Brew
+1 Seething Song
+1 Snap
+1 Stubborn Denial
+1 Thought Scour
+1 Thrill of Possibility
+1 Twinferno
+1 Unexpected Windfall
+1 Waterlogged Teachings
+1 Clear the Mind
+1 Demonic Counsel
+1 Electroduplicate
+1 Gitaxian Probe
+1 Ringsight
+1 Rite of Flame
+1 Twinflame
+1 Curiosity
+1 Underworld Breach
+1 Ral, Storm Conduit
+1 Cascade Bluffs
+1 Cephalid Coliseum
+1 Darkwater Catacombs
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Frostboil Snarl
+1 Gemstone Mine
+4 Island
+5 Mountain
+1 Peat Bog
+1 River of Tears
+1 Shivan Reef
+1 Smoldering Marsh
+1 Spire of Industry
+1 Sulfurous Springs
+1 Sunken Hollow
+4 Swamp
+Sideboard
+1 Fire Lord Azula

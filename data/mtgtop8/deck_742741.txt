@@ -1,0 +1,80 @@
+1 Blood Artist
+1 Boromir, Warden of the Tower
+1 Carrion Feeder
+1 Cruel Celebrant
+1 Drivnod, Carnage Dominus
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elesh Norn, Mother of Machines
+1 Gandalf the White
+1 Gollum, Patient Plotter
+1 Grand Abolisher
+1 Kambal, Profiteering Mayor
+1 Loran of the Third Path
+1 Luminous Broodmoth
+1 Mirkwood Bats
+1 Mondrak, Glory Dominus
+5 Nazgul
+1 Pitiless Plunderer
+1 Recruiter of the Guard
+1 Skrelv, Defector Mite
+1 Soulless Jailer
+1 Teysa Karlov
+1 Teysa, Orzhov Scion
+1 Venerated Stormsinger
+1 Vengeful Bloodwitch
+1 Viscera Seer
+1 Voice of Victory
+1 Yahenni, Undying Partisan
+1 Arcane Signet
+1 Ashnod's Altar
+1 Lightning Greaves
+1 Nim Deathmantle
+1 Relic of Legends
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Vexing Bauble
+1 Bitter Triumph
+1 Dark Ritual
+1 Deadly Dispute
+1 Fate Forgotten
+1 Flare of Fortitude
+1 Generous Gift
+1 Imp's Mischief
+1 Mana Tithe
+1 Nasty End
+1 Path to Exile
+1 Rebuff the Wicked
+1 Reprieve
+1 Silence
+1 Stroke of Midnight
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Wake the Dead
+1 Diabolic Intent
+1 Feed the Swarm
+1 Profane Tutor
+1 Read the Bones
+1 Split Up
+1 Toxic Deluge
+1 Victimize
+1 Authority of the Consuls
+1 Bastion of Remembrance
+1 Call of the Ring
+1 Muster the Departed
+1 Barad-dur
+1 Brightclimb Pathway
+1 Cabal Stronghold
+1 Caves of Koilos
+1 Command Tower
+1 Fetid Heath
+1 Ghost Quarter
+1 Godless Shrine
+1 Goldmire Bridge
+1 Minas Morgul, Dark Fortress
+9 Plains
+1 Shineshadow Snarl
+10 Swamp
+1 Tainted Field
+Sideboard
+1 Ratadrabik of Urborg

@@ -1,0 +1,92 @@
+1 Displacer Kitten
+1 Emry, Lurker of the Loch
+1 Foundry Inspector
+1 Gilded Drake
+1 Glaring Fleshraker
+1 Hullbreaker Horror
+1 Matoya, Archon Elder
+1 Memnite
+1 Ornithopter
+1 Riddlesmith
+1 Sai, Master Thopterist
+1 Spellskite
+1 Thassa's Oracle
+1 The Reality Chip
+1 Thought Monitor
+1 Transplant Theorist
+1 Treasure Mage
+1 Trinket Mage
+1 Valley Floodcaller
+1 Aetherflux Reservoir
+1 Altar of the Brood
+1 Arcane Signet
+1 Blood Fountain
+1 Bolas's Citadel
+1 Chrome Mox
+1 Conqueror's Flail
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Repurposing Bay
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Dominance
+1 The Key to the Vault
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 Welding Jar
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Cabal Ritual
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Paradoxical Outcome
+1 Retraction Helix
+1 Swan Song
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Imperial Seal
+1 Copy Enchantment
+1 Dance of the Dead
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Ancient Tomb
+1 Archway of Innovation
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Gemstone Caverns
+1 Gemstone Mine
+7 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Reflecting Pool
+1 Spire of Industry
+4 Swamp
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Golbez, Crystal Collector

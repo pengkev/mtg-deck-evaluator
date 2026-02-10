@@ -1,0 +1,101 @@
+1 Chandra, Hope's Beacon
+1 Professor Onyx
+1 Twinflame
+1 Zenith Festival
+1 Will of the Jeskai
+1 Jeska's Will
+1 Stargaze
+1 Sundering Eruption
+1 Gamble
+1 Diabolic Intent
+1 Final Parting
+1 Demonic Tutor
+1 Syphon Mind
+1 Inspired Tinkering
+1 Fervent Mastery
+1 Coveted Prize
+1 Agadeem's Awakening
+1 Shatterskull Smashing
+1 Diabolic Revelation
+1 Dark Petition
+1 Chain of Smog
+1 Past in Flames
+1 Rite of Flame
+1 Yawgmoth's Will
+1 Dragonstorm
+1 Increasing Ambition
+1 Peer into the Abyss
+1 Deflecting Swat
+1 Pyretic Ritual
+1 Lightning Bolt
+1 Cabal Ritual
+1 Saw in Half
+1 Big Score
+1 Untimely Malfunction
+1 Snuff Out
+1 Fell the Profane
+1 Flare of Duplication
+1 Dismember
+1 Pyroblast
+1 Deadly Rollick
+1 Vampiric Tutor
+1 Dark Ritual
+1 Reiterate
+1 Seething Song
+1 Fury Storm
+1 Red Elemental Blast
+1 Burnt Offering
+1 Gut Shot
+1 Searing Touch
+1 Corpse Dance
+1 Lotus Petal
+1 Talisman of Indulgence
+1 Sol Ring
+1 Arcane Signet
+1 Staff of Compleation
+1 Wishclaw Talisman
+1 Vexing Bauble
+1 Mana Vault
+1 Chrome Mox
+1 Deadpool, Trading Card
+1 Terror of the Peaks
+1 Goldspan Dragon
+1 Dragonhawk, Fate's Tempest
+1 Pinnacle Monk
+1 Boggart Trawler
+1 K'rrik, Son of Yawgmoth
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Orcish Bowmasters
+1 Hoarding Broodlord
+1 Ragavan, Nimble Pilferer
+1 Birgi, God of Storytelling
+1 Opposition Agent
+1 Blood Pet
+1 Bladewing the Risen
+1 Dualcaster Mage
+1 Blood Celebrant
+1 Changeling Berserker
+1 Treasonous Ogre
+1 Bloodstained Mire
+1 Swamp
+1 Mountain
+1 Hall of the Bandit Lord
+1 Tarnished Citadel
+1 Horizon of Progress
+1 Polluted Delta
+1 Blood Crypt
+1 The Black Gate
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Mount Doom
+1 Badlands
+1 Sulfurous Springs
+1 City of Brass
+1 Barbarian Ring
+1 Mana Confluence
+1 Cabal Pit
+1 Ramunap Ruins
+1 Ifnir Deadlands
+Sideboard
+1 Rowan, Scion of War

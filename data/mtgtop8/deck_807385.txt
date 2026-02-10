@@ -1,0 +1,101 @@
+1 Arbor Elf
+1 Birds of Paradise
+1 Boreal Druid
+1 Cabal Initiate
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Fyndhorn Elves
+1 Iron-Shield Elf
+1 Kozilek, Butcher of Truth
+1 Llanowar Elves
+1 Lotus Cobra
+1 Noose Constrictor
+1 Olivia's Dragoon
+1 Oona's Prowler
+1 Putrid Imp
+1 Wild Mongrel
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Expedition Map
+1 Fellwar Stone
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Resilience
+1 Wishclaw Talisman
+1 World Map
+1 Abrupt Decay
+1 Ad Nauseam
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Cabal Ritual
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Entomb
+1 Legolas's Quick Reflexes
+1 Rain of Filth
+1 Realms Uncharted
+1 Slaughter Pact
+1 Snuff Out
+1 Summoner's Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Queen
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Grim Tutor
+1 Imperial Seal
+1 Scheming Symmetry
+1 Sylvan Scrying
+1 Unmarked Grave
+1 Necropotence
+1 Oblivion Crown
+1 Squandered Resources
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Dakmor Salvage
+1 Emergence Zone
+1 Forest
+1 Ghost Quarter
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Prismatic Vista
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Swamp
+1 Talon Gates of Madara
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 The Gitrog Monster

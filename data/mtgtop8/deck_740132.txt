@@ -1,0 +1,69 @@
+1 Ad Nauseam
+1 Aetherflux Reservoir
+1 Animate Dead
+1 Asmodeus the Archfiend
+1 Blood Celebrant
+1 Blood Pet
+1 Bolas's Citadel
+1 Buried Alive
+1 Cabal Coffers
+1 Cabal Ritual
+1 Chrome Mox
+1 Corrupted Conviction
+1 Crystal Vein
+1 Culling the Weak
+1 Dance of the Dead
+1 Dark Petition
+1 Dark Ritual
+1 Dauthi Voidwalker
+1 Deadly Rollick
+1 Demonic Tutor
+1 Elixir of Immortality
+1 Emergence Zone
+1 Entomb
+1 Exquisite Blood
+1 Feed the Swarm
+1 Grave Pact
+1 Gray Merchant of Asphodel
+1 Grim Tutor
+1 Lake of the Dead
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Necrotic Ooze
+1 Nykthos, Shrine to Nyx
+1 Orcish Bowmasters
+1 Peat Bog
+1 Peer into the Abyss
+1 Phyrexian Tower
+1 Plaza of Heroes
+1 Plunge into Darkness
+1 Praetor's Grasp
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Sacrifice
+1 Sanguine Bond
+1 Saw in Half
+1 Scheming Symmetry
+1 Scorched Ruins
+1 Secret Salvage
+1 Sensei's Divining Top
+1 Shadow-Rite Priest
+16 Shadowborn Apostle
+1 Sheoldred, the Apocalypse
+1 Skirge Familiar
+1 Skullclamp
+1 Snuff Out
+1 Sol Ring
+1 Songs of the Damned
+18 Swamp
+1 Séance Board
+1 Talon Gates of Madara
+1 The One Ring
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vilis, Broker of Blood
+1 Village Rites
+1 Voltaic Key
+Sideboard
+1 K'rrik, Son of Yawgmoth

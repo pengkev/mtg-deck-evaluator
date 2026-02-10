@@ -1,0 +1,100 @@
+1 Faerie Mastermind
+1 Gilded Drake
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phyrexian Metamorph
+1 Razorkin Needlehead
+1 Scrawling Crawler
+1 Shadow the Hedgehog
+1 Sheoldred, the Apocalypse
+1 Snapcaster Mage
+1 Tergrid, God of Fright
+1 Anvil of Bogardan
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Mana Vault
+1 Memory Jar
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Shadowspear
+1 Sol Ring
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Cryptic Command
+1 Cyclonic Rift
+1 Demonic Consultation
+1 Fell the Profane
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Into the Flood Maw
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Nexus of Fate
+1 Sink into Stupor
+1 Swan Song
+1 Three Steps Ahead
+1 Vampiric Tutor
+1 Blasphemous Act
+1 Bribery
+1 Day's Undoing
+1 Demonic Tutor
+1 Echo of Eons
+1 Imperial Seal
+1 Jeska's Will
+1 Merchant Scroll
+1 Molten Psyche
+1 Praetor's Grasp
+1 Reforge the Soul
+1 Scheming Symmetry
+1 Stock Up
+1 Temporal Mastery
+1 Time Spiral
+1 Timetwister
+1 Toxic Deluge
+1 Vandalblast
+1 Wheel of Fortune
+1 Windfall
+1 Winds of Change
+1 Yawgmoth's Will
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Jace, Wielder of Mysteries
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fiery Islet
+2 Island
+1 Luxury Suite
+1 Mistrise Village
+1 Morphic Pool
+1 Multiversal Passage
+1 Polluted Delta
+1 Reflecting Pool
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Underground River
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Volcanic Island
+1 Watery Grave
+1 Xander's Lounge
+Sideboard
+1 Nekusar, the Mindrazer

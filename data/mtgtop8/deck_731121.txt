@@ -1,0 +1,101 @@
+1 Ad Nauseam
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Badlands
+1 Beseech the Mirror
+1 Birgi, God of Storytelling
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Burning Inquiry
+1 Cabal Ritual
+1 Chromatic Sphere
+1 Chromatic Star
+1 Chrome Mox
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Cruelclaw's Heist
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Defense Grid
+1 Deflecting Swat
+1 Demonic Consultation
+1 Demonic Counsel
+1 Demonic Tutor
+1 Desperate Ritual
+1 Dragon's Rage Channeler
+1 Entomb
+1 Faithless Looting
+1 Fellwar Stone
+1 Final Fortune
+1 Flare of Duplication
+1 Gamble
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Glimmervoid
+1 Grapeshot
+1 Grim Monolith
+1 Grim Tutor
+1 Grinding Station
+1 Gut Shot
+1 Imperial Seal
+1 Jeska's Will
+1 Jeweled Amulet
+1 Last Chance
+1 Lion's Eye Diamond
+1 Lively Dirge
+1 Lotus Petal
+1 Luxury Suite
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Mishra's Bauble
+1 Mount Doom
+1 Mountain
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Polluted Delta
+1 Praetor's Grasp
+1 Pyretic Ritual
+1 Pyroblast
+1 Ragavan, Nimble Pilferer
+1 Rain of Filth
+1 Rakdos Signet
+1 Raucous Theater
+1 Red Elemental Blast
+1 Rite of Flame
+1 Scalding Tarn
+1 Seething Song
+1 Shadowblood Egg
+1 Simian Spirit Guide
+1 Slaughter Pact
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Spire of Industry
+1 Springleaf Drum
+1 Starting Town
+1 Stitcher's Supplier
+1 Strike It Rich
+1 Sulfurous Springs
+1 Surgical Extraction
+1 Swamp
+1 Tainted Pact
+1 Talisman of Indulgence
+1 Treasonous Ogre
+1 Underworld Breach
+1 Urza's Bauble
+1 Valki, God of Lies
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Warrior's Oath
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Wishclaw Talisman
+1 Wooded Foothills
+Sideboard
+1 Garland, Knight of Cornelia

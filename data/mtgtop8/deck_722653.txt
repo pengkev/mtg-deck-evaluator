@@ -1,0 +1,86 @@
+1 Vito, Thorn of the Dusk Rose
+1 Changeling Outcast
+1 Universal Automaton
+1 Blood Seeker
+1 Adaptive Automaton
+1 Bartolomé del Presidio
+1 Preacher of the Schism
+1 Charismatic Conqueror
+1 Master of Dark Rites
+1 Champion of Dusk
+1 Cordial Vampire
+1 Drana, Liberator of Malakir
+1 Dusk Legion Zealot
+1 Indulgent Aristocrat
+1 Mavren Fein, Dusk Apostle
+1 Sanctum Seeker
+1 Legion Lieutenant
+1 Cruel Celebrant
+1 Stromkirk Captain
+1 Blood Artist
+1 Bloodthirsty Conqueror
+1 High-Society Hunter
+1 Bloodline Keeper
+1 Captivating Vampire
+1 Bloodghast
+1 Gas Guzzler
+1 Qarsi Revenant
+1 Viscera Seer
+1 Welcoming Vampire
+1 Shadowspear
+1 Herald's Horn
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Indulgence
+1 Skullclamp
+1 Idol of Oblivion
+1 Talisman of Hierarchy
+1 Coordinated Maneuver
+1 Darkness
+1 Boros Charm
+1 Dawn Charm
+1 Pollen Lullaby
+1 Holy Day
+1 Stinging Study
+1 Surge of Salvation
+1 Generous Gift
+1 Utter End
+1 Akroma's Will
+1 Path to Exile
+1 Dawn's Truce
+1 Swords to Plowshares
+1 Inevitable Defeat
+1 Anguished Unmaking
+1 Olivia's Wrath
+1 Farewell
+1 Blasphemous Edict
+1 Black Market Connections
+1 Phyrexian Arena
+1 Trouble in Pairs
+1 Nowhere to Run
+1 Godless Shrine
+1 Vault of Champions
+1 Blazemire Verge
+1 Luxury Suite
+1 Blood Crypt
+1 Sacred Foundry
+1 Spectator Seating
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Blightstep Pathway
+1 Sundown Pass
+1 Command Tower
+1 Bojuka Bog
+1 Caves of Koilos
+1 Exotic Orchard
+1 Sulfurous Springs
+1 Haunted Ridge
+1 Bleachbone Verge
+1 Path of Ancestry
+1 Nomad Outpost
+1 Shattered Sanctum
+1 Windbrisk Heights
+5 Plains
+11 Swamp
+Sideboard
+1 Edgar Markov

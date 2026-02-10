@@ -1,0 +1,100 @@
+1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
+1 Avacyn's Pilgrim
+1 Ranger-Captain of Eos
+1 Dualcaster Mage
+1 Grand Abolisher
+1 Tinder Wall
+1 Zurzoth, Chaos Rider
+1 Drannith Magistrate
+1 Imperial Recruiter
+1 Simian Spirit Guide
+1 Fyndhorn Elves
+1 Drumbellower
+1 Arasta of the Endless Web
+1 Myrel, Shield of Argive
+1 Elvish Spirit Guide
+1 Village Bell-Ringer
+1 Delighted Halfling
+1 Rosie Cotton of South Lane
+1 Peregrin Took
+1 Farmer Cotton
+1 Birds of Paradise
+1 Dauntless Dismantler
+1 Kutzil, Malamet Exemplar
+1 Charismatic Conqueror
+1 Basking Broodscale
+1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
+1 Recruiter of the Guard
+1 Professional Face-Breaker
+1 Prosperous Innkeeper
+1 Collector Ouphe
+1 Scurry Oak
+1 The Jolly Balloon Man
+1 Jaheira, Friend of the Forest
+1 Mana Vault
+1 Lotus Petal
+1 Mox Opal
+1 Birthing Pod
+1 Mox Diamond
+1 Chrome Mox
+1 Pithing Needle
+1 Fellwar Stone
+1 Mox Amber
+1 Talisman of Unity
+1 Vexing Bauble
+1 Talisman of Impulse
+1 Arcane Signet
+1 Sol Ring
+1 Halo Fountain
+1 Veil of Summer
+1 Silence
+1 Eladamri's Call
+1 Pyroblast
+1 Red Elemental Blast
+1 Grand Crescendo
+1 Worldly Tutor
+1 Path to Exile
+1 Chord of Calling
+1 Archdruid's Charm
+1 Finale of Devastation
+1 Gamble
+1 Molten Duplication
+1 Martial Coup
+1 Electroduplicate
+1 Blind Obedience
+1 Sylvan Library
+1 Smothering Tithe
+1 Warleader's Call
+1 Deafening Silence
+1 Urza's Saga
+1 Authority of the Consuls
+1 Cathars' Crusade
+1 Invasion of Ikoria
+1 Sacred Foundry
+1 Stomping Ground
+1 Gaea's Cradle
+1 Plateau
+1 Savannah
+1 Taiga
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Needleverge Pathway
+1 Arid Mesa
+1 Misty Rainforest
+1 Boseiju, Who Endures
+1 Jetmir's Garden
+1 Exotic Orchard
+1 Command Tower
+1 Mountain
+1 Flooded Strand
+1 Windswept Heath
+1 Sheltering Landscape
+1 Castle Ardenvale
+1 Hushwood Verge
+1 Plains
+1 Thornspire Verge
+2 Forest
+Sideboard
+1 Baylen, the Haymaker

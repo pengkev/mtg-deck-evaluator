@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Deathrite Shaman
+1 Dualcaster Mage
+1 Elvish Spirit Guide
+1 Hexing Squelcher
+1 Ignoble Hierarch
+1 Orcish Lumberjack
+1 Simian Spirit Guide
+1 Tinder Wall
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Chrome Mox
+1 Defense Grid
+1 Grim Monolith
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Scroll Rack
+1 Sol Ring
+1 Springleaf Drum
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Ad Nauseam
+1 Cabal Ritual
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Deflecting Swat
+1 Entomb
+1 Final Fortune
+1 Flare of Duplication
+1 Legolas's Quick Reflexes
+1 Manamorphose
+1 March of Reckless Joy
+1 Nature's Claim
+1 Pyroblast
+1 Rain of Filth
+1 Redirect Lightning
+1 Slaughter Pact
+1 Summoner's Pact
+1 Surgical Extraction
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Beseech the Mirror
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Faithless Looting
+1 Gamble
+1 Green Sun's Zenith
+1 Imperial Seal
+1 Infernal Plunge
+1 Infernal Tutor
+1 Jeska's Will
+1 Molten Duplication
+1 Praetor's Grasp
+1 Rite of Flame
+1 Unearth
+1 Wheel of Fortune
+1 Will of the Jeskai
+1 Yawgmoth's Will
+1 Carpet of Flowers
+1 Guild Artisan
+1 Necropotence
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Commercial District
+1 Dryad Arbor
+1 Emergence Zone
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Taiga
+1 Talon Gates of Madara
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Reyhan, Last of the Abzan
+1 Rograkh, Son of Rohgahh

@@ -1,0 +1,92 @@
+1 Arbor Elf
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Ashaya, Soul of the Wild
+1 Aven Interrupter
+1 Badgermole Cub
+1 Birds of Paradise
+1 Calix, Guided by Fate
+1 Champion of Lambholt
+1 Clarion Conqueror
+1 Collector Ouphe
+1 Delighted Halfling
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Dryad Militant
+1 Eidolon of Rhetoric
+1 Elesh Norn, Grand Cenobite
+1 Elvish Spirit Guide
+1 Endurance
+1 Esper Sentinel
+1 Fanatic of Rhonas
+1 Frenzied Baloth
+1 Gilded Goose
+1 Halvar, God of Battle
+1 Hushbringer
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Ocelot Pride
+1 Phelia, Exuberant Shepherd
+1 Phyrexian Censor
+1 Ranger-Captain of Eos
+1 Sanctum Prelate
+1 Sanctum Weaver
+1 Serra Ascendant
+1 The Cabbage Merchant
+1 Witch Enchanter
+1 Yasharn, Implacable Earth
+1 Chrome Mox
+1 Damping Sphere
+1 Lotus Petal
+1 Mox Diamond
+1 Sol Ring
+1 Weathered Runestone
+1 Archdruid's Charm
+1 Chord of Calling
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Legolas's Quick Reflexes
+1 March of Otherworldly Light
+1 Path to Exile
+1 Razorgrass Ambush
+1 Silence
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Bridgeworks Battle
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Winds of Abandon
+1 Blind Obedience
+1 Carpet of Flowers
+1 Deafening Silence
+1 Dollmaker's Shop/Porcelain Gallery
+1 Greater Auramancy
+1 Lurking Predators
+1 Meltstrider's Resolve
+1 Rest in Peace
+1 Root Maze
+1 Stony Silence
+1 Suppression Field
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+6 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Homeward Path
+1 Hushwood Verge
+1 Misty Rainforest
+5 Plains
+1 Savannah
+1 Temple Garden
+1 Windswept Heath
+Sideboard
+1 Ellivere of the Wild Court

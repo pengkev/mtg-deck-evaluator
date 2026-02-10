@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Derevi, Empyrial Tactician
+1 Drannith Magistrate
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Grand Abolisher
+1 Ignoble Hierarch
+1 Noble Hierarch
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Samut, Vizier of Naktamun
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Thassa's Oracle
+1 Tinder Wall
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Abrupt Decay
+1 Ad Nauseam
+1 Brain Freeze
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Deflecting Swat
+1 Demonic Consultation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Final Fortune
+1 Force of Negation
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Nature's Claim
+1 Pact of Negation
+1 Pyroblast
+1 Silence
+1 Snap
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Wash Away
+1 Worldly Tutor
+1 Chain of Smog
+1 Demonic Tutor
+1 Gamble
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Nature's Lore
+1 Praetor's Grasp
+1 Rite of Flame
+1 Sevinne's Reclamation
+1 Druids' Repository
+1 Food Chain
+1 Mystic Remora
+1 Nature's Will
+1 Rhystic Study
+1 Underworld Breach
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Plaza of Heroes
+1 Reliquary Tower
+1 Sacred Foundry
+1 Scalding Tarn
+1 Spire Garden
+1 Starting Town
+1 Steam Vents
+1 Stomping Ground
+1 Tarnished Citadel
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Najeela, the Blade-Blossom

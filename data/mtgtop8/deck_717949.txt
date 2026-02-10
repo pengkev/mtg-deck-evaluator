@@ -1,0 +1,97 @@
+1 Powerbalance
+1 Tocasia's Welcome
+1 Smuggler's Share
+1 Trouble in Pairs
+1 Elemental Mastery
+1 Smothering Tithe
+1 Splinter Twin
+1 Jeska's Will
+1 Gamble
+1 Shatterskull Smashing
+1 Open the Armory
+1 Steelshaper's Gift
+1 Swords to Plowshares
+1 Deflecting Swat
+1 Untimely Malfunction
+1 Ricochet Trap
+1 Path to Exile
+1 Everybody Lives!
+1 Reprieve
+1 Tibalt's Trickery
+1 Enlightened Tutor
+1 Burnout
+1 Red Elemental Blast
+1 Silence
+1 Angel's Grace
+1 Patrician's Scorn
+1 Pyroblast
+1 Artifact Blast
+1 Lotus Petal
+1 Skullclamp
+1 Lightning Greaves
+1 Sol Ring
+1 Sword of Fire and Ice
+1 Arcane Signet
+1 Talisman of Conviction
+1 Basalt Monolith
+1 The One Ring
+1 Manifold Key
+1 Moonsilver Key
+1 Mask of Memory
+1 Ashnod's Altar
+1 Conqueror's Flail
+1 Voltaic Key
+1 Mox Diamond
+1 Mana Vault
+1 Mox Opal
+1 Grim Monolith
+1 Chrome Mox
+1 Goblin Welder
+1 Mangara, the Diplomat
+1 Voice of Victory
+1 The Jolly Balloon Man
+1 Archivist of Oghma
+1 Ethersworn Canonist
+1 Pinnacle Monk
+1 Recruiter of the Guard
+1 Witch Enchanter
+1 Loran of the Third Path
+1 Charismatic Conqueror
+1 Village Bell-Ringer
+1 Ragavan, Nimble Pilferer
+1 Oswald Fiddlebender
+1 Esper Sentinel
+1 Simian Spirit Guide
+1 Grand Abolisher
+1 Stoneforge Mystic
+1 Imperial Recruiter
+1 Sunstrike Legionnaire
+1 Ranger-Captain of Eos
+1 Goblin Engineer
+1 Midnight Guard
+1 Scrap Trawler
+1 Sparring Mummy
+1 Kiki-Jiki, Mirror Breaker
+1 Battlefield Forge
+1 Sunbillow Verge
+1 Arena of Glory
+1 Inspiring Vantage
+1 Windswept Heath
+1 Flooded Strand
+1 Elegant Parlor
+1 Command Tower
+1 Needleverge Pathway
+1 Eiganjo, Seat of the Empire
+1 Ancient Tomb
+1 Arid Mesa
+1 Gemstone Caverns
+1 Sacred Foundry
+1 Inventors' Fair
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Plateau
+1 Urza's Saga
+3 Plains
+3 Mountain
+Sideboard
+1 Kellan, the Fae-Blooded

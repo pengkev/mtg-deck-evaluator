@@ -1,0 +1,101 @@
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Bloom Tender
+1 Brightglass Gearhulk
+1 Delighted Halfling
+1 Devoted Druid
+1 Drannith Magistrate
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Esper Sentinel
+1 Faeburrow Elder
+1 Faerie Mastermind
+1 Grand Abolisher
+1 Kinnan, Bonder Prodigy
+1 Kutzil, Malamet Exemplar
+1 Laboratory Maniac
+1 Mockingbird
+1 Noble Hierarch
+1 Seedborn Muse
+1 Spellseeker
+1 Valley Floodcaller
+1 Walking Ballista
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Unity
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Chord of Calling
+1 Consign to Memory
+1 Cyclonic Rift
+1 Dispel
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Retraction Helix
+1 Silence
+1 Swan Song
+1 Vanish into Memory
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Nature's Rhythm
+1 Neoform
+1 Transmute Artifact
+1 Wargate
+1 Freed from the Real
+1 Hardened Scales
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Swift Reconfiguration
+1 Training Grounds
+1 Urza's Saga
+1 Wild Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Hedge Maze
+1 Lush Portico
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Savannah
+1 Sea of Clouds
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Windswept Heath
+Sideboard
+1 Ishai, Ojutai Dragonspeaker
+1 Thrasios, Triton Hero

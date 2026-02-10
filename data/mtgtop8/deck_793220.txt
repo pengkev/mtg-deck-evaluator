@@ -1,0 +1,81 @@
+1 Adventuring Gear
+1 Arbor Elf
+1 Bant Panorama
+1 Birds of Paradise
+1 Blossoming Defense
+1 Bounty of the Hunt
+1 Bridgeworks Battle
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Crop Rotation
+1 Defend the Rider
+1 Elvish Mystic
+1 Elvish Reclaimer
+1 Elvish Spirit Guide
+1 Embiggen
+1 Entish Restoration
+1 Escape Tunnel
+1 Evolving Wilds
+1 Fabled Passage
+1 Flare of Cultivation
+21 Forest
+1 Frenzied Baloth
+1 Fyndhorn Elves
+1 Gather Courage
+1 Become Immense
+1 Groundswell
+1 Grow Extra Arms
+1 Hapatra's Mark
+1 Harrow
+1 Hashep Oasis
+1 Hickory Woodlot
+1 Invigorate
+1 Jund Panorama
+1 Llanowar Elves
+1 Might of Old Krosa
+1 Mutagenic Growth
+1 Naya Panorama
+1 Noxious Revival
+1 Skullclamp
+1 Once Upon a Time
+1 Phytoburst
+1 Promising Vein
+1 Ram Through
+1 Ranger's Guile
+1 Ride the Shoopuf
+1 Riveteers Overlook
+1 Roaring Earth
+1 Royal Treatment
+1 Sazh's Chocobo
+1 Scale Up
+1 Season of Growth
+1 Shire Terrace
+1 Skyclave Pick-Axe
+1 Snakeskin Veil
+1 Surrak, Elusive Hunter
+1 Sylvan Safekeeper
+1 Sylvan Scrying
+1 Tail Swipe
+1 Tamiyo's Safekeeping
+1 Terramorphic Expanse
+1 Tifa's Limit Break
+1 Titanic Growth
+1 Tyvar's Stand
+1 Utopia Sprawl
+1 Vibrant Cityscape
+1 Vines of Vastwood
+1 Wild Growth
+1 Wild Shape
+1 Withstand Death
+1 Field of Ruin
+1 Ghost Quarter
+1 Springleaf Drum
+1 Questing Beast
+1 Boreal Druid
+1 Roiling Regrowth
+1 Cycle of Renewal
+1 Stonewood Invocation
+1 Sea Gate Wreckage
+1 War Room
+Sideboard
+1 Tifa Lockhart

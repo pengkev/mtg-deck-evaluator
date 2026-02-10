@@ -1,0 +1,101 @@
+1 Aftermath Analyst
+1 Elvish Reclaimer
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Icetill Explorer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Nissa, Resurgent Animist
+1 Orcish Bowmasters
+1 Six
+1 Sylvan Safekeeper
+1 Tannuk, Memorial Ensign
+1 Thassa's Oracle
+1 The Gitrog Monster
+1 Tireless Provisioner
+1 Amulet of Vigor
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Wishclaw Talisman
+1 Zuran Orb
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Chord of Calling
+1 Crop Rotation
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Consultation
+1 Entomb
+1 Fierce Guardianship
+1 Flusterstorm
+1 Intuition
+1 Mental Misstep
+1 Pact of Negation
+1 Rain of Filth
+1 Summoner's Pact
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Demonic Tutor
+1 Diabolic Intent
+1 Finale of Devastation
+1 Gamble
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Scapeshift
+1 Sevinne's Reclamation
+1 Summer Bloom
+1 Burgeoning
+1 Exploration
+1 Mystic Remora
+1 Rhystic Study
+1 Squandered Resources
+1 Underworld Breach
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Arid Mesa
+1 Barbarian Ring
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Drownyard Temple
+1 Dryad Arbor
+1 Echoing Deeps
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Golgari Rot Farm
+1 Horizon of Progress
+1 Lotus Field
+1 Mana Confluence
+1 Marsh Flats
+1 Mirrorpool
+1 Mistrise Village
+1 Misty Rainforest
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Shifting Woodland
+1 Simic Growth Chamber
+1 Taiga
+1 Talon Gates of Madara
+1 Tropical Island
+1 Underground Mortuary
+1 Underground Sea
+1 Urza's Cave
+1 Verdant Catacombs
+1 Vesuva
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 The Wandering Minstrel

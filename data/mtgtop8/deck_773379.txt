@@ -1,0 +1,101 @@
+1 Abrade
+1 Alchemist's Greeting
+1 Animate Dead
+1 Anje's Ravager
+1 Arid Mesa
+1 Asylum Visitor
+1 Avacyn's Judgment
+1 Badlands
+1 Big Game Hunter
+1 Biting Rain
+1 Blazing Rootwalla
+1 Blood Crypt
+1 Blood Pet
+1 Bloodstained Mire
+1 Boggart Trawler
+1 Brain Gorgers
+1 Burnt Offering
+1 Call to the Netherworld
+1 Chaos Warp
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Curse of Fool's Wisdom
+1 Dance of the Dead
+1 Dark Ritual
+1 Dark Withering
+1 Deflecting Swat
+1 Demonic Tutor
+1 Emergence Zone
+1 Engine Rat
+1 Entomb
+1 Fiery Temper
+1 Gamble
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Goldhound
+1 Gorgon Recluse
+1 Grave Scrabbler
+1 Hell Mongrel
+1 Hoarding Broodlord
+1 Imperial Seal
+1 Incorrigible Youths
+1 Jeweled Amulet
+1 Kitchen Imp
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Luxury Suite
+1 Magus of the Moon
+1 Malevolent Whispers
+1 Mana Confluence
+1 Markov Baron
+1 Marsh Flats
+1 Monument to Endurance
+1 Mount Doom
+1 Muck Drubb
+1 Murderous Compulsion
+1 Necrogoyf
+1 Necromancy
+1 Nightshade Assassin
+1 Opposition Agent
+1 Peat Bog
+1 Pinnacle Monk
+1 Polluted Delta
+1 Psychotic Episode
+1 Psychotic Haze
+1 Pyroblast
+1 Ragavan, Nimble Pilferer
+1 Raucous Theater
+1 Reanimate
+1 Red Elemental Blast
+1 Revolutionist
+1 Rune-Scarred Demon
+1 Sacrifice
+1 Sandstone Needle
+1 Saw in Half
+1 Scalding Tarn
+1 Shadow of the Grave
+1 Shadowgrange Archfiend
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Songs of the Damned
+1 Squee, Goblin Nabob
+1 Strength of Lunacy
+1 Stromkirk Occultist
+1 Surly Badgersaur
+1 Swamp
+1 Tainted Pact
+1 Terminal Agony
+1 Tibalt's Trickery
+1 Twins of Maurer Estate
+1 Underworld Breach
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Violent Eruption
+1 Voldaren Pariah
+1 Worldgorger Dragon
+Sideboard
+1 Anje Falkenrath

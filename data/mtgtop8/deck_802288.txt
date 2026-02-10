@@ -1,0 +1,86 @@
+1 Alexios, Deimos of Kosmos
+1 Combustible Gearhulk
+1 Devilish Valet
+1 Duke Ulder Ravengard
+1 Elturel Survivors
+1 Enduring Courage
+1 Firbolg Flutist
+1 Goblin Diplomats
+1 Hammers of Moradin
+1 Humble Defector
+1 Ironwill Forger
+1 Kazuul, Tyrant of the Cliffs
+1 Khârn the Betrayer
+1 Loran of the Third Path
+1 Loyal Warhound
+1 Nelly Borca, Impulsive Accuser
+1 Scrawling Crawler
+1 Sokrates, Athenian Teacher
+1 Tataru Taru
+1 The Council of Four
+1 The Unagi of Kyoshi Island
+1 Wall of Omens
+1 Windborn Muse
+1 Windshaper Planetar
+1 Yes Man, Personal Securitron
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Blade of Selves
+1 Bloodthirsty Blade
+1 Boros Signet
+1 Cursed Mirror
+1 Pendant of Prosperity
+1 Sol Ring
+1 Chaos Warp
+1 Deflecting Palm
+1 Invert Polarity
+1 Master Warcraft
+1 Mystic Reflection
+1 Negate
+1 Olorin's Searing Light
+1 Reins of Power
+1 Reverberate
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Take the Bait
+1 Corporeal Projection
+1 Cut a Deal
+1 Destined Confrontation
+1 Disrupt Decorum
+1 Promise of Loyalty
+1 Secret Rendezvous
+1 Tempt with Vengeance
+1 Airbender Ascension
+1 Curse of the Nightly Hunt
+1 Dissipation Field
+1 Duelist's Heritage
+1 Firebender Ascension
+1 Ghostly Prison
+1 Imprisoned in the Moon
+1 Propaganda
+1 Rite of the Raging Storm
+1 Tenuous Truce
+1 Agna Qel'a
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Glacial Fortress
+6 Island
+6 Mountain
+1 Mystic Monastery
+1 Perilous Landscape
+6 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Rugged Prairie
+1 Sacred Foundry
+1 Shivan Reef
+1 Sulfur Falls
+1 Terramorphic Expanse
+1 Thriving Bluff
+1 Thriving Heath
+1 Thriving Isle
+Sideboard
+1 Pramikon, Sky Rampart

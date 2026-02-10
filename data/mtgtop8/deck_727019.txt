@@ -1,0 +1,90 @@
+1 Stonecoil Serpent
+1 Ninja of the Deep Hours
+1 Universal Automaton
+1 Thieves' Guild Enforcer
+1 Baleful Strix
+1 Fourth Bridge Prowler
+1 Wingcrafter
+1 Ornithopter
+1 Mothdust Changeling
+1 Changeling Outcast
+1 Fallen Shinobi
+1 Ingenious Infiltrator
+1 Mist-Syndicate Naga
+1 Slither Blade
+1 Mistblade Shinobi
+1 Okiba-Gang Shinobi
+1 Skullsnatcher
+1 Mist-Cloaked Herald
+1 Tetsuko Umezawa, Fugitive
+1 Memnite
+1 Varragoth, Bloodsky Sire
+1 Spectral Sailor
+1 Thousand-Faced Shadow
+1 Silver-Fur Master
+1 Nashi, Moon Sage's Scion
+1 Dokuchi Silencer
+1 Shadow of Mortality
+1 Faerie Seer
+1 Triton Shorestalker
+1 Saiba Cryptomancer
+1 Satoru, the Infiltrator
+1 Taeko, the Patient Avalanche
+1 Crystal Ball
+1 Sol Ring
+1 Arcane Signet
+1 Counterspell
+1 Misdirection
+1 Negate
+1 Discovery/Dispersal
+1 Commit/Memory
+1 Dispel
+1 Spite/Malice
+1 Dig Through Time
+1 Brainstorm
+1 Far/Away
+1 An Offer You Can't Refuse
+1 Drown in the Loch
+1 Otherworldly Gaze
+1 Overwhelming Remorse
+1 Ponder
+1 Dead Drop
+1 Crippling Fear
+1 Nanogene Conversion
+1 Temporal Trespass
+1 Enter the Enigma
+1 Connive/Concoct
+1 Smoke Shroud
+1 Reconnaissance Mission
+1 Aqueous Form
+1 Leyline of Transformation
+1 Kaito, Dancing Shadow
+1 Kaito, Bane of Nightmares
+1 Kaito, Cunning Infiltrator
+1 Temple of Deceit
+1 Mystic Sanctuary
+1 Dismal Backwater
+1 Faerie Conclave
+1 Darkwater Catacombs
+1 Rogue's Passage
+1 Halimar Depths
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Dimir Guildgate
+1 Castle Vantress
+1 Tainted Isle
+1 Bojuka Bog
+1 Lonely Sandbar
+1 Command Tower
+1 Mortuary Mire
+1 Creeping Tar Pit
+1 Sunken Hollow
+1 Rivendell
+1 Choked Estuary
+1 Secluded Courtyard
+1 Reliquary Tower
+1 Access Tunnel
+8 Island
+5 Swamp
+Sideboard
+1 Yuriko, the Tiger's Shadow

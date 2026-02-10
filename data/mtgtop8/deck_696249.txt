@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Noble Hierarch
+1 Zada, Hedron Grinder
+1 Deathrite Shaman
+1 Allosaurus Shepherd
+1 Ink-Treader Nephilim
+1 Witherbloom Apprentice
+1 Sedgemoor Witch
+1 Ignoble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Esper Sentinel
+1 Feather, the Redeemed
+1 Lotho, Corrupt Shirriff
+1 Venerated Rotpriest
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Mox Diamond
+1 Mox Opal
+1 Chrome Mox
+1 Veil of Summer
+1 Defiant Strike
+1 Ephemeral Shields
+1 Expedite
+1 Fleeting Distraction
+1 Refocus
+1 Lim-Dul's Vault
+1 Vampiric Tutor
+1 Confront the Unknown
+1 Swell of Growth
+1 Bandage
+1 Shadow Rift
+1 Chord of Calling
+1 Summoner's Pact
+1 Assassin's Trophy
+1 Tainted Strike
+1 Twisted Image
+1 Eladamri's Call
+1 Leap
+1 Savage Summoning
+1 Unstable Footing
+1 Aphotic Wisps
+1 Cerulean Wisps
+1 Crimson Wisps
+1 Niveous Wisps
+1 Viridescent Wisps
+1 Sudden Breakthrough
+1 Charge Through
+1 Fists of Flame
+1 Startle
+1 Tamiyo's Safekeeping
+1 Luxurious Libation
+1 Timely Interference
+1 Borne Upon a Wind
+1 Flick a Coin
+1 Ancestors' Aid
+1 Take the Fall
+1 Might of the Meek
+1 Gold Rush
+1 Demonic Tutor
+1 Chandra's Ignition
+1 Natural Order
+1 Kari Zev's Expertise
+1 Wrangle
+1 Life/Death
+1 Take for a Ride
+1 Rhystic Study
+1 Carpet of Flowers
+1 Mystic Remora
+1 Exotic Orchard
+1 Bayou
+1 Badlands
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Taiga
+1 Tundra
+1 Tropical Island
+1 Underground Sea
+1 Command Tower
+1 City of Brass
+1 Bloodstained Mire
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Polluted Delta
+1 Forbidden Orchard
+1 Tarnished Citadel
+1 Volcanic Island
+1 Gaea's Cradle
+1 Flooded Strand
+1 Marsh Flats
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Gemstone Caverns
+Sideboard
+1 Esika, God of the Tree

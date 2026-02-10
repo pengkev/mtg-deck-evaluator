@@ -1,0 +1,100 @@
+1 Stonecoil Serpent
+1 Ornithopter
+1 Endless One
+1 Phyrexian Marauder
+1 Phyrexian Walker
+1 Ugin's Conjurant
+1 Cryptic Trilobite
+1 Shield Sphere
+1 Shifting Wall
+1 Orcish Bowmasters
+1 Displacer Kitten
+1 Hullbreaker Horror
+1 Walking Ballista
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Thassa's Oracle
+1 Hangarback Walker
+1 Marketback Walker
+1 Omarthis, Ghostfire Initiate
+1 Memnite
+1 High Fae Trickster
+1 Lotus Petal
+1 Chrome Mox
+1 Springleaf Drum
+1 Aetherflux Reservoir
+1 Mana Vault
+1 The One Ring
+1 Talisman of Dominance
+1 Sol Ring
+1 Wishclaw Talisman
+1 Mox Diamond
+1 Mox Opal
+1 Mox Amber
+1 Arcane Signet
+1 Dark Ritual
+1 Demonic Consultation
+1 Songs of the Damned
+1 Ad Nauseam
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Entomb
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Fierce Guardianship
+1 Rain of Filth
+1 Mindbreak Trap
+1 Into the Flood Maw
+1 Daze
+1 Chain of Vapor
+1 Cabal Ritual
+1 Culling the Weak
+1 Mental Misstep
+1 Lim-Dul's Vault
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Tainted Pact
+1 Flusterstorm
+1 Yawgmoth's Will
+1 Gitaxian Probe
+1 Doomsday
+1 Imperial Seal
+1 Diabolic Intent
+1 Demonic Tutor
+1 Beseech the Mirror
+1 Reanimate
+1 Rhystic Study
+1 Necropotence
+1 Mystic Remora
+1 Animate Dead
+1 Necromancy
+1 Necrodominance
+1 Misty Rainforest
+1 Scalding Tarn
+1 City of Traitors
+1 Urborg, Tomb of Yawgmoth
+1 Emergence Zone
+1 Mana Confluence
+1 Underground Sea
+1 Phyrexian Tower
+1 Flooded Strand
+1 Cephalid Coliseum
+1 City of Brass
+1 Gemstone Caverns
+1 Verdant Catacombs
+1 Watery Grave
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Morphic Pool
+1 Marsh Flats
+1 Underground River
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Exotic Orchard
+1 Polluted Delta
+1 Command Tower
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+Sideboard
+1 Satoru, the Infiltrator

@@ -1,0 +1,101 @@
+1 Abrupt Decay
+1 Agatha's Soul Cauldron
+1 An Offer You Can't Refuse
+1 Animate Dead
+1 Arcane Signet
+1 Armored Scrapgorger
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Breeding Pool
+1 Buried Alive
+1 Carpet of Flowers
+1 Cephalid Coliseum
+1 Chord of Calling
+1 Command Tower
+1 Contaminated Aquifer
+1 Culling Ritual
+1 Dark Ritual
+1 Dauthi Voidwalker
+1 Deadly Rollick
+1 Delighted Halfling
+1 Diabolic Intent
+1 Dread Return
+1 Dreamroot Cascade
+1 Elvish Mystic
+1 Emergence Zone
+1 Enduring Vitality
+1 Eternal Witness
+1 Exotic Orchard
+1 Exploration
+1 Field of the Dead
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Gemstone Mine
+1 Glacierwood Siege
+1 Gloomlake Verge
+1 Gravecrawler
+1 Grim Tutor
+1 Haunted Mire
+1 Hazel's Brewmaster
+1 Hermit Druid
+1 Hinterland Harbor
+1 Hoarding Broodlord
+1 Lazotep Quarry
+1 Lethal Scheme
+1 Life from the Loam
+1 Llanowar Wastes
+1 Lotus Petal
+1 Marsh Flats
+1 Memory's Journey
+1 Millikin
+1 Misty Rainforest
+1 Molt Tender
+1 Mystic Remora
+1 Narcomoeba
+1 Nature's Claim
+1 Nature's Lore
+1 Necromancy
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Overgrown Tomb
+1 Phyrexian Altar
+1 Polluted Delta
+1 Ramunap Excavator
+1 Reanimate
+1 Rhystic Study
+1 Sacrifice
+1 Saw in Half
+1 Scalding Tarn
+1 Shifting Woodland
+1 Six
+1 Sol Ring
+1 Sylvan Library
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Tear Asunder
+1 Thassa's Oracle
+1 The Gitrog Monster
+1 The One Ring
+1 Three Tree City
+1 Three Visits
+1 Tortured Existence
+1 Tyvar, Jubilant Brawler
+1 Underground Mortuary
+1 Underground River
+1 Utopia Sprawl
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Warren Soultrader
+1 Watery Grave
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Zulaport Cutthroat
+Sideboard
+1 Teval, the Balanced Scale

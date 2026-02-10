@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Glaring Fleshraker
+1 Goblin Engineer
+1 Goblin Welder
+1 Hydroelectric Specimen
+1 Metalworker
+1 Myr Retriever
+1 Phyrexian Metamorph
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Scrap Trawler
+1 Simian Spirit Guide
+1 The Reality Chip
+1 Treasure Nabber
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Chromatic Star
+1 Chrome Mox
+1 Cloud Key
+1 Crystal Skull, Isu Spyglass
+1 Defense Grid
+1 Esoteric Duplicator
+1 Fellwar Stone
+1 God-Pharaoh's Statue
+1 Grim Monolith
+1 Grinding Station
+1 Ichor Wellspring
+1 Izzet Signet
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Mana Vault
+1 Mirrorworks
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Nuka-Cola Vending Machine
+1 Prized Statue
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Domination
+1 Talisman of Creativity
+1 Terrarion
+1 The One Ring
+1 Ugin's Nexus
+1 Vexing Bauble
+1 Wizard's Rockets
+1 Deflecting Swat
+1 Desperate Ritual
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Galvanic Blast
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Pact of Negation
+1 Pyretic Ritual
+1 Pyroblast
+1 Red Elemental Blast
+1 Sink into Stupor
+1 Swan Song
+1 Jeska's Will
+1 Rite of Flame
+1 Transmute Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Barbarian Ring
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Traitors
+1 Command Tower
+1 Crystal Vein
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Inventors' Fair
+1 Island
+1 Minamo, School at Water's Edge
+1 Mishra's Workshop
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Iron Man, Titan of Innovation

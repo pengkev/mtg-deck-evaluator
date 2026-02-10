@@ -1,0 +1,87 @@
+1 Ancient Cellarspawn
+1 Blood Speaker
+1 Bloodgift Demon
+1 Bloodthirster
+1 Chaos Defiler
+1 Dualcaster Mage
+1 Exalted Flamer of Tzeentch
+1 Great Unclean One
+1 Harvester of Souls
+1 Herald of Slaanesh
+1 Immersturm Raider
+1 Lord of Change
+1 Magnus the Red
+1 Mortarion, Daemon Primarch
+1 Nightscape Familiar
+1 Orcus, Prince of Undeath
+1 Pink Horror
+1 Plague Drone
+1 Rakdos, Lord of Riots
+1 Rakdos, the Showstopper
+1 Raphael, Fiendish Savior
+1 Rune-Scarred Demon
+1 Starfield Vocalist
+1 Summon: G.F. Ifrit
+1 The Balrog of Moria
+1 Venomcrawler
+1 Arcane Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Dimir Signet
+1 Herald's Horn
+1 Panharmonicon
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Whip of Erebos
+1 Bedevil
+1 Blood for the Blood God!
+1 Blood Pact
+1 Brainstorm
+1 Counterspell
+1 Dark Ritual
+1 Displace
+1 Essence Flux
+1 Ghostly Flicker
+1 Negate
+1 Reverberate
+1 Terminate
+1 Twist Reality
+1 Wash Away
+1 Withering Torment
+1 Blasphemous Act
+1 Demonic Counsel
+1 Mandate of Abaddon
+1 Rite of Replication
+1 Sign in Blood
+1 Unholy Annex/Ritual Chamber
+1 Warstorm Surge
+1 Bloodfell Caves
+1 Choked Estuary
+1 Command Tower
+1 Crumbling Necropolis
+1 Crypt of the Eternals
+1 Darkwater Catacombs
+1 Dismal Backwater
+1 Evolving Wilds
+1 Exotic Orchard
+1 Ferrous Lake
+1 Foreboding Ruins
+1 Frostboil Snarl
+5 Island
+6 Mountain
+1 Path of Ancestry
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sunken Hollow
+6 Swamp
+1 Swiftwater Cliffs
+1 Tainted Peak
+1 Temple of the False God
+1 Terramorphic Expanse
+Sideboard
+1 Be'lakor, the Dark Master

@@ -1,0 +1,86 @@
+1 Regal Caracal
+1 Roaming Throne
+1 Arahbo, the First Fang
+1 Feline Sovereign
+1 Leonin Warleader
+1 Jazal Goldmane
+1 Cat Collector
+1 Realmwalker
+1 Trained Caracal
+1 Adorned Pouncer
+1 Arcbound Mouser
+1 Hunting Cheetah
+1 Craterhoof Behemoth
+1 Prowling Serpopard
+1 Kutzil, Malamet Exemplar
+1 Sacred Cat
+1 Mirri, Cat Warrior
+1 Mirri, Weatherlight Duelist
+1 Kaheera, the Orphanguard
+1 Ajani's Pridemate
+1 Mirror Entity
+1 Qala, Ajani's Pridemate
+1 Felidar Sovereign
+1 Felidar Guardian
+1 Brimaz, King of Oreskos
+1 Alms Collector
+1 Qasali Slingers
+1 Oreskos Explorer
+1 Territorial Scythecat
+1 Pridemalkin
+1 King of the Pride
+1 Talisman of Unity
+1 Herald's Horn
+1 Arcane Signet
+1 Fellwar Stone
+1 Selesnya Signet
+1 Esika's Chariot
+1 Commander's Sphere
+1 Sol Ring
+1 Swords to Plowshares
+1 Beast Within
+1 White Sun's Zenith
+1 Path to Exile
+1 Unbreakable Formation
+1 Gaea's Gift
+1 Entish Restoration
+1 Akroma's Will
+1 Nature's Rhythm
+1 Shamanic Revelation
+1 Overwhelming Stampede
+1 Cultivate
+1 Kodama's Reach
+1 Fumigate
+1 Eldritch Evolution
+1 Vanquish the Horde
+1 Rampant Growth
+1 Authority of the Consuls
+1 Primal Vigor
+1 Abundance
+1 Felidar Retreat
+1 Cathars' Crusade
+1 Descendants' Path
+1 Ajani's Welcome
+1 Ajani, Caller of the Pride
+1 Ajani, the Greathearted
+1 Brushland
+1 Exotic Orchard
+1 Razorverge Thicket
+1 Terramorphic Expanse
+1 Unclaimed Territory
+1 Evolving Wilds
+1 Command Tower
+1 Sunpetal Grove
+9 Plains
+1 Path of Ancestry
+8 Forest
+1 Sungrass Prairie
+1 Overgrown Farmland
+1 Secluded Courtyard
+1 Fortified Village
+1 Krosan Verge
+1 Temple of the False God
+1 Rogue's Passage
+1 Canopy Vista
+Sideboard
+1 Arahbo, Roar of the World

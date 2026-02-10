@@ -1,0 +1,87 @@
+1 Crashing Drawbridge
+1 Heap Doll
+1 Myr Retriever
+1 Perilous Myr
+1 Ornithopter of Paradise
+1 The Reality Chip
+1 Silver Myr
+1 Phyrexian Revoker
+1 Tomb Trawler
+1 Volatile Stormdrake
+1 Corridor Monitor
+1 Hope of Ghirapur
+1 Scrap Trawler
+1 Shimmer Myr
+1 Secret Door
+1 Spellskite
+1 Rug of Smothering
+1 Liberator, Urza's Battlethopter
+1 Combat Courier
+1 Myr Convert
+1 Soulless Jailer
+1 Marvin, Murderous Mimic
+1 Possessed Portal
+1 Thousand-Year Elixir
+1 Mirage Mirror
+1 Grafdigger's Cage
+1 Voltaic Key
+1 Grim Monolith
+1 God-Pharaoh's Statue
+1 Chromatic Orrery
+1 Mox Opal
+1 Mox Diamond
+1 Liquimetal Torque
+1 Rod of Absorption
+1 Mana Vault
+1 Machine God's Effigy
+1 Unwinding Clock
+1 Encroaching Mycosynth
+1 The One Ring
+1 Sol Ring
+1 Myr Turbine
+1 Rings of Brighthearth
+1 Moonsnare Prototype
+1 Portal to Phyrexia
+1 Sculpting Steel
+1 Damping Sphere
+1 Mindslaver
+1 Lotus Petal
+1 Force of Negation
+1 Fierce Guardianship
+1 Mental Misstep
+1 Pongify
+1 Swan Song
+1 Resculpt
+1 Snap
+1 An Offer You Can't Refuse
+1 Force of Will
+1 Cyclonic Rift
+1 Rapid Hybridization
+1 Spatial Contortion
+1 Mind Over Matter
+1 Mystic Remora
+1 Urza's Saga
+1 Stasis
+1 Mirrormade
+1 Arcane Laboratory
+1 Back to Basics
+1 Tezzeret the Seeker
+1 Jace, Wielder of Mysteries
+1 Karn, the Great Creator
+1 Mishra's Factory
+1 Mishra's Workshop
+1 City of Traitors
+1 Crystal Vein
+1 Ancient Tomb
+1 Blinkmoth Nexus
+1 Inventors' Fair
+1 Cephalid Coliseum
+1 Command Beacon
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 War Room
+1 Minamo, School at Water's Edge
+1 Inkmoth Nexus
+15 Island
+Sideboard
+1 Arcum Dagsson

@@ -1,0 +1,71 @@
+1 Akoum Hellkite
+1 Alpine Guide
+1 Burnished Hart
+1 Canoptek Wraith
+1 Dragonmaster Outcast
+1 Leyline Tyrant
+1 Magda, Brazen Outlaw
+1 Moraug, Fury of Akoum
+1 Nesting Dragon
+1 Sardian Cliffstomper
+1 Scaretiller
+1 Solemn Simulacrum
+1 Soulbright Flamekin
+1 Spitfire Lagac
+1 Torbran, Thane of Red Fell
+1 Tunneling Geopede
+1 Valakut Predator
+1 Blackblade Reforged
+1 Crucible of Worlds
+1 Endless Atlas
+1 Expedition Map
+1 Fiendlash
+1 Seer's Sundial
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Big Score
+1 Chaos Warp
+1 Downhill Charge
+1 Fling
+1 Kazuul's Fury
+1 Reiterate
+1 Return the Favor
+1 Reverberate
+1 Soul's Fire
+1 Unexpected Windfall
+1 Wild Magic Surge
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Cleansing Wildfire
+1 Faithless Looting
+1 Gamble
+1 Geomancer's Gambit
+1 Hew the Entwood
+1 Magmatic Insight
+1 Nahiri's Lithoforming
+1 Shatterskull Smashing
+1 Sundering Eruption
+1 Claws of Valakut
+1 Count on Luck
+1 Granite Grip
+1 Powerbalance
+1 Valakut Exploration
+1 Wild Wasteland
+1 Koth of the Hammer
+1 Koth, Fire of Resistance
+1 Cascading Cataracts
+1 Darksteel Citadel
+1 Diamond City
+1 Dwarven Mine
+1 Evolving Wilds
+1 Fabled Passage
+31 Mountain
+1 Rogue's Passage
+1 Terrain Generator
+1 Terramorphic Expanse
+1 Thespian's Stage
+1 Urza's Cave
+1 Valakut, the Molten Pinnacle
+1 Vesuva
+Sideboard
+1 Zell Dincht

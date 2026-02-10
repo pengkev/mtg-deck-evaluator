@@ -1,0 +1,101 @@
+1 Aurelia, the Warleader
+1 Birds of Paradise
+1 Bloom Tender
+1 Chatterfang, Squirrel General
+1 Combat Celebrant
+1 Delighted Halfling
+1 Derevi, Empyrial Tactician
+1 Devilish Valet
+1 Enduring Vitality
+1 Esper Sentinel
+1 Faeburrow Elder
+1 Gornog, the Red Reaper
+1 Hullbreaker Horror
+1 Ignoble Hierarch
+1 Jegantha, the Wellspring
+1 Kiki-Jiki, Mirror Breaker
+1 Noble Hierarch
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Samut, Vizier of Naktamun
+1 Simian Spirit Guide
+1 Stadium Headliner
+1 Thassa's Oracle
+1 Voice of Victory
+1 Zealous Conscripts
+1 Arcane Signet
+1 Chrome Mox
+1 Helm of the Host
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Brain Freeze
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 Mana Drain
+1 Mindbreak Trap
+1 Red Elemental Blast
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Teferi's Protection
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Culling Ritual
+1 Demonic Tutor
+1 Diabolic Intent
+1 Imperial Seal
+1 Jeska's Will
+1 Aggravated Assault
+1 Bear Umbra
+1 Cryptolith Rite
+1 Druids' Repository
+1 Elven Chorus
+1 Nature's Will
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Plateau
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Taiga
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Volcanic Island
+Sideboard
+1 Najeela, the Blade-Blossom

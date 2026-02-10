@@ -1,0 +1,88 @@
+1 Bygone Bishop
+1 Cemetery Illuminator
+1 Clarion Spirit
+1 Dorothea, Vengeful Victim
+1 Dreamshackle Geist
+1 Drogskol Captain
+1 Drogskol Reinforcements
+1 Dust Animus
+1 Empyrean Eagle
+1 Enduring Curiosity
+1 Enduring Innocence
+1 Ethereal Investigator
+1 Ghostly Pilferer
+1 Guardian of Faith
+1 Hanged Executioner
+1 Hydroelectric Specimen
+1 Kami of False Hope
+1 Katilda, Dawnhart Martyr
+1 Kira, Great Glass-Spinner
+1 Mausoleum Wanderer
+1 Mirror Entity
+1 Mirrorhall Mimic
+1 Moonshaker Cavalry
+1 Nebelgast Herald
+1 Patrician Geist
+1 Rattlechains
+1 Remorseful Cleric
+1 Selfless Spirit
+1 Shacklegeist
+1 Spectral Arcanist
+1 Spectral Sailor
+1 Spell Queller
+1 Supreme Phantom
+1 Topplegeist
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Fellwar Stone
+1 Mind Stone
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Staff of the Storyteller
+1 Talisman of Progress
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Clever Concealment
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Essence Flux
+1 Flare of Denial
+1 Flawless Maneuver
+1 Keep Watch
+1 Mana Drain
+1 Path to Exile
+1 Sink into Stupor
+1 Swords to Plowshares
+1 Unexplained Absence
+1 Distant Melody
+1 Dusk/Dawn
+1 Raise the Palisade
+1 Kindred Discovery
+1 Reconnaissance Mission
+1 Rhystic Study
+1 Adarkar Wastes
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+1 Glacial Fortress
+1 Hallowed Fountain
+8 Island
+1 Meticulous Archive
+1 Minas Tirith
+1 Moorland Haunt
+1 Nimbus Maze
+1 Path of Ancestry
+7 Plains
+1 Port Town
+1 Prairie Stream
+1 Reliquary Tower
+1 Sea of Clouds
+1 Secluded Courtyard
+1 Skycloud Expanse
+1 Three Tree City
+Sideboard
+1 Millicent, Restless Revenant

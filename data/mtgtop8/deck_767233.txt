@@ -1,0 +1,79 @@
+1 Baral, Chief of Compliance
+1 Cloud of Faeries
+1 Displacer Kitten
+1 Gilded Drake
+1 Palinchron
+1 Snapcaster Mage
+1 Spellseeker
+1 Aetherflux Reservoir
+1 Candelabra of Tawnos
+1 Chrome Mox
+1 Extraplanar Lens
+1 Grim Monolith
+1 Isochron Scepter
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Voltaic Key
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Capsize
+1 Consider
+1 Counterspell
+1 Cyclonic Rift
+1 Dig Through Time
+1 Dramatic Reversal
+1 Fact or Fiction
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 High Tide
+1 Impulse
+1 Intuition
+1 Mana Drain
+1 Misdirection
+1 Mission Briefing
+1 Mystical Tutor
+1 Narset's Reversal
+1 Negate
+1 Pact of Negation
+1 Paradoxical Outcome
+1 Pull from Tomorrow
+1 Reality Spasm
+1 Snap
+1 Swan Song
+1 Turnabout
+1 Whir of Invention
+1 Wipe Away
+1 Echo of Eons
+1 Fabricate
+1 Finale of Revelation
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Ponder
+1 Preordain
+1 Solve the Equation
+1 Time Spiral
+1 Transmute Artifact
+1 Treasure Cruise
+1 Windfall
+1 Copy Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Flooded Strand
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+23 Snow-Covered Island
+Sideboard
+1 Jace, Vryn's Prodigy

@@ -1,0 +1,101 @@
+1 Elvish Spirit Guide
+1 Consecrated Sphinx
+1 Bloom Tender
+1 Void Winnower
+1 Elvish Mystic
+1 Volatile Stormdrake
+1 Phyrexian Metamorph
+1 Thassa's Oracle
+1 Nyxbloom Ancient
+1 Delighted Halfling
+1 Birds of Paradise
+1 Fyndhorn Elves
+1 Flesh Duplicate
+1 Perplexing Chimera
+1 Gilded Drake
+1 Nezahal, Primal Tide
+1 Hullbreaker Horror
+1 Llanowar Elves
+1 Phantasmal Image
+1 Trophy Mage
+1 Tidespout Tyrant
+1 Enduring Vitality
+1 The Unagi of Kyoshi Island
+1 Glen Elendra Archmage
+1 Spellskite
+1 Seedborn Muse
+1 Wandering Archaic
+1 Thrasios, Triton Hero
+1 Endurance
+1 The One Ring
+1 Simic Signet
+1 Sol Ring
+1 Mox Amber
+1 Mirage Mirror
+1 Arcane Signet
+1 Mox Opal
+1 Moonsilver Key
+1 Lotus Petal
+1 Talisman of Curiosity
+1 Chrome Mox
+1 Springleaf Drum
+1 Fellwar Stone
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Basalt Monolith
+1 Pact of Negation
+1 Mindbreak Trap
+1 March of Swirling Mist
+1 Force of Will
+1 Consign to Memory
+1 Flusterstorm
+1 Fierce Guardianship
+1 Mental Misstep
+1 Cyclonic Rift
+1 Force of Negation
+1 Force of Vigor
+1 Worldly Tutor
+1 Crop Rotation
+1 Resculpt
+1 Mana Drain
+1 Delay
+1 Dispel
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Green Sun's Zenith
+1 Transmute Artifact
+1 Finale of Devastation
+1 Mystic Remora
+1 Rhystic Study
+1 Copy Artifact
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Rejuvenating Springs
+1 Mana Confluence
+1 Barkchannel Pathway
+1 Exotic Orchard
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 City of Brass
+1 Polluted Delta
+1 Command Tower
+1 Breeding Pool
+1 Misty Rainforest
+1 Ancient Tomb
+1 Cephalid Coliseum
+1 Island
+1 Forest
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Gemstone Caverns
+1 Waterlogged Grove
+1 Flooded Strand
+1 Gaea's Cradle
+1 Treasure Vault
+1 Homeward Path
+1 Yavimaya Coast
+1 Tropical Island
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,87 @@
+1 Scrappy Bruiser
+1 Loyal Guardian
+1 Bramble Familiar
+1 Threefold Thunderhulk
+1 Hugs, Grisly Guardian
+1 Wandertale Mentor
+1 Brazen Collector
+1 Brambleguard Veteran
+1 Byway Barterer
+1 Bark-Knuckle Boxer
+1 Rust-Shield Rampager
+1 Teapot Slinger
+1 Keen-Eyed Curator
+1 Three Tree Mascot
+1 Raccoon Rallier
+1 Trailtracker Scout
+1 Pyreswipe Hawk
+1 Prosperous Bandit
+1 Goreclaw, Terror of Qal Sisma
+1 Junkblade Bruiser
+1 Bello, Bard of the Brambles
+1 Scrapshooter
+1 Roughshod Duo
+1 Vanquisher's Banner
+1 Bow of Nylea
+1 Sol Ring
+1 Arcane Signet
+1 Patchwork Banner
+1 Rolling Hamsphere
+1 Banner of Kinship
+1 Maskwood Nexus
+1 Heaped Harvest
+1 Fog
+1 Starstorm
+1 Prizefight
+1 Chaos Warp
+1 Valley Rally
+1 Peerless Recycling
+1 Gift of the Viper
+1 Take Out the Trash
+1 Escape to the Wilds
+1 Vandalblast
+1 Shamanic Revelation
+1 Three Visits
+1 Longstalk Brawl
+1 Season of Gathering
+1 Rootcast Apprenticeship
+1 Overwhelming Stampede
+1 Harmonize
+1 Gravity Well
+1 Beastmaster Ascension
+1 Assemble the Entmoot
+1 Hunter's Talent
+1 Innkeeper's Talent
+1 Communal Brewing
+1 Thickest in the Thicket
+1 Sunbird's Invocation
+1 Berserkers' Onslaught
+1 Path of Discovery
+1 Primeval Bounty
+1 Garruk's Uprising
+1 Unnatural Growth
+1 Sylvan Scavenging
+1 Domri, Anarch of Bolas
+1 Oran-Rief, the Vastwood
+1 Myriad Landscape
+1 Raging Ravine
+1 Wooded Ridgeline
+1 Rogue's Passage
+1 Command Tower
+1 Game Trail
+1 Tranquil Thicket
+1 Rockface Village
+1 Oakhollow Village
+1 Three Tree City
+1 Rootbound Crag
+1 Path of Ancestry
+1 Evolving Wilds
+1 Mosswort Bridge
+1 Cinder Glade
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Temple of Abandon
+11 Forest
+5 Mountain
+Sideboard
+1 Muerra, Trash Tactician

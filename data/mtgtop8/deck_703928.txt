@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Elves of Deep Shadow
+1 Kinnan, Bonder Prodigy
+1 Wandering Archaic
+1 Endurance
+1 Walking Ballista
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Phyrexian Metamorph
+1 Seedborn Muse
+1 Opposition Agent
+1 Volatile Stormdrake
+1 Eternal Witness
+1 Valley Floodcaller
+1 Mockingbird
+1 Hazel's Brewmaster
+1 Thassa's Oracle
+1 Deathrite Shaman
+1 Devoted Druid
+1 Chrome Mox
+1 Mana Vault
+1 Mox Diamond
+1 Machine God's Effigy
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Sol Ring
+1 Arcane Signet
+1 Sensei's Divining Top
+1 Basalt Monolith
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Crop Rotation
+1 Entomb
+1 Chord of Calling
+1 Dark Ritual
+1 Force of Negation
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Demonic Consultation
+1 Force of Will
+1 Cyclonic Rift
+1 Worldly Tutor
+1 Tainted Pact
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Mana Drain
+1 Assassin's Trophy
+1 Pact of Negation
+1 Noxious Revival
+1 Veil of Summer
+1 An Offer You Can't Refuse
+1 Flusterstorm
+1 Demonic Tutor
+1 Praetor's Grasp
+1 Imperial Seal
+1 Green Sun's Zenith
+1 Diabolic Intent
+1 Toxic Deluge
+1 Finale of Devastation
+1 Reanimate
+1 Culling Ritual
+1 Eldritch Evolution
+1 Sylvan Library
+1 Survival of the Fittest
+1 Necropotence
+1 Wild Growth
+1 Rhystic Study
+1 Mystic Remora
+1 Urza's Saga
+1 City of Brass
+1 Breeding Pool
+1 Watery Grave
+1 Marsh Flats
+1 Emergence Zone
+1 Prismatic Vista
+1 Overgrown Tomb
+1 Gaea's Cradle
+1 Bayou
+1 Gemstone Caverns
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Yavimaya, Cradle of Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Command Tower
+1 Minamo, School at Water's Edge
+1 Underground Mortuary
+1 Swamp
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Dryad Arbor
+1 Forest
+1 Island
+1 Hedge Maze
+Sideboard
+1 Francisco, Fowl Marauder
+1 Thrasios, Triton Hero

@@ -1,0 +1,76 @@
+1 Accursed Marauder
+1 Ardbert, Warrior of Darkness
+1 Bastion Protector
+1 Burnished Hart
+1 Danitha Capashen, Paragon
+1 Fleshbag Marauder
+1 Fleshtaker
+1 Jirina, Dauntless General
+1 Lurrus of the Dream-Den
+1 Millikin
+1 Morbid Opportunist
+1 Plaguecrafter
+1 Puresteel Paladin
+1 Selfless Samurai
+1 Selfless Savior
+1 Shinra Reinforcements
+1 Stitcher's Supplier
+1 Sublime Archangel
+1 Zack Fair
+1 Arcane Signet
+1 Blitzball
+1 Commander's Sphere
+1 Haunted Cloak
+1 Key to the City
+1 Lightning Greaves
+1 Mask of Memory
+1 Mind Stone
+1 Orzhov Locket
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Hierarchy
+1 Trailblazer's Boots
+1 Deadly Dispute
+1 Demystify
+1 Despark
+1 Emerge Unscathed
+1 Forsake the Worldly
+1 Generous Gift
+1 Gods Willing
+1 Invoke the Divine
+1 Loran's Escape
+1 Path to Exile
+1 Restoration Magic
+1 Swords to Plowshares
+1 Take Up the Shield
+1 Village Rites
+1 Vona's Hunger
+1 Buried Alive
+1 Expel the Interlopers
+1 Open the Armory
+1 Resentful Revelation
+1 Sevinne's Reclamation
+1 Single Combat
+1 All That Glitters
+1 Case of the Stashed Skeleton
+1 Dog Umbra
+1 Ethereal Armor
+1 Fungal Fortitude
+1 Idolized
+1 Kaya's Ghostform
+1 Rule of Law
+1 Seal of Cleansing
+1 Seal of Doom
+1 Spirit Mantle
+1 Unquestioned Authority
+1 Command Tower
+1 Isolated Chapel
+1 Orzhov Basilica
+1 Path of Ancestry
+14 Plains
+1 Rogue's Passage
+13 Swamp
+1 Takenuma, Abandoned Mire
+1 Terramorphic Expanse
+Sideboard
+1 Squall, SeeD Mercenary

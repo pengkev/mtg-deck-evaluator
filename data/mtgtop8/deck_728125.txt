@@ -1,0 +1,85 @@
+1 Kiki-Jiki, Mirror Breaker
+1 Sakura-Tribe Elder
+1 Peregrine Drake
+1 Eternal Witness
+1 Elvish Mystic
+1 Paradise Druid
+1 Dualcaster Mage
+1 Tinder Wall
+1 Naru Meha, Master Wizard
+1 Wall of Roots
+1 Lotus Cobra
+1 Zealous Conscripts
+1 Llanowar Loamspeaker
+1 Birds of Paradise
+1 Cloud of Faeries
+1 Drift of Phantasms
+1 Lilysplash Mentor
+1 Dour Port-Mage
+1 Fyndhorn Elves
+1 Deadeye Navigator
+1 Sylvan Caryatid
+1 Incubation Druid
+1 Sol Ring
+1 Izzet Signet
+1 Talisman of Curiosity
+1 Fellwar Stone
+1 Arcane Signet
+1 Thrill of Possibility
+1 Beast Within
+1 Counterspell
+1 Memory Lapse
+1 Reclaim
+1 Negate
+1 Brainstorm
+1 Gifts Ungiven
+1 Frantic Search
+1 Abrade
+1 Ghostly Flicker
+1 Dispel
+1 Izzet Charm
+1 Lightning Bolt
+1 Arcane Denial
+1 Consider
+1 An Offer You Can't Refuse
+1 Snap
+1 Mystical Tutor
+1 Chord of Calling
+1 Slip Out the Back
+1 Pongify
+1 Long River's Pull
+1 Reality Shift
+1 Essence Flux
+1 Disallow
+1 Faithless Looting
+1 Recollect
+1 Neoform
+1 Gitaxian Probe
+1 Preordain
+1 Solve the Equation
+1 Ponder
+1 Step Through
+1 Twinflame
+1 Tooth and Nail
+1 Electroduplicate
+1 Nature's Rhythm
+1 Fertile Ground
+1 Wild Growth
+6 Island
+6 Mountain
+1 Temple of Abandon
+1 Frontier Bivouac
+1 Temple of Mystery
+1 Temple of Epiphany
+1 Exotic Orchard
+1 Simic Growth Chamber
+1 Flooded Grove
+1 Frostboil Snarl
+1 Game Trail
+1 Stormcarved Coast
+1 Cascade Bluffs
+1 Bountiful Landscape
+1 Command Tower
+7 Forest
+Sideboard
+1 Loot, the Pathfinder

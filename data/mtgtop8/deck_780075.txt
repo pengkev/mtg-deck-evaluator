@@ -1,0 +1,101 @@
+1 Atraxa, Grand Unifier
+1 Birds of Paradise
+1 Delighted Halfling
+1 Esper Sentinel
+1 Eternal Witness
+1 Ignoble Hierarch
+1 Loran of the Third Path
+1 Noble Hierarch
+1 Perplexing Chimera
+1 Phelia, Exuberant Shepherd
+1 Ragavan, Nimble Pilferer
+1 Sowing Mycospawn
+1 Volatile Stormdrake
+1 Zur the Enchanter
+1 Arcane Signet
+1 Boompile
+1 Chromatic Lantern
+1 Conduit of Worlds
+1 Fellwar Stone
+1 Lotus Petal
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Wishclaw Talisman
+1 Assassin's Trophy
+1 Cabal Ritual
+1 Dark Ritual
+1 Deflecting Swat
+1 Desertion
+1 Force of Negation
+1 Lim-Dul's Vault
+1 Mana Drain
+1 Misdirection
+1 Noxious Revival
+1 Pact of Negation
+1 Radiate
+1 Sudden Substitution
+1 Swords to Plowshares
+1 Wrong Turn
+1 Bribery
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Grim Tutor
+1 Order of Succession
+1 Praetor's Grasp
+1 Promise of Loyalty
+1 Reanimate
+1 Scheming Symmetry
+1 Amphibian Downpour
+1 Animate Dead
+1 Bloodchief Ascension
+1 Dress Down
+1 Hive Mind
+1 Mirrormade
+1 Mystic Remora
+1 Out of Time
+1 Pernicious Deed
+1 Planar Chaos
+1 Revelation
+1 Starfield of Nyx
+1 Steal Enchantment
+1 Sterling Grove
+1 Touch the Spirit Realm
+1 Utopia Sprawl
+1 Wild Growth
+1 Dihada, Binder of Wills
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Homeward Path
+1 Mana Confluence
+1 Marsh Flats
+1 Maze of Ith
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Sacred Foundry
+1 Scalding Tarn
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Terra, Magical Adept

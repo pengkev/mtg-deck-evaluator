@@ -1,0 +1,88 @@
+1 Brash Taunter
+1 Ink-Treader Nephilim
+1 Jin-Gitaxias
+1 Jin-Gitaxias, Progress Tyrant
+1 Arcane Signet
+1 Campfire
+1 Firemind Vessel
+1 Ghost Vacuum
+1 Primal Amulet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Collective Resistance
+1 Counterspell
+1 Deceive the Messenger
+1 Disdainful Stroke
+1 Dovin's Veto
+1 Dramatic Rescue
+1 Entish Restoration
+1 Geistwave
+1 Hindering Light
+1 Invert Polarity
+1 Memory Plunder
+1 Mortify
+1 Negate
+1 Path to Exile
+1 Reprieve
+1 Rewind
+1 Stroke of Midnight
+1 Supplant Form
+1 Tangle
+1 Turn Aside
+1 Untimely Malfunction
+1 Wear/Tear
+1 Blasphemous Act
+1 Cleansing Nova
+1 Cultivate
+1 Don't Move
+1 Doomskar
+1 Gaea's Blessing
+1 Inscription of Insight
+1 Kaya's Wrath
+1 Kodama's Reach
+1 Many Partings
+1 Martial Coup
+1 Mythos of Illuna
+1 Role Reversal
+1 Silent Departure
+1 Stolen Identity
+1 Supreme Verdict
+1 Time Wipe
+1 Treasure Cruise
+1 White Sun's Twilight
+1 Blind Obedience
+1 Carpet of Flowers
+1 Collective Restraint
+1 Ghostly Prison
+1 Guilty Conscience
+1 Kenrith's Transformation
+1 Planar Chaos
+1 Propaganda
+1 Professor Onyx
+1 Arcane Sanctum
+1 Brokers Hideout
+1 Citadel Gate
+1 Command Tower
+1 Crumbling Necropolis
+1 Deathcap Glade
+3 Forest
+1 Hallowed Fountain
+5 Island
+1 Jungle Shrine
+1 Llanowar Wastes
+1 Maestros Theater
+2 Mountain
+5 Plains
+1 Prairie Stream
+1 Rupture Spire
+1 Savage Lands
+2 Swamp
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Tranquil Cove
+1 Vivid Crag
+1 Vivid Grove
+Sideboard
+1 Esika, God of the Tree

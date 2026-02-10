@@ -1,0 +1,92 @@
+1 Walking Ballista
+1 Necrotic Ooze
+1 Phyrexian Devourer
+1 Lotus Petal
+1 Grim Monolith
+1 Mana Vault
+1 Null Rod
+1 Jeweled Amulet
+1 Chrome Mox
+1 Mox Diamond
+1 Chalice of the Void
+1 Nevinyrral's Disk
+1 The One Ring
+1 Sol Ring
+1 Torpor Orb
+1 Vexing Bauble
+1 Crop Rotation
+1 Dark Ritual
+1 Ad Nauseam
+1 Vampiric Tutor
+1 Archdruid's Charm
+1 Force of Vigor
+1 Demonic Tutor
+1 Grim Tutor
+1 Pir's Whim
+1 Traverse the Ulvenwald
+1 Ritual of Soot
+1 Yahenni's Expertise
+1 Damnation
+1 Seeds of Innocence
+1 Explore
+1 Languish
+1 Beseech the Queen
+1 Gaze of Granite
+1 Nature's Lore
+1 Imperial Seal
+1 Culling Ritual
+1 Beseech the Mirror
+1 Three Visits
+1 Nuclear Fallout
+1 Toxic Deluge
+1 Disorienting Choice
+1 Blasphemous Edict
+1 Sylvan Library
+1 Titania's Song
+1 Drop of Honey
+1 Gaea's Touch
+1 Burgeoning
+1 Pernicious Deed
+1 Heartless Summoning
+1 Urza's Saga
+1 Wolfwillow Haven
+1 Overgrowth
+1 Exploration
+1 Phyrexian Arena
+1 Necropotence
+1 Carpet of Flowers
+1 Utopia Sprawl
+1 Fertile Ground
+1 Wild Growth
+1 Ripples of Undeath
+1 Black Market Connections
+1 Karn, the Great Creator
+1 Tevesh Szat, Doom of Fools
+1 Llanowar Wastes
+1 Boseiju, Who Shelters All
+1 Ancient Tomb
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
+1 City of Brass
+1 Mana Confluence
+1 Overgrown Tomb
+1 Bayou
+6 Snow-Covered Swamp
+5 Snow-Covered Forest
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Tomb Fortress
+1 Undergrowth Stadium
+1 Polluted Delta
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Windswept Heath
+1 Command Tower
+1 Urza's Cave
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Blast Zone
+Sideboard
+1 Old Stickfingers

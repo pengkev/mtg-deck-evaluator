@@ -1,0 +1,80 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Baral and Kari Zev
+1 Drift of Phantasms
+1 Dualcaster Mage
+1 Firebrand Archer
+1 Goblin Electromancer
+1 Guttersnipe
+1 Hydroelectric Specimen
+1 Jori En, Ruin Diver
+1 Niv-Mizzet, Parun
+1 Stormcatch Mentor
+1 Tandem Lookout
+1 The Emperor of Palamecia
+1 Thermo-Alchemist
+1 Thunderclap Drake
+1 Arcane Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Brainsurge
+1 Consider
+1 Counterspell
+1 Desynchronization
+1 Disallow
+1 Dispel
+1 Dizzy Spell
+1 Dreams of Laguna
+1 Frantic Search
+1 Gifts Ungiven
+1 Laughing Mad
+1 Lightning Bolt
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Pongify
+1 Reality Shift
+1 Snap
+1 Strix Serenade
+1 Telling Time
+1 Think Twice
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Blasphemous Act
+1 Boltwave
+1 Chart a Course
+1 Electroduplicate
+1 Expressive Iteration
+1 Gamble
+1 Gitaxian Probe
+1 Grapeshot
+1 Mind's Desire
+1 Mizzix's Mastery
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Sleight of Hand
+1 Solve the Equation
+1 Twinflame
+1 Unending Whisper
+1 Counterbalance
+1 Curiosity
+1 Thousand-Year Storm
+1 Narset, Parter of Veils
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Frostboil Snarl
+12 Island
+11 Mountain
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Vivi Ornitier

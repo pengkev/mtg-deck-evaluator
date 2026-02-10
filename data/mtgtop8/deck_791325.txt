@@ -1,0 +1,82 @@
+1 Cabal Initiate
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Fyndhorn Elves
+1 Golgari Brownscale
+1 Golgari Grave-Troll
+1 Golgari Thug
+1 Llanowar Elves
+1 Noose Constrictor
+1 Olivia's Dragoon
+1 Putrid Imp
+1 Satyr Wayfinder
+1 Shambling Shell
+1 Skirge Familiar
+1 Stinkweed Imp
+1 Tato Farmer
+1 Ulamog, the Infinite Gyre
+1 Wild Mongrel
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Expedition Map
+1 Fellwar Stone
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Resilience
+1 World Map
+1 Autumn's Veil
+1 Cabal Ritual
+1 Crop Rotation
+1 Dark Ritual
+1 Darkblast
+1 Grisly Salvage
+1 Imp's Mischief
+1 Infernal Grasp
+1 Nature's Claim
+1 Rain of Filth
+1 Tear Asunder
+1 The Spot's Portal
+1 Chain of Smog
+1 Commune with the Gods
+1 Culling Ritual
+1 Diabolic Tutor
+1 Drown in Filth
+1 Edge of Autumn
+1 Explore
+1 Exsanguinate
+1 Gaea's Blessing
+1 Gather the Pack
+1 Life from the Loam
+1 Lively Dirge
+1 Malevolent Rumble
+1 Mulch
+1 Nylea's Intervention
+1 Ransack the Lab
+1 Sylvan Scrying
+1 Tapping at the Window
+1 Winding Way
+1 Oblivion Crown
+1 Wild Growth
+1 Aether Hub
+1 Ash Barrens
+1 Barren Moor
+1 Command Tower
+1 Crystal Vein
+1 Dakmor Salvage
+1 Ebon Stronghold
+1 Emergence Zone
+1 Evolving Wilds
+1 Exotic Orchard
+1 Festering Thicket
+13 Forest
+1 Havenwood Battleground
+1 Llanowar Wastes
+8 Swamp
+1 Tainted Wood
+1 Terramorphic Expanse
+1 Tranquil Thicket
+1 Twilight Mire
+1 Urza's Cave
+Sideboard
+1 The Gitrog Monster

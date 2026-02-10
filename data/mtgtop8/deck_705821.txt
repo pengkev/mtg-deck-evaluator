@@ -1,0 +1,101 @@
+1 Avacyn's Pilgrim
+1 Manglehorn
+1 Ethersworn Canonist
+1 Drannith Magistrate
+1 Serra Ascendant
+1 Archon of Emeria
+1 Opposition Agent
+1 Breena, the Demagogue
+1 Ranger-Captain of Eos
+1 Endurance
+1 Elesh Norn, Grand Cenobite
+1 Saryth, the Viper's Fang
+1 Collector Ouphe
+1 Weathered Wayfarer
+1 Archivist of Oghma
+1 Bloom Tender
+1 Fyndhorn Elves
+1 Sheoldred, the Apocalypse
+1 Deathrite Shaman
+1 Drana and Linvala
+1 Phyrexian Censor
+1 Ohran Frostfang
+1 Faeburrow Elder
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Dauntless Dismantler
+1 Kutzil, Malamet Exemplar
+1 Charismatic Conqueror
+1 Doorkeeper Thrull
+1 Sylvan Safekeeper
+1 Esper Sentinel
+1 Eladamri, Korvecdal
+1 Elves of Deep Shadow
+1 Birds of Paradise
+1 Grim Hireling
+1 Enduring Vitality
+1 Dauthi Voidwalker
+1 Rev, Tithe Extractor
+1 Aven Interrupter
+1 Null Rod
+1 Mox Diamond
+1 Sol Ring
+1 The One Ring
+1 Crop Rotation
+1 Path to Exile
+1 Abrupt Decay
+1 Silence
+1 Veil of Summer
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Deadly Rollick
+1 Chord of Calling
+1 Archdruid's Charm
+1 Force of Vigor
+1 Culling Ritual
+1 Finale of Devastation
+1 Demonic Tutor
+1 Sevinne's Reclamation
+1 Deafening Silence
+1 Rule of Law
+1 Stronghold Arena
+1 Exploration
+1 Smothering Tithe
+1 Flowering of the White Tree
+1 Carpet of Flowers
+1 Vivien, Champion of the Wilds
+1 Castle Garenbrig
+1 Gaea's Cradle
+1 Vault of Champions
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Bountiful Promenade
+1 Mana Confluence
+1 City of Brass
+1 Bayou
+1 Savannah
+1 Scrubland
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Godless Shrine
+1 Overgrown Tomb
+1 Temple Garden
+1 Lush Portico
+1 Command Tower
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Wooded Foothills
+1 Polluted Delta
+1 Exotic Orchard
+1 Talon Gates of Madara
+Sideboard
+1 Tymna the Weaver
+1 Kamahl, Heart of Krosa

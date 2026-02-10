@@ -1,0 +1,86 @@
+1 Imagecrafter
+1 Spectral Sailor
+1 Siren Stormtamer
+1 Reckless Fireweaver
+1 Sunshot Militia
+1 Spider-Punk
+1 Magda, Brazen Outlaw
+1 Weftstalker Ardent
+1 Vaan, Street Thief
+1 Shao Jun
+1 Hedron Detonator
+1 Ingenious Artillerist
+1 Glint-Horn Buccaneer
+1 J. Jonah Jameson
+1 Tandem Lookout
+1 Dualcaster Mage
+1 Drift of Phantasms
+1 Simian Spirit Guide
+1 Chameleon, Master of Disguise
+1 Breeches, Brazen Plunderer
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, the Firemind
+1 Lotus Petal
+1 Sol Ring
+1 Swiftfoot Boots
+1 Izzet Signet
+1 Mind Stone
+1 Arcane Signet
+1 Talisman of Creativity
+1 Fellwar Stone
+1 Maskwood Nexus
+1 Brainstorm
+1 Artificial Evolution
+1 Spell Pierce
+1 Trickery Charm
+1 An Offer You Can't Refuse
+1 Flusterstorm
+1 Dispel
+1 Lightning Bolt
+1 Pongify
+1 Abrade
+1 Impulse
+1 Spider-Sense
+1 Muddle the Mixture
+1 Siren's Ruse
+1 Negate
+1 Wings of Velis Vel
+1 Snap
+1 Demand Answers
+1 Arcane Denial
+1 Chaos Warp
+1 Leadership Vacuum
+1 Frantic Search
+1 Rite of Flame
+1 Vandalblast
+1 Ponder
+1 Faithless Looting
+1 Expressive Iteration
+1 Chart a Course
+1 Light Up the Stage
+1 Windfall
+1 Winged Words
+1 Electroduplicate
+1 Eagle Vision
+1 Blasphemous Act
+1 Curiosity
+1 Guild Artisan
+1 Ophidian Eye
+1 Leyline of Transformation
+1 Narset, Parter of Veils
+10 Island
+1 Vibrant Cityscape
+1 Mystic Sanctuary
+1 Cephalid Coliseum
+1 Rogue's Passage
+7 Mountain
+1 Exotic Orchard
+1 Izzet Boilerworks
+1 Cascade Bluffs
+1 Temple of Epiphany
+1 Swiftwater Cliffs
+1 Shivan Reef
+1 Sulfur Falls
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

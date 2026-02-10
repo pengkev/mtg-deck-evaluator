@@ -1,0 +1,70 @@
+1 Adamant Will
+1 Ajani, Caller of the Pride
+1 Alseid of Life's Bounty
+1 Angelic Gift
+1 Angelic Intervention
+1 Apostle's Blessing
+1 Aven Interrupter
+1 Beaming Defiance
+1 Benevolent Bodyguard
+1 Blacksmith's Skill
+1 Boon of Safety
+1 Brave the Elements
+1 Brotherhood Regalia
+1 Brought Back
+1 Cliffside Rescuer
+1 Council's Judgment
+1 Courageous Resolve
+1 Dawn Charm
+1 Demolition Field
+1 Destroy Evil
+1 Duelist's Heritage
+1 Eight-and-a-Half-Tails
+1 Emerge Unscathed
+1 Faith's Shield
+1 Family Reunion
+1 Fateful Absence
+1 Feat of Resistance
+1 Feather of Flight
+1 Fight as One
+1 Flawless Maneuver
+1 Flickering Ward
+1 Giver of Runes
+1 Gods Willing
+1 Greatsword of Tyr
+1 Guardian of Faith
+1 Haystack
+1 Lapse of Certainty
+1 Loran's Escape
+1 Mana Tithe
+1 Mother of Runes
+1 Ollenbock Escort
+1 Ossification
+1 Otherworldly Journey
+1 Path to Exile
+32 Plains
+1 Prismatic Strands
+1 Prowler's Helm
+1 Rebuff the Wicked
+1 Reprieve
+1 Restoration Magic
+1 Rogue's Passage
+1 Seasoned Dungeoneer
+1 Sejiri Shelter
+1 Selfless Savior
+1 Selfless Spirit
+1 Shelter
+1 Sheltered by Ghosts
+1 Sheltering Light
+1 Skrelv, Defector Mite
+1 Standard Bearer
+1 Surge of Salvation
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Take Up the Shield
+1 Unquestioned Authority
+1 Valorous Stance
+1 Winds of Abandon
+Sideboard
+1 Lae'zel, Vlaakith's Champion
+1 Noble Heritage

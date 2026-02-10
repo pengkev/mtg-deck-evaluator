@@ -1,0 +1,71 @@
+1 Arvinox, the Mind Flail
+1 Ayara, First of Locthwain
+1 Brainstealer Dragon
+1 Crypt Ghast
+1 Dauthi Cutthroat
+1 Dauthi Ghoul
+1 Dauthi Horror
+1 Dauthi Slayer
+1 Dauthi Warlord
+1 Deep-Cavern Bat
+1 Drana, Liberator of Malakir
+1 Elder Brain
+1 Gifted Aetherborn
+1 Gonti, Lord of Luxury
+1 Gonti, Night Minister
+1 Gray Merchant of Asphodel
+1 K'rrik, Son of Yawgmoth
+1 Massacre Wurm
+1 Nirkana Revenant
+1 Ophiomancer
+1 Ravenous Chupacabra
+1 Sinkhole Surveyor
+1 Solemn Simulacrum
+1 Tormented Soul
+1 Vampire Cutthroat
+1 Vashta Nerada
+1 Vault Skirge
+1 Arcane Signet
+1 Bag of Holding
+1 Caged Sun
+1 Decanter of Endless Water
+1 Explorer's Scope
+1 Extraplanar Lens
+1 Fountainport Bell
+1 Gauntlet of Power
+1 Illusionist's Bracers
+1 Jet Medallion
+1 Library of Leng
+1 Lightning Greaves
+1 Lithoform Engine
+1 Nyx Lotus
+1 Rings of Brighthearth
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Vorpal Sword
+1 Whip of Erebos
+1 Bitter Triumph
+1 Dark Ritual
+1 Deadly Derision
+1 Go for the Throat
+1 Hero's Downfall
+1 Shadow of the Grave
+1 Shoot the Sheriff
+1 The End
+1 Breach the Multiverse
+1 Exsanguinate
+1 Feed the Swarm
+1 Gix's Command
+1 Mutilate
+1 Unearth
+1 Black Market
+1 Kaya's Ghostform
+1 Phyrexian Arena
+1 Cabal Stronghold
+1 Reliquary Tower
+31 Swamp
+1 Thespian's Stage
+1 Urza's Cave
+Sideboard
+1 Gix, Yawgmoth Praetor

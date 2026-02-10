@@ -1,0 +1,91 @@
+1 Aminatou, Veil Piercer
+1 Anikthea, Hand of Erebos
+1 Archon of Sun's Grace
+1 Azusa's Many Journeys
+1 Barbara Wright
+1 Boseiju Reaches Skyward
+1 Dreamtide Whale
+1 Eidolon of Blossoms
+1 Eivor, Wolf-Kissed
+1 Faeburrow Elder
+1 Ghen, Arcanum Weaver
+1 Glissa Sunslayer
+1 Goldberry, River-Daughter
+1 Herald of the Pantheon
+1 Inventive Iteration
+1 Jin-Gitaxias
+1 Jukai Naturalist
+1 Mesa Enchantress
+1 O'aka, Traveling Merchant
+1 Rydia, Summoner of Mist
+1 Sanctum Weaver
+1 Satsuki, the Living Lore
+1 Satyr Enchanter
+1 Scholar of New Horizons
+1 Setessan Champion
+1 Sigurd, Jarl of Ravensthorpe
+1 Summon: Fenrir
+1 Summon: Primal Odin
+1 Sythis, Harvest's Hand
+1 Terra, Magical Adept
+1 The Fall of Lord Konda
+1 The Kami War
+1 Thrull Parasite
+1 Tuvasa the Sunlit
+1 Weaver of Harmony
+1 Xavier Sal, Infested Captain
+1 Yenna, Redtooth Regent
+1 Chromatic Lantern
+1 Lotus Bloom
+1 Power Conduit
+1 Sol Ring
+1 Ripples of Potential
+1 Brilliant Restoration
+1 Clash of the Eikons
+1 Search for Glory
+1 Battle at the Helvault
+1 Binding the Old Gods
+1 City of Death
+1 Copy Enchantment
+1 Elspeth Conquers Death
+1 Enchantress's Presence
+1 Estrid's Invocation
+1 Firja's Retribution
+1 Genesis of the Daleks
+1 Historian's Boon
+1 Propaganda
+1 Sigil of the Empty Throne
+1 Song of Eärendil
+1 Song of Freyalise
+1 Sphere of Safety
+1 The Cruelty of Gix
+1 The Eldest Reborn
+1 The First Iroan Games
+1 The Trickster-God's Heist
+1 The Weatherseed Treaty
+1 The World Spell
+1 There and Back Again
+1 Valgavoth's Lair
+1 Waking the Trolls
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+4 Forest
+1 Hinterland Harbor
+2 Island
+1 Jungle Shrine
+1 Llanowar Wastes
+3 Mountain
+1 Opulent Palace
+1 Path of Ancestry
+3 Plains
+1 Prairie Stream
+1 Rejuvenating Springs
+1 Savage Lands
+1 Seaside Citadel
+1 Smoldering Marsh
+1 Sunken Hollow
+3 Swamp
+Sideboard
+1 Tom Bombadil

@@ -1,0 +1,101 @@
+1 Anticausal Vestige
+1 Anzrag, the Quake-Mole
+1 Arixmethes, Slumbering Isle
+1 Baloth Prime
+1 Birds of Paradise
+1 Bristlebane Battler
+1 Bygone Colossus
+1 Chandra's Incinerator
+1 Delighted Halfling
+1 Dragonborn Champion
+1 Dreamtide Whale
+1 Elvish Spirit Guide
+1 Force of Savagery
+1 Fyndhorn Elves
+1 Goreclaw, Terror of Qal Sisma
+1 Gwenna, Eyes of Gaea
+1 Llanowar Elves
+1 Overlord of the Hauntwoods
+1 Phyrexian Dreadnought
+1 Phyrexian Soulgorger
+1 Pugnacious Hammerskull
+1 Purphoros, God of the Forge
+1 Ragavan, Nimble Pilferer
+1 Relic Golem
+1 Roaming Throne
+1 Selvala, Heart of the Wilds
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Tandem Lookout
+1 Temur Battlecrier
+1 Uro, Titan of Nature's Wrath
+1 Wistfulness
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Crop Rotation
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Noxious Revival
+1 Pact of Negation
+1 Swan Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Carpet of Flowers
+1 Curiosity
+1 Food Chain
+1 Greater Good
+1 Keen Sense
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Snake Umbra
+1 Survival of the Fittest
+1 Underworld Breach
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Horizon of Progress
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Shifting Woodland
+1 Steam Vents
+1 Stomping Ground
+1 Taiga
+1 Talon Gates of Madara
+1 Tropical Island
+1 Verdant Catacombs
+1 Volcanic Island
+1 Willowrush Verge
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Eshki, Temur's Roar

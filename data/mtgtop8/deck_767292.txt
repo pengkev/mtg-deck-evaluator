@@ -1,0 +1,101 @@
+1 Aura Thief
+1 Clever Impersonator
+1 Flesh Duplicate
+1 High Fae Trickster
+1 Hydroelectric Specimen
+1 Laboratory Maniac
+1 Mockingbird
+1 Orcish Bowmasters
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Stunt Double
+1 Superior Spider-Man
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Viscera Seer
+1 Arcane Signet
+1 Chrome Mox
+1 Dimir Signet
+1 Fellwar Stone
+1 Grim Monolith
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Talisman of Dominance
+1 Abjure
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Cabal Ritual
+1 Consign to Memory
+1 Culling the Weak
+1 Dark Ritual
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Fated Infatuation
+1 Fated Return
+1 Flare of Denial
+1 Flare of Malice
+1 Malakir Rebirth
+1 Mystical Tutor
+1 Nexus of Fate
+1 Pongify
+1 Sacrifice
+1 Saw in Half
+1 See Double
+1 Shallow Grave
+1 Stifle
+1 Sublime Epiphany
+1 Tainted Pact
+1 Three Steps Ahead
+1 Vampiric Tutor
+1 Breach the Multiverse
+1 Bribery
+1 Demonic Tutor
+1 Enter the Infinite
+1 Expropriate
+1 Imperial Seal
+1 Incarnation Technique
+1 Mnemonic Betrayal
+1 Peer into the Abyss
+1 Reanimate
+1 Rise of the Eldrazi
+1 Sea Gate Restoration
+1 Season of Weaving
+1 Stolen Identity
+1 Toxic Deluge
+1 Animate Dead
+1 Mystic Remora
+1 Necromancy
+1 Rhystic Study
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Beacon
+1 Command Tower
+1 Flooded Strand
+1 Gloomlake Verge
+1 High Market
+1 Island
+1 Lazotep Quarry
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Sunken Ruins
+1 Swamp
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+Sideboard
+1 Hidetsugu and Kairi

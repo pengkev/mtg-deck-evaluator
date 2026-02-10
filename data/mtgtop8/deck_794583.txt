@@ -1,0 +1,96 @@
+1 Norritt
+1 Arbor Elf
+1 Kiora's Follower
+1 Eternal Witness
+1 Archivist
+1 Empress Galina
+1 Merieke Ri Berit
+1 Wandering Archaic
+1 Clever Impersonator
+1 Ignoble Hierarch
+1 Fauna Shaman
+1 Seedborn Muse
+1 Fatestitcher
+1 Arcanis the Omnipotent
+1 Thassa, Deep-Dwelling
+1 Kelpie Guide
+1 Bloodline Keeper
+1 Anger
+1 Goblin Sharpshooter
+1 Weathered Wayfarer
+1 Selvala, Explorer Returned
+1 Avacyn's Pilgrim
+1 Bloom Tender
+1 Birds of Paradise
+1 Noble Hierarch
+1 Voyaging Satyr
+1 Vizier of Tumbling Sands
+1 Samut, Voice of Dissent
+1 Brudiclad, Telchor Engineer
+1 Aphetto Alchemist
+1 Godsire
+1 Willbreaker
+1 Faeburrow Elder
+1 Basilisk Collar
+1 Sol Ring
+1 Swiftfoot Boots
+1 Wishclaw Talisman
+1 Door to Nothingness
+1 The One Ring
+1 Lightning Greaves
+1 Thousand-Year Elixir
+1 Magewright's Stone
+1 Heroic Intervention
+1 Path to Exile
+1 Veil of Summer
+1 Muddle the Mixture
+1 Swan Song
+1 Ephemerate
+1 Mana Drain
+1 Beast Within
+1 Merciless Eviction
+1 Green Sun's Zenith
+1 Tooth and Nail
+1 Finale of Devastation
+1 Kodama's Reach
+1 Nature's Lore
+1 Living Death
+1 Bring to Light
+1 Cultivate
+1 Demonic Tutor
+1 Feed the Swarm
+1 Farseek
+1 Grim Tutor
+1 Concordant Crossroads
+1 Phyrexian Arena
+1 Sylvan Library
+1 Quest for Renewal
+1 Godless Shrine
+1 Arid Mesa
+1 Windswept Heath
+1 Command Tower
+1 Breeding Pool
+1 Wooded Foothills
+1 Steam Vents
+1 Polluted Delta
+1 Watery Grave
+2 Mountain
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Marsh Flats
+1 Fabled Passage
+2 Plains
+1 Sacred Foundry
+1 Hallowed Fountain
+1 Minamo, School at Water's Edge
+1 Stomping Ground
+1 Temple Garden
+2 Forest
+2 Island
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Flooded Strand
+1 Overgrown Tomb
+2 Swamp
+Sideboard
+1 Garth One-Eye

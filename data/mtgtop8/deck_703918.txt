@@ -1,0 +1,101 @@
+1 Recruiter of the Guard
+1 Elvish Visionary
+1 Sylvan Safekeeper
+1 Renegade Rallier
+1 Elvish Mystic
+1 Ranger-Captain of Eos
+1 Walking Ballista
+1 Allosaurus Shepherd
+1 Drannith Magistrate
+1 Birds of Paradise
+1 Llanowar Elves
+1 Avacyn's Pilgrim
+1 Fyndhorn Elves
+1 Esper Sentinel
+1 Oswald Fiddlebender
+1 Extraction Specialist
+1 Archivist of Oghma
+1 Eternal Witness
+1 Grand Abolisher
+1 Beast Whisperer
+1 Delighted Halfling
+1 Kutzil, Malamet Exemplar
+1 Delney, Streetwise Lookout
+1 Loyal Retainers
+1 Jackdaw Savior
+1 Blasting Station
+1 Mana Vault
+1 Phyrexian Altar
+1 Altar of Dementia
+1 Lion's Eye Diamond
+1 Altar of the Brood
+1 Mox Amber
+1 Arcane Signet
+1 Pyre of Heroes
+1 Defense Grid
+1 Sol Ring
+1 Ashnod's Altar
+1 Lotus Petal
+1 Mox Diamond
+1 Chrome Mox
+1 Birthing Pod
+1 The One Ring
+1 Crop Rotation
+1 Nature's Claim
+1 Swords to Plowshares
+1 Veil of Summer
+1 Autumn's Veil
+1 Silence
+1 Eladamri's Call
+1 Worldly Tutor
+1 Summoner's Pact
+1 Rite of Harmony
+1 Noxious Revival
+1 Enlightened Tutor
+1 Path to Exile
+1 Legolas's Quick Reflexes
+1 Heroic Intervention
+1 Teferi's Protection
+1 Eldritch Evolution
+1 Sevinne's Reclamation
+1 Finale of Devastation
+1 Altar of Bone
+1 Natural Order
+1 Green Sun's Zenith
+1 Survival of the Fittest
+1 Smothering Tithe
+1 Fecundity
+1 Pattern of Rebirth
+1 On Thin Ice
+1 Urza's Saga
+1 Touch the Spirit Realm
+1 Carpet of Flowers
+1 Trouble in Pairs
+1 Command Tower
+1 Mishra's Workshop
+1 Bountiful Promenade
+1 Forest
+1 Plains
+1 Ancient Tomb
+1 Cavern of Souls
+1 Temple Garden
+1 Arid Mesa
+1 Prismatic Vista
+1 Snow-Covered Forest
+1 Mana Confluence
+1 Gaea's Cradle
+1 Savannah
+1 Flooded Strand
+1 Wooded Foothills
+1 Windswept Heath
+1 Command Beacon
+1 Snow-Covered Plains
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 City of Brass
+1 Shifting Woodland
+Sideboard
+1 Saffi Eriksdotter

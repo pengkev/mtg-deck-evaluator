@@ -1,0 +1,101 @@
+1 Invasion of Ikoria
+1 Dress Down
+1 Mystic Remora
+1 Suppression Field
+1 Copy Artifact
+1 Overburden
+1 Earthcraft
+1 Aluren
+1 Rhystic Study
+1 Finale of Devastation
+1 An Offer You Can't Refuse
+1 Trickbind
+1 Veil of Summer
+1 Mental Misstep
+1 Stifle
+1 Pact of Negation
+1 Flare of Denial
+1 Mindbreak Trap
+1 Angel's Grace
+1 Swan Song
+1 Dovin's Veto
+1 Render Silent
+1 Mana Drain
+1 Eladamri's Call
+1 Silence
+1 Power Sink
+1 Force of Negation
+1 Flusterstorm
+1 Chord of Calling
+1 Tale's End
+1 Swords to Plowshares
+1 Path to Exile
+1 Grafdigger's Cage
+1 Fellwar Stone
+1 Sol Ring
+1 Lotus Petal
+1 Arcane Signet
+1 Sigarda, Font of Blessings
+1 Laboratory Maniac
+1 Noble Hierarch
+1 Mother of Runes
+1 Archivist of Oghma
+1 Lavinia, Azorius Renegade
+1 Dour Port-Mage
+1 Shrieking Drake
+1 Esper Sentinel
+1 Volatile Stormdrake
+1 Seedborn Muse
+1 Tishana's Tidebinder
+1 Flesh Duplicate
+1 Grand Abolisher
+1 Boromir, Warden of the Tower
+1 Delighted Halfling
+1 Tireless Provisioner
+1 Faerie Mastermind
+1 Birds of Paradise
+1 Avacyn's Pilgrim
+1 Subtlety
+1 Aven Mindcensor
+1 Fyndhorn Elves
+1 Lotus Cobra
+1 Craterhoof Behemoth
+1 Drannith Magistrate
+1 Destiny Spinner
+1 Spellskite
+1 Ranger-Captain of Eos
+1 Eternal Witness
+1 Elvish Mystic
+1 Whitemane Lion
+1 Llanowar Elves
+1 Bloom Tender
+1 Thassa's Oracle
+1 City of Brass
+1 Vesuva
+1 Windswept Heath
+1 Flooded Strand
+1 Rejuvenating Springs
+1 Oboro, Palace in the Clouds
+1 Spara's Headquarters
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Yavimaya, Cradle of Growth
+1 Misty Rainforest
+1 Tundra
+1 Tropical Island
+1 Savannah
+1 Marsh Flats
+1 Temple Garden
+1 Cavern of Souls
+1 Hallowed Fountain
+1 Breeding Pool
+1 Sea of Clouds
+1 Bountiful Promenade
+1 Exotic Orchard
+1 Forest
+1 Command Tower
+1 Plains
+1 Island
+1 Urza's Saga
+Sideboard
+1 Chulane, Teller of Tales

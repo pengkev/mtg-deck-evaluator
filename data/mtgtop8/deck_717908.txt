@@ -1,0 +1,72 @@
+1 Sleep-Cursed Faerie
+1 Delver of Secrets
+1 Spectral Adversary
+1 Volatile Stormdrake
+1 Malevolent Hermit
+1 Plumecreed Escort
+1 Mischievous Mystic
+1 Faerie Mastermind
+1 Voidmage Prodigy
+1 Tetsuko Umezawa, Fugitive
+1 Diversion Unit
+1 Brazen Borrower
+1 Hydroelectric Specimen
+1 Vendilion Clique
+1 Haughty Djinn
+1 Tempest Djinn
+1 Patron Wizard
+1 Fear of Impostors
+1 True-Name Nemesis
+1 Nimble Obstructionist
+1 Archaeomancer
+1 Glen Elendra Archmage
+1 Stoic Sphinx
+1 Clinquant Skymage
+1 Horned Loch-Whale
+1 Hullbreaker Horror
+1 Ivory Tower
+1 Disruptor Flute
+1 Sapphire Medallion
+1 Spell Snare
+1 Vapor Snag
+1 Fading Hope
+1 Phantom Interference
+1 Mental Misstep
+1 Wash Away
+1 An Offer You Can't Refuse
+1 Spell Pierce
+1 Stern Scolding
+1 Brainstorm
+1 Arcane Denial
+1 Counterspell
+1 Long River's Pull
+1 Reality Shift
+1 Jwari Disruption
+1 Essence Scatter
+1 Tale's End
+1 Daze
+1 Lose Focus
+1 Pull from Tomorrow
+1 Archmage's Charm
+1 Brainsurge
+1 Faebloom Trick
+1 Behold the Multiverse
+1 Memory Deluge
+1 Aetherize
+1 Fact or Fiction
+1 Mystic Confluence
+1 Evacuation
+1 Flow of Knowledge
+1 Aetherspouts
+1 Ponder
+1 Preordain
+1 Wash Out
+1 Eagle Vision
+1 Lorien Revealed
+1 Temporal Mastery
+1 Faerie Conclave
+30 Island
+1 Hall of Storm Giants
+1 Mystic Sanctuary
+Sideboard
+1 Malcolm, Alluring Scoundrel

@@ -1,0 +1,101 @@
+1 Arboreal Grazer
+1 Coiling Oracle
+1 Gatecreeper Vine
+1 Elvish Rejuvenator
+1 District Guide
+1 Clifftop Lookout
+1 Horizon Explorer
+1 Timeless Witness
+1 Athreos, Shroud-Veiled
+1 Expedition Map
+1 Silence
+1 Village Rites
+1 Crop Rotation
+1 An Offer You Can't Refuse
+1 Swords to Plowshares
+1 Path to Exile
+1 Deadly Dispute
+1 Arcane Denial
+1 Nasty End
+1 Imp's Mischief
+1 Planar Genesis
+1 Altar's Reap
+1 Counterspell
+1 Reckoner's Bargain
+1 Lose Focus
+1 Dovin's Veto
+1 Growth Spiral
+1 Negate
+1 Costly Plunder
+1 Chaos Warp
+1 Archdruid's Charm
+1 Generous Gift
+1 Momentous Fall
+1 Eureka Moment
+1 Open the Gates
+1 Sylvan Scrying
+1 Life's Legacy
+1 Explore
+1 Regrowth
+1 Life from the Loam
+1 Splendid Reclamation
+1 Circuitous Route
+1 Pir's Whim
+1 Tempt with Discovery
+1 Diabolic Tutor
+1 Hour of Promise
+1 Urban Evolution
+1 Explore the Underdark
+1 Will of the Sultai
+1 Reshape the Earth
+1 Spelunking
+1 Gift of Immortality
+1 Azorius Guildgate
+1 Forgotten Cave
+1 Golgari Guildgate
+1 Slippery Karst
+1 High Market
+1 Barren Moor
+1 Simic Guildgate
+1 Tranquil Thicket
+1 Secluded Steppe
+1 Izzet Guildgate
+1 Polluted Mire
+1 Boros Guildgate
+1 Gruul Guildgate
+1 Drifting Meadow
+1 Orzhov Guildgate
+1 Grim Backwoods
+1 Dimir Guildgate
+1 Remote Isle
+1 Gateway Plaza
+1 The World Tree
+1 Baldur's Gate
+1 Gond Gate
+1 Cliffgate
+1 Citadel Gate
+1 Manor Gate
+1 Black Dragon Gate
+1 Heap Gate
+1 Sea Gate
+1 Basilisk Gate
+1 Thran Portal
+1 Festering Thicket
+1 Glittering Massif
+1 Scavenger Grounds
+1 Desert of the Fervent
+1 Sheltered Thicket
+1 Desert of the Glorified
+1 Selesnya Guildgate
+1 Desert of the True
+1 Desert of the Mindful
+1 Lonely Sandbar
+1 Maze's End
+1 Fetid Pools
+1 Irrigated Farmland
+1 Rakdos Guildgate
+1 Canyon Slough
+1 Desert of the Indomitable
+1 Scattered Groves
+Sideboard
+1 Child of Alara

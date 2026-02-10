@@ -1,0 +1,101 @@
+1 Faeburrow Elder
+1 Phantasmal Image
+1 Birds of Paradise
+1 Spellskite
+1 Gilded Drake
+1 Imperial Recruiter
+1 Drannith Magistrate
+1 Kinnan, Bonder Prodigy
+1 Ledger Shredder
+1 Incubation Druid
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Opposition Agent
+1 Volatile Stormdrake
+1 Esper Sentinel
+1 Thassa's Oracle
+1 Mockingbird
+1 Dauthi Voidwalker
+1 Ignoble Hierarch
+1 Noble Hierarch
+1 Bloom Tender
+1 Seedborn Muse
+1 Snapcaster Mage
+1 Hermit Druid
+1 Chrome Mox
+1 Mana Vault
+1 Mox Opal
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 The One Ring
+1 Basalt Monolith
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Vampiric Tutor
+1 Cyclonic Rift
+1 Pact of Negation
+1 Deadly Rollick
+1 Demonic Consultation
+1 Red Elemental Blast
+1 Ad Nauseam
+1 Force of Will
+1 Enlightened Tutor
+1 Angel's Grace
+1 Mana Drain
+1 Tainted Pact
+1 Force of Negation
+1 Mystical Tutor
+1 Worldly Tutor
+1 Fierce Guardianship
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Abrupt Decay
+1 Brain Freeze
+1 Noxious Revival
+1 Veil of Summer
+1 Teferi's Protection
+1 Demonic Tutor
+1 Toxic Deluge
+1 Animate Dead
+1 Smothering Tithe
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Carpet of Flowers
+1 Urza's Saga
+1 Dress Down
+1 Freed from the Real
+1 Teferi, Time Raveler
+1 Steam Vents
+1 Misty Rainforest
+1 Scalding Tarn
+1 Urborg, Tomb of Yawgmoth
+1 Blood Crypt
+1 Hallowed Fountain
+1 Temple Garden
+1 Badlands
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Volcanic Island
+1 Underground Sea
+1 Polluted Delta
+1 Windswept Heath
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Command Tower
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Flooded Strand
+1 Wooded Foothills
+1 Bloodstained Mire
+Sideboard
+1 Kenrith, the Returned King

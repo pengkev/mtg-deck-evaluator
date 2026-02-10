@@ -1,0 +1,84 @@
+1 Birds of Paradise
+1 Etali, Primal Storm
+1 Ghalta, Primal Hunger
+1 Grumgully, the Generous
+1 Halana and Alena, Partners
+1 Overlord of the Hauntwoods
+1 Oviya, Automech Artisan
+1 Ruby, Daring Tracker
+1 Sakura-Tribe Elder
+1 Trailtracker Scout
+1 Wandertale Mentor
+1 Wildsear, Scouring Maw
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Dawnsire, Sunstar Dreadnought
+1 Esika's Chariot
+1 Fellwar Stone
+1 Gruul Signet
+1 Lightning Greaves
+1 Mind Stone
+1 Sol Ring
+1 Talisman of Impulse
+1 The Earth Crystal
+1 The Regalia
+1 Thought Vessel
+1 Abrade
+1 Autumn's Veil
+1 Beast Within
+1 Big Score
+1 Bolt Bend
+1 Chaos Warp
+1 Guttural Response
+1 Lightning Bolt
+1 Return to Nature
+1 Snakeskin Veil
+1 Blasphemous Act
+1 Chain Reaction
+1 Explore
+1 Farseek
+1 Nature's Lore
+1 Shamanic Revelation
+1 Stump Stomp
+1 Three Visits
+1 Alchemist's Talent
+1 Berserkers' Onslaught
+1 Encroaching Dragonstorm
+1 Fiery Emancipation
+1 Frontier Siege
+1 Garruk's Uprising
+1 Gratuitous Violence
+1 Guardian Project
+1 Leyline of Abundance
+1 Omenpath Journey
+1 Outpost Siege
+1 Path of Discovery
+1 Powerbalance
+1 Primeval Bounty
+1 Rain of Riches
+1 Sunbird's Invocation
+1 Thickest in the Thicket
+1 Triple Triad
+1 Unnatural Growth
+1 Warstorm Surge
+1 Domri, Anarch of Bolas
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Cragcrown Pathway
+1 Exotic Orchard
+11 Forest
+1 Game Trail
+1 Gruul Turf
+1 Karplusan Forest
+1 Mossfire Valley
+1 Mosswort Bridge
+8 Mountain
+1 Reliquary Tower
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shifting Woodland
+1 Starting Town
+1 Wooded Ridgeline
+Sideboard
+1 Bello, Bard of the Brambles

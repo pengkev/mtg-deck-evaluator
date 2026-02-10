@@ -1,0 +1,101 @@
+1 Displacer Kitten
+1 Dualcaster Mage
+1 Fear of Missing Out
+1 Flesh Duplicate
+1 Generator Servant
+1 Generous Plunderer
+1 Gogo, Mysterious Mime
+1 Harmonic Prodigy
+1 Hullbreaker Horror
+1 Naban, Dean of Iteration
+1 Orcish Bowmasters
+1 Phyrexian Metamorph
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Rev, Tithe Extractor
+1 River Song
+1 Roaming Throne
+1 Scrawling Crawler
+1 Sheoldred, the Apocalypse
+1 Talion, the Kindly Lord
+1 Thassa's Oracle
+1 Tinybones, Bauble Burglar
+1 Tinybones, Trinket Thief
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Monument to Endurance
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 The One Ring
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Dark Ritual
+1 Essence Flux
+1 Flare of Duplication
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Intuition
+1 Mindbreak Trap
+1 Red Elemental Blast
+1 Saw in Half
+1 Snuff Out
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Mnemonic Betrayal
+1 Reanimate
+1 Splash Portal
+1 Twinflame
+1 Wheel of Fortune
+1 Windfall
+1 Animate Dead
+1 Black Market Connections
+1 Bloodchief Ascension
+1 Copy Enchantment
+1 Mystic Remora
+1 Rhystic Study
+1 Roiling Vortex
+1 Underworld Breach
+1 Urza's Saga
+1 Waste Not
+1 Ancient Tomb
+1 Arena of Glory
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Great Furnace
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Starting Town
+1 Steam Vents
+1 Underground Sea
+1 Vault of Whispers
+1 Volcanic Island
+1 Watery Grave
+Sideboard
+1 Kefka, Court Mage

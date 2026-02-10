@@ -1,0 +1,79 @@
+1 Ayara, First of Locthwain
+1 Blood Artist
+1 Zulaport Cutthroat
+1 Geralf's Messenger
+1 Sightless Ghoul
+1 Blood Pet
+1 Deathgreeter
+1 Butcher Ghoul
+1 Evernight Shade
+1 Treacherous Pit-Dweller
+1 Pitiless Plunderer
+1 Skirge Familiar
+1 Asmodeus the Archfiend
+1 Necrotic Ooze
+1 Activated Sleeper
+1 Greedy Freebooter
+1 Pawn of Ulamog
+1 Hancock, Ghoulish Mayor
+1 Kaervek, the Punisher
+1 Forsaken Miner
+1 Nezumi Linkbreaker
+1 K'rrik, Son of Yawgmoth
+1 Marionette Apprentice
+1 Warren Soultrader
+1 Boggart Trawler
+1 Vengeful Bloodwitch
+1 Viscera Seer
+1 Ophiomancer
+1 Gravecrawler
+1 Thought Vessel
+1 Sol Ring
+1 Genesis Chamber
+1 Springleaf Drum
+1 The Filigree Sylex
+1 Jet Medallion
+1 Wishclaw Talisman
+1 Dark Ritual
+1 Tragic Slip
+1 Songs of the Damned
+1 Mausoleum Secrets
+1 Liliana's Triumph
+1 Defile
+1 Slaughter Pact
+1 Vraska's Fall
+1 Deadly Dispute
+1 Imp's Mischief
+1 Baleful Mastery
+1 Culling the Weak
+1 Scheming Symmetry
+1 Victimize
+1 Reanimate
+1 Yahenni's Expertise
+1 Diabolic Tutor
+1 Dead of Winter
+1 Unearth
+1 Final Parting
+1 Bubbling Muck
+1 Feed the Swarm
+1 Beseech the Queen
+1 Diabolic Intent
+1 Lively Dirge
+1 Buried Alive
+1 Faith of the Devoted
+1 Bridge from Below
+1 Nest of Scarabs
+1 Bastion of Remembrance
+1 Blowfly Infestation
+1 Blight Mound
+1 Case of the Stashed Skeleton
+1 Chthonian Nightmare
+1 Castle Locthwain
+1 Geier Reach Sanitarium
+1 Reliquary Tower
+1 Blast Zone
+1 Barren Moor
+1 Mikokoro, Center of the Sea
+23 Snow-Covered Swamp
+Sideboard
+1 Yawgmoth, Thran Physician

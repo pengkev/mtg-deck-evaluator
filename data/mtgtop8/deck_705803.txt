@@ -1,0 +1,93 @@
+1 Goblin Piledriver
+1 Goblin Sharpshooter
+1 Legion Loyalist
+1 Treasonous Ogre
+1 Simian Spirit Guide
+1 Goblin King
+1 Goblin Recruiter
+1 Goblin Chieftain
+1 Lightning Crafter
+1 "Name Sticker" Goblin
+1 Kiki-Jiki, Mirror Breaker
+1 Brash Taunter
+1 Krenko, Tin Street Kingpin
+1 Siege-Gang Commander
+1 Impulsive Pilferer
+1 Mogg Mob
+1 Grenzo, Havoc Raiser
+1 General Kreat, the Boltbringer
+1 Dropkick Bomber
+1 Howlsquad Heavy
+1 Goblin Ringleader
+1 Cheering Fanatic
+1 Goblin Cratermaker
+1 Torch Courier
+1 Goblin Lackey
+1 Chancellor of the Forge
+1 Mogg Fanatic
+1 Imperial Recruiter
+1 Goblin Rabblemaster
+1 Ib Halfheart, Goblin Tactician
+1 Warren Instigator
+1 Goblin Chainwhirler
+1 Goblin Instigator
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Battle Cry Goblin
+1 Conspicuous Snoop
+1 Squee, Dubious Monarch
+1 Rundvelt Hordemaster
+1 Goro-Goro, Disciple of Ryusei
+1 Hobgoblin Bandit Lord
+1 Sardian Avenger
+1 Mogg War Marshal
+1 Goblin Matron
+1 Pashalik Mons
+1 Skirk Prospector
+1 Krenko, Mob Boss
+1 Roaming Throne
+1 Legion Warboss
+1 Siege-Gang Lieutenant
+1 Searslicer Goblin
+1 Treasure Nabber
+1 Grim Monolith
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Amber
+1 Sol Ring
+1 The One Ring
+1 Throne of Eldraine
+1 Ruby Medallion
+1 Lotus Petal
+1 Pyretic Ritual
+1 Desperate Ritual
+1 Brightstone Ritual
+1 Battle Hymn
+1 Seething Song
+1 Open the Omenpaths
+1 Wheel of Fortune
+1 Rite of Flame
+1 Infernal Plunge
+1 Jeska's Will
+1 Gamble
+1 Urza's Saga
+1 City of Traitors
+1 Ancient Tomb
+1 Scalding Tarn
+1 Prismatic Vista
+1 Crystal Vein
+1 Nykthos, Shrine to Nyx
+1 Command Beacon
+1 Gemstone Caverns
+1 Den of the Bugbear
+1 Cavern of Souls
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Arena of Glory
+1 Three Tree City
+1 Arid Mesa
+1 Muraganda Raceway
+9 Mountain
+Sideboard
+1 Muxus, Goblin Grandee

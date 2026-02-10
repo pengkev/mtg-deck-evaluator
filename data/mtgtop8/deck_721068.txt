@@ -1,0 +1,101 @@
+1 Arbor Elf
+1 Birds of Paradise
+1 Eternal Witness
+1 Elvish Mystic
+1 Spellseeker
+1 Biomancer's Familiar
+1 Clever Impersonator
+1 Seedborn Muse
+1 Cloud of Faeries
+1 Elvish Spirit Guide
+1 Endurance
+1 Displacer Kitten
+1 Faerie Mastermind
+1 Sowing Mycospawn
+1 Flesh Duplicate
+1 Springheart Nantuko
+1 Thundertrap Trainer
+1 Valley Floodcaller
+1 Mockingbird
+1 Enduring Vitality
+1 Phyrexian Metamorph
+1 Magus of the Candelabra
+1 Oboro Breezecaller
+1 Colossal Skyturtle
+1 Lotus Petal
+1 Sol Ring
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Expedition Map
+1 Springleaf Drum
+1 Mox Amber
+1 Relic of Legends
+1 The One Ring
+1 Candelabra of Tawnos
+1 Swan Song
+1 Crop Rotation
+1 Frantic Search
+1 Snap
+1 Dramatic Reversal
+1 Veil of Summer
+1 Pact of Negation
+1 Force of Will
+1 Cyclonic Rift
+1 Flusterstorm
+1 Force of Negation
+1 Deflecting Swat
+1 Mental Misstep
+1 Borne Upon a Wind
+1 Flare of Duplication
+1 Chord of Calling
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 This Town Ain't Big Enough
+1 Eldritch Evolution
+1 Sylvan Scrying
+1 Neoform
+1 Chatterstorm
+1 Step Through
+1 Nature's Rhythm
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Rhystic Study
+1 Wild Growth
+1 Mystic Remora
+1 Training Grounds
+1 Utopia Sprawl
+1 Growing Rites of Itlimoc
+1 Earthcraft
+1 Invasion of Ikoria
+1 Island
+1 Forest
+1 Command Tower
+1 Cephalid Coliseum
+1 Flooded Strand
+1 Breeding Pool
+1 Cavern of Souls
+1 Ancient Tomb
+1 Misty Rainforest
+1 Windswept Heath
+1 Wooded Foothills
+1 Maze of Ith
+1 Gaea's Cradle
+1 Prismatic Vista
+1 Waterlogged Grove
+1 Gemstone Caverns
+1 Deserted Temple
+1 Yavimaya, Cradle of Growth
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Mistrise Village
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Tropical Island
+1 Minamo, School at Water's Edge
+1 Emergence Zone
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Thrasios, Triton Hero

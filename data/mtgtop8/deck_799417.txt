@@ -1,0 +1,92 @@
+1 Dimir Infiltrator
+1 Thassa's Oracle
+1 Volatile Stormdrake
+1 Darkstar Augur
+1 Tribute Mage
+1 Slickshot Lockpicker
+1 Sol Ring
+1 Prismatic Lens
+1 Talisman of Dominance
+1 Dimir Signet
+1 Cursed Totem
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Talisman of Progress
+1 Talisman of Hierarchy
+1 Fellwar Stone
+1 Pentad Prism
+1 Time Sieve
+1 Azorius Signet
+1 Orzhov Signet
+1 An Offer You Can't Refuse
+1 Dispel
+1 Miscast
+1 Suspend
+1 Flusterstorm
+1 Demonic Consultation
+1 Dark Ritual
+1 Unwanted Remake
+1 Ertai's Meddling
+1 Swords to Plowshares
+1 Change the Equation
+1 Bovine Intervention
+1 Shred Memory
+1 Muddle the Mixture
+1 Lose Focus
+1 Lim-Dul's Vault
+1 Arcane Denial
+1 Negate
+1 Unsubstantiate
+1 Run Away Together
+1 Impulse
+1 Drown in the Loch
+1 Memory Lapse
+1 Mystical Dispute
+1 Silundi Vision
+1 Sauron's Ransom
+1 Stroke of Midnight
+1 Brainsurge
+1 Dismember
+1 Fact or Fiction
+1 Scour for Scrap
+1 Waterlogged Teachings
+1 Gifts Ungiven
+1 Hostile Negotiations
+1 Behold the Multiverse
+1 Gitaxian Probe
+1 Scheming Symmetry
+1 Recommission
+1 Ringsight
+1 Sevinne's Reclamation
+1 Shatter the Sky
+1 Yahenni's Expertise
+1 Sublime Exhalation
+1 Vanquish the Horde
+1 Heartless Summoning
+1 Out of Time
+1 Dark Tutelage
+1 Touch the Spirit Realm
+1 Amphibian Downpour
+1 Cephalid Coliseum
+3 Plains
+3 Swamp
+1 Skycloud Expanse
+1 Exotic Orchard
+6 Island
+1 Buried Ruin
+1 Concealed Courtyard
+1 Temple of Deceit
+1 Port Town
+1 Arcane Sanctum
+1 Spire of Industry
+1 Aether Hub
+1 Command Tower
+1 Caves of Koilos
+1 Glacial Fortress
+1 Path of Ancestry
+1 Ash Barrens
+1 Contaminated Landscape
+1 Darkwater Catacombs
+1 Prairie Stream
+Sideboard
+1 Tivit, Seller of Secrets

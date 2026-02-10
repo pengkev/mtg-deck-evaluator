@@ -1,0 +1,101 @@
+1 Jace, Wielder of Mysteries
+1 Exploration
+1 Sylvan Library
+1 Mystic Remora
+1 Necropotence
+1 Rhystic Study
+1 Beseech the Mirror
+1 Culling Ritual
+1 Finale of Devastation
+1 Mnemonic Betrayal
+1 Scheming Symmetry
+1 Imperial Seal
+1 Toxic Deluge
+1 Demonic Tutor
+1 Borne Upon a Wind
+1 Legolas's Quick Reflexes
+1 Baleful Mastery
+1 Tainted Pact
+1 Mindbreak Trap
+1 Demonic Consultation
+1 Worldly Tutor
+1 Noxious Revival
+1 Mental Misstep
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Force of Vigor
+1 Force of Negation
+1 Autumn's Veil
+1 Flusterstorm
+1 Chord of Calling
+1 Cyclonic Rift
+1 Abrupt Decay
+1 Veil of Summer
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Lim-Dul's Vault
+1 Force of Will
+1 Pact of Negation
+1 Dramatic Reversal
+1 Swan Song
+1 The One Ring
+1 Mox Amber
+1 Talisman of Dominance
+1 Bolas's Citadel
+1 Grim Monolith
+1 Mox Diamond
+1 Mana Vault
+1 Isochron Scepter
+1 Chrome Mox
+1 Sensei's Divining Top
+1 Sol Ring
+1 Lotus Petal
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 High Fae Trickster
+1 Kitsa, Otterball Elite
+1 Valley Floodcaller
+1 Delighted Halfling
+1 Notion Thief
+1 Gilded Drake
+1 Consecrated Sphinx
+1 Deathrite Shaman
+1 Bane of Progress
+1 Dosan the Falling Leaf
+1 Seedborn Muse
+1 Clever Impersonator
+1 Birds of Paradise
+1 Thassa's Oracle
+1 Dryad of the Ilysian Grove
+1 Shifting Woodland
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Yavimaya, Cradle of Growth
+1 Undergrowth Stadium
+1 Rejuvenating Springs
+1 Gemstone Caverns
+1 Wooded Foothills
+1 Polluted Delta
+1 Mana Confluence
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Misty Rainforest
+1 Marsh Flats
+1 Overgrown Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Ancient Tomb
+1 Cavern of Souls
+1 Morphic Pool
+1 Watery Grave
+1 Breeding Pool
+1 Minamo, School at Water's Edge
+1 Flooded Strand
+1 Bloodstained Mire
+1 City of Brass
+1 Underground Sea
+1 Tropical Island
+1 Bayou
+1 Island
+1 Command Tower
+Sideboard
+1 Glarb, Calamity's Augur

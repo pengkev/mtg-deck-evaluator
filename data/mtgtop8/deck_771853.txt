@@ -1,0 +1,85 @@
+1 Changeling Outcast
+1 Faerie Dreamthief
+1 Faerie Seer
+1 Fourth Bridge Prowler
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Hydroelectric Specimen
+1 Ingenious Infiltrator
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Mothdust Changeling
+1 Nashi, Moon Sage's Scion
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Peregrine Drake
+1 Phyrexian Walker
+1 Prosperous Thief
+1 Sage of Epityr
+1 Shadow of Mortality
+1 Signal Pest
+1 Silver-Fur Master
+1 Skullsnatcher
+1 Street Wraith
+1 Tetsuko Umezawa, Fugitive
+1 Thassa's Oracle
+1 Thousand-Faced Shadow
+1 Triton Shorestalker
+1 Universal Automaton
+1 Wingcrafter
+1 Wonder
+1 Arcane Signet
+1 Cursed Totem
+1 Maskwood Nexus
+1 Sol Ring
+1 Alchemist's Retrieval
+1 Blinkmoth Infusion
+1 Brainstorm
+1 Commandeer
+1 Consign/Oblivion
+1 Contagion
+1 Counterspell
+1 Dark Ritual
+1 Delay
+1 Demonic Consultation
+1 Dismember
+1 Dispel
+1 Far/Away
+1 Filter Out
+1 Gush
+1 Insidious Dreams
+1 Lim-Dul's Vault
+1 Mana Leak
+1 Murderous Cut
+1 Mystical Dispute
+1 Mystical Tutor
+1 Negate
+1 Sheoldred's Edict
+1 Snapback
+1 Stern Dismissal
+1 Wash Away
+1 Crippling Fear
+1 Doomsday
+1 Feed the Swarm
+1 Gitaxian Probe
+1 Rags/Riches
+1 Scheming Symmetry
+1 Step Through
+1 Treasure Cruise
+1 Unearth
+1 Mystic Remora
+1 Choked Estuary
+1 Command Tower
+1 Darkslick Shores
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Halimar Depths
+9 Island
+1 River of Tears
+1 Sunken Hollow
+9 Swamp
+1 Tainted Isle
+1 Underground River
+Sideboard
+1 Yuriko, the Tiger's Shadow

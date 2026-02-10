@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Butcher Ghoul
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Generous Patron
+1 Hapatra, Vizier of Poisons
+1 Hazel's Brewmaster
+1 Hexing Squelcher
+1 Ignoble Hierarch
+1 Necroskitter
+1 Obelisk Spider
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Strangleroot Geist
+1 Walking Ballista
+1 Yawgmoth, Thran Physician
+1 Young Wolf
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Birthing Pod
+1 Chrome Mox
+1 Fellwar Stone
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Luxior, Giada's Gift
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Burnt Offering
+1 Cabal Ritual
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Pyroblast
+1 Red Elemental Blast
+1 Sacrifice
+1 Saw in Half
+1 Snuff Out
+1 Tainted Pact
+1 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gamble
+1 Green Sun's Zenith
+1 Jeska's Will
+1 Lively Dirge
+1 Nature's Rhythm
+1 Praetor's Grasp
+1 Reanimate
+1 Wheel of Fortune
+1 Carpet of Flowers
+1 Necromancy
+1 Necropotence
+1 Survival of the Fittest
+1 Sylvan Library
+1 Underworld Breach
+1 Tyvar, Jubilant Brawler
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Emergence Zone
+1 Exotic Orchard
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Shifting Woodland
+1 Stomping Ground
+1 Sulfurous Springs
+1 Taiga
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Auntie Ool, Cursewretch

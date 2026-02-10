@@ -1,0 +1,81 @@
+1 Bonehoard
+1 Swiftfoot Boots
+1 Fireshrieker
+1 Sword of Vengeance
+1 Lightning Greaves
+1 Sol Ring
+1 Mage Slayer
+1 Bloodforged Battle-Axe
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Leyline Axe
+1 The Aetherspark
+1 Trailblazer's Boots
+1 Pyroblast
+1 Beast Within
+1 Entish Restoration
+1 Red Elemental Blast
+1 Song of the Dryads
+1 Animal Friend
+1 Well Rested
+1 Branching Evolution
+1 Blacksmith's Talent
+1 Garruk's Uprising
+1 Cryptolith Rite
+1 Bear Umbra
+1 Signature Slam
+1 Chaos Warp
+1 Inspiring Call
+1 Kodama's Reach
+1 Overwhelming Stampede
+1 Rishkar's Expertise
+1 Blasphemous Act
+1 Decimate
+1 Chain Reaction
+1 Snake Umbra
+1 Rhythm of the Wild
+1 Hydra's Growth
+1 Ordeal of Nylea
+1 Invigorating Hot Spring
+1 Concord with the Kami
+1 One with the Kami
+1 Heroic Intervention
+1 Unquenchable Fury
+1 Sakura-Tribe Elder
+1 Wildsear, Scouring Maw
+1 Wildwood Scourge
+1 Champion of Lambholt
+1 Goblin Anarchomancer
+1 Kurbis, Harvest Celebrant
+1 Halana and Alena, Partners
+1 Towashi Guide-Bot
+1 Thundering Raiju
+1 Rampant Rejuvenator
+1 Komainu Battle Armor
+1 Akki Battle Squad
+1 Tanuki Transplanter
+1 Krenko, Tin Street Kingpin
+1 Grumgully, the Generous
+1 Rishkar, Peema Renegade
+1 Forgotten Ancient
+1 Kami of Whispered Hopes
+1 Loyal Guardian
+1 Railway Brawler
+1 Genesis Hydra
+1 Ascendant Acolyte
+1 Toggo, Goblin Weaponsmith
+1 Gruul Turf
+1 Opal Palace
+1 Exotic Orchard
+1 Cinder Glade
+1 Command Tower
+1 Rogue's Passage
+1 Game Trail
+1 Mossfire Valley
+1 Raging Ravine
+1 Temple of Abandon
+1 Reliquary Tower
+10 Mountain
+12 Forest
+Sideboard
+1 Chishiro, the Shattered Blade

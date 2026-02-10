@@ -1,0 +1,101 @@
+1 Lotho, Corrupt Shirriff
+1 Esper Sentinel
+1 Mockingbird
+1 Ranger-Captain of Eos
+1 Thassa's Oracle
+1 Clever Impersonator
+1 Notion Thief
+1 Opposition Agent
+1 Ragavan, Nimble Pilferer
+1 Ledger Shredder
+1 Archivist of Oghma
+1 Birds of Paradise
+1 Faerie Mastermind
+1 Orcish Bowmasters
+1 Spellseeker
+1 Talion, the Kindly Lord
+1 Deathrite Shaman
+1 Delney, Streetwise Lookout
+1 Tamiyo, Inquisitive Student
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Wishclaw Talisman
+1 The One Ring
+1 Fellwar Stone
+1 Paradise Mantle
+1 Lotus Petal
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Opal
+1 Mox Diamond
+1 Mana Vault
+1 Arcane Signet
+1 Sol Ring
+1 Spell Pierce
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Dark Ritual
+1 Intuition
+1 Red Elemental Blast
+1 Eladamri's Call
+1 Abrupt Decay
+1 Mental Misstep
+1 Worldly Tutor
+1 Demonic Consultation
+1 Fire Covenant
+1 Force of Will
+1 Silence
+1 Swan Song
+1 Pact of Negation
+1 Retraction Helix
+1 Flusterstorm
+1 Mindbreak Trap
+1 Tainted Pact
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Final Fortune
+1 Sevinne's Reclamation
+1 Mnemonic Betrayal
+1 Neoform
+1 Imperial Seal
+1 Eldritch Evolution
+1 Demonic Tutor
+1 Verity Circle
+1 Steal Enchantment
+1 Rhystic Study
+1 Underworld Breach
+1 Mystic Remora
+1 Necropotence
+1 Smothering Tithe
+1 Trouble in Pairs
+1 Mana Confluence
+1 Command Tower
+1 Exotic Orchard
+1 Badlands
+1 Underground Sea
+1 Gaea's Cradle
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Volcanic Island
+1 Flooded Strand
+1 Ancient Tomb
+1 Windswept Heath
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 City of Brass
+1 Spire of Industry
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+Sideboard
+1 Kenrith, the Returned King

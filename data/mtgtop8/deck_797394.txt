@@ -1,0 +1,95 @@
+1 Dwynen, Gilt-Leaf Daen
+1 Apex Devastator
+1 Ulvenwald Hydra
+1 Hydroid Krasis
+1 Inspirited Vanguard
+1 Lifeblood Hydra
+1 Eladamri, Korvecdal
+1 Magus of the Candelabra
+1 Grappling Kraken
+1 Cyclone Summoner
+1 Warden of the Grove
+1 Rampaging Baloths
+1 Stonehoof Chieftain
+1 Ghalta, Stampede Tyrant
+1 Aesi, Tyrant of Gyre Strait
+1 Sage of the Maze
+1 Craterhoof Behemoth
+1 Satyr Wayfinder
+1 Priest of Titania
+1 Fierce Empath
+1 Dragon Sniper
+1 Roil Elemental
+1 Avenger of Zendikar
+1 Thundering Mightmare
+1 Terastodon
+1 Elvish Rejuvenator
+1 Tatyova, Benthic Druid
+1 Spore Frog
+1 Hydra Broodmaster
+1 Nyxborn Hydra
+1 Ancient Adamantoise
+1 Oracle of Mul Daya
+1 Dryad of the Ilysian Grove
+1 Fungal Colossus
+1 Sol Ring
+1 The Earth Crystal
+1 Emerald Medallion
+1 Arcane Signet
+1 Chromatic Lantern
+1 Syncopate
+1 Growth Spiral
+1 Pongify
+1 Fact or Fiction
+1 Inspire Awe
+1 Beast Within
+1 Arcane Denial
+1 Heritage Reclamation
+1 Refute
+1 Evacuation
+1 Eureka Moment
+1 Bind
+1 Aggressive Biomancy
+1 Nissa's Renewal
+1 Capture of Jingzhou
+1 March from Velis Vel
+1 Sylvan Scrying
+1 Finale of Revelation
+1 Curse of the Swine
+1 Klothys's Design
+1 Horrific Assault
+1 Hour of Promise
+1 Harmonize
+1 Growing Rites of Itlimoc
+1 Mana Reflection
+1 Urza's Power Plant
+1 Hashep Oasis
+1 Gateway Plaza
+1 Cloudpost
+5 Forest
+1 Vesuva
+1 Flooded Grove
+1 Thespian's Stage
+1 Horizon of Progress
+1 Overflowing Basin
+1 Vineglimmer Snarl
+1 Dark Depths
+1 Urza's Tower
+1 Lush Oasis
+1 Dreamroot Cascade
+1 Temple of Mystery
+3 Island
+1 Lumbering Falls
+1 Planar Nexus
+1 Lair of the Hydra
+1 Simic Growth Chamber
+1 Urza's Mine
+1 Desert of the Indomitable
+1 Yavimaya Coast
+1 Basilisk Gate
+1 Rejuvenating Springs
+1 Desert of the Mindful
+1 Command Tower
+1 Blast Zone
+Sideboard
+1 Omo, Queen of Vesuva

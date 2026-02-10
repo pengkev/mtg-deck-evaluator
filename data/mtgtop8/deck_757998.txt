@@ -1,0 +1,98 @@
+1 Armored Scrapgorger
+1 Birds of Paradise
+1 Bloodghast
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Eternal Witness
+1 Gravecrawler
+1 Hermit Druid
+1 Icetill Explorer
+1 Llanowar Elves
+1 Marionette Apprentice
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Psychic Frog
+1 Sidisi, Undead Vizier
+1 Snapcaster Mage
+1 Thassa's Oracle
+1 Warren Soultrader
+1 Witherbloom Apprentice
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Defense Grid
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Wishclaw Talisman
+1 Assassin's Trophy
+1 Borne Upon a Wind
+1 Crop Rotation
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Entomb
+1 Force of Negation
+1 Force of Vigor
+1 Stubborn Denial
+1 Sudden Spoiling
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Chain of Smog
+1 Culling Ritual
+1 Demonic Tutor
+1 Dread Return
+1 Empty the Laboratory
+1 Grim Tutor
+1 Toxic Deluge
+1 Animate Dead
+1 Mystic Remora
+1 Necromancy
+1 Rhystic Study
+1 Ripples of Undeath
+1 Steely Resolve
+1 Sylvan Library
+1 Tortured Existence
+1 Utopia Sprawl
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Strand
+2 Forest
+1 Gemstone Caverns
+1 Glacial Chasm
+1 Hinterland Harbor
+2 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Shifting Woodland
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Temple of the False God
+1 Undercity Sewers
+1 Urborg, Tomb of Yawgmoth
+1 Wastewood Verge
+1 Watery Grave
+1 Willowrush Verge
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+Sideboard
+1 Teval, the Balanced Scale

@@ -1,0 +1,83 @@
+1 Amoeboid Changeling
+1 Birgi, God of Storytelling
+1 Captain Storm, Cosmium Raider
+1 Crime Novelist
+1 Drift of Phantasms
+1 Firebrand Archer
+1 Glint-Horn Buccaneer
+1 Goblin Engineer
+1 Guttersnipe
+1 Ingenious Artillerist
+1 Niv-Mizzet, Parun
+1 Reckless Fireweaver
+1 Shao Jun
+1 Siren Stormtamer
+1 Storm-Kiln Artist
+1 Trophy Mage
+1 Amorphous Axe
+1 Ankh of Mishra
+1 Dowsing Device
+1 Prowler's Helm
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Assimilate Essence
+1 Bounce Off
+1 Chaos Warp
+1 Convolute
+1 Counterspell
+1 Cyclonic Rift
+1 Demand Answers
+1 Dispel
+1 Expedite
+1 Forbid
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Negate
+1 Ovinize
+1 Reality Shift
+1 Reality Spasm
+1 Reiterate
+1 Seething Song
+1 Siren's Ruse
+1 Spell Pierce
+1 Take into Custody
+1 Trickery Charm
+1 Unauthorized Exit
+1 Unwind
+1 Blasphemous Act
+1 Chart a Course
+1 Eagle Vision
+1 Fabricate
+1 Haze of Rage
+1 Mystic Retrieval
+1 Personal Tutor
+1 Solve the Equation
+1 Strike It Rich
+1 Thoughtcast
+1 Vandalblast
+1 Winged Words
+1 Arcane Adaptation
+1 Combat Research
+1 Curiosity
+1 Propaganda
+1 Rhystic Study
+1 Witness Protection
+1 Buried Ruin
+1 Command Tower
+1 Detection Tower
+1 Frostboil Snarl
+11 Island
+1 Maze of Ith
+9 Mountain
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

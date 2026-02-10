@@ -1,0 +1,77 @@
+1 Tandem Lookout
+1 Ichorclaw Myr
+1 Necropede
+1 Cephalid Constable
+1 Tribute Mage
+1 Surrakar Spellblade
+1 Blighted Agent
+1 Viral Drake
+1 Neurok Commando
+1 Phyrexian Digester
+1 Plague Myr
+1 Mistblade Shinobi
+1 Etherium Sculptor
+1 Mischievous Catgeist
+1 Ghostly Pilferer
+1 Myr Convert
+1 Tekuthal, Inquiry Dominus
+1 Dune Mover
+1 Thrummingbird
+1 Malcolm, Alluring Scoundrel
+1 Curie, Emergent Intelligence
+1 Dreamtide Whale
+1 Azure Beastbinder
+1 Flux Channeler
+1 Enduring Curiosity
+1 Meekstone
+1 Umezawa's Jitte
+1 Swiftfoot Boots
+1 Sol Ring
+1 Mind Stone
+1 Inquisitor's Flail
+1 Lightning Greaves
+1 Mask of Memory
+1 Thought Vessel
+1 Glistening Sphere
+1 Prosthetic Injector
+1 Glamdring
+1 Arcane Signet
+1 Sapphire Medallion
+1 Everflowing Chalice
+1 Staff of Compleation
+1 Bloodforged Battle-Axe
+1 Steady Progress
+1 Brainstorm
+1 Rapid Hybridization
+1 Narset's Reversal
+1 Counterspell
+1 Pongify
+1 March of Swirling Mist
+1 High Tide
+1 Frantic Search
+1 Experimental Augury
+1 Serum Snare
+1 Prologue to Phyresis
+1 Muddle the Mixture
+1 An Offer You Can't Refuse
+1 Aetherize
+1 Arcane Denial
+1 Contentious Plan
+1 Wash Out
+1 Distorted Curiosity
+1 Tezzeret's Gambit
+1 Teferi's Veil
+1 Mesmerizing Dose
+1 Inexorable Tide
+1 Propaganda
+1 Mystic Sanctuary
+1 Karn's Bastion
+1 Reliquary Tower
+1 Myriad Landscape
+1 Access Tunnel
+1 The Mycosynth Gardens
+1 The Seedcore
+1 Halimar Depths
+25 Island
+Sideboard
+1 Tetsuko Umezawa, Fugitive

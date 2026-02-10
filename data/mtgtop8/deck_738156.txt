@@ -1,0 +1,88 @@
+1 Academy Rector
+1 Altar of Dementia
+1 Ancient Den
+1 Ancient Tomb
+1 Angel's Grace
+1 Angelic Renewal
+1 Arcane Signet
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Ashnod's Altar
+1 Auriok Salvagers
+1 Blade of Selves
+1 Blind Obedience
+1 Boromir, Warden of the Tower
+1 Caregiver
+1 Cavern of Souls
+1 Charismatic Conqueror
+1 Chrome Mox
+1 Conqueror's Flail
+1 Crystal Vein
+1 Deep Gnome Terramancer
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Eiganjo, Seat of the Empire
+1 Enduring Renewal
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Gemstone Caverns
+1 Gift of Immortality
+1 Gold Myr
+1 Grand Abolisher
+1 Grasp of Fate
+1 Grim Monolith
+1 Hall of Heliod's Generosity
+1 High Market
+1 Homeward Path
+1 Inventors' Fair
+1 Land Tax
+1 Lazotep Quarry
+1 Leonin Relic-Warder
+1 Lion's Eye Diamond
+1 Loran of the Third Path
+1 Lotus Bloom
+1 Lotus Petal
+1 Loyal Retainers
+1 Mana Vault
+1 Martyred Rusalka
+1 Memnite
+1 Mother of Runes
+1 Mox Opal
+1 Nim Deathmantle
+1 Nykthos, Shrine to Nyx
+1 On Thin Ice
+1 Oswald Fiddlebender
+1 Pearl Medallion
+1 Phyrexian Altar
+1 Phyrexian Censor
+1 Phyrexian Revoker
+1 Portable Hole
+1 Ranger-Captain of Eos
+1 Razorgrass Ambush
+1 Recruiter of the Guard
+1 Relic Vial
+1 Restoration Specialist
+1 Salvage Scout
+1 Serra Ascendant
+1 Silence
+1 Smothering Tithe
+14 Snow-Covered Plains
+1 Sol Ring
+1 Sol Talisman
+1 Solitude
+1 Soulless Jailer
+1 Springleaf Drum
+1 Staff of Compleation
+1 Steelshaper's Gift
+1 Stoneforge Mystic
+1 Swords to Plowshares
+1 The One Ring
+1 Touch the Spirit Realm
+1 Urza's Cave
+1 Urza's Saga
+1 Voice of Victory
+1 Weathered Wayfarer
+1 Witch Enchanter
+Sideboard
+1 Ao, the Dawn Sky

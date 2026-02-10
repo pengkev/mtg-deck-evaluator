@@ -1,0 +1,86 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Beast Whisperer
+1 Birds of Paradise
+1 Craterhoof Behemoth
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Manglehorn
+1 Priest of Titania
+1 Quirion Ranger
+1 Regal Force
+1 Scryb Ranger
+1 Six
+1 Temur Sabertooth
+1 Walking Ballista
+1 Wirewood Symbiote
+1 Arcane Signet
+1 Chrome Mox
+1 Coveted Jewel
+1 Credit Voucher
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Staff of Domination
+1 Thousand-Year Elixir
+1 Umbral Mantle
+1 Aim High
+1 Arachnoid Adaptation
+1 Beast Within
+1 Boon of Boseiju
+1 Burst of Strength
+1 Chord of Calling
+1 Embiggen
+1 Giant Growth
+1 Invigorate
+1 Legolas's Quick Reflexes
+1 Lifestream's Blessing
+1 Might of Old Krosa
+1 Mutagenic Growth
+1 Nature's Claim
+1 Ornamental Courage
+1 Return of the Wildspeaker
+1 Savage Surge
+1 Snakeskin Veil
+1 Stony Strength
+1 Sudden Spinnerets
+1 Summoner's Pact
+1 Veil of Summer
+1 Vines of the Recluse
+1 Vines of Vastwood
+1 Witch's Web
+1 Worldly Tutor
+1 Finale of Devastation
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Harmonize
+1 Last March of the Ents
+1 Natural Order
+1 Phytoburst
+1 Scale Up
+1 Soul's Majesty
+1 Tooth and Nail
+1 Turntimber Symbiosis
+1 Carpet of Flowers
+1 Instill Energy
+1 Nature's Chosen
+1 Recycle
+1 Season of Growth
+1 Wild Growth
+1 Garruk, Primal Hunter
+1 Ancient Tomb
+16 Forest
+1 Gemstone Caverns
+1 Hickory Woodlot
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wirewood Lodge
+1 Wooded Foothills
+Sideboard
+1 Marwyn, the Nurturer

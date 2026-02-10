@@ -1,0 +1,99 @@
+1 Walking Ballista
+1 Eternal Witness
+1 Devoted Druid
+1 Collector Ouphe
+1 Ranger-Captain of Eos
+1 Containment Priest
+1 Grand Abolisher
+1 Alseid of Life's Bounty
+1 Destiny Spinner
+1 Drannith Magistrate
+1 Seedcradle Witch
+1 Heliod, Sun-Crowned
+1 Shalai, Voice of Plenty
+1 Esper Sentinel
+1 Sanctum Weaver
+1 Elvish Spirit Guide
+1 Allosaurus Shepherd
+1 Doorkeeper Thrull
+1 Solitude
+1 Witch Enchanter
+1 Endurance
+1 Springheart Nantuko
+1 Enduring Vitality
+1 Brightglass Gearhulk
+1 Argothian Enchantress
+1 Chrome Mox
+1 The One Ring
+1 Cloudstone Curio
+1 Sol Ring
+1 Lotus Petal
+1 Angel's Grace
+1 Enlightened Tutor
+1 Crop Rotation
+1 Eladamri's Call
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Legolas's Quick Reflexes
+1 Silence
+1 Chord of Calling
+1 Seedtime
+1 Green Sun's Zenith
+1 Open the Armory
+1 Turntimber Symbiosis
+1 Finale of Devastation
+1 Kenrith's Transformation
+1 Gauntlets of Light
+1 Whip Silk
+1 Aura of Silence
+1 Root Maze
+1 Mirri's Guile
+1 Survival of the Fittest
+1 Exploration
+1 Rest in Peace
+1 Stony Silence
+1 Enchantress's Presence
+1 Sterling Grove
+1 Paladin Class
+1 Carpet of Flowers
+1 Utopia Sprawl
+1 Concordant Crossroads
+1 Compost
+1 Wild Growth
+1 Sylvan Library
+1 Blind Obedience
+1 Fertile Ground
+1 Aura Shards
+1 Static Prison
+1 Earthcraft
+1 Flickering Ward
+1 Nature's Chosen
+1 Swift Reconfiguration
+1 Land Tax
+1 Trouble in Pairs
+1 Marsh Flats
+1 Arid Mesa
+1 Verdant Catacombs
+1 Temple Garden
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+1 Misty Rainforest
+1 Bountiful Promenade
+1 Windswept Heath
+1 Brushland
+1 Gemstone Caverns
+1 Horizon Canopy
+1 Yavimaya, Cradle of Growth
+1 Reflecting Pool
+1 Command Tower
+1 Shifting Woodland
+1 Gaea's Cradle
+1 Serra's Sanctum
+1 Savannah
+1 Boseiju, Who Endures
+1 Hushwood Verge
+2 Forest
+2 Plains
+Sideboard
+1 Sythis, Harvest's Hand

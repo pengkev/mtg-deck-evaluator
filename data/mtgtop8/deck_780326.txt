@@ -1,0 +1,79 @@
+1 Archetype of Aggression
+1 Bloodmark Mentor
+1 Breeches, Eager Pillager
+1 Captain Lannery Storm
+1 Clive, Ifrit's Dominant
+1 Coastline Marauders
+1 Drakuseth, Maw of Flames
+1 Elturel Survivors
+1 Falkenrath Marauders
+1 Frontier Warmonger
+1 Fumiko the Lowblood
+1 Giggling Skitterspike
+1 Gornog, the Red Reaper
+1 Headliner Scarlett
+1 Heirs of Stromkirk
+1 Iron Myr
+1 Jurin, Leading the Charge
+1 Kellan, Planar Trailblazer
+1 Komainu Battle Armor
+1 Krenko, Tin Street Kingpin
+1 Laelia, the Blade Reforged
+1 Parapet Thrasher
+1 Professional Face-Breaker
+1 Rose, Cutthroat Raider
+1 Star Athlete
+1 Steel Hellkite
+1 Urabrask the Hidden
+1 Varchild, Betrayer of Kjeldor
+1 Vengeful Ancestor
+1 Vincent, Vengeful Atoner
+1 Arcane Signet
+1 Endless Atlas
+1 Fellwar Stone
+1 Fire Diamond
+1 Glittering Stockpile
+1 Heraldic Banner
+1 Horn of the Mark
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Long-Range Sensor
+1 Ruby Medallion
+1 Sol Ring
+1 Stonespeaker Crystal
+1 The Fire Crystal
+1 Wayfarer's Bauble
+1 Chaos Warp
+1 Double Trouble
+1 Kazuul's Fury
+1 Opera Love Song
+1 Seize Opportunity
+1 Untimely Malfunction
+1 Blasphemous Act
+1 Disrupt Decorum
+1 Insurrection
+1 Mizzium Mortars
+1 Mob Rule
+1 Sundering Eruption
+1 Suplex
+1 Traitorous Blood
+1 Brazen Cannonade
+1 Connecting the Dots
+1 Uphill Battle
+1 War Cadence
+1 Wild Wasteland
+1 Access Tunnel
+1 Castle Embereth
+1 Demolition Field
+1 Evolving Wilds
+1 Forgotten Cave
+1 Hanweir Battlements
+23 Mountain
+1 Myriad Landscape
+1 Rogue's Passage
+1 Scavenger Grounds
+1 Spinerock Knoll
+1 Terramorphic Expanse
+1 War Room
+Sideboard
+1 Gogo, Mysterious Mime

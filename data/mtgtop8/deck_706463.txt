@@ -1,0 +1,93 @@
+1 Palladium Myr
+1 Gold Myr
+1 Silver Myr
+1 Emry, Lurker of the Loch
+1 Chief of the Foundry
+1 Shimmer Myr
+1 Ornithopter of Paradise
+1 Vedalken Engineer
+1 Gold-Forged Thopteryx
+1 Gingerbrute
+1 Cyberman Patrol
+1 Whirler Rogue
+1 Curie, Emergent Intelligence
+1 Solemn Simulacrum
+1 Interface Ace
+1 Nesting Bot
+1 Mu Yanling, Wind Rider
+1 Riptide Gearhulk
+1 Diversion Unit
+1 Guidelight Synergist
+1 Memory Guardian
+1 Voyager Quickwelder
+1 Guidelight Optimizer
+1 Whispersilk Cloak
+1 Wayfarer's Bauble
+1 Thran Dynamo
+1 Thought Vessel
+1 Winged Boots
+1 Mobilizer Mech
+1 Sol Ring
+1 Hedron Archive
+1 Mind Stone
+1 Arcane Signet
+1 Brotherhood Vertibird
+1 Talisman of Progress
+1 Sonic Screwdriver
+1 Bident of Thassa
+1 Repurposing Bay
+1 Valor's Flagship
+1 Guidelight Pathmaker
+1 Starting Column
+1 Voyager Glidecar
+1 Thopter Fabricator
+1 Possession Engine
+1 Adaptive Omnitool
+1 Perilous Snare
+1 Racers' Scoreboard
+1 Radiant Lotus
+1 Salvation Engine
+1 Alacrian Armory
+1 Surgehacker Mech
+1 Hulldrifter
+1 Broadcast Rambler
+1 Counterspell
+1 Dispatch
+1 Reality Heist
+1 Disruption Protocol
+1 Reality Shift
+1 Bounce Off
+1 Thoughtcast
+1 March of Progress
+1 Open the Vaults
+1 Tune Up
+1 Voyage Home
+1 Efficient Construction
+1 Mechanized Production
+1 Ancient Den
+1 Darksteel Citadel
+1 Seat of the Synod
+1 Reliquary Tower
+1 Power Depot
+1 Idyllic Beachfront
+1 Port Town
+1 Command Tower
+1 Irrigated Farmland
+1 Skycloud Expanse
+1 Azorius Chancery
+1 Razortide Bridge
+1 Lonely Arroyo
+1 Prairie Stream
+1 Temple of Enlightenment
+1 Amonkhet Raceway
+1 Avishkar Raceway
+1 Country Roads
+1 Muraganda Raceway
+1 Reef Roads
+1 Spire of Industry
+1 Adarkar Wastes
+1 Glacial Fortress
+5 Island
+5 Plains
+Sideboard
+1 Mendicant Core, Guidelight

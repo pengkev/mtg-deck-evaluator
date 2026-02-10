@@ -1,0 +1,96 @@
+1 Herald of the Pantheon
+1 Sanctum Weaver
+1 Sythis, Harvest's Hand
+1 Go-Shintai of Shared Purpose
+1 Jukai Naturalist
+1 Go-Shintai of Ancient Wars
+1 Go-Shintai of Hidden Cruelty
+1 Go-Shintai of Boundless Vigor
+1 Go-Shintai of Lost Wisdom
+1 Zur the Enchanter
+1 Yenna, Redtooth Regent
+1 Destiny Spinner
+1 Starfield Mystic
+1 Enduring Tenacity
+1 Enduring Innocence
+1 Inquisitive Glimmer
+1 Enduring Vitality
+1 Lotus Cobra
+1 Sol Ring
+1 Thought Vessel
+1 Arcane Signet
+1 Fellwar Stone
+1 Cloud Key
+1 Counterspell
+1 Swords to Plowshares
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Explore
+1 Rampant Growth
+1 Farseek
+1 Resurgent Belief
+1 Redress Fate
+1 Cultivate
+1 Sanctum of Calm Waters
+1 Sanctum of All
+1 Sanctum of Tranquil Light
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Stone Fangs
+1 Sanctum of Shattered Heights
+1 Leyline of Sanctity
+1 Protective Sphere
+1 Honden of Life's Web
+1 Honden of Cleansing Fire
+1 Honden of Night's Reach
+1 Honden of Seeing Winds
+1 Paradox Haze
+1 Ghostly Prison
+1 Authority of the Consuls
+1 Sunbird's Invocation
+1 Greater Auramancy
+1 Honden of Infinite Rage
+1 Dawn of a New Age
+1 Enchantress's Presence
+1 Prismatic Omen
+1 Polluted Bonds
+1 Karmic Justice
+1 Blind Obedience
+1 Leyline of Anticipation
+1 Strength of the Harvest
+1 Amphibian Downpour
+1 Valgavoth's Lair
+1 Monologue Tax
+1 Phyrexian Arena
+1 Propaganda
+1 Leyline of the Void
+1 Hall of Heliod's Generosity
+1 Sunpetal Grove
+1 Mountain
+1 Reliquary Tower
+1 Woodland Cemetery
+1 Brokers Hideout
+1 Myriad Landscape
+1 Selesnya Sanctuary
+1 Wooded Ridgeline
+1 Exotic Orchard
+1 Command Tower
+1 Evolving Wilds
+1 Canopy Vista
+1 Azorius Chancery
+1 Sheltered Thicket
+1 Mosswort Bridge
+1 Hushwood Verge
+1 Terramorphic Expanse
+1 Obscura Storefront
+1 Hinterland Harbor
+1 Drowned Catacomb
+1 Isolated Chapel
+1 Glacial Fortress
+1 Cinder Glade
+3 Forest
+2 Plains
+2 Swamp
+2 Island
+1 Cabaretti Courtyard
+Sideboard
+1 Go-Shintai of Life's Origin

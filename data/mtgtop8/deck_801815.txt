@@ -1,0 +1,83 @@
+1 Birgi, God of Storytelling
+1 Coruscation Mage
+1 Eidolon of the Great Revel
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Firespitter Whelp
+1 Goblin Engineer
+1 Harsh Mentor
+1 Immolation Shaman
+1 Imperial Recruiter
+1 Kessig Flamebreather
+1 Magebane Lizard
+1 Ragavan, Nimble Pilferer
+1 Razorkin Needlehead
+1 Simian Spirit Guide
+1 Thermo-Alchemist
+1 Treasonous Ogre
+1 Unruly Catapult
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Chrome Mox
+1 Commander's Plate
+1 Cursed Mirror
+1 Gauntlet of Might
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Staff of Compleation
+1 Strength-Testing Hammer
+1 The One Ring
+1 Throne of Eldraine
+1 Voltaic Key
+1 Blazing Crescendo
+1 Blazing Shoal
+1 Bolt Bend
+1 Brute Force
+1 Bulk Up
+1 Crimson Wisps
+1 Deflecting Swat
+1 Downhill Charge
+1 Expedite
+1 Fireblast
+1 Full Bore
+1 Galvanic Blast
+1 Gut Shot
+1 Haste Magic
+1 Infuriate
+1 Lava Dart
+1 Lightning Bolt
+1 Monstrous Rage
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Sudden Shock
+1 Titan's Strength
+1 Virtue of Courage
+1 Wild Slash
+1 Gamble
+1 Jeska's Will
+1 Wheel of Fortune
+1 Powerbalance
+1 Pyrostatic Pillar
+1 Spellshock
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Traitors
+1 Gemstone Caverns
+1 Prismatic Vista
+1 Scalding Tarn
+19 Snow-Covered Mountain
+1 Wooded Foothills
+Sideboard
+1 Ojer Axonil, Deepest Might

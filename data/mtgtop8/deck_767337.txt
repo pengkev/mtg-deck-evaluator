@@ -1,0 +1,91 @@
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Junk Diver
+1 Memnite
+1 Myr Retriever
+1 Nick Valentine, Private Eye
+1 Ornithopter
+1 Phyrexian Metamorph
+1 Prismite
+1 Roaming Throne
+1 Scrap Trawler
+1 Stridehangar Automaton
+1 Tribute Mage
+1 Trinket Mage
+1 Walking Ballista
+1 Aetherflux Reservoir
+1 Altar of the Brood
+1 Arcane Signet
+1 Ashnod's Altar
+1 Basalt Monolith
+1 Blasting Station
+1 Clock of Omens
+1 Encroaching Mycosynth
+1 Expedition Map
+1 Fellwar Stone
+1 Krark-Clan Ironworks
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Nim Deathmantle
+1 Paradise Mantle
+1 Phyrexian Altar
+1 Repurposing Bay
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 The One Ring
+1 Tormod's Crypt
+1 Urza's Bauble
+1 Uthros Research Craft
+1 Welding Jar
+1 Borne Upon a Wind
+1 Brainstorm
+1 Chain of Vapor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Gifts Ungiven
+1 Into the Flood Maw
+1 Machine Over Matter
+1 Mana Drain
+1 Sink into Stupor
+1 Fabricate
+1 Sea Gate Restoration
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Ancient Tomb
+1 Cavern of Souls
+1 Flooded Strand
+1 Fomori Vault
+1 Inventors' Fair
+11 Island
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Oboro, Palace in the Clouds
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Seat of the Synod
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Urza's Cave
+1 Uthros, Titanic Godcore
+Sideboard
+1 Sai, Master Thopterist

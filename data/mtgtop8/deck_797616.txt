@@ -1,0 +1,101 @@
+1 Elves of Deep Shadow
+1 Birds of Paradise
+1 Thassa's Oracle
+1 Talion, the Kindly Lord
+1 Dryad of the Ilysian Grove
+1 Deathrite Shaman
+1 Sanctum Weaver
+1 Azusa, Lost but Seeking
+1 Opposition Agent
+1 Bloom Tender
+1 Dark Confidant
+1 Delighted Halfling
+1 Mox Amber
+1 Wishclaw Talisman
+1 Lotus Petal
+1 The One Ring
+1 Mox Diamond
+1 Chrome Mox
+1 Sensei's Divining Top
+1 Lion's Eye Diamond
+1 Sol Ring
+1 Veil of Summer
+1 Gush
+1 Flusterstorm
+1 Tainted Pact
+1 Pact of Negation
+1 Noxious Revival
+1 Spell Pierce
+1 Gifts Ungiven
+1 Autumn's Veil
+1 Swan Song
+1 Deadly Rollick
+1 Dark Ritual
+1 Snuff Out
+1 Force of Vigor
+1 Mystical Tutor
+1 Culling the Weak
+1 Dispel
+1 Lim-Dul's Vault
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Vampiric Tutor
+1 Force of Will
+1 Fierce Guardianship
+1 Imperial Seal
+1 Bring to Light
+1 Personal Tutor
+1 Doomsday
+1 Demonic Tutor
+1 Beseech the Mirror
+1 Utopia Sprawl
+1 Thought Lash
+1 Counterbalance
+1 Mystic Remora
+1 Exploration
+1 Wild Growth
+1 Carpet of Flowers
+1 Rhystic Study
+1 Sylvan Library
+1 Necropotence
+1 Jace, Wielder of Mysteries
+1 Nissa, Steward of Elements
+1 Grist, the Hunger Tide
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Otawara, Soaring City
+1 Forest
+1 Underground Sea
+1 Marsh Flats
+1 Island
+1 Breeding Pool
+1 City of Brass
+1 Watery Grave
+1 Bloodstained Mire
+1 Swamp
+1 Nurturing Peatland
+1 Bayou
+1 Flooded Strand
+1 Waterlogged Grove
+1 Misty Rainforest
+1 Urborg, Tomb of Yawgmoth
+1 Windswept Heath
+1 Cavern of Souls
+1 Boseiju, Who Endures
+1 Gemstone Caverns
+1 Mana Confluence
+1 Mistrise Village
+1 Cabal Pit
+1 Minamo, School at Water's Edge
+1 Verdant Catacombs
+1 Polluted Delta
+1 Lazotep Quarry
+1 Wooded Foothills
+1 Scalding Tarn
+1 Overgrown Tomb
+1 Command Tower
+1 Cephalid Coliseum
+1 Tropical Island
+1 Mystic Sanctuary
+Sideboard
+1 Glarb, Calamity's Augur

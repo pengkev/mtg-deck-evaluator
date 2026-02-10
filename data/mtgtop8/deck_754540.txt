@@ -1,0 +1,91 @@
+1 Archmage Emeritus
+1 Baleful Strix
+1 Delney, Streetwise Lookout
+1 Emet-Selch of the Third Seat
+1 Enduring Tenacity
+1 Fandaniel, Telophoroi Ascian
+1 Hermes, Overseer of Elpis
+1 Hypnotic Sprite
+1 Lyse Hext
+1 Murderous Rider
+1 Papalymo Totolymo
+1 Sahagin
+1 Summon: Good King Mog XII
+1 Tataru Taru
+1 Thancred Waters
+1 Arcane Signet
+1 Bolas's Citadel
+1 Relic of Legends
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Thought Vessel
+1 White Auracite
+1 Aetherize
+1 Anguished Unmaking
+1 Assassin's Ink
+1 Counterpoint
+1 Counterspell
+1 Dovin's Veto
+1 Eject
+1 Flare of Malice
+1 Infernal Grasp
+1 Lethal Scheme
+1 Overkill
+1 Sephiroth's Intervention
+1 Snuff Out
+1 Sublime Epiphany
+1 Swallowed by Leviathan
+1 Swords to Plowshares
+1 Transpose
+1 Void Rend
+1 Whiplash Trap
+1 Circle of Power
+1 Cleansing Nova
+1 Cornered by Black Mages
+1 Cut a Deal
+1 Exsanguinate
+1 Feed the Swarm
+1 Final Judgment
+1 Risky Shortcut
+1 Rite of Replication
+1 Slaughter the Strong
+1 Syphon Mind
+1 Vindicate
+1 Will of the Abzan
+1 Authority of the Consuls
+1 Curiosity
+1 Helm of the Ghastlord
+1 Observed Stasis
+1 Propaganda
+1 Sanguine Bond
+1 Arcane Sanctum
+1 Choked Estuary
+1 Command Tower
+1 Contaminated Aquifer
+1 Darkwater Catacombs
+1 Demolition Field
+1 Desolate Mire
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+1 Idyllic Beachfront
+4 Island
+1 Isolated Chapel
+1 Mistrise Village
+1 Path of Ancestry
+4 Plains
+1 Port Town
+1 Prairie Stream
+1 Scavenger Grounds
+1 Shineshadow Snarl
+1 Skycloud Expanse
+1 Sunken Hollow
+1 Sunlit Marsh
+5 Swamp
+1 Underground River
+Sideboard
+1 Y'shtola, Night's Blessed

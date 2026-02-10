@@ -1,0 +1,92 @@
+1 Arcane Signet
+1 Assimilation Aegis
+1 Azorius Signet
+1 Helm of the Gods
+1 Nettlecyst
+1 Prying Blade
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Muddle the Mixture
+1 Narset's Reversal
+1 Path to Exile
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Void Rend
+1 Waterlogged Teachings
+1 Talisman of Progress
+1 Damn
+1 Utter Insignificance
+1 Winds of Rath
+1 All That Glitters
+1 Amphibian Downpour
+1 Chains of Custody
+1 Combat Research
+1 Curiosity
+1 Darksteel Mutation
+1 Ethereal Armor
+1 Frogify
+1 Hardlight Containment
+1 Imprisoned in the Moon
+1 Invasion of Theros
+1 Mantle of the Ancients
+1 Nerd Rage
+1 Sage's Reverie
+1 Seal from Existence
+1 Sheltered by Ghosts
+1 Trapped in the Screen
+1 Unable to Scream
+1 Faith Unbroken
+1 Zur the Enchanter
+1 Ardenn, Intrepid Archaeologist
+1 Bruna, Light of Alabaster
+1 Danitha Capashen, Paragon
+1 Daxos of Meletis
+1 Dennick, Pious Apprentice
+1 Doorkeeper Thrull
+1 Dreamscape Artist
+1 Entity Tracker
+1 Gold-Forged Thopteryx
+1 Hateful Eidolon
+1 Heliod's Pilgrim
+1 Wraith, Vicious Vigilante
+1 Killian, Ink Duelist
+1 Lavinia, Azorius Renegade
+1 Leonin Arbiter
+1 Light-Paws, Emperor's Voice
+1 Mesa Enchantress
+1 Silent Hallcreeper
+1 Solemn Simulacrum
+1 Sram, Senior Edificer
+1 Starnheim Courser
+1 Stenn, Paranoid Partisan
+1 Viral Drake
+1 Jirina, Dauntless General
+1 Adarkar Wastes
+1 Azorius Chancery
+1 Bojuka Bog
+1 Caves of Koilos
+1 Command Tower
+1 Contaminated Landscape
+1 Deserted Beach
+1 Evolving Wilds
+1 Flood Plain
+1 Glacial Fortress
+1 Isolated Chapel
+1 Myriad Landscape
+1 Port Town
+1 Prairie Stream
+1 Shineshadow Snarl
+1 Spire of Industry
+1 Temple of Enlightenment
+1 Terramorphic Expanse
+1 Field of Ruin
+1 Arcane Sanctum
+3 Swamp
+4 Island
+5 Plains
+Sideboard
+1 Arna Kennerüd, Skycaptain

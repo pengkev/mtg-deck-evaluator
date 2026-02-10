@@ -1,0 +1,97 @@
+1 Birds of Paradise
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Dimensional Infiltrator
+1 Drift of Phantasms
+1 Endurance
+1 Enduring Vitality
+1 Faerie Mastermind
+1 Gilded Drake
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Phyrexian Metamorph
+1 Pili-Pala
+1 Seedborn Muse
+1 Spellseeker
+1 Thrasios, Triton Hero
+1 Tishana's Tidebinder
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Prismatic Lens
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 Arcane Denial
+1 Autumn's Veil
+1 Borne Upon a Wind
+1 Brainstorm
+1 Capsize
+1 Chord of Calling
+1 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+1 Delay
+1 Ertai's Meddling
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Into the Flood Maw
+1 Kozilek's Command
+1 Mana Drain
+1 March of Swirling Mist
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Narset's Reversal
+1 Noxious Revival
+1 Pact of Negation
+1 Sink into Stupor
+1 Spider-Sense
+1 Swan Song
+1 Veil of Summer
+1 Whir of Invention
+1 Worldly Tutor
+1 Finale of Devastation
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Nature's Rhythm
+1 Reshape
+1 Transmute Artifact
+1 Copy Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Urza's Saga
+1 Invasion of Ikoria
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Flooded Grove
+3 Forest
+1 Gemstone Caverns
+1 Inventors' Fair
+3 Island
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Shifting Woodland
+1 Treasure Vault
+1 Tropical Island
+1 Waterlogged Grove
+1 Willowrush Verge
+1 Wooded Foothills
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,71 @@
+1 Agitator Ant
+1 Bladegraft Aspirant
+1 Blast-Furnace Hellkite
+1 Brass Squire
+1 Foundry Inspector
+1 Goblin Trailblazer
+1 Godo, Bandit Warlord
+1 Humble Defector
+1 Jhoira's Familiar
+1 Kazuul's Toll Collector
+1 Kediss, Emberclaw Familiar
+1 Lodestone Golem
+1 Silent Arbiter
+1 Simian Spirit Guide
+1 Slobad, Goblin Tinkerer
+1 Arcane Signet
+1 Beamtown Beatstick
+1 Blackblade Reforged
+1 Cliffhaven Kitesail
+1 Dueling Rapier
+1 Explorer's Scope
+1 Fellwar Stone
+1 Fire Diamond
+1 Goldvein Pick
+1 Hero's Blade
+1 Infiltration Lens
+1 Liquimetal Torque
+1 Mask of Memory
+1 Mind Stone
+1 O-Naginata
+1 Prowler's Helm
+1 Prying Blade
+1 Rogue's Gloves
+1 Shield of Kaldra
+1 Sol Ring
+1 Strength-Testing Hammer
+1 Swiftfoot Boots
+1 Tenza, Godo's Maul
+1 Thran Power Suit
+1 Trailblazer's Boots
+1 Welding Jar
+1 Zephyr Boots
+1 Abrade
+1 Barge In
+1 Big Score
+1 Brute Force
+1 Brute Strength
+1 Built to Smash
+1 Chef's Kiss
+1 Invigorated Rampage
+1 Raze the Effigy
+1 Run Amok
+1 Seething Song
+1 Titan's Strength
+1 Unexpected Windfall
+1 Unleash Fury
+1 Wild Ricochet
+1 Wyll's Reversal
+1 Cathartic Reunion
+1 Disrupt Decorum
+1 Faithless Looting
+1 Mana Geyser
+1 Seize the Spoils
+1 Tormenting Voice
+1 Dictate of the Twin Gods
+1 Madcap Skills
+1 Sticky Fingers
+31 Mountain
+1 Rogue's Passage
+Sideboard
+1 Slicer, Hired Muscle

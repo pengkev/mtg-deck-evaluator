@@ -1,0 +1,82 @@
+8 Mountain
+13 Forest
+1 Bonders' Enclave
+1 Rogue's Passage
+1 Mossfire Valley
+1 Game Trail
+1 Exotic Orchard
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Temple of the False God
+1 Cinder Glade
+1 Ash Barrens
+1 Myriad Landscape
+1 Rockfall Vale
+1 Command Tower
+1 Hearthborn Battler
+1 Harsh Mentor
+1 Blasphemous Act
+1 Alena, Kessig Trapper
+1 Zealous Conscripts
+1 Kazuul's Fury
+1 Etali, Primal Storm
+1 Kiki-Jiki, Mirror Breaker
+1 Treasure Nabber
+1 Bonecrusher Giant
+1 Goblin Matron
+1 Pyrostatic Pillar
+1 Coercive Recruiter
+1 Alexios, Deimos of Kosmos
+1 Sulfuric Vortex
+1 Roiling Vortex
+1 Magebane Lizard
+1 Adrenaline Jockey
+1 Combustible Gearhulk
+1 Captain Lannery Storm
+1 Slicer, Hired Muscle
+1 Rhythm of the Wild
+1 Ruby, Daring Tracker
+1 Goblin Anarchomancer
+1 Scrawling Crawler
+1 Chaos Warp
+1 Disciple of Freyalise
+1 Topiary Stomper
+1 Woodland Bellower
+1 Questing Beast
+1 Fauna Shaman
+1 Scavenging Ooze
+1 Eternal Witness
+1 Axebane Ferox
+1 Hivespine Wolverine
+1 Wood Elves
+1 Elvish Mystic
+1 Instrument of the Bards
+1 Destiny Spinner
+1 Bushwhack
+1 Arbor Elf
+1 Quilled Greatwurm
+1 Ohran Frostfang
+1 Territory Culler
+1 Sakura-Tribe Elder
+1 Smuggler's Surprise
+1 Reclamation Sage
+1 Ilysian Caryatid
+1 Heroic Intervention
+1 Utopia Sprawl
+1 Ghalta, Primal Hunger
+1 Ivy Lane Denizen
+1 Defiler of Vigor
+1 Thunderfoot Baloth
+1 Fury
+1 Llanowar Elves
+1 Spore Frog
+1 Rishkar's Expertise
+1 Kogla, the Titan Ape
+1 Up the Beanstalk
+1 Magus of the Order
+1 Sharp-Eyed Rookie
+1 Scurry Oak
+1 Cindervines
+1 Nikya of the Old Ways
+Sideboard
+1 Ruric Thar, the Unbowed

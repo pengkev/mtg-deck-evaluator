@@ -1,0 +1,99 @@
+1 Nyxbloom Ancient
+1 Thassa's Oracle
+1 Birds of Paradise
+1 Bloom Tender
+1 Llanowar Elves
+1 Phyrexian Metamorph
+1 Walking Ballista
+1 Seedborn Muse
+1 Fyndhorn Elves
+1 Elvish Mystic
+1 Void Winnower
+1 Terastodon
+1 Trophy Mage
+1 Consecrated Sphinx
+1 Spellskite
+1 Kogla, the Titan Ape
+1 Elvish Spirit Guide
+1 Nezahal, Primal Tide
+1 Koma, Cosmos Serpent
+1 Wandering Archaic
+1 Endurance
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Progress Tyrant
+1 Colossal Skyturtle
+1 Armored Scrapgorger
+1 Delighted Halfling
+1 Hydroelectric Specimen
+1 Valley Floodcaller
+1 Enduring Vitality
+1 Thrasios, Triton Hero
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Fellwar Stone
+1 Basalt Monolith
+1 Simic Signet
+1 Mirage Mirror
+1 Talisman of Curiosity
+1 Springleaf Drum
+1 Mox Amber
+1 Moonsilver Key
+1 Relic of Legends
+1 The One Ring
+1 Lotus Petal
+1 Swan Song
+1 Beast Within
+1 Crop Rotation
+1 Dispel
+1 Nature's Claim
+1 Snap
+1 Heroic Intervention
+1 Miscast
+1 Pact of Negation
+1 Mystical Tutor
+1 Chord of Calling
+1 Force of Vigor
+1 Mental Misstep
+1 Worldly Tutor
+1 Pongify
+1 Muddle the Mixture
+1 Mindbreak Trap
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Flusterstorm
+1 Eldritch Evolution
+1 Fabricate
+1 Bridgeworks Battle
+1 Carpet of Flowers
+1 Rhystic Study
+1 Mystic Remora
+1 Pemmin's Aura
+1 Oko, Thief of Crowns
+1 Tezzeret the Seeker
+2 Island
+2 Forest
+1 Command Tower
+1 Exotic Orchard
+1 Yavimaya Coast
+1 City of Brass
+1 Cephalid Coliseum
+1 Forbidden Orchard
+1 Breeding Pool
+1 Ipnu Rivulet
+1 Spire of Industry
+1 Flooded Grove
+1 Wooded Foothills
+1 Seat of the Synod
+1 Tree of Tales
+1 Reflecting Pool
+1 Emergence Zone
+1 Waterlogged Grove
+1 Rejuvenating Springs
+1 Barkchannel Pathway
+1 Yavimaya, Cradle of Growth
+1 Treasure Vault
+1 Dreamroot Cascade
+1 Plaza of Heroes
+Sideboard
+1 Kinnan, Bonder Prodigy

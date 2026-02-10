@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Nezahal, Primal Tide
+1 Notion Thief
+1 Tireless Tribe
+1 Scholar of the Ages
+1 Esper Sentinel
+1 Ledger Shredder
+1 Abdel Adrian, Gorion's Ward
+1 Archivist of Oghma
+1 Consecrated Sphinx
+1 Sharuum the Hegemon
+1 Peregrine Drake
+1 Hoarding Broodlord
+1 Grand Abolisher
+1 Orcish Bowmasters
+1 Psychic Frog
+1 Ghostly Pilferer
+1 Pollywog Prodigy
+1 Kitsa, Otterball Elite
+1 Valgavoth, Terror Eater
+1 High Fae Trickster
+1 Leveler
+1 Lotho, Corrupt Shirriff
+1 Wishclaw Talisman
+1 Mana Vault
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Fellwar Stone
+1 Chrome Mox
+1 Talisman of Dominance
+1 Arcane Signet
+1 Sol Ring
+1 The One Ring
+1 Lotus Petal
+1 Spell Pierce
+1 Silence
+1 Mental Misstep
+1 Demonic Consultation
+1 Dark Ritual
+1 Sacrifice
+1 Misdirection
+1 Mindbreak Trap
+1 Angel's Grace
+1 Tainted Pact
+1 Force of Will
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Entomb
+1 Swan Song
+1 An Offer You Can't Refuse
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Into the Flood Maw
+1 Saw in Half
+1 Swords to Plowshares
+1 Force of Negation
+1 Vampiric Tutor
+1 Pact of Negation
+1 Flusterstorm
+1 Sink into Stupor
+1 Praetor's Grasp
+1 Yawgmoth's Will
+1 Demonic Tutor
+1 Imperial Seal
+1 Reanimate
+1 Animate Dead
+1 Tortured Existence
+1 Urza's Saga
+1 Necromancy
+1 Tinybones Joins Up
+1 Necropotence
+1 Mystic Remora
+1 Rhystic Study
+1 Minamo, School at Water's Edge
+1 Godless Shrine
+1 Morphic Pool
+1 Arid Mesa
+1 Scalding Tarn
+1 Bazaar of Baghdad
+1 City of Brass
+1 Mana Confluence
+1 Hallowed Fountain
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Flooded Strand
+1 Vault of Champions
+1 Ancient Tomb
+1 Marsh Flats
+1 Misty Rainforest
+1 Sea of Clouds
+1 Polluted Delta
+1 Command Tower
+1 Watery Grave
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Gemstone Caverns
+1 Bloodstained Mire
+Sideboard
+1 Hashaton, Scarab's Fist

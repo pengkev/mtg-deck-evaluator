@@ -1,0 +1,101 @@
+1 Devourer of Destiny
+1 Emrakul, the World Anew
+1 Glaring Fleshraker
+1 Kozilek, Butcher of Truth
+1 Kozilek, the Broken Reality
+1 Kozilek, the Great Distortion
+1 Liberator, Urza's Battlethopter
+1 Metalworker
+1 Skittering Cicada
+1 Thought-Knot Seer
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Defiler
+1 Ulamog, the Infinite Gyre
+1 Wandering Archaic
+1 Agatha's Soul Cauldron
+1 Ashnod's Altar
+1 Basalt Monolith
+1 Clock of Omens
+1 Cloud Key
+1 Collector's Vault
+1 Disruptor Flute
+1 Doubling Cube
+1 Dreamstone Hedron
+1 Everflowing Chalice
+1 Expedition Map
+1 Forsaken Monument
+1 Gerrard's Hourglass Pendant
+1 Ghost Vacuum
+1 Grim Monolith
+1 Hedron Archive
+1 Jester's Cap
+1 Jester's Mask
+1 Krark-Clan Ironworks
+1 Liquimetal Torque
+1 Lithoform Engine
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Mind Stone
+1 Mirage Mirror
+1 Moonsilver Key
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Forge
+1 Rings of Brighthearth
+1 Sculpting Steel
+1 Semblance Anvil
+1 Sensei's Divining Top
+1 Serum Powder
+1 Sol Ring
+1 Sorcerous Spyglass
+1 Spine of Ish Sah
+1 Stonespeaker Crystal
+1 Strionic Resonator
+1 The Endstone
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Unwinding Clock
+1 Voltaic Key
+1 Desecrate Reality
+1 Eldrazi Confluence
+1 Kozilek's Command
+1 Null Elemental Blast
+1 Spatial Contortion
+1 All Is Dust
+1 Calamity of the Titans
+1 Rise of the Eldrazi
+1 Echoes of Eternity
+1 Urza's Saga
+1 Ugin, Eye of the Storms
+1 Ugin, the Ineffable
+1 Ancient Tomb
+1 Bazaar of Baghdad
+1 Blast Zone
+1 City of Traitors
+1 Deserted Temple
+1 Eldrazi Temple
+1 Eye of Ugin
+1 Fomori Vault
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Inventors' Fair
+1 Mishra's Workshop
+1 Planar Nexus
+1 Sanctum of Eternity
+1 Scavenger Grounds
+1 Scorched Ruins
+1 The Mycosynth Gardens
+1 The Tabernacle at Pendrell Vale
+1 Thespian's Stage
+1 Ugin's Labyrinth
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+1 War Room
+Sideboard
+1 Emrakul, the Promised End

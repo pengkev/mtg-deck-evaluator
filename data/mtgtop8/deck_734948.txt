@@ -1,0 +1,77 @@
+1 Accursed Marauder
+1 Alesha, Who Laughs at Fate
+1 Anger
+1 Archetype of Aggression
+1 Aurelia, the Warleader
+1 Banon, the Returners' Leader
+1 Blade Historian
+1 Boggart Trawler
+1 Boromir, Warden of the Tower
+1 Braids, Arisen Nightmare
+1 Carmen, Cruel Skymarcher
+1 Cathar Commando
+1 Celes, Rune Knight
+1 Dauthi Voidwalker
+1 Drana and Linvala
+1 Fear of Missing Out
+1 Grim Hireling
+1 Karmic Guide
+1 Kiki-Jiki, Mirror Breaker
+1 Knight of the White Orchid
+1 Loran of the Third Path
+1 Lotho, Corrupt Shirriff
+1 Millikin
+1 Morbid Opportunist
+1 Pinnacle Monk
+1 Pitiless Plunderer
+1 Plaguecrafter
+1 Priest of Fell Rites
+1 Professional Face-Breaker
+1 Puppeteer Clique
+1 Selfless Spirit
+1 Sister Hospitaller
+1 Skyclave Apparition
+1 Solemn Simulacrum
+1 Solitude
+1 Stitcher's Supplier
+1 Twinflame Tyrant
+1 Viscera Seer
+1 Witch Enchanter
+1 Arcane Signet
+1 Boros Signet
+1 Fellwar Stone
+1 Key to the City
+1 Lightning Greaves
+1 Orzhov Signet
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Demand Answers
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thrill of Possibility
+1 Agadeem's Awakening
+1 Blasphemous Act
+1 Faithless Looting
+1 Living Death
+1 Reanimate
+1 Ruinous Ultimatum
+1 Sevinne's Reclamation
+1 Victimize
+1 Animate Dead
+1 Chthonian Nightmare
+1 Ripples of Undeath
+1 Teval's Judgment
+1 Bloodstained Mire
+1 Command Tower
+1 Elegant Parlor
+1 Exotic Orchard
+9 Mountain
+9 Plains
+1 Raucous Theater
+1 Savai Triome
+1 Shadowy Backstreet
+9 Swamp
+Sideboard
+1 Terra, Herald of Hope

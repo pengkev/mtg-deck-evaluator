@@ -1,0 +1,101 @@
+1 Changeling Outcast
+1 Esper Sentinel
+1 Grand Abolisher
+1 Hope of Ghirapur
+1 Lotho, Corrupt Shirriff
+1 Mockingbird
+1 Ranger-Captain of Eos
+1 Siren Stormtamer
+1 Spectral Sailor
+1 Thassa's Oracle
+1 Valley Floodcaller
+1 Voice of Victory
+1 Arcane Signet
+1 Black Mage's Rod
+1 Chrome Mox
+1 Cursed Totem
+1 Dimir Signet
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Time Sieve
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Angel's Grace
+1 Borne Upon a Wind
+1 Brainstorm
+1 Cabal Ritual
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Orim's Chant
+1 Pact of Negation
+1 Path to Exile
+1 Rain of Filth
+1 Silence
+1 Stifle
+1 Surgical Extraction
+1 Swords to Plowshares
+1 Tainted Pact
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Doomsday
+1 Gitaxian Probe
+1 Imperial Seal
+1 Sevinne's Reclamation
+1 Stock Up
+1 Transmute Artifact
+1 Yawgmoth's Will
+1 Counterbalance
+1 Dress Down
+1 Fortune Teller's Talent
+1 Mystic Remora
+1 Necropotence
+1 Paladin Class
+1 Rhystic Study
+1 Telepathy
+1 Ancient Tomb
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Crystal Vein
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Polluted Delta
+1 Scalding Tarn
+1 Scrubland
+1 Sea of Clouds
+1 Seat of the Synod
+1 Tundra
+1 Underground Sea
+1 Vault of Champions
+1 Watery Grave
+Sideboard
+1 Malcolm, Keen-Eyed Navigator
+1 Tymna the Weaver

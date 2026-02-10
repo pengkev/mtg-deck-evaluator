@@ -1,0 +1,74 @@
+17 Island
+12 Forest
+1 Temple of Mystery
+1 Path of Ancestry
+1 Rivendell
+1 The Grey Havens
+1 Command Tower
+1 Reliquary Tower
+1 Kasmina, Enigma Sage
+1 One with the Multiverse
+1 Primordial Mist
+1 Threats Around Every Corner
+1 Omniscience
+1 Season of Growth
+1 Lost Isle Calling
+1 Trail of Mystery
+1 Mind's Dilation
+1 Manifest Dread
+1 Mists of Lorien
+1 Splash Portal
+1 Lorien Revealed
+1 Last March of the Ents
+1 Mind Spring
+1 Break Down the Door
+1 Twist Reality
+1 Ghostly Flicker
+1 Blur
+1 Planar Incision
+1 Fading Hope
+1 Teferi's Time Twist
+1 Turn Aside
+1 Displace
+1 God-Pharaoh's Gift
+1 Scroll of Fate
+1 Simic Signet
+1 Arcane Signet
+1 The Immortal Sun
+1 Palantir of Orthanc
+1 The Temporal Anchor
+1 Wondrous Crucible
+1 Golden Argosy
+1 Thought Vessel
+1 Sol Ring
+1 Hullbreaker Horror
+1 Identity Thief
+1 Koma, World-Eater
+1 Whisperwood Elemental
+1 Oblivious Bookworm
+1 Curator Beastie
+1 Enduring Curiosity
+1 Zimone, Mystery Unraveler
+1 Hauntwoods Shrieker
+1 Dour Port-Mage
+1 Long River Lurker
+1 Mistbreath Elder
+1 Dreamdew Entrancer
+1 Lilysplash Mentor
+1 Kozilek, the Broken Reality
+1 Diluvian Primordial
+1 Bonny Pall, Clearcutter
+1 Ancient Stone Idol
+1 Prime Speaker Zegana
+1 Pathrazer of Ulamog
+1 Hornet Queen
+1 Meneldor, Swift Savior
+1 Primeval Protector
+1 Jin-Gitaxias, Progress Tyrant
+1 Phantasmal Image
+1 Terastodon
+1 Scourge of Fleets
+1 Nephalia Smuggler
+1 Barrin, Tolarian Archmage
+Sideboard
+1 Vannifar, Evolved Enigma

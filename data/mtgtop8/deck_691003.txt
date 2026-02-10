@@ -1,0 +1,88 @@
+1 Adeline, Resplendent Cathar
+1 Adriana, Captain of the Guard
+1 Angel of Glory's Rise
+1 Aragorn, King of Gondor
+1 Bastion Protector
+1 Beregond of the Guard
+1 Blade Historian
+1 Boromir, Gondor's Hope
+1 Boromir, Warden of the Tower
+1 Coppercoat Vanguard
+1 Dauntless Dismantler
+1 Erkenbrand, Lord of Westfold
+1 Frontier Warmonger
+1 Frontline Medic
+1 Gerrard, Weatherlight Hero
+1 Goldnight Commander
+1 Hanweir Garrison
+1 Herald of Hoofbeats
+1 Hero of Precinct One
+1 Knight Exemplar
+1 Knight of the White Orchid
+1 Lossarnach Captain
+1 Mother of Runes
+1 Neyali, Suns' Vanguard
+1 Odric, Lunarch Marshal
+1 Paladin Elizabeth Taggerdy
+1 Reinforced Ronin
+1 Sand Scout
+1 Scheming Fence
+1 Stalwart Pathlighter
+1 Thalia's Lieutenant
+1 The Wandering Rescuer
+1 Théoden, King of Rohan
+1 Thraben Doomsayer
+1 Toby, Beastie Befriender
+1 Verge Rangers
+1 Weathered Wayfarer
+1 Worthy Knight
+1 Arcane Signet
+1 Banner of Kinship
+1 Fellwar Stone
+1 Heraldic Banner
+1 Horn of Gondor
+1 Pearl Medallion
+1 Pillar of Origins
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Thought Vessel
+1 Urza's Incubator
+1 Boros Charm
+1 Call the Coppercoats
+1 Dawn's Truce
+1 Flare of Fortitude
+1 Surge of Salvation
+1 Unbreakable Formation
+1 Impact Tremors
+1 Legion's Initiative
+1 Outlaws' Merriment
+1 Rising of the Day
+1 Shared Animosity
+1 Starlight Spectacular
+1 Elspeth, Sun's Nemesis
+1 Ancient Ziggurat
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Clifftop Retreat
+1 Command Tower
+1 Eroded Canyon
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Glacial Fortress
+1 Great Hall of the Citadel
+2 Island
+1 Lonely Arroyo
+5 Mountain
+1 Path of Ancestry
+1 Perilous Landscape
+9 Plains
+1 Port Town
+1 Prairie Stream
+1 Rugged Prairie
+1 Secluded Courtyard
+1 Sulfur Falls
+1 Unclaimed Territory
+1 Windbrisk Heights
+Sideboard
+1 Eowyn, Shieldmaiden

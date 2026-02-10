@@ -1,0 +1,72 @@
+1 Foundry Street Denizen
+1 Goblin Piledriver
+1 Krenko's Enforcer
+1 Mogg Flunkies
+1 Goblin Ringleader
+1 Goblin Smuggler
+1 Beetleback Chief
+1 Clamor Shaman
+1 Siege-Gang Commander
+1 Goblin Banneret
+1 Goblin Cratermaker
+1 Goblin Cohort
+1 Goblin Wardriver
+1 Goblin Lookout
+1 Goblin Instigator
+1 Goblin Chieftain
+1 Subterranean Scout
+1 Goblin Trashmaster
+1 Goblin Motivator
+1 Goblin Trailblazer
+1 Goblin Bushwhacker
+1 Warren Instigator
+1 Goblin Chirurgeon
+1 Hobgoblin Bandit Lord
+1 Squee, Dubious Monarch
+1 Rundvelt Hordemaster
+1 Krenko, Tin Street Kingpin
+1 Goblin Warchief
+1 Pashalik Mons
+1 Goblin Matron
+1 Gempalm Incinerator
+1 Skirk Prospector
+1 Purphoros, God of the Forge
+1 Legion Warboss
+1 Goblin King
+1 Goblin Lackey
+1 Battle Cry Goblin
+1 Conspicuous Snoop
+1 Dark-Dweller Oracle
+1 Muxus, Goblin Grandee
+1 Skullclamp
+1 Sol Ring
+1 Throne of the God-Pharaoh
+1 Coat of Arms
+1 Shrine of Burning Rage
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Vanquisher's Banner
+1 Door of Destinies
+1 Abrade
+1 Brightstone Ritual
+1 Lightning Bolt
+1 Dragon Fodder
+1 Krenko's Command
+1 Goblin War Strike
+1 Goblin War Party
+1 Empty the Warrens
+1 Goblin Grenade
+1 Mob Justice
+1 Warp World
+1 Burn at the Stake
+1 Hordeling Outburst
+1 Wheel of Misfortune
+1 Faithless Looting
+1 Goblin Bombardment
+1 Impact Tremors
+1 Fiery Emancipation
+1 Shared Animosity
+1 City on Fire
+30 Mountain
+Sideboard
+1 Krenko, Mob Boss

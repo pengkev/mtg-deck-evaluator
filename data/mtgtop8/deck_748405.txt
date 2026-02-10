@@ -1,0 +1,86 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Ashaya, Soul of the Wild
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Craterhoof Behemoth
+1 Dryad of the Ilysian Grove
+1 Endurance
+1 Icetill Explorer
+1 Kodama of the East Tree
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Nissa, Resurgent Animist
+1 Oracle of Mul Daya
+1 Sakura-Tribe Scout
+1 Skyshroud Ranger
+1 Starfield Vocalist
+1 Tireless Provisioner
+1 Traveling Chocobo
+1 Wayward Swordtooth
+1 Arcane Signet
+1 Chrome Mox
+1 Mana Vault
+1 Sol Ring
+1 The One Ring
+1 Consign to Memory
+1 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Growth Spiral
+1 Mana Drain
+1 Noxious Revival
+1 Pact of Negation
+1 Swan Song
+1 Doppelgang
+1 Explore
+1 Flare of Cultivation
+1 Genesis Wave
+1 Nature's Lore
+1 Part the Waterveil
+1 Regrowth
+1 Temporal Mastery
+1 Three Visits
+1 Time Warp
+1 Walk the Aeons
+1 Exploration
+1 Rhystic Study
+1 Spelunking
+1 Trade Routes
+1 Walk-In Closet/Forgotten Cellar
+1 Jace, Wielder of Mysteries
+1 Wrenn and Seven
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Command Tower
+1 Dreamroot Cascade
+1 Fabled Passage
+1 Flooded Strand
+7 Forest
+1 Gemstone Caverns
+10 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Scalding Tarn
+1 Simic Growth Chamber
+1 Verdant Catacombs
+1 Willowrush Verge
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Tatyova, Benthic Druid

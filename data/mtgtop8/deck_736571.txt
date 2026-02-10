@@ -1,0 +1,87 @@
+1 Worldgorger Dragon
+1 Animate Dead
+1 Necromancy
+1 Thassa's Oracle
+1 Demonic Consultation
+1 Blood Artist
+1 Buried Alive
+1 Unmarked Grave
+1 Final Parting
+1 Frantic Search
+1 Faithless Looting
+1 Cathartic Reunion
+1 Thrill of Possibility
+1 Dark Ritual
+1 Negate
+1 Dispel
+1 Arcane Denial
+1 Consider
+1 Chart a Course
+1 Strategic Planning
+1 Sol Ring
+1 Arcane Signet
+1 Rakdos Signet
+1 Izzet Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Talisman of Indulgence
+1 Talisman of Dominance
+1 Mind Stone
+6 Island
+7 Swamp
+4 Mountain
+1 Command Tower
+1 Crumbling Necropolis
+1 Path of Ancestry
+1 Maestros Theater
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Temple of Deceit
+1 Sunken Hollow
+1 Smoldering Marsh
+1 Exotic Orchard
+1 Choked Estuary
+1 Spire of Industry
+1 Seething Landscape
+1 Dismal Backwater
+1 Bloodfell Caves
+1 Blue Sun's Zenith
+1 Teferi, Mage of Zhalfir
+1 Baleful Strix
+1 Viscera Seer
+1 Voldaren Epicure
+1 Blasphemous Act
+1 Aetherize
+1 Feed the Swarm
+1 Mulldrifter
+1 Tomebound Lich
+1 Evacuation
+1 Notion Thief
+1 Venser, Shaper Savant
+1 Chaos Warp
+1 Rakdos Charm
+1 Diabolic Tutor
+1 Abrade
+1 Go for the Throat
+1 Big Score
+1 Soured Springs
+1 Eroded Canyon
+1 Temple of Epiphany
+1 Entomb
+1 Laughing Mad
+1 Lively Dirge
+1 Cynical Loner
+1 Spell Pierce
+1 Maestros Charm
+1 Commander's Sphere
+1 Otherworldly Gaze
+1 Dreams of Laguna
+1 Moment of Truth
+1 Foreboding Ruins
+1 Restless Vents
+1 Hopeless Nightmare
+1 Demand Answers
+1 Unexpected Windfall
+1 Shred Memory
+Sideboard
+1 Evelyn, the Covetous

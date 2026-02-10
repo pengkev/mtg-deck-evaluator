@@ -1,0 +1,75 @@
+1 Chasm Skulker
+1 Jungle Wayfinder
+1 Kiora's Dambreaker
+1 Phantom Centaur
+1 Pondering Mage
+1 Hullbreaker Horror
+1 Cenote Scout
+1 Tishana's Tidebinder
+1 River Herald Scout
+1 River Herald Guide
+1 Seeker of Sunlight
+1 Llanowar Elves
+1 Clifftop Lookout
+1 Plumecreed Escort
+1 Daring Waverider
+1 Three Tree Rootweaver
+1 Mossborn Hydra
+1 Scavenging Ooze
+1 Erudite Wizard
+1 Nessian Hornbeetle
+1 Clinquant Skymage
+1 Mischievous Mystic
+1 Tatyova, Benthic Druid
+1 Brineborn Cutthroat
+1 Wildwood Scourge
+1 Spinner of Souls
+1 Strix Lookout
+1 Mocking Sprite
+1 Gnarlid Colony
+1 Treetop Snarespinner
+1 Gilder Bairn
+1 Prophetic Prism
+1 Commander's Sphere
+1 Mask of Memory
+1 Springleaf Drum
+1 Wishing Well
+1 Swiftfoot Boots
+1 Crop Rotation
+1 Dissenter's Deliverance
+1 Hieroglyphic Illumination
+1 Take the Fall
+1 Consign to Memory
+1 Planar Genesis
+1 Into the Flood Maw
+1 Long River's Pull
+1 An Offer You Can't Refuse
+1 Snakeskin Veil
+1 Inspiring Call
+1 Fleeting Distraction
+1 Run Away Together
+1 Think Twice
+1 Refute
+1 Clear the Mind
+1 Map the Wastes
+1 Seize the Secrets
+1 Season of Gathering
+1 Lunar Insight
+1 Preposterous Proportions
+1 Bushwhack
+1 Grow from the Ashes
+1 Cloak of Mists
+1 Stocking the Pantry
+1 Sylvan Scavenging
+1 Garruk's Uprising
+1 Thornwood Falls
+1 Drannith Ruins
+1 Captivating Cave
+1 Hidden Cataract
+1 Terramorphic Expanse
+1 Rogue's Passage
+1 Evolving Wilds
+15 Island
+13 Forest
+Sideboard
+1 Zimone, Paradox Sculptor

@@ -1,0 +1,92 @@
+1 Aven Mimeomancer
+1 Bulwark Ox
+1 Cankerbloom
+1 Denry Klin, Editor in Chief
+1 Dreamtide Whale
+1 Falco Spara, Pactweaver
+1 Fathom Mage
+1 Forgotten Ancient
+1 Generous Patron
+1 Grateful Apparition
+1 Kami of Whispered Hopes
+1 Lulu, Stern Guardian
+1 Metastatic Evangel
+1 Nils, Discipline Enforcer
+1 Orzhov Advokist
+1 Rikku, Resourceful Guardian
+1 Rishkar, Peema Renegade
+1 Sharae of Numbing Depths
+1 Shelinda, Yevon Acolyte
+1 Sin, Unending Cataclysm
+1 Skyboon Evangelist
+1 Spike Weaver
+1 Summon: Fenrir
+1 Summon: Shiva
+1 Summon: Valefor
+1 Thrummingbird
+1 Tidus, Yuna's Guardian
+1 Warden of the Grove
+1 Arcane Signet
+1 Sol Ring
+1 Arcane Denial
+1 Counterspell
+1 Cryptic Command
+1 Delay
+1 Growth Spiral
+1 Inspiring Call
+1 Path to Exile
+1 Planar Genesis
+1 Protection Magic
+1 Reality Shift
+1 Repulsive Mutation
+1 Resculpt
+1 Ripples of Potential
+1 Serum Snare
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Explore
+1 Farseek
+1 Promise of Loyalty
+1 Rampant Growth
+1 Tezzeret's Gambit
+1 Duelist's Heritage
+1 Hardened Scales
+1 Inexorable Tide
+1 Noble Heritage
+1 Solitary Sanctuary
+1 Tolarian Contempt
+1 Ajani, Caller of the Pride
+1 Garruk Wildspeaker
+1 Tamiyo, Field Researcher
+1 Vivien, Arkbow Ranger
+1 Adarkar Wastes
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flooded Grove
+4 Forest
+1 Glacial Fortress
+1 Hinterland Harbor
+4 Island
+1 Overflowing Basin
+4 Plains
+1 Prairie Stream
+1 Razorverge Thicket
+1 Seachrome Coast
+1 Seaside Citadel
+1 Skycloud Expanse
+1 Stirring Wildwood
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Terramorphic Expanse
+1 Thriving Heath
+1 Thriving Isle
+1 Tranquil Landscape
+1 Yavimaya Coast
+Sideboard
+1 Kros, Defense Contractor

@@ -1,0 +1,101 @@
+1 City of Brass
+1 Lotus Petal
+1 Jeweled Amulet
+1 Mox Diamond
+1 Chrome Mox
+1 Mox Amber
+1 Sol Ring
+1 Mana Vault
+1 Gut Shot
+1 Vampiric Tutor
+1 Ulcerate
+1 Searing Touch
+1 Bolt Bend
+1 The Black Gate
+1 Raucous Theater
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Ramunap Ruins
+1 Barbarian Ring
+1 Sulfurous Springs
+1 Ifnir Deadlands
+1 Peat Bog
+1 Sandstone Needle
+1 Tomb of Urami
+1 Tarnished Citadel
+1 Blood Crypt
+1 Mount Doom
+1 Horizon of Progress
+1 Arena of Glory
+1 Wizard's Lightning
+1 Tainted Pact
+1 Stinging Study
+1 Deflecting Swat
+1 Pyroblast
+1 Surgical Extraction
+1 Flare of Duplication
+1 Fell the Profane
+1 Plunge into Darkness
+1 Lightning Bolt
+1 Red Elemental Blast
+1 Reiterate
+1 Big Score
+1 Dark Ritual
+1 Dismember
+1 Snuff Out
+1 Cabal Ritual
+1 Peer into the Abyss
+1 Ignite the Future
+1 Behold the Beyond
+1 Increasing Ambition
+1 Rhystic Tutor
+1 Rite of Flame
+1 Dark Petition
+1 Coveted Prize
+1 Shatterskull Smashing
+1 Agadeem's Awakening
+1 Demonic Bargain
+1 Illicit Shipment
+1 Marsh Flats
+1 Mana Confluence
+1 Badlands
+1 Cabal Pit
+1 Arid Mesa
+1 Gemstone Caverns
+1 Inspired Tinkering
+1 Imperial Seal
+1 Diabolic Intent
+1 Feed the Infection
+1 Sundering Eruption
+1 Reanimate
+1 Wheel of Fortune
+1 Beseech the Queen
+1 Ancient Craving
+1 Past in Flames
+1 Strike It Rich
+1 Ambition's Cost
+1 Pirate's Pillage
+1 Demonic Tutor
+1 Final Parting
+1 Syphon Mind
+1 Jeska's Will
+1 Feed the Swarm
+1 Invasion of Kaldheim
+1 Goldhound
+1 Boggart Trawler
+1 Treasonous Ogre
+1 Skirk Prospector
+1 Birgi, God of Storytelling
+1 Imperial Recruiter
+1 K'rrik, Son of Yawgmoth
+1 Street Wraith
+1 Blood Pet
+1 Storm-Kiln Artist
+1 Simian Spirit Guide
+1 Ragavan, Nimble Pilferer
+1 Pinnacle Monk
+1 Valgavoth, Terror Eater
+1 Vilis, Broker of Blood
+Sideboard
+1 Rowan, Scion of War

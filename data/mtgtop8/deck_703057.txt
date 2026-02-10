@@ -1,0 +1,83 @@
+1 Prismatic Lens
+1 Thran Dynamo
+1 Coalition Relic
+1 Sarevok's Tome
+1 Imposter Mech
+1 Arcane Signet
+1 Manifold Key
+1 Everflowing Chalice
+1 Mox Opal
+1 The One Ring
+1 Throne of Eldraine
+1 Sudden Substitution
+1 Disrupting Shoal
+1 Commandeer
+1 Misdirection
+1 Daze
+1 Submerge
+1 Flusterstorm
+1 Fierce Guardianship
+1 Mox Diamond
+1 Force of Negation
+1 Lotus Petal
+1 Fellwar Stone
+1 Grim Monolith
+1 Mana Vault
+1 Basalt Monolith
+1 Sol Ring
+1 Chrome Mox
+1 Mirrormade
+1 Mind Over Matter
+1 Leyline of Anticipation
+1 Counterbalance
+1 Steal Enchantment
+1 Rhystic Study
+1 Mystic Remora
+1 Copy Artifact
+1 Lorien Revealed
+1 Unstoppable Plan
+1 Amphibian Downpour
+1 Mental Misstep
+1 Force of Will
+1 Retraction Helix
+1 Swan Song
+1 Mindbreak Trap
+1 Mana Drain
+1 Pongify
+1 Snapback
+1 Whirlwind Denial
+1 An Offer You Can't Refuse
+1 Ertai's Meddling
+1 Borne Upon a Wind
+1 Flare of Denial
+1 Strix Serenade
+1 Sink into Stupor
+1 Foil
+1 Pact of Negation
+1 Cyclonic Rift
+1 Sea Gate Restoration
+1 Phyrexian Metamorph
+1 Gilded Drake
+1 Consecrated Sphinx
+1 Subtlety
+1 Hullbreaker Horror
+1 Faerie Mastermind
+1 Tidespout Tyrant
+1 Glaring Fleshraker
+1 Hydroelectric Specimen
+1 Pollywog Prodigy
+1 Sakashima the Impostor
+1 Valley Floodcaller
+1 Kozilek, Butcher of Truth
+1 Urza's Saga
+1 Svyelunite Temple
+1 Ancient Tomb
+1 Saprazzan Skerry
+1 Crystal Vein
+1 Nykthos, Shrine to Nyx
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+19 Island
+Sideboard
+1 Nezahal, Primal Tide

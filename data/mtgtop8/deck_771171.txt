@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Electro, Assaulting Battery
+1 Harmonic Prodigy
+1 Hullbreaker Horror
+1 Niv-Mizzet, Parun
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Arcane Signet
+1 Chrome Mox
+1 Dragonfire Blade
+1 Grinding Station
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mishra's Bauble
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Creativity
+1 The One Ring
+1 The Ozolith
+1 Urza's Bauble
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Chain of Vapor
+1 Dizzy Spell
+1 Fierce Guardianship
+1 Final Fortune
+1 Force of Will
+1 Frantic Search
+1 Gifts Ungiven
+1 Gut Shot
+1 Haste Magic
+1 Hydroblast
+1 Into the Flood Maw
+1 Intuition
+1 Mental Misstep
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Opera Love Song
+1 Pyroblast
+1 Red Elemental Blast
+1 Scour for Scrap
+1 Secret Identity
+1 Sink into Stupor
+1 Snapback
+1 Swan Song
+1 Tibalt's Trickery
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Heroes' Hangout
+1 Merchant Scroll
+1 Mizzix's Mastery
+1 Personal Tutor
+1 Ponder
+1 Preordain
+1 Recall
+1 Rite of Flame
+1 Solve the Equation
+1 Strike It Rich
+1 Wild Ride
+1 Windfall
+1 Curiosity
+1 Essence Flare
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Sigil of Sleep
+1 Underworld Breach
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Fiery Islet
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Mountain
+1 Plaza of Heroes
+1 Polluted Delta
+1 Riverglide Pathway
+1 Sandstone Needle
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Shivan Reef
+1 Spirebluff Canal
+1 Starting Town
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Vivi Ornitier

@@ -1,0 +1,95 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Badgermole Cub
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloodroot Apothecary
+1 Collector Ouphe
+1 Elvish Spirit Guide
+1 Endurance
+1 Fanatic of Rhonas
+1 Formidable Speaker
+1 Frenzied Baloth
+1 Hope Tender
+1 Ley Weaver
+1 Llanowar Elves
+1 Lotus Cobra
+1 Magus of the Candelabra
+1 Nylea, Keen-Eyed
+1 Omnath, Locus of Mana
+1 Quirion Ranger
+1 Runic Armasaur
+1 Sakura-Tribe Elder
+1 Scryb Ranger
+1 Scute Swarm
+1 Selvala, Heart of the Wilds
+1 Sowing Mycospawn
+1 Sylvan Safekeeper
+1 Tireless Provisioner
+1 Walking Ballista
+1 Yeva, Nature's Herald
+1 Chalice of the Void
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Sol Ring
+1 The Great Henge
+1 Thousand-Year Elixir
+1 Umbral Mantle
+1 Vexing Bauble
+1 Archdruid's Charm
+1 Benefactor's Draught
+1 Chord of Calling
+1 Crop Rotation
+1 Force of Vigor
+1 Heroic Intervention
+1 Legolas's Quick Reflexes
+1 Noxious Revival
+1 Once Upon a Time
+1 Summoner's Pact
+1 Veil of Summer
+1 Worldly Tutor
+1 Bala Ged Recovery
+1 Celestial Reunion
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gaea's Blessing
+1 Green Sun's Zenith
+1 Natural Order
+1 Nature's Rhythm
+1 Sylvan Tutor
+1 Threats Undetected
+1 Turntimber Symbiosis
+1 Birthing Ritual
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Leyline of Abundance
+1 Sylvan Library
+1 Invasion of Ikoria
+1 Tezzeret, Cruel Captain
+1 Ba Sing Se
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Command Beacon
+1 Crystal Vein
+1 Dryad Arbor
+1 Emergence Zone
+1 Evendo, Waking Haven
+1 Gaea's Cradle
+1 Havenwood Battleground
+1 Hickory Woodlot
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+1 Shifting Woodland
+7 Snow-Covered Forest
+1 Talon Gates of Madara
+1 Urza's Cave
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Ashaya, Soul of the Wild

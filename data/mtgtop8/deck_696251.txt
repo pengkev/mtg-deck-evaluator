@@ -1,0 +1,101 @@
+1 Sheltered by Ghosts
+1 Static Prison
+1 Black Market Connections
+1 Paladin Class
+1 Animate Dead
+1 Damn
+1 Beseech the Mirror
+1 Final Parting
+1 Praetor's Grasp
+1 Diabolic Intent
+1 Reanimate
+1 Sevinne's Reclamation
+1 Demonic Tutor
+1 Thraben Charm
+1 Surge of Salvation
+1 Reprieve
+1 Tainted Pact
+1 Imp's Mischief
+1 Ad Nauseam
+1 Deadly Rollick
+1 Snuff Out
+1 Silence
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Path to Exile
+1 Entomb
+1 Cabal Ritual
+1 Culling the Weak
+1 Swords to Plowshares
+1 Dark Ritual
+1 Relic of Legends
+1 Agatha's Soul Cauldron
+1 The One Ring
+1 Portable Hole
+1 Mox Amber
+1 Springleaf Drum
+1 Talisman of Hierarchy
+1 Mox Opal
+1 Chrome Mox
+1 Manifold Key
+1 Mana Vault
+1 Fellwar Stone
+1 Sol Ring
+1 Mind Stone
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Boromir, Warden of the Tower
+1 Rev, Tithe Extractor
+1 Delney, Streetwise Lookout
+1 Dauntless Dismantler
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Archivist of Oghma
+1 Opposition Agent
+1 Grim Hireling
+1 Oswald Fiddlebender
+1 Dauthi Voidwalker
+1 Esper Sentinel
+1 Breena, the Demagogue
+1 Lurrus of the Dream-Den
+1 Drannith Magistrate
+1 Grand Abolisher
+1 Ranger-Captain of Eos
+1 Giver of Runes
+1 Changeling Outcast
+1 Hope of Ghirapur
+1 Triskelion
+1 Serra Ascendant
+1 Walking Ballista
+1 Kitesail Freebooter
+1 Heliod, Sun-Crowned
+1 Bleachbone Verge
+1 Shadowy Backstreet
+1 Eiganjo, Seat of the Empire
+1 Hall of Oracles
+1 Vault of Champions
+1 Gemstone Caverns
+1 Silent Clearing
+1 Godless Shrine
+1 Caves of Koilos
+1 Windswept Heath
+1 Polluted Delta
+1 Marsh Flats
+1 Arid Mesa
+1 Concealed Courtyard
+1 Phyrexian Tower
+1 Ancient Tomb
+1 Gemstone Mine
+1 Flooded Strand
+1 City of Brass
+1 Scrubland
+1 Exotic Orchard
+1 Buried Ruin
+1 Command Tower
+1 Swamp
+1 Plains
+1 Urza's Saga
+Sideboard
+1 Francisco, Fowl Marauder
+1 Tymna the Weaver

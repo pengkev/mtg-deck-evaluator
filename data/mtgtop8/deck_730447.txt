@@ -1,0 +1,100 @@
+1 Abeyance
+1 Aggravated Assault
+1 Ajani, Nacatl Pariah
+1 Anointed Procession
+1 Archivist of Oghma
+1 Arid Mesa
+1 Arterial Alchemy
+1 Aura Mutation
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Birds of Paradise
+1 Bloom Tender
+1 Bolt Bend
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Call the Coppercoats
+1 Champions from Beyond
+1 City of Brass
+1 Clever Concealment
+1 Command Tower
+1 Compost
+1 Dazzling Theater/Prop Room
+1 Deep Gnome Terramancer
+1 Delighted Halfling
+1 Dollmaker's Shop/Porcelain Gallery
+1 Doubling Season
+1 Earthcraft
+1 Elegant Parlor
+1 Elspeth, Storm Slayer
+1 Elvish Mystic
+1 Emergence Zone
+1 Enduring Vitality
+1 Esper Sentinel
+1 Ezuri's Predation
+1 Fanatic of Rhonas
+1 Farmer Cotton
+1 Flooded Strand
+1 Forest
+1 Fyndhorn Elves
+1 Galadriel's Dismissal
+1 Gemstone Caverns
+1 Goblin Bombardment
+1 Grafdigger's Cage
+1 Grand Abolisher
+1 Grand Crescendo
+1 Growing Rites of Itlimoc
+1 Halo Fountain
+1 High Noon
+1 Horizon of Progress
+1 Idyllic Tutor
+1 Killer Service
+1 Lightning Greaves
+1 Llanowar Elves
+1 Lush Portico
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Monologue Tax
+1 Moogles' Valor
+1 Mox Amber
+1 Parallel Lives
+1 Path to Exile
+1 Pest Infestation
+2 Plains
+1 Plateau
+1 Reprieve
+1 Reverent Mantra
+1 Sacred Foundry
+1 Sanctum Weaver
+1 Savannah
+1 Secure the Wastes
+1 Shifting Woodland
+1 Silence
+1 Skullclamp
+1 Snake Pit
+1 Sol Ring
+1 Spectator Seating
+1 Sterling Grove
+1 Stomping Ground
+1 Swords to Plowshares
+1 Sylvan Library
+1 Taiga
+1 Talon Gates of Madara
+1 Tataru Taru
+1 Temple Garden
+1 Three Tree City
+1 Tibalt's Trickery
+1 Tooth and Claw
+1 Treasure Vault
+1 Trouble in Pairs
+1 Urza's Saga
+1 Veil of Summer
+1 Verdant Catacombs
+1 Wild Growth
+1 Wildfire Awakener
+1 Will of the Mardu
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Baylen, the Haymaker

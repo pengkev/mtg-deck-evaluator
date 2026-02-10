@@ -1,0 +1,85 @@
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Beast Whisperer
+1 Boreal Druid
+1 Collector Ouphe
+1 Dionus, Elvish Archdruid
+1 Duskwatch Recruiter
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Elvish Warmaster
+1 Endurance
+1 Eternal Witness
+1 Fierce Empath
+1 Fyndhorn Elves
+1 Great Oak Guardian
+1 Hyrax Tower Scout
+1 Karametra's Acolyte
+1 Kogla, the Titan Ape
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Priest of Titania
+1 Quirion Ranger
+1 Reclamation Sage
+1 Regal Force
+1 Scryb Ranger
+1 Seeker of Skybreak
+1 Selvala, Heart of the Wilds
+1 Temur Sabertooth
+1 Wirewood Symbiote
+1 Woodland Bellower
+1 Yeva, Nature's Herald
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 Autumn's Veil
+1 Beast Within
+1 Berserk
+1 Chord of Calling
+1 Force of Vigor
+1 Invigorate
+1 Legolas's Quick Reflexes
+1 Might of Old Krosa
+1 Nature's Claim
+1 Return of the Wildspeaker
+1 Shared Summons
+1 Summoner's Pact
+1 Veil of Summer
+1 Vines of Vastwood
+1 Vitalize
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Natural Order
+1 Scale Up
+1 Tooth and Nail
+1 Turntimber Symbiosis
+1 Asceticism
+1 Carpet of Flowers
+1 Compost
+1 Concordant Crossroads
+1 Guardian Project
+1 Kenrith's Transformation
+1 Loading Zone
+1 Sylvan Library
+1 Utopia Sprawl
+1 Wild Growth
+1 Garruk, Primal Hunter
+1 Vivien, Monsters' Advocate
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Emergence Zone
+17 Forest
+1 Gemstone Caverns
+1 Nykthos, Shrine to Nyx
+1 Windswept Heath
+1 Wirewood Lodge
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Marwyn, the Nurturer

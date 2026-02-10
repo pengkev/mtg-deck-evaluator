@@ -1,0 +1,92 @@
+1 Voice of Victory
+1 Viscera Seer
+1 Restless Apparition
+1 Puppeteer Clique
+1 Carrion Feeder
+1 Umbral Collar Zealot
+1 Blood Artist
+1 Lotho, Corrupt Shirriff
+1 Morbid Opportunist
+1 Zulaport Cutthroat
+1 Obstinate Gargoyle
+1 Anafenza, Kin-Tree Spirit
+1 Pitiless Plunderer
+1 Elas il-Kor, Sadistic Pilgrim
+1 Lurrus of the Dream-Den
+1 Weftstalker Ardent
+1 Molten Gatekeeper
+1 Marionette Apprentice
+1 Murderous Redcap
+1 Chainer, Nightmare Adept
+1 Terra, Herald of Hope
+1 Lesser Masticore
+1 Cruel Celebrant
+1 Putrid Goblin
+1 Talisman of Hierarchy
+1 Arcane Signet
+1 Talisman of Indulgence
+1 Altar of Dementia
+1 Wishclaw Talisman
+1 Grinding Station
+1 Talisman of Conviction
+1 Sol Ring
+1 Mind Stone
+1 Ashnod's Altar
+1 Deadly Dispute
+1 Village Rites
+1 Swords to Plowshares
+1 Cloudshift
+1 March of Otherworldly Light
+1 Silence
+1 Ephemerate
+1 Dismember
+1 Abrade
+1 Rakdos Charm
+1 Saw in Half
+1 First Day of Class
+1 Orim's Chant
+1 Demand Answers
+1 Dark Ritual
+1 Faithless Looting
+1 Devastating Onslaught
+1 Lively Dirge
+1 Sevinne's Reclamation
+1 Jolted Awake
+1 Stitch Together
+1 Persist
+1 Reanimate
+1 Fanatical Devotion
+1 Goblin Bombardment
+1 Impact Tremors
+1 Animate Dead
+1 Phyrexian Arena
+1 Bastion of Remembrance
+1 High Market
+1 Caves of Koilos
+1 Smoldering Marsh
+1 Sacred Peaks
+1 Fabled Passage
+4 Plains
+1 Dragonskull Summit
+1 Geier Reach Sanitarium
+1 Sulfurous Springs
+1 Geothermal Bog
+1 Sunlit Marsh
+4 Swamp
+1 Exotic Orchard
+1 Needleverge Pathway
+1 Brightclimb Pathway
+1 Clifftop Retreat
+1 Furycalm Snarl
+1 Rugged Prairie
+1 Blightstep Pathway
+1 Fetid Heath
+1 Battlefield Forge
+1 Alpine Meadow
+1 Command Tower
+1 Isolated Chapel
+4 Mountain
+1 Shineshadow Snarl
+1 Foreboding Ruins
+Sideboard
+1 Celes, Rune Knight

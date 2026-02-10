@@ -1,0 +1,76 @@
+1 Daxos, Blessed by the Sun
+1 Goldnight Commander
+1 Leonin Warleader
+1 Purphoros, God of the Forge
+1 Puresteel Paladin
+1 Devilish Valet
+1 Mirror Entity
+1 Mikaeus, the Lunarch
+1 Tori D'Avenant, Fury Rider
+1 Windborn Muse
+1 Jor Kadeen, First Goldwarden
+1 Phyrexian Vindicator
+1 Anim Pakal, Thousandth Moon
+1 Molten Gatekeeper
+1 Mentor of the Meek
+1 Solemn Simulacrum
+1 Neyali, Suns' Vanguard
+1 Dolmen Gate
+1 Sol Ring
+1 Colossus Hammer
+1 Strionic Resonator
+1 Sword of the Animist
+1 Fireshrieker
+1 Fire Diamond
+1 Talisman of Conviction
+1 Mace of the Valiant
+1 Arcane Signet
+1 Laser Screwdriver
+1 Tarrian's Soulcleaver
+1 Idol of Oblivion
+1 Commander's Sphere
+1 Outflank
+1 Rootborn Defenses
+1 Swords to Plowshares
+1 Seething Song
+1 Deflecting Palm
+1 Double Cleave
+1 Beaming Defiance
+1 Path to Exile
+1 Devouring Light
+1 Surge of Salvation
+1 Virtue of Loyalty
+1 Unbreakable Formation
+1 Return the Favor
+1 Environmental Sciences
+1 Blasphemous Act
+1 Hour of Reckoning
+1 Storm Herd
+1 Deafening Silence
+1 Ferocity of the Wilds
+1 Dictate of Heliod
+1 Cathars' Crusade
+1 Breath of Fury
+1 Valor in Akros
+1 Ghostly Prison
+1 Warstorm Surge
+1 Inspiring Leader
+1 Seal from Existence
+1 City on Fire
+1 Felidar Retreat
+1 Impact Tremors
+1 Shared Animosity
+1 Warleader's Call
+1 Case of the Gateway Express
+1 Intangible Virtue
+1 Command Tower
+1 Furycalm Snarl
+1 Thriving Bluff
+1 Sacred Peaks
+1 Clifftop Retreat
+1 Temple of Triumph
+1 Path of Ancestry
+9 Mountain
+18 Plains
+Sideboard
+1 Otharri, Suns' Glory

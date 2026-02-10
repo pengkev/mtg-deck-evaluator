@@ -1,0 +1,89 @@
+1 Blood Pet
+1 Boggart Trawler
+1 Braids, Arisen Nightmare
+1 Crypt Ghast
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 K'rrik, Son of Yawgmoth
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Wandering Archaic
+1 Chrome Mox
+1 Cursed Totem
+1 Damping Matrix
+1 Damping Sphere
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Helm of Obedience
+1 Jet Medallion
+1 Lightning Greaves
+1 Lotus Petal
+1 Mana Vault
+1 Mana Web
+1 Meekstone
+1 Mesmeric Orb
+1 Mindcrank
+1 Mox Amber
+1 Mox Opal
+1 Null Rod
+1 Orb of Dreams
+1 Pithing Needle
+1 Portcullis
+1 Sol Ring
+1 Teferi's Puzzle Box
+1 Torpor Orb
+1 Void Mirror
+1 Winter Moon
+1 Winter Orb
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Cabal Ritual
+1 Contagion
+1 Dark Ritual
+1 Deadly Rollick
+1 Fell the Profane
+1 Imp's Mischief
+1 Malakir Rebirth
+1 Shred Memory
+1 Snuff Out
+1 Sudden Spoiling
+1 Vampiric Tutor
+1 Withering Boon
+1 Agadeem's Awakening
+1 Blasphemous Edict
+1 Chain of Smog
+1 Cruelclaw's Heist
+1 Dark Deal
+1 Demonic Tutor
+1 Feed the Swarm
+1 Praetor's Grasp
+1 Reanimate
+1 Toxic Deluge
+1 Unearth
+1 Animate Dead
+1 Bloodchief Ascension
+1 Contamination
+1 Desolation
+1 Lethal Vapors
+1 Leyline of the Void
+1 Necropotence
+1 Nowhere to Run
+1 Urza's Saga
+1 Professor Onyx
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Cabal Pit
+1 Cabal Stronghold
+1 Cavern of Souls
+1 Emergence Zone
+1 Fabled Passage
+1 Gemstone Caverns
+1 Inventors' Fair
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+13 Snow-Covered Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+Sideboard
+1 Maralen of the Mornsong

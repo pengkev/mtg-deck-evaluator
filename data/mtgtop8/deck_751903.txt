@@ -1,0 +1,69 @@
+1 Ancient Copper Dragon
+1 Balefire Dragon
+1 Barkform Harvester
+1 Blast-Furnace Hellkite
+1 Bloodfire Dwarf
+1 Darksteel Colossus
+1 Dragon Tyrant
+1 Drakuseth, Maw of Flames
+1 Dwarven Grunt
+1 Dwarven Nomad
+1 Dwarven Recruiter
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Gimli of the Glittering Caves
+1 Gloin, Dwarf Emissary
+1 Godo, Bandit Warlord
+1 Hellkite Tyrant
+1 Insufferable Balladeer
+1 Knuckles the Echidna
+1 Liberated Dwarf
+1 Magda, the Hoardmaster
+1 Meteor Golem
+1 Platinum Angel
+1 Plundering Barbarian
+1 Professional Face-Breaker
+1 Storm-Kiln Artist
+1 Taurean Mauler
+1 Three Tree Mascot
+1 Twinflame Tyrant
+1 Vault Robber
+1 Xorn
+1 Clock of Omens
+1 Cultivator's Caravan
+1 Eldrazi Monument
+1 Helm of the Host
+1 Maskwood Nexus
+1 Mind Stone
+1 Sol Ring
+1 Springleaf Drum
+1 Treasure Map
+1 Big Score
+1 Ghostfire Slice
+1 Lightning Bolt
+1 Siege Smash
+1 Sudden Shock
+1 Zoyowa's Justice
+1 Calamity of Cinders
+1 Gamble
+1 Seize the Spoils
+1 Strike It Rich
+1 Blood Moon
+1 City on Fire
+1 Dragon Tempest
+1 Guild Artisan
+1 Kyren Negotiations
+1 Spiteful Banditry
+1 There and Back Again
+1 Blast Zone
+1 Command Tower
+1 Emergence Zone
+1 Holdout Settlement
+33 Mountain
+1 Rogue's Passage
+1 Scene of the Crime
+1 The Gold Saucer
+1 War Room
+Sideboard
+1 Magda, Brazen Outlaw

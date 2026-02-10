@@ -1,0 +1,94 @@
+1 Acolyte of Affliction
+1 Blossoming Tortoise
+1 Bonny Pall, Clearcutter
+1 Colossal Grave-Reaver
+1 Craterhoof Behemoth
+1 Damage Control Crew
+1 Deranged Assistant
+1 Diviner of Mist
+1 Druid of Purification
+1 Enduring Vitality
+1 Esper Origins
+1 Eternal Witness
+1 Fang, Fearless l'Cie
+1 Genesis
+1 Golgari Grave-Troll
+1 Golgari Thug
+1 Honest Rutstein
+1 Kagha, Shadow Archdruid
+1 Kishla Skimmer
+1 Meren of Clan Nel Toth
+1 Millikin
+1 Muldrotha, the Gravetide
+1 Nyx Weaver
+1 Raul, Trouble Shooter
+1 Sakura-Tribe Elder
+1 Six
+1 Skull Prophet
+1 Skullwinder
+1 Sludge Titan
+1 Steward of the Harvest
+1 Stinkweed Imp
+1 Sylvan Safekeeper
+1 Syr Konrad, the Grim
+1 The Gitrog Monster
+1 Timeless Witness
+1 Vanille, Cheerful l'Cie
+1 Wonder
+1 Altar of Bhaal
+1 Arcane Signet
+1 Conduit of Worlds
+1 Idol of Oblivion
+1 Perpetual Timepiece
+1 Sol Ring
+1 Assassin's Trophy
+1 Drag to the Roots
+1 Harrow
+1 Tear Asunder
+1 Bala Ged Recovery
+1 Farseek
+1 Formless Genesis
+1 Life from the Loam
+1 Living Death
+1 Rampant Growth
+1 Rise of the Witch-King
+1 Victimize
+1 Welcome the Dead
+1 Awaken the Honored Dead
+1 Beastmaster Ascension
+1 Out of the Tombs
+1 Phyrexian Reclamation
+1 Polluted Cistern/Dim Oubliette
+1 Teval's Judgment
+1 Accursed Duneyard
+1 Ash Barrens
+1 Breeding Pool
+1 Command Beacon
+1 Command Tower
+1 Contaminated Aquifer
+1 Dakmor Salvage
+1 Darkwater Catacombs
+1 Dreamroot Cascade
+1 Eden, Seat of the Sanctum
+1 Exotic Orchard
+1 Fetid Pools
+1 Foreboding Landscape
+6 Forest
+1 Haunted Mire
+1 Hinterland Harbor
+2 Island
+1 Llanowar Wastes
+1 Memorial to Folly
+1 Mortuary Mire
+1 Opulent Palace
+1 Polluted Delta
+1 Port of Karfell
+1 Sunken Hollow
+2 Swamp
+1 Temple of the False God
+1 Urza's Cave
+1 Watery Grave
+1 Witch's Cottage
+1 Woodland Cemetery
+Sideboard
+1 Teval, the Balanced Scale

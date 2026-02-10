@@ -1,0 +1,74 @@
+1 Fleshbag Marauder
+1 Sheoldred, Whispering One
+1 Accursed Marauder
+1 Bloodghast
+1 Merciless Executioner
+1 Nine-Lives Familiar
+1 Sifter of Skulls
+1 Priest of Forgotten Gods
+1 Mirkwood Bats
+1 Boggart Trawler
+1 Ayara, First of Locthwain
+1 Crypt Ghast
+1 Braids, Arisen Nightmare
+1 Viscera Seer
+1 Endrek Sahr, Master Breeder
+1 Carrion Feeder
+1 Plaguecrafter
+1 Forsaken Miner
+1 Bloodsoaked Champion
+1 Marionette Apprentice
+1 Grave Titan
+1 Zulaport Cutthroat
+1 Gravecrawler
+1 Gray Merchant of Asphodel
+1 Gisa, the Hellraiser
+1 Demon's Disciple
+1 Blood Artist
+1 Sheoldred
+1 Abhorrent Overlord
+1 Morbid Opportunist
+1 Jadar, Ghoulcaller of Nephalia
+1 Gaius van Baelsar
+1 Solemn Simulacrum
+1 Pawn of Ulamog
+1 Ophiomancer
+1 Chittering Witch
+1 Zodiark, Umbral God
+1 Reassembling Skeleton
+1 Mind Stone
+1 Ashnod's Altar
+1 Sol Ring
+1 Skullclamp
+1 Arcane Signet
+1 Thought Vessel
+1 The Masamune
+1 Wayfarer's Bauble
+1 Bontu's Monument
+1 Jet Medallion
+1 Feign Death
+1 Dark Ritual
+1 Sheoldred's Edict
+1 Fell the Profane
+1 Withering Torment
+1 Not Dead After All
+1 Flare of Malice
+1 Deadly Dispute
+1 Diabolic Intent
+1 Innocent Blood
+1 Resentful Revelation
+1 Blasphemous Edict
+1 Embrace Oblivion
+1 Lash of the Balrog
+1 Meathook Massacre II
+1 Bastion of Remembrance
+1 Kaya's Ghostform
+1 Fallen Ideal
+1 Tevesh Szat, Doom of Fools
+27 Swamp
+1 Reliquary Tower
+1 Witch's Cottage
+1 Crypt of Agadeem
+1 Mortuary Mire
+Sideboard
+1 Sephiroth, Fabled SOLDIER

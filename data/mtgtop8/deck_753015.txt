@@ -1,0 +1,93 @@
+1 Birgi, God of Storytelling
+1 Chandra's Incinerator
+1 Coruscation Mage
+1 Dragon's Rage Channeler
+1 Drift of Phantasms
+1 Faerie Mastermind
+1 Firebrand Archer
+1 Glint-Horn Buccaneer
+1 Goblin Sharpshooter
+1 Immolation Shaman
+1 Imperial Recruiter
+1 Kessig Flamebreather
+1 Loyal Apprentice
+1 Niv-Mizzet, Parun
+1 Pollywog Prodigy
+1 Ragavan, Nimble Pilferer
+1 Razorkin Needlehead
+1 Roaming Throne
+1 Sawblade Scamp
+1 Scalding Viper
+1 Simian Spirit Guide
+1 Tandem Lookout
+1 Thermo-Alchemist
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Arcane Signet
+1 Basilisk Collar
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Lotus Petal
+1 Mox Amber
+1 Mox Opal
+1 Sol Ring
+1 Springleaf Drum
+1 Weathered Runestone
+1 An Offer You Can't Refuse
+1 Cast into the Fire
+1 Chain of Vapor
+1 Delay
+1 Desperate Ritual
+1 Dispel
+1 Dizzy Spell
+1 Electrickery
+1 Flusterstorm
+1 Force of Negation
+1 Gut Shot
+1 Lava Dart
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Pongify
+1 Pyretic Ritual
+1 Swan Song
+1 Blazing Volley
+1 End the Festivities
+1 Gitaxian Probe
+1 Personal Tutor
+1 Rite of Flame
+1 Scouring Sands
+1 Smash to Dust
+1 Step Through
+1 Strike It Rich
+1 Tectonic Hazard
+1 Wheel of Fortune
+1 Back to Basics
+1 Blood Moon
+1 Curiosity
+1 Mystic Remora
+1 Ophidian Eye
+1 Repercussion
+1 Urza's Saga
+1 Arid Mesa
+1 Bloodstained Mire
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+5 Island
+1 Misty Rainforest
+5 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sokenzan, Crucible of Defiance
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Wooded Foothills
+Sideboard
+1 Ghyrson Starn, Kelermorph

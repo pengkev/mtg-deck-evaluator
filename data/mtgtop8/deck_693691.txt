@@ -1,0 +1,95 @@
+1 Tandem Lookout
+1 Treasure Nabber
+1 Magus of the Moon
+1 Harsh Mentor
+1 Spellskite
+1 Simian Spirit Guide
+1 Birgi, God of Storytelling
+1 Hullbreaker Horror
+1 Scalding Viper
+1 Ashling, Flame Dancer
+1 Valley Floodcaller
+1 Coruscation Mage
+1 Razorkin Needlehead
+1 High Fae Trickster
+1 Adrenaline Jockey
+1 Treasonous Ogre
+1 Arcane Signet
+1 Sol Ring
+1 Thought Vessel
+1 Fellwar Stone
+1 Mana Vault
+1 Manifold Key
+1 Chrome Mox
+1 Izzet Signet
+1 Mox Diamond
+1 Mox Opal
+1 Voltaic Key
+1 Grim Monolith
+1 Talisman of Creativity
+1 Lion's Eye Diamond
+1 The One Ring
+1 Lotus Petal
+1 Swan Song
+1 Lightning Bolt
+1 Misdirection
+1 Price of Progress
+1 Retraction Helix
+1 Red Elemental Blast
+1 Desperate Ritual
+1 Mana Drain
+1 Pyroblast
+1 Delay
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Seething Song
+1 Firestorm
+1 Force of Negation
+1 Deflecting Swat
+1 Mindbreak Trap
+1 Banishing Knack
+1 An Offer You Can't Refuse
+1 Delayed Blast Fireball
+1 Borne Upon a Wind
+1 Flare of Duplication
+1 Sink into Stupor
+1 Consign to Memory
+1 Flusterstorm
+1 Grapeshot
+1 Mind Bomb
+1 Gamble
+1 Rite of Flame
+1 Cave-In
+1 Flame Rift
+1 Shatterskull Smashing
+1 Jeska's Will
+1 Boltwave
+1 Rolling Earthquake
+1 Underworld Breach
+1 Curiosity
+1 Rhystic Study
+1 Mystic Remora
+1 Sigil of Sleep
+1 Descent into Avernus
+1 Artist's Talent
+5 Island
+3 Mountain
+1 Command Tower
+1 Shivan Reef
+1 Boseiju, Who Shelters All
+1 Cavern of Souls
+1 Ancient Tomb
+1 Steam Vents
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Volcanic Island
+1 Fiery Islet
+1 Gemstone Caverns
+1 Sulfur Falls
+1 Training Center
+1 Riverglide Pathway
+1 Thundering Falls
+Sideboard
+1 Niv-Mizzet, Visionary

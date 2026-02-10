@@ -1,0 +1,79 @@
+1 Brass Squire
+1 Simian Spirit Guide
+1 Hearthborn Battler
+1 Kediss, Emberclaw Familiar
+1 Ragavan, Nimble Pilferer
+1 Dualcaster Mage
+1 Laelia, the Blade Reforged
+1 Thran Dynamo
+1 Vanquisher's Axe
+1 The One Ring
+1 Sol Ring
+1 Mox Diamond
+1 Commander's Plate
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Ring of Valkas
+1 Mox Opal
+1 Darksteel Plate
+1 Mana Vault
+1 Swiftfoot Boots
+1 Umezawa's Jitte
+1 Mask of Memory
+1 Hero's Blade
+1 Goldvein Pick
+1 Throne of Eldraine
+1 Buster Sword
+1 Prying Blade
+1 Two-Handed Axe
+1 Lion's Eye Diamond
+1 Tenza, Godo's Maul
+1 Ghost Vacuum
+1 Sword of Fire and Ice
+1 Sword of Feast and Famine
+1 Inventor's Axe
+1 Mirran Banesplitter
+1 Mind Stone
+1 Chrome Mox
+1 Gauntlet of Might
+1 Tangle Wire
+1 Gimli's Fury
+1 Deflecting Swat
+1 Tibalt's Trickery
+1 Thrill of Possibility
+1 Abrade
+1 Seething Song
+1 Desperate Ritual
+1 Rig for War
+1 Pyretic Ritual
+1 Red Elemental Blast
+1 Monstrous Rage
+1 Pyroblast
+1 Flare of Duplication
+1 Chef's Kiss
+1 Untimely Malfunction
+1 Chaos Warp
+1 The Last Agni Kai
+1 Lightning Bolt
+1 Call In a Professional
+1 Winds of Change
+1 Incendiary Command
+1 Gamble
+1 Wheel of Fate
+1 Shattering Spree
+1 Stranglehold
+1 Blood Moon
+1 The Sound of Drums
+1 Akki War Paint
+1 Urza's Saga
+1 Manabarbs
+1 Citadel of Pain
+1 Tezzeret, Cruel Captain
+1 Fire Nation Palace
+1 Rogue's Passage
+1 Command Beacon
+23 Mountain
+1 Ancient Tomb
+1 Homeward Path
+Sideboard
+1 Slicer, Hired Muscle

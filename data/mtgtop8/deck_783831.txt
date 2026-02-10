@@ -1,0 +1,80 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Benthic Anomaly
+1 Birds of Paradise
+1 Brinelin, the Moon Kraken
+1 Charix, the Raging Isle
+1 Fanatic of Rhonas
+1 Goreclaw, Terror of Qal Sisma
+1 Hullbreaker Horror
+1 Ilysian Caryatid
+1 Kiora's Follower
+1 Koma, Cosmos Serpent
+1 Koma, World-Eater
+1 Lorthos, the Tidemaker
+1 Prime Speaker Zegana
+1 Scourge of Fleets
+1 Selvala, Heart of the Wilds
+1 Serpent of Yawning Depths
+1 Shipbreaker Kraken
+1 Simic Sky Swallower
+1 Slinn Voda, the Rising Deep
+1 Starwinder
+1 Stormsurge Kraken
+1 Stormtide Leviathan
+1 Summon: Leviathan
+1 Tatyova, Benthic Druid
+1 Thassa, God of the Sea
+1 Tromokratis
+1 Troyan, Gutsy Explorer
+1 Xolatoyac, the Smiling Flood
+1 Arcane Signet
+1 Bident of Thassa
+1 Hunter's Bow
+1 Sapphire Medallion
+1 Simic Signet
+1 Sol Ring
+1 Thought Vessel
+1 Airship Crash
+1 Auroral Procession
+1 Counterspell
+1 Decisive Denial
+1 Filter Out
+1 Growth Spiral
+1 Reality Shift
+1 Repudiate/Replicate
+1 Royal Treatment
+1 Shore Up
+1 Simic Charm
+1 Voidslime
+1 Aether Gale
+1 Consuming Tide
+1 Cultivate
+1 Farseek
+1 Kodama's Reach
+1 Pick Your Poison
+1 Rampant Growth
+1 Season of Gathering
+1 Whelming Wave
+1 Amphibian Downpour
+1 Eaten by Piranhas
+1 Eel Umbra
+1 Garruk's Uprising
+1 Leyline Immersion
+1 Up the Beanstalk
+1 Kiora, Behemoth Beckoner
+1 Balamb Garden, SeeD Academy
+1 Breeding Pool
+1 Command Tower
+1 Dreamroot Cascade
+1 Fabled Passage
+7 Forest
+1 Hinterland Harbor
+16 Island
+1 Mosswort Bridge
+1 Rogue's Passage
+1 Simic Growth Chamber
+1 Tangled Islet
+1 Vineglimmer Snarl
+1 Willowrush Verge
+Sideboard
+1 Kiora, Sovereign of the Deep

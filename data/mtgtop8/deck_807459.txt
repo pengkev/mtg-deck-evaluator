@@ -1,0 +1,100 @@
+1 Ajani's Pridemate
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Birds of Paradise
+1 Bloom Tender
+1 Delighted Halfling
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Formidable Speaker
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Hexing Squelcher
+1 Imperial Recruiter
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Manglehorn
+1 Mother of Runes
+1 Phyrexian Devourer
+1 Priest of Titania
+1 Simian Spirit Guide
+1 The Cabbage Merchant
+1 The Red Terror
+1 Tinder Wall
+1 Voice of Victory
+1 Walking Ballista
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Chrome Mox
+1 Damping Sphere
+1 Lotus Petal
+1 Mana Vault
+1 Sol Ring
+1 The One Ring
+1 Torpor Orb
+1 Chord of Calling
+1 Deflecting Swat
+1 Dromoka's Command
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Guttural Response
+1 Legolas's Quick Reflexes
+1 Orim's Chant
+1 Pyroblast
+1 Red Elemental Blast
+1 Reprieve
+1 Savage Summoning
+1 Silence
+1 Snakeskin Veil
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Take Up the Shield
+1 Tibalt's Trickery
+1 Veil of Summer
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Gamble
+1 Jeska's Will
+1 All Will Be One
+1 Blind Obedience
+1 Deafening Silence
+1 Rhythm of the Wild
+1 Rule of Law
+1 Spirit Link
+1 Static Prison
+1 Survival of the Fittest
+1 Sylvan Library
+1 Utopia Sprawl
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+2 Plains
+1 Plateau
+1 Reflecting Pool
+1 Sacred Foundry
+1 Savannah
+1 Spectator Seating
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Shalai and Hallar

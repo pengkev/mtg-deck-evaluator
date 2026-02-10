@@ -1,0 +1,80 @@
+1 Curiosity Crafter
+1 Cybermen Squadron
+1 Etherium Sculptor
+1 Hydroelectric Specimen
+1 Kappa Cannoneer
+1 Marvin, Murderous Mimic
+1 Master of Etherium
+1 Meteor Golem
+1 Omen Hawker
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Padeem, Consul of Innovation
+1 Psychosis Crawler
+1 Sai, Master Thopterist
+1 Sharding Sphinx
+1 Steel Hellkite
+1 Steel Overseer
+1 Stridehangar Automaton
+1 Thopter Squadron
+1 Vizier of Tumbling Sands
+1 Caged Sun
+1 Commander's Sphere
+1 Crystal Skull, Isu Spyglass
+1 Decanter of Endless Water
+1 Fellwar Stone
+1 Forsaken Monument
+1 Gilded Lotus
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Mind Stone
+1 Monument to Endurance
+1 Patriar's Seal
+1 Sapphire Medallion
+1 Sol Ring
+1 Spellbook
+1 Staff of Nin
+1 Swiftfoot Boots
+1 The Endstone
+1 The Magic Mirror
+1 Thopter Fabricator
+1 Thought Vessel
+1 Thran Dynamo
+1 Unwinding Clock
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Archmage's Charm
+1 Brainstorm
+1 Counterspell
+1 Foil
+1 Frantic Search
+1 Keep Watch
+1 Launch Mishap
+1 Magic Damper
+1 Opt
+1 Reality Shift
+1 Spell Pierce
+1 Stoic Rebuttal
+1 Urza's Command
+1 All Is Dust
+1 Fabricate
+1 Lunar Insight
+1 March of Progress
+1 Reshape
+1 Insight
+1 Proft's Eidetic Memory
+1 Teferi's Ageless Insight
+1 Thopter Spy Network
+1 Training Grounds
+1 Unstoppable Plan
+1 Tezzeret, Artifice Master
+1 Archway of Innovation
+1 Darksteel Citadel
+22 Island
+1 Reliquary Tower
+1 Seat of the Synod
+1 Tomb of the Spirit Dragon
+1 Treasure Vault
+Sideboard
+1 Leonardo da Vinci

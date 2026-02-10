@@ -1,0 +1,94 @@
+1 Allosaurus Shepherd
+1 Cloud of Faeries
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Endurance
+1 Esior, Wardwing Familiar
+1 Faerie Mastermind
+1 Faerie Miscreant
+1 Faerie Seer
+1 Hope of Ghirapur
+1 Ledger Shredder
+1 Mausoleum Wanderer
+1 Mercurial Spelldancer
+1 Mist-Cloaked Herald
+1 Mockingbird
+1 Network Disruptor
+1 Pixie Illusionist
+1 Pteramander
+1 Silver Raven
+1 Siren Stormtamer
+1 Snapcaster Mage
+1 Snaremaster Sprite
+1 Spectral Sailor
+1 Spire Tracer
+1 Thousand-Faced Shadow
+1 Treetop Scout
+1 Triton Shorestalker
+1 Volatile Stormdrake
+1 Wan Shi Tong, Librarian
+1 Wingcrafter
+1 Chrome Mox
+1 Lotus Petal
+1 Sol Ring
+1 The One Ring
+1 Abjure
+1 Beast Within
+1 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Legolas's Quick Reflexes
+1 Long-Term Plans
+1 Mana Drain
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Nexus of Fate
+1 Noxious Revival
+1 Pact of Negation
+1 Alrund's Epiphany
+1 Capture of Jingzhou
+1 Green Sun's Zenith
+1 Merchant Scroll
+1 Personal Tutor
+1 Scale Up
+1 Temporal Manipulation
+1 Time Warp
+1 Triumph of the Hordes
+1 Beastmaster Ascension
+1 Carpet of Flowers
+1 Druids' Repository
+1 Exploration
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Rhystic Study
+1 Ancient Tomb
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Boseiju, Who Shelters All
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Tower
+1 Dryad Arbor
+1 Flooded Grove
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hinterland Harbor
+7 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Tropical Island
+1 Waterlogged Grove
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Edric, Spymaster of Trest

@@ -1,0 +1,92 @@
+1 Adaptive Automaton
+1 Axgard Cavalry
+1 Barkform Harvester
+1 Bloodfire Dwarf
+1 Dwarven Armorer
+1 Dwarven Blastminer
+1 Dwarven Bloodboiler
+1 Dwarven Grunt
+1 Dwarven Miner
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Gogo, Mysterious Mime
+1 Knuckles the Echidna
+1 Liberated Dwarf
+1 Magda, the Hoardmaster
+1 Metallic Mimic
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Roaming Throne
+1 Simian Spirit Guide
+1 Spark Mage
+1 Twinshot Sniper
+1 Universal Automaton
+1 Xorn
+1 Chalice of the Void
+1 Chrome Mox
+1 Clock of Omens
+1 Clown Car
+1 Cursed Mirror
+1 Damping Sphere
+1 Expedition Map
+1 Firdoch Core
+1 Flywheel Racer
+1 God-Pharaoh's Statue
+1 Lifecraft Engine
+1 Liquimetal Torque
+1 Lotus Petal
+1 Magmatic Galleon
+1 Mana Vault
+1 Maskwood Nexus
+1 Meteor Sword
+1 Mobile Garrison
+1 Mox Opal
+1 Nexus of Becoming
+1 Portal to Phyrexia
+1 Relic of Legends
+1 Sculpting Steel
+1 Sol Ring
+1 Sphere of Resistance
+1 Springleaf Drum
+1 Tangle Wire
+1 The One Ring
+1 Torpor Orb
+1 Trinisphere
+1 Vexing Bauble
+1 Bottle-Cap Blast
+1 Chaos Warp
+1 Deflecting Swat
+1 Galvanic Blast
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Return the Favor
+1 Sudden Shock
+1 Untimely Malfunction
+1 Jeska's Will
+1 Lithomantic Barrage
+1 Shatterskull Smashing
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Traitors
+1 Dwarven Mine
+1 Gemstone Caverns
+1 Great Furnace
+1 Holdout Settlement
+1 Homeward Path
+1 Kavaron, Memorial World
+1 Mishra's Workshop
+10 Mountain
+1 Mutavault
+1 Scalding Tarn
+1 Survivors' Encampment
+1 Talon Gates of Madara
+1 Treasure Vault
+1 Wooded Foothills
+Sideboard
+1 Magda, Brazen Outlaw

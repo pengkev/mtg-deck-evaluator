@@ -1,0 +1,97 @@
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Ranger-Captain of Eos
+1 Aven Mindcensor
+1 Spirit of the Labyrinth
+1 Bomat Courier
+1 Simian Spirit Guide
+1 Lena, Selfless Champion
+1 Archon of Emeria
+1 Rograkh, Son of Rohgahh
+1 Rionya, Fire Dancer
+1 Blade Historian
+1 Imperial Recruiter
+1 Solitude
+1 Archivist of Oghma
+1 Slicer, Hired Muscle
+1 Myrel, Shield of Argive
+1 Remorseful Cleric
+1 Soulless Jailer
+1 Myr Convert
+1 Boromir, Warden of the Tower
+1 Goblin Cratermaker
+1 Combat Celebrant
+1 Dauntless Dismantler
+1 Angrath's Marauders
+1 Loyal Apprentice
+1 Grand Abolisher
+1 Phelia, Exuberant Shepherd
+1 Recruiter of the Guard
+1 Professional Face-Breaker
+1 Giver of Runes
+1 Ethersworn Canonist
+1 Benevolent Bodyguard
+1 Cathar Commando
+1 Ornithopter
+1 Eidolon of Rhetoric
+1 Signal Pest
+1 Drannith Magistrate
+1 Skyclave Apparition
+1 Greymond, Avacyn's Stalwart
+1 Magus of the Moon
+1 Sanctum Prelate
+1 Ragavan, Nimble Pilferer
+1 Mother of Runes
+1 Goblin Rabblemaster
+1 Serra Ascendant
+1 Witch Enchanter
+1 Esper Sentinel
+1 Ocelot Pride
+1 Skrelv, Defector Mite
+1 Voice of Victory
+1 Ornithopter of Paradise
+1 Chrome Mox
+1 Mana Vault
+1 Arcane Signet
+1 Sol Ring
+1 Mox Opal
+1 Talisman of Conviction
+1 Lotus Petal
+1 Silence
+1 Abrade
+1 Swords to Plowshares
+1 Pyroblast
+1 Orim's Chant
+1 Flare of Fortitude
+1 Path to Exile
+1 Deflecting Swat
+1 Touch the Spirit Realm
+1 High Noon
+1 Deafening Silence
+1 Homeward Path
+1 Scalding Tarn
+1 Marsh Flats
+1 Arid Mesa
+1 Blinkmoth Nexus
+1 Windswept Heath
+1 Sacred Foundry
+1 Ancient Den
+1 Spectator Seating
+1 Cavern of Souls
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Sokenzan, Crucible of Defiance
+1 Battlefield Forge
+1 Great Furnace
+1 Needleverge Pathway
+1 War Room
+1 Wooded Foothills
+1 Arena of Glory
+1 Sunbillow Verge
+1 Command Tower
+1 Command Beacon
+1 Mountain
+1 Eiganjo, Seat of the Empire
+5 Plains
+Sideboard
+1 Winota, Joiner of Forces

@@ -1,0 +1,93 @@
+1 Pact of Negation
+1 Mana Drain
+1 Mystical Tutor
+1 Intuition
+1 Miscast
+1 Sink into Stupor
+1 Strix Serenade
+1 Mindbreak Trap
+1 Fierce Guardianship
+1 Cursed Totem
+1 Pyroblast
+1 Snap
+1 Force of Negation
+1 Misdirection
+1 Force of Will
+1 Cyclonic Rift
+1 Mental Misstep
+1 Delay
+1 Muddle the Mixture
+1 Chain of Vapor
+1 Dispel
+1 Deflecting Swat
+1 Lotus Petal
+1 Grim Monolith
+1 Fellwar Stone
+1 The One Ring
+1 Counterspell
+1 Sensei's Divining Top
+1 Grafdigger's Cage
+1 Mox Opal
+1 Mox Diamond
+1 Chrome Mox
+1 Talisman of Creativity
+1 Scroll Rack
+1 Mana Vault
+1 Isochron Scepter
+1 Izzet Signet
+1 Arcane Signet
+1 Sol Ring
+1 Dress Down
+1 Narset, Parter of Veils
+1 Ophidian Eye
+1 Red Elemental Blast
+1 Flusterstorm
+1 Swan Song
+1 Pongify
+1 Brainstorm
+1 An Offer You Can't Refuse
+1 Transmute Artifact
+1 Timetwister
+1 Wheel of Fortune
+1 Gamble
+1 Gitaxian Probe
+1 Ponder
+1 Fabricate
+1 Rolling Earthquake
+1 Merchant Scroll
+1 Windfall
+1 Solve the Equation
+1 Mystic Remora
+1 Curiosity
+1 Dramatic Reversal
+1 Rhystic Study
+1 Phyrexian Metamorph
+1 Glint-Horn Buccaneer
+1 Spellseeker
+1 Tandem Lookout
+1 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
+1 Gilded Drake
+1 Volcanic Island
+1 Gemstone Caverns
+1 Forbidden Orchard
+1 Ancient Tomb
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Steam Vents
+1 Command Tower
+1 Fiery Islet
+1 Prismatic Vista
+1 Mana Confluence
+1 Shivan Reef
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Training Center
+1 City of Brass
+2 Mountain
+8 Island
+Sideboard
+1 Niv-Mizzet, Parun

@@ -1,0 +1,73 @@
+1 Archon of Sun's Grace
+1 Ashiok's Reaper
+1 Astarion, the Decadent
+1 Danitha Capashen, Paragon
+1 Hateful Eidolon
+1 Heliod's Pilgrim
+1 Killian, Ink Duelist
+1 Light-Paws, Emperor's Voice
+1 Lurrus of the Dream-Den
+1 Mesa Enchantress
+1 Spellbook Vendor
+1 Sram, Senior Edificer
+1 Starfield Mystic
+1 Starnheim Courser
+1 Sun Titan
+1 Transcendent Envoy
+1 Arcane Signet
+1 Fellwar Stone
+1 Orzhov Signet
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Well of Lost Dreams
+1 Mortify
+1 Not Dead After All
+1 Path to Exile
+1 Stroke of Midnight
+1 Night's Whisper
+1 Open the Armory
+1 Read the Bones
+1 Three Dreams
+1 Winds of Rath
+1 All That Glitters
+1 Benevolent Blessing
+1 Chains of Custody
+1 Cooped Up
+1 Darksteel Mutation
+1 Demonic Embrace
+1 Ethereal Armor
+1 Faith's Fetters
+1 Grisly Transformation
+1 Kaya's Ghostform
+1 Light of Promise
+1 Lord Skitter's Blessing
+1 Lunar Convocation
+1 Martial Impetus
+1 Minimus Containment
+1 Minion's Return
+1 Nurgle's Rot
+1 Ossification
+1 Parasitic Impetus
+1 Planar Disruption
+1 Realmbreaker's Grasp
+1 Reprobation
+1 Rune of Mortality
+1 Sage's Reverie
+1 Sanguine Bond
+1 Scourgemark
+1 Screams from Within
+1 Sentinel's Eyes
+1 Sigil of the Empty Throne
+1 Songbirds' Blessing
+1 Spirit Link
+1 Stab Wound
+1 Unholy Indenture
+1 Vow of Malice
+1 Vow of Torment
+1 Evolving Wilds
+1 Exotic Orchard
+17 Plains
+1 Shineshadow Snarl
+13 Swamp
+Sideboard
+1 Eriette of the Charmed Apple

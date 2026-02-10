@@ -1,0 +1,101 @@
+1 Witch Enchanter
+1 Disciple of Freyalise
+1 Wargate
+1 Sylvan Scrying
+1 Search for Glory
+1 Neoform
+1 Mind's Desire
+1 Last March of the Ents
+1 Genesis Storm
+1 Finale of Devastation
+1 Eureka
+1 Eldritch Evolution
+1 Kiora, Behemoth Beckoner
+1 Wooded Foothills
+1 Windswept Heath
+1 Verdant Catacombs
+1 Tundra
+1 Tropical Island
+1 Temple Garden
+1 Talon Gates of Madara
+1 Scalding Tarn
+1 Savannah
+1 Rejuvenating Springs
+1 Polluted Delta
+1 Plains
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Mana Confluence
+1 Island
+1 Hallowed Fountain
+1 Gemstone Caverns
+1 Gaea's Cradle
+1 Forest
+1 Flooded Strand
+1 Exotic Orchard
+1 Command Tower
+1 City of Brass
+1 Breeding Pool
+1 Boseiju, Who Endures
+1 Arid Mesa
+1 Ancient Tomb
+1 Once Upon a Time
+1 Mystical Tutor
+1 Legolas's Quick Reflexes
+1 Fierce Guardianship
+1 Enlightened Tutor
+1 Crop Rotation
+1 Colossal Skyturtle
+1 Wild Growth
+1 Utopia Sprawl
+1 Food Chain
+1 Woodland Bellower
+1 Torsten, Founder of Benalia
+1 Tishana, Voice of Thunder
+1 Subtlety
+1 Stunt Double
+1 Starfield Vocalist
+1 Sowing Mycospawn
+1 Radagast the Brown
+1 Quantum Riddler
+1 Prime Speaker Zegana
+1 Phantasmal Image
+1 Peregrine Drake
+1 Palinchron
+1 Nulldrifter
+1 Noble Hierarch
+1 Myrel, Shield of Argive
+1 Mulldrifter
+1 Misthollow Griffin
+1 Llanowar Elves
+1 Kinnan, Bonder Prodigy
+1 Keruga, the Macrosage
+1 Hullbreaker Horror
+1 High Fae Trickster
+1 Great Whale
+1 Ghalta, Stampede Tyrant
+1 Fyndhorn Elves
+1 Flesh Duplicate
+1 Fierce Empath
+1 Felidar Guardian
+1 Faeburrow Elder
+1 Eternal Witness
+1 Emiel the Blessed
+1 Elvish Mystic
+1 Delighted Halfling
+1 Deadeye Navigator
+1 Cloud of Faeries
+1 Clever Impersonator
+1 Chulane, Teller of Tales
+1 Bramble Sovereign
+1 Bloom Tender
+1 Birds of Paradise
+1 Avatar of Growth
+1 Avacyn's Pilgrim
+1 Apex Devastator
+1 Altered Ego
+1 Walking Ballista
+1 Phyrexian Metamorph
+1 Sol Ring
+Sideboard
+1 Helga, Skittish Seer

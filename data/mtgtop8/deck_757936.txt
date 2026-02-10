@@ -1,0 +1,97 @@
+1 Aclazotz, Deepest Betrayal
+1 Anger
+1 Baleful Strix
+1 Cormela, Glamour Thief
+1 Decadent Dragon
+1 Ertai Resurrected
+1 Faerie Mastermind
+1 Kefka, Dancing Mad
+1 Kess, Dissident Mage
+1 Molten Primordial
+1 Overlord of the Boilerbilges
+1 Phantasmal Image
+1 Ragavan, Nimble Pilferer
+1 Sepulchral Primordial
+1 Sheoldred
+1 Solemn Simulacrum
+1 Troll of Khazad-dum
+1 Wonder
+1 Arcane Signet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Lightning Greaves
+1 Palantir of Orthanc
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 An Offer You Can't Refuse
+1 Big Score
+1 Brainstorm
+1 Counterspell
+1 Dark Ritual
+1 Dig Through Time
+1 Essence Flux
+1 Flame of Anor
+1 Frantic Search
+1 Kolaghan's Command
+1 Negate
+1 Not Dead After All
+1 Opt
+1 Prismari Command
+1 Spell Pierce
+1 Strix Serenade
+1 Terminate
+1 Wash Away
+1 Withering Torment
+1 Afterlife from the Loam
+1 Blasphemous Act
+1 Cruel Ultimatum
+1 Feed the Swarm
+1 Mutinous Massacre
+1 Reanimate
+1 Seize the Spotlight
+1 Singularity Rupture
+1 Animate Dead
+1 Necromancy
+1 Telepathy
+1 The Eldest Reborn
+1 Waste Not
+1 Bloodstained Mire
+1 Canyon Slough
+1 Cascade Bluffs
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Ferrous Lake
+1 Fetid Pools
+1 Fiery Islet
+1 Flooded Strand
+1 Foreboding Ruins
+1 Frostboil Snarl
+1 Gloomlake Verge
+3 Island
+1 Luxury Suite
+1 Morphic Pool
+2 Mountain
+1 Path of Ancestry
+1 Seething Landscape
+1 Shadowblood Ridge
+1 Shivan Reef
+1 Smoldering Marsh
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sunken Hollow
+2 Swamp
+1 Temple of Epiphany
+1 Temple of Malice
+1 Underground River
+1 Watery Grave
+1 Wooded Foothills
+1 Xander's Lounge
+Sideboard
+1 Kefka, Court Mage

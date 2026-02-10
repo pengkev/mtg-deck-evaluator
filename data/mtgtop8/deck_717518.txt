@@ -1,0 +1,90 @@
+1 Fathom Mage
+1 Winding Constrictor
+1 Syr Konrad, the Grim
+1 Feral Ghoul
+1 Agent Frank Horrigan
+1 Hancock, Ghoulish Mayor
+1 Bighorner Rancher
+1 Raul, Trouble Shooter
+1 Bloatfly Swarm
+1 Harold and Bob, First Numens
+1 Vexing Radgull
+1 Glowing One
+1 Marcus, Mutant Mayor
+1 Infesting Radroach
+1 Strong, the Brutish Thespian
+1 Cathedral Acolyte
+1 Rampaging Yao Guai
+1 Screeching Scorchbeast
+1 Tato Farmer
+1 Watchful Radstag
+1 Nightkin Ambusher
+1 Mirelurk Queen
+1 Corpsejack Menace
+1 Basking Broodscale
+1 Dreamtide Whale
+1 Selvala, Heart of the Wilds
+1 The Master, Transcendent
+1 Lily Bowen, Raging Grandma
+1 Talisman of Dominance
+1 Sol Ring
+1 Golgari Signet
+1 Arcane Signet
+1 Recon Craft Theta
+1 Nuka-Nuke Launcher
+1 Contagion Clasp
+1 Power Fist
+1 Everflowing Chalice
+1 Talisman of Resilience
+1 Hedge Shredder
+1 Talisman of Curiosity
+1 Beast Within
+1 Counterspell
+1 Return to Nature
+1 Krosan Grip
+1 Mutational Advantage
+1 Atomize
+1 Contaminated Drink
+1 Inspiring Call
+1 Assassin's Trophy
+1 Toxic Deluge
+1 Rampant Growth
+1 Farseek
+1 Nuclear Fallout
+1 Cultivate
+1 Guardian Project
+1 Psychic Corrosion
+1 Hardened Scales
+1 Vault 87: Forced Evolution
+1 Vault 12: The Necropolis
+1 Branching Evolution
+1 Garruk's Uprising
+1 Struggle for Project Purity
+1 Cavern of Souls
+1 Exotic Orchard
+1 Mortuary Mire
+1 Command Tower
+1 Ash Barrens
+1 Mariposa Military Base
+1 Tainted Isle
+1 Nesting Grounds
+1 Tainted Wood
+1 Viridescent Bog
+1 Temple of Malady
+1 Hinterland Harbor
+1 Overflowing Basin
+1 Path of Ancestry
+1 Drowned Catacomb
+1 Temple of Deceit
+1 Evolving Wilds
+1 Opulent Palace
+1 Darkwater Catacombs
+1 Fetid Pools
+1 Sunken Hollow
+1 Woodland Cemetery
+1 Temple of Mystery
+5 Forest
+5 Swamp
+4 Island
+Sideboard
+1 The Wise Mothman

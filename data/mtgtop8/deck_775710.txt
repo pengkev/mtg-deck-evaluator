@@ -1,0 +1,72 @@
+1 Arvinox, the Mind Flail
+1 Brainstealer Dragon
+1 Changeling Outcast
+1 Crypt Ghast
+1 Custodi Lich
+1 Dauthi Horror
+1 Dauthi Slayer
+1 Doomsday Excruciator
+1 Drana, Liberator of Malakir
+1 Elder Brain
+1 Etherium Pteramander
+1 Faerie Dreamthief
+1 Gix, Yawgmoth Praetor
+1 Gray Merchant of Asphodel
+1 Gurmag Swiftwing
+1 Hypnotic Specter
+1 Lobelia Sackville-Baggins
+1 Mari, the Killing Quill
+1 Marionette Apprentice
+1 Marionette Master
+1 Mastermind Plum
+1 Mirkwood Bats
+1 Nashi, Moon Sage's Scion
+1 Nether Traitor
+1 Nighthawk Scavenger
+1 Orochi Soul-Reaver
+1 Rankle, Master of Pranks
+1 Scrawling Crawler
+1 Shakedown Heavy
+1 Starscream, Power Hungry
+1 Thieving Amalgam
+1 Thieving Varmint
+1 Tinybones, the Pickpocket
+1 Tonberry
+1 Tormented Soul
+1 Unstoppable Slasher
+1 Vashta Nerada
+1 Vault Skirge
+1 Zenith Chronicler
+1 Dowsing Dagger
+1 Fellwar Stone
+1 Hedron Archive
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Vorpal Sword
+1 Wayfarer's Bauble
+1 Archenemy's Charm
+1 Bile Blight
+1 Consumed by Greed
+1 Consuming Corruption
+1 Defile
+1 Doom Blade
+1 Flare of Malice
+1 Infernal Grasp
+1 Sudden Spoiling
+1 Blood Money
+1 Breach the Multiverse
+1 Come Back Wrong
+1 Cruelclaw's Heist
+1 Mutilate
+1 Scheming Symmetry
+1 Zero Point Ballad
+1 Phyrexian Arena
+1 Arid Archway
+1 Cabal Stronghold
+1 Muraganda Raceway
+30 Swamp
+1 Temple of the False God
+1 Witch's Cottage
+Sideboard
+1 Gonti, Night Minister

@@ -1,0 +1,98 @@
+1 Undergrowth Recon
+1 The Meathook Massacre
+1 Grave Pact
+1 Smothering Tithe
+1 Felidar Retreat
+1 Skrelv's Hive
+1 Exploration
+1 Bitterblossom
+1 Black Market Connections
+1 Agadeem's Awakening
+1 Squirming Emergence
+1 Rise of the Witch-King
+1 Victimize
+1 Cultivate
+1 Titania's Command
+1 Farseek
+1 Reanimate
+1 Damn
+1 Three Visits
+1 Bala Ged Recovery
+1 Nature's Lore
+1 Fell the Profane
+1 Revitalizing Repast
+1 Rowan's Grim Search
+1 Stroke of Midnight
+1 Generous Gift
+1 Anguished Unmaking
+1 Heroic Intervention
+1 Hagra Mauling
+1 Clever Concealment
+1 Tear Asunder
+1 Teferi's Protection
+1 Deadly Dispute
+1 Reckoner's Bargain
+1 Crop Rotation
+1 Assassin's Trophy
+1 Beast Within
+1 The One Ring
+1 Conduit of Worlds
+1 Crucible of Worlds
+1 Scute Swarm
+1 The Necrobloom
+1 Dryad of the Ilysian Grove
+1 Mirkwood Bats
+1 Orcish Bowmasters
+1 Avenger of Zendikar
+1 Tireless Provisioner
+1 Glissa Sunslayer
+1 Vraan, Executioner Thane
+1 Titania, Nature's Force
+1 Perennial Behemoth
+1 Loran of the Third Path
+1 Elas il-Kor, Sadistic Pilgrim
+1 Braids, Arisen Nightmare
+1 Eternal Witness
+1 Augur of Autumn
+1 Jadar, Ghoulcaller of Nephalia
+1 Ophiomancer
+1 Ramunap Excavator
+1 Ancient Greenwarden
+1 Lotus Cobra
+1 Bloodghast
+1 Birds of Paradise
+1 Elves of Deep Shadow
+1 Dark Confidant
+1 Cruel Celebrant
+1 Zulaport Cutthroat
+1 Fabled Passage
+1 Command Tower
+1 Murmuring Bosk
+1 City of Brass
+1 Takenuma, Abandoned Mire
+1 Boseiju, Who Endures
+1 Marsh Flats
+1 Command Beacon
+1 Horizon Canopy
+1 Wasteland
+1 Ancient Tomb
+1 Windswept Heath
+1 Indatha Triome
+1 Savannah
+1 Scrubland
+1 Bayou
+1 Temple Garden
+1 Mana Confluence
+1 Silent Clearing
+1 Prismatic Vista
+1 Nurturing Peatland
+1 Verdant Catacombs
+1 Overgrown Tomb
+1 Godless Shrine
+1 Field of the Dead
+1 Strip Mine
+2 Plains
+2 Forest
+2 Swamp
+Sideboard
+1 Thalia and The Gitrog Monster

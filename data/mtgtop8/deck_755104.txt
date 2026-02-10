@@ -1,0 +1,100 @@
+1 Corridor Monitor
+1 Filigree Sages
+1 Iron Man, Titan of Innovation
+1 Kuldotha Forgemaster
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Spellskite
+1 Transit Mage
+1 Treasure Mage
+1 Twinshot Sniper
+1 Vizier of Tumbling Sands
+1 Basalt Monolith
+1 Chromatic Orrery
+1 Chrome Mox
+1 Coveted Jewel
+1 Eriette's Tempting Apple
+1 Gilded Lotus
+1 Grim Monolith
+1 Imposter Mech
+1 Insight Engine
+1 Lithoform Engine
+1 Lotus Petal
+1 Machine God's Effigy
+1 Magewright's Stone
+1 Mana Vault
+1 Manifold Key
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Patriar's Seal
+1 Repurposing Bay
+1 Rings of Brighthearth
+1 Sculpting Steel
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 The Endstone
+1 The One Ring
+1 Thousand-Year Elixir
+1 Thran Dynamo
+1 Throne of Eldraine
+1 Unwinding Clock
+1 Voltaic Key
+1 An Offer You Can't Refuse
+1 Cerulean Wisps
+1 Chain of Vapor
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dramatic Reversal
+1 Dream's Grip
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Into the Flood Maw
+1 Magic Damper
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Scour for Scrap
+1 Shore Up
+1 Sink into Stupor
+1 Strix Serenade
+1 Swan Song
+1 Twiddle
+1 Fabricate
+1 Gamble
+1 Reckless Handling
+1 Transmute Artifact
+1 Copy Artifact
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Arid Mesa
+1 City of Brass
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Inventors' Fair
+2 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverglide Pathway
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Spirebluff Canal
+1 Starting Town
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Jhoira, Ageless Innovator

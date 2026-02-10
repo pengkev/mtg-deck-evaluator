@@ -1,0 +1,101 @@
+1 Phyrexian Metamorph
+1 Walking Ballista
+1 Etherium Sculptor
+1 Goblin Welder
+1 Foundry Inspector
+1 Goblin Engineer
+1 Ragavan, Nimble Pilferer
+1 Enthusiastic Mechanaut
+1 Emry, Lurker of the Loch
+1 Jhoira, Weatherlight Captain
+1 Faerie Mastermind
+1 Urza, Lord High Artificer
+1 Forensic Gadgeteer
+1 Kappa Cannoneer
+1 Glaring Fleshraker
+1 Junk Diver
+1 Thought Monitor
+1 Sai, Master Thopterist
+1 Solemn Simulacrum
+1 Aetherflux Reservoir
+1 Chrome Mox
+1 Defense Grid
+1 Grim Monolith
+1 Mana Vault
+1 Mox Opal
+1 Pithing Needle
+1 Chromatic Star
+1 Mox Diamond
+1 Strionic Resonator
+1 Manifold Key
+1 Sculpting Steel
+1 Damping Sphere
+1 The One Ring
+1 Basalt Monolith
+1 Arcane Signet
+1 Soul-Guide Lantern
+1 Mystic Forge
+1 Vexing Bauble
+1 Crystal Skull, Isu Spyglass
+1 Thought Vessel
+1 Sensei's Divining Top
+1 Grinding Station
+1 Sol Ring
+1 Cyclonic Rift
+1 Pact of Negation
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Force of Will
+1 Muddle the Mixture
+1 Mana Drain
+1 Resculpt
+1 Lightning Bolt
+1 Force of Negation
+1 Counterspell
+1 Mystical Tutor
+1 Borne Upon a Wind
+1 Swan Song
+1 Flusterstorm
+1 Consign to Memory
+1 Pongify
+1 Rapid Hybridization
+1 Brain Freeze
+1 Galvanic Blast
+1 Whir of Invention
+1 Fabricate
+1 Thoughtcast
+1 Gamble
+1 Jeska's Will
+1 Mystic Remora
+1 Underworld Breach
+1 Rhystic Study
+1 Arid Mesa
+1 Misty Rainforest
+1 Scalding Tarn
+1 Steam Vents
+1 Volcanic Island
+1 Bloodstained Mire
+1 Ancient Tomb
+1 Training Center
+1 Great Furnace
+1 Exotic Orchard
+1 Fiery Islet
+1 Command Tower
+1 Island
+1 Spire of Industry
+1 Thundering Falls
+1 Spirebluff Canal
+1 Archway of Innovation
+1 Flooded Strand
+1 Cascade Bluffs
+1 Reliquary Tower
+1 Inventors' Fair
+1 Mountain
+1 Seat of the Synod
+1 Stormcarved Coast
+1 Treasure Vault
+1 Academy Ruins
+1 Shivan Reef
+1 Sulfur Falls
+Sideboard
+1 Iron Man, Titan of Innovation

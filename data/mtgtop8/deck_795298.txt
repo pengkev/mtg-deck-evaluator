@@ -1,0 +1,100 @@
+1 Warren Soultrader
+1 Loran of the Third Path
+1 Samwise the Stouthearted
+1 Skrelv, Defector Mite
+1 Boromir, Warden of the Tower
+2 Nazgul
+1 Recruiter of the Guard
+1 Orcish Bowmasters
+1 Elas il-Kor, Sadistic Pilgrim
+1 Lotho, Corrupt Shirriff
+1 Kambal, Profiteering Mayor
+1 Sephiroth, Fabled SOLDIER
+1 Umbral Collar Zealot
+1 Blood Artist
+1 Tataru Taru
+1 Voice of Victory
+1 Ranger-Captain of Eos
+1 Gollum, Patient Plotter
+1 Solitude
+1 Archivist of Oghma
+1 Grand Abolisher
+1 Witch Enchanter
+1 Shambling Ghast
+1 Viscera Seer
+1 Esper Sentinel
+1 Phyrexian Altar
+1 Wishclaw Talisman
+1 Sol Ring
+1 Lotus Petal
+1 Chrome Mox
+1 Mox Diamond
+1 Grim Monolith
+1 Relic of Legends
+1 Blasting Station
+1 Vexing Bauble
+1 Mox Opal
+1 Mana Vault
+1 Voltaic Key
+1 The One Ring
+1 Skullclamp
+1 Mox Amber
+1 Honor-Worn Shaku
+1 Culling the Weak
+1 Enlightened Tutor
+1 Rain of Filth
+1 March of Otherworldly Light
+1 Tainted Pact
+1 Fell the Profane
+1 Snuff Out
+1 Orim's Chant
+1 Cabal Ritual
+1 Swords to Plowshares
+1 Village Rites
+1 Corrupted Conviction
+1 Deadly Dispute
+1 Calamity's Wake
+1 Nasty End
+1 Deadly Rollick
+1 Scout's Warning
+1 Flare of Fortitude
+1 Silence
+1 Dark Ritual
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Imperial Seal
+1 Diabolic Intent
+1 Sevinne's Reclamation
+1 Unearth
+1 Search for Glory
+1 The Meathook Massacre
+1 Bleachbone Verge
+1 City of Brass
+1 Verdant Catacombs
+1 Mana Confluence
+1 Takenuma, Abandoned Mire
+1 Ancient Tomb
+1 Godless Shrine
+1 Snow-Covered Plains
+1 Spymaster's Vault
+1 Gemstone Caverns
+1 Marsh Flats
+1 Scrubland
+1 Arid Mesa
+1 Bloodstained Mire
+1 Shadowy Backstreet
+1 Phyrexian Tower
+1 Snow-Covered Swamp
+1 Vault of Whispers
+1 Cavern of Souls
+1 Eiganjo, Seat of the Empire
+1 Fetid Heath
+1 Silent Clearing
+1 Caves of Koilos
+1 Cabal Pit
+1 Command Tower
+1 Emergence Zone
+1 Ancient Den
+1 Vault of Champions
+Sideboard
+1 Ratadrabik of Urborg

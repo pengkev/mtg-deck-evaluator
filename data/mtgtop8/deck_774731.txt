@@ -1,0 +1,86 @@
+1 Ashling, Flame Dancer
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 Harmonic Prodigy
+1 Mayhem Devil
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Storm-Kiln Artist
+1 Stormsplitter
+1 Tavern Scoundrel
+1 Arcane Signet
+1 Ashnod's Altar
+1 Fellwar Stone
+1 Krark's Thumb
+1 Rakdos Signet
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Big Score
+1 Cabal Ritual
+1 Chaos Warp
+1 Culling the Weak
+1 Curtains' Call
+1 Dark Ritual
+1 Deadly Dispute
+1 Deadly Rollick
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Demand Answers
+1 Entomb
+1 Fell the Profane
+1 Flare of Duplication
+1 Flare of Malice
+1 Force of Despair
+1 Go for the Throat
+1 Lightning Bolt
+1 Lightning Strike
+1 Seething Song
+1 Surgical Extraction
+1 Thrill of Possibility
+1 Tragic Slip
+1 Village Rites
+1 Blasphemous Act
+1 Bloodsoaked Insight
+1 Cathartic Reunion
+1 Cruelclaw's Heist
+1 Dark Petition
+1 Dread Return
+1 Feed the Swarm
+1 Gamble
+1 Mana Geyser
+1 Mizzix's Mastery
+1 Persist
+1 Reanimate
+1 Rite of Flame
+1 Seize the Spotlight
+1 Syphon Mind
+1 Torment of Hailfire
+1 Victimize
+1 Powerbalance
+1 Vraska, Betrayal's Sting
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Foreboding Ruins
+1 Haunted Ridge
+1 Luxury Suite
+1 Mines of Moria
+10 Mountain
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfurous Springs
+1 Survivors' Encampment
+7 Swamp
+1 Takenuma, Abandoned Mire
+Sideboard
+1 Krark, the Thumbless
+1 Tevesh Szat, Doom of Fools

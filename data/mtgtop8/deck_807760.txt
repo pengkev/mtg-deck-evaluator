@@ -1,73 +1,73 @@
-1 Angrath's Marauders
-1 Aven Mindcensor
-1 Blade Historian
-1 Cathar Commando
-1 Combat Celebrant
-1 Dauntless Dismantler
-1 Dazzling Angel
-1 Fleeting Effigy
-1 Gingerbrute
-1 Grand Abolisher
-1 Haliya, Guided by Light
-1 Hearthborn Battler
-1 Hope of Ghirapur
-1 Kiki-Jiki, Mirror Breaker
-1 Knight of the White Orchid
-1 Legion Warboss
-1 Leonin Warleader
-1 Loyal Apprentice
-1 Mentor of the Meek
-1 Odric, Master Tactician
-1 Ornithopter
-1 Ornithopter of Paradise
-1 Phoenix Chick
-1 Raccoon Rallier
-1 Rionya, Fire Dancer
-1 Scytheclaw Raptor
-1 Searslicer Goblin
-1 Solemn Simulacrum
-1 Stadium Headliner
-1 Thalia, Heretic Cathar
-1 Thalia's Lancers
-1 Thalia's Lieutenant
-1 The Jolly Balloon Man
-1 Tithe Taker
-1 White Orchid Phantom
-1 Windborn Muse
-1 Zealous Conscripts
-1 Arcane Signet
-1 Archaeomancer's Map
-1 Boros Signet
-1 Fellwar Stone
-1 Lightning Greaves
-1 Silent Gravestone
-1 Sol Ring
-1 Thorn of Amethyst
-1 Vexing Bauble
-1 Chaos Warp
-1 Path to Exile
-1 Surge of Salvation
-1 Swords to Plowshares
-1 Thraben Charm
-1 Thrill of Possibility
-1 Bond of Discipline
-1 Burn at the Stake
-1 Clowning Around
-1 Faithless Looting
-1 Trial of Agony
-1 Blind Obedience
-1 Impact Tremors
-1 Pain for All
-1 Raid Bombardment
-1 Shared Animosity
-1 Windcrag Siege
-1 Battlefield Forge
-1 Boros Garrison
-1 Clifftop Retreat
-1 Command Tower
-1 Furycalm Snarl
-15 Mountain
-15 Plains
-1 Wind-Scarred Crag
-Sideboard
-1 Winota, Joiner of Forces
+1 Angrath's Marauders
+1 Aven Mindcensor
+1 Blade Historian
+1 Cathar Commando
+1 Combat Celebrant
+1 Dauntless Dismantler
+1 Dazzling Angel
+1 Fleeting Effigy
+1 Gingerbrute
+1 Grand Abolisher
+1 Haliya, Guided by Light
+1 Hearthborn Battler
+1 Hope of Ghirapur
+1 Kiki-Jiki, Mirror Breaker
+1 Knight of the White Orchid
+1 Legion Warboss
+1 Leonin Warleader
+1 Loyal Apprentice
+1 Mentor of the Meek
+1 Odric, Master Tactician
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Phoenix Chick
+1 Raccoon Rallier
+1 Rionya, Fire Dancer
+1 Scytheclaw Raptor
+1 Searslicer Goblin
+1 Solemn Simulacrum
+1 Stadium Headliner
+1 Thalia, Heretic Cathar
+1 Thalia's Lancers
+1 Thalia's Lieutenant
+1 The Jolly Balloon Man
+1 Tithe Taker
+1 White Orchid Phantom
+1 Windborn Muse
+1 Zealous Conscripts
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Boros Signet
+1 Fellwar Stone
+1 Lightning Greaves
+1 Silent Gravestone
+1 Sol Ring
+1 Thorn of Amethyst
+1 Vexing Bauble
+1 Chaos Warp
+1 Path to Exile
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Thraben Charm
+1 Thrill of Possibility
+1 Bond of Discipline
+1 Burn at the Stake
+1 Clowning Around
+1 Faithless Looting
+1 Trial of Agony
+1 Blind Obedience
+1 Impact Tremors
+1 Pain for All
+1 Raid Bombardment
+1 Shared Animosity
+1 Windcrag Siege
+1 Battlefield Forge
+1 Boros Garrison
+1 Clifftop Retreat
+1 Command Tower
+1 Furycalm Snarl
+15 Mountain
+15 Plains
+1 Wind-Scarred Crag
+Sideboard
+1 Winota, Joiner of Forces

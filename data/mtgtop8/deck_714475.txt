@@ -1,0 +1,82 @@
+1 Walking Ballista
+1 Glen Elendra Archmage
+1 Spellskite
+1 Phyrexian Metamorph
+1 Gilded Drake
+1 Thassa's Oracle
+1 Perplexing Chimera
+1 Wandering Archaic
+1 Subtlety
+1 Ledger Shredder
+1 Hullbreaker Horror
+1 Consecrated Sphinx
+1 Roaming Throne
+1 Tidespout Tyrant
+1 Volatile Stormdrake
+1 Harbinger of the Seas
+1 Pollywog Prodigy
+1 Mockingbird
+1 Faerie Mastermind
+1 Grafdigger's Cage
+1 Chrome Mox
+1 Lightning Greaves
+1 Mana Vault
+1 Mox Opal
+1 Unwinding Clock
+1 Mox Diamond
+1 Fellwar Stone
+1 Mox Amber
+1 The One Ring
+1 Agatha's Soul Cauldron
+1 Sol Ring
+1 Arcane Signet
+1 Winged Boots
+1 Trinisphere
+1 Winter Moon
+1 Lotus Petal
+1 Miscast
+1 Delay
+1 Spell Snare
+1 Force of Negation
+1 Dispel
+1 Cyclonic Rift
+1 Misdirection
+1 Pact of Negation
+1 Mana Drain
+1 Swan Song
+1 Counterspell
+1 Whir of Invention
+1 Resculpt
+1 March of Swirling Mist
+1 Force of Will
+1 Mystical Tutor
+1 Fierce Guardianship
+1 Mindbreak Trap
+1 Commandeer
+1 Strix Serenade
+1 Sink into Stupor
+1 Pongify
+1 Chain of Vapor
+1 Mental Misstep
+1 An Offer You Can't Refuse
+1 Flusterstorm
+1 Transmute Artifact
+1 Fabricate
+1 Arcane Heist
+1 Windfall
+1 Rhystic Study
+1 Back to Basics
+1 Counterbalance
+1 Urza's Saga
+1 Mystic Remora
+1 Amphibian Downpour
+1 Mystic Sanctuary
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Homeward Path
+1 Cavern of Souls
+1 Minamo, School at Water's Edge
+19 Island
+Sideboard
+1 Thada Adel, Acquisitor

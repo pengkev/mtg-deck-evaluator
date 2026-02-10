@@ -1,0 +1,101 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet
+1 Bloodchief Ascension
+1 Bloodstained Mire
+1 Cabal Pit
+1 Cephalid Coliseum
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Counterbalance
+1 Cursed Totem
+1 Cyclonic Rift
+1 Damping Sphere
+1 Dark Ritual
+1 Deadly Rollick
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dimir Signet
+1 Dispel
+1 Dress Down
+1 Drown in the Loch
+1 Exotic Orchard
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gilded Drake
+1 Grafdigger's Cage
+1 Hullbreaker Horror
+1 Imperial Seal
+1 Imposter Mech
+1 Into the Flood Maw
+1 Island
+1 Jeweled Amulet
+1 Ledger Shredder
+1 Leyline of Anticipation
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap
+1 Misdirection
+1 Misty Rainforest
+1 Mnemonic Betrayal
+1 Mockingbird
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Overcharged Amalgam
+1 Pact of Negation
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Pongify
+1 Rhystic Study
+1 Sakashima the Impostor
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Sheoldred, the Apocalypse
+1 Sink into Stupor
+1 Snow-Covered Island
+1 Sol Ring
+1 Spell Snare
+1 Spire of Industry
+1 Strix Serenade
+1 Subtlety
+1 Swan Song
+1 Tainted Pact
+1 Talisman of Dominance
+1 Thassa's Oracle
+1 The One Ring
+1 Timetwister
+1 Tishana's Tidebinder
+1 Toxic Deluge
+1 Trickbind
+1 Undercity Sewers
+1 Underground River
+1 Underground Sea
+1 Valley Floodcaller
+1 Vampiric Tutor
+1 Volatile Stormdrake
+1 Watery Grave
+1 Weathered Runestone
+1 Wishclaw Talisman
+1 Yahenni's Expertise
+Sideboard
+1 Talion, the Kindly Lord

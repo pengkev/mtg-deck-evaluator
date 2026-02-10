@@ -1,0 +1,101 @@
+1 Ad Nauseam
+1 Ancient Tomb
+1 Angel's Grace
+1 Arcane Signet
+1 Arid Mesa
+1 Beseech the Mirror
+1 Bloodstained Mire
+1 Borne Upon a Wind
+1 Cabal Ritual
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Culling the Weak
+1 Dark Ritual
+1 Daze
+1 Deadly Rollick
+1 Demonic Consultation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dramatic Reversal
+1 Emergence Zone
+1 Esper Sentinel
+1 Exotic Orchard
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flare of Fortitude
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Godless Shrine
+1 Grand Abolisher
+1 Grim Monolith
+1 Hallowed Fountain
+1 Imperial Seal
+1 Into the Flood Maw
+1 Jeweled Amulet
+1 Lotho, Corrupt Shirriff
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mnemonic Betrayal
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Necrodominance
+1 Necropotence
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Paradise Mantle
+1 Phyrexian Tower
+1 Polluted Delta
+1 Praetor's Grasp
+1 Rain of Filth
+1 Rhystic Study
+1 Scrubland
+1 Sea of Clouds
+1 Shadowy Backstreet
+1 Silence
+1 Snapcaster Mage
+1 Sol Ring
+1 Spell Pierce
+1 Springleaf Drum
+1 Stock Up
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Talon Gates of Madara
+1 Teferi, Time Raveler
+1 Telepathy
+1 Thassa's Oracle
+1 The One Ring
+1 Tundra
+1 Underground Sea
+1 Vampiric Tutor
+1 Vexing Bauble
+1 Voice of Victory
+1 Watery Grave
+1 Weathered Wayfarer
+1 Windswept Heath
+1 Wishclaw Talisman
+1 Yawgmoth's Will
+Sideboard
+1 Silas Renn, Seeker Adept
+1 Yoshimaru, Ever Faithful

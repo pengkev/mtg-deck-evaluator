@@ -1,0 +1,91 @@
+1 Sunscorched Divide
+1 Sunpetal Grove
+1 Sungrass Prairie
+1 Spire of Industry
+1 Spectator Seating
+1 Slayers' Stronghold
+1 Scavenger Grounds
+1 Sacred Foundry
+1 Rugged Prairie
+1 Rootbound Crag
+6 Plains
+3 Mountain
+1 Mossfire Valley
+1 Jungle Shrine
+1 Game Trail
+1 Furycalm Snarl
+1 Fortified Village
+4 Forest
+1 Fire-Lit Thicket
+1 Exotic Orchard
+1 Command Tower
+1 Clifftop Retreat
+1 Brushland
+1 Battlefield Forge
+1 Sigarda's Aid
+1 Vanquish the Horde
+1 Vandalblast
+1 Unfinished Business
+1 Steelshaper's Gift
+1 Decimate
+1 Cultivate
+1 Untimely Malfunction
+1 Ultimate Magic: Holy
+1 Tibalt's Trickery
+1 Razorgrass Ambush
+1 Path to Exile
+1 Lifestream's Blessing
+1 Flawless Maneuver
+1 Dispatch
+1 Deflecting Swat
+1 Cloud's Limit Break
+1 Clever Concealment
+1 Chaos Warp
+1 Akroma's Will
+1 Wrecking Ball Arm
+1 Ultima Weapon
+1 Trailblazer's Boots
+1 Sword of Wealth and Power
+1 Sword of the Animist
+1 Summoning Materia
+1 Sol Ring
+1 Mask of Memory
+1 Machinist's Arsenal
+1 Lightning Greaves
+1 Hero's Heirloom
+1 Hero's Blade
+1 Goldvein Pick
+1 Genji Glove
+1 Fishing Gear
+1 Excalibur, Sword of Eden
+1 Conqueror's Flail
+1 Conformer Shuriken
+1 Colossus Hammer
+1 Champion's Helm
+1 Buster Sword
+1 Brotherhood Regalia
+1 Behemoth Sledge
+1 Arcane Signet
+1 Yuffie, Materia Hunter
+1 Tifa, Martial Artist
+1 Stonehewer Giant
+1 Stoneforge Mystic
+1 Red XIII, Proud Warrior
+1 Puresteel Paladin
+1 Pinnacle Monk
+1 Palladium Myr
+1 Lizard Blades
+1 Knuckles the Echidna
+1 Gilgamesh, Master-at-Arms
+1 Freya Crescent
+1 Codsworth, Handy Helper
+1 Cloud, Midgar Mercenary
+1 Cid, Freeflier Pilot
+1 Bugenhagen, Wise Elder
+1 Bronze Guardian
+1 Bastion Protector
+1 Armored Skyhunter
+1 Amy Rose
+1 Akiri, Fearless Voyager
+Sideboard
+1 Cloud, Ex-SOLDIER

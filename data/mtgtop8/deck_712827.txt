@@ -1,0 +1,101 @@
+1 Teferi, Time Raveler
+1 Touch the Spirit Realm
+1 Smothering Tithe
+1 Mystic Remora
+1 Carpet of Flowers
+1 Rhystic Study
+1 Food Chain
+1 Demonic Tutor
+1 Finale of Devastation
+1 Eldritch Evolution
+1 Imperial Seal
+1 Culling Ritual
+1 Force of Negation
+1 Tainted Pact
+1 Chain of Vapor
+1 Strix Serenade
+1 Swords to Plowshares
+1 Flusterstorm
+1 Mindbreak Trap
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Mental Misstep
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Demonic Consultation
+1 Dark Ritual
+1 Silence
+1 Swan Song
+1 Vampiric Tutor
+1 Savage Summoning
+1 Abrupt Decay
+1 Force of Will
+1 Cyclonic Rift
+1 Crop Rotation
+1 Chord of Calling
+1 Mana Drain
+1 Veil of Summer
+1 Lotus Petal
+1 Grim Monolith
+1 Arcane Signet
+1 The One Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Mox Opal
+1 Chrome Mox
+1 Mox Diamond
+1 Sol Ring
+1 Wishclaw Talisman
+1 Grand Abolisher
+1 Ranger-Captain of Eos
+1 Enduring Vitality
+1 Phantasmal Image
+1 Endurance
+1 Esper Sentinel
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Lotho, Corrupt Shirriff
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Faerie Mastermind
+1 Displacer Kitten
+1 Archivist of Oghma
+1 Opposition Agent
+1 Misthollow Griffin
+1 Kinnan, Bonder Prodigy
+1 Drannith Magistrate
+1 Thassa's Oracle
+1 Birds of Paradise
+1 Noble Hierarch
+1 Phyrexian Metamorph
+1 Underground Sea
+1 Tundra
+1 Tropical Island
+1 Savannah
+1 Scrubland
+1 Bayou
+1 Gaea's Cradle
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Misty Rainforest
+1 Arid Mesa
+1 Marsh Flats
+1 Shifting Woodland
+1 Wooded Foothills
+1 Windswept Heath
+1 Polluted Delta
+1 Flooded Strand
+1 Watery Grave
+1 Breeding Pool
+1 Gemstone Caverns
+1 Exotic Orchard
+1 City of Brass
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Ancient Tomb
+1 Emergence Zone
+1 Command Tower
+Sideboard
+1 Atraxa, Grand Unifier

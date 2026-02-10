@@ -1,0 +1,76 @@
+1 Tatyova, Benthic Druid
+1 Arboreal Grazer
+1 Llanowar Elves
+1 Aesi, Tyrant of Gyre Strait
+1 Elvish Spirit Guide
+1 Lotus Cobra
+1 Biomancer's Familiar
+1 Seedborn Muse
+1 Hullbreaker Horror
+1 Eternal Witness
+1 Timeless Witness
+1 Peregrine Drake
+1 Arbor Elf
+1 Elvish Pioneer
+1 Elvish Mystic
+1 Tireless Provisioner
+1 Cloud of Faeries
+1 Lilysplash Mentor
+1 Fyndhorn Elves
+1 Tangled Florahedron
+1 Springleaf Drum
+1 Sol Ring
+1 Heritage Reclamation
+1 Harrow
+1 Unsummon
+1 Delay
+1 Planar Genesis
+1 Beast Within
+1 Into the Flood Maw
+1 Dispel
+1 Pongify
+1 Growth Spiral
+1 Negate
+1 Unsubstantiate
+1 Evacuation
+1 Arcane Denial
+1 Memory Lapse
+1 Eldritch Evolution
+1 Temporal Manipulation
+1 Search for Tomorrow
+1 Consuming Tide
+1 Traverse the Ulvenwald
+1 Nature's Lore
+1 Cultivate
+1 Explore
+1 Flare of Cultivation
+1 Virtue of Strength
+1 Walk the Aeons
+1 Skyshroud Claim
+1 Kodama's Reach
+1 Training Grounds
+1 Utopia Sprawl
+1 Wilderness Reclamation
+1 Heartbeat of Spring
+1 Shadow of the Second Sun
+1 Fertile Ground
+1 Wild Growth
+1 Mana Reflection
+1 Tangled Islet
+1 Alchemist's Refuge
+1 Command Tower
+1 Brokers Hideout
+1 Guildless Commons
+13 Island
+1 Temple of the False God
+1 Mystic Sanctuary
+14 Forest
+1 Fabled Passage
+1 Emergence Zone
+1 Yavimaya Coast
+1 Overflowing Basin
+1 Flooded Grove
+1 Simic Growth Chamber
+1 Hinterland Harbor
+Sideboard
+1 Gretchen Titchwillow

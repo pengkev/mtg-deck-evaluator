@@ -1,0 +1,101 @@
+1 Birgi, God of Storytelling
+1 Dauthi Voidwalker
+1 Gilded Drake
+1 Magda, the Hoardmaster
+1 Mayhem Devil
+1 Notion Thief
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Snapcaster Mage
+1 Spellskite
+1 Thassa's Oracle
+1 Urabrask
+1 Volatile Stormdrake
+1 Arcane Signet
+1 Chrome Mox
+1 Cursed Totem
+1 Fellwar Stone
+1 Glasses of Urza
+1 Imposter Mech
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Dominance
+1 The One Ring
+1 Unlicensed Hearse
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Delay
+1 Demonic Consultation
+1 Dismember
+1 Fierce Guardianship
+1 Final Fortune
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Red Elemental Blast
+1 Snap
+1 Snuff Out
+1 Swan Song
+1 Tainted Pact
+1 Trickbind
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Gamble
+1 Gitaxian Probe
+1 Imperial Seal
+1 Massacre
+1 Praetor's Grasp
+1 Reanimate
+1 Counterbalance
+1 Mystic Remora
+1 Rhystic Study
+1 Spatial Binding
+1 Steal Enchantment
+1 Underworld Breach
+1 Ashiok, Dream Render
+1 Ancient Tomb
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Hammerheim
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Undercity Sewers
+1 Underground Sea
+1 Urborg
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Wooded Foothills
+Sideboard
+1 Marchesa, Dealer of Death

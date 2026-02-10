@@ -1,0 +1,88 @@
+1 Aerial Extortionist
+1 Archpriest of Shadows
+1 Baldin, Century Herdmaster
+1 Breena, the Demagogue
+1 Burakos, Party Leader
+1 Cephalid Facetaker
+1 Dragonlord Ojutai
+1 Drana, Liberator of Malakir
+1 Elegy Acolyte
+1 Enduring Curiosity
+1 Fallen Shinobi
+1 Gix, Yawgmoth Praetor
+1 Grazilaxx, Illithid Scholar
+1 Gregor, Shrewd Magistrate
+1 Grim Hireling
+1 Grima, Saruman's Footman
+1 Hoard Robber
+1 Looter il-Kor
+1 Malcolm, Alluring Scoundrel
+1 Malcolm, Keen-Eyed Navigator
+1 Nashi, Moon Sage's Scion
+1 Oskar, Rubbish Reclaimer
+1 Prosperous Thief
+1 Raffine, Scheming Seer
+1 Shadowmage Infiltrator
+1 Shoreline Looter
+1 Silent Hallcreeper
+1 Silent-Blade Oni
+1 Symbiote Spider-Man
+1 Tivit, Seller of Secrets
+1 Wonder
+1 Arcane Signet
+1 Blackblade Reforged
+1 Brotherhood Regalia
+1 Dimir Signet
+1 Empyrial Plate
+1 Fellwar Stone
+1 Goldvein Pick
+1 Hand of Vecna
+1 Mask of Riddles
+1 Mask of the Schemer
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Thought Vessel
+1 Winged Boots
+1 Anguished Unmaking
+1 Arcane Denial
+1 Despark
+1 Dovin's Veto
+1 Path to Exile
+1 Rapid Hybridization
+1 Swords to Plowshares
+1 Void Rend
+1 Austere Command
+1 Damn
+1 Writ of Return
+1 Duelist's Heritage
+1 Empyrial Armor
+1 Reconnaissance Mission
+1 Waterbender Ascension
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Choked Estuary
+1 Command Tower
+1 Contaminated Landscape
+1 Darkwater Catacombs
+1 Deserted Beach
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fetid Heath
+1 Glacial Fortress
+8 Island
+1 Isolated Chapel
+1 Obscura Storefront
+1 Path of Ancestry
+3 Plains
+1 Port Town
+1 Prairie Stream
+1 Skycloud Expanse
+1 Sunken Hollow
+5 Swamp
+1 Underground River
+Sideboard
+1 Kamiz, Obscura Oculus

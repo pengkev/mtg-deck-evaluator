@@ -1,0 +1,77 @@
+1 Giant Killer
+1 Thalia, Heretic Cathar
+1 Ranger-Captain of Eos
+1 Cavalry Pegasus
+1 Odric, Master Tactician
+1 Grand Abolisher
+1 Drannith Magistrate
+1 Knight of the White Orchid
+1 Imposing Sovereign
+1 Benalish Marshal
+1 Intrepid Adversary
+1 Mikaeus, the Lunarch
+1 Thalia, Guardian of Thraben
+1 Thalia's Lieutenant
+1 Seasoned Dungeoneer
+1 Celestine, the Living Saint
+1 Myrel, Shield of Argive
+1 Loran of the Third Path
+1 Coppercoat Vanguard
+1 Boromir, Warden of the Tower
+1 Weathered Wayfarer
+1 Frontline Medic
+1 Bastion Protector
+1 Palace Jailer
+1 Tithe Taker
+1 Serra Ascendant
+1 Tomik, Distinguished Advokist
+1 Witch Enchanter
+1 Esper Sentinel
+1 Guide of Souls
+1 Recruiter of the Guard
+1 Mangara, the Diplomat
+1 Moon-Blessed Cleric
+1 Mother of Runes
+1 Verge Rangers
+1 Adeline, Resplendent Cathar
+1 Cathar Commando
+1 Pearl Medallion
+1 Glimmer Lens
+1 Conjurer's Mantle
+1 Sol Ring
+1 Throne of Eldraine
+1 Unexpectedly Absent
+1 Condemn
+1 Reprieve
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thraben Charm
+1 Akroma's Will
+1 Path to Exile
+1 Flare of Fortitude
+1 Dawn's Truce
+1 Emeria's Call
+1 Secret Rendezvous
+1 Vanquish the Horde
+1 Ascend from Avernus
+1 Everything Comes to Dust
+1 Chivalric Alliance
+1 Flowering of the White Tree
+1 Trouble in Pairs
+1 Smuggler's Share
+1 Charitable Levy
+1 Lotus Field
+1 Nykthos, Shrine to Nyx
+1 Emeria, the Sky Ruin
+1 Path of Ancestry
+1 Secluded Steppe
+1 Eiganjo, Seat of the Empire
+1 Castle Ardenvale
+1 Minas Tirith
+1 Cavern of Souls
+1 Windbrisk Heights
+25 Plains
+1 War Room
+1 Demolition Field
+Sideboard
+1 Greymond, Avacyn's Stalwart

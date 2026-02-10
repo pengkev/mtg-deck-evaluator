@@ -1,0 +1,96 @@
+1 Abrupt Decay
+1 Analyze the Pollen
+1 Arcane Signet
+1 Augur of Autumn
+1 Baloth Prime
+1 Birds of Paradise
+1 Blasphemous Act
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Braids, Arisen Nightmare
+1 Bristly Bill, Spine Sower
+1 Buried Ruin
+1 Chain of Smog
+1 Command Tower
+1 Commercial District
+1 Deadly Rollick
+1 Deathrite Shaman
+1 Decimate
+1 Demonic Tutor
+1 Dragonskull Summit
+1 Elvish Reclaimer
+1 Entish Restoration
+1 Eternal Witness
+1 Evendo Brushrazer
+1 Exploration Broodship
+1 Fabled Passage
+1 Fell the Profane
+3 Forest
+1 Ghostfire Slice
+1 Gix's Command
+1 Golgari Rot Farm
+1 Green Sun's Zenith
+1 Hearthhull, the Worldseed
+1 Heroic Intervention
+1 Horizon Explorer
+1 Icetill Explorer
+1 Ignoble Hierarch
+1 Karplusan Forest
+1 Korvold, Fae-Cursed King
+1 Llanowar Wastes
+1 Memorial to Folly
+1 Mightform Harmonizer
+1 Molten Collapse
+1 Mossborn Hydra
+2 Mountain
+1 Nissa of Shadowed Boughs
+1 Oracle of Mul Daya
+1 Orcish Bowmasters
+1 Overgrown Tomb
+1 Overlord of the Hauntwoods
+1 Pawpatch Formation
+1 Pick Your Poison
+1 Pyroblast
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Raucous Theater
+1 Revitalizing Repast
+1 Riveteers Overlook
+1 Rootbound Crag
+1 Scapeshift
+1 Scythecat Cub
+1 Shadow in the Warp
+1 Sheoldred's Edict
+1 Skullclamp
+1 Snuff Out
+1 Sol Ring
+1 Star of Extinction
+1 Stomping Ground
+3 Swamp
+1 Sylvan Safekeeper
+1 Szarel, Genesis Shepherd
+1 Tamiyo's Safekeeping
+1 Tear Asunder
+1 Tectonic Edge
+1 Temple of Abandon
+1 Temple of Malady
+1 Temple of Malice
+1 The Gitrog Monster
+1 Thornspire Verge
+1 Tiller Engine
+1 Tireless Provisioner
+1 Underground Mortuary
+1 Varragoth, Bloodsky Sire
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Witherbloom Apprentice
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Worldly Tutor
+1 Worldsoul's Rage
+1 Ziatora's Proving Ground
+Sideboard
+1 Soul of Windgrace

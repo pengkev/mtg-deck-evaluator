@@ -1,0 +1,81 @@
+1 Blood Artist
+1 Dauthi Voidwalker
+1 Gisa, Glorious Resurrector
+1 Slaughter Specialist
+1 Sludge Monster
+1 Venomcrawler
+1 Yawgmoth, Thran Physician
+1 Phyrexian Obliterator
+1 Drivnod, Carnage Dominus
+1 Thrummingbird
+1 Loyal Drake
+1 Yahenni, Undying Partisan
+1 Roaming Throne
+1 Spitting Dilophosaurus
+1 Falkenrath Noble
+1 Crypt Ghast
+1 Spark Double
+1 Massacre Girl, Known Killer
+1 Massacre Wurm
+1 Massacre Girl
+1 Dreamtide Whale
+1 Maha, Its Feathers Night
+1 Rottenmouth Viper
+1 Contagion Clasp
+1 Bontu's Monument
+1 Mindsplice Apparatus
+1 Swiftfoot Boots
+1 Sol Ring
+1 Counterspell
+1 Sudden Spoiling
+1 Tragic Slip
+1 Dark Ritual
+1 No Escape
+1 Turn to Frog
+1 Urza's Rebuff
+1 Scatter Ray
+1 Experimental Augury
+1 Whisper of the Dross
+1 Offer Immortality
+1 Swan Song
+1 Fierce Guardianship
+1 Disdainful Stroke
+1 Cyclonic Rift
+1 Imp's Mischief
+1 Torment of Hailfire
+1 Rise of the Dark Realms
+1 Drown in Ichor
+1 Personal Tutor
+1 Final Act
+1 Nest of Scarabs
+1 Rhystic Study
+1 Revel in Riches
+1 Crumbling Ashes
+1 Necrosynthesis
+1 The Meathook Massacre
+1 Witness Protection
+1 Necrogen Communion
+1 Kasmina's Transmutation
+1 Black Market
+1 Inexorable Tide
+1 Propaganda
+1 Nowhere to Run
+1 Phyrexian Arena
+1 Witch's Cottage
+1 Watery Grave
+1 Creeping Tar Pit
+1 Urborg, Tomb of Yawgmoth
+1 Mortuary Mire
+1 Takenuma, Abandoned Mire
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Polluted Delta
+1 Command Tower
+1 Cabal Coffers
+1 Gloomlake Verge
+1 Shipwreck Marsh
+1 Sunken Hollow
+11 Swamp
+12 Island
+Sideboard
+1 Toxrill, the Corrosive

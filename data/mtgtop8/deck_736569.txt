@@ -1,0 +1,82 @@
+1 Agatha of the Vile Cauldron
+1 Aggravated Assault
+1 Agitator Ant
+1 Arcane Signet
+1 Beast Within
+1 Beastrider Vanguard
+1 Bhaal's Invoker
+1 Chandra's Ignition
+1 Cinder Glade
+1 Command Tower
+1 Cultivate
+1 Elvish Mystic
+1 Instill Energy
+13 Forest
+1 Game Trail
+1 Gift of the Viper
+1 Goblin Anarchomancer
+1 Halana and Alena, Partners
+1 Hellkite Charger
+1 Kessig Wolf Run
+1 Llanowar Reborn
+1 Loot, Exuberant Explorer
+1 Magus of the Candelabra
+1 Marvin, Murderous Mimic
+1 Mossfire Valley
+1 Mosswort Bridge
+8 Mountain
+1 Opal Palace
+1 Pili-Pala
+1 Rampant Growth
+1 Orcish Lumberjack
+1 Rhythm of the Wild
+1 Ezuri's Predation
+1 Rising of the Day
+1 Rootbound Crag
+1 Savage Ventmaw
+1 Selvala, Heart of the Wilds
+1 Sheltered Thicket
+1 Snakeskin Veil
+1 Sol Ring
+1 Soulbright Flamekin
+1 Staff of Domination
+1 Svella, Ice Shaper
+1 Sword of the Paruns
+1 Talisman of Impulse
+1 Tavern Brawler
+1 Temple of Abandon
+1 Tyvar, the Pummeler
+1 Umbral Mantle
+1 Orochi Leafcaller
+1 Goro-Goro, Disciple of Ryusei
+1 Leafkin Avenger
+1 Agonasaur Rex
+1 Shriekwood Devourer
+1 Gruul Signet
+1 Swiftfoot Boots
+1 Energy Refractor
+1 Utopia Sprawl
+1 Reckless Handling
+1 Eldritch Evolution
+1 Invigorate
+1 Chaos Warp
+1 Viewpoint Synchronization
+1 Collective Resistance
+1 Vines of Vastwood
+1 Restless Ridgeline
+1 Rishkar, Peema Renegade
+1 Forgotten Ancient
+1 Sylvan Safekeeper
+1 Royal Treatment
+1 Hero's Blade
+1 Archdruid's Charm
+1 Spikeshot Elder
+1 Etali, Primal Storm
+1 Ecological Appreciation
+1 Godo, Bandit Warlord
+1 Untimely Malfunction
+1 Tyrite Sanctum
+1 Flamewave Invoker
+1 Sting, the Glinting Dagger
+Sideboard
+1 Redshift, Rocketeer Chief

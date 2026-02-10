@@ -1,0 +1,93 @@
+1 Consecrated Sphinx
+1 Displacer Kitten
+1 Emry, Lurker of the Loch
+1 Faerie Mastermind
+1 Foundry Inspector
+1 Glaring Fleshraker
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Progress Tyrant
+1 Karn, Legacy Reforged
+1 Phyrexian Metamorph
+1 The Reality Chip
+1 Tidespout Tyrant
+1 Trophy Mage
+1 Walking Ballista
+1 Arcane Signet
+1 Basalt Monolith
+1 Glasses of Urza
+1 Grim Monolith
+1 Isochron Scepter
+1 Lightning Greaves
+1 Lotus Petal
+1 Mox Amber
+1 Mox Opal
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Rings of Brighthearth
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Sphere of Resistance
+1 Static Orb
+1 The One Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Trinisphere
+1 Unwinding Clock
+1 Urza's Bauble
+1 Uthros Research Craft
+1 Vedalken Orrery
+1 Vexing Bauble
+1 Voltaic Key
+1 Winter Moon
+1 Winter Orb
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Masterful Replication
+1 Muddle the Mixture
+1 Negate
+1 Sink into Stupor
+1 Whir of Invention
+1 Fabricate
+1 Personal Tutor
+1 Solve the Equation
+1 Back to Basics
+1 Mechanized Production
+1 Mystic Remora
+1 Rhystic Study
+1 Unstoppable Plan
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Tezzeret, Cruel Captain
+1 Academy Ruins
+1 Ancient Tomb
+1 Darksteel Citadel
+1 Emergence Zone
+1 Field of Ruin
+1 Fomori Vault
+1 Inkmoth Nexus
+1 Inventors' Fair
+9 Island
+1 Otawara, Soaring City
+1 Reliquary Tower
+1 Seat of the Synod
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Urza's Factory
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+1 Uthros, Titanic Godcore
+Sideboard
+1 Urza, Lord High Artificer

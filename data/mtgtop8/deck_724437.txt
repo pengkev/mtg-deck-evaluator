@@ -1,0 +1,101 @@
+1 Counterbalance
+1 Copy Enchantment
+1 Mystic Remora
+1 Exploration
+1 Necropotence
+1 Rhystic Study
+1 Mirrormade
+1 Imperial Seal
+1 Nature's Rhythm
+1 Eldritch Evolution
+1 Culling Ritual
+1 Reanimate
+1 Beseech the Mirror
+1 Demonic Tutor
+1 Yawgmoth's Will
+1 Finale of Devastation
+1 Mnemonic Betrayal
+1 Flusterstorm
+1 Legolas's Quick Reflexes
+1 Force of Vigor
+1 Mindbreak Trap
+1 Borne Upon a Wind
+1 Noxious Revival
+1 Worldly Tutor
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Force of Will
+1 Force of Negation
+1 An Offer You Can't Refuse
+1 Tainted Pact
+1 Pact of Negation
+1 Swan Song
+1 Murderous Cut
+1 Retraction Helix
+1 Mental Misstep
+1 Fierce Guardianship
+1 Deadly Rollick
+1 Submerge
+1 Misdirection
+1 Dark Ritual
+1 Veil of Summer
+1 Wishclaw Talisman
+1 Arcane Signet
+1 The One Ring
+1 Mana Vault
+1 Mox Diamond
+1 Chrome Mox
+1 Sensei's Divining Top
+1 Sol Ring
+1 Lotus Petal
+1 Elvish Spirit Guide
+1 Bloom Tender
+1 Seedborn Muse
+1 Steward of the Harvest
+1 Molt Tender
+1 Emrakul, the Promised End
+1 High Fae Trickster
+1 Clever Impersonator
+1 Valley Floodcaller
+1 Mockingbird
+1 Endurance
+1 Dryad of the Ilysian Grove
+1 Orcish Bowmasters
+1 Delighted Halfling
+1 Deathrite Shaman
+1 Birds of Paradise
+1 Malevolent Hermit
+1 Wandering Archaic
+1 Consecrated Sphinx
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Cavern of Souls
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Exotic Orchard
+1 Windswept Heath
+1 Flooded Strand
+1 Bloodstained Mire
+1 Undercity Sewers
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Misty Rainforest
+1 Scalding Tarn
+1 Marsh Flats
+1 Gemstone Caverns
+1 Wooded Foothills
+1 Underground Sea
+1 Tropical Island
+1 Bayou
+1 Gaea's Cradle
+1 Mana Confluence
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Overgrown Tomb
+1 Ancient Tomb
+1 Breeding Pool
+1 Minamo, School at Water's Edge
+1 Command Tower
+Sideboard
+1 Glarb, Calamity's Augur

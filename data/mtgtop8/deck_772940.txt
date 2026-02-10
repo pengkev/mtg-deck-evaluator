@@ -1,0 +1,92 @@
+1 Akal Pakal, First Among Equals
+1 Baleful Strix
+1 Bjorna, Nightfall Alchemist
+1 Bothersome Quasit
+1 Braids, Arisen Nightmare
+1 Brash Taunter
+1 Cyberdrive Awakener
+1 Davros, Dalek Creator
+1 Erdwal Illuminator
+1 Frenzied Gorespawn
+1 Frontier Warmonger
+1 Golbez, Crystal Collector
+1 Junk Winder
+1 Kamber, the Plunderer
+1 Karazikar, the Eye Tyrant
+1 Laurine, the Diversion
+1 Lazav, Wearer of Faces
+1 Maeve, Insidious Singer
+1 Magda, the Hoardmaster
+1 Marchesa, Dealer of Death
+1 Martha Jones
+1 Qarsi Revenant
+1 Shimmer Dragon
+1 Vengeful Ancestor
+1 Whirler Rogue
+1 Arcane Signet
+1 Bloodthirsty Blade
+1 Dimir Signet
+1 Five Hundred Year Diary
+1 Inspiring Statuary
+1 Izzet Signet
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Tamiyo's Journal
+1 Whispersilk Cloak
+1 Bedevil
+1 Curtains' Call
+1 Pongify
+1 Rapid Hybridization
+1 Withering Torment
+1 Beseech the Queen
+1 Besmirch
+1 Coronation of Chaos
+1 Dark Petition
+1 Disrupt Decorum
+1 Insurrection
+1 Mob Verdict
+1 Rise and Shine
+1 Spectacular Showdown
+1 Yahenni's Expertise
+1 Curse of Opulence
+1 Eye of Nidhogg
+1 Gossip's Talent
+1 Heaven Sent
+1 Hot Pursuit
+1 Nowhere to Run
+1 Tezzeret, Betrayer of Flesh
+1 Tezzeret, Master of the Bridge
+1 Archway of Innovation
+1 Bojuka Bog
+1 Canyon Slough
+1 Choked Estuary
+1 Command Tower
+1 Crumbling Necropolis
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Evolving Wilds
+1 Exotic Orchard
+1 Ferrous Lake
+1 Foreboding Ruins
+1 Frostboil Snarl
+4 Island
+1 Izzet Boilerworks
+4 Mountain
+1 Rakdos Carnarium
+1 Rogue's Passage
+1 Seething Landscape
+1 Shadowblood Ridge
+1 Shivan Reef
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+4 Swamp
+1 Terramorphic Expanse
+1 Underground River
+1 Watery Grave
+Sideboard
+1 The Rani

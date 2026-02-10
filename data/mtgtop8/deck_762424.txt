@@ -1,0 +1,83 @@
+1 Adeline, Resplendent Cathar
+1 Anim Pakal, Thousandth Moon
+1 Avacyn's Pilgrim
+1 Baylen, the Haymaker
+1 Beast Whisperer
+1 Boromir, Warden of the Tower
+1 Cadira, Caller of the Small
+1 Champion of Lambholt
+1 Finneas, Ace Archer
+1 Ghalta and Mavren
+1 Goblin Anarchomancer
+1 Hanweir Garrison
+1 Healer's Hawk
+1 Helpful Hunter
+1 Hero of Bladehold
+1 Jacked Rabbit
+1 King Darien XLVIII
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Loyal Apprentice
+1 Mentor of the Meek
+1 Prava of the Steel Legion
+1 Queen Allenal of Ruadach
+1 Resolute Reinforcements
+1 Searslicer Goblin
+1 Silverwing Squadron
+1 Skyknight Squire
+1 Stampede Surfer
+1 Starry-Eyed Skyrider
+1 Tifa, Martial Artist
+1 Toby, Beastie Befriender
+1 Torens, Fist of the Angels
+1 Twitching Doll
+1 Winota, Joiner of Forces
+1 Andúril, Flame of the West
+1 Arcane Signet
+1 Carrot Cake
+1 Lightning Greaves
+1 Oketra's Monument
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Unity
+1 Artifact Mutation
+1 Aura Mutation
+1 Call the Coppercoats
+1 Chord of Calling
+1 Fog
+1 Moogles' Valor
+1 Path to Exile
+1 Second Harvest
+1 Swords to Plowshares
+1 Aerith Rescue Mission
+1 Commune with Nature
+1 Hop to It
+1 Rampant Growth
+1 Shamanic Revelation
+1 Champions from Beyond
+1 Defense of the Heart
+1 Rabble Rousing
+1 Roar of Resistance
+1 Utopia Sprawl
+1 Wild Growth
+1 Battlefield Forge
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+8 Forest
+1 Jungle Shrine
+1 Karplusan Forest
+5 Mountain
+1 Overgrown Farmland
+8 Plains
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sungrass Prairie
+1 Sunpetal Grove
+Sideboard
+1 Jetmir, Nexus of Revels

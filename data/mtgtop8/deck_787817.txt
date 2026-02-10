@@ -1,0 +1,97 @@
+1 Allosaurus Shepherd
+1 Alseid of Life's Bounty
+1 Argothian Enchantress
+1 Aven Interrupter
+1 Brightglass Gearhulk
+1 Delney, Streetwise Lookout
+1 Destiny Spinner
+1 Devoted Druid
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Elvish Spirit Guide
+1 Esper Sentinel
+1 Heliod, Sun-Crowned
+1 Magus of the Candelabra
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Sanctum Weaver
+1 Seedcradle Witch
+1 Shigeki, Jukai Visionary
+1 Siona, Captain of the Pyleas
+1 Solitude
+1 Springheart Nantuko
+1 The Cabbage Merchant
+1 Verduran Enchantress
+1 Walking Ballista
+1 Aetherflux Reservoir
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Mox Diamond
+1 Angel's Grace
+1 Crop Rotation
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Force of Vigor
+1 Nature's Claim
+1 Noxious Revival
+1 Path to Exile
+1 Reprieve
+1 Silence
+1 Swords to Plowshares
+1 Veil of Summer
+1 Worldly Tutor
+1 Winds of Abandon
+1 Aura of Silence
+1 Aura Shards
+1 Blind Obedience
+1 Carpet of Flowers
+1 Concordant Crossroads
+1 Enchantress's Presence
+1 Exploration
+1 Flickering Ward
+1 Gauntlets of Light
+1 Kenrith's Transformation
+1 Land Tax
+1 Meticulous Excavation
+1 Mirri's Guile
+1 Nature's Chosen
+1 Out of Time
+1 Rest in Peace
+1 Seal of Cleansing
+1 Shielded by Faith
+1 Static Prison
+1 Sterling Grove
+1 Stony Silence
+1 Survival of the Fittest
+1 Swift Reconfiguration
+1 Sylvan Library
+1 Titania's Song
+1 Utopia Sprawl
+1 Whip Silk
+1 Wild Growth
+1 Arid Mesa
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 Command Tower
+1 Deserted Temple
+1 Eiganjo, Seat of the Empire
+3 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hall of Heliod's Generosity
+1 Horizon Canopy
+1 Mana Confluence
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+3 Plains
+1 Prismatic Vista
+1 Savannah
+1 Serra's Sanctum
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Sythis, Harvest's Hand

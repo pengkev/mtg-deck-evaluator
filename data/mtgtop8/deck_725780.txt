@@ -1,0 +1,89 @@
+1 Recruiter of the Guard
+1 Aven Mindcensor
+1 Magus of the Moon
+1 Mother of Runes
+1 Legion Warboss
+1 Linvala, Keeper of Silence
+1 Combat Celebrant
+1 Mirror Entity
+1 Kataki, War's Wage
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 Spirit of the Labyrinth
+1 Grand Abolisher
+1 Lena, Selfless Champion
+1 Skyclave Apparition
+1 Archon of Emeria
+1 Rionya, Fire Dancer
+1 Blade Historian
+1 Imperial Recruiter
+1 Ornithopter of Paradise
+1 Thalia, Guardian of Thraben
+1 Professional Face-Breaker
+1 Archivist of Oghma
+1 Goldnight Commander
+1 Myr Convert
+1 Skrelv, Defector Mite
+1 Loyal Apprentice
+1 Phyrexian Censor
+1 Hope of Ghirapur
+1 Boromir, Warden of the Tower
+1 Dauntless Dismantler
+1 Angrath's Marauders
+1 Phelia, Exuberant Shepherd
+1 Aya of Alexandria
+1 Alexios, Deimos of Kosmos
+1 The Wandering Rescuer
+1 Benevolent Bodyguard
+1 Arabella, Abandoned Doll
+1 The Jolly Balloon Man
+1 Howlsquad Heavy
+1 Clarion Conqueror
+1 Goblin Rabblemaster
+1 Drannith Magistrate
+1 Skirk Prospector
+1 Rograkh, Son of Rohgahh
+1 Venerable Warsinger
+1 Sanctum Prelate
+1 Esper Sentinel
+1 Celestine, the Living Saint
+1 Ranger-Captain of Eos
+1 Mana Vault
+1 Chrome Mox
+1 Lotus Petal
+1 Arcane Signet
+1 Sol Ring
+1 Talisman of Conviction
+1 Abrade
+1 March of Otherworldly Light
+1 Deflecting Swat
+1 Flare of Duplication
+1 Swords to Plowshares
+1 Enlightened Tutor
+1 Gamble
+1 Deafening Silence
+1 Touch the Spirit Realm
+1 High Noon
+1 Windcrag Siege
+1 Sacred Foundry
+1 Scalding Tarn
+1 Prismatic Vista
+1 City of Brass
+1 Mana Confluence
+1 Gemstone Caverns
+1 Flooded Strand
+1 Inspiring Vantage
+1 Arid Mesa
+1 Sokenzan, Crucible of Defiance
+1 Eiganjo, Seat of the Empire
+1 Rugged Prairie
+1 Castle Embereth
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Command Beacon
+1 Spectator Seating
+6 Mountain
+8 Plains
+Sideboard
+1 Winota, Joiner of Forces

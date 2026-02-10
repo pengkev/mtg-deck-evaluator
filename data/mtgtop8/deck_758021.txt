@@ -1,0 +1,96 @@
+1 Academy Manufactor
+1 Bartolomé del Presidio
+1 Blood Artist
+1 Braids, Arisen Nightmare
+1 Corpse Knight
+1 Drana's Emissary
+1 Enduring Innocence
+1 Hardened Tactician
+1 Kambal, Profiteering Mayor
+1 Lotho, Corrupt Shirriff
+1 Marionette Apprentice
+1 Marionette Master
+1 Mirkwood Bats
+1 Stridehangar Automaton
+1 Thalisse, Reverent Medium
+1 Welcoming Vampire
+1 Wojek Investigator
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bontu's Monument
+1 Chromatic Lantern
+1 Inspiring Statuary
+1 Moonsilver Key
+1 Orzhov Signet
+1 Radiant Lotus
+1 Relic of Legends
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Tamiyo's Journal
+1 Akroma's Will
+1 Anguished Unmaking
+1 Costly Plunder
+1 Crushing Disappointment
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Despark
+1 Dispatch
+1 Enlightened Tutor
+1 Generous Gift
+1 Path to Exile
+1 Plumb the Forbidden
+1 Rowan's Grim Search
+1 Sheoldred's Edict
+1 Swords to Plowshares
+1 Damn
+1 Diabolic Intent
+1 Exsanguinate
+1 Hour of Reckoning
+1 Living Death
+1 Read the Bones
+1 Agent of the Iron Throne
+1 Anointed Procession
+1 Bastion of Remembrance
+1 Blind Obedience
+1 Caretaker's Talent
+1 Cathars' Crusade
+1 Sanctum of Stone Fangs
+1 The Meathook Massacre
+1 Thorough Investigation
+1 Tocasia's Welcome
+1 Elspeth, Storm Slayer
+1 Ash Barrens
+1 Bleachbone Verge
+1 Bojuka Bog
+1 Castle Locthwain
+1 Caves of Koilos
+1 Command Tower
+1 Concealed Courtyard
+1 Desolate Mire
+1 Forlorn Flats
+1 Godless Shrine
+1 Guildless Commons
+1 High Market
+1 Isolated Chapel
+1 Marsh Flats
+1 Myriad Landscape
+1 Orzhov Basilica
+1 Path of Ancestry
+1 Phyrexian Tower
+4 Plains
+1 Plaza of Heroes
+1 Reliquary Tower
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Shineshadow Snarl
+1 Sunlit Marsh
+3 Swamp
+1 Tainted Field
+1 Treasure Vault
+1 Vault of Champions
+1 Vault of the Archangel
+1 Volatile Fault
+Sideboard
+1 Teysa, Opulent Oligarch

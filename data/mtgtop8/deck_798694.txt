@@ -1,0 +1,90 @@
+1 Elesh Norn, Grand Cenobite
+1 Enduring Vitality
+1 Rashmi, Eternities Crafter
+1 Restoration Angel
+1 Fyndhorn Elves
+1 Starfield Vocalist
+1 Woodland Bellower
+1 Hoarding Broodlord
+1 Emiel the Blessed
+1 Ghalta, Stampede Tyrant
+1 Fanatic of Rhonas
+1 Toxrill, the Corrosive
+1 Springheart Nantuko
+1 Deadeye Navigator
+1 Gray Merchant of Asphodel
+1 Kutzil, Malamet Exemplar
+1 Selvala, Heart of the Wilds
+1 Arbor Elf
+1 Beledros Witherbloom
+1 Phyrexian Metamorph
+1 Bloom Tender
+1 Sigarda, Font of Blessings
+1 Radagast the Brown
+1 Fierce Empath
+1 Tishana, Voice of Thunder
+1 Nyxbloom Ancient
+1 Disciple of Freyalise
+1 Elesh Norn, Mother of Machines
+1 Faeburrow Elder
+1 Apex Devastator
+1 Ruthless Technomancer
+1 Colossal Grave-Reaver
+1 Llanowar Elves
+1 Jin-Gitaxias, Progress Tyrant
+1 Birds of Paradise
+1 Eternal Witness
+1 Decanter of Endless Water
+1 Sol Ring
+1 Panharmonicon
+1 Arcane Signet
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Assassin's Trophy
+1 Mystical Tutor
+1 Swords to Plowshares
+1 Cloudshift
+1 Arachnogenesis
+1 Snap
+1 Eldritch Evolution
+1 Genesis Storm
+1 Farseek
+1 Show and Tell
+1 Kodama's Reach
+1 Reanimate
+1 Natural Order
+1 Life/Death
+1 Mind's Desire
+1 Incarnation Technique
+1 Last March of the Ents
+1 Eerie Ultimatum
+1 Animate Dead
+1 Wild Growth
+1 Invasion of Zendikar
+1 Aminatou, the Fateshifter
+1 Kiora, Behemoth Beckoner
+1 Caves of Koilos
+1 Glacial Fortress
+1 Shipwreck Marsh
+1 Adarkar Wastes
+1 Command Beacon
+1 Blooming Marsh
+1 Woodland Cemetery
+1 Command Tower
+1 Prairie Stream
+1 Vernal Fen
+3 Plains
+1 Isolated Chapel
+3 Swamp
+1 Overgrown Farmland
+1 Sunken Hollow
+1 Dreamroot Cascade
+1 Path of Ancestry
+6 Forest
+1 Exotic Orchard
+1 Drowned Catacomb
+1 Reliquary Tower
+1 Willowrush Verge
+3 Island
+Sideboard
+1 Atraxa, Grand Unifier

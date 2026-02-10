@@ -1,0 +1,83 @@
+1 Benthic Biomancer
+1 Cold-Eyed Selkie
+1 Deepfathom Echo
+1 Deeproot Elite
+1 Deeproot Historian
+1 Evolution Sage
+1 Forerunner of the Heralds
+1 Herald of Secret Streams
+1 Kiora, the Rising Tide
+1 Kiora's Follower
+1 Kopala, Warden of Waves
+1 Kumena, Tyrant of Orazca
+1 Master of the Pearl Trident
+1 Merfolk Cave-Diver
+1 Merfolk Mistbinder
+1 Merfolk Sovereign
+1 Merrow Reejerey
+1 Metallic Mimic
+1 Mist Dancer
+1 Murkfiend Liege
+1 Nicanzil, Current Conductor
+1 Prime Speaker Zegana
+1 Realmwalker
+1 Seafloor Oracle
+1 Singer of Swift Rivers
+1 Stonybrook Banneret
+1 Svyelun of Sea and Sky
+1 Tatyova, Benthic Druid
+1 Thassa, God of the Sea
+1 Thieving Skydiver
+1 Tishana, Voice of Thunder
+1 Topography Tracker
+1 Tributary Instructor
+1 Wildgrowth Walker
+1 Xolatoyac, the Smiling Flood
+1 Zegana, Utopian Speaker
+1 Arcane Signet
+1 Bident of Thassa
+1 Herald's Horn
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 Swiftfoot Boots
+1 Aetherize
+1 Beast Within
+1 Growth Spiral
+1 Inspiring Call
+1 Rapid Hybridization
+1 Ripples of Potential
+1 Curse of the Swine
+1 Explore
+1 Kodama's Reach
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Wave Goodbye
+1 Branching Evolution
+1 Deeproot Pilgrimage
+1 Deeproot Waters
+1 Doubling Season
+1 Garruk's Uprising
+1 Growing Rites of Itlimoc
+1 Hardened Scales
+1 Merrow Commerce
+1 Reflections of Littjara
+1 Alchemist's Refuge
+1 Command Tower
+7 Forest
+1 Hinterland Harbor
+13 Island
+1 Karn's Bastion
+1 Llanowar Reborn
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Simic Growth Chamber
+1 Temple of Mystery
+1 Temple of the False God
+1 Unclaimed Territory
+1 Vineglimmer Snarl
+Sideboard
+1 Hakbal of the Surging Soul

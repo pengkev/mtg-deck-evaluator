@@ -1,0 +1,101 @@
+1 Lotus Petal
+1 Sol Ring
+1 Sensei's Divining Top
+1 Mox Amber
+1 Contagion
+1 Snuff Out
+1 Dark Ritual
+1 Flusterstorm
+1 Force of Despair
+1 Deadly Rollick
+1 Brainstorm
+1 Fierce Guardianship
+1 Mystic Remora
+1 Bottomless Pool/Locker Room
+1 Kaito, Bane of Nightmares
+1 Dismember
+1 Mental Misstep
+1 Abjure
+1 Demonic Consultation
+1 Lim-Dul's Vault
+1 Swan Song
+1 Misdirection
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Tainted Pact
+1 Force of Will
+1 Nanogene Conversion
+1 Commandeer
+1 Flare of Malice
+1 Sink into Stupor
+1 Fell the Profane
+1 Demonic Tutor
+1 Temporal Mastery
+1 Temporal Trespass
+1 Sea Gate Restoration
+1 Agadeem's Awakening
+1 Crippling Fear
+1 Imperial Seal
+1 Diabolic Intent
+1 Consign/Oblivion
+1 Prosperous Thief
+1 Shadow of Mortality
+1 Sword Coast Serpent
+1 Orcish Bowmasters
+1 Ingenious Prodigy
+1 Gingerbrute
+1 Roaming Throne
+1 Satoru, the Infiltrator
+1 Orochi Soul-Reaver
+1 Boggart Trawler
+1 Hydroelectric Specimen
+1 Mockingbird
+1 Dokuchi Silencer
+1 Ornithopter
+1 Sakashima's Student
+1 Mausoleum Wanderer
+1 Fourth Bridge Prowler
+1 Hope of Ghirapur
+1 Wingcrafter
+1 Mothdust Changeling
+1 Phyrexian Walker
+1 Changeling Outcast
+1 Faerie Seer
+1 Ingenious Infiltrator
+1 Universal Automaton
+1 Thassa's Oracle
+1 Memnite
+1 Mistblade Shinobi
+1 Skullsnatcher
+1 Opposition Agent
+1 Street Wraith
+1 Thousand-Faced Shadow
+1 Silver-Fur Master
+1 Nezumi Prowler
+1 Moon-Circuit Hacker
+1 Inkrise Infiltrator
+1 Mist-Syndicate Naga
+1 Ninja of the Deep Hours
+1 Island
+1 Swamp
+1 Morphic Pool
+1 Ancient Tomb
+1 Watery Grave
+1 Misty Rainforest
+1 Prismatic Vista
+1 Command Tower
+1 Mutavault
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Darkslick Shores
+1 Snow-Covered Island
+1 Marsh Flats
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Gemstone Caverns
+1 Underground River
+1 Gloomlake Verge
+1 Underground Sea
+Sideboard
+1 Yuriko, the Tiger's Shadow

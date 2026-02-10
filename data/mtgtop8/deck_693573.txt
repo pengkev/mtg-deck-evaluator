@@ -1,0 +1,96 @@
+1 Ranger-Captain of Eos
+1 Aven Mindcensor
+1 Recruiter of the Guard
+1 Phyrexian Metamorph
+1 Thassa's Oracle
+1 Grand Abolisher
+1 Consecrated Sphinx
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Hullbreaker Horror
+1 Displacer Kitten
+1 Faerie Mastermind
+1 Tishana's Tidebinder
+1 Volatile Stormdrake
+1 Mockingbird
+1 Arcane Signet
+1 Lotus Petal
+1 Skullclamp
+1 Sol Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Grafdigger's Cage
+1 Manifold Key
+1 Chrome Mox
+1 Mox Diamond
+1 Talisman of Progress
+1 Mox Opal
+1 Voltaic Key
+1 Grim Monolith
+1 Unwinding Clock
+1 Cursed Totem
+1 Mirror of Fate
+1 Imposter Mech
+1 The One Ring
+1 Repurposing Bay
+1 Monument to Endurance
+1 Swan Song
+1 Path to Exile
+1 Swords to Plowshares
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Mana Drain
+1 Cyclonic Rift
+1 Silence
+1 Flusterstorm
+1 Force of Negation
+1 Fierce Guardianship
+1 Mental Misstep
+1 Chain of Vapor
+1 Trickbind
+1 Mindbreak Trap
+1 Resculpt
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Strix Serenade
+1 Enlightened Tutor
+1 Supreme Verdict
+1 Transmute Artifact
+1 Sevinne's Reclamation
+1 Rhystic Study
+1 Mind Over Matter
+1 Mystic Remora
+1 Blind Obedience
+1 Humility
+1 Urza's Saga
+1 Trouble in Pairs
+1 Smothering Tithe
+1 Amphibian Downpour
+1 Teferi, Time Raveler
+1 Tezzeret the Seeker
+1 Command Tower
+1 Tundra
+1 Adarkar Wastes
+1 City of Brass
+1 Flooded Strand
+1 Sea of Clouds
+1 Arid Mesa
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Misty Rainforest
+1 Scalding Tarn
+1 Mana Confluence
+1 Polluted Delta
+1 Windswept Heath
+1 Academy Ruins
+1 Gemstone Caverns
+1 Otawara, Soaring City
+1 Meticulous Archive
+1 Fomori Vault
+1 Talon Gates of Madara
+5 Island
+2 Plains
+1 Minamo, School at Water's Edge
+Sideboard
+1 Shorikai, Genesis Engine

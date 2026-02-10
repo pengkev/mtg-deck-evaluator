@@ -1,0 +1,92 @@
+1 Accursed Marauder
+1 Aether Channeler
+1 Ayli, Eternal Pilgrim
+1 Big Game Hunter
+1 Body Double
+1 Brine Shaman
+1 Callous Bloodmage
+1 Cathar Commando
+1 Clone
+1 Cursecatcher
+1 Demon's Disciple
+1 Draining Whelk
+1 Ertai Resurrected
+1 Fleshbag Marauder
+1 Garza's Assassin
+1 Grim Haruspex
+1 Hollow Marauder
+1 Honored Knight-Captain
+1 Ichorid
+1 Judge's Familiar
+1 Karmic Guide
+1 Kels, Fight Fixer
+1 Liesa, Forgotten Archangel
+1 Luminous Broodmoth
+1 Malevolent Hermit
+1 Mausoleum Wanderer
+1 Midnight Reaper
+1 Mortus Strider
+1 Mulldrifter
+1 Nekrataal
+1 Night Clubber
+1 Notion Thief
+1 Obscura Interceptor
+1 Plaguecrafter
+1 Reveillark
+1 Rishadan Cutpurse
+1 Rishadan Footpad
+1 Ronom Unicorn
+1 Ruthless Deathfang
+1 Samwise the Stouthearted
+1 Selfless Savior
+1 Shaile, Dean of Radiance
+1 Shifty Doppelganger
+1 Shriekmaw
+1 Space Marine Scout
+1 Spiketail Hatchling
+1 Thalia, Guardian of Thraben
+1 Transit Mage
+1 Vesperlark
+1 Vryn Wingmare
+1 Westfold Rider
+1 Whisper, Blood Liturgist
+1 Woe Strider
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Orzhov Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Worldslayer
+1 Deadly Cover-Up
+1 Chthonian Nightmare
+1 Deafening Silence
+1 Adarkar Wastes
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Caves of Koilos
+1 Choked Estuary
+1 Contaminated Landscape
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Escape Tunnel
+1 Goldmire Bridge
+4 Island
+1 Mistvault Bridge
+1 Myriad Landscape
+1 Orzhov Basilica
+1 Orzhov Guildgate
+4 Plains
+1 Port Town
+1 Razortide Bridge
+1 Shineshadow Snarl
+1 Shire Terrace
+4 Swamp
+1 Tainted Isle
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Silence
+Sideboard
+1 Bane, Lord of Darkness

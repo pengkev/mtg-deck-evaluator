@@ -1,0 +1,101 @@
+1 Insolent Neonate
+1 Auriok Salvagers
+1 Simian Spirit Guide
+1 Opposition Agent
+1 Flamescroll Celebrant
+1 Esper Sentinel
+1 Dauthi Voidwalker
+1 Professional Face-Breaker
+1 Serra Ascendant
+1 Ragavan, Nimble Pilferer
+1 Orcish Bowmasters
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Mayhem Devil
+1 Dragon's Rage Channeler
+1 Ranger-Captain of Eos
+1 Drannith Magistrate
+1 Deep Gnome Terramancer
+1 Myrel, Shield of Argive
+1 Drana and Linvala
+1 Delney, Streetwise Lookout
+1 Rev, Tithe Extractor
+1 Abdel Adrian, Gorion's Ward
+1 Grinding Station
+1 Mox Opal
+1 The One Ring
+1 Sol Ring
+1 Arcane Signet
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Diamond
+1 Mox Amber
+1 Mana Vault
+1 Lotus Petal
+1 Angel's Grace
+1 Path to Exile
+1 Ad Nauseam
+1 Silence
+1 Cabal Ritual
+1 Dark Ritual
+1 Tainted Pact
+1 March of Otherworldly Light
+1 Soul Partition
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Entomb
+1 Deflecting Swat
+1 Culling the Weak
+1 Final Showdown
+1 Orim's Chant
+1 Red Elemental Blast
+1 Abeyance
+1 Pyroblast
+1 Scheming Symmetry
+1 Praetor's Grasp
+1 Gamble
+1 Demonic Tutor
+1 Sevinne's Reclamation
+1 Demonic Counsel
+1 Wheel of Fortune
+1 Jeska's Will
+1 Imperial Seal
+1 Diabolic Intent
+1 Wrath of the Skies
+1 Urza's Saga
+1 Touch the Spirit Realm
+1 Animate Dead
+1 Smothering Tithe
+1 Static Prison
+1 Blind Obedience
+1 Underworld Breach
+1 Trouble in Pairs
+1 Necromancy
+1 Mana Confluence
+1 City of Brass
+1 Mount Doom
+1 Gemstone Caverns
+1 Command Tower
+1 Exotic Orchard
+1 Scrubland
+1 Badlands
+1 Plateau
+1 Scalding Tarn
+1 Cavern of Souls
+1 Marsh Flats
+1 Arid Mesa
+1 Flooded Strand
+1 Polluted Delta
+1 Bloodstained Mire
+1 Ancient Tomb
+1 Windswept Heath
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Blood Crypt
+1 Sacred Foundry
+1 Godless Shrine
+1 Plains
+1 Shadowy Backstreet
+Sideboard
+1 Tymna the Weaver
+1 Jeska, Thrice Reborn

@@ -1,0 +1,96 @@
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Bennie Bracks, Zoologist
+1 Birds of Paradise
+1 Bloom Tender
+1 Conclave Guildmage
+1 Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Ezuri, Renegade Leader
+1 Fyndhorn Elves
+1 Huntmaster of the Fells
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Kami of Whispered Hopes
+1 Kaysa
+1 Kodama of the West Tree
+1 Llanowar Elves
+1 Marwyn, the Nurturer
+1 Master of the Wild Hunt
+1 Nissa, Resurgent Animist
+1 Paradise Druid
+1 Priest of Titania
+1 Reclamation Sage
+1 Selvala, Heart of the Wilds
+1 Shalai and Hallar
+1 Skyshroud Elf
+1 Tireless Provisioner
+1 Tolsimir Wolfblood
+1 Tolsimir, Friend to Wolves
+1 Tolsimir, Midnight's Light
+1 Wilt-Leaf Liege
+1 Wolf-Skull Shaman
+1 Yeva, Nature's Herald
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Sol Ring
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Chaos Warp
+1 Comeuppance
+1 Eerie Interlude
+1 Eladamri's Call
+1 Ghostway
+1 Heroic Intervention
+1 Inspiring Call
+1 Legion Leadership
+1 Nature's Claim
+1 Once Upon a Time
+1 Path to Exile
+1 Razorgrass Ambush
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Bridgeworks Battle
+1 Farseek
+1 Finale of Devastation
+1 Genesis Wave
+1 Primal Command
+1 Stump Stomp
+1 Sundering Eruption
+1 Sylvan Scrying
+1 Vandalblast
+1 Darksteel Mutation
+1 Fertile Ground
+1 Growing Rites of Itlimoc
+1 Leyline Binding
+1 Lignify
+1 Strength of the Harvest
+1 Alpine Meadow
+1 Arctic Treeline
+1 Bountiful Promenade
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+4 Forest
+1 Highland Forest
+1 Jetmir's Garden
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Maze of Ith
+2 Mountain
+2 Plains
+1 Plateau
+1 Radiant Grove
+1 Sacred Foundry
+1 Scattered Groves
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Urza's Cave
+1 Windswept Heath
+Sideboard
+1 Voja, Jaws of the Conclave

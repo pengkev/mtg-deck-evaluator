@@ -1,0 +1,91 @@
+1 Beledros Witherbloom
+1 Blood Artist
+1 Bloodghast
+1 Chatterfang, Squirrel General
+1 Doom Whisperer
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enduring Vitality
+1 Eternal Witness
+1 Fangkeeper's Familiar
+1 Insidious Fungus
+1 Llanowar Elves
+1 Lord Skitter, Sewer King
+1 Lotus Cobra
+1 Marionette Apprentice
+1 Marrow-Gnawer
+1 Matoya, Archon Elder
+1 Mirko, Obsessive Theorist
+1 Nemata, Primeval Warden
+1 Peregrin Took
+1 Prosperous Innkeeper
+1 Scute Swarm
+1 Skull Prophet
+1 Tireless Provisioner
+1 Twitching Doll
+1 Valley Floodcaller
+1 Viscera Seer
+1 Vren, the Relentless
+1 Warren Soultrader
+1 Wight of the Reliquary
+1 Zulaport Cutthroat
+1 Aetherflux Reservoir
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bolas's Citadel
+1 Hedge Shredder
+1 Lightning Greaves
+1 Maskwood Nexus
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 Talisman of Curiosity
+1 Dark Ritual
+1 Deadly Dispute
+1 Malakir Rebirth
+1 Revitalizing Repast
+1 Vampiric Tutor
+1 Culling Ritual
+1 Dread Return
+1 Flare of Cultivation
+1 Life/Death
+1 Living Death
+1 Mythos of Brokkos
+1 Rampant Growth
+1 Ringsight
+1 Squirming Emergence
+1 Toxic Deluge
+1 Victimize
+1 Windfall
+1 Arcane Adaptation
+1 Bastion of Remembrance
+1 Chthonian Nightmare
+1 Counterbalance
+1 Cryptolith Rite
+1 Disinformation Campaign
+1 Elven Chorus
+1 Enhanced Surveillance
+1 Funeral Room/Awakening Hall
+1 Leyline of Transformation
+1 Retreat to Coralhelm
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Foreboding Landscape
+5 Forest
+1 High Market
+4 Island
+1 Mudflat Village
+1 Opulent Palace
+1 Rejuvenating Springs
+4 Swamp
+1 Temple of Deceit
+1 Temple of Malady
+1 Underground River
+1 Wastewood Verge
+1 Willowrush Verge
+1 Woodland Cemetery
+1 Yavimaya Coast
+1 Zagoth Triome
+Sideboard
+1 Glarb, Calamity's Augur

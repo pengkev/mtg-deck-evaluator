@@ -1,0 +1,74 @@
+1 Bloatfly Swarm
+1 Cathedral Acolyte
+1 Cirdan the Shipwright
+1 Consuming Aberration
+1 Dauntless Scrapbot
+1 Feral Ghoul
+1 Glowing One
+1 Infesting Radroach
+1 Kami of the Crescent Moon
+1 Lily Bowen, Raging Grandma
+1 Malanthrope
+1 Mirelurk Queen
+1 Nightkin Ambusher
+1 Raul, Trouble Shooter
+1 Screeching Scorchbeast
+1 Seizan, Perverter of Truth
+1 Sidisi, Regent of the Mire
+1 Sin, Unending Cataclysm
+1 Strong, the Brutish Thespian
+1 Tato Farmer
+1 The Wise Mothman
+1 Vren, the Relentless
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Jet Medallion
+1 Lightning Greaves
+1 Mesmeric Orb
+1 Mindcrank
+1 Nuka-Nuke Launcher
+1 Sapphire Medallion
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Temple Bell
+1 The Water Crystal
+1 Torpor Orb
+1 Vexing Bauble
+1 Arcane Denial
+1 Atomize
+1 Deadly Rollick
+1 Vision Skeins
+1 Words of Wisdom
+1 Breach the Multiverse
+1 Cultivate
+1 Extract from Darkness
+1 Farseek
+1 Kodama's Reach
+1 Nuclear Fallout
+1 Singularity Rupture
+1 Wear Down
+1 Zero Point Ballad
+1 Fraying Sanity
+1 Heartless Summoning
+1 Inexorable Tide
+1 Propaganda
+1 Psychic Corrosion
+1 Struggle for Project Purity
+1 The Binding of the Titans
+1 Vault 12: The Necropolis
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+7 Forest
+14 Island
+1 Opulent Palace
+1 Path of Ancestry
+1 Shire Terrace
+9 Swamp
+Sideboard
+1 The Master, Transcendent

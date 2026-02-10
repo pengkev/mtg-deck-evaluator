@@ -1,0 +1,82 @@
+1 Aven Gagglemaster
+1 Watcher of the Spheres
+1 Empyrean Eagle
+1 Stormscape Familiar
+1 Soulcatcher
+1 Steel-Plume Marshal
+1 Jubilant Skybonder
+1 Skycat Sovereign
+1 Wingmate Roc
+1 Warden of Evos Isle
+1 Esior, Wardwing Familiar
+1 Kangee, Sky Warden
+1 Battlefield Raptor
+1 Healer's Flock
+1 Silver Raven
+1 Donal, Herald of Wings
+1 Scouting Hawk
+1 Sephara, Sky's Blade
+1 Thrummingbird
+1 High Sentinels of Arashin
+1 Meneldor, Swift Savior
+1 Gwaihir the Windlord
+1 Cartographer's Hawk
+1 Miner's Guidewing
+1 Judge's Familiar
+1 Cloudfin Raptor
+1 Aerial Extortionist
+1 Senu, Keen-Eyed Protector
+1 Shrike Force
+1 Lifecreed Duo
+1 Knightfisher
+1 Jackdaw Savior
+1 Curiosity Crafter
+1 Kykar, Zephyr Awakener
+1 Clinquant Skymage
+1 Healer's Hawk
+1 Emeria Angel
+1 Azorius Keyrune
+1 Sol Ring
+1 Patchwork Banner
+1 Absorb
+1 Rally of Wings
+1 Wing Shards
+1 Deluge
+1 Disenchant
+1 Make a Stand
+1 Frantic Search
+1 Aetherize
+1 Sphinx's Revelation
+1 Rustler Rampage
+1 Hindering Light
+1 Repel Calamity
+1 Dazzling Denial
+1 Refute
+1 Run Away Together
+1 Winged Words
+1 Airborne Aid
+1 Cleansing Nova
+1 Austere Command
+1 Requisition Raid
+1 Starfall Invocation
+1 Rally the Ranks
+1 Soulcatchers' Aerie
+1 Favorable Winds
+1 Gravitational Shift
+1 Murmuration
+1 Coastal Piracy
+1 Reflections of Littjara
+1 Mu Yanling, Sky Dancer
+1 Seaside Haven
+1 Port Town
+1 Skycloud Expanse
+1 Lupinflower Village
+1 Prairie Stream
+1 Temple of Enlightenment
+1 Reliquary Tower
+1 Tranquil Cove
+1 Windbrisk Heights
+8 Plains
+13 Island
+Sideboard
+1 Kastral, the Windcrested

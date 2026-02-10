@@ -1,0 +1,101 @@
+1 Abdel Adrian, Gorion's Ward
+1 Archivist of Oghma
+1 Birgi, God of Storytelling
+1 Braids, Arisen Nightmare
+1 Esper Sentinel
+1 Grand Abolisher
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 Lesser Masticore
+1 Lotho, Corrupt Shirriff
+1 Murderous Redcap
+1 Opposition Agent
+1 Pinnacle Monk
+1 Putrid Goblin
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Skirk Prospector
+1 Viscera Seer
+1 Warren Soultrader
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bolas's Citadel
+1 Chrome Mox
+1 Grim Monolith
+1 Grinding Station
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 The One Ring
+1 Burnt Offering
+1 Cloudshift
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Entomb
+1 Ephemerate
+1 Final Fortune
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Silence
+1 Vampiric Tutor
+1 Wear/Tear
+1 Beseech the Mirror
+1 Buried Alive
+1 Demonic Tutor
+1 Dread Return
+1 Faithless Looting
+1 Gamble
+1 Imperial Seal
+1 Jeska's Will
+1 Lively Dirge
+1 Reanimate
+1 Sevinne's Reclamation
+1 Unmarked Grave
+1 Wheel of Fortune
+1 Animate Dead
+1 Impact Tremors
+1 Necromancy
+1 Necropotence
+1 Smothering Tithe
+1 Underworld Breach
+1 Urza's Saga
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Brightclimb Pathway
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Inspiring Vantage
+1 Lazotep Quarry
+1 Mana Confluence
+1 Marsh Flats
+1 Mountain
+1 Needleverge Pathway
+1 Plains
+1 Plateau
+1 Reflecting Pool
+1 Rugged Prairie
+1 Sacred Foundry
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Talon Gates of Madara
+1 Tarnished Citadel
+1 Urborg, Tomb of Yawgmoth
+1 Vesuva
+Sideboard
+1 Celes, Rune Knight

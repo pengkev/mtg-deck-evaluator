@@ -1,0 +1,69 @@
+33 Island
+1 Mystic Sanctuary
+1 Castle Vantress
+1 Kederekt Leviathan
+1 Brine Elemental
+1 Vesuvan Shapeshifter
+1 Wonder
+1 Jin-Gitaxias, Progress Tyrant
+1 Phyrexian Ingester
+1 Cyclone Summoner
+1 Archaeomancer
+1 Portal Mage
+1 Triskaidekaphile
+1 Propaganda
+1 Frozen Aether
+1 Kasmina's Transmutation
+1 Struggle for Project Purity
+1 Back to Basics
+1 Frost Titan
+1 Echoing Truth
+1 River's Rebuke
+1 Crush of Tentacles
+1 Devastation Tide
+1 Flood of Tears
+1 Wash Out
+1 Coastal Breach
+1 Commence the Endgame
+1 Cryptic Command
+1 Flood of Recollection
+1 Rite of Replication
+1 Blink of an Eye
+1 Capsize
+1 Walk the Aeons
+1 Curse of the Swine
+1 Dissipate
+1 Sunder
+1 Hinder
+1 Pongify
+1 Spell Crumple
+1 Devious Cover-Up
+1 Maddening Cacophony
+1 Into the Roil
+1 Overwhelming Denial
+1 Faerie Slumber Party
+1 Rapid Hybridization
+1 Aetherize
+1 Tasha's Hideous Laughter
+1 Faerie Trickery
+1 Evacuation
+1 Forbid
+1 Void Shatter
+1 Perplexing Test
+1 Thran Dynamo
+1 Worn Powerstone
+1 Everflowing Chalice
+1 Arcane Signet
+1 Fellwar Stone
+1 Unstable Obelisk
+1 Sol Ring
+1 Sky Diamond
+1 Sapphire Medallion
+1 Coldsteel Heart
+1 Fractured Powerstone
+1 Prismatic Lens
+1 Star Compass
+1 Liquimetal Torque
+1 Hedron Archive
+Sideboard
+1 Nezahal, Primal Tide

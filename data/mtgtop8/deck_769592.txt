@@ -1,0 +1,86 @@
+1 Accursed Marauder
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Roaming Throne
+1 Silent Hallcreeper
+1 Thassa's Oracle
+1 Umbral Collar Zealot
+1 Volatile Stormdrake
+1 Arcane Signet
+1 Decanter of Endless Water
+1 Dimir Signet
+1 Jet Medallion
+1 Mind Stone
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Worn Powerstone
+1 Brainstorm
+1 Cackling Counterpart
+1 Dark Ritual
+1 Dig Through Time
+1 Dismember
+1 Drown in the Loch
+1 Fated Return
+1 Flare of Malice
+1 Lim-Dul's Vault
+1 Louisoix's Sacrifice
+1 Mystical Teachings
+1 Mystical Tutor
+1 Not Dead After All
+1 Saw in Half
+1 Sink into Stupor
+1 Vampiric Tutor
+1 Village Rites
+1 Waterlogged Teachings
+1 Aminatou's Augury
+1 Army of the Damned
+1 Beacon of Unrest
+1 Breach the Multiverse
+1 Clone Legion
+1 Coiling Rebirth
+1 Come Back Wrong
+1 Connive/Concoct
+1 Danse Macabre
+1 Dark Petition
+1 Diabolic Intent
+1 Doomsday
+1 Enter the Infinite
+1 Exhume
+1 Mnemonic Deluge
+1 Necromantic Selection
+1 Phthisis
+1 Quasiduplicate
+1 Relm's Sketching
+1 Rite of Replication
+1 Saheeli's Artistry
+1 Season of Weaving
+1 Singularity Rupture
+1 Spelltwine
+1 Subjugate the Hobbits
+1 Tendrils of Agony
+1 Treasure Cruise
+1 Will of the Temur
+1 Worst Fears
+1 Yawgmoth's Will
+1 Animate Dead
+1 Bojuka Bog
+1 Choked Estuary
+1 Clearwater Pathway
+1 Command Tower
+1 Darkslick Shores
+1 Dimir Aqueduct
+1 Drowned Catacomb
+1 Fetid Pools
+1 Ice Tunnel
+13 Island
+1 Reliquary Tower
+1 Shipwreck Marsh
+1 Sunken Hollow
+4 Swamp
+1 Tainted Isle
+1 Temple of Deceit
+1 Underground River
+Sideboard
+1 Hidetsugu and Kairi

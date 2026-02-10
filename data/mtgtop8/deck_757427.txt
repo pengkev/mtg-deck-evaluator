@@ -1,0 +1,85 @@
+1 Angel of the Ruins
+1 Aquamoeba
+1 Arbiter of Woe
+1 Archfiend of Ifnir
+1 Big Game Hunter
+1 Bloodthirsty Conqueror
+1 Bog Witch
+1 Cabal Initiate
+1 Champion of Wits
+1 Confessor
+1 Drogskol Reaver
+1 Entomber Exarch
+1 Exalted Sunborn
+1 Ghostly Pilferer
+1 Gleaming Overseer
+1 Gray Merchant of Asphodel
+1 Hell Mongrel
+1 Likeness Looter
+1 Lost Monarch of Ifnir
+1 Marauding Blight-Priest
+1 Massacre Wurm
+1 Merfolk Looter
+1 Obsessive Stitcher
+1 Ojer Taq, Deepest Foundation
+1 Patchwork Gnomes
+1 Peregrine Drake
+1 Pollywog Prodigy
+1 Putrid Imp
+1 Rune-Scarred Demon
+1 Serra's Emissary
+1 Skirge Familiar
+1 Solemn Simulacrum
+1 Stern Constable
+1 Sun Titan
+1 Talion, the Kindly Lord
+1 Temmet, Naktamun's Will
+1 The Scarab God
+1 Thought Courier
+1 Tireless Tribe
+1 Toxrill, the Corrosive
+1 Varina, Lich Queen
+1 Vohar, Vodalian Desecrator
+1 Zombie Master
+1 Arcane Signet
+1 Bloodthorn Flail
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Dominance
+1 Bitter Triumph
+1 Circular Logic
+1 Frantic Purification
+1 Frantic Search
+1 Back for Seconds
+1 Bone Shards
+1 Call to the Netherworld
+1 Edgar's Awakening
+1 Macabre Waltz
+1 Restless Dreams
+1 Compulsion
+1 Dying to Serve
+1 Monastery Siege
+1 On Wings of Gold
+1 Oversold Cemetery
+1 Renewed Solidarity
+1 Teferi's Ageless Insight
+1 Tortured Existence
+1 Accursed Duneyard
+1 Adarkar Wastes
+1 Caves of Koilos
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Glacial Fortress
+1 Godless Shrine
+7 Island
+1 Isolated Chapel
+4 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Secluded Courtyard
+1 Sunken Hollow
+8 Swamp
+1 Underground River
+Sideboard
+1 Hashaton, Scarab's Fist

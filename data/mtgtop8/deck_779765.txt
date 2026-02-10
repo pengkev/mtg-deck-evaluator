@@ -1,0 +1,99 @@
+1 Accursed Marauder
+1 Birds of Paradise
+1 Chatterfang, Squirrel General
+1 Dauthi Voidwalker
+1 Deadpool, Trading Card
+1 Delighted Halfling
+1 Dualcaster Mage
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Greedy Freebooter
+1 Ignoble Hierarch
+1 Impulsive Pilferer
+1 Mayhem Devil
+1 Mirkwood Bats
+1 Opposition Agent
+1 Orcish Lumberjack
+1 Priest of Gix
+1 Ragavan, Nimble Pilferer
+1 Rev, Tithe Extractor
+1 Ruthless Technomancer
+1 Shambling Ghast
+1 Simian Spirit Guide
+1 Spider-Punk
+1 Squee, the Immortal
+1 Tinder Wall
+1 Warren Soultrader
+1 Arcane Signet
+1 Damping Sphere
+1 Lotus Petal
+1 Sol Ring
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Tithing Blade
+1 Vexing Bauble
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Ad Nauseam
+1 Assassin's Trophy
+1 Burnt Offering
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Flare of Malice
+1 Pyroblast
+1 Rain of Filth
+1 Sacrifice
+1 Saw in Half
+1 Seething Song
+1 Snuff Out
+1 Tibalt's Trickery
+1 Veil of Summer
+1 Claim the Firstborn
+1 Culling Ritual
+1 Diabolic Intent
+1 Gamble
+1 Jeska's Will
+1 Molten Duplication
+1 Pick Your Poison
+1 Seize the Spotlight
+1 Toxic Deluge
+1 Victimize
+1 Black Market Connections
+1 Carpet of Flowers
+1 Chthonian Nightmare
+1 Food Chain
+1 Goblin Bombardment
+1 Underworld Breach
+1 Arid Mesa
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cinder Glade
+1 Command Tower
+1 Emergence Zone
+1 Fabled Passage
+2 Forest
+1 Hickory Woodlot
+1 Luxury Suite
+1 Marsh Flats
+1 Overgrown Tomb
+1 Peat Bog
+1 Polluted Delta
+1 Sandstone Needle
+1 Smoldering Marsh
+1 Starting Town
+1 Stomping Ground
+2 Swamp
+1 Thornspire Verge
+1 Treasure Vault
+1 Urza's Cave
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Korvold, Fae-Cursed King

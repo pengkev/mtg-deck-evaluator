@@ -1,0 +1,94 @@
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Ashling, Flame Dancer
+1 Baral and Kari Zev
+1 Caldera Pyremaw
+1 Crackling Drake
+1 Doc Aurlock, Grizzled Genius
+1 Dragonfly Swarm
+1 Goblin Electromancer
+1 Guru Pathik
+1 Guttersnipe
+1 Haughty Djinn
+1 Hermitic Herbalist
+1 Master Pakku
+1 Pinnacle Monk
+1 Ran and Shaw
+1 Serpent of the Pass
+1 Sokka, Bold Boomeranger
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Talrand, Sky Summoner
+1 Thing in the Ice
+1 Third Path Iconoclast
+1 Uncle Iroh
+1 Young Pyromancer
+1 Arcane Signet
+1 Commander's Sphere
+1 Gruul Signet
+1 Izzet Signet
+1 Simic Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Impulse
+1 Abandon Attachments
+1 Abrade
+1 Combustion Technique
+1 Cycle of Renewal
+1 Firebending Lesson
+1 How to Start a Riot
+1 Impulse
+1 It'll Quench Ya!
+1 Lost Days
+1 Octopus Form
+1 Origin of Metalbending
+1 Sink into Stupor
+1 Sokka's Haiku
+1 Zuko's Exile
+1 Bridgeworks Battle
+1 Containment Breach
+1 Earthbending Lesson
+1 Environmental Sciences
+1 Expressive Iteration
+1 Faithless Looting
+1 Farseek
+1 Illuminate History
+1 Introduction to Annihilation
+1 Iroh's Demonstration
+1 Nature's Lore
+1 Shared Roots
+1 Start from Scratch
+1 Stump Stomp
+1 Sundering Eruption
+1 Teachings of the Archaics
+1 True Ancestry
+1 Waterbending Lesson
+1 Windfall
+1 Leaves from the Vine
+1 Shark Typhoon
+1 Agna Qel'a
+1 Barkchannel Pathway
+1 Cinder Glade
+1 Command Tower
+1 Cragcrown Pathway
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Flooded Grove
+2 Forest
+4 Island
+1 Ketria Triome
+4 Mountain
+1 Myriad Landscape
+1 Rejuvenating Springs
+1 Restless Spire
+1 Riverglide Pathway
+1 Rootbound Crag
+1 Shivan Reef
+1 Spire Garden
+1 Stormcarved Coast
+1 Sulfur Falls
+1 White Lotus Hideout
+1 Yavimaya Coast
+Sideboard
+1 Iroh, Grand Lotus

@@ -1,0 +1,96 @@
+1 Archmage Emeritus
+1 Coruscation Mage
+1 Drift of Phantasms
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Guttersnipe
+1 Haughty Djinn
+1 Hydroelectric Specimen
+1 Lyse Hext
+1 Pinnacle Monk
+1 Storm-Kiln Artist
+1 Stormcatch Mentor
+1 Veyran, Voice of Duality
+1 Adaptive Training Post
+1 Arcane Signet
+1 Azorius Signet
+1 Boros Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Izzet Signet
+1 Midnight Clock
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 An Offer You Can't Refuse
+1 Big Score
+1 Consider
+1 Counterflux
+1 Dramatic Reversal
+1 Expansion/Explosion
+1 Flick a Coin
+1 Frantic Search
+1 Galvanic Iteration
+1 Gifts Ungiven
+1 Invoke Calamity
+1 Jwari Disruption
+1 Legion Leadership
+1 Mission Briefing
+1 Muddle the Mixture
+1 Narset's Reversal
+1 Opt
+1 Path to Exile
+1 Peek
+1 Prismari Command
+1 Quicken
+1 Razorgrass Ambush
+1 Reach Through Mists
+1 Sejiri Shelter
+1 Dovin's Veto
+1 Silundi Vision
+1 Spikefield Hazard
+1 Swords to Plowshares
+1 Turnabout
+1 Unexpected Windfall
+1 Crackle with Power
+1 Dismantling Wave
+1 Expressive Iteration
+1 Jaya's Immolating Inferno
+1 Past in Flames
+1 Pirate's Pillage
+1 Ponder
+1 Preordain
+1 Seize the Spoils
+1 Serum Visions
+1 Sevinne's Reclamation
+1 Solve the Equation
+1 Strike It Rich
+1 Sundering Eruption
+1 Will of the Jeskai
+1 Case of the Ransacked Lab
+1 Fiery Inscription
+1 Whirlwind of Thought
+1 Ral, Storm Conduit
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Ferrous Lake
+1 Fiery Islet
+1 Glacial Fortress
+4 Island
+3 Mountain
+1 Perilous Landscape
+1 Plains
+1 Shivan Reef
+1 Skycloud Expanse
+1 Sulfur Falls
+1 Sunscorched Divide
+1 Terramorphic Expanse
+Sideboard
+1 Kykar, Wind's Fury

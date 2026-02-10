@@ -1,0 +1,77 @@
+1 Goblin Chirurgeon
+1 Goblin Instigator
+1 Hedron Crawler
+1 Iron Myr
+1 Manakin
+1 Mogg War Marshal
+1 Ornithopter
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Plague Myr
+1 Runaway Steam-Kin
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Storm-Kiln Artist
+1 Young Pyromancer
+1 Feldon's Cane
+1 Glittering Stockpile
+1 Lithoform Engine
+1 Oblivion Stone
+1 Pyromancer's Goggles
+1 Sol Ring
+1 Accelerate
+1 Battle Hymn
+1 Blazing Crescendo
+1 Brightstone Ritual
+1 Crimson Wisps
+1 Downhill Charge
+1 Expedite
+1 Fists of Flame
+1 Flare of Duplication
+1 Flick a Coin
+1 Invoke Calamity
+1 Lightning Bolt
+1 Monstrous Rage
+1 Return the Favor
+1 Samut's Sprint
+1 Spawning Breath
+1 Stun
+1 Sudden Breakthrough
+1 Titan's Strength
+1 Twinferno
+1 Uncaged Fury
+1 Ancestral Anger
+1 Chain Reaction
+1 Devastating Summons
+1 Disintegrate
+1 Dragon Fodder
+1 Empty the Warrens
+1 Finale of Promise
+1 Fireball
+1 Forbidden Friendship
+1 Gleeful Demolition
+1 Hordeling Outburst
+1 Infernal Plunge
+1 Inner Fire
+1 Involuntary Employment
+1 Kari Zev's Expertise
+1 Krenko's Command
+1 Mana Geyser
+1 Mogg Alarm
+1 Rally at the Hornburg
+1 Reckless Charge
+1 Renegade Tactics
+1 Song of Totentanz
+1 Spark of Creativity
+1 Traitorous Greed
+1 Twinflame
+1 Witch's Mark
+1 Dwarven Mine
+1 Forgotten Cave
+1 Kher Keep
+1 Mishra's Factory
+25 Mountain
+1 Sandstone Needle
+1 Sokenzan, Crucible of Defiance
+Sideboard
+1 Zada, Hedron Grinder

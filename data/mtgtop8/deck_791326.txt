@@ -1,0 +1,73 @@
+1 Biomancer's Familiar
+1 Birds of Paradise
+1 Boreal Druid
+1 Deadeye Navigator
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Eternal Witness
+1 Frilled Mystic
+1 Fyndhorn Elves
+1 Glen Elendra Archmage
+1 Gyre Engineer
+1 Ilysian Caryatid
+1 Incubation Druid
+1 Jaspera Sentinel
+1 Joraga Treespeaker
+1 Kogla, the Titan Ape
+1 Leafkin Druid
+1 Llanowar Elves
+1 Loam Dryad
+1 Maraleaf Pixie
+1 Murkfiend Liege
+1 Mystic Snake
+1 Nezahal, Primal Tide
+1 Paradise Druid
+1 Prophet of Distortion
+1 Saruli Caretaker
+1 Seedborn Muse
+1 Spectral Sailor
+1 Sylvan Caryatid
+1 Terastodon
+1 Trophy Mage
+1 Arcane Signet
+1 Basalt Monolith
+1 Fellwar Stone
+1 Isochron Scepter
+1 Mirage Mirror
+1 Moonsilver Key
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Talisman of Curiosity
+1 Arcane Denial
+1 Beast Within
+1 Blue Sun's Zenith
+1 Counterspell
+1 Delay
+1 Dispel
+1 Dramatic Reversal
+1 Heroic Intervention
+1 Muddle the Mixture
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Shared Summons
+1 Unsubstantiate
+1 Wash Away
+1 Fabricate
+1 Neoform
+1 Of One Mind
+1 Freed from the Real
+1 Intruder Alarm
+1 Leyline of Abundance
+1 Pemmin's Aura
+1 Command Tower
+1 Exotic Orchard
+17 Forest
+13 Island
+1 Myriad Landscape
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+Sideboard
+1 Kinnan, Bonder Prodigy

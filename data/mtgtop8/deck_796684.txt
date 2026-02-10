@@ -1,0 +1,94 @@
+1 Freya Crescent
+1 Red XIII, Proud Warrior
+1 Lightning, Army of One
+1 Professor Hojo
+1 Ragavan, Nimble Pilferer
+1 Godo, Bandit Warlord
+1 Cid, Freeflier Pilot
+1 Zack Fair
+1 Spider Manifestation
+1 Puresteel Paladin
+1 Armory Automaton
+1 Cloud, Planet's Champion
+1 Torgal, A Fine Hound
+1 Bugenhagen, Wise Elder
+1 Bastion Protector
+1 Weapons Vendor
+1 Professional Face-Breaker
+1 Raubahn, Bull of Ala Mhigo
+1 Inspiring Statuary
+1 Caduceus, Staff of Hermes
+1 Blackblade Reforged
+1 Conqueror's Flail
+1 Conformer Shuriken
+1 Trailblazer's Boots
+1 Hero's Blade
+1 Sol Ring
+1 Hero's Heirloom
+1 Champion's Helm
+1 Wrecking Ball Arm
+1 Sword of the Animist
+1 Genji Glove
+1 Explorer's Scope
+1 Brotherhood Regalia
+1 Behemoth Sledge
+1 Basilisk Collar
+1 Dragoon's Lance
+1 Colossus Hammer
+1 Doc Ock's Tentacles
+1 Chainsaw
+1 Summoning Materia
+1 Leyline Axe
+1 The Spear of Leonidas
+1 Belt of Giant Strength
+1 Machinist's Arsenal
+1 Darksteel Plate
+1 Arcane Signet
+1 Slash of Light
+1 Tifa's Limit Break
+1 Dispatch
+1 Snakeskin Veil
+1 Chaos Warp
+1 Lifestream's Blessing
+1 Restoration Magic
+1 Ultimate Magic: Holy
+1 Lightning Bolt
+1 Clever Concealment
+1 Heroic Intervention
+1 Nature's Claim
+1 Nature's Lore
+1 Vanquish the Horde
+1 Austere Command
+1 Cultivate
+1 Ishgard, the Holy See
+1 Rampant Growth
+1 Mossfire Valley
+1 Sungrass Prairie
+1 Starting Town
+1 Cinder Glade
+1 Exotic Orchard
+1 Rugged Prairie
+1 Clifftop Retreat
+1 Canopy Vista
+1 Sunscorched Divide
+1 Fire-Lit Thicket
+1 Bonders' Enclave
+4 Mountain
+1 Game Trail
+1 Furycalm Snarl
+1 Jungle Shrine
+1 Brushland
+1 Rootbound Crag
+1 Command Tower
+1 Spire of Industry
+1 Slayers' Stronghold
+3 Forest
+1 Path of Ancestry
+1 Sunpetal Grove
+1 Fortified Village
+1 Scavenger Grounds
+1 Battlefield Forge
+3 Plains
+1 Ash Barrens
+Sideboard
+1 Cloud, Ex-SOLDIER

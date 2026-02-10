@@ -1,0 +1,101 @@
+1 Dracogenesis
+1 Underworld Breach
+1 Smothering Tithe
+1 Mystic Remora
+1 Dream Halls
+1 Dance of the Dead
+1 Rhystic Study
+1 Animate Dead
+1 Diabolic Intent
+1 Praetor's Grasp
+1 Demonic Tutor
+1 Reanimate
+1 Rite of Flame
+1 Unmarked Grave
+1 Replenish
+1 Silence
+1 Culling the Weak
+1 Flusterstorm
+1 Borne Upon a Wind
+1 Worldly Tutor
+1 Mana Drain
+1 Tainted Pact
+1 Saw in Half
+1 Chaos Warp
+1 Noxious Revival
+1 Cabal Ritual
+1 Dark Ritual
+1 Mindbreak Trap
+1 Chain of Vapor
+1 Sink into Stupor
+1 Pact of Negation
+1 Pyroblast
+1 Enlightened Tutor
+1 Entomb
+1 Vampiric Tutor
+1 Force of Will
+1 Crop Rotation
+1 Burnt Offering
+1 Red Elemental Blast
+1 Arcane Signet
+1 Chrome Mox
+1 Sol Ring
+1 The One Ring
+1 Fellwar Stone
+1 Mana Vault
+1 Lotus Petal
+1 Miirym, Sentinel Wyrm
+1 Clarion Conqueror
+1 Dragonlord Kolaghan
+1 Dragonlord Dromoka
+1 Neriv, Heart of the Storm
+1 Voice of Victory
+1 Twinflame Tyrant
+1 Archivist of Oghma
+1 Birds of Paradise
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Hoarding Broodlord
+1 Treasonous Ogre
+1 Noble Hierarch
+1 Tinder Wall
+1 Simian Spirit Guide
+1 Elvish Spirit Guide
+1 Deathrite Shaman
+1 Esper Sentinel
+1 Terror of the Peaks
+1 Scourge of Valkas
+1 Thassa's Oracle
+1 Worldgorger Dragon
+1 Ancient Gold Dragon
+1 Ragavan, Nimble Pilferer
+1 Academy Rector
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Marsh Flats
+1 Misty Rainforest
+1 Arid Mesa
+1 Command Tower
+1 Flooded Strand
+1 Hallowed Fountain
+1 Mount Doom
+1 Gemstone Caverns
+1 Cavern of Souls
+1 Boseiju, Who Endures
+1 Mana Confluence
+1 City of Brass
+1 Exotic Orchard
+1 Shifting Woodland
+1 Polluted Delta
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Undercity Sewers
+1 Watery Grave
+1 Stomping Ground
+1 Sacred Foundry
+1 Blood Crypt
+1 Ancient Tomb
+1 Breeding Pool
+1 Urza's Saga
+Sideboard
+1 Tiamat

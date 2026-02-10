@@ -1,0 +1,97 @@
+1 Swiftfoot Boots
+1 Skullclamp
+1 Lightning Greaves
+1 Sol Ring
+1 Urabrask's Forge
+1 Vat of Rebirth
+1 Arcane Signet
+1 Infantry Shield
+1 Swords to Plowshares
+1 Anguished Unmaking
+1 Village Rites
+1 Duty Beyond Death
+1 Deadly Dispute
+1 Will of the Mardu
+1 Blasphemous Act
+1 Anointed Procession
+1 Damn
+1 Crescendo of War
+1 Flowering of the White Tree
+1 Impact Tremors
+1 Warleader's Call
+1 Reconnaissance
+1 Cathars' Crusade
+1 Renewed Solidarity
+1 All-Out Assault
+1 Divine Visitation
+1 Bastion of Remembrance
+1 War Effort
+1 Windcrag Siege
+1 Elspeth Tirel
+1 Elspeth, Storm Slayer
+1 Kaya, Geist Hunter
+1 Adeline, Resplendent Cathar
+1 Venerated Stormsinger
+1 Bone-Cairn Butcher
+1 Avenger of the Fallen
+1 Starry-Eyed Skyrider
+1 Mardu Siegebreaker
+1 Ironwill Forger
+1 Zulaport Cutthroat
+1 Purphoros, God of the Forge
+1 Isshin, Two Heavens as One
+1 Mahadi, Emporium Master
+1 Elas il-Kor, Sadistic Pilgrim
+1 Garna, Bloodfist of Keld
+1 Neyali, Suns' Vanguard
+1 Teysa Karlov
+1 Caesar, Legion's Emperor
+1 Ojer Taq, Deepest Foundation
+1 Anim Pakal, Thousandth Moon
+1 Agate Instigator
+1 Pitiless Plunderer
+1 Enduring Innocence
+1 Alesha, Who Laughs at Fate
+1 Blood Artist
+1 Voice of Victory
+1 Reigning Victor
+1 Dalkovan Packbeasts
+1 Zurgo, Thunder's Decree
+1 Shock Brigade
+1 Ainok Strike Leader
+1 Nadier's Nightblade
+1 Iroas, God of Victory
+1 Minas Tirith
+1 Vault of Champions
+1 Shineshadow Snarl
+1 Shattered Landscape
+1 Sulfurous Springs
+1 Blazemire Verge
+1 Sundown Pass
+1 Bleachbone Verge
+1 Sunbillow Verge
+1 Sunlit Marsh
+1 Exotic Orchard
+1 Clifftop Retreat
+1 Battlefield Forge
+1 Rugged Prairie
+1 Dalkovan Encampment
+1 Fetid Heath
+1 Nomad Outpost
+1 Shattered Sanctum
+1 Windbrisk Heights
+1 Canyon Slough
+1 Isolated Chapel
+1 Ash Barrens
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Spectator Seating
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Sacred Peaks
+1 Command Tower
+2 Swamp
+2 Mountain
+3 Plains
+Sideboard
+1 Zurgo Stormrender

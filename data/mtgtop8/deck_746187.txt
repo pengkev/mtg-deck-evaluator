@@ -1,0 +1,78 @@
+1 Baron Bertram Graywater
+1 Blood Artist
+1 Blood Petal Celebrant
+1 Blood Seeker
+1 Bloodcrazed Paladin
+1 Bloodline Keeper
+1 Bloodtithe Harvester
+1 Captivating Vampire
+1 Champion of Dusk
+1 Cordial Vampire
+1 Crossway Troublemakers
+1 Cruel Celebrant
+1 Cutthroat Contender
+1 Dark Impostor
+1 Drana and Linvala
+1 Drana, Liberator of Malakir
+1 Dusk Legion Sergeant
+1 Dusk Legion Zealot
+1 Edgar, Charmed Groom
+1 Falkenrath Pit Fighter
+1 Florian, Voldaren Scion
+1 Gas Guzzler
+1 Hardened Tactician
+1 Ichor Drinker
+1 Indulgent Aristocrat
+1 Insolent Neonate
+1 Legion Lieutenant
+1 Legion Vanguard
+1 Markov Baron
+1 Preacher of the Schism
+1 Pulse Tracker
+1 Rakish Heir
+1 Ruthless Lawbringer
+1 Sanctum Seeker
+1 Sanguine Evangelist
+1 Shadow Alley Denizen
+1 Stromkirk Captain
+1 Stromkirk Condemned
+1 Thirsting Bloodlord
+1 Twilight Prophet
+1 Unholy Officiant
+1 Vampire Gourmand
+1 Vampire Neonate
+1 Vampire of the Dire Moon
+1 Vampire Socialite
+1 Vengeful Bloodwitch
+1 Vicious Conquistador
+1 Viscera Seer
+1 Voldaren Bloodcaster
+1 Voldaren Epicure
+1 Vraan, Executioner Thane
+1 Welcoming Vampire
+1 Glass-Cast Heart
+1 Deadly Dispute
+1 Mortify
+1 Prismatic Strands
+1 Village Rites
+1 New Blood
+1 Night's Whisper
+1 Olivia's Wrath
+1 Pact of the Serpent
+1 Goblin Bombardment
+1 Shared Animosity
+1 Command Tower
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Isolated Chapel
+7 Mountain
+1 Nomad Outpost
+8 Plains
+1 Secluded Courtyard
+1 Smoldering Marsh
+11 Swamp
+1 Temple of Malice
+1 Unclaimed Territory
+1 Voldaren Estate
+Sideboard
+1 Edgar Markov

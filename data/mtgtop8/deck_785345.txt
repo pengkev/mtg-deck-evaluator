@@ -1,0 +1,87 @@
+1 Alexios, Deimos of Kosmos
+1 Angrath's Marauders
+1 Breeches, Eager Pillager
+1 Captain Lannery Storm
+1 Captain N'ghathrod
+1 Captivating Crew
+1 Coastline Marauders
+1 Coercive Recruiter
+1 Corsair Captain
+1 Cutthroat Negotiator
+1 Daring Saboteur
+1 Dire Fleet Captain
+1 Dire Fleet Poisoner
+1 Dire Fleet Ravager
+1 Enterprising Scallywag
+1 Evie Frye
+1 Forerunner of the Coalition
+1 Gemcutter Buccaneer
+1 Glint-Horn Buccaneer
+1 Malcolm, Alluring Scoundrel
+1 Malcolm, Keen-Eyed Navigator
+1 Mary Read and Anne Bonny
+1 Merchant Raiders
+1 Pirated Copy
+1 Port Razer
+1 Royal Assassin
+1 Siren Stormtamer
+1 Skeleton Crew
+1 Soul Diviner
+1 Storm Fleet Negotiator
+1 Storm Fleet Sprinter
+1 Thunderhead Gunner
+1 Timestream Navigator
+1 Warkite Marauder
+1 Zara, Renegade Recruiter
+1 Arcane Signet
+1 Bident of Thassa
+1 Collector's Vault
+1 Dimir Signet
+1 Rakdos Signet
+1 Sol Ring
+1 The Indomitable
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Frantic Search
+1 Invert Polarity
+1 Prismari Command
+1 Rakdos Charm
+1 Terminate
+1 Blasphemous Act
+1 Buried Alive
+1 Call to the Void
+1 Careful Study
+1 Faithless Looting
+1 Molten Collapse
+1 Vandalblast
+1 Coastal Piracy
+1 Compulsion
+1 Double Down
+1 Monastery Siege
+1 The Sibsig Ceremony
+1 Archway of Innovation
+1 Bloodfell Caves
+1 Command Tower
+1 Crumbling Necropolis
+1 Desolate Lighthouse
+1 Evolving Wilds
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Frostboil Snarl
+7 Island
+5 Mountain
+1 Nephalia Drownyard
+1 Nesting Grounds
+1 Path of Ancestry
+1 Port of Karfell
+1 Restless Reef
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sunken Hollow
+5 Swamp
+1 Thriving Isle
+1 Unclaimed Territory
+Sideboard
+1 Admiral Brass, Unsinkable

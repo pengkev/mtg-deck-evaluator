@@ -1,0 +1,72 @@
+1 Jungle Basin
+1 Simic Growth Chamber
+1 Thornwood Falls
+1 Path of Ancestry
+16 Forest
+14 Island
+1 Myriad Landscape
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Open the Gates
+1 Enter the Unknown
+1 Arbor Elf
+1 Veteran Explorer
+1 Arboreal Grazer
+1 Word of Undoing
+1 Caravan Vigil
+1 Sakura-Tribe Elder
+1 Root Snare
+1 Simic Ascendancy
+1 Llanowar Scout
+1 Rampant Growth
+1 Defend the Hearth
+1 Doppelgang
+1 Flood of Recollection
+1 Nature's Spiral
+1 Growth Spiral
+1 Khalni Heart Expedition
+1 Explore
+1 Summer Bloom
+1 Planar Genesis
+1 Scaled Herbalist
+1 Memory Lapse
+1 Negate
+1 Return to Nature
+1 Druid's Deliverance
+1 Flare of Cultivation
+1 Thought Collapse
+1 Cultivate
+1 Sylvan Awakening
+1 Harrow
+1 Field Trip
+1 Fertilid
+1 Thwart the Enemy
+1 Voidslime
+1 Clear the Mind
+1 Map the Wastes
+1 Didn't Say Please
+1 Eyes Everywhere
+1 Retreat to Coralhelm
+1 Retreat to Kazandu
+1 Thirst for Discovery
+1 Tatyova, Steward of Tides
+1 Eternal Witness
+1 Awakened Amalgam
+1 Plasm Capture
+1 Ivy Lane Denizen
+1 Mass Manipulation
+1 Eureka Moment
+1 Ghirapur Orrery
+1 Herd Baloth
+1 Fecund Greenshell
+1 Silverglade Elemental
+1 Slimefoot's Survey
+1 Zendikar's Roil
+1 Overrun
+1 Beanstalk Wurm
+1 Rampaging Baloths
+1 Nissa's Renewal
+1 End-Raze Forerunners
+1 Ezuri's Predation
+Sideboard
+1 Tatyova, Benthic Druid

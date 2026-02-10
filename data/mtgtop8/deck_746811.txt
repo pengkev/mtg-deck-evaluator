@@ -1,0 +1,92 @@
+1 Beanstalk Giant
+1 Beanstalk Wurm
+1 Beluna Grandsquall
+1 Bohn, Beguiling Balladeer
+1 Bonecrusher Giant
+1 Bramble Familiar
+1 Brazen Borrower
+1 Chancellor of Tales
+1 Edgewall Innkeeper
+1 Elusive Otter
+1 Embereth Shieldbreaker
+1 Flaming Tyrannosaurus
+1 Galvanic Giant
+1 Grabby Giant
+1 Hypnotic Sprite
+1 Karvanista, Loyal Lupari
+1 Kellan, Inquisitive Prodigy
+1 Kraum, Violent Cacophony
+1 Lozhan, Dragons' Legacy
+1 Merchant of the Vale
+1 Moonshae Pixie
+1 Questing Druid
+1 Rattleclaw Mystic
+1 Rosethorn Acolyte
+1 Sapphire Dragon
+1 Savvy Trader
+1 Scalding Viper
+1 Siren Stormtamer
+1 Stormkeld Vanguard
+1 Storyteller Pixie
+1 Sword Coast Serpent
+1 Taigam, Master Opportunist
+1 Tempest Hart
+1 Temur Battlecrier
+1 Two-Headed Hunter
+1 Urabrask, Heretic Praetor
+1 Young Blue Dragon
+1 Arcane Signet
+1 Hunter's Bow
+1 Lucky Clover
+1 Sol Ring
+1 Swiftfoot Boots
+1 Two-Handed Axe
+1 Defend the Rider
+1 Ram Through
+1 Slip Out the Back
+1 Tyvar's Stand
+1 Escape to the Wilds
+1 Full Throttle
+1 Last Night Together
+1 Relentless Assault
+1 Roamer's Routine
+1 Search for Tomorrow
+1 Stump Stomp
+1 Unending Whisper
+1 Ureni's Rebuff
+1 Virtue of Strength
+1 Extraordinary Journey
+1 Fae Offering
+1 Frostcliff Siege
+1 Grim Reaper's Sprint
+1 Passionate Archaeologist
+1 Temur Ascendancy
+1 Garruk Wildspeaker
+1 Bountiful Landscape
+1 Cinder Glade
+1 Command Tower
+1 Dreamroot Cascade
+1 Edgewall Inn
+1 Evolving Wilds
+1 Exotic Orchard
+1 Ferrous Lake
+1 Flooded Grove
+4 Forest
+1 Frontier Bivouac
+1 Frostboil Snarl
+1 Hinterland Harbor
+4 Island
+4 Mountain
+1 Overflowing Basin
+1 Rogue's Passage
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+Sideboard
+1 Eshki Dragonclaw

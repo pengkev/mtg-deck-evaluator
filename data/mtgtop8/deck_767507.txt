@@ -1,0 +1,74 @@
+1 Bakersbane Duo
+1 Bark-Knuckle Boxer
+1 Barkform Harvester
+1 Bello, Bard of the Brambles
+1 Bramble Familiar
+1 Brambleguard Veteran
+1 Brazen Collector
+1 Byway Barterer
+1 Coati Scavenger
+1 Dragonhawk, Fate's Tempest
+1 Junkblade Bruiser
+1 Keen-Eyed Curator
+1 Prosperous Bandit
+1 Raccoon Rallier
+1 Roughshod Duo
+1 Rust-Shield Rampager
+1 Scrappy Bruiser
+1 Scrapshooter
+1 Teapot Slinger
+1 Three Tree Mascot
+1 Valley Mightcaller
+1 Wall of Junk
+1 Wandertale Mentor
+1 Arcane Signet
+1 Bootleggers' Stash
+1 Gruul Signet
+1 Heaped Harvest
+1 Sol Ring
+1 Spare Supplies
+1 Talisman of Impulse
+1 Tangle Tumbler
+1 Well of Lost Dreams
+1 Abrade
+1 Big Score
+1 Chaos Warp
+1 Flick a Coin
+1 Harrow
+1 Peerless Recycling
+1 Prizefight
+1 Take Out the Trash
+1 Unexpected Windfall
+1 Burn Trail
+1 Commune with Nature
+1 Cultivate
+1 Escape to the Wilds
+1 Explore
+1 Hit the Mother Lode
+1 Many Partings
+1 Playful Shove
+1 Rampant Growth
+1 Rootcast Apprenticeship
+1 Terramorph
+1 Alchemist's Talent
+1 Communal Brewing
+1 Gourmand's Talent
+1 Hoarder's Overflow
+1 Mana Reflection
+1 Primeval Bounty
+1 Rain of Riches
+1 Sylvan Scavenging
+1 Thickest in the Thicket
+1 Cinder Glade
+1 Command Tower
+1 Evolving Wilds
+15 Forest
+1 Game Trail
+14 Mountain
+1 Oakhollow Village
+1 Path of Ancestry
+1 Rockface Village
+1 Rugged Highlands
+1 Treasure Vault
+Sideboard
+1 Muerra, Trash Tactician

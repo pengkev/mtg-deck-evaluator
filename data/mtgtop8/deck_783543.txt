@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Birds of Paradise
+1 Blood Artist
+1 Cauldron Familiar
+1 Dark Confidant
+1 Deathrite Shaman
+1 Dragon's Rage Channeler
+1 Dualcaster Mage
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Gravecrawler
+1 Ignoble Hierarch
+1 Mai, Scornful Striker
+1 Mayhem Devil
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Simian Spirit Guide
+1 Spider-Punk
+1 The Cabbage Merchant
+1 Tinder Wall
+1 Valki, God of Lies
+1 Warren Soultrader
+1 Witherbloom Apprentice
+1 Arcane Signet
+1 Defense Grid
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Opal
+1 Paradise Mantle
+1 Sensei's Divining Top
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Indulgence
+1 Wishclaw Talisman
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Entomb
+1 Fire Covenant
+1 Flare of Duplication
+1 Lightning Bolt
+1 Manamorphose
+1 Noxious Revival
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Saw in Half
+1 Summoner's Pact
+1 Tainted Pact
+1 Veil of Summer
+1 Beseech the Mirror
+1 Chain of Smog
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Infernal Plunge
+1 Jeska's Will
+1 Reanimate
+1 Twinflame
+1 Unearth
+1 Wheel of Misfortune
+1 Guild Artisan
+1 Sylvan Library
+1 Urza's Saga
+1 Minsc & Boo, Timeless Heroes
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Shifting Woodland
+1 Starting Town
+1 Stomping Ground
+1 Sulfurous Springs
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Reyhan, Last of the Abzan
+1 Rograkh, Son of Rohgahh

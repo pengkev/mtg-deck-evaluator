@@ -1,0 +1,101 @@
+1 Manglehorn
+1 Spellskite
+1 Seedborn Muse
+1 Gilded Drake
+1 Nyxbloom Ancient
+1 Thassa's Oracle
+1 Phyrexian Metamorph
+1 Prophet of Distortion
+1 Stonework Packbeast
+1 Wandering Archaic
+1 Colossal Skyturtle
+1 Consecrated Sphinx
+1 Horseshoe Crab
+1 Elvish Spirit Guide
+1 Elvish Mystic
+1 Glen Elendra Archmage
+1 Birds of Paradise
+1 Delighted Halfling
+1 Drift of Phantasms
+1 Tidespout Tyrant
+1 Llanowar Elves
+1 Valley Floodcaller
+1 Clever Impersonator
+1 Bloom Tender
+1 Thrasios, Triton Hero
+1 Hullbreaker Horror
+1 Fyndhorn Elves
+1 Phantasmal Image
+1 Enduring Vitality
+1 Basalt Monolith
+1 Paradise Mantle
+1 Talisman of Curiosity
+1 Mox Opal
+1 Mana Vault
+1 Chrome Mox
+1 Mox Diamond
+1 Moonsilver Key
+1 Imposter Mech
+1 Mox Amber
+1 Springleaf Drum
+1 Energy Refractor
+1 The One Ring
+1 Urn of Godfire
+1 Mirage Mirror
+1 Agatha's Soul Cauldron
+1 Simic Signet
+1 Fellwar Stone
+1 Arcane Signet
+1 Lotus Petal
+1 Sol Ring
+1 Swan Song
+1 Veil of Summer
+1 Retraction Helix
+1 Worldly Tutor
+1 Pact of Negation
+1 Mana Drain
+1 Force of Will
+1 Chord of Calling
+1 Flusterstorm
+1 Mindbreak Trap
+1 Force of Negation
+1 Dramatic Reversal
+1 Fierce Guardianship
+1 Transmute Artifact
+1 Fabricate
+1 Finale of Devastation
+1 Mirrormade
+1 Rhystic Study
+1 Mystic Remora
+1 Cryptolith Rite
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Mana Confluence
+1 Exotic Orchard
+1 Tropical Island
+1 Scalding Tarn
+1 Treasure Vault
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Otawara, Soaring City
+1 Forbidden Orchard
+1 City of Brass
+1 Yavimaya Coast
+1 Misty Rainforest
+1 Rejuvenating Springs
+1 Breeding Pool
+1 Hedge Maze
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Tarnished Citadel
+1 Island
+1 Verdant Catacombs
+1 Mistrise Village
+1 Command Tower
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Waterlogged Grove
+1 Forest
+Sideboard
+1 Kinnan, Bonder Prodigy

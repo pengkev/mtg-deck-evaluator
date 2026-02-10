@@ -1,0 +1,39 @@
+1 Manaforge Cinder
+1 Blood Pet
+1 Simian Spirit Guide
+1 Reckless Barbarian
+1 Ornithopter
+1 Bag of Holding
+1 Defense Grid
+1 Sol Ring
+1 Paradise Mantle
+1 Wishclaw Talisman
+1 Arcane Signet
+1 Springleaf Drum
+1 Lotus Petal
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Shadow of the Grave
+1 Ad Nauseam
+1 Slaughter Pact
+1 Dark Ritual
+1 Vampiric Tutor
+1 Cabal Ritual
+1 Culling the Weak
+1 Rain of Filth
+1 Scheming Symmetry
+1 Rhystic Tutor
+1 Infernal Plunge
+1 Insatiable Avarice
+1 Rite of Flame
+1 Diabolic Intent
+1 Gamble
+1 Seismic Assault
+1 Quest for Pure Flame
+1 Ebon Stronghold
+1 Command Tower
+44 Swamp
+20 Mountain
+Sideboard
+1 Rograkh, Son of Rohgahh
+1 Miara, Thorn of the Glade

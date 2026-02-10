@@ -1,0 +1,80 @@
+1 Archmage Emeritus
+1 Coruscation Mage
+1 Crackling Drake
+1 Electrostatic Field
+1 Goblin Electromancer
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Haughty Djinn
+1 Ojer Axonil, Deepest Might
+1 Storm-Kiln Artist
+1 Talrand, Sky Summoner
+1 The Locust God
+1 Third Path Iconoclast
+1 Torbran, Thane of Red Fell
+1 Veyran, Voice of Duality
+1 Young Pyromancer
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Izzet Signet
+1 Mindsplice Apparatus
+1 Sol Ring
+1 Talisman of Creativity
+1 Thought Vessel
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Archive Trap
+1 Big Score
+1 Brainstorm
+1 Consider
+1 Counterspell
+1 Cyclonic Rift
+1 Dispel
+1 Expansion/Explosion
+1 Flame of Anor
+1 Frantic Search
+1 Izzet Charm
+1 Narset's Reversal
+1 Negate
+1 Opt
+1 Prismari Command
+1 Pyretic Ritual
+1 Rapid Hybridization
+1 Resculpt
+1 Swan Song
+1 Thrill of Possibility
+1 Blasphemous Act
+1 Expressive Iteration
+1 Faithless Looting
+1 Gamble
+1 Gitaxian Probe
+1 Mana Geyser
+1 Mizzix's Mastery
+1 Mystic Retrieval
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Solve the Equation
+1 Treasure Cruise
+1 Vandalblast
+1 Windfall
+1 Powerbalance
+1 Teferi's Ageless Insight
+1 Jace, Wielder of Mysteries
+1 Narset, Parter of Veils
+1 Cascade Bluffs
+1 Command Tower
+12 Island
+1 Izzet Boilerworks
+11 Mountain
+1 Myriad Landscape
+1 Reliquary Tower
+1 Shivan Reef
+1 Spirebluff Canal
+1 Sulfur Falls
+1 Swiftwater Cliffs
+1 Temple of Epiphany
+Sideboard
+1 Niv-Mizzet, Parun

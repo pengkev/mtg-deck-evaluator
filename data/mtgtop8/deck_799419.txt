@@ -1,0 +1,98 @@
+1 Cemetery Illuminator
+1 Clarion Spirit
+1 Curiosity Crafter
+1 Dreamshackle Geist
+1 Drogskol Captain
+1 Drogskol Reinforcements
+1 Drumbellower
+1 Empyrean Eagle
+1 Enduring Curiosity
+1 Ethereal Investigator
+1 Glasspool Mimic
+1 Godhead of Awe
+1 Guardian of Faith
+1 Hanged Executioner
+1 Hydroelectric Specimen
+1 Katilda, Dawnhart Martyr
+1 Kira, Great Glass-Spinner
+1 Mausoleum Wanderer
+1 Mirror Entity
+1 Mirrorhall Mimic
+1 Mondrak, Glory Dominus
+1 Nebelgast Herald
+1 Patrician Geist
+1 Rattlechains
+1 Remorseful Cleric
+1 Roaming Throne
+1 Selfless Spirit
+1 Shacklegeist
+1 Skyclave Apparition
+1 Spectral Arcanist
+1 Spectral Sailor
+1 Spell Queller
+1 Spirit of the Labyrinth
+1 Supreme Phantom
+1 Tradewind Rider
+1 Unsettled Mariner
+1 Wan Shi Tong, Librarian
+1 White Orchid Phantom
+1 Windborn Muse
+1 Witch Enchanter
+1 Arcane Signet
+1 Azorius Signet
+1 Banner of Kinship
+1 Bident of Thassa
+1 Heraldic Banner
+1 Lightning Greaves
+1 Mana Vault
+1 Skullclamp
+1 Sol Ring
+1 Sword of Feast and Famine
+1 Talisman of Progress
+1 Thought Vessel
+1 Clever Concealment
+1 Cyclonic Rift
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Mana Drain
+1 Razorgrass Ambush
+1 Sink into Stupor
+1 Swan Song
+1 Teferi's Protection
+1 Sea Gate Restoration
+1 Anointed Procession
+1 Coastal Piracy
+1 Court of Vantress
+1 Impostor Syndrome
+1 Kindred Discovery
+1 Reconnaissance Mission
+1 Renewed Solidarity
+1 Rhystic Study
+1 Smothering Tithe
+1 Accursed Duneyard
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Cavern of Souls
+1 Command Tower
+1 Deserted Beach
+1 Eiganjo, Seat of the Empire
+1 Flagstones of Trokair
+1 Flooded Strand
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Irrigated Farmland
+3 Island
+1 Mystic Gate
+1 Nimbus Maze
+1 Otawara, Soaring City
+2 Plains
+1 Prismatic Vista
+1 Reliquary Tower
+1 Sea of Clouds
+1 Three Tree City
+1 Tundra
+1 Windbrisk Heights
+Sideboard
+1 Millicent, Restless Revenant

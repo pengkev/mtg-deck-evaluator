@@ -1,0 +1,73 @@
+1 Accursed Marauder
+1 Acidic Slime
+1 Acolyte of Affliction
+1 Aftermath Analyst
+1 Angel of Suffering
+1 Avenging Druid
+1 Big Game Hunter
+1 Bloodthrone Vampire
+1 Body Launderer
+1 Boggart Trawler
+1 Carrion Feeder
+1 Corpse Augur
+1 Eternal Witness
+1 Gala Greeters
+1 Gray Merchant of Asphodel
+1 Grim Servant
+1 Henrika Domnathi
+1 Intellect Devourer
+1 Kessig Cagebreakers
+1 Krosan Wayfarer
+1 Millikin
+1 Ophiomancer
+1 Outland Liberator
+1 Pharika's Mender
+1 Plaguecrafter
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Rune-Scarred Demon
+1 Sakura-Tribe Elder
+1 Scavenging Ooze
+1 Sidisi, Regent of the Mire
+1 Skirge Familiar
+1 Slum Reaper
+1 Spore Frog
+1 Starving Revenant
+1 Thrashing Brontodon
+1 Vile Entomber
+1 Vilis, Broker of Blood
+1 Viscera Seer
+1 Voice of Many
+1 Yahenni, Undying Partisan
+1 Ygra, Eater of All
+1 Hedge Shredder
+1 Lifecrafter's Bestiary
+1 Sol Ring
+1 Spawning Pit
+1 Swiftfoot Boots
+1 Beast Within
+1 Fated Return
+1 Grisly Salvage
+1 Cultivate
+1 Decree of Pain
+1 Diabolic Intent
+1 Feed the Infection
+1 Infectious Inquiry
+1 Kodama's Reach
+1 Read the Bones
+1 Reanimate
+1 Rise of the Witch-King
+1 Sinkhole
+1 Toxic Deluge
+1 Victimize
+1 Animate Dead
+1 Kenrith's Transformation
+1 Ripples of Undeath
+1 Command Tower
+12 Forest
+1 Golgari Rot Farm
+1 Grim Backwoods
+1 Susur Secundi, Void Altar
+18 Swamp
+Sideboard
+1 Meren of Clan Nel Toth

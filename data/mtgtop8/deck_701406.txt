@@ -1,0 +1,101 @@
+1 Adarkar Wastes
+1 Ancient Den
+1 Ancient Tomb
+1 Arcane Denial
+1 Arcane Signet
+1 Arid Mesa
+1 Azorius Signet
+1 Blind Obedience
+1 Boromir, Warden of the Tower
+1 Capsize
+1 Chain of Vapor
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Commandeer
+1 Coveted Jewel
+1 Cyclonic Rift
+1 Displacer Kitten
+1 Dramatic Reversal
+1 Drannith Magistrate
+1 Drown in Dreams
+1 Echo of Eons
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Even the Score
+1 Exotic Orchard
+1 Fabricate
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Intuition
+1 Invasion of Arcavios
+1 Island
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Vault
+1 March of Swirling Mist
+1 Marsh Flats
+1 Memory Jar
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap
+1 Misty Rainforest
+1 Mockingbird
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Paradoxical Outcome
+1 Phyrexian Metamorph
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Prosperity
+1 Ranger-Captain of Eos
+1 Relic of Legends
+1 Rhystic Study
+1 Scalding Tarn
+1 Sea of Clouds
+1 Seat of the Synod
+1 Silence
+1 Smothering Tithe
+1 Snap
+1 Sol Ring
+1 Spellskite
+1 Spire of Industry
+1 Standstill
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teferi, Time Raveler
+1 The One Ring
+1 Tidespout Tyrant
+1 Time Spiral
+1 Timetwister
+1 Touch the Spirit Realm
+1 Tundra
+1 Urza's Saga
+1 Vision Skeins
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Wandering Archaic
+1 Windfall
+1 Windswept Heath
+1 Words of Wisdom
+Sideboard
+1 Heliod, the Radiant Dawn

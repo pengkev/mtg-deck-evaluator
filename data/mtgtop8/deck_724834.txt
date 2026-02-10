@@ -1,0 +1,93 @@
+1 Anax, Hardened in the Forge
+1 Zulaport Cutthroat
+1 Opposition Agent
+1 Fleshbag Marauder
+1 Impulsive Pilferer
+1 Jadar, Ghoulcaller of Nephalia
+1 Gravelighter
+1 Mahadi, Emporium Master
+1 Lagomos, Hand of Hatred
+1 Merciless Executioner
+1 Demon's Disciple
+1 Forsaken Miner
+1 Warren Soultrader
+1 Marionette Apprentice
+1 Accursed Marauder
+1 Plaguecrafter
+1 Pitiless Plunderer
+1 Vengeful Bloodwitch
+1 Blood Artist
+1 Mayhem Devil
+1 Massacre Wurm
+1 Ophiomancer
+1 Gravecrawler
+1 Atsushi, the Blazing Sky
+1 Lotus Petal
+1 Ashnod's Altar
+1 Phyrexian Altar
+1 The One Ring
+1 Arcane Signet
+1 Tithing Blade
+1 Jet Medallion
+1 Mind Stone
+1 Sol Ring
+1 Séance Board
+1 Rakdos Signet
+1 Talisman of Indulgence
+1 Skullclamp
+1 Village Rites
+1 Pyroblast
+1 Red Elemental Blast
+1 Dark Ritual
+1 Liliana's Triumph
+1 Malakir Rebirth
+1 Deadly Dispute
+1 Nasty End
+1 Chaos Warp
+1 Corrupted Conviction
+1 Sheoldred's Edict
+1 Withering Torment
+1 Rakdos Charm
+1 Deadly Rollick
+1 Demonic Tutor
+1 Mire in Misery
+1 Innocent Blood
+1 Skull Storm
+1 Visions of Ruin
+1 Fatal Grudge
+1 Jeska's Will
+1 Diabolic Intent
+1 Sign in Blood
+1 Toxic Deluge
+1 Blasphemous Act
+1 Reanimate
+1 Night's Whisper
+1 Blasphemous Edict
+1 Vandalblast
+1 Revel in Riches
+1 The Meathook Massacre
+1 Nowhere to Run
+1 Momentum Breaker
+1 Curse of Opulence
+1 Verdant Catacombs
+1 Sandstone Needle
+1 Emergence Zone
+1 Blood Crypt
+1 Bloodstained Mire
+1 Blightstep Pathway
+1 Fabled Passage
+1 Sulfurous Springs
+1 Foreboding Ruins
+1 Haunted Ridge
+1 Bojuka Bog
+1 Smoldering Marsh
+2 Mountain
+1 Shadowblood Ridge
+1 Tainted Peak
+1 Peat Bog
+1 Graven Cairns
+1 Command Tower
+8 Swamp
+1 Dragonskull Summit
+Sideboard
+1 The Balrog, Durin's Bane

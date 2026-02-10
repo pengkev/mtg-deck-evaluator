@@ -1,0 +1,93 @@
+1 Aegis of the Gods
+1 Archon of Sun's Grace
+1 Ardbert, Warrior of Darkness
+1 Auramancer
+1 Baleful Strix
+1 Grand Abolisher
+1 Hypnotic Sprite
+1 Inquisitive Glimmer
+1 Lyse Hext
+1 Monastery Mentor
+1 Murderous Rider
+1 Papalymo Totolymo
+1 Starfield Mystic
+1 Summon: Good King Mog XII
+1 Tataru Taru
+1 Volatile Stormdrake
+1 Zur the Enchanter
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Dancer's Chakrams
+1 Relic of Legends
+1 Sol Ring
+1 Thought Vessel
+1 Tome of Legends
+1 Whispersilk Cloak
+1 White Auracite
+1 Brainstorm
+1 Cancel
+1 Dark Ritual
+1 Dissipate
+1 Dovin's Veto
+1 Mana Leak
+1 Negate
+1 Path to Exile
+1 Silence
+1 Spell Pierce
+1 Swords to Plowshares
+1 Void Rend
+1 Exsanguinate
+1 Slash the Ranks
+1 Syphon Mind
+1 Vindicate
+1 All That Glitters
+1 Aura of Silence
+1 Authority of the Consuls
+1 Black Market Connections
+1 Blind Obedience
+1 Combat Research
+1 Copy Enchantment
+1 Curiosity
+1 Darksteel Mutation
+1 Demonic Embrace
+1 Ethereal Armor
+1 Ghostly Prison
+1 Grasp of Fate
+1 Hallowed Haunting
+1 Helm of the Ghastlord
+1 Mirrormade
+1 Monologue Tax
+1 Observed Stasis
+1 Phyrexian Arena
+1 Phyrexian Unlife
+1 Propaganda
+1 Solemnity
+1 Steel of the Godhead
+1 Arcane Sanctum
+1 Ash Barrens
+1 Choked Estuary
+1 Command Tower
+1 Contaminated Aquifer
+1 Darkwater Catacombs
+1 Demolition Field
+1 Desolate Mire
+1 Drowned Catacomb
+1 Esper Panorama
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+1 Idyllic Beachfront
+3 Island
+1 Isolated Chapel
+1 Path of Ancestry
+4 Plains
+1 Port Town
+1 Prairie Stream
+1 Scavenger Grounds
+1 Shineshadow Snarl
+1 Skycloud Expanse
+1 Sunken Hollow
+4 Swamp
+1 Temple of the False God
+Sideboard
+1 Y'shtola, Night's Blessed

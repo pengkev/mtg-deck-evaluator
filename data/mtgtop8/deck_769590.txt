@@ -1,0 +1,101 @@
+1 Archivist of Oghma
+1 Avalanche of Sector 7
+1 Cemetery Gatekeeper
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Fate Unraveler
+1 Flamescroll Celebrant
+1 Ghostly Pilferer
+1 Gleeful Arsonist
+1 Harsh Mentor
+1 Immolation Shaman
+1 Kambal, Consul of Allocation
+1 Kederekt Parasite
+1 Ledger Shredder
+1 Lotho, Corrupt Shirriff
+1 Magebane Lizard
+1 Mangara, the Diplomat
+1 Pollywog Prodigy
+1 Razorkin Needlehead
+1 River Song
+1 Scab-Clan Berserker
+1 Scalding Viper
+1 Scrawling Crawler
+1 Sheoldred, the Apocalypse
+1 Talion, the Kindly Lord
+1 Tataru Taru
+1 Tomik, Wielder of Law
+1 Valgavoth, Harrower of Souls
+1 Zo-Zu the Punisher
+1 Ankh of Mishra
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Teferi's Puzzle Box
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Mana Drain
+1 Negate
+1 Path to Exile
+1 Swan Song
+1 Swords to Plowshares
+1 Void Rend
+1 Approach of the Second Sun
+1 Time Reversal
+1 Wheel of Fortune
+1 Whispering Madness
+1 Windfall
+1 Monologue Tax
+1 Mystic Remora
+1 Smothering Tithe
+1 Soul Barrier
+1 Trouble in Pairs
+1 Underworld Breach
+1 Ob Nixilis, the Hate-Twisted
+1 Arid Mesa
+1 Badlands
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Brightclimb Pathway
+1 Clearwater Pathway
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Godless Shrine
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Island
+1 Luxury Suite
+1 Marsh Flats
+1 Morphic Pool
+1 Mountain
+1 Multiversal Passage
+1 Needleverge Pathway
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Prismatic Vista
+1 Raffine's Tower
+1 Raugrin Triome
+1 Riverglide Pathway
+1 Sacred Foundry
+1 Savai Triome
+1 Scalding Tarn
+1 Scrubland
+1 Sea of Clouds
+1 Spectator Seating
+1 Steam Vents
+1 Swamp
+1 Training Center
+1 Tundra
+1 Underground Sea
+1 Vault of Champions
+1 Volcanic Island
+1 Watery Grave
+1 Xander's Lounge
+Sideboard
+1 Kraum, Ludevic's Opus
+1 Tymna the Weaver

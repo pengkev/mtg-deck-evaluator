@@ -1,0 +1,101 @@
+1 Walking Ballista
+1 Elvish Spirit Guide
+1 Deadeye Navigator
+1 Misthollow Griffin
+1 Birds of Paradise
+1 Noble Hierarch
+1 Grand Arbiter Augustin IV
+1 Glen Elendra Archmage
+1 Temur Sabertooth
+1 Venser, Shaper Savant
+1 Avacyn's Pilgrim
+1 Clever Impersonator
+1 Seedborn Muse
+1 Aethersnipe
+1 Mulldrifter
+1 Saprazzan Legate
+1 Peregrine Drake
+1 Palinchron
+1 Skyshroud Cutter
+1 Phyrexian Metamorph
+1 Stunt Double
+1 Chakram Retriever
+1 Spark Double
+1 Chulane, Teller of Tales
+1 Thassa's Oracle
+1 Slippery Bogbonder
+1 Wandering Archaic
+1 Solitude
+1 Subtlety
+1 Timeless Witness
+1 Hullbreaker Horror
+1 Canoptek Scarab Swarm
+1 Myrel, Shield of Argive
+1 Elesh Norn, Mother of Machines
+1 Inga and Esika
+1 Delighted Halfling
+1 Radagast the Brown
+1 Sowing Mycospawn
+1 Witch Enchanter
+1 Disciple of Freyalise
+1 Enduring Curiosity
+1 High Fae Trickster
+1 Plagon, Lord of the Beach
+1 Quantum Riddler
+1 Starfield Vocalist
+1 Icetill Explorer
+1 Mightform Harmonizer
+1 Sol Ring
+1 Chrome Mox
+1 Lightning Greaves
+1 Force of Will
+1 Enlightened Tutor
+1 Worldly Tutor
+1 Swords to Plowshares
+1 Pact of Negation
+1 Mana Drain
+1 Mental Misstep
+1 Eladamri's Call
+1 Swan Song
+1 Force of Negation
+1 Force of Vigor
+1 Fierce Guardianship
+1 Legolas's Quick Reflexes
+1 Strix Serenade
+1 Wild Growth
+1 Utopia Sprawl
+1 Intruder Alarm
+1 Food Chain
+1 Deafening Silence
+1 Plains
+1 Yavimaya Coast
+1 Cavern of Souls
+1 Forbidden Orchard
+1 Minamo, School at Water's Edge
+1 Adarkar Wastes
+1 Brushland
+1 Breeding Pool
+1 Hallowed Fountain
+1 Mana Confluence
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Savannah
+1 Tropical Island
+1 Reflecting Pool
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Gaea's Cradle
+1 Temple Garden
+1 Gemstone Caverns
+1 Command Tower
+1 Rejuvenating Springs
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Shifting Woodland
+1 Talon Gates of Madara
+1 Mistrise Village
+Sideboard
+1 Helga, Skittish Seer

@@ -1,0 +1,101 @@
+1 Birds of Paradise
+1 Bloom Tender
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Elvish Mystic
+1 Endurance
+1 Enduring Vitality
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Gilded Drake
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Core Augur
+1 Jin-Gitaxias, Progress Tyrant
+1 Llanowar Elves
+1 Llawan, Cephalid Empress
+1 Manglehorn
+1 Nezahal, Primal Tide
+1 Nyxbloom Ancient
+1 Phyrexian Metamorph
+1 Prophet of Distortion
+1 Seedborn Muse
+1 Siren Stormtamer
+1 Synth Infiltrator
+1 Thassa's Oracle
+1 Thrasios, Triton Hero
+1 Tidespout Tyrant
+1 Tishana's Tidebinder
+1 Trinket Mage
+1 Trophy Mage
+1 Walking Ballista
+1 Wandering Archaic
+1 Waxen Shapethief
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Lotus Petal
+1 Mana Vault
+1 Moonsilver Key
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Simic Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 The One Ring
+1 Arcane Denial
+1 Counterspell
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Pact of Negation
+1 Pongify
+1 Rapid Hybridization
+1 Veil of Summer
+1 Worldly Tutor
+1 Fabricate
+1 Copy Artifact
+1 Cryptolith Rite
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Urza's Saga
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Breeding Pool
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Crystal Vein
+1 Flooded Grove
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hedge Maze
+1 Homeward Path
+1 Inventors' Fair
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Overflowing Basin
+1 Plaza of Heroes
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Treasure Vault
+1 Tropical Island
+1 Waterlogged Grove
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Kinnan, Bonder Prodigy

@@ -1,0 +1,71 @@
+1 Invoke the Winds
+1 Teferi, Mage of Zhalfir
+1 Hullbreaker Horror
+1 Sapphire Medallion
+1 Stunt Double
+1 Valley Floodcaller
+1 Baral, Chief of Compliance
+1 Venser, Shaper Savant
+1 Narset, Parter of Veils
+1 Propaganda
+1 Mnemonic Deluge
+1 Mindsplice Apparatus
+1 Arcane Signet
+1 Sol Ring
+1 Mind Stone
+1 Spelltwine
+1 Bond of Insight
+1 Flood of Recollection
+1 Call to Mind
+1 Distorting Wake
+1 Counterspell
+1 Rewind
+1 Cyber Conversion
+1 Temporal Mastery
+1 Solve the Equation
+1 Domineering Will
+1 Curse of the Swine
+1 Clone Legion
+1 Thought Vessel
+1 High Tide
+1 Mass Manipulation
+1 Aminatou's Augury
+1 Evacuation
+1 Aetherize
+1 Engulf the Shore
+1 Consuming Tide
+1 Day's Undoing
+1 Cryptic Command
+1 Blue Sun's Twilight
+1 Displacement Wave
+1 Aether Gale
+1 Spectral Deluge
+1 Midnight Clock
+1 Sky Diamond
+1 Memory Lapse
+1 Ravenform
+1 Step Through
+1 Archmage's Charm
+1 Misdirection
+1 Baral's Expertise
+1 Blatant Thievery
+1 Flow of Ideas
+1 Mystical Tutor
+31 Island
+1 Riptide Laboratory
+1 Gilded Lotus
+1 Sublime Epiphany
+1 Final-Word Phantom
+1 High Fae Trickster
+1 Castle Vantress
+1 Mystic Sanctuary
+1 Myriad Landscape
+1 Shark Typhoon
+1 Thunderclap Drake
+1 Archmage Emeritus
+1 Three Steps Ahead
+1 Wayfarer's Bauble
+1 Chrome Host Seedshark
+1 Wizards of Thay
+Sideboard
+1 Gandalf, Friend of the Shire

@@ -1,0 +1,97 @@
+1 Fellwar Stone
+1 Dimir Signet
+1 Everflowing Chalice
+1 Golgari Signet
+1 Simic Signet
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Talisman of Curiosity
+1 Springleaf Drum
+1 Moonsilver Key
+1 Machine God's Effigy
+1 Energy Refractor
+1 Arcane Denial
+1 Brainstorm
+1 Crop Rotation
+1 Dark Ritual
+1 Dispel
+1 Mana Leak
+1 Retraction Helix
+1 Spell Pierce
+1 Assassin's Trophy
+1 Commandeer
+1 Basalt Monolith
+1 Autumn's Veil
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Chromatic Lantern
+1 Sol Ring
+1 Tormod's Crypt
+1 Winds of Rebuke
+1 Whirlwind Denial
+1 Imp's Mischief
+1 Turn the Earth
+1 An Offer You Can't Refuse
+1 Defabricate
+1 Borne Upon a Wind
+1 Strix Serenade
+1 Echoing Truth
+1 Aetherize
+1 Fabricate
+1 Mastermind's Acquisition
+1 Culling Ritual
+1 Demonic Counsel
+1 Dark Petition
+1 Diabolic Tutor
+1 Helix Pinnacle
+1 Mystic Remora
+1 Oko, Thief of Crowns
+1 Neoform
+1 Elves of Deep Shadow
+1 Llanowar Elves
+1 Trinket Mage
+1 Devoted Druid
+1 Cogwork Assembler
+1 Trophy Mage
+1 Divining Witch
+1 Elvish Spirit Guide
+1 Runic Armasaur
+1 Malevolent Hermit
+1 Hullbreaker Horror
+1 Arcane Proxy
+1 Poison Dart Frog
+1 Forensic Gadgeteer
+1 Glarb, Calamity's Augur
+1 Valley Floodcaller
+1 Elvish Mystic
+1 Colossal Skyturtle
+1 Laboratory Maniac
+1 Fabled Passage
+1 Ash Barrens
+1 Reliquary Tower
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Opulent Palace
+1 Botanical Sanctum
+1 Spire of Industry
+1 Flooded Grove
+1 Darkslick Shores
+1 Waterlogged Grove
+1 Treasure Vault
+1 Shipwreck Marsh
+1 Dreamroot Cascade
+1 Overflowing Basin
+1 Foreboding Landscape
+1 Sunken Hollow
+1 Yavimaya Coast
+1 Cephalid Coliseum
+1 Tainted Isle
+1 Crystal Vein
+1 Emergence Zone
+1 Command Tower
+2 Island
+2 Swamp
+3 Forest
+Sideboard
+1 Thrasios, Triton Hero
+1 Tevesh Szat, Doom of Fools

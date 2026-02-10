@@ -1,0 +1,101 @@
+1 Altered Ego
+1 Apex Devastator
+1 Beledros Witherbloom
+1 Birds of Paradise
+1 Bloom Tender
+1 Cloud of Faeries
+1 Colossal Grave-Reaver
+1 Deadeye Navigator
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Doom Whisperer
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Eternal Witness
+1 Fierce Empath
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Ghalta, Stampede Tyrant
+1 Great Whale
+1 Gyruda, Doom of Depths
+1 Hoarding Broodlord
+1 Hullbreaker Horror
+1 Icetill Explorer
+1 Kinnan, Bonder Prodigy
+1 Llanowar Elves
+1 Palinchron
+1 Peregrine Drake
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Prime Speaker Zegana
+1 Radagast the Brown
+1 Ruthless Technomancer
+1 Scholar of the Lost Trove
+1 Sowing Mycospawn
+1 Spellseeker
+1 Starfield Vocalist
+1 Thassa's Oracle
+1 Tishana, Voice of Thunder
+1 Woodland Bellower
+1 Chrome Mox
+1 Mana Vault
+1 Mox Diamond
+1 Sol Ring
+1 Crop Rotation
+1 Dark Ritual
+1 Fierce Guardianship
+1 Lim-Dul's Vault
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Pact of Negation
+1 Summoner's Pact
+1 Tainted Pact
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Culling Ritual
+1 Demonic Tutor
+1 Eldritch Evolution
+1 Eureka
+1 Imperial Seal
+1 Incarnation Technique
+1 Last March of the Ents
+1 Nature's Rhythm
+1 Neoform
+1 Reanimate
+1 Defense of the Heart
+1 Exploration
+1 Food Chain
+1 Wild Growth
+1 Kiora, Behemoth Beckoner
+1 Tezzeret, Cruel Captain
+1 Ancient Tomb
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Scalding Tarn
+1 Swamp
+1 Tropical Island
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Glarb, Calamity's Augur

@@ -1,0 +1,82 @@
+1 Allosaurus Shepherd
+1 Apex Altisaur
+1 Arbor Adherent
+1 Arboreal Grazer
+1 Augur of Autumn
+1 Birds of Paradise
+1 Cultivator Colossus
+1 Defiler of Vigor
+1 Diamond Weapon
+1 Dragonlair Spider
+1 Emergent Woodwurm
+1 Fanatic of Rhonas
+1 Forgotten Ancient
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Goblin Anarchomancer
+1 Gwenna, Eyes of Gaea
+1 Klauth, Unrivaled Ancient
+1 Kodama of the East Tree
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Lotus Cobra
+1 Nyxbloom Ancient
+1 Overlord of the Hauntwoods
+1 Prowling Serpopard
+1 Ragavan, Nimble Pilferer
+1 Ruby, Daring Tracker
+1 Selvala, Heart of the Wilds
+1 Silverback Elder
+1 Terror of the Peaks
+1 Tireless Provisioner
+1 Vaultborn Tyrant
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Cursed Mirror
+1 Herd Heirloom
+1 Jeweled Amulet
+1 Lotus Petal
+1 Relic of Legends
+1 Sol Ring
+1 Talisman of Impulse
+1 The Fire Crystal
+1 The Great Henge
+1 Thought Vessel
+1 Throne of Eldraine
+1 Umbral Mantle
+1 Chaos Warp
+1 Chord of Calling
+1 Collected Company
+1 Desperate Ritual
+1 Electrodominance
+1 Harrow
+1 Heroic Intervention
+1 Open the Omenpaths
+1 Prishe's Wanderings
+1 Seething Song
+1 Summoning Trap
+1 Tibalt's Trickery
+1 Cultivate
+1 Last March of the Ents
+1 Nature's Lore
+1 Selvala's Stampede
+1 Skyshroud Claim
+1 Abundance
+1 Defense of the Heart
+1 In Search of Greatness
+1 Lurking Predators
+1 Rhythm of the Wild
+1 Sylvan Library
+1 Up the Beanstalk
+1 Warstorm Surge
+1 Command Tower
+1 Emergence Zone
+11 Forest
+1 Gruul Turf
+1 Karplusan Forest
+10 Mountain
+1 Rogue's Passage
+1 Rootbound Crag
+1 Stomping Ground
+Sideboard
+1 Radha, Heart of Keld

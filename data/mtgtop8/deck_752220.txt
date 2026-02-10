@@ -1,0 +1,90 @@
+1 Ancient Bronze Dragon
+1 Anzrag, the Quake-Mole
+1 Clamavus
+1 Defiler of Vigor
+1 Etali, Primal Conqueror
+1 Etali, Primal Storm
+1 Evolution Witness
+1 Frenzied Baloth
+1 Ghalta, Primal Hunger
+1 Goblin Anarchomancer
+1 Halana and Alena, Partners
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Loyal Guardian
+1 Managorger Hydra
+1 Renata, Called to the Hunt
+1 Stalking Vengeance
+1 Surrak and Goreclaw
+1 Taurean Mauler
+1 Tyrranax Rex
+1 Ulamog, the Defiler
+1 Urabrask the Hidden
+1 Zopandrel, Hunger Dominus
+1 Arcane Signet
+1 Fractal Harness
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 The Earth Crystal
+1 The Ozolith
+1 Beast Within
+1 Heritage Reclamation
+1 Inspiring Call
+1 Invigorating Surge
+1 Momentous Fall
+1 Ram Through
+1 Signal the Clans
+1 Snakeskin Veil
+1 Unleash Fury
+1 Worldly Tutor
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Cultivate
+1 Explore
+1 Fangs of Kalonia
+1 Full Throttle
+1 Kodama's Reach
+1 Nature's Rhythm
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Stump Stomp
+1 Traverse the Outlands
+1 Traverse the Ulvenwald
+1 Unnatural Restoration
+1 Arni Slays the Troll
+1 Branching Evolution
+1 Hardened Scales
+1 Innkeeper's Talent
+1 Invigorating Hot Spring
+1 Loading Zone
+1 Pain for All
+1 Rhythm of the Wild
+1 Terrasymbiosis
+1 Tribute to the World Tree
+1 Unnatural Growth
+1 Invasion of Ixalan
+1 Domri, Chaos Bringer
+1 Arena of Glory
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Cragcrown Pathway
+1 Exotic Orchard
+7 Forest
+1 Game Trail
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+6 Mountain
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Spire Garden
+1 Stomping Ground
+1 Temple of Abandon
+1 Thornspire Verge
+1 Wooded Foothills
+Sideboard
+1 Minsc & Boo, Timeless Heroes

@@ -1,0 +1,87 @@
+1 Accursed Marauder
+1 Alabaster Host Intercessor
+1 Angel of the Ruins
+1 Archfiend of Ifnir
+1 Baleful Strix
+1 Bringer of the Last Gift
+1 Cathar Commando
+1 Chupacabra Echo
+1 Curator of Mysteries
+1 Doomed Necromancer
+1 Drannith Healer
+1 Eagles of the North
+1 Flourishing Fox
+1 Hama Pashar, Ruin Seeker
+1 Herald of the Forgotten
+1 Imposing Vantasaur
+1 Karmic Guide
+1 Lurching Rotbeast
+1 Monstrosity of the Lake
+1 Nimble Obstructionist
+1 Radiant Solar
+1 Rilsa Rael, Kingpin
+1 Royal Assassin
+1 Scion of Darkness
+1 Scrounging Skyray
+1 Shriekmaw
+1 Street Wraith
+1 Syr Konrad, the Grim
+1 Timeless Dragon
+1 Triumphant Adventurer
+1 Troll of Khazad-dum
+1 Valiant Rescuer
+1 Vile Entomber
+1 Waxen Shapethief
+1 White Plume Adventurer
+1 Windcaller Aven
+1 Yuan-Ti Malison
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Dungeon Map
+1 Fluctuator
+1 Orzhov Signet
+1 Sarevok's Tome
+1 Sol Ring
+1 Bar the Gate
+1 Despark
+1 Expunge
+1 Negate
+1 Overwhelming Remorse
+1 Buried Alive
+1 Dismantling Wave
+1 Fates' Reversal
+1 Ringsight
+1 Spectacular Pileup
+1 Victimize
+1 Astral Drift
+1 Astral Slide
+1 Crystalline Resonance
+1 Drake Haven
+1 Dungeon Delver
+1 Escape Protocol
+1 Faith of the Devoted
+1 Fly
+1 Arcane Sanctum
+1 Choked Estuary
+1 Command Tower
+1 Contaminated Landscape
+1 Creeping Tar Pit
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Glacial Fortress
+4 Island
+1 Isolated Chapel
+1 Mortuary Mire
+8 Plains
+1 Port Town
+1 Prairie Stream
+1 Scoured Barrens
+1 Sunken Hollow
+5 Swamp
+1 Tainted Isle
+1 Temple of Deceit
+Sideboard
+1 Sefris of the Hidden Ways

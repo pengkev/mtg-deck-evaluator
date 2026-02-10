@@ -1,0 +1,77 @@
+1 Conspicuous Snoop
+1 Elvish Spirit Guide
+1 Goblin Matron
+1 Goblin Recruiter
+1 Hyrax Tower Scout
+1 Ill-Tempered Loner
+1 Irencrag Pyromancer
+1 Kiki-Jiki, Mirror Breaker
+1 Mogg Fanatic
+1 Mogg Mob
+1 Oliphaunt
+1 Overgrown Battlement
+1 Sakura-Tribe Elder
+1 Saryth, the Viper's Fang
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Tinder Wall
+1 Torbran, Thane of Red Fell
+1 Torch Courier
+1 Twinshot Sniper
+1 Wild Cantor
+1 Arcane Signet
+1 Fellwar Stone
+1 Fire Diamond
+1 Gruul Signet
+1 Moss Diamond
+1 Sol Ring
+1 Talisman of Impulse
+1 Thornbite Staff
+1 Wayfarer's Bauble
+1 Abrade
+1 Beast Within
+1 Blossoming Defense
+1 Bolt Bend
+1 Chef's Kiss
+1 Cinderclasm
+1 Emerald Charm
+1 Fire Prophecy
+1 Flame Sweep
+1 Pyrokinesis
+1 Ranger's Guile
+1 Reap
+1 Reclaim
+1 Ricochet Trap
+1 Nature's Claim
+1 Shared Summons
+1 Snakeskin Veil
+1 Lightning Bolt
+1 Vampires' Vengeance
+1 Volcanic Fallout
+1 Withstand Death
+1 Wyll's Reversal
+1 Bridgeworks Battle
+1 Earthquake
+1 Edge of Autumn
+1 End the Festivities
+1 Into the Fire
+1 Pyroclasm
+1 Rampant Growth
+1 Rolling Earthquake
+1 Rough/Tumble
+1 Whipflare
+1 Defense of the Heart
+1 Fertile Ground
+1 Instill Energy
+1 Utopia Sprawl
+1 Wild Growth
+1 Wilderness Reclamation
+1 Cinder Glade
+1 Command Tower
+1 Exotic Orchard
+15 Forest
+1 Game Trail
+1 Mossfire Valley
+11 Mountain
+Sideboard
+1 Hansk, Slayer Zealot

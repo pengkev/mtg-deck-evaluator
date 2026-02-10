@@ -1,0 +1,101 @@
+1 Dosan the Falling Leaf
+1 Strangleroot Geist
+1 Avacyn's Pilgrim
+1 Wall of Roots
+1 Elves of Deep Shadow
+1 Carrion Feeder
+1 Hexdrinker
+1 Manglehorn
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+1 Drannith Magistrate
+1 Quirion Ranger
+1 Weathered Wayfarer
+1 Recruiter of the Guard
+1 Pulsemage Advocate
+1 Sylvan Safekeeper
+1 Icatian Moneychanger
+1 Archon of Emeria
+1 Opposition Agent
+1 Scryb Ranger
+1 Knight of the Reliquary
+1 Breena, the Demagogue
+1 Ranger-Captain of Eos
+1 Aven Mindcensor
+1 Circle of Dreams Druid
+1 Rishkar, Peema Renegade
+1 White Plume Adventurer
+1 Bloom Tender
+1 Devoted Druid
+1 Faeburrow Elder
+1 Birds of Paradise
+1 Young Wolf
+1 Phyrexian Censor
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Bartolomé del Presidio
+1 Colonel Autumn
+1 Aven Interrupter
+1 Bristly Bill, Spine Sower
+1 Wight of the Reliquary
+1 Warren Soultrader
+1 Six
+1 Skyclave Apparition
+1 Skullwinder
+1 Llanowar Elves
+1 Dauthi Voidwalker
+1 Marvin, Murderous Mimic
+1 Scythecat Cub
+1 Birthing Pod
+1 Sol Ring
+1 Agatha's Soul Cauldron
+1 Vexing Bauble
+1 Crop Rotation
+1 Vampiric Tutor
+1 Dismember
+1 Chord of Calling
+1 Green Sun's Zenith
+1 Deafening Silence
+1 Survival of the Fittest
+1 Smothering Tithe
+1 Aura of Silence
+1 Earthcraft
+1 Carpet of Flowers
+1 Insidious Roots
+1 Vraska Joins Up
+1 Tyvar, Jubilant Brawler
+1 Command Beacon
+1 Gaea's Cradle
+1 Ancient Tomb
+1 Gavony Township
+1 Savannah
+1 Scrubland
+1 Forest
+1 Plains
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Centaur Garden
+1 Phyrexian Tower
+1 Dryad Arbor
+1 Gemstone Caverns
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Mana Confluence
+1 Command Tower
+1 Bayou
+1 City of Brass
+1 Cavern of Souls
+1 Bojuka Bog
+1 Godless Shrine
+1 Overgrown Tomb
+1 Temple Garden
+1 Talon Gates of Madara
+Sideboard
+1 Tayam, Luminous Enigma

@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Birds of Paradise
+1 Carrion Feeder
+1 Walking Ballista
+1 Viscera Seer
+1 Mikaeus, the Unhallowed
+1 Protean Hulk
+1 Spellskite
+1 Elvish Spirit Guide
+1 Opposition Agent
+1 Activated Sleeper
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Volatile Stormdrake
+1 Valley Floodcaller
+1 Winter, Cynical Opportunist
+1 Abyssal Harvester
+1 Arcane Signet
+1 Wishclaw Talisman
+1 Lotus Petal
+1 Sol Ring
+1 Chrome Mox
+1 Talisman of Dominance
+1 Bolas's Citadel
+1 Talisman of Resilience
+1 Talisman of Curiosity
+1 Mox Amber
+1 The One Ring
+1 Crop Rotation
+1 Dark Ritual
+1 Gush
+1 Misdirection
+1 Veil of Summer
+1 Pact of Negation
+1 Force of Will
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Assassin's Trophy
+1 Cyclonic Rift
+1 Chord of Calling
+1 Autumn's Veil
+1 Snuff Out
+1 Fierce Guardianship
+1 Mental Misstep
+1 Noxious Revival
+1 Worldly Tutor
+1 Demonic Consultation
+1 Pongify
+1 Tainted Pact
+1 Borne Upon a Wind
+1 Strix Serenade
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Flusterstorm
+1 Demonic Tutor
+1 Reanimate
+1 Toxic Deluge
+1 Dark Petition
+1 Finale of Devastation
+1 Doomsday
+1 Culling Ritual
+1 Unmarked Grave
+1 No One Left Behind
+1 Animate Dead
+1 Carpet of Flowers
+1 Rhystic Study
+1 Wild Growth
+1 Necropotence
+1 Mystic Remora
+1 Counterbalance
+1 Exploration
+1 Island
+1 Forest
+1 Swamp
+1 Command Tower
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Breeding Pool
+1 Watery Grave
+1 Ancient Tomb
+1 Overgrown Tomb
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Polluted Delta
+1 Wooded Foothills
+1 Darkslick Shores
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Shipwreck Marsh
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Hedge Maze
+1 Underground Mortuary
+1 Shifting Woodland
+1 Lazotep Quarry
+1 City of Brass
+Sideboard
+1 Glarb, Calamity's Augur

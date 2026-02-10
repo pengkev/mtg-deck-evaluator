@@ -1,0 +1,85 @@
+1 Accursed Marauder
+1 Blood Artist
+1 Dark Confidant
+1 Fleshbag Marauder
+1 Forsaken Miner
+1 Gravecrawler
+1 Greedy Freebooter
+1 Jadar, Ghoulcaller of Nephalia
+1 K'rrik, Son of Yawgmoth
+1 Orcish Bowmasters
+1 Pitiless Plunderer
+1 Reassembling Skeleton
+1 Sedgemoor Witch
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Warren Soultrader
+1 Zulaport Cutthroat
+1 Ashnod's Altar
+1 Bolas's Citadel
+1 Bontu's Monument
+1 Chrome Mox
+1 Ghost Lantern
+1 Jet Medallion
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Phyrexian Altar
+1 Sensei's Divining Top
+1 Sol Ring
+1 The Masamune
+1 Wishclaw Talisman
+1 Ad Nauseam
+1 Cabal Ritual
+1 Dark Ritual
+1 Deadly Dispute
+1 Deadly Rollick
+1 Entomb
+1 Fatal Push
+1 Feign Death
+1 Flare of Malice
+1 Go for the Throat
+1 Imp's Mischief
+1 Infernal Grasp
+1 Mausoleum Secrets
+1 Sheoldred's Edict
+1 Songs of the Damned
+1 Supernatural Stamina
+1 Tragic Slip
+1 V.A.T.S.
+1 Vampiric Tutor
+1 Village Rites
+1 Vraska's Fall
+1 Blood Beckoning
+1 Bubbling Muck
+1 Call to the Netherworld
+1 Demonic Tutor
+1 Diabolic Intent
+1 Disentomb
+1 Imperial Seal
+1 Raise Dead
+1 Reanimate
+1 Tyrant's Choice
+1 Animate Dead
+1 Bitterblossom
+1 Black Market Connections
+1 Chthonian Nightmare
+1 Dreadhorde Invasion
+1 Ghoulish Procession
+1 Kaya's Ghostform
+1 Necropotence
+1 Urza's Saga
+1 Tevesh Szat, Doom of Fools
+1 Ancient Tomb
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Castle Locthwain
+1 Crypt of Agadeem
+1 Gemstone Caverns
+1 Lake of the Dead
+1 Peat Bog
+1 Phyrexian Tower
+17 Swamp
+Sideboard
+1 Sephiroth, Fabled SOLDIER

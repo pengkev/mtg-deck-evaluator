@@ -1,0 +1,93 @@
+1 Adaptive Automaton
+1 Axgard Cavalry
+1 Barkform Harvester
+1 Battered Golem
+1 Bloodfire Dwarf
+1 Dauntless Scrapbot
+1 Dwarven Armorer
+1 Dwarven Grunt
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Goblin Welder
+1 Gogo, Mysterious Mime
+1 Knuckles the Echidna
+1 Liberated Dwarf
+1 Magda, the Hoardmaster
+1 Magus of the Moon
+1 Metallic Mimic
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Reckless Fireweaver
+1 Roaming Throne
+1 Simian Spirit Guide
+1 Spark Mage
+1 Three Tree Mascot
+1 Universal Automaton
+1 Xorn
+1 Chrome Mox
+1 Clock of Omens
+1 Clown Car
+1 Damping Sphere
+1 Disruptor Flute
+1 Flywheel Racer
+1 God-Pharaoh's Statue
+1 High-Speed Hoverbike
+1 Lifecraft Engine
+1 Liquimetal Torque
+1 Lotus Petal
+1 Maskwood Nexus
+1 Portal to Phyrexia
+1 Pyrite Spellbomb
+1 Sculpting Steel
+1 Smuggler's Copter
+1 Sol Ring
+1 Sphere of Resistance
+1 Spine of Ish Sah
+1 Springleaf Drum
+1 Tangle Wire
+1 Torpor Orb
+1 Uba Mask
+1 Unlicensed Hearse
+1 Vexing Bauble
+1 Void Mirror
+1 Winter Moon
+1 Winter Orb
+1 Abrade
+1 Bottle-Cap Blast
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Final Fortune
+1 Flare of Duplication
+1 Galvanic Blast
+1 Great Train Heist
+1 Lightning Bolt
+1 Mogg Salvage
+1 Pyroblast
+1 Pyrokinesis
+1 Red Elemental Blast
+1 Reverberate
+1 Stoke the Flames
+1 Sudden Shock
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Jeska's Will
+1 Molten Duplication
+1 Rite of Flame
+1 Sundering Eruption
+1 Blood Moon
+1 Urza's Saga
+1 Ancient Tomb
+1 Arena of Glory
+1 Barbarian Ring
+1 Cavern of Souls
+1 Crystal Vein
+1 Gemstone Caverns
+1 Great Furnace
+9 Mountain
+1 Mutavault
+1 Survivors' Encampment
+1 Treasure Vault
+1 Volatile Fault
+Sideboard
+1 Magda, Brazen Outlaw

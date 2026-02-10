@@ -1,0 +1,89 @@
+1 Apex Devastator
+1 Baral, Chief of Compliance
+1 Hullbreaker Horror
+1 Aetherflux Reservoir
+1 Chrome Mox
+1 Helm of Awakening
+1 Mana Vault
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Arcane Denial
+1 Archmage's Charm
+1 Brain Freeze
+1 Brainstorm
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+1 Force of Will
+1 Growth Spiral
+1 Harrow
+1 Mana Drain
+1 Memory Lapse
+1 Mystic Confluence
+1 Mystical Tutor
+1 Nexus of Fate
+1 Noxious Revival
+1 Remand
+1 Sink into Stupor
+1 Sprouting Vines
+1 Weather the Storm
+1 Abundant Harvest
+1 Chatterstorm
+1 Cultivate
+1 Drain Power
+1 Explore
+1 Expropriate
+1 Farseek
+1 Gitaxian Probe
+1 Hour of Promise
+1 Knowledge Exploitation
+1 Mind's Desire
+1 Mnemonic Deluge
+1 Ponder
+1 Preordain
+1 Rampant Growth
+1 Reshape the Earth
+1 Sea Gate Restoration
+1 Serum Visions
+1 Skyshroud Claim
+1 Temporal Fissure
+1 Temporal Mastery
+1 Three Visits
+1 Time Warp
+1 Titania's Command
+1 Unexpected Results
+1 Verdant Mastery
+1 Walk the Aeons
+1 Windfall
+1 Mystic Remora
+1 Omniscience
+1 Rhystic Study
+1 Urza's Saga
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Dreamroot Cascade
+1 Field of the Dead
+6 Forest
+1 Glacial Chasm
+1 Hedge Maze
+7 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Rejuvenating Springs
+1 Rimewood Falls
+2 Snow-Covered Forest
+1 Snow-Covered Island
+1 Temple of the False God
+1 Tropical Island
+1 Waterlogged Grove
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Jadzi, Oracle of Arcavios

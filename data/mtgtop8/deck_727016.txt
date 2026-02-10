@@ -1,0 +1,87 @@
+1 Cursecatcher
+1 Ornithopter of Paradise
+1 Roaming Throne
+1 Hydroelectric Specimen
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Talisman of Dominance
+1 Lithoform Engine
+1 Sol Ring
+1 Charcoal Diamond
+1 Marble Diamond
+1 Sky Diamond
+1 Orzhov Signet
+1 Fellwar Stone
+1 Arcane Signet
+1 Dimir Signet
+1 Azorius Signet
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Memory Lapse
+1 Dispel
+1 Dovin's Veto
+1 Flusterstorm
+1 Mana Leak
+1 Swan Song
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Swords to Plowshares
+1 Negate
+1 Generous Gift
+1 Void Rend
+1 Strix Serenade
+1 Arcane Denial
+1 Delay
+1 Savor the Moment
+1 Capture of Jingzhou
+1 Temporal Manipulation
+1 Island Sanctuary
+1 Sleeper's Robe
+1 Darksteel Mutation
+1 Necropotence
+1 Solemnity
+1 Aura of Silence
+1 Vanishing
+1 Daybreak Coronet
+1 Spirit Mantle
+1 Battle Mastery
+1 Triclopean Sight
+1 Staggering Insight
+1 Curator's Ward
+1 Greater Auramancy
+1 Steel of the Godhead
+1 Solitary Confinement
+1 Combat Research
+1 All That Glitters
+1 Curiosity
+1 Phyrexian Unlife
+1 Grasp of Fate
+1 Out of Time
+1 Copy Enchantment
+1 Nerd Rage
+1 Ethereal Armor
+1 Mirrormade
+1 Twinblade Blessing
+1 Imprisoned in the Moon
+1 Fabled Passage
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+1 Command Tower
+1 Prairie Stream
+1 Gloomlake Verge
+1 Floodfarm Verge
+1 Terramorphic Expanse
+1 Adarkar Wastes
+1 Caves of Koilos
+1 Arcane Sanctum
+1 Underground River
+1 Isolated Chapel
+1 Sunken Hollow
+1 Glacial Fortress
+5 Plains
+4 Swamp
+8 Island
+Sideboard
+1 Zur the Enchanter

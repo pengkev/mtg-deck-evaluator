@@ -1,0 +1,90 @@
+1 Abrade
+1 Aggravated Assault
+1 Akroma's Memorial
+1 Arcane Signet
+1 Asceticism
+1 Beast Within
+1 Bedlam
+1 Berserkers' Onslaught
+1 Blasphemous Act
+1 Boseiju, Who Endures
+1 Broken Wings
+1 Cait Sith, Fortune Teller
+1 Chaos Warp
+1 Charred Foyer/Warped Space
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Conduit of Worlds
+1 Copperline Gorge
+1 Dawnsire, Sunstar Dreadnought
+1 Defense of the Heart
+1 Deflecting Swat
+1 Domri, Anarch of Bolas
+1 Enduring Courage
+1 Esika's Chariot
+1 Exotic Orchard
+1 Fabled Passage
+7 Forest
+1 Full Throttle
+1 Furnace of Rath
+1 Game Trail
+1 Garruk's Packleader
+1 Ghalta, Primal Hunger
+1 Giggling Skitterspike
+1 Glorious Sunrise
+1 Goblin Anarchomancer
+1 Goreclaw, Terror of Qal Sisma
+1 Gratuitous Violence
+1 Gruul Signet
+1 Gruul Turf
+1 Gruul War Chant
+1 Guardian Project
+1 Heroic Intervention
+1 Karplusan Forest
+1 Leafkin Avenger
+1 Lightning Greaves
+1 Magmatic Galleon
+1 Mind Stone
+1 Mithril Coat
+1 Mossfire Valley
+1 Mosswort Bridge
+6 Mountain
+1 Nature's Lore
+1 Nevinyrral's Disk
+1 Pain for All
+1 Path of Ancestry
+1 Path of Discovery
+1 Peerless Recycling
+1 Prismatic Vista
+1 Reclamation Sage
+1 Reliquary Tower
+1 Roaming Throne
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Skysovereign, Consul Flagship
+1 Snakeskin Veil
+1 Sol Ring
+1 Stomping Ground
+1 Street Riot
+1 Stuffy Doll
+1 Swiftfoot Boots
+1 Taiga
+1 Talisman of Impulse
+1 Temple of Abandon
+1 The Great Henge
+1 The One Ring
+1 Thickest in the Thicket
+1 Thought Vessel
+1 Thran Dynamo
+1 Toski, Bearer of Secrets
+1 Unnatural Growth
+1 Untimely Malfunction
+1 Urza's Saga
+1 Voltaic Construct
+1 War Room
+1 Warstorm Surge
+1 Wooded Foothills
+1 Wooded Ridgeline
+Sideboard
+1 Bello, Bard of the Brambles

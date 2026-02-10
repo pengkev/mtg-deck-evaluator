@@ -1,0 +1,101 @@
+1 Invasion of Ikoria
+1 Food Chain
+1 Mystic Remora
+1 Carpet of Flowers
+1 Rhystic Study
+1 Exploration
+1 Song of Creation
+1 Underworld Breach
+1 Earthcraft
+1 Wild Growth
+1 Eldritch Evolution
+1 Breakthrough
+1 Malevolent Rumble
+1 Gamble
+1 Step Through
+1 Wheel of Fortune
+1 Neoform
+1 Finale of Devastation
+1 Rite of Flame
+1 Crop Rotation
+1 Submerge
+1 Pongify
+1 Brain Freeze
+1 Worldly Tutor
+1 Red Elemental Blast
+1 Dramatic Reversal
+1 Chain of Vapor
+1 Noxious Revival
+1 Gut Shot
+1 Snap
+1 Chord of Calling
+1 Mystical Tutor
+1 Pyroblast
+1 Cloudstone Curio
+1 Mishra's Bauble
+1 Urza's Bauble
+1 Paradise Mantle
+1 Springleaf Drum
+1 Mox Amber
+1 Fellwar Stone
+1 Arcane Signet
+1 Mox Diamond
+1 Chrome Mox
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Sol Ring
+1 Lotus Petal
+1 Mana Vault
+1 Dragon's Rage Channeler
+1 Ornithopter
+1 Fyndhorn Elves
+1 Kobolds of Kher Keep
+1 Pollywog Prodigy
+1 Squee, the Immortal
+1 Skirk Prospector
+1 "Name Sticker" Goblin
+1 Displacer Kitten
+1 Rograkh, Son of Rohgahh
+1 Eruth, Tormented Prophet
+1 Birgi, God of Storytelling
+1 Wild Cantor
+1 Elvish Spirit Guide
+1 Simian Spirit Guide
+1 Birds of Paradise
+1 Tinder Wall
+1 Shield Sphere
+1 Memnite
+1 Llanowar Elves
+1 Shrieking Drake
+1 Cloud of Faeries
+1 Elvish Mystic
+1 Arid Mesa
+1 Windswept Heath
+1 Wooded Foothills
+1 Flooded Strand
+1 Polluted Delta
+1 Command Tower
+1 City of Brass
+1 Mana Confluence
+1 Otawara, Soaring City
+1 Boseiju, Who Endures
+1 Island
+1 Forest
+1 Mountain
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Misty Rainforest
+1 Steam Vents
+1 Gemstone Caverns
+1 Volcanic Island
+1 Taiga
+1 Tropical Island
+1 Gaea's Cradle
+1 Prismatic Vista
+1 Breeding Pool
+1 Ancient Tomb
+1 Stomping Ground
+1 Exotic Orchard
+Sideboard
+1 Flubs, the Fool

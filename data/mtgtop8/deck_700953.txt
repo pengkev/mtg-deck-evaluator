@@ -1,0 +1,101 @@
+1 Chief Engineer
+1 Phyrexian Walker
+1 Drannith Magistrate
+1 Shield Sphere
+1 Naban, Dean of Iteration
+1 Dream Stalker
+1 Esper Sentinel
+1 Ranger-Captain of Eos
+1 Ornithopter
+1 The Reality Chip
+1 Scheming Fence
+1 Displacer Kitten
+1 Etherium Sculptor
+1 Phyrexian Metamorph
+1 Soulless Jailer
+1 Urza, Lord High Artificer
+1 Flesh Duplicate
+1 Novice Inspector
+1 Delney, Streetwise Lookout
+1 Forensic Gadgeteer
+1 Giver of Runes
+1 Hullbreaker Horror
+1 Phelia, Exuberant Shepherd
+1 Glaring Fleshraker
+1 Valley Floodcaller
+1 Pollywog Prodigy
+1 Dour Port-Mage
+1 Crystal Barricade
+1 Thraben Inspector
+1 Ornithopter of Paradise
+1 Lotus Petal
+1 Grim Monolith
+1 Mox Diamond
+1 Arcane Signet
+1 Grafdigger's Cage
+1 Mana Vault
+1 Sensei's Divining Top
+1 Talisman of Progress
+1 Relic of Legends
+1 Chrome Mox
+1 Mox Amber
+1 The One Ring
+1 Sol Ring
+1 Mox Opal
+1 Thought Vessel
+1 Essence Flux
+1 Mental Misstep
+1 Cloudshift
+1 Cyclonic Rift
+1 Retraction Helix
+1 Ephemerate
+1 Swords to Plowshares
+1 Momentary Blink
+1 Force of Negation
+1 Force of Will
+1 Enlightened Tutor
+1 Pact of Negation
+1 Silence
+1 Mindbreak Trap
+1 Flare of Denial
+1 Flusterstorm
+1 Strix Serenade
+1 Sink into Stupor
+1 Parting Gust
+1 Chain of Vapor
+1 Fierce Guardianship
+1 Swan Song
+1 Urza's Saga
+1 Rhystic Study
+1 Touch the Spirit Realm
+1 Mystic Remora
+1 Blind Obedience
+1 Smothering Tithe
+1 Teferi, Time Raveler
+1 Arid Mesa
+1 City of Traitors
+1 Ancient Tomb
+1 Tundra
+1 Hallowed Fountain
+1 Flooded Strand
+1 Hengegate Pathway
+1 Scalding Tarn
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Sea of Clouds
+1 Mana Confluence
+1 Command Beacon
+1 Minamo, School at Water's Edge
+1 Gemstone Caverns
+1 Command Tower
+1 Meticulous Archive
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Polluted Delta
+1 Windswept Heath
+1 Reliquary Tower
+1 Adarkar Wastes
+1 City of Brass
+1 Floodfarm Verge
+Sideboard
+1 Plagon, Lord of the Beach

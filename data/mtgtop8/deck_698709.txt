@@ -1,0 +1,101 @@
+1 Thassa's Oracle
+1 Sylvan Caryatid
+1 Prophet of Distortion
+1 Sanctum Weaver
+1 Colossal Skyturtle
+1 Elvish Spirit Guide
+1 Walking Ballista
+1 Spellseeker
+1 Delighted Halfling
+1 Tishana's Tidebinder
+1 Forensic Gadgeteer
+1 Seedborn Muse
+1 Endurance
+1 Elvish Mystic
+1 Enduring Vitality
+1 Phyrexian Metamorph
+1 Clever Impersonator
+1 Birds of Paradise
+1 Fyndhorn Elves
+1 Trophy Mage
+1 Devoted Druid
+1 Thrasios, Triton Hero
+1 Hullbreaker Horror
+1 Llanowar Elves
+1 Volatile Stormdrake
+1 Mox Opal
+1 The One Ring
+1 Fellwar Stone
+1 Agatha's Soul Cauldron
+1 Talisman of Curiosity
+1 Simic Signet
+1 Arcane Signet
+1 Mirage Mirror
+1 Sol Ring
+1 Basalt Monolith
+1 Grim Monolith
+1 Mox Amber
+1 Moonsilver Key
+1 Machine God's Effigy
+1 Lotus Petal
+1 Springleaf Drum
+1 Chrome Mox
+1 Nature's Claim
+1 Force of Negation
+1 Rapid Hybridization
+1 Mystical Tutor
+1 Pact of Negation
+1 Borne Upon a Wind
+1 Mindbreak Trap
+1 Force of Vigor
+1 Flusterstorm
+1 Chord of Calling
+1 Noxious Revival
+1 Swan Song
+1 Fierce Guardianship
+1 Mental Misstep
+1 Force of Will
+1 Trickbind
+1 Worldly Tutor
+1 Veil of Summer
+1 An Offer You Can't Refuse
+1 Archdruid's Charm
+1 Whir of Invention
+1 Cyclonic Rift
+1 Fabricate
+1 Finale of Devastation
+1 Eldritch Evolution
+1 Reshape
+1 Freed from the Real
+1 Mystic Remora
+1 Pemmin's Aura
+1 Rhystic Study
+1 Invasion of Ikoria
+1 Tezzeret the Seeker
+1 Barkchannel Pathway
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Otawara, Soaring City
+1 Ancient Tomb
+1 Rejuvenating Springs
+1 Waterlogged Grove
+1 Forest
+1 Island
+1 Breeding Pool
+1 Homeward Path
+1 Exotic Orchard
+1 Treasure Vault
+1 Shifting Woodland
+1 Yavimaya Coast
+1 Flooded Strand
+1 Windswept Heath
+1 Polluted Delta
+1 Command Tower
+1 Tropical Island
+1 Gemstone Caverns
+1 Boseiju, Who Endures
+1 Mana Confluence
+1 City of Brass
+Sideboard
+1 Kinnan, Bonder Prodigy

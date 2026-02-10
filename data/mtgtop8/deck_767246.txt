@@ -1,0 +1,93 @@
+1 Abdel Adrian, Gorion's Ward
+1 Archivist of Oghma
+1 Blood Artist
+1 Corpse Knight
+1 Dark Confidant
+1 Esper Sentinel
+1 Grand Abolisher
+1 Gravecrawler
+1 Leonin Relic-Warder
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phelia, Exuberant Shepherd
+1 Susurian Voidborn
+1 Vengeful Bloodwitch
+1 Warren Soultrader
+1 Zulaport Cutthroat
+1 Altar of the Brood
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Sol Ring
+1 Stone of Erech
+1 Vexing Bauble
+1 Abeyance
+1 Angel's Grace
+1 Dark Ritual
+1 Dawn's Truce
+1 Enlightened Tutor
+1 Entomb
+1 Fatal Push
+1 Force of Despair
+1 Get Lost
+1 Illumination
+1 Mandate of Peace
+1 Mausoleum Secrets
+1 Orim's Chant
+1 Path to Exile
+1 Patrician's Scorn
+1 Silence
+1 Snuff Out
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Buried Alive
+1 Damn
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Exorcise
+1 Feed the Swarm
+1 Fragmentize
+1 Grim Tutor
+1 Idyllic Tutor
+1 Imperial Seal
+1 Lively Dirge
+1 Open the Armory
+1 Prismatic Ending
+1 Profane Tutor
+1 Toxic Deluge
+1 Unmarked Grave
+1 Animate Dead
+1 Dance of the Dead
+1 Leyline of the Void
+1 Necromancy
+1 Scavenger's Talent
+1 Stony Silence
+1 The Meathook Massacre
+1 Arid Mesa
+1 Blast Zone
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Castle Locthwain
+1 Caves of Koilos
+1 Command Tower
+1 Concealed Courtyard
+1 Fetid Heath
+1 Flooded Strand
+1 Gemstone Caverns
+1 Godless Shrine
+1 Isolated Chapel
+1 Marsh Flats
+4 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Scrubland
+1 Shadowy Backstreet
+6 Swamp
+1 Vault of Champions
+1 Verdant Catacombs
+1 Windswept Heath
+Sideboard
+1 Elas il-Kor, Sadistic Pilgrim

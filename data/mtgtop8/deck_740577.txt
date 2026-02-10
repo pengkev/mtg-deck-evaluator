@@ -1,0 +1,69 @@
+1 Artisan of Forms
+1 Auspicious Starrix
+1 Cold-Eyed Selkie
+1 Dreamtail Heron
+1 Elvish Mystic
+1 Esior, Wardwing Familiar
+1 Gatherer of Graces
+1 Gemrazer
+1 Glowstone Recluse
+1 Gnarlback Rhino
+1 Herald of the Pantheon
+1 Invisible Stalker
+1 Kimahri, Valiant Guardian
+1 Llanowar Elves
+1 Migratory Greathorn
+1 Parcelbeast
+1 Sawtusk Demolisher
+1 Sea-Dasher Octopus
+1 Setessan Champion
+1 Souvenir Snatcher
+1 Spellwild Ouphe
+1 Stormchaser Drake
+1 Timber Paladin
+1 Toski, Bearer of Secrets
+1 Triton Fortune Hunter
+1 Trumpeting Gnarr
+1 Yavimaya Enchantress
+1 Arcane Signet
+1 Sol Ring
+1 Twinning Staff
+1 Aetherize
+1 Aspect of Hydra
+1 Cackling Counterpart
+1 Dream Fracture
+1 Fog
+1 Gaea's Gift
+1 Louisoix's Sacrifice
+1 Pongify
+1 Refute
+1 Repudiate/Replicate
+1 Tyvar's Stand
+1 Vastwood Fortification
+1 Viridescent Wisps
+1 Curse of the Swine
+1 Irenicus's Vile Duplication
+1 Quasiduplicate
+1 Relm's Sketching
+1 Slip Through Space
+1 Aether Tunnel
+1 Ancestral Mask
+1 Aqueous Form
+1 Boar Umbra
+1 Combat Research
+1 Nerd Rage
+1 One with Nature
+1 Rancor
+1 Rune of Might
+1 Season of Growth
+1 Shielding Plax
+1 Sigil of Sleep
+1 Sixth Sense
+1 Strong Back
+1 Vow of Wildness
+1 Wild Growth
+1 Command Tower
+17 Forest
+17 Island
+Sideboard
+1 Ivy, Gleeful Spellthief

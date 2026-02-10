@@ -1,0 +1,93 @@
+1 Balemurk Leech
+1 Eidolon of Blossoms
+1 Enduring Innocence
+1 Enduring Tenacity
+1 Enduring Vitality
+1 Go-Shintai of Ancient Wars
+1 Go-Shintai of Boundless Vigor
+1 Go-Shintai of Hidden Cruelty
+1 Go-Shintai of Lost Wisdom
+1 Go-Shintai of Shared Purpose
+1 Herald of the Pantheon
+1 Inquisitive Glimmer
+1 Jukai Naturalist
+1 Lotus Cobra
+1 Michiko's Reign of Truth
+1 Sanctum Weaver
+1 Sythis, Harvest's Hand
+1 Wicked Visitor
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Clever Concealment
+1 Generous Gift
+1 Heroic Intervention
+1 Path to Exile
+1 Pongify
+1 Swords to Plowshares
+1 Aang's Journey
+1 Cleansing Meditation
+1 Cultivate
+1 Curse of the Swine
+1 Explore
+1 Farseek
+1 Redress Fate
+1 Resurgent Belief
+1 Amphibian Downpour
+1 Authority of the Consuls
+1 Blind Obedience
+1 Case of the Locked Hothouse
+1 Crescent Island Temple
+1 Darksteel Mutation
+1 Honden of Cleansing Fire
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Night's Reach
+1 Honden of Seeing Winds
+1 Intangible Virtue
+1 Kyoshi Island Plaza
+1 Northern Air Temple
+1 Phyrexian Arena
+1 Prismatic Omen
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Shattered Heights
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Southern Air Temple
+1 Sphere of Safety
+1 Strength of the Harvest
+1 The Spirit Oasis
+1 Valgavoth's Lair
+1 Azorius Chancery
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fabled Passage
+4 Forest
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+1 Hinterland Harbor
+2 Island
+1 Isolated Chapel
+1 Mosswort Bridge
+1 Mountain
+2 Plains
+1 Reliquary Tower
+1 Selesnya Sanctuary
+1 Sheltered Thicket
+1 Sunpetal Grove
+4 Swamp
+1 Terramorphic Expanse
+1 White Lotus Hideout
+1 Wooded Ridgeline
+1 Woodland Cemetery
+Sideboard
+1 Go-Shintai of Life's Origin

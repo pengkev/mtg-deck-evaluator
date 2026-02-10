@@ -1,0 +1,93 @@
+1 Collector Ouphe
+1 Gilded Drake
+1 Ashaya, Soul of the Wild
+1 Fyndhorn Elves
+1 Quirion Ranger
+1 Endurance
+1 Elvish Spirit Guide
+1 Nissa, Resurgent Animist
+1 Delighted Halfling
+1 Elvish Mystic
+1 Birds of Paradise
+1 Ramunap Excavator
+1 Sylvan Safekeeper
+1 Dryad of the Ilysian Grove
+1 Llanowar Elves
+1 Lotus Cobra
+1 Displacer Kitten
+1 Sakura-Tribe Scout
+1 Azusa, Lost but Seeking
+1 Sol Ring
+1 Mox Diamond
+1 Chrome Mox
+1 Crucible of Worlds
+1 Mana Vault
+1 Lotus Petal
+1 Dispel
+1 Mental Misstep
+1 Pongify
+1 Swan Song
+1 Delay
+1 Summoner's Pact
+1 Rapid Hybridization
+1 Turn the Earth
+1 An Offer You Can't Refuse
+1 Force of Negation
+1 Mana Drain
+1 Force of Will
+1 Worldly Tutor
+1 Crop Rotation
+1 Fierce Guardianship
+1 Chord of Calling
+1 Strix Serenade
+1 Sink into Stupor
+1 Into the Flood Maw
+1 Pact of Negation
+1 Mindbreak Trap
+1 Flusterstorm
+1 Noxious Revival
+1 Veil of Summer
+1 Scapeshift
+1 Walk the Aeons
+1 Nature's Lore
+1 Green Sun's Zenith
+1 Awaken the Woods
+1 Capture of Jingzhou
+1 Finale of Devastation
+1 Three Visits
+1 Exploration
+1 Rhystic Study
+1 Mystic Remora
+1 Wild Growth
+1 Retreat to Coralhelm
+1 Walk-In Closet/Forgotten Cellar
+1 Invasion of Ikoria
+1 Crystal Vein
+1 Ancient Tomb
+1 Prismatic Vista
+1 Tropical Island
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Scalding Tarn
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Breeding Pool
+1 Cavern of Souls
+1 Waterlogged Grove
+1 Alchemist's Refuge
+1 Hedge Maze
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Shifting Woodland
+1 Horizon of Progress
+1 Talon Gates of Madara
+1 Fabled Passage
+1 Mystic Sanctuary
+6 Island
+4 Forest
+Sideboard
+1 Tatyova, Benthic Druid

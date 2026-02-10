@@ -1,0 +1,83 @@
+1 Black Waltz No. 3
+1 Coruscation Mage
+1 Dark Confidant
+1 Dualcaster Mage
+1 Electrostatic Field
+1 Fandaniel, Telophoroi Ascian
+1 Firebrand Archer
+1 Gleeful Arsonist
+1 Guttersnipe
+1 Irencrag Pyromancer
+1 Queen Brahne
+1 Solemn Simulacrum
+1 Storm-Kiln Artist
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Jet Medallion
+1 Lightning Greaves
+1 Ruby Medallion
+1 Sol Ring
+1 Talisman of Indulgence
+1 Abrade
+1 Bedevil
+1 Cabal Ritual
+1 Chaos Warp
+1 Corrupted Conviction
+1 Dark Ritual
+1 Deadly Dispute
+1 Demand Answers
+1 Desperate Ritual
+1 Flare of Duplication
+1 Kolaghan's Command
+1 Lightning Bolt
+1 Not Dead After All
+1 Pyretic Ritual
+1 Rakdos Charm
+1 Reverberate
+1 Terminate
+1 Thrill of Possibility
+1 Transpose
+1 Unexpected Windfall
+1 Unholy Heat
+1 Black Sun's Zenith
+1 Blasphemous Act
+1 Brass's Bounty
+1 Chain of Smog
+1 Chain Reaction
+1 Circle of Power
+1 Exsanguinate
+1 Faithless Looting
+1 Grapeshot
+1 Mana Geyser
+1 Night's Whisper
+1 Past in Flames
+1 Read the Bones
+1 Sign in Blood
+1 Syphon Mind
+1 Tormenting Voice
+1 Vandalblast
+1 Worthy Cost
+1 Artist's Talent
+1 City on Fire
+1 Phyrexian Arena
+1 Angrath, the Flame-Chained
+1 Professor Onyx
+1 Sorin Markov
+1 Bojuka Bog
+1 Canyon Slough
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Exotic Orchard
+1 Foreboding Ruins
+10 Mountain
+1 Myriad Landscape
+1 Smoldering Marsh
+1 Sulfurous Mire
+1 Sulfurous Springs
+10 Swamp
+1 Tainted Peak
+1 Temple of Malice
+Sideboard
+1 Kuja, Genome Sorcerer

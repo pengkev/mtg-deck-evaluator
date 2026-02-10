@@ -1,0 +1,83 @@
+1 "Name Sticker" Goblin
+1 Academy Manufactor
+1 Archon of Emeria
+1 Aven Mindcensor
+1 Cathar Commando
+1 Containment Priest
+1 Crime Novelist
+1 Dauntless Dismantler
+1 Delivery Moogle
+1 Ethersworn Canonist
+1 Flamescroll Celebrant
+1 Foundry Inspector
+1 Goblin Engineer
+1 Goblin Matron
+1 Hushbringer
+1 Leonin Arbiter
+1 Magda, Brazen Outlaw
+1 Magda, the Hoardmaster
+1 Myr Retriever
+1 Ornithopter of Paradise
+1 Oswald Fiddlebender
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+1 Simian Spirit Guide
+1 Soulless Jailer
+1 Storm-Kiln Artist
+1 Thalia, Heretic Cathar
+1 Treasure Nabber
+1 Weathered Wayfarer
+1 Weftstalker Ardent
+1 Animation Module
+1 Arcane Signet
+1 Boros Signet
+1 Cursed Mirror
+1 Cursed Totem
+1 Damping Sphere
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Grafdigger's Cage
+1 Grinding Station
+1 Idol of Oblivion
+1 Instant Ramen
+1 Mind Stone
+1 Mycosynth Wellspring
+1 Nuka-Cola Vending Machine
+1 Sculpting Steel
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Conviction
+1 The Underworld Cookbook
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Abrade
+1 Demand Answers
+1 Enlightened Tutor
+1 Hobbit's Sting
+1 March of Otherworldly Light
+1 Path to Exile
+1 Soul Partition
+1 Swords to Plowshares
+1 Wear/Tear
+1 Gamble
+1 Reckless Handling
+1 Seize the Spoils
+1 Sevinne's Reclamation
+1 Trash for Treasure
+1 Guild Artisan
+1 High Noon
+1 Sticky Fingers
+1 Street Urchin
+1 Touch the Spirit Realm
+1 Ash Barrens
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Furycalm Snarl
+10 Mountain
+10 Plains
+1 Spire of Industry
+1 Sunscorched Divide
+Sideboard
+1 Ragost, Deft Gastronaut

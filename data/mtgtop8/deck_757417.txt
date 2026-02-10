@@ -1,0 +1,77 @@
+1 Ashling, Flame Dancer
+1 Blisterspit Gremlin
+1 Bonecrusher Giant
+1 Chandra's Incinerator
+1 Defiler of Instinct
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Guttersnipe
+1 Harsh Mentor
+1 Kessig Flamebreather
+1 Queen Brahne
+1 Rampaging Ferocidon
+1 Sabotender
+1 Scytheclaw Raptor
+1 Solphim, Mayhem Dominus
+1 Spear Spewer
+1 Thermo-Alchemist
+1 Unruly Catapult
+1 Arcane Signet
+1 Champion's Helm
+1 Heraldic Banner
+1 Lightning Greaves
+1 Mox Amber
+1 Nyx Lotus
+1 Ruby Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Fire Crystal
+1 Throne of Eldraine
+1 Abrade
+1 Bolt Bend
+1 Chaos Warp
+1 Deflecting Swat
+1 Lava Dart
+1 Lightning Bolt
+1 Lindblum, Industrial Regency
+1 Pyroblast
+1 Red Elemental Blast
+1 Shock
+1 Spikefield Hazard
+1 Thrill of Possibility
+1 Unleash Fury
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Earthquake
+1 End the Festivities
+1 Fiery Confluence
+1 Gamble
+1 Jeska's Will
+1 Mana Clash
+1 Tectonic Hazard
+1 Underworld Fires
+1 Vandalblast
+1 Witch's Mark
+1 Burning Earth
+1 Claws of Valakut
+1 Dragon Mantle
+1 Fiery Emancipation
+1 Fiery Inscription
+1 Furnace of Rath
+1 Impact Tremors
+1 Manabarbs
+1 Possibility Storm
+1 Price of Glory
+1 Pyrohemia
+1 Roiling Vortex
+1 Spellshock
+1 Sulfuric Vortex
+25 Mountain
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Spinerock Knoll
+1 Tyrite Sanctum
+1 Valakut, the Molten Pinnacle
+Sideboard
+1 Ojer Axonil, Deepest Might

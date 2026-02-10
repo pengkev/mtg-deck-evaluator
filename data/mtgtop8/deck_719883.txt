@@ -1,0 +1,85 @@
+1 Zulaport Cutthroat
+1 Viscera Seer
+1 Carrion Feeder
+1 Cruel Celebrant
+1 Giver of Runes
+1 Grand Abolisher
+1 Drannith Magistrate
+1 Dauthi Voidwalker
+1 Elas il-Kor, Sadistic Pilgrim
+1 Gollum, Patient Plotter
+1 Samwise the Stouthearted
+1 Orcish Bowmasters
+1 Lotho, Corrupt Shirriff
+1 Boromir, Warden of the Tower
+1 Blood Artist
+1 Esper Sentinel
+1 Warren Soultrader
+1 Mother of Runes
+1 Vengeful Bloodwitch
+1 Voice of Victory
+1 Opposition Agent
+9 Nazgul
+1 Lotus Petal
+1 Mana Vault
+1 Blasting Station
+1 Altar of Dementia
+1 Mox Amber
+1 Chrome Mox
+1 Ashnod's Altar
+1 Phyrexian Altar
+1 Relic of Legends
+1 Arcane Signet
+1 The One Ring
+1 Talisman of Hierarchy
+1 Sol Ring
+1 Orzhov Signet
+1 Wishclaw Talisman
+1 Silence
+1 Dark Ritual
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Teferi's Protection
+1 Path to Exile
+1 Demonic Tutor
+1 Damn
+1 Demonic Bargain
+1 Imperial Seal
+1 Unearth
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Farewell
+1 Insatiable Avarice
+1 Toxic Deluge
+1 Reanimate
+1 Grim Tutor
+1 Darksteel Mutation
+1 The Meathook Massacre
+1 Grasp of Fate
+1 Sheltered by Ghosts
+1 Leyline of the Void
+1 Godless Shrine
+1 Ancient Tomb
+1 Silent Clearing
+1 City of Brass
+1 Mana Confluence
+1 Scrubland
+1 Brightclimb Pathway
+1 Gemstone Caverns
+1 Shattered Sanctum
+1 Takenuma, Abandoned Mire
+1 Eiganjo, Seat of the Empire
+1 Reflecting Pool
+1 Plaza of Heroes
+1 Command Tower
+1 Isolated Chapel
+1 Cavern of Souls
+1 Fetid Heath
+1 Phyrexian Tower
+1 Caves of Koilos
+1 Bleachbone Verge
+1 Vault of Champions
+3 Plains
+7 Swamp
+Sideboard
+1 Ratadrabik of Urborg

@@ -1,0 +1,93 @@
+1 Skyshroud Elf
+1 Collector Ouphe
+1 Universal Automaton
+1 Rot Wolf
+1 Druid of the Anima
+1 Bramblewood Paragon
+1 Seedcradle Witch
+1 Masked Vandal
+1 Simian Spirit Guide
+1 Cemetery Prowler
+1 Goro-Goro, Disciple of Ryusei
+1 Kiki-Jiki, Mirror Breaker
+1 Rocco, Cabaretti Caterer
+1 Devoted Druid
+1 Atalan Jackal
+1 Fauna Shaman
+1 Ferocious Pup
+1 Elvish Spirit Guide
+1 Kami of Whispered Hopes
+1 Incubation Druid
+1 Rosie Cotton of South Lane
+1 Village Bell-Ringer
+1 Destiny Spinner
+1 Elvish Mystic
+1 Mirror Entity
+1 Priest of Titania
+1 Basking Broodscale
+1 Selvala, Heart of the Wilds
+1 Llanowar Loamspeaker
+1 Quirion Elves
+1 Vizier of Remedies
+1 Crystal Barricade
+1 Three Tree Mascot
+1 Llanowar Elves
+1 Paradise Druid
+1 Fyndhorn Elves
+1 Shalai and Hallar
+1 Kutzil, Malamet Exemplar
+1 Staff of Domination
+1 Sol Ring
+1 Talisman of Conviction
+1 Arcane Signet
+1 Shields of Velis Vel
+1 Red Elemental Blast
+1 Kabira Takedown
+1 Comet Storm
+1 Krosan Grip
+1 Surge of Salvation
+1 Inspiring Call
+1 Collective Resistance
+1 Untimely Malfunction
+1 Abrade
+1 Swords to Plowshares
+1 Chord of Calling
+1 Bala Ged Recovery
+1 Earthquake
+1 Pyroclasm
+1 Eldritch Evolution
+1 Gamble
+1 Deafening Silence
+1 Touch the Spirit Realm
+1 Rhythm of the Wild
+1 Annie Joins Up
+1 Abundant Growth
+1 Minsc & Boo, Timeless Heroes
+1 Domri, Anarch of Bolas
+1 Needleverge Pathway
+1 Rugged Prairie
+1 Cragcrown Pathway
+1 Brushland
+1 Sunbaked Canyon
+1 Rockfall Vale
+1 Horizon Canopy
+1 Slayers' Stronghold
+1 Sunpetal Grove
+1 Clifftop Retreat
+1 Sheltering Landscape
+1 Battlefield Forge
+1 Cinder Glade
+1 Canopy Vista
+1 Karplusan Forest
+1 Rootbound Crag
+1 Exotic Orchard
+1 Command Tower
+1 Ancient Ziggurat
+1 Branchloft Pathway
+1 Overgrown Farmland
+1 Sundown Pass
+5 Forest
+3 Plains
+3 Mountain
+Sideboard
+1 Voja, Jaws of the Conclave

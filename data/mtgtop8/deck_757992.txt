@@ -1,0 +1,87 @@
+1 Academy Rector
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Aven Interrupter
+1 Aven Mindcensor
+1 Cathar Commando
+1 Deep Gnome Terramancer
+1 Doorkeeper Thrull
+1 Drannith Magistrate
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Grand Abolisher
+1 Jackdaw Savior
+1 Loran of the Third Path
+1 Loyal Retainers
+1 Martyred Rusalka
+1 Mistmoon Griffin
+1 Ornithopter of Paradise
+1 Oswald Fiddlebender
+1 Pulsemage Advocate
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Redemption Choir
+1 Skyclave Apparition
+1 Solitude
+1 Spirit of the Labyrinth
+1 Stoneforge Mystic
+1 Tataru Taru
+1 Voice of Victory
+1 Weathered Wayfarer
+1 Witch Enchanter
+1 Agatha's Soul Cauldron
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blasting Station
+1 Chrome Mox
+1 Claws of Gix
+1 Damping Sphere
+1 Disruptor Flute
+1 Fellwar Stone
+1 Gerrard's Hourglass Pendant
+1 Grim Monolith
+1 Lotus Petal
+1 Mana Vault
+1 Mirage Mirror
+1 Mirror of the Forebears
+1 Moonsilver Key
+1 Mox Diamond
+1 Mox Opal
+1 Nim Deathmantle
+1 Phyrexian Altar
+1 Portable Hole
+1 Sol Ring
+1 Springleaf Drum
+1 Staff of Compleation
+1 Vexing Bauble
+1 Enlightened Tutor
+1 Path to Exile
+1 Razorgrass Ambush
+1 Silence
+1 Swords to Plowshares
+1 Angelic Renewal
+1 Blind Obedience
+1 Deafening Silence
+1 Enduring Renewal
+1 Gift of Immortality
+1 Land Tax
+1 Out of Time
+1 Smothering Tithe
+1 Urza's Saga
+1 Tezzeret, Cruel Captain
+1 Ancient Den
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Traitors
+1 Command Beacon
+1 Eiganjo, Seat of the Empire
+1 Gemstone Caverns
+1 High Market
+1 Inventors' Fair
+1 Lazotep Quarry
+1 Nykthos, Shrine to Nyx
+15 Snow-Covered Plains
+1 Talon Gates of Madara
+Sideboard
+1 Ao, the Dawn Sky

@@ -1,0 +1,101 @@
+1 Agate Instigator
+1 Ancestral Statue
+1 Ancient Cellarspawn
+1 Artisan of Kozilek
+1 Blood Pet
+1 Emrakul, the Promised End
+1 Florian, Voldaren Scion
+1 Gray Merchant of Asphodel
+1 Grim Hireling
+1 Hoarding Broodlord
+1 Imperial Recruiter
+1 K'rrik, Son of Yawgmoth
+1 Kozilek, Butcher of Truth
+1 Liberator, Urza's Battlethopter
+1 Magda, Brazen Outlaw
+1 Magus of the Moon
+1 Molten Gatekeeper
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Pinnacle Monk
+1 Ragavan, Nimble Pilferer
+1 Razaketh, the Foulblooded
+1 Razorkin Needlehead
+1 Reckless Barbarian
+1 Reckless Fireweaver
+1 Rune-Scarred Demon
+1 Ruthless Technomancer
+1 Sardian Avenger
+1 Scrawling Crawler
+1 Sidisi, Undead Vizier
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Skittering Cicada
+1 The Infamous Cruelclaw
+1 Treasonous Ogre
+1 Ulamog, the Defiler
+1 Vilis, Broker of Blood
+1 Void Winnower
+1 Wandering Archaic
+1 Arcane Signet
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Dark Ritual
+1 Deflecting Swat
+1 Flare of Duplication
+1 Lightning Bolt
+1 Pyroblast
+1 Red Elemental Blast
+1 Saw in Half
+1 Vampiric Tutor
+1 Beseech the Mirror
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Gamble
+1 Imperial Seal
+1 Incarnation Technique
+1 Jeska's Will
+1 Reanimate
+1 Rite of Flame
+1 Wheel of Fortune
+1 Necropotence
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Gemstone Caverns
+1 Homeward Path
+1 Luxury Suite
+1 Mana Confluence
+1 Marsh Flats
+1 Mount Doom
+1 Mountain
+1 Plaza of Heroes
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Sulfurous Springs
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wooded Foothills
+Sideboard
+1 Rakdos, Lord of Riots

@@ -1,0 +1,78 @@
+1 Pinnacle Monk
+1 Abrade
+1 Adaptive Automaton
+1 Ashnod's Transmogrant
+1 Axgard Cavalry
+1 Barbarian Ring
+1 Barkform Harvester
+1 Battered Golem
+1 Blasphemous Act
+1 Bloodfire Dwarf
+1 Bottle-Cap Blast
+1 Burner Rocket
+1 Chaos Warp
+1 Clock of Omens
+1 Clown Car
+1 Damping Sphere
+1 Dead/Gone
+1 Disruptor Flute
+1 Dwarven Grunt
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Flywheel Racer
+1 Gadrak, the Crown-Scourge
+1 Galvanic Blast
+1 Gimli of the Glittering Caves
+1 Gloin, Dwarf Emissary
+1 God-Pharaoh's Statue
+1 Grafdigger's Cage
+1 Great Train Heist
+1 Guild Artisan
+1 High-Speed Hoverbike
+1 Holdout Settlement
+1 Liberated Dwarf
+1 Lifecraft Engine
+1 Lightning Bolt
+1 Liquimetal Coating
+1 Liquimetal Torque
+1 Magda, the Hoardmaster
+1 Maskwood Nexus
+1 Metallic Mimic
+1 Mobile Homestead
+24 Mountain
+1 Mutavault
+1 Plundering Barbarian
+1 Portal to Phyrexia
+1 Professional Face-Breaker
+1 Pyrite Spellbomb
+1 Pyrokinesis
+1 Realm-Scorcher Hellkite
+1 Return the Favor
+1 Season of the Bold
+1 Siege Smash
+1 Simian Spirit Guide
+1 Smuggler's Copter
+1 Sol Ring
+1 Spark Mage
+1 Springleaf Drum
+1 Stoke the Flames
+1 Sudden Shock
+1 Sundering Eruption
+1 Survivors' Encampment
+1 The Gold Saucer
+1 Three Tree Mascot
+1 Torpor Orb
+1 Treasure Vault
+1 Trumpeting Carnosaur
+1 Twinshot Sniper
+1 Universal Automaton
+1 Unlicensed Hearse
+1 Untimely Malfunction
+1 Vault Robber
+1 Volatile Fault
+1 Wild Magic Surge
+1 Xorn
+1 Zoyowa's Justice
+Sideboard
+1 Magda, Brazen Outlaw

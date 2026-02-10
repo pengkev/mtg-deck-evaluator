@@ -1,0 +1,85 @@
+1 Barkform Harvester
+1 Blood Artist
+1 Blood Pet
+1 Braids, Arisen Nightmare
+1 Bronze Walrus
+1 Catalyst Elemental
+1 Cathodion
+1 Chainer, Nightmare Adept
+1 Fell Horseman
+1 Flamecache Gecko
+1 Footlight Fiend
+1 Forsaken Miner
+1 Goblin Arsonist
+1 Goblin Engineer
+1 Goblin Matron
+1 Goblin Sledder
+1 Gray Merchant of Asphodel
+1 Hoverstone Pilgrim
+1 Manakin
+1 Marionette Apprentice
+1 Mayhem Devil
+1 Mogg Mob
+1 Mogg Raider
+1 Mogg War Marshal
+1 Molten Gatekeeper
+1 Murderous Redcap
+1 Murderous Rider
+1 Ornithopter of Paradise
+1 Overeager Apprentice
+1 Pawn of Ulamog
+1 Phyrexian Delver
+1 Pitiless Plunderer
+1 Priest of Gix
+1 Priest of Urabrask
+1 Rapacious Dragon
+1 Ravenous Chupacabra
+1 Reckless Barbarian
+1 Shriekmaw
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Skittering Precursor
+1 Sling-Gang Lieutenant
+1 Tibalt's Rager
+1 Tomb Trawler
+1 Treasonous Ogre
+1 Viscera Seer
+1 Warren Soultrader
+1 Woe Strider
+1 Workhorse
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bolas's Citadel
+1 Heartstone
+1 Mind Stone
+1 Rakdos Signet
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Indulgence
+1 The Cauldron of Eternity
+1 Abrade
+1 Dark Ritual
+1 Deadly Dispute
+1 Lethal Scheme
+1 Lightning Bolt
+1 Volcanic Spite
+1 Doomsday
+1 Into the Fire
+1 Persist
+1 Victimize
+1 Goblin Bombardment
+1 Command Tower
+1 Crystal Grotto
+1 Evolving Wilds
+1 Exotic Orchard
+9 Mountain
+1 Opal Palace
+1 Path of Ancestry
+1 Study Hall
+9 Swamp
+1 Temple of Malice
+1 The Grey Havens
+1 Zhalfirin Void
+Sideboard
+1 Grenzo, Dungeon Warden

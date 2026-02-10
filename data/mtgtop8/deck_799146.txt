@@ -1,0 +1,91 @@
+1 Alseid of Life's Bounty
+1 Hushbringer
+1 Kira, Great Glass-Spinner
+1 Archon of Emeria
+1 Trinket Mage
+1 Dimir Signet
+1 Sensei's Divining Top
+1 Mind Stone
+1 Isochron Scepter
+1 Grafdigger's Cage
+1 Arcane Signet
+1 Orzhov Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Thought Vessel
+1 Cursed Totem
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Sol Ring
+1 Hindering Light
+1 Angel's Grace
+1 Dovin's Veto
+1 Dark Ritual
+1 Dispel
+1 Emerge Unscathed
+1 Negate
+1 Orim's Chant
+1 Mana Leak
+1 Silence
+1 Lim-Dul's Vault
+1 Blessed Breath
+1 Swords to Plowshares
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Loran's Escape
+1 Sevinne's Reclamation
+1 Supreme Verdict
+1 Preordain
+1 Ponder
+1 Vindicate
+1 Toxic Deluge
+1 Ghostly Prison
+1 Arcane Laboratory
+1 Pemmin's Aura
+1 Staggering Insight
+1 Empyrial Armor
+1 Phyrexian Unlife
+1 Kaya's Ghostform
+1 Deafening Silence
+1 Counterbalance
+1 Luminarch Ascension
+1 Grasp of Fate
+1 Amphibian Downpour
+1 Mirrormade
+1 Combat Research
+1 Monastery Siege
+1 Oppression
+1 Phyrexian Arena
+1 Dress Down
+1 Sentinel's Eyes
+1 Web of Inertia
+1 Solemnity
+1 Rest in Peace
+1 Rule of Law
+1 Nine Lives
+3 Swamp
+1 Hall of Heliod's Generosity
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Temple of the False God
+1 Adarkar Wastes
+1 Plaza of Heroes
+1 Command Tower
+1 Skycloud Expanse
+1 Rogue's Passage
+1 Escape Tunnel
+5 Island
+1 Darkwater Catacombs
+1 Hengegate Pathway
+1 Scavenger Grounds
+1 Reliquary Tower
+1 Exotic Orchard
+1 Underground River
+1 Caves of Koilos
+1 Fabled Passage
+1 Mikokoro, Center of the Sea
+1 Maze of Ith
+5 Plains
+Sideboard
+1 Zur the Enchanter

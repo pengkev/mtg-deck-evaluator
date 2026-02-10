@@ -1,0 +1,101 @@
+1 Imposter Mech
+1 Magewright's Stone
+1 Mana Vault
+1 Memory Jar
+1 Mindslaver
+1 Mirror of Fate
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Repurposing Bay
+1 Sol Ring
+1 Staff of Compleation
+1 Sting, the Glinting Dagger
+1 Talisman of Creativity
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Unwinding Clock
+1 Vedalken Orrery
+1 Cerulean Wisps
+1 Chain of Vapor
+1 Deflecting Swat
+1 Dramatic Reversal
+1 Final Fortune
+1 Lotus Petal
+1 Fierce Guardianship
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Chromatic Orrery
+1 Chrome Mox
+1 Clock of Omens
+1 Coveted Jewel
+1 Cursed Mirror
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Flusterstorm
+1 Force of Will
+1 Intellectual Offering
+1 Into the Flood Maw
+1 Mana Drain
+1 Mindbreak Trap
+1 Paradoxical Outcome
+1 Pyroblast
+1 Shore Up
+1 Sink into Stupor
+1 Swan Song
+1 Gamble
+1 Hidden Strings
+1 Jeska's Will
+1 Merchant Scroll
+1 Reckless Handling
+1 Step Through
+1 Transmute Artifact
+1 Copy Artifact
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Unstoppable Plan
+1 Fabricate
+1 Adric, Mathematical Genius
+1 Goblin Welder
+1 Kuldotha Forgemaster
+1 Master Transmuter
+1 Mirrorshell Crab
+1 Nimble Obstructionist
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+1 Spellseeker
+1 Thassa's Oracle
+1 Transit Mage
+1 Vedalken Aethermage
+1 Vizier of Tumbling Sands
+1 Trophy Mage
+1 Corridor Monitor
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Cascade Bluffs
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Emergence Zone
+1 Fiery Islet
+1 Gemstone Caverns
+1 Great Furnace
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Starting Town
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+1 Island
+1 Academy Ruins
+Sideboard
+1 Jhoira, Ageless Innovator

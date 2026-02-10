@@ -1,0 +1,81 @@
+1 Dualcaster Mage
+1 Harmonic Prodigy
+1 Hydroelectric Specimen
+1 Lore Drakkis
+1 Malevolent Hermit
+1 Mockingbird
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Pinnacle Monk
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Veyran, Voice of Duality
+1 Arcane Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Creativity
+1 Alchemist's Retrieval
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Big Score
+1 Borne Upon a Wind
+1 Brainstorm
+1 Brightstone Ritual
+1 Cackling Counterpart
+1 Consider
+1 Counterspell
+1 Crimson Wisps
+1 Daze
+1 Delay
+1 Desperate Ritual
+1 Expedite
+1 Flick a Coin
+1 Frantic Search
+1 Gut Shot
+1 Impulse
+1 Into the Flood Maw
+1 Invoke Calamity
+1 Lightning Bolt
+1 Mana Leak
+1 Might of the Meek
+1 Mogg Salvage
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Opt
+1 Pyretic Ritual
+1 Pyroblast
+1 Remand
+1 Snap
+1 Snapback
+1 Stern Dismissal
+1 Submerge
+1 Suspend
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Electroduplicate
+1 Gamble
+1 Gitaxian Probe
+1 Grapeshot
+1 Last Chance
+1 Overmaster
+1 Ponder
+1 Rite of Flame
+1 Solve the Equation
+1 Step Through
+1 Strike It Rich
+1 Twinflame
+1 Amphibian Downpour
+1 Dress Down
+1 Barbarian Ring
+1 Command Tower
+1 Exotic Orchard
+1 Fiery Islet
+1 Frostboil Snarl
+12 Island
+10 Mountain
+1 Shivan Reef
+Sideboard
+1 Krark, the Thumbless
+1 Sakashima of a Thousand Faces

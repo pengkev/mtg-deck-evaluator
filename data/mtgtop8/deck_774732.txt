@@ -1,0 +1,70 @@
+1 Annoyed Altisaur
+1 Borborygmos Enraged
+1 Boreal Druid
+1 Bronze Walrus
+1 Canopy Tactician
+1 Cradle Clearcutter
+1 Delighted Halfling
+1 Devoted Druid
+1 Dread Linnorm
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Endless One
+1 Fyndhorn Elves
+1 Goldvein Hydra
+1 Ilysian Caryatid
+1 Impervious Greatwurm
+1 Karametra's Acolyte
+1 Kozilek, the Great Distortion
+1 Llanowar Elves
+1 Llanowar Visionary
+1 Meteor Golem
+1 Omarthis, Ghostfire Initiate
+1 Oracle of Mul Daya
+1 Owlbear Shepherd
+1 Paradise Druid
+1 Poison Dart Frog
+1 Priest of Titania
+1 Rampaging War Mammoth
+1 Selvala, Heart of the Wilds
+1 Shaman of Forgotten Ways
+1 Ulamog's Crusher
+1 Undermountain Adventurer
+1 Viridian Joiner
+1 Whisperer of the Wilds
+1 Woodcaller Automaton
+1 Wose Pathfinder
+1 Arcane Signet
+1 Doors of Durin
+1 Lifecrafter's Bestiary
+1 Sensei's Divining Top
+1 Swiftfoot Boots
+1 The Great Henge
+1 Deflecting Swat
+1 Friendly Rivalry
+1 Revealing Wind
+1 Assault on Osgiliath
+1 Banefire
+1 Crush of Wurms
+1 Elven Farsight
+1 Explosive Vegetation
+1 Finale of Devastation
+1 Fireball
+1 Glimpse of Nature
+1 Insurrection
+1 Rampant Growth
+1 Star of Extinction
+1 Tempt with Vengeance
+1 Vandalblast
+1 Berserkers' Onslaught
+1 Blood Mist
+1 Colossal Majesty
+1 Elven Chorus
+1 Garruk's Uprising
+1 Leyline of Abundance
+1 Rising of the Day
+1 Freyalise, Llanowar's Fury
+1 Nissa, Ascended Animist
+32 Forest
+Sideboard
+1 Raggadragga, Goreguts Boss

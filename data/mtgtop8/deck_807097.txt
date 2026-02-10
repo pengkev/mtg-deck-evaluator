@@ -1,0 +1,86 @@
+1 Allosaurus Shepherd
+1 Apex Altisaur
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Badgermole Cub
+1 Bane of Progress
+1 Birds of Paradise
+1 Boreal Druid
+1 Caustic Caterpillar
+1 Circle of Dreams Druid
+1 Collector Ouphe
+1 Copperhorn Scout
+1 Craterhoof Behemoth
+1 Defiler of Vigor
+1 Delighted Halfling
+1 Dionus, Elvish Archdruid
+1 Disciple of Freyalise
+1 Duskwatch Recruiter
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Reclaimer
+1 Elvish Spirit Guide
+1 Fanatic of Rhonas
+1 Fauna Shaman
+1 Fierce Empath
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Ghalta, Stampede Tyrant
+1 Gilded Goose
+1 Glacier Godmaw
+1 Great Oak Guardian
+1 Hyrax Tower Scout
+1 Insidious Fungus
+1 It That Betrays
+1 Joraga Treespeaker
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Magus of the Candelabra
+1 Manglehorn
+1 Mwonvuli Beast Tracker
+1 Nyxbloom Ancient
+1 Priest of Titania
+1 Quirion Ranger
+1 Regal Force
+1 Scryb Ranger
+1 Shaman of Forgotten Ways
+1 Surrak and Goreclaw
+1 Sylvan Safekeeper
+1 Terastodon
+1 Thorn Mammoth
+1 Void Winnower
+1 Vorinclex, Voice of Hunger
+1 Voyaging Satyr
+1 Wandering Archaic
+1 Wirewood Symbiote
+1 Woodland Bellower
+1 Null Rod
+1 The Great Henge
+1 Thorn of Amethyst
+1 Trinisphere
+1 Vexing Bauble
+1 Winter Moon
+1 Crop Rotation
+1 Legolas's Quick Reflexes
+1 Summoner's Pact
+1 Veil of Summer
+1 Worldly Tutor
+1 Green Sun's Zenith
+1 Natural Order
+1 Pick Your Poison
+1 Sylvan Tutor
+1 Sylvan Library
+1 Boseiju, Who Endures
+1 Dryad Arbor
+16 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+1 Strip Mine
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Eladamri, Korvecdal

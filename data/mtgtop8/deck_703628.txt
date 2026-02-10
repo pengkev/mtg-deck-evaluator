@@ -1,0 +1,101 @@
+1 Necrotic Ooze
+1 Phyrexian Devourer
+1 Walking Ballista
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Mox Amber
+1 Chrome Mox
+1 Arcane Signet
+1 The One Ring
+1 Sol Ring
+1 Lotus Petal
+1 Veil of Summer
+1 Culling the Weak
+1 Reclaim
+1 Doom Blade
+1 Autumn's Veil
+1 Snuff Out
+1 Rain of Filth
+1 Songs of the Damned
+1 Ad Nauseam
+1 Imp's Mischief
+1 Tainted Pact
+1 Vampiric Tutor
+1 Assassin's Trophy
+1 Beast Within
+1 Dark Ritual
+1 Entomb
+1 Deadly Rollick
+1 Noxious Revival
+1 Force of Vigor
+1 Dismember
+1 Infernal Grasp
+1 Crop Rotation
+1 Grisly Salvage
+1 Abrupt Decay
+1 Cabal Ritual
+1 Go for the Throat
+1 Diabolic Intent
+1 Reanimate
+1 Demonic Tutor
+1 Soul Exchange
+1 Persist
+1 Toxic Deluge
+1 Imperial Seal
+1 Life/Death
+1 Rise of the Eldrazi
+1 Casualties of War
+1 Buried Alive
+1 Damnation
+1 Culling Ritual
+1 Regrowth
+1 Sylvan Scrying
+1 Grim Tutor
+1 Exhume
+1 Sylvan Library
+1 Necromancy
+1 Squandered Resources
+1 Carpet of Flowers
+1 Exploration
+1 Dance of the Dead
+1 Wild Growth
+1 Burgeoning
+1 Necropotence
+1 Animate Dead
+1 Heartless Summoning
+1 City of Brass
+1 Misty Rainforest
+1 Ancient Tomb
+1 Nurturing Peatland
+1 Prismatic Vista
+1 Mana Confluence
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Bayou
+1 Gemstone Caverns
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 Tarnished Citadel
+1 Marsh Flats
+1 Verdant Catacombs
+1 Yavimaya, Cradle of Growth
+1 Phyrexian Tower
+1 Boseiju, Who Endures
+1 Reflecting Pool
+1 Forbidden Orchard
+1 Llanowar Wastes
+1 Undergrowth Stadium
+1 Blooming Marsh
+1 Forest
+1 Swamp
+1 Command Tower
+1 Woodland Cemetery
+1 Windswept Heath
+1 Shifting Woodland
+1 Urborg, Tomb of Yawgmoth
+1 Overgrown Tomb
+1 Cavern of Souls
+Sideboard
+1 Old Stickfingers

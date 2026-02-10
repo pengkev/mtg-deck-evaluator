@@ -1,0 +1,81 @@
+1 Archmage Emeritus
+1 Ashling, Flame Dancer
+1 Gogo, Mysterious Mime
+1 Guttersnipe
+1 Hydroelectric Specimen
+1 Kraum, Ludevic's Opus
+1 Manaform Hellkite
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, Visionary
+1 Prompto Argentum
+1 Shantotto, Tactician Magician
+1 Storm-Kiln Artist
+1 Summon: G.F. Cerberus
+1 Talrand, Sky Summoner
+1 The Emperor of Palamecia
+1 Ultros, Obnoxious Octopus
+1 Veyran, Voice of Duality
+1 Young Pyromancer
+1 Arcane Signet
+1 Everflowing Chalice
+1 Hedron Archive
+1 Izzet Signet
+1 Skullclamp
+1 Sol Ring
+1 The Regalia
+1 Thought Vessel
+1 Thran Dynamo
+1 Aetherize
+1 Arcane Denial
+1 Big Score
+1 Chaos Warp
+1 Consider
+1 Counterspell
+1 Dig Through Time
+1 Eject
+1 Electrodominance
+1 Expansion/Explosion
+1 Galvanic Iteration
+1 Lindblum, Industrial Regency
+1 Magic Damper
+1 Mystic Confluence
+1 Pongify
+1 Pull from Tomorrow
+1 Snap
+1 Baral's Expertise
+1 Brass's Bounty
+1 Call Forth the Tempest
+1 Choco-Comet
+1 Curse of the Swine
+1 Epic Experiment
+1 Expressive Iteration
+1 Faithless Looting
+1 Finale of Revelation
+1 Fireball
+1 Hell to Pay
+1 Mana Geyser
+1 Memories Returning
+1 Mizzix's Mastery
+1 Ponder
+1 Preordain
+1 Relm's Sketching
+1 Snort
+1 Vandalblast
+1 City on Fire
+1 Rite of the Dragoncaller
+1 Sorcerer Class
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Ferrous Lake
+1 Frostboil Snarl
+11 Island
+11 Mountain
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Riptide Laboratory
+1 Shivan Reef
+1 Sulfur Falls
+1 Temple of Epiphany
+Sideboard
+1 Tellah, Great Sage

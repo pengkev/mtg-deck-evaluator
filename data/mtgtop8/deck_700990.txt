@@ -1,0 +1,100 @@
+1 Carrion Feeder
+1 Zulaport Cutthroat
+1 Ranger-Captain of Eos
+1 Drannith Magistrate
+1 Recruiter of the Guard
+1 Opposition Agent
+1 Esper Sentinel
+1 Dauthi Voidwalker
+1 Archivist of Oghma
+1 Elas il-Kor, Sadistic Pilgrim
+1 Gravecrawler
+1 Yawgmoth, Thran Physician
+1 Drana and Linvala
+1 Samwise the Stouthearted
+1 Gollum, Patient Plotter
+1 Boromir, Warden of the Tower
+1 Orcish Bowmasters
+1 Nazgul
+1 Lotho, Corrupt Shirriff
+1 Bartolomé del Presidio
+1 Blood Artist
+1 Viscera Seer
+1 Cruel Celebrant
+1 Kambal, Profiteering Mayor
+1 Witch Enchanter
+1 Warren Soultrader
+1 Marionette Apprentice
+1 Boggart Trawler
+1 Grafdigger's Cage
+1 Mana Vault
+1 Blasting Station
+1 Lotus Petal
+1 Altar of Dementia
+1 Springleaf Drum
+1 Fellwar Stone
+1 Mox Amber
+1 Chrome Mox
+1 Relic of Legends
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Sol Ring
+1 Wishclaw Talisman
+1 Orzhov Signet
+1 Talisman of Hierarchy
+1 Culling the Weak
+1 Swords to Plowshares
+1 Sacrifice
+1 Dark Ritual
+1 Silence
+1 Entomb
+1 March of Otherworldly Light
+1 Soul Partition
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Deadly Rollick
+1 Lethal Scheme
+1 Path to Exile
+1 Thraben Charm
+1 Flare of Malice
+1 Bitter Ordeal
+1 Diabolic Intent
+1 Sevinne's Reclamation
+1 Demonic Tutor
+1 Lively Dirge
+1 The Meathook Massacre
+1 Touch the Spirit Realm
+1 Call of the Ring
+1 Smothering Tithe
+1 Blind Obedience
+1 Trouble in Pairs
+1 Smuggler's Share
+1 Godless Shrine
+1 Phyrexian Tower
+1 Ancient Tomb
+1 Emergence Zone
+1 Silent Clearing
+1 Mana Confluence
+1 Bloodstained Mire
+1 Polluted Delta
+1 City of Brass
+1 Brightclimb Pathway
+1 Gemstone Caverns
+1 Arid Mesa
+1 Marsh Flats
+1 Verdant Catacombs
+1 Takenuma, Abandoned Mire
+1 Swamp
+1 Caves of Koilos
+1 Plaza of Heroes
+1 Vault of Champions
+1 Cavern of Souls
+1 Command Tower
+1 Shadowy Backstreet
+1 Flooded Strand
+1 Spymaster's Vault
+1 Spire of Industry
+1 Exotic Orchard
+2 Plains
+Sideboard
+1 Ratadrabik of Urborg

@@ -1,0 +1,83 @@
+1 Altered Ego
+1 Apex Devastator
+1 Arbor Elf
+1 Beledros Witherbloom
+1 Birds of Paradise
+1 Bygone Colossus
+1 Cloud of Faeries
+1 Colossal Grave-Reaver
+1 Deadpool, Trading Card
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Enduring Vitality
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fierce Empath
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Geralf, the Fleshwright
+1 Ghalta, Stampede Tyrant
+1 Hoarding Broodlord
+1 Hullbreaker Horror
+1 Jin-Gitaxias, Progress Tyrant
+1 Kefka, Court Mage
+1 Llanowar Elves
+1 Maelstrom Wanderer
+1 Nyxbloom Ancient
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Radagast the Brown
+1 Rashmi, Eternities Crafter
+1 Selvala, Heart of the Wilds
+1 Springheart Nantuko
+1 Starfield Vocalist
+1 Tidespout Tyrant
+1 Tinder Wall
+1 Tishana, Voice of Thunder
+1 Toxrill, the Corrosive
+1 Treasonous Ogre
+1 Trumpeting Carnosaur
+1 Woodland Bellower
+1 Arcane Signet
+1 Sol Ring
+1 Springleaf Drum
+1 Arachnogenesis
+1 Delayed Blast Fireball
+1 Entomb
+1 Snap
+1 Creative Technique
+1 Eldritch Evolution
+1 Genesis Storm
+1 Incarnation Technique
+1 Last March of the Ents
+1 Mind's Desire
+1 Natural Order
+1 Reanimate
+1 Show and Tell
+1 Tempt with Discovery
+1 Defense of the Heart
+1 Growing Rites of Itlimoc
+1 Leyline of Anticipation
+1 Overgrowth
+1 Sneak Attack
+1 Wild Growth
+1 Kiora, Behemoth Beckoner
+1 Blooming Marsh
+1 Cinder Glade
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+9 Forest
+6 Island
+4 Mountain
+1 Rockfall Vale
+1 Rootbound Crag
+1 Shivan Reef
+1 Smoldering Marsh
+1 Stormcarved Coast
+1 Sulfurous Springs
+3 Swamp
+1 Vernal Fen
+Sideboard
+1 Yidris, Maelstrom Wielder

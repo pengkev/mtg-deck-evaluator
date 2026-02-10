@@ -1,0 +1,69 @@
+1 Crashing Drawbridge
+1 Sakura-Tribe Elder
+1 Azusa, Lost but Seeking
+1 Sakura-Tribe Scout
+1 Seedborn Muse
+1 Lotus Cobra
+1 Kamahl, Heart of Krosa
+1 Terastodon
+1 Quirion Ranger
+1 Topiary Stomper
+1 Tireless Provisioner
+1 Elfhame Wurm
+1 Challenger Troll
+1 Stonehoof Chieftain
+1 Eternal Witness
+1 Molimo, Maro-Sorcerer
+1 Beast Whisperer
+1 Saryth, the Viper's Fang
+1 Outcaster Greenblade
+1 Avenger of Zendikar
+1 Haywire Mite
+1 House Cartographer
+1 Giant Adephage
+1 Thunderfoot Baloth
+1 Ghalta, Primal Hunger
+1 Reclamation Sage
+1 Solemn Simulacrum
+1 Terrian, World Tyrant
+1 Quakestrider Ceratops
+1 Sol Ring
+1 Whispersilk Cloak
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Harrow
+1 Return to Nature
+1 Beast Within
+1 Roiling Regrowth
+1 Prizefight
+1 Ram Through
+1 Bite Down
+1 Nature's Lore
+1 Life's Legacy
+1 Kodama's Reach
+1 Overrun
+1 Shamanic Revelation
+1 Rampant Growth
+1 Bala Ged Recovery
+1 Harmonize
+1 Vivien's Stampede
+1 Viewpoint Synchronization
+1 Season of Gathering
+1 Skyshroud Claim
+1 Genesis Wave
+1 Bushwhack
+1 Cultivate
+1 Colossal Majesty
+1 Instill Energy
+1 Aspect of Mongoose
+1 Kenrith's Transformation
+1 Exploration
+1 Lignify
+1 Up the Beanstalk
+1 Garruk's Uprising
+1 Castle Garenbrig
+1 Reliquary Tower
+1 Rogue's Passage
+33 Forest
+Sideboard
+1 Loot, Exuberant Explorer

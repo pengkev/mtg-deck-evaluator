@@ -1,0 +1,101 @@
+1 Orcish Bowmasters
+1 Ragavan, Nimble Pilferer
+1 Storm-Kiln Artist
+1 Goblin Welder
+1 Birgi, God of Storytelling
+1 Valley Floodcaller
+1 Thassa's Oracle
+1 Simian Spirit Guide
+1 Hope of Ghirapur
+1 Razaketh, the Foulblooded
+1 Altar of the Wretched
+1 Goblin Engineer
+1 Marvin, Murderous Mimic
+1 Professional Face-Breaker
+1 Wan Shi Tong, Librarian
+1 Rakdos, the Muscle
+1 Magda, Brazen Outlaw
+1 Mox Amber
+1 Talisman of Indulgence
+1 Mox Diamond
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Bolas's Citadel
+1 Altar of Dementia
+1 Arcane Signet
+1 Blasting Station
+1 Defense Grid
+1 Relic of Legends
+1 Prized Statue
+1 Sol Ring
+1 Lotus Petal
+1 Mox Opal
+1 Deadly Rollick
+1 Sacrifice
+1 Final Fortune
+1 Brain Freeze
+1 Vampiric Tutor
+1 Cabal Ritual
+1 Pact of Negation
+1 Borne Upon a Wind
+1 Mystical Tutor
+1 Chain of Vapor
+1 Tainted Pact
+1 Fierce Guardianship
+1 Culling the Weak
+1 Deflecting Swat
+1 Demonic Consultation
+1 Force of Will
+1 An Offer You Can't Refuse
+1 Swan Song
+1 Mindbreak Trap
+1 Dark Ritual
+1 Burnt Offering
+1 Entomb
+1 Flusterstorm
+1 Reanimate
+1 Strike It Rich
+1 Demonic Tutor
+1 Praetor's Grasp
+1 Jeska's Will
+1 Gamble
+1 Imperial Seal
+1 Wheel of Fortune
+1 Diabolic Intent
+1 Beseech the Mirror
+1 Rite of Flame
+1 Mystic Remora
+1 Rhystic Study
+1 Underworld Breach
+1 Goblin Bombardment
+1 Necropotence
+1 Lukka, Coppercoat Outcast
+1 Steam Vents
+1 Marsh Flats
+1 Command Tower
+1 Polluted Delta
+1 Great Furnace
+1 Watery Grave
+1 Scalding Tarn
+1 Wooded Foothills
+1 Blood Crypt
+1 Undercity Sewers
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Arid Mesa
+1 Emergence Zone
+1 Starting Town
+1 Arena of Glory
+1 City of Brass
+1 Verdant Catacombs
+1 Flooded Strand
+1 City of Traitors
+1 Gemstone Caverns
+Sideboard
+1 Silas Renn, Seeker Adept
+1 Dargo, the Shipwrecker

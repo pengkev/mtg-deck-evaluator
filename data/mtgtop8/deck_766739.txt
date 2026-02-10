@@ -1,0 +1,99 @@
+1 Archivist of Oghma
+1 Archon of Emeria
+1 Avacyn's Pilgrim
+1 Aven Interrupter
+1 Bartolomé del Presidio
+1 Basking Broodscale
+1 Birds of Paradise
+1 Bloom Tender
+1 Breena, the Demagogue
+1 Carrion Feeder
+1 Channeler Initiate
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Devoted Druid
+1 Drannith Magistrate
+1 Drumbellower
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elves of Deep Shadow
+1 Emperor of Bones
+1 Enduring Vitality
+1 Esper Sentinel
+1 Eternal Witness
+1 Faeburrow Elder
+1 Faithful Watchdog
+1 Grand Abolisher
+1 Hallowed Spiritkeeper
+1 Hexdrinker
+1 Icatian Moneychanger
+1 Llanowar Elves
+1 Lotho, Corrupt Shirriff
+1 Manglehorn
+1 Marvin, Murderous Mimic
+1 Metastatic Evangel
+1 Orcish Bowmasters
+1 Phyrexian Censor
+1 Ranger-Captain of Eos
+1 Rishkar, Peema Renegade
+1 Rosie Cotton of South Lane
+1 Shield Mate
+1 Skrelv, Defector Mite
+1 Strangleroot Geist
+1 Sylvan Safekeeper
+1 Voice of Victory
+1 Wall of Roots
+1 Warden of the Grove
+1 White Plume Adventurer
+1 Young Wolf
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Chrome Mox
+1 Lotus Petal
+1 Pre-War Formalwear
+1 Sol Ring
+1 Tarrian's Soulcleaver
+1 Wishclaw Talisman
+1 Crop Rotation
+1 Path to Exile
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Demonic Tutor
+1 Nature's Rhythm
+1 Cryptolith Rite
+1 Deafening Silence
+1 Earthcraft
+1 Survival of the Fittest
+1 Swift Reconfiguration
+1 Tyvar, Jubilant Brawler
+1 Ancient Tomb
+1 Arid Mesa
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Centaur Garden
+1 Command Beacon
+1 Command Tower
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Godless Shrine
+1 Indatha Triome
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+2 Plains
+1 Polluted Delta
+1 Savannah
+1 Scrubland
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+Sideboard
+1 Tayam, Luminous Enigma

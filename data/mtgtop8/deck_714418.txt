@@ -1,0 +1,101 @@
+1 Morphic Pool
+1 Undergrowth Stadium
+1 Rejuvenating Springs
+1 Windswept Heath
+1 Wooded Foothills
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Gemstone Caverns
+1 Zagoth Triome
+1 Underground Sea
+1 Tropical Island
+1 Bayou
+1 Gaea's Cradle
+1 Waterlogged Grove
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Marsh Flats
+1 Watery Grave
+1 Overgrown Tomb
+1 Breeding Pool
+1 Oko, Thief of Crowns
+1 Cryptolith Rite
+1 Birthing Ritual
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Rhystic Study
+1 Nature's Rhythm
+1 Demonic Tutor
+1 Reanimate
+1 Culling Ritual
+1 Imperial Seal
+1 Toxic Deluge
+1 Neoform
+1 Yahenni's Expertise
+1 Eldritch Evolution
+1 Transmute Artifact
+1 Arcane Denial
+1 Cyber Conversion
+1 Resculpt
+1 Cyclonic Rift
+1 Mystical Tutor
+1 Crop Rotation
+1 Force of Will
+1 Assassin's Trophy
+1 Mana Drain
+1 Force of Negation
+1 An Offer You Can't Refuse
+1 Tainted Pact
+1 Mindbreak Trap
+1 Swan Song
+1 Stubborn Denial
+1 Mental Misstep
+1 Abrupt Decay
+1 Fierce Guardianship
+1 Flusterstorm
+1 Dispel
+1 Vampiric Tutor
+1 Delay
+1 Veil of Summer
+1 Dark Ritual
+1 Sol Ring
+1 Talisman of Curiosity
+1 Arcane Signet
+1 Fellwar Stone
+1 The One Ring
+1 Talisman of Dominance
+1 Mana Vault
+1 Mox Diamond
+1 Birthing Pod
+1 Grim Monolith
+1 Chrome Mox
+1 Lotus Petal
+1 Enduring Vitality
+1 Clever Impersonator
+1 Elves of Deep Shadow
+1 Fanatic of Rhonas
+1 Tishana's Tidebinder
+1 Delighted Halfling
+1 Talion, the Kindly Lord
+1 Orcish Bowmasters
+1 Nyxbloom Ancient
+1 Birds of Paradise
+1 Bloom Tender
+1 Toxrill, the Corrosive
+1 Koma, Cosmos Serpent
+1 Opposition Agent
+1 Nezahal, Primal Tide
+1 Kinnan, Bonder Prodigy
+1 Thassa's Oracle
+1 Seedborn Muse
+1 Boreal Druid
+1 Scalding Tarn
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Command Tower
+1 Undercity Sewers
+1 Shifting Woodland
+Sideboard
+1 Tasigur, the Golden Fang

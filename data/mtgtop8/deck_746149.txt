@@ -1,0 +1,97 @@
+1 Anzrag, the Quake-Mole
+1 Bane of Progress
+1 Birds of Paradise
+1 Bloodthirster
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Dragonborn Champion
+1 Elder Gargaroth
+1 Emrakul, the Promised End
+1 Etali, Primal Conqueror
+1 Fanatic of Rhonas
+1 Godo, Bandit Warlord
+1 Ilharg, the Raze-Boar
+1 Joraga Treespeaker
+1 Karlach, Fury of Avernus
+1 Klauth, Unrivaled Ancient
+1 Kozilek, Butcher of Truth
+1 Malignus
+1 Moraug, Fury of Akoum
+1 Ojer Kaslem, Deepest Growth
+1 Old Gnawbone
+1 Pathbreaker Ibex
+1 Quartzwood Crasher
+1 Ravenous Tyrannosaurus
+1 Selvala, Heart of the Wilds
+1 Somberwald Sage
+1 Embercleave
+1 Shadowspear
+1 Sol Ring
+1 The Dominion Bracelet
+1 The Great Henge
+1 The One Ring
+1 The Skullspore Nexus
+1 Thought Vessel
+1 Archdruid's Charm
+1 Beast Within
+1 Deflecting Swat
+1 Force of Vigor
+1 Heroic Intervention
+1 Legolas's Quick Reflexes
+1 Lifestream's Blessing
+1 Obscuring Haze
+1 Pyroblast
+1 Red Elemental Blast
+1 Seedtime
+1 Smuggler's Surprise
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Veil of Summer
+1 Bala Ged Recovery
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Full Throttle
+1 Green Sun's Zenith
+1 Life's Legacy
+1 Natural Order
+1 Nature's Rhythm
+1 Rishkar's Expertise
+1 Seize the Day
+1 Summer Bloom
+1 Asceticism
+1 Carpet of Flowers
+1 Garruk's Uprising
+1 Gimli's Reckless Might
+1 Greater Good
+1 Sneak Attack
+1 Sylvan Library
+1 Urza's Saga
+1 Wild Growth
+1 Invasion of Ikoria
+1 Minsc & Boo, Timeless Heroes
+1 Arena of Glory
+1 Bonders' Enclave
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Commercial District
+1 Cragcrown Pathway
+1 Dryad Arbor
+1 Fabled Passage
+1 Fire-Lit Thicket
+4 Forest
+1 Gruul Turf
+1 Homeward Path
+1 Karplusan Forest
+2 Mountain
+1 Plaza of Heroes
+1 Reliquary Tower
+1 Shifting Woodland
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Xenagos, God of Revels

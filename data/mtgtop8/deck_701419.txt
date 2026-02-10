@@ -1,0 +1,101 @@
+1 Seedborn Muse
+1 Deathrite Shaman
+1 Gilded Drake
+1 Thassa's Oracle
+1 Kinnan, Bonder Prodigy
+1 Elves of Deep Shadow
+1 Opposition Agent
+1 Birds of Paradise
+1 Orcish Bowmasters
+1 Talion, the Kindly Lord
+1 Volatile Stormdrake
+1 Phyrexian Metamorph
+1 Elvish Mystic
+1 Biomancer's Familiar
+1 Spellseeker
+1 Walking Ballista
+1 Dauthi Voidwalker
+1 Bloom Tender
+1 Dark Confidant
+1 Devoted Druid
+1 Delighted Halfling
+1 Tishana's Tidebinder
+1 Endurance
+1 Enduring Vitality
+1 Wishclaw Talisman
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Basalt Monolith
+1 Mana Vault
+1 Machine God's Effigy
+1 Mox Amber
+1 The One Ring
+1 Sol Ring
+1 Chrome Mox
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Swan Song
+1 Veil of Summer
+1 Mystical Tutor
+1 Entomb
+1 Vampiric Tutor
+1 Fierce Guardianship
+1 Worldly Tutor
+1 Demonic Consultation
+1 Force of Will
+1 Dispel
+1 Flusterstorm
+1 Mana Drain
+1 Pact of Negation
+1 Mindbreak Trap
+1 Abrupt Decay
+1 Tainted Pact
+1 Assassin's Trophy
+1 Reanimate
+1 Finale of Devastation
+1 Yawgmoth's Will
+1 Demonic Tutor
+1 Imperial Seal
+1 Fabricate
+1 Eldritch Evolution
+1 Final Parting
+1 Culling Ritual
+1 Toxic Deluge
+1 Carpet of Flowers
+1 Rhystic Study
+1 Mystic Remora
+1 Sylvan Library
+1 Training Grounds
+1 Tezzeret the Seeker
+1 Watery Grave
+1 Exotic Orchard
+1 Darkslick Shores
+1 Breeding Pool
+1 Ancient Tomb
+1 Reflecting Pool
+1 Mana Confluence
+1 Overgrown Tomb
+1 Underground River
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Zagoth Triome
+1 Llanowar Wastes
+1 Yavimaya Coast
+1 Polluted Delta
+1 River of Tears
+1 Verdant Catacombs
+1 Undergrowth Stadium
+1 Command Tower
+1 Boseiju, Who Endures
+1 Forbidden Orchard
+1 City of Brass
+1 Urborg, Tomb of Yawgmoth
+1 Cephalid Coliseum
+1 Rejuvenating Springs
+1 Yavimaya, Cradle of Growth
+1 Minamo, School at Water's Edge
+1 Gemstone Caverns
+Sideboard
+1 Thrasios, Triton Hero
+1 Francisco, Fowl Marauder

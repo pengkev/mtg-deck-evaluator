@@ -1,0 +1,81 @@
+1 Birds of Paradise
+1 Birgi, God of Storytelling
+1 Destiny Spinner
+1 Disciple of Freyalise
+1 Dualcaster Mage
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Hellkite Courser
+1 Hexing Squelcher
+1 Hulking Raptor
+1 Hunting Velociraptor
+1 Imperial Recruiter
+1 Keeper of Secrets
+1 Llanowar Elves
+1 Orcish Lumberjack
+1 Ragavan, Nimble Pilferer
+1 Rionya, Fire Dancer
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Tinder Wall
+1 Treasonous Ogre
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Chrome Mox
+1 Grim Monolith
+1 Helm of the Host
+1 Lightning Greaves
+1 Lotus Petal
+1 Mana Vault
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Panharmonicon
+1 Sol Ring
+1 Swiftfoot Boots
+1 The One Ring
+1 Abrade
+1 Beast Within
+1 Chaos Warp
+1 Deflecting Swat
+1 Desperate Ritual
+1 Guttural Response
+1 Heroic Intervention
+1 Noxious Revival
+1 Pyretic Ritual
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Return to Nature
+1 Seething Song
+1 Veil of Summer
+1 Worldly Tutor
+1 Blasphemous Act
+1 Eldritch Evolution
+1 Electroduplicate
+1 Gamble
+1 Harmonize
+1 Heat Shimmer
+1 Jeska's Will
+1 Molten Duplication
+1 Rishkar's Expertise
+1 Rite of Flame
+1 Twinflame
+1 Vandalblast
+1 Food Chain
+1 Splinter Twin
+1 Sylvan Library
+1 Underworld Breach
+1 Up the Beanstalk
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+9 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Mana Confluence
+13 Mountain
+1 Rockfall Vale
+1 Stomping Ground
+1 Wooded Foothills
+Sideboard
+1 Etali, Primal Conqueror

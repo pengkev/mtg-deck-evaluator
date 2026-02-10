@@ -1,0 +1,101 @@
+1 Jin-Gitaxias, Core Augur
+1 Drannith Magistrate
+1 Snapcaster Mage
+1 Priest of Fell Rites
+1 Esper Sentinel
+1 Tymna the Weaver
+1 Malevolent Hermit
+1 Jin-Gitaxias, Progress Tyrant
+1 Abdel Adrian, Gorion's Ward
+1 Laboratory Maniac
+1 Serra Ascendant
+1 Street Wraith
+1 Lurrus of the Dream-Den
+1 Thassa's Oracle
+1 Orcish Bowmasters
+1 Grand Abolisher
+1 Talion, the Kindly Lord
+1 Dauthi Voidwalker
+1 Solitude
+1 Aven Interrupter
+1 Mockingbird
+1 Pollywog Prodigy
+1 Rev, Tithe Extractor
+1 Lavinia, Azorius Renegade
+1 Ranger-Captain of Eos
+1 Lion's Eye Diamond
+1 Chrome Mox
+1 Mox Diamond
+1 Sensei's Divining Top
+1 The One Ring
+1 Sol Ring
+1 Fellwar Stone
+1 Arcane Signet
+1 Lotus Petal
+1 Gush
+1 Stubborn Denial
+1 Swords to Plowshares
+1 Dark Ritual
+1 Tainted Pact
+1 March of Otherworldly Light
+1 Force of Negation
+1 Force of Will
+1 Demonic Consultation
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Enlightened Tutor
+1 Entomb
+1 Swan Song
+1 Fierce Guardianship
+1 Get Lost
+1 Drown in the Loch
+1 Thraben Charm
+1 Chain of Vapor
+1 Mindbreak Trap
+1 Cabal Ritual
+1 Flusterstorm
+1 Reanimate
+1 Demonic Tutor
+1 Imperial Seal
+1 Doomsday
+1 Sevinne's Reclamation
+1 Beseech the Mirror
+1 Animate Dead
+1 Steal Enchantment
+1 Dance of the Dead
+1 Telepathy
+1 Urza's Saga
+1 Mystic Remora
+1 Counterbalance
+1 Rhystic Study
+1 Necromancy
+1 Ripples of Undeath
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Scalding Tarn
+1 Sea of Clouds
+1 Misty Rainforest
+1 Marsh Flats
+1 Arid Mesa
+1 Ancient Tomb
+1 Morphic Pool
+1 Verdant Catacombs
+1 Otawara, Soaring City
+1 Mana Confluence
+1 Swamp
+1 Gemstone Caverns
+1 Vault of Champions
+1 Godless Shrine
+1 Hallowed Fountain
+1 Watery Grave
+1 Undercity Sewers
+1 Command Tower
+1 Exotic Orchard
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 City of Brass
+Sideboard
+1 Raffine, Scheming Seer

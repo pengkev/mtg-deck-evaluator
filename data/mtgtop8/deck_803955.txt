@@ -1,0 +1,100 @@
+1 Clever Impersonator
+1 Drift of Phantasms
+1 Glint-Horn Buccaneer
+1 Goblin Matron
+1 Hexing Squelcher
+1 Imperial Recruiter
+1 Ingenious Artillerist
+1 Magda, Brazen Outlaw
+1 Mockingbird
+1 Niv-Mizzet, Parun
+1 Phyrexian Metamorph
+1 Ragavan, Nimble Pilferer
+1 Reckless Fireweaver
+1 Simian Spirit Guide
+1 Siren Stormtamer
+1 Tandem Lookout
+1 Vivi Ornitier
+1 Wan Shi Tong, Librarian
+1 Weftstalker Ardent
+1 Chrome Mox
+1 Defense Grid
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Maskwood Nexus
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 Vexing Bauble
+1 An Offer You Can't Refuse
+1 Artificial Evolution
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cyclonic Rift
+1 Daze
+1 Deflecting Swat
+1 Dizzy Spell
+1 Fierce Guardianship
+1 Final Fortune
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Intuition
+1 March of Swirling Mist
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Snap
+1 Trickery Charm
+1 Wings of Velis Vel
+1 Blasphemous Act
+1 Jeska's Will
+1 Last Chance
+1 Rite of Flame
+1 Sea Gate Restoration
+1 Step Through
+1 Timetwister
+1 Warrior's Oath
+1 Wheel of Fortune
+1 Curiosity
+1 Mystic Remora
+1 Ophidian Eye
+1 Rhystic Study
+1 Underworld Breach
+1 Urza's Saga
+1 Tezzeret the Seeker
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Fiery Islet
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+2 Snow-Covered Island
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+Sideboard
+1 Kediss, Emberclaw Familiar
+1 Malcolm, Keen-Eyed Navigator

@@ -1,0 +1,77 @@
+1 Tidespout Tyrant
+1 Hullbreaker Horror
+1 Darksteel Relic
+1 Welding Jar
+1 Aether Spellbomb
+1 Blinkmoth Urn
+1 Rings of Brighthearth
+1 Codex Shredder
+1 Elixir of Immortality
+1 Zuran Orb
+1 Vedalken Orrery
+1 Strionic Resonator
+1 Astral Cornucopia
+1 Bone Saw
+1 Tormod's Crypt
+1 Basalt Monolith
+1 Sapphire Medallion
+1 Everflowing Chalice
+1 Mystic Forge
+1 Fountainport Bell
+1 Fellwar Stone
+1 Isochron Scepter
+1 Mishra's Bauble
+1 Proteus Staff
+1 Paradise Mantle
+1 Mind Stone
+1 Thought Vessel
+1 Traveler's Amulet
+1 Soul-Guide Lantern
+1 Sol Ring
+1 Arcane Signet
+1 Wayfarer's Bauble
+1 Dermotaxi
+1 Braided Net
+1 Tale's End
+1 Foil
+1 Dramatic Reversal
+1 Override
+1 Boomerang
+1 Delay
+1 Snapback
+1 High Tide
+1 Impulse
+1 Borne Upon a Wind
+1 Farsight Ritual
+1 Thirst for Knowledge
+1 Strix Serenade
+1 Pull from Tomorrow
+1 Daze
+1 Paradoxical Outcome
+1 Rapid Hybridization
+1 Thwart
+1 Arcane Denial
+1 An Offer You Can't Refuse
+1 Run Away Together
+1 Frantic Search
+1 Pongify
+1 Whirlwind Denial
+1 Snap
+1 Muddle the Mixture
+1 Flusterstorm
+1 Polymorph
+1 Windfall
+1 Reshape
+1 Solve the Equation
+1 Lunar Insight
+1 Silver Scrutiny
+1 Leyline of Anticipation
+1 Training Grounds
+1 Future Sight
+1 Unstoppable Plan
+1 Jace, Wielder of Mysteries
+1 Buried Ruin
+1 Cephalid Coliseum
+25 Island
+Sideboard
+1 Urza, Lord High Artificer

@@ -1,0 +1,84 @@
+1 Laboratory Maniac
+1 Krark, the Thumbless
+1 Karlach, Fury of Avernus
+1 Harbinger of the Seas
+1 Goblin Electromancer
+1 Frenetic Sliver
+1 Edgar, King of Figaro
+1 Baral, Chief of Compliance
+1 Magus of the Moon
+1 Niv-Mizzet, Parun
+1 Professional Face-Breaker
+1 Spark Double
+1 Storm-Kiln Artist
+1 Tavern Scoundrel
+1 Thassa's Oracle
+1 The Emperor of Palamecia
+1 Vadrik, Astral Archmage
+1 Arcane Signet
+1 Basilisk Collar
+1 Brass's Tunnel-Grinder
+1 Fellwar Stone
+1 Krark's Thumb
+1 Lightning Greaves
+1 Lotus Petal
+1 Mox Amber
+1 Sapphire Medallion
+1 Sol Ring
+1 Abrade
+1 Annul
+1 Blue Sun's Zenith
+1 Brain Freeze
+1 Chain of Vapor
+1 Consult the Star Charts
+1 Counterspell
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Will
+1 Frantic Search
+1 Ghostfire Slice
+1 Great Train Heist
+1 Lightning Bolt
+1 Lightning Strike
+1 Negate
+1 Pyroblast
+1 Red Elemental Blast
+1 Silundi Vision
+1 Spell Pierce
+1 Thrill of Possibility
+1 Turn Aside
+1 Fury of the Horde
+1 Game of Chaos
+1 Gitaxian Probe
+1 Jeska's Will
+1 Past in Flames
+1 Portent of Calamity
+1 Pyroclasm
+1 Reckless Handling
+1 Step Through
+1 Chance Encounter
+1 Curiosity
+1 Dress Down
+1 Guild Artisan
+1 Mirrormade
+1 Mystic Remora
+1 Planar Chaos
+1 Powerbalance
+1 Propaganda
+1 Rhystic Study
+1 Underworld Breach
+1 Teferi, Temporal Pilgrim
+1 Barbarian Ring
+1 Cephalid Coliseum
+1 Command Tower
+1 Exotic Orchard
+9 Island
+1 Meteor Crater
+9 Mountain
+1 Rogue's Passage
+1 Sulfur Falls
+1 Temple of Epiphany
+1 The Gold Saucer
+Sideboard
+1 Yusri, Fortune's Flame

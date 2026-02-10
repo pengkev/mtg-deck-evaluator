@@ -1,0 +1,101 @@
+1 Agate Instigator
+1 Archivist of Oghma
+1 Clever Impersonator
+1 Delney, Streetwise Lookout
+1 Drannith Magistrate
+1 Enduring Innocence
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Faerie Mastermind
+1 Fury
+1 Gilded Drake
+1 Grand Abolisher
+1 Guide of Souls
+1 Hydroelectric Specimen
+1 Imperial Recruiter
+1 Mockingbird
+1 Ocelot Pride
+1 Phyrexian Metamorph
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Serra Ascendant
+1 Solitude
+1 Spellseeker
+1 Starfield Shepherd
+1 Starfield Vocalist
+1 Volatile Stormdrake
+1 Weftstalker Ardent
+1 Arcane Signet
+1 Chrome Mox
+1 Cloudstone Curio
+1 Cursed Totem
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Semblance Anvil
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Brain Freeze
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gifts Ungiven
+1 Intuition
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pact of Negation
+1 Path to Exile
+1 Red Elemental Blast
+1 Silence
+1 Sink into Stupor
+1 Snap
+1 Swan Song
+1 Gamble
+1 Jeska's Will
+1 Sevinne's Reclamation
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Underworld Breach
+1 Adagia, Windswept Bastion
+1 Ancient Tomb
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Elegant Parlor
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Scalding Tarn
+1 Sea of Clouds
+1 Spectator Seating
+1 Starting Town
+1 Steam Vents
+1 Thundering Falls
+1 Training Center
+1 Tundra
+1 Volcanic Island
+Sideboard
+1 Zinnia, Valley's Voice

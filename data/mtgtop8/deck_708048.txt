@@ -1,0 +1,101 @@
+1 Underworld Breach
+1 Rhystic Study
+1 Mystic Remora
+1 Necropotence
+1 Faithless Looting
+1 Wheel of Fortune
+1 Demonic Tutor
+1 Gamble
+1 Diabolic Intent
+1 Jeska's Will
+1 Rite of Flame
+1 Praetor's Grasp
+1 Reanimate
+1 Gitaxian Probe
+1 Imperial Seal
+1 Submerge
+1 Mental Misstep
+1 Gut Shot
+1 Peek
+1 Plunge into Darkness
+1 Sink into Stupor
+1 Flare of Duplication
+1 Flusterstorm
+1 Culling the Weak
+1 Borne Upon a Wind
+1 Fierce Guardianship
+1 Deflecting Swat
+1 Deadly Rollick
+1 Impulse
+1 Entomb
+1 Vampiric Tutor
+1 Demonic Consultation
+1 Dark Ritual
+1 Mystical Tutor
+1 Tainted Pact
+1 Red Elemental Blast
+1 Cabal Ritual
+1 Chain of Vapor
+1 Pyroblast
+1 Mogg Salvage
+1 Brain Freeze
+1 Pact of Negation
+1 Surgical Extraction
+1 Lightning Bolt
+1 Mox Amber
+1 Krark's Thumb
+1 Grim Monolith
+1 Lion's Eye Diamond
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 The One Ring
+1 Relic of Legends
+1 Mana Vault
+1 Bolas's Citadel
+1 Chrome Mox
+1 Mox Diamond
+1 Lotus Petal
+1 Wishclaw Talisman
+1 Gale, Waterdeep Prodigy
+1 Harmonic Prodigy
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Orcish Bowmasters
+1 Thassa's Oracle
+1 Ragavan, Nimble Pilferer
+1 Professional Face-Breaker
+1 Tavern Scoundrel
+1 Dragon's Rage Channeler
+1 Yusri, Fortune's Flame
+1 Archmage Emeritus
+1 Birgi, God of Storytelling
+1 City of Traitors
+1 Volcanic Island
+1 Underground Sea
+1 Badlands
+1 Command Tower
+1 Undercity Sewers
+1 Gemstone Caverns
+1 Exotic Orchard
+1 Watery Grave
+1 Steam Vents
+1 Blood Crypt
+1 City of Brass
+1 Mana Confluence
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Morphic Pool
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Polluted Delta
+1 Flooded Strand
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Luxury Suite
+1 Emergence Zone
+Sideboard
+1 Silas Renn, Seeker Adept
+1 Krark, the Thumbless

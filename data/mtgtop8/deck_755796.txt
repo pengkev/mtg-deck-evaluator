@@ -1,0 +1,101 @@
+1 Dauthi Voidwalker
+1 Displacer Kitten
+1 Dualcaster Mage
+1 Gogo, Master of Mimicry
+1 Harmonic Prodigy
+1 Kitsa, Otterball Elite
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Shadow the Hedgehog
+1 Simian Spirit Guide
+1 Spark Double
+1 Spellseeker
+1 Thassa's Oracle
+1 Tinybones, Bauble Burglar
+1 Valley Floodcaller
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 The One Ring
+1 Wishclaw Talisman
+1 An Offer You Can't Refuse
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Burnt Offering
+1 Cabal Ritual
+1 Chain of Vapor
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Consultation
+1 Dramatic Reversal
+1 Essence Flux
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Ghostly Flicker
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Pyroblast
+1 Retraction Helix
+1 Spell Pierce
+1 Strix Serenade
+1 Swan Song
+1 Tainted Pact
+1 Vampiric Tutor
+1 Demonic Counsel
+1 Demonic Tutor
+1 Mnemonic Betrayal
+1 Rite of Flame
+1 Twinflame
+1 Mirrormade
+1 Mystic Remora
+1 Rhystic Study
+1 Steal Enchantment
+1 Underworld Breach
+1 Urza's Saga
+1 Waste Not
+1 Ancient Tomb
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Shivan Reef
+1 Spire of Industry
+1 Steam Vents
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+Sideboard
+1 Kefka, Court Mage

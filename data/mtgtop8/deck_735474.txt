@@ -1,0 +1,101 @@
+1 Academy Manufactor
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Birds of Paradise
+1 Cloud of Faeries
+1 Devoted Druid
+1 Dream Stalker
+1 Duskwatch Recruiter
+1 Elvish Spirit Guide
+1 Endurance
+1 Eternal Witness
+1 Faerie Mastermind
+1 Gilded Drake
+1 Glasspool Mimic
+1 Hermit Druid
+1 High Fae Trickster
+1 Hydroelectric Specimen
+1 Jaheira, Friend of the Forest
+1 Kinnan, Bonder Prodigy
+1 Laboratory Maniac
+1 Llanowar Elves
+1 Misthollow Griffin
+1 Mockingbird
+1 Shrieking Drake
+1 Thassa's Oracle
+1 Thrasios, Triton Hero
+1 Urza, Lord High Artificer
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Walking Ballista
+1 Yisan, the Wanderer Bard
+1 Arcane Signet
+1 Chrome Mox
+1 Cloudstone Curio
+1 Lotus Petal
+1 Machine God's Effigy
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 The One Ring
+1 An Offer You Can't Refuse
+1 Banishing Knack
+1 Borne Upon a Wind
+1 Chain of Vapor
+1 Chord of Calling
+1 Crop Rotation
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Mana Drain
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+1 Noxious Revival
+1 Pact of Negation
+1 Retraction Helix
+1 Sink into Stupor
+1 Snap
+1 Veil of Summer
+1 Whir of Invention
+1 Worldly Tutor
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Gitaxian Probe
+1 Nature's Rhythm
+1 Neoform
+1 Earthcraft
+1 Mystic Remora
+1 Rhystic Study
+1 Sylvan Library
+1 Urza's Saga
+1 Utopia Sprawl
+1 Wild Growth
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hedge Maze
+1 Mana Confluence
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Starting Town
+1 Tropical Island
+1 Waterlogged Grove
+1 Willowrush Verge
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+Sideboard
+1 Lonis, Cryptozoologist

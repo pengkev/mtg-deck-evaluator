@@ -1,0 +1,80 @@
+1 Aven Mindcensor
+1 Walking Ballista
+1 Ethersworn Canonist
+1 Myr Retriever
+1 Spirit of the Labyrinth
+1 Grand Abolisher
+1 Painter's Servant
+1 Archon of Emeria
+1 Esper Sentinel
+1 Scrap Trawler
+1 Skrelv, Defector Mite
+1 Doorkeeper Thrull
+1 Sanctum Prelate
+1 Dauntless Dismantler
+1 Aven Interrupter
+1 Mana Crypt
+1 Sensei's Divining Top
+1 Uba Mask
+1 Crook of Condemnation
+1 Mox Opal
+1 Elixir of Immortality
+1 Magewright's Stone
+1 Lotus Petal
+1 Defense Grid
+1 Mycosynth Wellspring
+1 Torpor Orb
+1 Ichor Wellspring
+1 Thousand-Year Elixir
+1 Null Rod
+1 Basalt Monolith
+1 Sol Ring
+1 Winter Orb
+1 Ensnaring Bridge
+1 Chalice of the Void
+1 Jeweled Lotus
+1 Gerrard's Hourglass Pendant
+1 Mystic Forge
+1 Mox Amber
+1 Alchemist's Vial
+1 Grindstone
+1 Staff of Domination
+1 Damping Sphere
+1 Rings of Brighthearth
+1 Brought Back
+1 Generous Gift
+1 Abolish
+1 Swords to Plowshares
+1 Silence
+1 March of Otherworldly Light
+1 Path to Exile
+1 Reprieve
+1 Surge of Salvation
+1 Excise the Imperfect
+1 Get Lost
+1 Angel's Grace
+1 Final Showdown
+1 Teferi's Protection
+1 Calamity's Wake
+1 Winds of Abandon
+1 Vanquish the Horde
+1 Sunfall
+1 Sevinne's Reclamation
+1 Deafening Silence
+1 Rule of Law
+1 Blind Obedience
+1 Urza's Saga
+1 Ossification
+1 Darksteel Citadel
+1 Kor Haven
+1 Emergence Zone
+1 Crystal Vein
+1 Ancient Den
+1 Crystal Grotto
+1 Buried Ruin
+1 Blinkmoth Well
+1 Cavern of Souls
+1 Fomori Vault
+18 Plains
+Sideboard
+1 Oswald Fiddlebender

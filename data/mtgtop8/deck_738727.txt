@@ -1,0 +1,98 @@
+1 Silvergill Adept
+1 Seedborn Muse
+1 Seahunter
+1 Lord of Atlantis
+1 Wanderwine Prophets
+1 Reef Shaman
+1 Cursecatcher
+1 Mistcaller
+1 Merfolk Mistbinder
+1 Wildgrowth Walker
+1 Kiora's Follower
+1 Lullmage Mentor
+1 Glasspool Mimic
+1 Realmwalker
+1 Vodalian Hexcatcher
+1 Rishkar, Peema Renegade
+1 Roaming Throne
+1 Tishana's Tidebinder
+1 Nicanzil, Current Conductor
+1 Singer of Swift Rivers
+1 Deeproot Historian
+1 Topography Tracker
+1 Mist Dancer
+1 Benthic Biomancer
+1 Deeproot Elite
+1 Emperor Mihail II
+1 Kopala, Warden of Waves
+1 Merrow Reejerey
+1 Master of the Pearl Trident
+1 Sage of Fables
+1 Thieving Skydiver
+1 Kumena, Tyrant of Orazca
+1 Herald of Secret Streams
+1 Enduring Vitality
+1 Metallic Mimic
+1 Mindspring Merfolk
+1 Thrasios, Triton Hero
+1 The Great Henge
+1 Sol Ring
+1 Ozolith, the Shattered Spire
+1 Arcane Signet
+1 Pact of Negation
+1 Beast Within
+1 Force of Will
+1 Heroic Intervention
+1 Chord of Calling
+1 Stubborn Denial
+1 Swan Song
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Ripples of Potential
+1 Rapid Hybridization
+1 Sink into Stupor
+1 Inspiring Call
+1 Wave Goodbye
+1 Nature's Rhythm
+1 Survival of the Fittest
+1 Guardian Project
+1 Intruder Alarm
+1 Deeproot Waters
+1 Sylvan Library
+1 Leyline of Anticipation
+1 Elven Chorus
+1 Deeproot Pilgrimage
+1 Branching Evolution
+1 Simic Ascendancy
+1 Cryptolith Rite
+1 Hardened Scales
+1 Forest
+1 Breeding Pool
+1 City of Brass
+1 Simic Growth Chamber
+1 Tropical Island
+1 Alchemist's Refuge
+1 Cavern of Souls
+1 Polluted Delta
+1 Nykthos, Shrine to Nyx
+1 Scalding Tarn
+1 Karn's Bastion
+1 Rivendell
+1 Rejuvenating Springs
+1 Waterlogged Grove
+1 Command Tower
+1 Flooded Strand
+1 Windswept Heath
+1 Botanical Sanctum
+1 Yavimaya Coast
+1 Flooded Grove
+1 Dreamroot Cascade
+1 Yavimaya, Cradle of Growth
+1 Secluded Courtyard
+1 Vineglimmer Snarl
+1 Willowrush Verge
+1 Hinterland Harbor
+1 Mana Confluence
+4 Island
+Sideboard
+1 Hakbal of the Surging Soul

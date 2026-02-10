@@ -1,0 +1,101 @@
+1 Trouble in Pairs
+1 Necromancy
+1 Animate Dead
+1 Smothering Tithe
+1 Underworld Breach
+1 Necropotence
+1 Wheel of Fortune
+1 Praetor's Grasp
+1 Demonic Tutor
+1 Gamble
+1 Sevinne's Reclamation
+1 Diabolic Intent
+1 Imperial Seal
+1 Jeska's Will
+1 Reanimate
+1 Rite of Flame
+1 Peer into the Abyss
+1 Burnt Offering
+1 Unwanted Remake
+1 Swords to Plowshares
+1 Culling the Weak
+1 Deflecting Swat
+1 Final Fortune
+1 Entomb
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Soul Partition
+1 Saw in Half
+1 Wishclaw Talisman
+1 Bolas's Citadel
+1 Sensei's Divining Top
+1 Chrome Mox
+1 Mox Amber
+1 Defense Grid
+1 Grinding Station
+1 Lotus Petal
+1 Mana Vault
+1 Lion's Eye Diamond
+1 Mox Diamond
+1 Arcane Signet
+1 Sol Ring
+1 Mox Opal
+1 Cabal Ritual
+1 Path to Exile
+1 Ad Nauseam
+1 Silence
+1 Orim's Chant
+1 Dark Ritual
+1 Tainted Pact
+1 Auriok Salvagers
+1 Goblin Welder
+1 Insolent Neonate
+1 Grand Abolisher
+1 Children of Korlis
+1 Simian Spirit Guide
+1 Magda, Brazen Outlaw
+1 Birgi, God of Storytelling
+1 Ranger-Captain of Eos
+1 Ragavan, Nimble Pilferer
+1 Flamescroll Celebrant
+1 Professional Face-Breaker
+1 Archivist of Oghma
+1 Worldgorger Dragon
+1 Hoarding Broodlord
+1 Orcish Bowmasters
+1 Boromir, Warden of the Tower
+1 Lotho, Corrupt Shirriff
+1 Mayhem Devil
+1 Delney, Streetwise Lookout
+1 Esper Sentinel
+1 Dragon's Rage Channeler
+1 Voice of Victory
+1 Rev, Tithe Extractor
+1 City of Brass
+1 Scrubland
+1 Plateau
+1 Badlands
+1 City of Traitors
+1 Windswept Heath
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Shadowy Backstreet
+1 Elegant Parlor
+1 Cavern of Souls
+1 Gemstone Caverns
+1 Ancient Tomb
+1 Mount Doom
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Marsh Flats
+1 Arid Mesa
+1 Command Tower
+1 Exotic Orchard
+1 Blood Crypt
+1 Mana Confluence
+1 Godless Shrine
+1 Sacred Foundry
+Sideboard
+1 Jeska, Thrice Reborn
+1 Tymna the Weaver

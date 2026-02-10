@@ -1,0 +1,95 @@
+1 Cogwork Assembler
+1 Soulbright Flamekin
+1 Imperial Recruiter
+1 Birgi, God of Storytelling
+1 Simian Spirit Guide
+1 Wandering Archaic
+1 Oswald Fiddlebender
+1 Deep Gnome Terramancer
+1 Thran Spider
+1 Aven Interrupter
+1 Witch Enchanter
+1 Recruiter of the Guard
+1 Pinnacle Monk
+1 Eldrazi Displacer
+1 Skyclave Apparition
+1 Archivist of Oghma
+1 Treasonous Ogre
+1 Stoneforge Mystic
+1 Aven Mindcensor
+1 Chromatic Orrery
+1 Mana Vault
+1 Avarice Totem
+1 Paradise Mantle
+1 Mox Opal
+1 Lotus Petal
+1 Grim Monolith
+1 Wanderer's Twig
+1 Lion's Eye Diamond
+1 Traveler's Amulet
+1 Mox Diamond
+1 Diviner's Wand
+1 Mox Amber
+1 Staff of Domination
+1 Moonsilver Key
+1 Manifold Key
+1 The One Ring
+1 Basalt Monolith
+1 Ruby Medallion
+1 Throne of Eldraine
+1 Sword of Wealth and Power
+1 Mystic Forge
+1 Pearl Medallion
+1 Arcane Signet
+1 Mirage Mirror
+1 Sensei's Divining Top
+1 Umbral Mantle
+1 Sol Ring
+1 Commander's Plate
+1 Staff of Compleation
+1 Reverberate
+1 Silence
+1 Red Elemental Blast
+1 Comet Storm
+1 Lightning Bolt
+1 Disenchant
+1 Enlightened Tutor
+1 Valakut Awakening
+1 Angel's Grace
+1 Return the Favor
+1 Flare of Fortitude
+1 Flare of Duplication
+1 Pyrokinesis
+1 Swords to Plowshares
+1 Pyretic Ritual
+1 Molten Disaster
+1 Devil's Play
+1 Wheel of Fortune
+1 Path of the Pyromancer
+1 Earthquake
+1 Sevinne's Reclamation
+1 Blasphemous Act
+1 Underworld Breach
+1 Urza's Saga
+1 Swift Reconfiguration
+1 Karn, the Great Creator
+1 Strip Mine
+1 City of Brass
+1 Boseiju, Who Shelters All
+1 Plateau
+1 Inventors' Fair
+1 Sacred Foundry
+1 Arid Mesa
+1 Ancient Tomb
+1 Ash Barrens
+1 Buried Ruin
+1 Abstergo Entertainment
+1 Wasteland
+1 Sunbillow Verge
+1 Command Tower
+1 Rugged Prairie
+1 Command Beacon
+4 Mountain
+4 Plains
+Sideboard
+1 Zirda, the Dawnwaker

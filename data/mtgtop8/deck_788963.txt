@@ -1,0 +1,64 @@
+1 Anim Pakal, Thousandth Moon
+1 Arabella, Abandoned Doll
+1 Blade Historian
+1 Drannith Magistrate
+1 Fury
+1 Glowrider
+1 Grand Abolisher
+32 Hare Apparent
+1 Imperial Recruiter
+1 Iroas, God of Victory
+1 Lightning, Army of One
+1 Rograkh, Son of Rohgahh
+1 Solitude
+1 Banner of Kinship
+1 Chrome Mox
+1 Lotus Petal
+1 Mana Vault
+1 Mox Diamond
+1 Sensei's Divining Top
+1 Sol Ring
+1 The One Ring
+1 Thrumming Stone
+1 Vanquisher's Banner
+1 Enlightened Tutor
+1 Flawless Maneuver
+1 Path to Exile
+1 Pyroblast
+1 Red Elemental Blast
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Tibalt's Trickery
+1 Blasphemous Act
+1 Faithless Looting
+1 Farewell
+1 Gamble
+1 Molten Duplication
+1 Raise the Past
+1 Sevinne's Reclamation
+1 Trash for Treasure
+1 Impact Tremors
+1 Underworld Breach
+1 Urza's Saga
+1 Warleader's Call
+1 Ancient Tomb
+1 Arid Mesa
+1 Battlefield Forge
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Elegant Parlor
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+4 Mountain
+4 Plains
+1 Plateau
+1 Sacred Foundry
+1 Spectator Seating
+1 Sunbaked Canyon
+1 Wooded Foothills
+Sideboard
+1 The Jolly Balloon Man

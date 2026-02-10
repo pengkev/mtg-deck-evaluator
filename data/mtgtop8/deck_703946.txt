@@ -1,0 +1,101 @@
+1 Cauldron Familiar
+1 Felidar Guardian
+1 Karmic Guide
+1 Reveillark
+1 Carrion Feeder
+1 Birds of Paradise
+1 Grand Abolisher
+1 Elves of Deep Shadow
+1 Woe Strider
+1 Drannith Magistrate
+1 Fiend Artisan
+1 Protean Hulk
+1 Elvish Mystic
+1 Avacyn's Pilgrim
+1 Academy Rector
+1 Opposition Agent
+1 Saffi Eriksdotter
+1 Witherbloom Apprentice
+1 Endurance
+1 Eternal Witness
+1 Elas il-Kor, Sadistic Pilgrim
+1 Activated Sleeper
+1 Loran of the Third Path
+1 Elvish Spirit Guide
+1 Delighted Halfling
+1 Orcish Bowmasters
+1 Samwise Gamgee
+1 Lotho, Corrupt Shirriff
+1 Destiny Spinner
+1 Bartolomé del Presidio
+1 Kutzil, Malamet Exemplar
+1 Viscera Seer
+1 Ranger-Captain of Eos
+1 Esper Sentinel
+1 Llanowar Elves
+1 Archon of Emeria
+1 Collector Ouphe
+1 Deathrite Shaman
+1 Wall of Roots
+1 Enduring Vitality
+1 Fyndhorn Elves
+1 Aven Mindcensor
+1 Chrome Mox
+1 Altar of Dementia
+1 Birthing Pod
+1 Mox Diamond
+1 Lotus Petal
+1 Sol Ring
+1 Silence
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Assassin's Trophy
+1 Path to Exile
+1 Abrupt Decay
+1 Swords to Plowshares
+1 Demonic Tutor
+1 Chain of Smog
+1 Natural Order
+1 Eldritch Evolution
+1 Survival of the Fittest
+1 Pattern of Rebirth
+1 Sylvan Library
+1 Touch the Spirit Realm
+1 Stronghold Arena
+1 Songbirds' Blessing
+1 Carpet of Flowers
+1 Birthing Ritual
+1 Deafening Silence
+1 Plains
+1 Bloodstained Mire
+1 Flooded Strand
+1 Godless Shrine
+1 Mana Confluence
+1 Overgrown Tomb
+1 Temple Garden
+1 Gaea's Cradle
+1 Bayou
+1 Scrubland
+1 Savannah
+1 Ancient Tomb
+1 Gemstone Caverns
+1 Windswept Heath
+1 Marsh Flats
+1 Verdant Catacombs
+1 Command Tower
+1 Arid Mesa
+1 Misty Rainforest
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Lush Portico
+1 Polluted Delta
+1 Wooded Foothills
+1 Swamp
+1 Shifting Woodland
+1 Phyrexian Tower
+1 Forest
+Sideboard
+1 Tymna the Weaver
+1 Halana, Kessig Ranger

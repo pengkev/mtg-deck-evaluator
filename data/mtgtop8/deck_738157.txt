@@ -1,0 +1,97 @@
+1 Aerith Gainsborough
+1 Agrus Kos, Eternal Soldier
+1 Alesha, Who Laughs at Fate
+1 Arvad the Cursed
+1 Boromir, Warden of the Tower
+1 Cadric, Soul Kindler
+1 Captain Lannery Storm
+1 Carmen, Cruel Skymarcher
+1 Chainer, Nightmare Adept
+1 Djeru and Hazoret
+1 Drana, Liberator of Malakir
+1 Eowyn, Fearless Knight
+1 Gisela, Blade of Goldnight
+1 Goro-Goro, Disciple of Ryusei
+1 Hofri Ghostforge
+1 Kalain, Reclusive Painter
+1 Kothophed, Soul Hoarder
+1 Krenko, Tin Street Kingpin
+1 Lae'zel, Vlaakith's Champion
+1 Mangara, the Diplomat
+1 Odric, Lunarch Marshal
+1 Rakdos, Patron of Chaos
+1 Ratadrabik of Urborg
+1 Shanid, Sleepers' Scourge
+1 Teshar, Ancestor's Apostle
+1 Varragoth, Bloodsky Sire
+1 Venat, Heart of Hydaelyn
+1 Zeriam, Golden Wind
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Fellwar Stone
+1 Heroes' Podium
+1 Mirror of Galadriel
+1 Orzhov Signet
+1 Rakdos Signet
+1 Relic of Legends
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Chaos Warp
+1 Demand Answers
+1 Fracture
+1 Path to Exile
+1 Semester's End
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Terminate
+1 Unbreakable Formation
+1 Wear/Tear
+1 Demonic Counsel
+1 Lich-Knights' Conquest
+1 Painful Truths
+1 Primevals' Glorious Rebirth
+1 Read the Bones
+1 Reanimate
+1 Search for Glory
+1 Sign in Blood
+1 Storm of Souls
+1 Urza's Ruinous Blast
+1 Flowering of the White Tree
+1 Invasion of Fiora
+1 Kaya the Inexorable
+1 Battlefield Forge
+1 Blightstep Pathway
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Tower
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Geier Reach Sanitarium
+1 Great Hall of the Citadel
+1 Isolated Chapel
+1 Kher Keep
+1 Mikokoro, Center of the Sea
+1 Minas Morgul, Dark Fortress
+1 Mines of Moria
+2 Mountain
+1 Nomad Outpost
+3 Plains
+1 Reliquary Tower
+1 Rugged Prairie
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfurous Springs
+2 Swamp
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 The Grey Havens
+1 Untaidake, the Cloud Keeper
+1 Vault of the Archangel
+Sideboard
+1 Dihada, Binder of Wills

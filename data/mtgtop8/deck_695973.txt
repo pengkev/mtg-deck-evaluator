@@ -1,0 +1,101 @@
+1 Necromancy
+1 Black Market Connections
+1 Necropotence
+1 Smothering Tithe
+1 Animate Dead
+1 The Meathook Massacre
+1 Underworld Breach
+1 Imperial Seal
+1 Toxic Deluge
+1 Beseech the Mirror
+1 Gamble
+1 Sevinne's Reclamation
+1 Diabolic Intent
+1 Reanimate
+1 Faithless Looting
+1 Demonic Tutor
+1 Flicker
+1 Rite of Flame
+1 Wheel of Fortune
+1 Peer into the Abyss
+1 Deflecting Swat
+1 Burnt Offering
+1 Final Fortune
+1 Vampiric Tutor
+1 Enlightened Tutor
+1 Entomb
+1 Swords to Plowshares
+1 Saw in Half
+1 Fire Covenant
+1 Tainted Pact
+1 Dark Ritual
+1 Red Elemental Blast
+1 Cabal Ritual
+1 Silence
+1 Pyroblast
+1 Lotus Petal
+1 Fellwar Stone
+1 Talisman of Indulgence
+1 Talisman of Hierarchy
+1 Talisman of Conviction
+1 Apple of Eden, Isu Relic
+1 The One Ring
+1 Arcane Signet
+1 Defense Grid
+1 Mana Vault
+1 Sol Ring
+1 Bolas's Citadel
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Mox Opal
+1 Mox Diamond
+1 Wishclaw Talisman
+1 Grand Abolisher
+1 Abdel Adrian, Gorion's Ward
+1 Ranger-Captain of Eos
+1 Deep Gnome Terramancer
+1 Esper Sentinel
+1 Professional Face-Breaker
+1 Mayhem Devil
+1 Lotho, Corrupt Shirriff
+1 Boromir, Warden of the Tower
+1 Orcish Bowmasters
+1 Hoarding Broodlord
+1 Ragavan, Nimble Pilferer
+1 Yawgmoth, Thran Physician
+1 Braids, Arisen Nightmare
+1 Myrel, Shield of Argive
+1 Loran of the Third Path
+1 Archivist of Oghma
+1 Magda, Brazen Outlaw
+1 Opposition Agent
+1 Simian Spirit Guide
+1 City of Brass
+1 Forbidden Orchard
+1 Cavern of Souls
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Arid Mesa
+1 Tarnished Citadel
+1 Scrubland
+1 Plateau
+1 Badlands
+1 Polluted Delta
+1 Windswept Heath
+1 Bloodstained Mire
+1 Sacred Foundry
+1 Godless Shrine
+1 Blood Crypt
+1 Gemstone Caverns
+1 Mount Doom
+1 Mana Confluence
+1 Takenuma, Abandoned Mire
+1 Vault of Whispers
+1 Great Furnace
+1 Ancient Den
+1 Marsh Flats
+1 Ancient Tomb
+1 Command Tower
+1 Spire of Industry
+Sideboard
+1 Dihada, Binder of Wills

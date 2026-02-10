@@ -1,0 +1,17 @@
+As of February 10, 2026:
+Data from mtgtop8 from the last 365 days on cEDH decks has been scraped.
+
+Next steps:
+scrape more decklists from more steps
+separate into training, validation, training
+
+build card2vec embeddings (will need a lot more decks)
+use card2vec embeddings to treat decklist strength prediction as a transfer learning problem (fine tune and adjust model), presumably card2vec has allowed for the translation of card rules text and power to come through
+
+
+things to ponder:
+how to evaluate cards like arcane signet or sol ring? command tower?
+
+sources:
+https://github.com/afreefaw/MTG-card2vec
+https://github.com/creepymooy1/MtgTop8Scraper

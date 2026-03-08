@@ -31,7 +31,7 @@ SEARCH_PARAMS = (
     f"&compet_check%5BR%5D=1&MD_check=1&cards=&date_start={DATE_START}&date_end="
 )
 
-DATASET_DIR = Path("../data/mtgtop8")
+DATASET_DIR = Path("../data/mtgtop8-general")
 DATASET_DIR.mkdir(parents=True, exist_ok=True)
 
 HEADERS = {"User-Agent": "mtg-deck-evaluator/1.0 (+https://www.mtgtop8.com)"}

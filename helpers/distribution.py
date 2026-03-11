@@ -1,9 +1,7 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-from pathlib import Path
+for bracket in['1','2','3','4','5']:
+    # Load your index
+    df = pd.read_csv(f"../data/moxfield-edh-bracket-{bracket}/moxfield_log.csv")
 
-# Load your index
-df = pd.read_csv("../data/mtgtop8-general/all_decks_index.csv")
-
-# Count decks by format
-print(df['format'].value_counts())
+    # Count decks by format
+    print(len(df['id']))

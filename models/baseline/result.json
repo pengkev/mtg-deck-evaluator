@@ -1,0 +1,669 @@
+{
+  "mainboard_total": 1100.33,
+  "sideboard_total": 43.98,
+  "total": 1144.31,
+  "cards_priced": 103,
+  "cards_missing": [],
+  "breakdown": [
+    {
+      "name": "Plateau",
+      "quantity": 1,
+      "unit_price": 229.99,
+      "total": 229.99,
+      "location": "mainboard"
+    },
+    {
+      "name": "Scrubland",
+      "quantity": 1,
+      "unit_price": 100.0,
+      "total": 100.0,
+      "location": "mainboard"
+    },
+    {
+      "name": "Prismatic Vista",
+      "quantity": 1,
+      "unit_price": 42.79,
+      "total": 42.79,
+      "location": "mainboard"
+    },
+    {
+      "name": "Mana Confluence",
+      "quantity": 1,
+      "unit_price": 36.88,
+      "total": 36.88,
+      "location": "mainboard"
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "unit_price": 34.53,
+      "total": 34.53,
+      "location": "mainboard"
+    },
+    {
+      "name": "Stoneforge Mystic",
+      "quantity": 1,
+      "unit_price": 33.92,
+      "total": 33.92,
+      "location": "sideboard"
+    },
+    {
+      "name": "Yawgmoth, Thran Physician",
+      "quantity": 1,
+      "unit_price": 33.07,
+      "total": 33.07,
+      "location": "mainboard"
+    },
+    {
+      "name": "Phyrexian Tower",
+      "quantity": 1,
+      "unit_price": 31.66,
+      "total": 31.66,
+      "location": "mainboard"
+    },
+    {
+      "name": "Marsh Flats",
+      "quantity": 1,
+      "unit_price": 31.59,
+      "total": 31.59,
+      "location": "mainboard"
+    },
+    {
+      "name": "Phyrexian Altar",
+      "quantity": 1,
+      "unit_price": 28.77,
+      "total": 28.77,
+      "location": "mainboard"
+    },
+    {
+      "name": "Dihada, Binder of Wills",
+      "quantity": 1,
+      "unit_price": 28.07,
+      "total": 28.07,
+      "location": "mainboard"
+    },
+    {
+      "name": "Kokusho, the Evening Star",
+      "quantity": 1,
+      "unit_price": 27.82,
+      "total": 27.82,
+      "location": "mainboard"
+    },
+    {
+      "name": "Warren Soultrader",
+      "quantity": 1,
+      "unit_price": 20.41,
+      "total": 20.41,
+      "location": "mainboard"
+    },
+    {
+      "name": "Spectator Seating",
+      "quantity": 1,
+      "unit_price": 20.34,
+      "total": 20.34,
+      "location": "mainboard"
+    },
+    {
+      "name": "Sheoldred, Whispering One",
+      "quantity": 1,
+      "unit_price": 20.31,
+      "total": 20.31,
+      "location": "mainboard"
+    },
+    {
+      "name": "Bloodstained Mire",
+      "quantity": 1,
+      "unit_price": 19.42,
+      "total": 19.42,
+      "location": "mainboard"
+    },
+    {
+      "name": "Vault of Champions",
+      "quantity": 1,
+      "unit_price": 19.08,
+      "total": 19.08,
+      "location": "mainboard"
+    },
+    {
+      "name": "Shadowy Backstreet",
+      "quantity": 1,
+      "unit_price": 17.68,
+      "total": 17.68,
+      "location": "mainboard"
+    },
+    {
+      "name": "Raucous Theater",
+      "quantity": 1,
+      "unit_price": 17.62,
+      "total": 17.62,
+      "location": "mainboard"
+    },
+    {
+      "name": "Altar of Dementia",
+      "quantity": 1,
+      "unit_price": 16.16,
+      "total": 16.16,
+      "location": "mainboard"
+    },
+    {
+      "name": "Elegant Parlor",
+      "quantity": 1,
+      "unit_price": 15.79,
+      "total": 15.79,
+      "location": "mainboard"
+    },
+    {
+      "name": "Land Tax",
+      "quantity": 1,
+      "unit_price": 14.02,
+      "total": 14.02,
+      "location": "mainboard"
+    },
+    {
+      "name": "Blazemire Verge",
+      "quantity": 1,
+      "unit_price": 13.27,
+      "total": 13.27,
+      "location": "mainboard"
+    },
+    {
+      "name": "Blood Crypt",
+      "quantity": 1,
+      "unit_price": 13.03,
+      "total": 13.03,
+      "location": "mainboard"
+    },
+    {
+      "name": "Harmonic Prodigy",
+      "quantity": 1,
+      "unit_price": 12.82,
+      "total": 12.82,
+      "location": "mainboard"
+    },
+    {
+      "name": "Phelia, Exuberant Shepherd",
+      "quantity": 1,
+      "unit_price": 11.59,
+      "total": 11.59,
+      "location": "mainboard"
+    },
+    {
+      "name": "Reanimate",
+      "quantity": 1,
+      "unit_price": 10.46,
+      "total": 10.46,
+      "location": "mainboard"
+    },
+    {
+      "name": "Sacred Foundry",
+      "quantity": 1,
+      "unit_price": 10.46,
+      "total": 10.46,
+      "location": "mainboard"
+    },
+    {
+      "name": "Entomb",
+      "quantity": 1,
+      "unit_price": 10.35,
+      "total": 10.35,
+      "location": "mainboard"
+    },
+    {
+      "name": "Bleachbone Verge",
+      "quantity": 1,
+      "unit_price": 10.19,
+      "total": 10.19,
+      "location": "mainboard"
+    },
+    {
+      "name": "Untimely Malfunction",
+      "quantity": 1,
+      "unit_price": 10.1,
+      "total": 10.1,
+      "location": "mainboard"
+    },
+    {
+      "name": "Ripples of Undeath",
+      "quantity": 1,
+      "unit_price": 9.67,
+      "total": 9.67,
+      "location": "mainboard"
+    },
+    {
+      "name": "Gandalf the White",
+      "quantity": 1,
+      "unit_price": 9.04,
+      "total": 9.04,
+      "location": "mainboard"
+    },
+    {
+      "name": "Sunbillow Verge",
+      "quantity": 1,
+      "unit_price": 8.98,
+      "total": 8.98,
+      "location": "mainboard"
+    },
+    {
+      "name": "Ashnod's Altar",
+      "quantity": 1,
+      "unit_price": 8.97,
+      "total": 8.97,
+      "location": "mainboard"
+    },
+    {
+      "name": "Glint-Horn Buccaneer",
+      "quantity": 1,
+      "unit_price": 8.42,
+      "total": 8.42,
+      "location": "mainboard"
+    },
+    {
+      "name": "Gift of Immortality",
+      "quantity": 1,
+      "unit_price": 8.16,
+      "total": 8.16,
+      "location": "mainboard"
+    },
+    {
+      "name": "Godless Shrine",
+      "quantity": 1,
+      "unit_price": 7.94,
+      "total": 7.94,
+      "location": "mainboard"
+    },
+    {
+      "name": "Flicker",
+      "quantity": 1,
+      "unit_price": 7.79,
+      "total": 7.79,
+      "location": "mainboard"
+    },
+    {
+      "name": "Dismember",
+      "quantity": 1,
+      "unit_price": 7.79,
+      "total": 7.79,
+      "location": "mainboard"
+    },
+    {
+      "name": "Archon of Cruelty",
+      "quantity": 1,
+      "unit_price": 7.76,
+      "total": 7.76,
+      "location": "mainboard"
+    },
+    {
+      "name": "Get Lost",
+      "quantity": 1,
+      "unit_price": 6.69,
+      "total": 6.69,
+      "location": "mainboard"
+    },
+    {
+      "name": "Ephemerate",
+      "quantity": 1,
+      "unit_price": 6.35,
+      "total": 6.35,
+      "location": "mainboard"
+    },
+    {
+      "name": "Shattered Sanctum",
+      "quantity": 1,
+      "unit_price": 6.28,
+      "total": 6.28,
+      "location": "mainboard"
+    },
+    {
+      "name": "Dark Confidant",
+      "quantity": 1,
+      "unit_price": 5.75,
+      "total": 5.75,
+      "location": "mainboard"
+    },
+    {
+      "name": "Nim Deathmantle",
+      "quantity": 1,
+      "unit_price": 5.32,
+      "total": 5.32,
+      "location": "mainboard"
+    },
+    {
+      "name": "Second Sunrise",
+      "quantity": 1,
+      "unit_price": 4.74,
+      "total": 4.74,
+      "location": "mainboard"
+    },
+    {
+      "name": "Exhume",
+      "quantity": 1,
+      "unit_price": 4.57,
+      "total": 4.57,
+      "location": "mainboard"
+    },
+    {
+      "name": "Ruthless Technomancer",
+      "quantity": 1,
+      "unit_price": 4.54,
+      "total": 4.54,
+      "location": "mainboard"
+    },
+    {
+      "name": "Twilight Diviner",
+      "quantity": 1,
+      "unit_price": 4.42,
+      "total": 4.42,
+      "location": "mainboard"
+    },
+    {
+      "name": "Celes, Rune Knight",
+      "quantity": 1,
+      "unit_price": 4.25,
+      "total": 4.25,
+      "location": "sideboard"
+    },
+    {
+      "name": "Felidar Guardian",
+      "quantity": 1,
+      "unit_price": 3.91,
+      "total": 3.91,
+      "location": "mainboard"
+    },
+    {
+      "name": "Enduring Courage",
+      "quantity": 1,
+      "unit_price": 3.88,
+      "total": 3.88,
+      "location": "mainboard"
+    },
+    {
+      "name": "Living Death",
+      "quantity": 1,
+      "unit_price": 3.59,
+      "total": 3.59,
+      "location": "mainboard"
+    },
+    {
+      "name": "Flare of Duplication",
+      "quantity": 1,
+      "unit_price": 3.54,
+      "total": 3.54,
+      "location": "mainboard"
+    },
+    {
+      "name": "Pre-War Formalwear",
+      "quantity": 1,
+      "unit_price": 3.44,
+      "total": 3.44,
+      "location": "sideboard"
+    },
+    {
+      "name": "Spymaster's Vault",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total": 3.1,
+      "location": "mainboard"
+    },
+    {
+      "name": "Terra, Herald of Hope",
+      "quantity": 1,
+      "unit_price": 2.73,
+      "total": 2.73,
+      "location": "mainboard"
+    },
+    {
+      "name": "Fabled Passage",
+      "quantity": 1,
+      "unit_price": 2.68,
+      "total": 2.68,
+      "location": "mainboard"
+    },
+    {
+      "name": "Ao, the Dawn Sky",
+      "quantity": 1,
+      "unit_price": 2.54,
+      "total": 2.54,
+      "location": "mainboard"
+    },
+    {
+      "name": "Loyal Retainers",
+      "quantity": 1,
+      "unit_price": 2.37,
+      "total": 2.37,
+      "location": "sideboard"
+    },
+    {
+      "name": "Parting Gust",
+      "quantity": 1,
+      "unit_price": 2.26,
+      "total": 2.26,
+      "location": "mainboard"
+    },
+    {
+      "name": "Wear // Tear",
+      "quantity": 1,
+      "unit_price": 2.13,
+      "total": 2.13,
+      "location": "mainboard"
+    },
+    {
+      "name": "Activated Sleeper",
+      "quantity": 1,
+      "unit_price": 2.13,
+      "total": 2.13,
+      "location": "mainboard"
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "unit_price": 2.05,
+      "total": 2.05,
+      "location": "mainboard"
+    },
+    {
+      "name": "Charming Prince",
+      "quantity": 1,
+      "unit_price": 2.02,
+      "total": 2.02,
+      "location": "mainboard"
+    },
+    {
+      "name": "Gray Merchant of Asphodel",
+      "quantity": 1,
+      "unit_price": 1.88,
+      "total": 1.88,
+      "location": "mainboard"
+    },
+    {
+      "name": "Persist",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total": 1.7,
+      "location": "mainboard"
+    },
+    {
+      "name": "Cloudshift",
+      "quantity": 1,
+      "unit_price": 1.61,
+      "total": 1.61,
+      "location": "mainboard"
+    },
+    {
+      "name": "Grim Haruspex",
+      "quantity": 1,
+      "unit_price": 1.46,
+      "total": 1.46,
+      "location": "mainboard"
+    },
+    {
+      "name": "Wake the Dead",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total": 1.3,
+      "location": "mainboard"
+    },
+    {
+      "name": "Terminate",
+      "quantity": 1,
+      "unit_price": 1.04,
+      "total": 1.04,
+      "location": "mainboard"
+    },
+    {
+      "name": "Dread Return",
+      "quantity": 1,
+      "unit_price": 1.04,
+      "total": 1.04,
+      "location": "mainboard"
+    },
+    {
+      "name": "Victimize",
+      "quantity": 1,
+      "unit_price": 1.03,
+      "total": 1.03,
+      "location": "mainboard"
+    },
+    {
+      "name": "Sevinne's Reclamation",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total": 1.0,
+      "location": "mainboard"
+    },
+    {
+      "name": "Agate Instigator",
+      "quantity": 1,
+      "unit_price": 0.93,
+      "total": 0.93,
+      "location": "mainboard"
+    },
+    {
+      "name": "Mardu Siegebreaker",
+      "quantity": 1,
+      "unit_price": 0.89,
+      "total": 0.89,
+      "location": "mainboard"
+    },
+    {
+      "name": "Village Rites",
+      "quantity": 1,
+      "unit_price": 0.84,
+      "total": 0.84,
+      "location": "mainboard"
+    },
+    {
+      "name": "High-Society Hunter",
+      "quantity": 1,
+      "unit_price": 0.81,
+      "total": 0.81,
+      "location": "mainboard"
+    },
+    {
+      "name": "Disciple of Bolas",
+      "quantity": 1,
+      "unit_price": 0.76,
+      "total": 0.76,
+      "location": "mainboard"
+    },
+    {
+      "name": "Morbid Opportunist",
+      "quantity": 1,
+      "unit_price": 0.69,
+      "total": 0.69,
+      "location": "mainboard"
+    },
+    {
+      "name": "Twilight's Call",
+      "quantity": 1,
+      "unit_price": 0.67,
+      "total": 0.67,
+      "location": "mainboard"
+    },
+    {
+      "name": "Stitcher's Supplier",
+      "quantity": 1,
+      "unit_price": 0.65,
+      "total": 0.65,
+      "location": "mainboard"
+    },
+    {
+      "name": "Mayhem Devil",
+      "quantity": 1,
+      "unit_price": 0.62,
+      "total": 0.62,
+      "location": "mainboard"
+    },
+    {
+      "name": "Swamp",
+      "quantity": 4,
+      "unit_price": 0.14,
+      "total": 0.54,
+      "location": "mainboard"
+    },
+    {
+      "name": "Priest of Fell Rites",
+      "quantity": 1,
+      "unit_price": 0.49,
+      "total": 0.49,
+      "location": "mainboard"
+    },
+    {
+      "name": "Flickerwisp",
+      "quantity": 1,
+      "unit_price": 0.47,
+      "total": 0.47,
+      "location": "mainboard"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 4,
+      "unit_price": 0.1,
+      "total": 0.4,
+      "location": "mainboard"
+    },
+    {
+      "name": "Abrade",
+      "quantity": 1,
+      "unit_price": 0.38,
+      "total": 0.38,
+      "location": "mainboard"
+    },
+    {
+      "name": "Otherworldly Journey",
+      "quantity": 1,
+      "unit_price": 0.35,
+      "total": 0.35,
+      "location": "mainboard"
+    },
+    {
+      "name": "Mardu Devotee",
+      "quantity": 1,
+      "unit_price": 0.35,
+      "total": 0.35,
+      "location": "mainboard"
+    },
+    {
+      "name": "Plains",
+      "quantity": 4,
+      "unit_price": 0.06,
+      "total": 0.23,
+      "location": "mainboard"
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "unit_price": 0.19,
+      "total": 0.19,
+      "location": "mainboard"
+    },
+    {
+      "name": "Badlands",
+      "quantity": 1,
+      "unit_price": 0.02,
+      "total": 0.02,
+      "location": "mainboard"
+    }
+  ],
+  "deck_id": "--3H6dblI0KdbNDAbJeKKQ",
+  "source": "moxfield-edh-bracket-1"
+}

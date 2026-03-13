@@ -331,7 +331,9 @@ def visualize_results(results: list[dict], stats: dict, thresholds: dict,
     plt.suptitle('Price-Based Bracket Classification Baseline', fontsize=14, fontweight='bold')
     plt.tight_layout()
     plt.savefig(f'{output_dir}/baseline_price_classification.png', dpi=150, bbox_inches='tight')
+    plt.savefig("result.png")
     plt.show()
+    
 
 
 def print_baseline_report(stats: dict, thresholds: dict, eval_results: dict):
@@ -390,7 +392,7 @@ def main():
     parser = argparse.ArgumentParser(description='Price-based bracket classification baseline')
     parser.add_argument('--prices', type=str, default='../../data/card_to_price.json',
                         help='Path to card_to_price.json')
-    parser.add_argument('--jsonl', type=str, default='../../data/decks.jsonl',
+    parser.add_argument('--jsonl', type=str, default='../../data/edh-decks.jsonl',
                         help='Path to JSONL file containing decks')
     parser.add_argument('--max-decks', type=int, default=None,
                         help='Maximum number of decks to process (for testing)')

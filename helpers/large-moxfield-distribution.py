@@ -1,5 +1,5 @@
 """
-Script to check the distribution of deck formats in general-decks.jsonl
+Script to check the distribution of deck formats
 """
 
 import json
@@ -16,7 +16,10 @@ def check_format_distribution(filepath: str) -> None:
         for line in f:
             if line.strip():
                 deck = json.loads(line)
-                format_name = deck.get('search_bracket', 'unknown')
+                if deck['user_bracket']:
+                    format_name = deck.get('user_bracket')
+                else:
+                    format_name = deck['auto_bracket']
                 format_counts[format_name] += 1
                 total_decks += 1
     
@@ -33,5 +36,5 @@ def check_format_distribution(filepath: str) -> None:
 
 
 if __name__ == "__main__":
-    data_path = Path(__file__).parent.parent / "data" / "large-moxfield" / "master_harvest.jsonl"
+    data_path = Path(__file__).parent.parent / "data" / "large-moxfield" / "official_harvest.jsonl"
     check_format_distribution(str(data_path))

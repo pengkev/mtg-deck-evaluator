@@ -2,3 +2,10 @@ pandas
 matplotlib
 playwright
 gensim
+requests
+beautifulsoup4
+cloudscraper
+python-dotenv
+numpy
+scikit-learn
+torch

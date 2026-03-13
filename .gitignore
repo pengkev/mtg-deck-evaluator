@@ -2,3 +2,5 @@ data/
 *.zip
 *.pth
 *.pt
+.env
+

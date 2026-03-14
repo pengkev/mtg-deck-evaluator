@@ -36,5 +36,5 @@ def check_format_distribution(filepath: str) -> None:
 
 
 if __name__ == "__main__":
-    data_path = Path(__file__).parent.parent / "data" / "large-moxfield" / "official_harvest.jsonl"
+    data_path = Path(__file__).parent.parent / "data" / "large-moxfield-cEDH" / "official_harvest.jsonl"
     check_format_distribution(str(data_path))

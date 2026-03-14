@@ -23,8 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = (BASE_DIR / "../data").resolve()
 VOCAB_FILE = DATA_DIR / "general-vocabulary.txt"
 
-OUTPUT_FILE = DATA_DIR / "large-moxfield/official_harvest.jsonl"
-CHECKPOINT_FILE = DATA_DIR / "large-moxfield/checkpoint.json"
+OUTPUT_FILE = DATA_DIR / "large-moxfield-cEDH/official_harvest.jsonl"
+CHECKPOINT_FILE = DATA_DIR / "large-moxfield-cEDH/checkpoint.json"
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s", datefmt="%H:%M:%S")

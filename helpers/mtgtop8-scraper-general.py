@@ -18,9 +18,7 @@ SEARCH_URL = "https://www.mtgtop8.com/search?current_page={page}"
 
 # Target all major competitive formats
 # ST=Standard, MO=Modern, LE=Legacy, VI=Vintage, cEDH=Commander, PI=Pioneer, PAU=Pauper
-# FORMATS = ["cEDH", "LE", "VI", "MO", "PI", "PAU", "ST"]
-
-FORMATS = ["MO"]
+FORMATS = ["cEDH", "LE", "VI", "MO", "PI", "PAU", "ST"]
 
 # Date range: ~10 Years (01/01/2016)
 DATE_START = "01/01/2016"

@@ -115,8 +115,8 @@ def run_official_harvest():
                 params = {
                     "pageNumber": page,
                     "pageSize": 100,
-                    "sortType": "views",
-                    "sortDirection": "ascending",
+                    "sortType": "updated",
+                    "sortDirection": "descending",
                     "fmt": "commander",
                     "minBracket": bracket,
                     "maxBracket": bracket,

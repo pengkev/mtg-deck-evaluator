@@ -8,7 +8,7 @@ Deck valuation is notoriously hard — even the game's designers struggle to mai
 
 ---
 
-## Model Architecture
+## Item2Vec Deepset Model Architecture
 
 ```
 Decklist (up to 115 card IDs)

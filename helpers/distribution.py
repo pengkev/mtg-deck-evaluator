@@ -1,6 +1,18 @@
 import json
 import matplotlib.pyplot as plt
 from collections import Counter
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = (BASE_DIR / ".." / "data").resolve()
+
+MTGTOP8_FORMAT_MAP = {
+    "mo": "modern",
+    "le": "legacy",
+    "vi": "vintage",
+    "pau": "pauper",
+}
 
 
 def analyze_jsonl(file_path):
@@ -15,6 +27,12 @@ def analyze_jsonl(file_path):
             return 'tappedout'
         if 'cedh' in s:
             return 'cedh'
+        if s in MTGTOP8_FORMAT_MAP:
+            return MTGTOP8_FORMAT_MAP[s]
+        if s.startswith('mtgtop8-'):
+            suffix = s.split('mtgtop8-', 1)[1]
+            if suffix in MTGTOP8_FORMAT_MAP:
+                return MTGTOP8_FORMAT_MAP[suffix]
         for bracket in ('1', '2', '3', '4', '5'):
             if f'bracket-{bracket}' in s or f'bracket_{bracket}' in s or f'bracket {bracket}' in s:
                 return bracket
@@ -40,7 +58,7 @@ def analyze_jsonl(file_path):
     }
 
 
-def visualize_distribution(stats, title="JSONL Distribution"):
+def visualize_distribution(stats, title="JSONL Distribution", output_dir=DATA_DIR):
     """Create visualizations for the distribution statistics."""
     base_name = title.replace(" ", "_").lower()
     title_fontsize = 18
@@ -98,9 +116,10 @@ def visualize_distribution(stats, title="JSONL Distribution"):
                  f'{count:,}', ha='center', va='bottom', fontsize=value_fontsize)
     
     plt.tight_layout()
-    plt.savefig(f'../data/{base_name}_by_source.png', dpi=150, bbox_inches='tight')
+    source_output = Path(output_dir) / f'{base_name}_by_source.png'
+    plt.savefig(source_output, dpi=150, bbox_inches='tight')
     plt.close()
-    print(f"  Saved: ../data/{base_name}_by_source.png")
+    print(f"  Saved: {source_output}")
     
     # Plot 2: Card count distribution histogram
     if stats['card_counts']:
@@ -114,9 +133,10 @@ def visualize_distribution(stats, title="JSONL Distribution"):
         ax2.legend(fontsize=tick_fontsize)
         
         plt.tight_layout()
-        plt.savefig(f'../data/{base_name}_mainboard_size.png', dpi=150, bbox_inches='tight')
+        mainboard_output = Path(output_dir) / f'{base_name}_mainboard_size.png'
+        plt.savefig(mainboard_output, dpi=150, bbox_inches='tight')
         plt.close()
-        print(f"  Saved: ../data/{base_name}_mainboard_size.png")
+        print(f"  Saved: {mainboard_output}")
 
 
 def print_summary(stats, file_name):
@@ -158,8 +178,8 @@ def print_summary(stats, file_name):
 if __name__ == "__main__":
     # Analyze JSONL files
     jsonl_files = [
-        ("../data/edh-decks.jsonl", "Decks Distribution"),
-        ("../data/general-decks.jsonl", "General Decks Distribution"),
+        (DATA_DIR / "edh-decks.jsonl", "Decks Distribution"),
+        (DATA_DIR / "general-decks.jsonl", "General Decks Distribution"),
     ]
     
     for file_path, title in jsonl_files:

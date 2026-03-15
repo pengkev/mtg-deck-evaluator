@@ -2,5 +2,7 @@ data/
 *.zip
 *.pth
 *.pt
+*.model
+*.model.syn1neg.npy
+*.model.wv.vectors.npy
 .env
-

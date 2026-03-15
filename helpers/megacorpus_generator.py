@@ -45,8 +45,8 @@ import random
 from pathlib import Path
 
 # Paths to the datasets
-ds1_path = "../data/edh-decks.jsonl"
-ds2_path = "../data/general-decks.jsonl"
+ds1_path = "../data/edh_decks.jsonl"
+ds2_path = "../data/general_decks.jsonl"
 ds3_path = "../data/large-moxfield-cEDH/official_harvest.jsonl"
 ds4_path = "../data/large-mtgtop8-cEDH/mtgtop8_decks.jsonl"
 out_path = "../data/embedding-corpus/unsupervised_megacorpus.jsonl"

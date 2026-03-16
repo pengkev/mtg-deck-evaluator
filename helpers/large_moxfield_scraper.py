@@ -21,7 +21,7 @@ MAX_PAGES_PER_BUCKET = 100
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = (BASE_DIR / "../data").resolve()
-VOCAB_FILE = DATA_DIR / "general-vocabulary.txt"
+VOCAB_FILE = DATA_DIR / "general_vocabulary.txt"
 
 OUTPUT_FILE = DATA_DIR / "large-moxfield-cEDH/official_harvest.jsonl"
 CHECKPOINT_FILE = DATA_DIR / "large-moxfield-cEDH/checkpoint.json"

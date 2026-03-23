@@ -6,7 +6,7 @@ import re
 Finding: cards are arranged into packages, not necessarily by function. This is great for identifying high power decks but requires attention or cards like command tower and fetches get put on the same tier as underworld breach
 """
 
-MODEL_PATH = Path("../data/general-item2vec_mtg.model")
+MODEL_PATH = Path("../models/embeddings/general-item2vec_mtg.model")
 
 model = Word2Vec.load(str(MODEL_PATH))
 

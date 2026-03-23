@@ -9,3 +9,6 @@ python-dotenv
 numpy
 scikit-learn
 torch
+transformers
+datasets
+accelerate

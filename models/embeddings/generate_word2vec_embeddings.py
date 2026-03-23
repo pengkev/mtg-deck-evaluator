@@ -10,7 +10,7 @@ from gensim.models import Word2Vec
 
 # --- Configuration ---
 INPUT_FILE = Path("../../data/embeddings/unsupervised_megacorpus.jsonl")
-MODEL_OUTPUT = Path("../data/general-item2vec_mtg.model")
+MODEL_OUTPUT = Path("embeddings/general-item2vec_mtg.model")
 EMBEDDING_SIZE = 512
 
 # Basic logging to watch Gensim train in the console

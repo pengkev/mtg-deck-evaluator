@@ -6,3 +6,5 @@ data/
 *.model.syn1neg.npy
 *.model.wv.vectors.npy
 .env
+__pycache__
+mtg-minilm-mlm

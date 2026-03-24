@@ -1,44 +1,3 @@
-"""
-Sorting, cleaning, organizing data across all the jsonls
-
-Each dataset is compiled into one large, deduplicated, and shuffled file 
-for Word2Vec embedding training.
-
-Datasets:
-ds1 = "../data/edh-decks.jsonl" (44k Moxfield, 14k MTGTop8)
-ds2 = "../data/general-decks.jsonl" (MTGTop8: 26k cEDH, 71k Legacy, 97k Modern, 18k Vintage, 4k Pauper)
-ds3 = "../data/large-moxfield-cEDH/official_harvest.jsonl" (130k Moxfield EDH, Brackets 1-5)
-ds4 = "../data/large-mtgtop8-cEDH/mtgtop8_decks.jsonl" (24k recent MTGTop8 cEDH)
-
---- Schemas ---
-
-ds1 & ds2 (Key-Value Dictionaries):
-{
-  "source": "mtgtop8-cEDH", 
-  "deck_id": "deck_808872", 
-  "mainboard": {"Birds of Paradise": 1, "Bloom Tender": 1, "...": "..."}, 
-  "sideboard": {"Sisay, Weatherlight Captain": 1, "...": "..."}
-}
-
-ds3 (Lists of Dictionaries with 'n'):
-{
-  "id": "KkqaF1FAok6x...", 
-  "name": "Vivi 2.0", 
-  "user_bracket": null, 
-  "auto_bracket": 4, 
-  "mainboard": [{"n": "Gut Shot", "q": 1}, {"n": "Urza's Bauble", "q": 1}, "..."], 
-  "commanders": [{"n": "Vivi Ornitier", "q": 1}]
-}
-
-ds4 (Lists of Dictionaries with 'name'):
-{
-  "deck_id": "818031", 
-  "placement": 5, 
-  "main": [{"name": "Altar of the Wretched", "qty": 1}, {"name": "Birgi", "qty": 1}, "..."], 
-  "cmds": [{"name": "Dargo, the Shipwrecker", "qty": 1}, "..."]
-}
-"""
-
 import json
 import re
 import random
@@ -49,13 +8,8 @@ ds1_path = "../data/edh_decks.jsonl"
 ds2_path = "../data/general_decks.jsonl"
 ds3_path = "../data/large-moxfield-cEDH/official_harvest.jsonl"
 ds4_path = "../data/large-mtgtop8-cEDH/mtgtop8_decks.jsonl"
+oracle_cards_path = "../data/oracle_cards.json"
 out_path = "../data/embedding-corpus/unsupervised_megacorpus.jsonl"
-
-RAW_BASIC_LANDS = {
-    "Plains", "Island", "Swamp", "Mountain", "Forest", "Wastes",
-    "Snow-Covered Plains", "Snow-Covered Island", "Snow-Covered Swamp",
-    "Snow-Covered Mountain", "Snow-Covered Forest"
-}
 
 def normalize_card_name(name: str) -> str:
     """Lowercases the card and isolates the front face to unify formatting."""
@@ -63,18 +17,52 @@ def normalize_card_name(name: str) -> str:
     front_face = re.split(r'\s*//?\s*', name)[0]
     return front_face.strip()
 
-BASIC_LANDS = {normalize_card_name(c) for c in RAW_BASIC_LANDS}
+
+def load_valid_oracle_names() -> set[str]:
+    """Build a normalized card-name set from oracle cards, including split faces."""
+    path = Path(oracle_cards_path)
+    if not path.exists():
+        raise FileNotFoundError(f"Oracle cards file not found: {oracle_cards_path}")
+
+    payload = json.loads(path.read_text(encoding='utf-8'))
+    cards = payload.get("data", payload) if isinstance(payload, dict) else payload
+    if not isinstance(cards, list):
+        raise ValueError("Unexpected oracle_cards.json structure: expected list or {data: [...]}.")
+
+    valid_names: set[str] = set()
+    for card in cards:
+        if not isinstance(card, dict):
+            continue
+
+        name = card.get("name")
+        if isinstance(name, str):
+            valid_names.add(normalize_card_name(name))
+
+        faces = card.get("card_faces")
+        if isinstance(faces, list):
+            for face in faces:
+                if not isinstance(face, dict):
+                    continue
+                face_name = face.get("name")
+                if isinstance(face_name, str):
+                    valid_names.add(normalize_card_name(face_name))
+
+    return valid_names
 
 def compile_megacorpus():
     seen_decks = set()
     all_unique_decks = []
+    valid_oracle_names = load_valid_oracle_names()
     
     def process_and_add_deck(card_names):
         # Normalize and remove duplicate cards within the same deck
-        clean_cards = {normalize_card_name(c) for c in card_names}
-        
-        # Filter out basic lands
-        clean_cards = {c for c in clean_cards if c not in BASIC_LANDS}
+        # This reduces 15x Island to 1x Island, preventing context window flooding in Word2Vec
+        clean_cards = {
+            norm_name
+            for c in card_names
+            for norm_name in [normalize_card_name(c)]
+            if norm_name in valid_oracle_names
+        }
         
         # Word2Vec needs context; skip tiny fragments
         if len(clean_cards) < 10:

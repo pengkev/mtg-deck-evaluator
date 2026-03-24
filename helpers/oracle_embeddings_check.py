@@ -155,7 +155,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--embedding-path",
         type=Path,
-        default=Path("../models/embeddings/embedding-models/oracle_embeddings.pt"),
+        default=Path("../models/embeddings/embedding-models/896dim_oracle_embeddings.pt"),
         help="Path to saved embedding bundle (.pt).",
     )
     parser.add_argument(
@@ -181,7 +181,9 @@ def parse_args() -> argparse.Namespace:
             "Demonic Tutor",
             "Mystical Tutor",
             "The One Ring",
-            "Dark Ritual"
+            "Dark Ritual",
+            "Island",
+            "Snow-Covered Island"
         ],
         help="Sample cards for nearest-neighbor sanity checks.",
     )

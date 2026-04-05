@@ -1,9 +1,11 @@
 import argparse
 import math
+import random
 from pathlib import Path
 from typing import Any, Dict, List
 
 from datasets import Dataset
+import torch
 from transformers import (
     AutoModelForMaskedLM,
     AutoTokenizer,
@@ -81,6 +83,90 @@ def evaluate_model(
     }
 
 
+def show_masking_samples(
+    model_name_or_path: str,
+    tokenizer,
+    texts: List[str],
+    max_length: int,
+    mlm_probability: float,
+    seed: int,
+    sample_count: int,
+) -> None:
+    """Prints sample original text, masked view, and model guesses."""
+    if sample_count <= 0:
+        return
+    if tokenizer.mask_token_id is None:
+        print("\nSkipping samples: tokenizer has no mask token.")
+        return
+    if not texts:
+        print("\nSkipping samples: no evaluation texts available.")
+        return
+
+    rng = random.Random(seed)
+    sample_count = min(sample_count, len(texts))
+    sample_indices = rng.sample(range(len(texts)), k=sample_count)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = AutoModelForMaskedLM.from_pretrained(model_name_or_path).to(device)
+    model.eval()
+
+    print(f"\nSample predictions from {model_name_or_path}")
+
+    for i, idx in enumerate(sample_indices, start=1):
+        text = texts[idx]
+        encoded = tokenizer(text, truncation=True, max_length=max_length, return_tensors="pt")
+        input_ids = encoded["input_ids"][0]
+        attention_mask = encoded["attention_mask"][0]
+
+        special_tokens_mask = torch.tensor(
+            tokenizer.get_special_tokens_mask(input_ids.tolist(), already_has_special_tokens=True),
+            dtype=torch.bool,
+        )
+        candidate_positions = torch.nonzero(~special_tokens_mask, as_tuple=False).squeeze(-1).tolist()
+
+        if not candidate_positions:
+            print(f"\n[{i}] Skipping sample: no maskable tokens after tokenization.")
+            continue
+
+        num_to_mask = max(1, int(round(len(candidate_positions) * mlm_probability)))
+        num_to_mask = min(num_to_mask, len(candidate_positions))
+        rng.shuffle(candidate_positions)
+        masked_positions = sorted(candidate_positions[:num_to_mask])
+
+        masked_input_ids = input_ids.clone()
+        masked_input_ids[masked_positions] = tokenizer.mask_token_id
+
+        with torch.no_grad():
+            logits = model(
+                input_ids=masked_input_ids.unsqueeze(0).to(device),
+                attention_mask=attention_mask.unsqueeze(0).to(device),
+            ).logits[0].cpu()
+
+        predicted_ids = logits.argmax(dim=-1)
+        guessed_ids = masked_input_ids.clone()
+        guessed_ids[masked_positions] = predicted_ids[masked_positions]
+
+        original_text = tokenizer.decode(input_ids, skip_special_tokens=True)
+        masked_text = tokenizer.decode(masked_input_ids, skip_special_tokens=True)
+        guessed_text = tokenizer.decode(guessed_ids, skip_special_tokens=True)
+
+        token_pairs: List[str] = []
+        for pos in masked_positions[:10]:
+            original_token = tokenizer.convert_ids_to_tokens([int(input_ids[pos])])[0]
+            guessed_token = tokenizer.convert_ids_to_tokens([int(predicted_ids[pos])])[0]
+            token_pairs.append(f"{original_token} -> {guessed_token}")
+
+        print(f"\n[{i}] Original")
+        print(f"  {original_text}")
+        print(f"[{i}] Masked input")
+        print(f"  {masked_text}")
+        print(f"[{i}] Model guess")
+        print(f"  {guessed_text}")
+        if token_pairs:
+            print(f"[{i}] Masked token guesses (original -> predicted)")
+            print(f"  {'; '.join(token_pairs)}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Quick MLM eval for MTG MiniLM on held-out Oracle text")
     parser.add_argument("--oracle-json", type=Path, default=DEFAULT_ORACLE_JSON)
@@ -91,6 +177,7 @@ def main() -> None:
     parser.add_argument("--batch-size", type=int, default=32)
     parser.add_argument("--mlm-probability", type=float, default=0.15)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--sample-count", type=int, default=3, help="Number of qualitative masked-token samples to print")
     parser.add_argument("--compare-base", action="store_true", help="Also evaluate the base model for comparison")
     args = parser.parse_args()
 
@@ -136,6 +223,16 @@ def main() -> None:
     print("\nFine-tuned model metrics")
     print(f"  eval_loss:   {tuned_metrics['eval_loss']:.4f}")
     print(f"  perplexity:  {tuned_metrics['perplexity']:.4f}")
+
+    show_masking_samples(
+        model_name_or_path=str(args.finetuned_dir),
+        tokenizer=tokenizer,
+        texts=eval_texts,
+        max_length=args.max_length,
+        mlm_probability=args.mlm_probability,
+        seed=args.seed,
+        sample_count=args.sample_count,
+    )
 
     if args.compare_base:
         print(f"\nEvaluating base model: {args.base_model}")

@@ -290,11 +290,16 @@ def parse_arena_deck_text(arena_text: str) -> tuple[list[dict], list[dict]]:
             continue
 
         lower = line.lower()
-        if lower in {"commander", "deck", "maindeck"}:
+        # MTGDecks arena export uses a Commander header before the main Deck header.
+        if lower in {"commander", "commanders"}:
+            section = "cmds"
+            continue
+        if lower in {"deck", "maindeck"}:
             section = "main"
             continue
         if lower in {"sideboard", "companion", "maybeboard"}:
-            section = "cmds"
+            # Commander is stored in cmds; ignore other sections for this schema.
+            section = "ignore"
             continue
 
         match = qty_line_re.match(line)
@@ -303,6 +308,8 @@ def parse_arena_deck_text(arena_text: str) -> tuple[list[dict], list[dict]]:
 
         qty = int(match.group(1))
         name = match.group(2).strip()
+        if section == "ignore":
+            continue
         target = main if section == "main" else cmds
         target.append({"name": name, "qty": qty})
 

@@ -25,8 +25,7 @@ DEFAULT_CALIBRATOR = HERE / "set_transformer_master_run_isotonic_calibrator.jobl
 
 SAMPLE_COMMANDERS = """1 Atraxa, Praetors' Voice"""
 
-SAMPLE_MAINBOARD = """
-1 Ajani, Sleeper Agent
+SAMPLE_MAINBOARD = """1 Ajani, Sleeper Agent
 1 Arcane Signet
 1 Astral Cornucopia
 1 Birds of Paradise

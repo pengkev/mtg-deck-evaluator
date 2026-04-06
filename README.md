@@ -10,7 +10,7 @@ This project is now focused on inference only:
 - Paste commander and main deck cards into the UI
 - Get one output: calibrated score
 
-Legacy research and data collection scripts are still in the repository, but the main user-facing workflow is the Streamlit app.
+Legacy research and data collection scripts are still in the repository on the legacy-mess branch, but the main user-facing workflow is the Streamlit app. A quick rundown of the main notebook and training run is also available on the main branch at transformer_final.html.
 
 ## Quick Start
 

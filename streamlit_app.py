@@ -43,7 +43,7 @@ SAMPLE_MAINBOARD = """1 Sol Ring
 1 Mystic Remora
 """
 
-SAMPLE_COMPANION = """""  # Optional
+SAMPLE_COMPANION = ""  # Optional
 
 
 def parse_card_lines(text: str) -> dict[str, int]:

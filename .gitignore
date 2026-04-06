@@ -9,3 +9,4 @@ data/
 .venv
 __pycache__
 mtg-minilm-mlm
+old

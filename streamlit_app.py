@@ -17,14 +17,13 @@ from score_decklist import (
 )
 
 HERE = Path(__file__).resolve().parent
-DEFAULT_CHECKPOINT = HERE / "checkpoints" / "set_transformer_master_run.pt"
-DEFAULT_EMBEDDINGS = HERE.parent / "embeddings" / "embedding-models" / "896dim_oracle_embeddings.pt"
-DEFAULT_CALIBRATOR = HERE / "checkpoints" / "set_transformer_master_run_isotonic_calibrator.joblib"
+DEFAULT_CHECKPOINT = HERE / "set_transformer_master_run.pt"
+DEFAULT_EMBEDDINGS = HERE / "896dim_oracle_embeddings.pt"
+DEFAULT_CALIBRATOR = HERE / "set_transformer_master_run_isotonic_calibrator.joblib"
 
-SAMPLE_DECK = """Commander
-1 Atraxa, Praetors' Voice
+SAMPLE_COMMANDERS = """1 Atraxa, Praetors' Voice"""
 
-1 Sol Ring
+SAMPLE_MAINBOARD = """1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Rhystic Study
@@ -71,6 +70,22 @@ def pick_device(option: str) -> str:
     return option.lower()
 
 
+def build_deck_input(commander_text: str, mainboard_text: str) -> str:
+    commander_lines = [line.strip() for line in commander_text.splitlines() if line.strip()]
+    mainboard_lines = [line.strip() for line in mainboard_text.splitlines() if line.strip()]
+
+    sections = []
+    if commander_lines:
+        sections.append("Commander")
+        sections.extend(commander_lines)
+    if mainboard_lines:
+        if sections:
+            sections.append("")
+        sections.append("Mainboard")
+        sections.extend(mainboard_lines)
+    return "\n".join(sections)
+
+
 def main() -> None:
     st.set_page_config(page_title="MTG Deck Evaluator", page_icon="cards", layout="wide")
     st.title("MTG Deck Evaluator")
@@ -88,23 +103,31 @@ def main() -> None:
 
     left, right = st.columns([2, 1])
     with left:
-        deck_text = st.text_area(
-            "Paste decklist",
-            value=SAMPLE_DECK,
-            height=420,
-            help="Use lines like '1 Sol Ring'. Add a 'Commander' header for commander lines.",
+        commander_text = st.text_area(
+            "Commander Cards",
+            value=SAMPLE_COMMANDERS,
+            height=120,
+            help="Put only commander card lines here (for example: '1 Atraxa, Praetors\' Voice').",
+        )
+        mainboard_text = st.text_area(
+            "Main Deck Cards",
+            value=SAMPLE_MAINBOARD,
+            height=300,
+            help="Use lines like '1 Sol Ring' or 'Card Name' (defaults to qty 1).",
         )
     with right:
         st.markdown("### Input Format")
         st.write("- `1 Card Name`")
         st.write("- `1x Card Name`")
         st.write("- `Card Name` (defaults to qty 1)")
-        st.write("- Use `Commander` section header for commander entries")
+        st.write("- Commander entries go in the Commander Cards box")
 
     score_clicked = st.button("Score Deck", type="primary", use_container_width=True)
 
     if not score_clicked:
         return
+
+    deck_text = build_deck_input(commander_text, mainboard_text)
 
     if not deck_text.strip():
         st.error("Provide a decklist before scoring.")
@@ -139,30 +162,12 @@ def main() -> None:
             )
 
         deck_obj = parse_plaintext_decklist(deck_text)
-        prepared = pipeline.prepare_deck(deck_obj)
         scores = pipeline.score_deck_obj(deck_obj)
     except Exception as exc:
         st.exception(exc)
         return
 
-    metric_cols = st.columns(3)
-    metric_cols[0].metric("Calibrated Score", f"{scores['calibrated_score']:.3f}")
-    metric_cols[1].metric("Bounded Score (1-5)", f"{scores['bounded_score']:.3f}")
-    metric_cols[2].metric("Raw Score", f"{scores['raw_score']:.3f}")
-
-    st.markdown("### Deck Diagnostics")
-    diag_left, diag_right = st.columns(2)
-    diag_left.write(f"Mainboard cards (input qty sum): {prepared.num_main_cards}")
-    diag_left.write(f"Commander cards (input qty sum): {prepared.num_commander_cards}")
-    diag_left.write(f"Unique normalized card-role entries used: {prepared.unique_normalized_cards}")
-
-    diag_right.write(f"Unknown cards (OOV): {len(prepared.unknown_cards)}")
-    diag_right.write(f"Truncated entries (> max deck len): {prepared.truncated_triplets}")
-    diag_right.write(f"Inference device: {resolved_device}")
-
-    if prepared.unknown_cards:
-        st.warning("Some cards were not found in the model vocabulary and were mapped to <UNK>.")
-        st.code("\n".join(prepared.unknown_cards[:40]), language="text")
+    st.metric("Calibrated Score", f"{scores['calibrated_score']:.3f}")
 
 
 if __name__ == "__main__":

@@ -95,6 +95,7 @@ def parse_plaintext_decklist(decklist_text: str) -> Dict[str, Any]:
 
     Section headers recognized:
     - "Commander" / "Commanders"
+    - "Mainboard" / "Main" / "Deck" / "Cards" / "99"
     """
     cards: Dict[str, int] = {}
     commanders: Dict[str, int] = {}
@@ -110,6 +111,9 @@ def parse_plaintext_decklist(decklist_text: str) -> Dict[str, Any]:
         lower = line.lower().rstrip(":")
         if lower in {"commander", "commanders"}:
             in_commander = True
+            continue
+        if lower in {"mainboard", "main", "deck", "cards", "99"}:
+            in_commander = False
             continue
 
         m = qty_name_re.match(line)

@@ -2,6 +2,8 @@
 
 Streamlit app for scoring EDH decklists with a trained SetTransformer model.
 
+Check it out at https://mtg-deck-evaluator.streamlit.app/
+
 ## What This Repo Is Now
 
 This project is now focused on inference only:

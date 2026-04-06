@@ -1,7 +1,0 @@
-{
-  "val_uncalibrated_mae": 1.038411259651184,
-  "val_calibrated_mae": 0.5270459651947021,
-  "val_uncalibrated_rmse": 1.2469816207885742,
-  "val_calibrated_rmse": 0.7362020015716553,
-  "save_path": "checkpoints/set_transformer_master_run_isotonic_calibrator.joblib"
-}

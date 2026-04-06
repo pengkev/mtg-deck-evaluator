@@ -1,15 +1,4 @@
-pandas
-matplotlib
-playwright
-gensim
-requests
-beautifulsoup4
-cloudscraper
-python-dotenv
+streamlit
+torch
 numpy
 scikit-learn
-torch
-transformers
-datasets
-accelerate
-streamlit

@@ -46,10 +46,17 @@ Open the local URL shown by Streamlit in your terminal.
 
 ## Using the App
 
-The app has two input boxes:
+The app has three input boxes:
 
 - Commander Cards
+- Companion (optional)
 - Main Deck Cards
+
+Card-count rules enforced by the UI:
+
+- Non-partner commander: exactly 1 commander card + 99 main deck cards
+- Partner commanders: exactly 2 commander cards + 98 main deck cards
+- Companion is optional and must be exactly one card (qty 1). It does not change the 100-card requirement, but it is appended into the model input behind the scenes.
 
 Supported line formats:
 

@@ -17,7 +17,7 @@ import re
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Callable, Dict, List, Optional, Tuple
 
 import numpy as np
 import torch
@@ -34,6 +34,8 @@ UNK_TOKEN = "<UNK>"
 MASK_TOKEN = "<MASK>"
 MAX_DECK_LEN = 115
 MAX_QTY_EMBED = 50
+
+ProgressCallback = Callable[[str, int, int, str], None]
 
 
 def normalize_card_name(name: str) -> str:
@@ -266,7 +268,7 @@ class LoadedPipeline:
     max_deck_len: int
     device: torch.device
 
-    def prepare_deck(self, deck_obj: Dict[str, Any]) -> "PreparedDeck":
+    def prepare_deck(self, deck_obj: Dict[str, Any], progress_callback: Optional[ProgressCallback] = None) -> "PreparedDeck":
         triplets = extract_card_qty_role_triplets(deck_obj)
         if not triplets:
             raise ValueError("Deck has no valid cards after parsing/normalization")
@@ -280,6 +282,11 @@ class LoadedPipeline:
         unknown_cards: List[str] = []
 
         for card_name, qty, role in selected_triplets:
+            if progress_callback is not None:
+                try:
+                    progress_callback("vectorize", len(card_ids) + 1, len(selected_triplets), str(card_name))
+                except Exception:
+                    progress_callback = None
             card_id = self.vocab.get(card_name, self.unk_token_id)
             card_ids.append(card_id)
             qty_ids.append(max(1, min(int(qty), self.max_qty_embed)))
@@ -308,18 +315,29 @@ class LoadedPipeline:
         )
 
     @torch.no_grad()
-    def score_deck_obj(self, deck_obj: Dict[str, Any]) -> Dict[str, float]:
-        prepared = self.prepare_deck(deck_obj)
+    def score_deck_obj(self, deck_obj: Dict[str, Any], progress_callback: Optional[ProgressCallback] = None) -> Dict[str, float]:
+        prepared = self.prepare_deck(deck_obj, progress_callback=progress_callback)
 
         batch_card_ids = torch.tensor([prepared.card_ids], dtype=torch.long, device=self.device)
         batch_qty_ids = torch.tensor([prepared.qty_ids], dtype=torch.long, device=self.device)
         batch_role_ids = torch.tensor([prepared.role_ids], dtype=torch.long, device=self.device)
         batch_mask = torch.tensor([prepared.mask], dtype=torch.bool, device=self.device)
 
+        if progress_callback is not None:
+            try:
+                progress_callback("model", 0, 0, "Running model")
+            except Exception:
+                progress_callback = None
+
         raw_score = float(self.model.forward_raw(batch_card_ids, batch_qty_ids, batch_role_ids, batch_mask).item())
         bounded_score = float(self.model(batch_card_ids, batch_qty_ids, batch_role_ids, batch_mask).item())
 
         if self.calibrator is not None:
+            if progress_callback is not None:
+                try:
+                    progress_callback("calibrate", 0, 0, "Applying calibrator")
+                except Exception:
+                    progress_callback = None
             calibrated_score = float(self.calibrator.predict([raw_score])[0])
         else:
             calibrated_score = bounded_score

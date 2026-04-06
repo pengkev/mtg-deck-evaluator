@@ -12,3 +12,4 @@ torch
 transformers
 datasets
 accelerate
+streamlit

@@ -1,0 +1,38 @@
+[
+  {
+    "deck": "cedh_blue_farm_reference",
+    "predicted_score": 3.0488669872283936,
+    "expected_range": [
+      4.6,
+      5.0
+    ],
+    "within_range": false
+  },
+  {
+    "deck": "low_bracket_reference_supervised",
+    "predicted_score": 2.550442695617676,
+    "expected_range": [
+      1.8,
+      3.0
+    ],
+    "within_range": true
+  },
+  {
+    "deck": "gameknights_episode84_reference",
+    "predicted_score": 2.852201223373413,
+    "expected_range": [
+      2.8,
+      3.9
+    ],
+    "within_range": true
+  },
+  {
+    "deck": "trap_no_lands_full_100",
+    "predicted_score": 2.917642593383789,
+    "expected_range": [
+      1.0,
+      2.4
+    ],
+    "within_range": false
+  }
+]

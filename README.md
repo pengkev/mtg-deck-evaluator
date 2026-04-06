@@ -81,13 +81,13 @@ Decklists scraped from **Moxfield** (user self-tagged brackets 1–5) and **MTGT
 
 ## Repository Layout
 
-| Path                        | Purpose                                                  |
-| --------------------------- | -------------------------------------------------------- |
-| `data/`                     | Raw and processed datasets, model artifacts, checkpoints |
-| `helpers/`                  | Data scraping and preprocessing scripts                  |
-| `models/baseline/`          | Price-based baseline model and saved results             |
-| `models/item2vec-deepsets/` | Primary deep learning model (notebook + weights)         |
-| `models/set-transformer/`   | Placeholder for next architecture experiments            |
+| Path                        | Purpose                                                     |
+| --------------------------- | ----------------------------------------------------------- |
+| `data/`                     | Raw and processed datasets, model artifacts, checkpoints    |
+| `helpers/`                  | Data scraping and preprocessing scripts                     |
+| `models/baseline/`          | Price-based baseline model and saved results                |
+| `models/item2vec-deepsets/` | Primary deep learning model (notebook + weights)            |
+| `models/set-transformer/`   | SetTransformer training notebooks, scorer CLI, Streamlit UI |
 
 ---
 
@@ -164,6 +164,23 @@ python baseline.py ... --no-viz
 ```
 
 Outputs: console report, `result.json`, and distribution plots.
+
+### Score a deck with SetTransformer (CLI)
+
+```bash
+cd models/set-transformer
+python score_decklist.py --decklist-file path/to/deck.txt
+```
+
+Input format supports lines like `1 Sol Ring`, `1x Sol Ring`, and section header `Commander`.
+
+### Launch Streamlit app for interactive scoring
+
+```bash
+streamlit run models/set-transformer/streamlit_app.py
+```
+
+The app lets you paste decklists, choose model artifact paths, and inspect vocabulary misses (`<UNK>` cards) alongside calibrated scores.
 
 ---
 

@@ -1,0 +1,5 @@
+deck,expected_hi,expected_lo,expected_mid,outside_distance,predicted_score,within_range
+cedh_blue_farm_reference,5.0,4.6,4.8,1.551133012771606,3.0488669872283936,False
+low_bracket_reference_supervised,3.0,1.8,2.4,0.0,2.550442695617676,True
+gameknights_episode84_reference,3.9,2.8,3.3499999999999996,0.0,2.852201223373413,True
+trap_no_lands_full_100,2.4,1.0,1.7,0.5176425933837892,2.917642593383789,False

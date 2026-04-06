@@ -1,0 +1,170 @@
+[
+  {
+    "trial": 1,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.1,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": -0.054357849061489105,
+    "best_val_loss": 0.16714142886075106,
+    "final_tau": -0.054357849061489105,
+    "final_val_loss": 0.19362714019688693,
+    "composite_score": -0.06271492050452666
+  },
+  {
+    "trial": 2,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.1,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.11030413210391998,
+    "best_val_loss": 0.21107833575118673,
+    "final_tau": 0.11030413210391998,
+    "final_val_loss": 0.21107833575118673,
+    "composite_score": 0.09975021531636065
+  },
+  {
+    "trial": 3,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.2,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": -0.0733567327260971,
+    "best_val_loss": 0.18014090277931907,
+    "final_tau": -0.0733567327260971,
+    "final_val_loss": 0.22005374824458904,
+    "composite_score": -0.08236377786506306
+  },
+  {
+    "trial": 4,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.2,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.09458143264055252,
+    "best_val_loss": 0.2161425690759312,
+    "final_tau": 0.09458143264055252,
+    "final_val_loss": 0.2161425690759312,
+    "composite_score": 0.08377430418675597
+  },
+  {
+    "trial": 5,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.3,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": 0.08194930851459503,
+    "best_val_loss": 0.22532583326101302,
+    "final_tau": 0.08194930851459503,
+    "final_val_loss": 0.26636508947068993,
+    "composite_score": 0.07068301685154438
+  },
+  {
+    "trial": 6,
+    "config": {
+      "margin": 0.1,
+      "delta": 1.0,
+      "dropout": 0.3,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.07395604252815247,
+    "best_val_loss": 0.22991957041350278,
+    "final_tau": 0.07395604252815247,
+    "final_val_loss": 0.25525108033960514,
+    "composite_score": 0.06246006400747733
+  },
+  {
+    "trial": 7,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.1,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": 0.0930815115571022,
+    "best_val_loss": 0.1735116645693779,
+    "final_tau": 0.0930815115571022,
+    "final_val_loss": 0.1735116645693779,
+    "composite_score": 0.0844059283286333
+  },
+  {
+    "trial": 8,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.1,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.08746057748794556,
+    "best_val_loss": 0.18781805715777658,
+    "final_tau": 0.08746057748794556,
+    "final_val_loss": 0.18781805715777658,
+    "composite_score": 0.07806967463005673
+  },
+  {
+    "trial": 9,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.2,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": 0.025510597974061966,
+    "best_val_loss": 0.17423453642563386,
+    "final_tau": 0.025510597974061966,
+    "final_val_loss": 0.19354172227057545,
+    "composite_score": 0.016798871152780274
+  },
+  {
+    "trial": 10,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.2,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.07827520370483398,
+    "best_val_loss": 0.1700094777074727,
+    "final_tau": 0.07827520370483398,
+    "final_val_loss": 0.18623096238483083,
+    "composite_score": 0.06977472981946035
+  },
+  {
+    "trial": 11,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.3,
+      "lr_phase3": 5e-05
+    },
+    "best_tau": 0.09782848507165909,
+    "best_val_loss": 0.23436763151125475,
+    "final_tau": 0.09782848507165909,
+    "final_val_loss": 0.23436763151125475,
+    "composite_score": 0.08611010349609635
+  },
+  {
+    "trial": 12,
+    "config": {
+      "margin": 0.1,
+      "delta": 0.75,
+      "dropout": 0.3,
+      "lr_phase3": 1e-05
+    },
+    "best_tau": 0.07309748232364655,
+    "best_val_loss": 0.18433685370466926,
+    "final_tau": 0.07309748232364655,
+    "final_val_loss": 0.19686357135122473,
+    "composite_score": 0.06388063963841309
+  }
+]

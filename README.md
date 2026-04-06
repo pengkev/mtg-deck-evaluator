@@ -84,7 +84,6 @@ You can also pipe deck text via stdin.
 - `streamlit_app.py`: Streamlit UI for deck scoring
 - `score_decklist.py`: SetTransformer inference pipeline and parser
 - `requirements.txt`: Python dependencies
-- `old/`, `helpers/`, `models/`: legacy project assets and experiments
 
 ## Data and Credit
 
